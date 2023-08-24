@@ -21,7 +21,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade pip
-        pip install feedgenerator beautifulsoup4 requests feedparser # ここにfeedparser追加
+        pip install feedgenerator beautifulsoup4 requests # ここ、feedparserじゃなくてfeedgenerator
 
     - name: Generate RSS feed
       run: python makeRSS_Ledge.ai.py
