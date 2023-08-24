@@ -10,11 +10,13 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.MY_SECRET_TOKEN }} # トークンを設定
 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.8' # Pythonバージョンを3.8に設定
+        python-version: '3.8'
 
     - name: Install dependencies
       run: |
@@ -23,9 +25,11 @@ jobs:
 
     - name: Generate RSS feed
       run: python makeRSS_Ledge.ai.py
-      
-    - name: Upload RSS feed
-      uses: actions/upload-artifact@v2
-      with:
-        name: feed
-        path: feed.xml
+
+    - name: Commit and push feed.xml
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add feed.xml
+        git commit -m "Update feed.xml"
+        git push origin HEAD:${{ github.ref }} # トークンを使ってプッシュ
