@@ -1,6 +1,7 @@
 import re
 from datetime import datetime
 import requests
+from xml.dom.minidom import parseString
 from feedgenerator import Rss201rev2Feed
 
 def create_rss_feed(url):
@@ -36,14 +37,20 @@ def create_rss_feed(url):
         article_url = "https://ledge.ai/articles/" + slug
 
         feed.add_item(
-            title=article_url,  # タイトルとしてURLを使用
+            title=article_url,
             link=article_url,
             pubdate=date,
             description=content,
         )
 
-    # RSSフィードを文字列として返す
-    return feed.writeString('utf-8')
+    # XML文字列を生成
+    xml_str = feed.writeString('utf-8')
+
+    # XMLを整形
+    dom = parseString(xml_str)
+    pretty_xml_str = dom.toprettyxml(indent="  ")
+
+    return pretty_xml_str
 
 # URL
 url = 'https://ledge.ai/'
