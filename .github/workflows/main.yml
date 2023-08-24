@@ -11,7 +11,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        token: ${{ secrets.MY_SECRET_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -21,7 +21,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade pip
-        pip install feedgenerator beautifulsoup4
+        pip install feedgenerator beautifulsoup4 requests # ここにrequests追加
 
     - name: Generate RSS feed
       run: python makeRSS_Ledge.ai.py
