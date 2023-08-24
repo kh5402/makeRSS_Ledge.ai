@@ -22,8 +22,8 @@ jobs:
         pip install feedgenerator
 
     - name: Generate RSS feed
-      run: python your_script_name.py # スクリプトの名前を適切に変更する
-
+      run: python makeRSS_Ledge.ai.py
+      
     - name: Upload RSS feed
       uses: actions/upload-artifact@v2
       with:
