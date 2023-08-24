@@ -19,7 +19,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade pip
-        pip install feedgenerator
+        pip install feedgenerator requests
 
     - name: Generate RSS feed
       run: python makeRSS_Ledge.ai.py
