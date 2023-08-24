@@ -41,6 +41,6 @@ for link in article_links:
 
 # XMLをファイルに保存
 tree = ET.ElementTree(root)
-tree.write("articles.xml")
+tree.write("feed.xml")
 
 print(f"合計 {len(article_links)} 記事を取得し、XMLファイルに保存しました。")
