@@ -1,7 +1,7 @@
 import re
 from datetime import datetime
 import requests
-import feedgenerator
+from feedgenerator import Rss201rev2Feed
 
 def create_rss_feed(url):
     # URLからHTMLを取得
@@ -12,7 +12,7 @@ def create_rss_feed(url):
     articles_data = text.split('slug:"')[1:]
 
     # RSSフィードを生成
-    feed = feedgenerator.Rss201rev2Feed(
+    feed = Rss201rev2Feed(
         title="Ledge.ai Articles",
         link=url,
         description="Latest articles from Ledge.ai",
@@ -20,17 +20,17 @@ def create_rss_feed(url):
 
     for article_data in articles_data:
         # スラグを抽出
-        slug_pattern = re.compile(r'(.*?)"')
-        slug = slug_pattern.search(article_data).group(1)
+        slug_match = re.search(r'(.*?)"', article_data)
+        slug = slug_match.group(1) if slug_match else ""
 
         # 日付を抽出
-        date_pattern = re.compile(r'scheduled_at:"(.*?)"')
-        date_str = date_pattern.search(article_data).group(1)
-        date = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        date_match = re.search(r'scheduled_at:"(.*?)"', article_data)
+        date_str = date_match.group(1) if date_match else ""
+        date = datetime.fromisoformat(date_str.replace("Z", "+00:00")) if date_str else None
 
         # コンテンツを抽出
-        content_pattern = re.compile(r'content:"(.*?)"')
-        content = content_pattern.search(article_data).group(1)
+        content_match = re.search(r'content:"(.*?)"', article_data)
+        content = content_match.group(1) if content_match else ""
 
         # URLを構築
         article_url = "https://ledge.ai/articles/" + slug
