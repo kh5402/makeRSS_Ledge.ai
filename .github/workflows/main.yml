@@ -11,7 +11,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        token: ${{ secrets.MY_SECRET_TOKEN }} # トークンを設定
+        token: ${{ secrets.MY_SECRET_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -21,7 +21,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade pip
-        pip install feedgenerator requests
+        pip install feedgenerator beautifulsoup4
 
     - name: Generate RSS feed
       run: python makeRSS_Ledge.ai.py
@@ -32,4 +32,4 @@ jobs:
         git config --global user.email 'action@github.com'
         git add feed.xml
         git commit -m "Update feed.xml"
-        git push origin HEAD:${{ github.ref }} # トークンを使ってプッシュ
+        git push origin HEAD:${{ github.ref }}
