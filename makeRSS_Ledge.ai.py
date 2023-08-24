@@ -11,6 +11,7 @@ html_content = response.text
 
 # BeautifulSoupで解析
 soup = BeautifulSoup(html_content, 'html.parser')
+print(soup)
 
 # RSSフィードを生成
 feed = Rss201rev2Feed(
