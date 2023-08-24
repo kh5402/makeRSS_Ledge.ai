@@ -1,7 +1,7 @@
 name: Generate RSS Feed
 
 on:
-  workflow_dispatch: # この部分で手動実行を可能にする
+  workflow_dispatch:
 
 jobs:
   generate-rss:
@@ -14,10 +14,12 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
+        python-version: '3.8' # Pythonバージョンを3.8に設定
 
     - name: Install dependencies
-      run: pip install django-feedgenerator
+      run: |
+        pip install --upgrade pip
+        pip install feedgenerator
 
     - name: Generate RSS feed
       run: python your_script_name.py # スクリプトの名前を適切に変更する
