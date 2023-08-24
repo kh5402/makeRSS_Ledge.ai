@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import feedparser
 
 url = 'https://ledge.ai/'
 
