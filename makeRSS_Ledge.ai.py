@@ -37,10 +37,36 @@ async def main():
 
     # "data"キーの中にある"articles"キーの"data"キーの値を取得
     articles = nuxt_data["data"]["/categories/business"]["articles"]["data"]
-
+    
+    # RSSフィードの初期化
+    feed = Rss201rev2Feed(
+        title="Ledge.aiビジネスカテゴリ",
+        link=getURL,
+        description="Ledge.aiのビジネスカテゴリの最新記事",
+    )
+    
     # 12個のデータを取得 ➡ 1ページに12個の記事あるから。
     for article in articles[:12]:
-        print(article)  # ここで各記事のデータをプリント
-    
+        title = article['attributes']['title']
+        date_str = article['attributes']['createdAt']
+        date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+        date_formatted = date_obj.strftime("%Y/%m/%d %H:%M")
+        url = "https://ledge.ai/articles/" + article['attributes']['slug']
+        description = re.sub(r'\[.*?\]\(.*?\)', '', article['attributes']['contents'][0]['content'])
+
+         # アイテムをフィードに追加
+        feed.add_item(
+            title=title,
+            link=url,
+            description=description,
+            pubdate=date_obj
+        )
+
+    # RSSフィードをファイルに書き出し
+    with open('feed.xml', 'w') as f:
+        feed.write(f, 'utf-8')
+
+    print("RSSフィードが生成されました。")
+
 # 非同期関数を実行
 asyncio.get_event_loop().run_until_complete(main())
