@@ -31,20 +31,17 @@ async def main():
         
     # BeautifulSoupで解析
     soup = BeautifulSoup(html, 'html.parser')
-
-    #print(soup)
-
     
     # window.__NUXT__の内容を取得
-    nuxt_data = json.dumps(await page.evaluate('() => window.__NUXT__'))
+    nuxt_data = await page.evaluate('() => JSON.stringify(window.__NUXT__)')
 
     # 'data': [{ が最初に出てくる位置を見つける
-    start_index = nuxt_data.find('"data": [')
+    start_index = nuxt_data.find('"data": [{')
     # その位置より前の部分を削除
     nuxt_data = nuxt_data[start_index:]
     # 文字列を再びJSONオブジェクトに変換
     nuxt_data = json.loads(nuxt_data)
-    
+
     print(nuxt_data)
     
 # 非同期関数を実行
