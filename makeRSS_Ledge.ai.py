@@ -4,6 +4,7 @@ import requests
 from datetime import datetime
 import asyncio
 import json
+import re
 from pyppeteer import launch
 
 getURL = 'https://ledge.ai/categories/business/'
