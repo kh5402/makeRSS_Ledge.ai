@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from feedgenerator import Rss201rev2Feed
 import requests
-import datetime
+from datetime import datetime
 import asyncio
 import json
 from pyppeteer import launch
