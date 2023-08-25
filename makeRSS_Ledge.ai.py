@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 from feedgenerator import Rss201rev2Feed
+import datetime
 
 url = 'https://ledge.ai/'
 
@@ -8,7 +9,7 @@ response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 
 # 記事へのリンクを取得
-article_links = [a['href'] for a in soup.find_all('a', href=True) if '/articles/' in a['href']]
+article_links = [a['href'] for a in soup.find_all('a', class_='entry-title-link', href=True)]
 
 # 重複を取り除く
 article_links = list(set(article_links))
@@ -33,7 +34,7 @@ for link in article_links:
 
     # 日付
     date_tag = article_soup.find('meta', attrs={'property': 'article:published_time'})
-    date = date_tag['content'] if date_tag else "日付が見つかりません"
+    date = datetime.datetime.fromisoformat(date_tag['content']) if date_tag else "日付が見つかりません"
 
     # RSSエントリーに記事情報を追加
     feed.add_item(
