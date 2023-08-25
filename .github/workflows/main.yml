@@ -1,35 +1,62 @@
 name: スクリプト実行
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # 毎日12時に実行
-  workflow_dispatch: # 手動実行の追加
+  #schedule:
+    # 日本時間で10時から25時（協定世界時で毎日、1時から4時、10時から16時）まで3時間ごとに実行
+  #  - cron: '0 1-4/3,10-16/3 * * *' 
+
+  # 手動実行の追加
+  workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: リポジトリをチェックアウト
+    - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.MY_SECRET_TOKEN }}
 
-    - name: Pythonをセットアップ
-      uses: actions/setup-python@v2
+    - name: Set up Python
+      uses: actions/setup-python@v3
       with:
         python-version: '3.x'
 
-    - name: 依存関係をインストール
-      run: pip install -r requirements.txt
+    - name: Install dependencies
+      run: |
+        pip3 install -r requirements.txt
 
-    - name: スクリプトを実行
-      run: python makeRSS_Ledge.ai.py
+    - name: Install Pyppeteer dependencies
+      run: |
+        sudo apt-get install -y libx11-xcb1 libxrandr2 libasound2 libpangocairo-1.0-0 libatk1.0-0 libatk-bridge2.0-0 libgtk-3-0
+      
+    - name: Install Chromium
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser
 
-    - name: XMLファイルをコミット
+    - name: Cache Chromium
+      uses: actions/cache@v2
+      with:
+        path: ~/.local/share/pyppeteer/local-chromium/
+        key: ${{ runner.os }}-chromium-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-chromium-
+
+    - name: Debug Chromium Path
+      run: |
+        find ~/ -name "local-chromium" -type d
+        which chromium-browser # パスを表示するコマンド
+
+    - name: Run Pyppeteer Script
+      run: python3 makeRSS_Ledge.ai.py
+      timeout-minutes: 10
+
+    - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add feed.xml
-        git commit -m "XMLファイルの更新"
+        git commit -m "Update schedule RSS feed" || exit 0 # 変更がない場合はエラーを無視
         git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.MY_SECRET_TOKEN }}
