@@ -44,6 +44,8 @@ async def main():
         title="Ledge.aiビジネスカテゴリ",
         link=getURL,
         description="Ledge.aiのビジネスカテゴリの最新記事",
+        language="ja",
+        pretty=True
     )
     
     # 12個のデータを取得 ➡ 1ページに12個の記事あるから。
