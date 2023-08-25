@@ -34,15 +34,16 @@ async def main():
     
     # window.__NUXT__の内容を取得
     nuxt_data = await page.evaluate('() => JSON.stringify(window.__NUXT__)')
+    print(nuxt_data)
 
     # 'data': [{ が最初に出てくる位置を見つける
     start_index = nuxt_data.find('"data": [{')
     # その位置より前の部分を削除
-    nuxt_data = nuxt_data[start_index:]
+    nuxt_data2 = nuxt_data[start_index:]
     # 文字列を再びJSONオブジェクトに変換
-    nuxt_data = json.loads(nuxt_data)
+    nuxt_data3 = json.loads(nuxt_data2)
 
-    print(nuxt_data)
+    print(nuxt_data3)
     
 # 非同期関数を実行
 asyncio.get_event_loop().run_until_complete(main())
