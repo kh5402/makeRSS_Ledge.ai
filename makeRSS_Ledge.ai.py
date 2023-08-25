@@ -8,14 +8,15 @@ response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 
 # 新着記事の部分を取得
-new_articles_section = soup.find_all('div', class_='flex flex-col gap-6')[1]
+new_articles_section = soup.find('section', {'id': 'new-articles'})
 
 # 記事のタイトルとリンクを取得
 articles = []
-for article in new_articles_section.find_all('div', class_='flex flex-col gap-6'):
+for article in new_articles_section.find_all('h2'):
     title = article.text.strip()
     link = article.find('a')['href']
     articles.append((title, link))
+
 
 feed = Rss201rev2Feed(
     title='Ledge.aiの最新記事',
