@@ -3,6 +3,7 @@ from feedgenerator import Rss201rev2Feed
 import requests
 import datetime
 import asyncio
+import json
 from pyppeteer import launch
 
 getURL = 'https://ledge.ai/'
@@ -35,7 +36,15 @@ async def main():
 
     
     # window.__NUXT__の内容を取得
-    nuxt_data = await page.evaluate('() => window.__NUXT__')
+    nuxt_data = json.dumps(await page.evaluate('() => window.__NUXT__'))
+
+    # 'data': [{ が最初に出てくる位置を見つける
+    start_index = nuxt_data.find('"data": [')
+    # その位置より前の部分を削除
+    nuxt_data = nuxt_data[start_index:]
+    # 文字列を再びJSONオブジェクトに変換
+    nuxt_data = json.loads(nuxt_data)
+    
     print(nuxt_data)
     
 # 非同期関数を実行
