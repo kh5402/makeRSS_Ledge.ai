@@ -1,4 +1,4 @@
-name: スクリプト実行
+name: Run Schedule Scraper
 
 on:
   #schedule:
