@@ -33,7 +33,7 @@ async def main():
     soup = BeautifulSoup(html, 'html.parser')
     
     # window.__NUXT__の内容を取得
-    nuxt_data = await page.evaluate('() => window.__NUXT__')
+    nuxt_data = await page.evaluate('() => JSON.stringify(window.__NUXT__)')
     print(nuxt_data)
 
 
