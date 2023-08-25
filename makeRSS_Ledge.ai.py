@@ -1,23 +1,11 @@
-import requests
-from bs4 import BeautifulSoup
-
-url = 'https://ledge.ai/'
-
-response = requests.get(url)
-soup = BeautifulSoup(response.content, 'html.parser')
-
-# 記事へのリンクを取得
-article_links = [a['href'] for a in soup.find_all('a', href=True) if '/articles/' in a['href']]
-
-# 重複を取り除く
-article_links = list(set(article_links))
-
-print(article_links)
+from feedgenerator import Rss201rev2Feed
 
 # RSSフィードを作成
-feed = feedparser.FeedParserDict()
-feed['feed'] = {'title': 'Ledge.aiの最新記事', 'link': url, 'description': 'Ledge.aiの最新記事のRSSフィード'}
-feed['entries'] = []
+feed = Rss201rev2Feed(
+    title='Ledge.aiの最新記事',
+    link=url,
+    description='Ledge.aiの最新記事のRSSフィード'
+)
 
 # 各記事から詳細を取得
 for link in article_links:
@@ -36,16 +24,15 @@ for link in article_links:
     date = date_tag['content'] if date_tag else "日付が見つかりません"
 
     # RSSエントリーに記事情報を追加
-    entry = {
-        'title': title,
-        'link': link,
-        'description': description,
-        'published': date
-    }
-    feed['entries'].append(entry)
+    feed.add_item(
+        title=title,
+        link=link,
+        description=description,
+        pubdate=date
+    )
 
 # RSSファイルに保存
 with open('feed.xml', 'w', encoding='utf-8') as file:
-    file.write(feedparser.dumps(feed))
+    feed.write(file)
 
 print(f"合計 {len(article_links)} 記事を取得し、RSSファイルに保存しました。")
