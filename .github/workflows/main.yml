@@ -1,35 +1,35 @@
-name: Generate RSS Feed
+name: スクリプト実行
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *' # 毎日12時に実行
+  workflow_dispatch: # 手動実行の追加
 
 jobs:
-  generate-rss:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: リポジトリをチェックアウト
       uses: actions/checkout@v2
-      with:
-        token: ${{ secrets.MY_SECRET_TOKEN }}
 
-    - name: Set up Python
+    - name: Pythonをセットアップ
       uses: actions/setup-python@v2
       with:
-        python-version: '3.8'
+        python-version: '3.x'
 
-    - name: Install dependencies
+    - name: 依存関係をインストール
+      run: pip install -r requirements.txt
+
+    - name: スクリプトを実行
+      run: python あんたのスクリプト.py
+
+    - name: XMLファイルをコミット
       run: |
-        pip install --upgrade pip
-        pip install feedgenerator beautifulsoup4 requests # ここ、feedparserじゃなくてfeedgenerator
-
-    - name: Generate RSS feed
-      run: python makeRSS_Ledge.ai.py
-
-    - name: Commit and push feed.xml
-      run: |
-        git config --global user.name 'GitHub Action'
-        git config --global user.email 'action@github.com'
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add feed.xml
-        git commit -m "Update feed.xml"
-        git push origin HEAD:${{ github.ref }}
+        git commit -m "XMLファイルの更新"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
