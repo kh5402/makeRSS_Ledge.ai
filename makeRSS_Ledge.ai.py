@@ -6,7 +6,7 @@ import asyncio
 import json
 from pyppeteer import launch
 
-getURL = 'https://ledge.ai/'
+getURL = 'https://ledge.ai/categories/business/'
 
 async def main():
 
