@@ -1,4 +1,8 @@
+import requests
+from bs4 import BeautifulSoup
 from feedgenerator import Rss201rev2Feed
+
+url = 'https://ledge.ai/'
 
 # RSSフィードを作成
 feed = Rss201rev2Feed(
