@@ -7,7 +7,7 @@ from pyppeteer import launch
 
 getURL = 'https://ledge.ai/'
 
-async def get_nuxt_data():
+async def main():
 
     # Pyppeteerでブラウザを開く
     browser = await launch(
@@ -31,12 +31,12 @@ async def get_nuxt_data():
     # BeautifulSoupで解析
     soup = BeautifulSoup(html, 'html.parser')
 
+    print(soup)
+
     
     # window.__NUXT__の内容を取得
     nuxt_data = await page.evaluate('() => window.__NUXT__')
+    print(nuxt_data)
     
 # 非同期関数を実行
-nuxt_data = asyncio.get_event_loop().run_until_complete(get_nuxt_data())
-
-# 取得したデータを使って何かする
-print(nuxt_data)
+asyncio.get_event_loop().run_until_complete(main())
