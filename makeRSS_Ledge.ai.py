@@ -34,7 +34,6 @@ async def main():
     
     # window.__NUXT__の内容を取得してJSONデータをPythonの辞書に変換
     nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
-    print(nuxt_data)
 
     # "data"キーの中にある"articles"キーの"data"キーの値を取得
     articles = nuxt_data["data"]["/categories/business"]["articles"]["data"]
