@@ -22,7 +22,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: スクリプトを実行
-      run: python あんたのスクリプト.py
+      run: python makeRSS_Ledge.ai.py
 
     - name: XMLファイルをコミット
       run: |
@@ -32,4 +32,4 @@ jobs:
         git commit -m "XMLファイルの更新"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.MY_SECRET_TOKEN }}
