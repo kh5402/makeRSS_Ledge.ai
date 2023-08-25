@@ -32,11 +32,16 @@ async def main():
     # BeautifulSoupで解析
     soup = BeautifulSoup(html, 'html.parser')
     
-    # window.__NUXT__の内容を取得
-    nuxt_data = await page.evaluate('() => JSON.stringify(window.__NUXT__)')
+    # window.__NUXT__の内容を取得してJSONデータをPythonの辞書に変換
+    nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
     print(nuxt_data)
 
+    # "data"キーの中にある"articles"キーの"data"キーの値を取得
+    articles = nuxt_data["data"]["/categories/business"]["articles"]["data"]
 
+    # 12個のデータを取得 ➡ 1ページに12個の記事あるから。
+    for article in articles[:12]:
+        print(article)  # ここで各記事のデータをプリント
     
 # 非同期関数を実行
 asyncio.get_event_loop().run_until_complete(main())
