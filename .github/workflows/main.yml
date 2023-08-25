@@ -1,12 +1,10 @@
 name: Run Schedule Scraper
 
 on:
-  #schedule:
-    # 日本時間で10時から25時（協定世界時で毎日、1時から4時、10時から16時）まで3時間ごとに実行
-  #  - cron: '0 1-4/3,10-16/3 * * *' 
-
-  # 手動実行の追加
-  workflow_dispatch:
+  workflow_dispatch: # これで手動実行ができるようになる
+  schedule:
+    # 日本時間（協定世界時+9時間）で9時から21時(協定世界時で0時から12時)までの偶数時、2時間ごとに実行
+    - cron: '0 0,2,4,6,8,10,12 * * *' 
 
 jobs:
   run-script:
