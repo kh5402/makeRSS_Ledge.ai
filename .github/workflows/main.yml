@@ -53,19 +53,19 @@ jobs:
       run: python3 makeRSS_Ledge.ai.py
       timeout-minutes: 10
 
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git stash # 変更を一時的に退避させる
-        git pull --rebase # リモートリポジトリの変更を取り込む
-        git stash pop # 退避させた変更を戻す
-        git add feed.xml
-        git commit -m "Update schedule RSS feed" || exit 0 # 変更がない場合はエラーを無視
-        git push
-      shell: /usr/bin/bash -e {0}
-      env:
-        pythonLocation: /opt/hostedtoolcache/Python/3.11.4/x64
-        LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.4/x64/lib
+    #- name: Commit and push changes
+    #  run: |
+    #    git config --local user.email "action@github.com"
+    #    git config --local user.name "GitHub Action"
+    #    git stash # 変更を一時的に退避させる
+    #    git pull --rebase # リモートリポジトリの変更を取り込む
+    #    git stash pop # 退避させた変更を戻す
+    #    git add feed.xml
+    #    git commit -m "Update schedule RSS feed" || exit 0 # 変更がない場合はエラーを無視
+    #    git push
+    #  shell: /usr/bin/bash -e {0}
+    #  env:
+    #    pythonLocation: /opt/hostedtoolcache/Python/3.11.4/x64
+    #    LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.4/x64/lib
 
 
