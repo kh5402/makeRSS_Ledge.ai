@@ -31,7 +31,7 @@ async def main():
     # BeautifulSoupで解析
     soup = BeautifulSoup(html, 'html.parser')
 
-    print(soup)
+    #print(soup)
 
     
     # window.__NUXT__の内容を取得
