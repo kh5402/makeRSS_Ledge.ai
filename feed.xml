@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 25 Aug 2023 06:36:51 +0000</lastBuildDate><item><title>OpenAIが「GPT-3.5 Turbo」のファインチューニングに対応 「GPT-4」は今秋にも
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 25 Aug 2023 16:09:59 +0000</lastBuildDate><item><title>Google 大規模言語モデルに「視覚」を与える メルカリと開発した商品画像検索AIも公開</title><link>https://ledge.ai/articles/google_vlm</link><description>「もし大規模言語モデルが画像の意味を理解する視覚を持っていたらどうだろうか？」。米国Googleは2023年8月22日、{target=“_blank”}で問いかけた。答え合わせをするように同社が開発した視覚言語モデル（Vision Language Model：VLM）と、それを生かしてメルカリと共同開発した商品画像検索AIも紹介している。
+
+## 商品の画像を「見て」検索するAI
+Googleとメルカリの米国版が共同開発した商品画像検索AIについてはの通りだが、このほど誰でも機能を体験できる{target=“_blank”}も登場した。
+
+試したい場合はまず「MERCARI TEXT-TO-IMAGE」を選択し、例えば「handmade accessories with black and white beads（黒と白のビーズを使ったハンドメイドアクセサリー）」といった具合に、自然な文章で探しているものの情報を入力する。日本語も利用できるが、英語の方が精度が高い。
+
+入力を終えると即座に検索結果があらわれ、関連した商品が画像付きでずらりと並ぶ。商品名や説明文、タグは一切使用せず、VLMが文章と画像の情報を照らし合わせているという。
+
+!
+
+!
+
+企業がクラウドサービス上でAIの訓練や利用を行えるGoogle Cloudの機械学習基盤「Vertex AI」で8月初旬に一般公開が始まった新機能「Vertex AI Multimodal Embeddings」の先行導入事例だ。
+
+この新機能はGoogle Researchが開発した「Contrastive Captioner（CoCa）」というVLMを組み込んでいて、複数の異なる種類の情報を処理する、いわゆる「マルチモーダル」AIを実現できるようになっている。
+
+今回はメルカリの商品画像580万点をVertex AI Multimodal Embeddingsに渡して「埋め込み（ Embeddings）」つまりAIにとって処理しやすいベクトル情報を抽出し、検索する際の索引として利用できるようにしてある。デモで文章を入力するとVLMがベクトル情報を抽出し、先に画像から抽出したベクトル情報と照らし合わせる。
+
+## VLMはどう社会を変えるか
+深層学習技術では文章からも画像からもベクトル情報を抽出できるので、両者の関係を学習させれば、VLMは文章から画像（text-to-image）を、あるいは画像から文章（image-to-text）を自在に検索できる。
+
+あらかじめ画像に対してタグやラベルをつけておかなくてもよく、従来の光学文字認識（OCR）も不要。色々な分野に応用のきく便利な仕組みだ。
+
+例えばメルカリのようなアプリで、誰かが販売したい商品の画像を投稿したとする。するとVLMが同じカテゴリやブランド、類似した色やスタイルの既存の商品を検索し、見つけた情報に基づいて商品名、説明、販売価格を提案する。情報をいちいち手動で入力する手間が省ける。
+
+また数千台の監視カメラを設置している施設を考えてみる。毎分何百万もの画像を記録していても、VLMさえあれば「ドアを開けようとしている人」「工場が浸水している」「機械が燃えている」などの自然な文章で条件にあった画像を探し出せる。
+
+!
+さらに自動運転技術の開発にも役に立つ。クルマを制御するAIは、運転中に遭遇する不測の事態にどう対処するかを学習せねばならない。事故などに関する写真や動画そのものはすでに大量に蓄積しているが、必ずしもタグやラベルをつけて整理しておらず、そのままでは使用しづらい。だがVLMがあれば「赤信号が点灯している交差点で歩行者が立っている」や「前方の高速道路の真ん中で停止している潰れた車」などの複雑な条件を自然な言語で指定して一致する画像を見つけられる。
+
+LLMの使い道はもはや単なるチャットボットにとどまらず、「視覚」を与えればさまざまな事業で活かせるという示唆だ。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 25 Aug 2023 16:09:59 +0000</pubDate></item><item><title>OpenAIが「GPT-3.5 Turbo」のファインチューニングに対応 「GPT-4」は今秋にも
 </title><link>https://ledge.ai/articles/gpt_finetuning</link><description>:::small
 画像出典：OpenAI
 :::
@@ -337,30 +375,4 @@ WaymoはIT大手Googleの親会社Alphabet、Cruiseは自動車大手General Mot
 :::box
 
 :::
-</description><pubDate>Tue, 22 Aug 2023 06:32:04 +0000</pubDate></item><item><title>Amazon.com 大量の商品レビューをAIがひとつに要約する新機能 </title><link>https://ledge.ai/articles/amazon_reviews_with_generative_ai</link><description>:::small
-出典：Amazon.com
-:::
-米国Amazon.comは2023年8月14日、生成AIを活用し、商品ごとに複数のカスタマーレビューをひとつに要約する{target=“_blank”}した。商品詳細ページに短い段落として表示する。複数のレビューにまたがって頻繁（ひんぱん）に言及される商品の特徴や、使った人が感じたことに光をあて、商品が自分に合っているかどうかをひと目で判断できるようにする。
-
-この機能はまだ米国の一部のモバイルユーザーにのみ利用可能だという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-AIが生成するレビューの要約の下には、「Performance（性能）」「Ease of use（使いやすさ）」などのボタンも表示する。例えば「使いやすさ」のボタンをタップすると、商品の使いやすさについてコメントしているレビューを読める。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-Amazon.comは今後数か月かけてこの機能に関するフィードバックを反映したうえで、より多くの商品カテゴリーやカスタマーに拡大する可能性があるとしている。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 21 Aug 2023 14:06:28 +0000</pubDate></item></channel></rss>
+</description><pubDate>Tue, 22 Aug 2023 06:32:04 +0000</pubDate></item></channel></rss>
