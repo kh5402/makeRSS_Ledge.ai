@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 25 Aug 2023 16:09:59 +0000</lastBuildDate><item><title>VMWareとNVIDIA 生成AIをクラウドに置かず使える 「VMware Private AI Foundation with NVIDIA」</title><link>https://ledge.ai/articles/vmware_nvidia</link><description>米国VMwareはNVIDIAと協力し、生成AIをクラウドに置かなくても構築、運用できる基盤として「{target=“_blank”}」を投入する。2023年8月22日に年次イベント「VMware Explore 2023 Las Vegas」で明らかにした。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 28 Aug 2023 06:58:00 +0000</lastBuildDate><item><title>Meta 声を吹き込むと翻訳するAI「SeamlessM4T」日本語など100言語対応 人間のような「空耳」で誤訳も</title><link>https://ledge.ai/articles/meta_seamless_m4t</link><description>:::small
+画像出典：seamless.metademolab.com
+:::
+Metaは2023年8月22日、音声を入力することで「文字起こし」「別言語への翻訳」「別言語への吹き替え」を実行するAI「{target=“_blank”}」を発表した。日本語を含む多言語に対応する。実際にデモを試すと話した内容の大意を自然なかたちで指定の言語に翻訳し、読み上げるが、人間のような「空耳」や訳し間違いもするようだ。
+
+同AIでは以下のことが可能だ。
+
+・約100種類の言語の音声認識
+・約100種類の言語の音声からテキストへの翻訳
+・約100種類の言語の音声から英語を含む36種類の言語の音声への翻訳
+・約100種類の言語のテキストからテキストへの翻訳
+・約100種類の言語のテキストから英語を含む35種類の言語の音声への翻訳
+
+SeamlessM4Tはオープンサイエンスの考えにより、研究ライセンスのもと公開されており、研究者や開発者が該当の技術を活用できる。さらに史上最大というオープンマルチモーダル翻訳データセット「SeamlessAlign」のメタデータも公開された。マイニングによる合計27万時間の音声とテキストのデータで構成されている。
+
+Metaによると、往年のSF小説『銀河ヒッチハイク ガイド』に登場する「Babel Fish（バベル フィッシュ）」のような世界規模の翻訳機の構築はまだ困難。音声から音声、音声からテキストへの翻訳の仕組みがまだ世界の言語の一部にしか対応していないためだ。SeamlessM4Tはそのような問題点の克服、エラーや遅延の減少、翻訳の効率と品質の向上が目標として掲げられている。
+
+今回の技術は、2022年に公開された200の言語に対応する機械翻訳モデル「No Language Left Behind（NLLB）」や、文字体系のない言語である福建語の音声ー音声翻訳システム「Universal Speech Translator」、1,100種類以上の言語の音声認識、言語識別、音声合成を行う研究用モデル「Massively Multilingual Speech」などの実績にもとづく。
+
+なおSeamlessM4Tは{target=“_blank”}が公開されている。実際に機能を試してみると、例えば「私は犬を飼っています。将来的には猫とインコも飼いたいです」と音声入力した場合、前半部分が「私は犬を買っています」と訳された。あらためて「私は犬を飼育しています。将来的には猫とインコも飼育したいです」と入力し、英語・韓国語・ポルトガル語を選択すると、以下画像のような結果が出た。
+!
+:::small
+画像出典：seamless.metademolab.com
+:::
+「インコ」が「monkey」と訳された。なお吹き替え音声は、再生ボタンをクリックすれば再生できる。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 28 Aug 2023 06:58:00 +0000</pubDate></item><item><title>VMWareとNVIDIA 生成AIをクラウドに置かず使える 「VMware Private AI Foundation with NVIDIA」</title><link>https://ledge.ai/articles/vmware_nvidia</link><description>米国VMwareはNVIDIAと協力し、生成AIをクラウドに置かなくても構築、運用できる基盤として「{target=“_blank”}」を投入する。2023年8月22日に年次イベント「VMware Explore 2023 Las Vegas」で明らかにした。
 
 VMware Private AI Foundation with NVIDIAは、オンプレミス環境をクラウド環境のように運用できるソフトウエア定義データセンター（SDDC）基盤「VMware Cloud Foundation」とAI開発環境「NVIDIA AI Enterprise」を統合したもの。米国Metaがオープンソースで公開した「Llama 2」をはじめとする大規模言語モデル（LLM）などを企業の社内データで訓練し、データセンターはもちろん主要なパブリッククラウド、そしてエッジ環境に設置できる。
 
@@ -333,36 +364,4 @@ NISSIN AI-chat powered by GPT-4は、「Azure OpenAI Service」をエンジン�
 
 :::box
 
-:::</description><pubDate>Tue, 22 Aug 2023 15:22:41 +0000</pubDate></item><item><title>世界のAI企業 日本に熱視線 Stability AIは日本語で画像を解説する「Japanese InstructBLIP Alpha」公開
-</title><link>https://ledge.ai/articles/japanese_Instructblip_alpha</link><description>画像生成AI「Stable Diffusion」で知られる英国Stability AIの日本法人Stability AI Japanが、画像に何が映っているか、描いてあるかを日本語で教えてくれるAI「」を2023年8月17日に一般公開した。画像から文章を生成するAIはすでに複数存在するが、これは同社が日本市場を重視する意思表示といえる。
-
-Japanese InstructBLIP Alphaは先日公開した日本語向け指示応答言語モデル「Japanese StableLM Instruct Alpha 7B」を拡張したもの。入力した画像に対して文字で説明を生成するほか、画像について質問すると分析した結果を回答として返す。
-
-!
-
-大規模な英語のデータセットで事前学習した画像言語モデル「InstructBLIP」で一部を初期化し、限られた日本語データセットを用いて調整した。日本語での回答に加え、日本特有の建造物、例えば東京スカイツリーや金閣寺を正しく認識できるのが特徴という。
-
-!
-
-用途としては画像による検索エンジン、目の前の情景の説明や質疑応答、目の不自由な人への画像の解説などを見込んでいる。AIプラットフォーム「Hugging Face」で公開しており、推論や追加学習を試せる。なお研究目的での利用に限定している。
-
-米国Metaが7月に公開して話題を呼んだ「CM3leon（カメレオン）」など画像から文章を生成するAIそのものはすでに珍しくない。
-
-しかしStability AI Japanは、同社が発表する最初の画像言語モデルとしての意義を強調する。英語圏と比べ日本語のデータセットは限られ、マルチモーダル（複数のデータ形式）なデータセットはさらに限られるなか、日本向けの生成基盤モデルを構築、公開することで日本のAIコミュニティの活性化に貢献するという。
-
-つまりJapanese InstructBLIP Alphaはそれ自体、日本を重視する姿勢のあらわれ、意思表示といえる。
-
-Stability AIに限らず、海外のAI開発者や企業は最近、日本市場に重点を置いている。米国Microsoftは7月、企業や政府などがインターネットを通じてAIを利用できるクラウドサービス「Azure OpenAI」のデータセンターを東日本にも置くと発表した。アジアでは初の試みだ。またGoogleでトップクラスのAI研究者だった2人が8月、東京でスタートアップSakana.aiを立ち上げると明らかにしている。英国The Financial Timesの報道によると優れた技術インフラや、労働者の教育水準、非西洋社会や文化でうまく機能するよう調整されたモデルの訓練データと機構が次世代技術の開発に役立つとの判断だという。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 22 Aug 2023 10:42:49 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Tue, 22 Aug 2023 15:22:41 +0000</pubDate></item></channel></rss>
