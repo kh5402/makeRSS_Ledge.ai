@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 25 Aug 2023 16:09:59 +0000</lastBuildDate><item><title>Google 大規模言語モデルに「視覚」を与える メルカリと開発した商品画像検索AIも公開</title><link>https://ledge.ai/articles/google_vlm</link><description>「もし大規模言語モデルが画像の意味を理解する視覚を持っていたらどうだろうか？」。米国Googleは2023年8月22日、{target=“_blank”}で問いかけた。答え合わせをするように同社が開発した視覚言語モデル（Vision Language Model：VLM）と、それを生かしてメルカリと共同開発した商品画像検索AIも紹介している。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 25 Aug 2023 16:09:59 +0000</lastBuildDate><item><title>VMWareとNVIDIA 生成AIをクラウドに置かず使える 「VMware Private AI Foundation with NVIDIA」</title><link>https://ledge.ai/articles/vmware_nvidia</link><description>米国VMwareはNVIDIAと協力し、生成AIをクラウドに置かなくても構築、運用できる基盤として「{target=“_blank”}」を投入する。2023年8月22日に年次イベント「VMware Explore 2023 Las Vegas」で明らかにした。
+
+VMware Private AI Foundation with NVIDIAは、オンプレミス環境をクラウド環境のように運用できるソフトウエア定義データセンター（SDDC）基盤「VMware Cloud Foundation」とAI開発環境「NVIDIA AI Enterprise」を統合したもの。米国Metaがオープンソースで公開した「Llama 2」をはじめとする大規模言語モデル（LLM）などを企業の社内データで訓練し、データセンターはもちろん主要なパブリッククラウド、そしてエッジ環境に設置できる。
+
+用途はチャットボット、アシスタント、検索、要約などの生成AIアプリケーションを想定している。Dell Technologies、Hewlett Packard Enterprise、Lenovoの製品が対応するという。
+
+「VMware Private AI Reference Architecture for Open Source」も同時に発表した。こちらはオープンソースソフトウェア（OSS）でモデルを構築してVMware Cloud Foundation上で運用できるというものだ。
+
+:::box
+
+:::</description><pubDate>Fri, 25 Aug 2023 12:02:47 +0000</pubDate></item><item><title>Google 大規模言語モデルに「視覚」を与える メルカリと開発した商品画像検索AIも公開</title><link>https://ledge.ai/articles/google_vlm</link><description>「もし大規模言語モデルが画像の意味を理解する視覚を持っていたらどうだろうか？」。米国Googleは2023年8月22日、{target=“_blank”}で問いかけた。答え合わせをするように同社が開発した視覚言語モデル（Vision Language Model：VLM）と、それを生かしてメルカリと共同開発した商品画像検索AIも紹介している。
 
 ## 商品の画像を「見て」検索するAI
 Googleとメルカリの米国版が共同開発した商品画像検索AIについてはの通りだが、このほど誰でも機能を体験できる{target=“_blank”}も登場した。
@@ -355,24 +365,4 @@ Stability AIに限らず、海外のAI開発者や企業は最近、日本市場
 :::
 :::box
 
-:::</description><pubDate>Tue, 22 Aug 2023 10:42:49 +0000</pubDate></item><item><title>Google系列などの「ロボタクシー」昼も夜も無人運転で有償サービス可能に 米加州</title><link>https://ledge.ai/articles/cruise_waymo_robotaxi</link><description>:::small
-画像出典：Waymo
-:::
-
-{target=“_blank”}は2023年8月10日、CruiseとWaymoの2社に対し、いわゆる「Robotaxi（ロボタクシー）」の追加運営権限を承認した。両社はサンフランシスコ市でドライバーのいない自動運転車両による有償サービスを終日運行可能になった。
-
-WaymoはIT大手Googleの親会社Alphabet、Cruiseは自動車大手General Motors（GM）傘下のロボタクシー企業。今回の承認はCPUCが2020年に採択した決定に基づき、両社の提出したサービスに関する文書を評価し、ライセンス要件、特に乗客の安全対策を満たしているかどうかを確認して与えたもの。
-
-これまで両社はサンフランシスコやその他の地域で特定の制限のもとでロボタクシーを運営していた。
-
-例えばCruiseは、サンフランシスコの限定エリアで夜10時から翌朝6時までのドライバーなしの有料サービスを手がけるほか、サンフランシスコ全域で終日ドライバー在籍の有料サービスとドライバーなしの無料サービスを提供していた。
-
-一方Waymoは、サンフランシスコ全域でドライバー在籍の有料サービスとドライバーなしの無料サービスを提供。さらにロサンゼルスの一部やマウンテンビュー周辺でドライバーの有無に関係なく無料の乗客サービスを提供していた。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 22 Aug 2023 06:32:04 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Tue, 22 Aug 2023 10:42:49 +0000</pubDate></item></channel></rss>
