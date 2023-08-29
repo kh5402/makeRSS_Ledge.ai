@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 28 Aug 2023 08:50:55 +0000</lastBuildDate><item><title>Zoom 顧客の映像や音声をAI学習に使用の恐れ 批判受け1週間で2度規約改訂</title><link>https://ledge.ai/articles/zoom_updated_terms_of_service_twice_in_a_week</link><description>2023年8月6日に、ビデオ会議アプリケーション「Zoom」の新{target=“_blank”}に関し「利用者のデータをAIの学習に利用できることになっている」と報じたStackDiaryの{target=“_blank”}について、米国の複数メディアが取り上げた。インターネット上の騒然とした反応を受けて開発元の米国Zoom Video Communicationsは1週間で2度にわたり規約を改訂する事態となった。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 29 Aug 2023 06:53:13 +0000</lastBuildDate><item><title>ChatGPTの法人版「ChatGPT Enterprise」登場 高速GPT-4を無制限に利用可 入力内容は学習に使用せず</title><link>https://ledge.ai/articles/chatgpt_enterprise</link><description>:::small
+画像出典：OpenAI
+:::
+米国OpenAIは、2023年8月28日に対話型AI（チャットボット）「ChatGPT」の法人版「ChatGPT Enterprise」の{target=“_blank”}した。セキュリティとプライバシーの保護水準が高く、入力したデータやプロンプト（文章による指示）をAIの学習に使わない仕様という。米国公認会計士協会のセキュリティ統制基準「SOC 2」にも準拠し、全ての会話を送受信や保存時に暗号化する。
+
+{target=“_blank”}ではまた、OpenAI最新の大規模言語モデル（LLM）「GPT-4」を無制限に利用できる。3万2,000トークン（語彙）の入力を一度に行える。通常版の4倍の長さの文章やファイルをより効率よく処理可能。動作速度も最大2倍に向上している。
+
+これに加え通常版で「コードインタープリター」という名称で導入していたデータ解析機能も無制限に利用できる。市場データを処理する金融研究者、調査結果を解析するマーケティング担当者、データの抽出・変換・書き出し（ETL）用簡易プログラムを調整するデータ サイエンティストなどが数秒で作業を終えられるとのこと。
+
+さらに、組織の必要に応じてChatGPTをカスタマイズ可能。テンプレートを活用し、共同作業や特定のワークフローを構築することが手軽になる。完全なカスタマイズを求める場合、ChatGPTの機能を外部から呼び出すためのアプリケーション・プログラミング・インターフェイス（API）の無料クレジットも利用できる。
+
+なお公式サイトでは「ChatGPT Enterprise」の料金体系を掲載しておらず、OpenAIの営業部門に直接問い合わせるよう案内している。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 29 Aug 2023 06:53:13 +0000</pubDate></item><item><title>Zoom 顧客の映像や音声をAI学習に使用の恐れ 批判受け1週間で2度規約改訂</title><link>https://ledge.ai/articles/zoom_updated_terms_of_service_twice_in_a_week</link><description>2023年8月6日に、ビデオ会議アプリケーション「Zoom」の新{target=“_blank”}に関し「利用者のデータをAIの学習に利用できることになっている」と報じたStackDiaryの{target=“_blank”}について、米国の複数メディアが取り上げた。インターネット上の騒然とした反応を受けて開発元の米国Zoom Video Communicationsは1週間で2度にわたり規約を改訂する事態となった。
 
 焦点となったのは、最初に報道があった時点の規約のセクション10.2と10.4。Zoomが利用者のデータ、特にビデオ会議などによって残る「サービス生成データ」の利用に関する広範な権利を持つことを示し、AIや機械学習（ML）といった用途にも言及していた。
 
@@ -264,31 +283,4 @@ ChatBTCはビットコインによる有料課金方式を採用している。�
 :::
 :::box
 
-:::</description><pubDate>Wed, 23 Aug 2023 05:42:26 +0000</pubDate></item><item><title>世界の75%の組織がChatGPTなど生成AIを使用禁止へ 生産性向上は認識もセキュリティ懸念 -- BlackBerry調査</title><link>https://ledge.ai/articles/blackberry_reserch_chatgpt</link><description>:::small
-画像出典：写真AC
-:::
-
-カナダ{target=“_blank”}が2023年8月8日付で公表した調査によると、世界各国の組織の75%が、職場でのChatGPTやほかの生成AIの使用禁止を現在検討または実施中であることがわかった。
-
-さらに禁止を実施または検討している組織の多数（61%）は、これらの措置を長期的または恒久的に行うことを意図している。
-
-組織がChatGPTを禁止する主な理由として、データのセキュリティとプライバシーへの潜在的なリスクが最も大きく（67%）、次に企業の評判へのリスク（57%）が挙げられる。
-
-また組織内のどのような地位にある人物が生成AIの使用禁止を推し進めているかを複数回答で訊くと、「最高情報責任者（CIO）／最高技術責任者（CTO）／最高セキュリティ責任者（CSO）／情報技術担当者（IT） 」が72%で最も多く、「最高経営責任者（CEO）」も48%にのぼった。以下「コンプライアンス担当者（Legal Compliance）」 （40%）、「最高財務責任者（CFO）／財務担当者（Finance）」 （36%）、「人事担当者（HR）」 （32%）と続く。
-
-また全体の80％以上が、安全を確保できていないアプリケーションが自社のIT環境にサイバーセキュリティ上の脅威をもたらすと懸念している。
-
-一方、BlackBerryの調査に回答したIT意思決定者の多くは、生成AIが職場での生産性を向上させる可能性を認識しており、効率の向上（55%）、革新（52%）、創造性の向上（51%）などの利点を予見している。
-
-またIT意思決定者の80%が、組織が「従業員がビジネス目的で使用するアプリケーション」を制御する権利を持っていると信じている一方で、74%が全面的な禁止は「過度なコントロール」の兆候を意味すると考えていることがわかった。
-
-この調査は、米国、カナダ、英国、フランス、ドイツ、オランダ、日本、オーストラリアの2,000人のIT意思決定者を対象としたもの。
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 23 Aug 2023 03:23:59 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 23 Aug 2023 05:42:26 +0000</pubDate></item></channel></rss>
