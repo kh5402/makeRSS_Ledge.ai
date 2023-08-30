@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 29 Aug 2023 06:53:13 +0000</lastBuildDate><item><title>ChatGPTの法人版「ChatGPT Enterprise」登場 高速GPT-4を無制限に利用可 入力内容は学習に使用せず</title><link>https://ledge.ai/articles/chatgpt_enterprise</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 29 Aug 2023 07:16:37 +0000</lastBuildDate><item><title>MicrosoftはAIを使った人のデータを監視 新規約に明記</title><link>https://ledge.ai/articles/microsoft_terms_revision</link><description>:::small
+
+:::
+
+ 米国Microsoftがサービス規約の最新版を2023年7月30日に{target=“_blank”}した。同社の消費者向け製品、Webサイト、サービスを使用する際に適用となるもので、これまで記載のなかったAIサービスに関する文言が追加している。この規約の発効日は9月30日を予定している。
+ 
+新設の「AI サービス」に関する項目では以下の5つを掲げている。
+
+1つ目は「リバース エンジニアリング」。モデル、アルゴリズム、およびシステムの基盤となるコンポーネントを見つけるためにMicrosoftのAIサービスを使用することを禁じる。例えばモデルの「重み付け（weight）」を調べて削除しようとしてはならない、としている。
+
+2つ目は「データの抽出」。明示的な許可のある場合を除いて、MicrosoftのAIサービスに対しWebスクレイピング、WebハーべスティングなどのWebデータ抽出方法を使用することを禁じる。
+
+3つ目は「AIサービスからのデータ使用に対する制限」。MicrosoftのAIサービスやそのデータを使用して、ほかのAIサービスを直接と間接問わず作成、訓練または改善することを禁じる。
+
+4つ目は「お客様のコンテンツの使用」。Microsoftは不正または有害な使用や出力を監視、防止する目的で、AIサービスへの入力とAIサービスからの出力を処理し、保存する。
+
+5つ目は「第三者の申し立て」。例えば利用者がAIサービスで出力した内容について、第三者から著作権侵害などの申し立てがあった場合、責任はMicrosoftではなく利用者自身が単独で負うとしている。なお著作権関連に限定しない法令が対象とのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Tue, 29 Aug 2023 07:16:37 +0000</pubDate></item><item><title>ChatGPTの法人版「ChatGPT Enterprise」登場 高速GPT-4を無制限に利用可 入力内容は学習に使用せず</title><link>https://ledge.ai/articles/chatgpt_enterprise</link><description>:::small
 画像出典：OpenAI
 :::
 米国OpenAIは、2023年8月28日に対話型AI（チャットボット）「ChatGPT」の法人版「ChatGPT Enterprise」の{target=“_blank”}した。セキュリティとプライバシーの保護水準が高く、入力したデータやプロンプト（文章による指示）をAIの学習に使わない仕様という。米国公認会計士協会のセキュリティ統制基準「SOC 2」にも準拠し、全ての会話を送受信や保存時に暗号化する。
@@ -246,41 +273,4 @@ AI Workbenchを導入すれば、数回のクリックで生成AIをカスタマ
 :::
 :::box
 
-:::</description><pubDate>Wed, 23 Aug 2023 12:02:24 +0000</pubDate></item><item><title>ビットコインに特化した対話型AI「ChatBTC」 信頼できる情報源で学習 「幻覚」による誤答防ぐ</title><link>https://ledge.ai/articles/chaincode_labs_chatbtc</link><description>:::small
-画像の出典：Chaincode Labs
-:::
-暗号資産「Bitcoin（ビットコイン）」関連の技術開発を手がける米国Chaincode Labs は2023年8月3日、新たな対話型AI（チャットボット）「{target=“_blank”}」をリリースした。技術情報の「高品質な情報源」を使用して、主要なブロックチェーンに関する質問に答えてくれるという。
-
-OpenAIのチャットボット「ChatGPT」などは質問を受けた場合「Hallucination（ハルシネーション、幻覚）」と呼ばれる現象によって、虚偽を織り交ぜて回答してしまうことがある。一方でChaincode Labsによると、ChatBTCはChatGPTと同じように使用でき、なおかつハルシネーションを起こしにくい。
-
-!
-:::small
-出典：{target=“_blank”}より
-:::
-
-ChatBTCは、ビットコインの技術やその歴史について学べるよう設計されている。AIの学習には、bitcoin-dev メーリングリスト、Lightning dev メーリングリスト、Bitcoin StackExchange、Bitcoin Optech、BTC Transcripts といった信頼性の高いデータを使用しているという。
-
-ChatGPTのような見た目の操作画面を採用しており、質問したい内容を文章による指示「プロンプト」として入力すると対話形式で回答が受け取れる。標準設定では「Holocat（ホロキャット）」という仮想の猫の姿をしたキャラクターが一般的な質問に回答してくれるが、ほかにも3種類のビットコイン専門家のアバター（分身となるキャラクター）を選択でき、それぞれのアバターのもとになっている人物がかつて実際に発信した情報から回答を得られる。
-
-!
-
-ChatBTCはビットコインによる有料課金方式を採用している。試用として数回の質問ができるが、以降は支払いの要求画面があらわれる。プロンプト1回につき50Satoshi（サトシ、SAT）から、または6時間あたり500サトシといった料金体系だ。
-
-ちなみにサトシはビットコインの最小単位で、ビットコインの基礎技術を築いた謎の人物Satoshi Nakamoto（サトシ・ナカモト）氏にちなんだ名称。2023年8月後半時点の相場で日本円に換算すると50サトシは2円未満だ。
-
-なおChatBTCはまだ初期のアルファ版だと Chaincode Labs の特別プロジェクト責任者 Adam Jonas氏はX（旧Twitter）上で断っている。すべての回答が100％正確というわけではなく、あたたかく見守って欲しいとし、フィードバックも求めている。
-
-!
-:::small
-出典：{target=“_blank”}より
-:::
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 23 Aug 2023 05:42:26 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 23 Aug 2023 12:02:24 +0000</pubDate></item></channel></rss>
