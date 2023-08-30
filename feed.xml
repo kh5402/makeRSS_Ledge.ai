@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 29 Aug 2023 07:16:37 +0000</lastBuildDate><item><title>MicrosoftはAIを使った人のデータを監視 新規約に明記</title><link>https://ledge.ai/articles/microsoft_terms_revision</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 30 Aug 2023 07:30:48 +0000</lastBuildDate><item><title>Googleいよいよ検索に生成AIを導入 日本でも「SGE」試験運用開始</title><link>https://ledge.ai/articles/google_releases_sge_japanese_version</link><description>米国Googleは生成AIを組み込んだ検索サービス「Search Generative Experience（SGE）」の日本語版を試験運用開始したと、2023年8月30日にした。検索技術の研究組織「Search Labs」の公式サイトでGoogleアカウントを使って登録を済ませると、数日中にパソコン向けWebブラウザ「Chrome」またはiPhoneやAndroidスマートフォン向けの「Google」アプリケーションから利用できるようになる。なお即座に使える場合もある。
+
+GoogleのSGEは5月から米国などで始まり、順次機能の拡充が進んできた。すでに米国Microsoftの生成AI検索「Bing AI Chat（あるいは新しいBing）」が2月に登場し、日本語に対応していることを考えると慎重な動きだった。
+
+新たに試験運用を開始したSGEの日本語版では例えば「残暑見舞いはいつ頃送る? 」という質問をすると、「残暑見舞いは、立秋（8月7日）から8月末頃までの間に送るのが一般的です」といった回答があらわれる。検索の結果見つかった複数のWebサイトの情報をAIが簡潔にまとめた概要だ。表示を切り替えれば概要のどの部分どのWebサイトの情報に基づくのかを参照できる。概要の下には通常の検索結果が続く。
+
+!
+
+さらに「残暑見舞いに何を送ったら喜ばれますか？」「残暑見舞いのマナーは？」といった続く質問の候補も一覧できる。気になった候補を選択すると対話形式で知りたい情報を掘り下げてゆける。候補の代わりに自分で考えた質問をすることも可能だ。いずれの場合はSGEは質問の流れを一定程度覚えているため、自然なかたちでやりとりを続けられる。
+
+なおSGEはGoogleが開発した大規模言語モデル（LLM）を採用しているが、性能に限界があるため検索が常に正しく機能するとはいえず、今後さらに更新予定。当面、検索結果では常にAIがまとめた概要を表示するのではなく、特定の質問だけにとどまるという。このほかSGEも専用枠に広告を表示するが、ほかの部分と区別できるように「スポンサー」と明記する。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 30 Aug 2023 07:30:48 +0000</pubDate></item><item><title>NVIDIA 純利益9倍・売上高2倍で過去最高 生成AI需要増で 第2四半期決算
+</title><link>https://ledge.ai/articles/nvidia_settlement</link><description>米国NVIDIAは2023年8月23日に、2024年度第2四半期（2023年5月～7月）決算を{target=“_blank”}した。生成AIの開発競争が激化しており、AI向け半導体製品の需要が拡大。売上高、純利益とも過去最高を更新した。
+
+売上高は過去最高の135億1,000万ドルで、第1四半期比で88%、前年同期比で101%増加。またデータセンターの売上高は103億2,000万ドルを記録、第1四半期比で141%、前年同期比で171% 増加した。
+
+米国会計基準（GAAP）にもとづく希薄化後1株当たり純利益は2.48ドルで、第1四半期比202％増、前年同期比854％増。 非GAAP基準の希薄化後1株当たり純利益は2.70ドルで、第1四半期比148%増、前年同期比429%増となった。
+
+同社の Jensen Huang（ジェンセン・ファン）創業者兼最高経営責任者（CEO）は「当四半期中、大手クラウドサービスプロバイダーは大規模なNVIDIA H100 AI インフラストラクチャを発表した。大手エンタープライズ ITシステムおよびソフトウェアプロバイダーはNVIDIA AIをあらゆる業界に提供するためのパートナーシップを発表した。生成型AIの導入競争は続いている」と述べている。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 30 Aug 2023 01:55:25 +0000</pubDate></item><item><title>MicrosoftはAIを使った人のデータを監視 新規約に明記</title><link>https://ledge.ai/articles/microsoft_terms_revision</link><description>:::small
 
 :::
 
@@ -230,47 +262,4 @@ Connected Shoppers Report第5版の調査は2023年5月18日から6月21日の�
 :::
 
 
-</description><pubDate>Thu, 24 Aug 2023 04:09:02 +0000</pubDate></item><item><title>PC上からも生成AIを作れるツールキット「NVIDIA AI Workbench」</title><link>https://ledge.ai/articles/nvidia_ai_workbench</link><description>:::small
-画像出典：NVIDIA AI Workbench | Fine Tuning Generative AI
-:::
-
-パソコンやワークステーションから、公開中の事前学習済みモデルを利用して独自の生成AIを作成、試験、実行できるツールキットを米国NVIDIAが2023年8月8日に{target=“_blank”}した。「AI Workbench」の名称で展開する。
-
- @
-
-NVDIAによると、生成AIを開発する素材となる事前学習済みモデルはすでに何十万種類も利用可能だが、オープンソースのツールを駆使してそれらをカスタマイズするのは困難で時間がかかる場合がある。特に大規模な開発プロジェクトでは、モデルの設計図にあたるソースコードを公開している「GitHub」や「Hugging Face」といったオンラインリポジトリから目的に沿うフレームワーク、ツール、コンテナを探し、適切なスキルセットを採用してユースケースに合わせて組み合わせる必要がある。さらにプロジェクトをある環境から別の環境に移す際には作業を再度やり直さなければならないこともある。
-
-AI Workbenchを導入すれば、数回のクリックで生成AIをカスタマイズして実行可能。モデル、フレームワーク、SDK、ライブラリを統合した開発者ワークスペースにまとめられ、環境の移行も容易としている。
-
-このツールはDell Technologies、Hewlett Packard Enterprise、HP、Lambda、Lenovo、SupermicroなどのマルチGPU対応デスクトップ ワークステーション、ハイエンドモバイル ワークステーション、仮想ワークステーションで利用できる。OSにWindowsまたはLinux を採用した「NVIDIA RTX」対応のパソコンでも動作する。また拡張の必要が生じた場合にはデータセンターやクラウドサービスも簡単に利用可能という。
-
-なお、NVIDIAはエンタープライズ ソフトウェア プラットフォームの最新版「NVIDIA AI Enterprise 4.0」も併せて発表した。企業が生成AI導入に必要なツールを入手でき、信頼性の高い運用に必要なセキュリティ機能や安定したAPIを利用できるとのこと。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 24 Aug 2023 02:01:05 +0000</pubDate></item><item><title>国内コンタクトセンターすでに半数がAI導入、海外上回るも成果には課題あり</title><link>https://ledge.ai/articles/deloitte_global_contact_center_survey2023</link><description>デロイト トーマツ グループは2023年8月8日、世界各国のコンタクトセンターを対象に行った調査「2023 グローバルコンタクトセンターサーベイ」を公開した。日本ではすでに約半数が業務のためにAIを導入している一方、成果の面では課題があるとしている。
-
-日本のコンタクトセンターのAI導入率は49％で、海外の44％を上回る水準。2年前の前回調査では日本28％、海外21％であり、いずれも大幅に上昇していることがわかる。
-
-しかしAIの主要用途であるチャットボット・ボイスボットについてみると、十分な効果を発揮できていないという声も、日本のコンタクトセンターの約半数（51％）から挙がっている。
-
-!
-:::small
-画像の出典：2023 グローバルコンタクトセンターサーベイ日本版レポート
-:::
-
-デロイト トーマツ グループは、AIの導入は進めど成果が出ない背景として、解決率やカバー率が比較的高い用件、領域を対象に想定効果の高い順にユースケースを選定できていない点や、投資の膨張、予算超過を防ぐための定量的な重要業績評価指標（KPI）を設定、評価できていない点を挙げる。
-
-対策としてはAI導入に関するユースケース選定やKPI設定のほか、業務改革（BPR）、中核となる社内人材の育成と定着、企業のリーダー自身が社内組織横断での協力を推進する「チェンジマネジメント」などが重要だとも述べている。
-
-調査は2022年11月から2023年2月にかけて実施し、国内41社、海外46社から協力を得た。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 23 Aug 2023 12:02:24 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 24 Aug 2023 04:09:02 +0000</pubDate></item></channel></rss>
