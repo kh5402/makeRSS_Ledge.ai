@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 30 Aug 2023 07:30:48 +0000</lastBuildDate><item><title>Googleいよいよ検索に生成AIを導入 日本でも「SGE」試験運用開始</title><link>https://ledge.ai/articles/google_releases_sge_japanese_version</link><description>米国Googleは生成AIを組み込んだ検索サービス「Search Generative Experience（SGE）」の日本語版を試験運用開始したと、2023年8月30日にした。検索技術の研究組織「Search Labs」の公式サイトでGoogleアカウントを使って登録を済ませると、数日中にパソコン向けWebブラウザ「Chrome」またはiPhoneやAndroidスマートフォン向けの「Google」アプリケーションから利用できるようになる。なお即座に使える場合もある。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 30 Aug 2023 08:46:05 +0000</lastBuildDate><item><title>渦中のAP通信「生成AIを記事執筆に使用しない」ガイドライン公表 ただしOpenAIとは協力</title><link>https://ledge.ai/articles/ap_standards_around_generative_ai</link><description>米国AP通信は2023年8月16日、{target=“_blank”}を公表した。生成AIを記事執筆には使用しないとあらためて明言した。同社は7月に対話型AI（チャットボット）「ChatGPT」を開発するOpenAIとライセンス契約を結んで注目を浴びたところ。
+
+APは公式ブログで「我々は、報道における正確性、公平性、迅速性を重視しており、AIを注意深く使用することでその価値を向上でき、働き方にも貢献できると考えている」と前置きした。
+
+そのうえで「AP通信のジャーナリストの中心的な役割は変わらず、AIがその代替になり得るとは考えない。ジャーナリストは、共有する情報の正確性と公平性について責任を負わねばならない」と述べた。
+
+APとOpenAIが結んだライセンス契約では、OpenAIがAPのテキストアーカイブの一部に対する使用許諾を得て、APはOpenAIの技術と製品の専門知識を活用できる。しかし、APは公開する記事などの作成に生成AIは使用しない。
+
+またAIが生成する内容は未確認の情報源として扱うとし、公開時にはAPの編集上の判断と情報源に関する基準を適用する。AIで写真、動画、音声の要素を改変しないこと、AIが虚偽を描写したと疑いうるあるいはそう証明済みのA画像も配信しないことを明確にした。
+
+ただし、ただしAIが生成したイラストや芸術作品が記事の主題になる場合、その旨を明記している限り使用できるとした。
+
+APは社内の記者たちに、機密情報や機微情報をAIに入力しないよう強く求めている。また、外部から受け取った素材についてはAIが生成したものをを含んでいないか確認するよう注意を促しているという。素材の出典を確認したり、逆画像検索を行ったり、信頼できる報道機関で類似の素材を使用していないか確認を怠らないこと、また資料の信憑性に疑念がある場合は使用しないよう求めているとのこと。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 30 Aug 2023 02:16:51 +0000</pubDate></item><item><title>Naver 独自の大規模言語モデル「Hyper CLOVA X」発表 チャットボットやAI検索も</title><link>https://ledge.ai/articles/hyper_clova_x</link><description>韓国Naverは2023年8月24日、ソウル市で生成AI技術と事業戦略を中心としたカンファレンス「DAN 23」を開催した。のチェ・スヨン代表が、大規模言語モデル（LLM）「{target=“_blank”} X」、対話型AI（チャットボット）「{target=“_blank”}」、生成AI検索「CUE」の3つの{target=“_blank”}した。
+
+このうちCLOVA Xは創作、要約、推論、翻訳、コーディングなどをベースに多様な回答を提供できる対話型AIで、質問と回答を連続して続けられる。Naver内外の様々なサービスをアプリケーション・プログラミング・インターフェイス（API）でつなぐ「スキル」機能を導入し、LLMだけでは限界がある回答を補完してゆくことが可能。NaverはもちろんLINEやFacebookのアカウントで利用登録を受け付けている。
+
+なおNaverは60万台以上のサーバーを収容でき、単一企業としてはアジア最大規模をうたうデータセンターを11月に世宗（セジョン）特別自治市で開設予定だとも明らかにした。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 30 Aug 2023 08:46:05 +0000</pubDate></item><item><title>Googleいよいよ検索に生成AIを導入 日本でも「SGE」試験運用開始</title><link>https://ledge.ai/articles/google_releases_sge_japanese_version</link><description>米国Googleは生成AIを組み込んだ検索サービス「Search Generative Experience（SGE）」の日本語版を試験運用開始したと、2023年8月30日にした。検索技術の研究組織「Search Labs」の公式サイトでGoogleアカウントを使って登録を済ませると、数日中にパソコン向けWebブラウザ「Chrome」またはiPhoneやAndroidスマートフォン向けの「Google」アプリケーションから利用できるようになる。なお即座に使える場合もある。
 
 GoogleのSGEは5月から米国などで始まり、順次機能の拡充が進んできた。すでに米国Microsoftの生成AI検索「Bing AI Chat（あるいは新しいBing）」が2月に登場し、日本語に対応していることを考えると慎重な動きだった。
 
@@ -220,46 +250,4 @@ davinci-002の料金は1,000トークンあたり通常の入力と出力が0.00
 :::
 :::box
 
-:::</description><pubDate>Thu, 24 Aug 2023 08:49:15 +0000</pubDate></item><item><title>Bingの背追うGoogleのAI検索「SGE」が拡充 文中の単語の意味を手短かに教える機能など導入
-</title><link>https://ledge.ai/articles/search_generative_experience_new_functions</link><description>米国Googleは2023年8月15日、生成AIを利用した検索エンジン「Search Generative Experience（SGE）」の3つの新機能を{target=“_blank”}した。検索結果の文章にあらわれる難しい用語の定義などを確認したり、プログラミングコードをきれい色分けして見られるようになった。SGEは8月現在、米国でのみ利用可能だ。
-
-科学や経済、歴史などに関する情報を検索した場合、結果画面にあらわれる文章から任意の単語を選択すると、単語の定義や関連する図・画像を確認できるようになった。さらに単語についての詳細画面を開けば、より掘り下げた情報を閲覧できる。
-
-またプログラミング関連の情報を検索した際、結果画面にあらわれるコードを構文に沿って色分けし強調表示するようになった。キーワード、コメント、文字列といった要素をより識別しやすくなる。
-
-さらに検索画面から離れていても利用できる「SGE while browsing」という機能も導入する。ニュースサイトなどにある長文の記事を開くと、内容の要点を幾つか箇条書きにして表示し、気になった要点を選択すると記事の該当部分を読める。ただし有料会員のみ閲覧できる「PayWall（ペイウォール）」の仕組みを導入した記事は対象外だ。AndroidやiOSのGoogleアプリケーション、Webブラウザ「Chrome」のデスクトップ版で使用可能。
-
-なおSGEが今回導入した幾つかの機能と類似のものは、競合する米国Microsoftの「Bing」が先行して導入している。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 24 Aug 2023 05:50:37 +0000</pubDate></item><item><title>6人に1人が生成AIを買い物の参考に利用 -- セールスフォース調査
-</title><link>https://ledge.ai/articles/salesforce_connected_shoppers_report</link><description>:::small
-画像出典：Connected Shoppers Report
-:::
-
-
-世界各国で買い物客の約6人に1人が生成AIの回答を参考にしているとの調査結果を米国Salesforce（セールスフォース）が2023年8月18日に「{target=“_blank”}」第5版の中で明らかにした。この報告書では新型コロナウイルス感染症流行後の小売業界が新しい技術やデータをどのように活用し、顧客満足度を高めるかについての考察を行っている。
-
-生成AIは小売業界の変革を推進している。買い物客の17%の購入の参考として生成型AIを利用しているばかりか、まだ生成AIを積極的に利用していなくても、どんな贈り物をするか考えるのに役立てたり、家電の情報調べに活かしたりすることに関心を持っている。小売業者もマーケティングやカスタマーサービスにもこの技術の活用を検討している。
-
-とはいえ過去20年間に小売業で導入が進んださまざまなデジタル技術を例にとって考えれば、生成AIをめぐる動きは目新しいものという訳ではない。セールスフォースによると、インターネット通販は2021年には買い物全体の59%を占めるまでになり、2023年にはいったん51%に減少したものの、2025年には再び56%に増加するとの予測だ。小売業者はオンラインとオフラインの販路の統合基盤への投資を進めている。
-
-また2023年時点では実店舗でも買い物客の60%がスマートフォンなどを利用している。インターネットで商品について調べたり（36%）、店内のQRコードを読み取ったり (32％)、さらに読み取った内容をもとに購入手続きを完了する「scan＆go（スキャンアンドゴー）」（18%）を行うためだ。小売業者も客の行動から着想を得て、店員にモバイル機器を装備させていて、2023年時点では推定32%が仕事の一部として使いこなしており、さらに2026年までに41%へ上昇する見込みだ。
-
-こうした既存のデジタル技術に続くように生成AIについても買い物客と店舗の双方に影響が広がったかたちだ。
-
-Connected Shoppers Report第5版の調査は2023年5月18日から6月21日の期間、買い物客2,400人と小売業の意思決定者1,125人に実施した。対象地域はオーストラリア、ベルギー、ブラジル、カナダ、デンマーク、フィンランド、フランス、ドイツ、インド、 日本、ルクセンブルク、オランダ、ニュージーランド、ノルウェー、スペイン、スウェーデン、英国、米国。
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Thu, 24 Aug 2023 04:09:02 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Thu, 24 Aug 2023 08:49:15 +0000</pubDate></item></channel></rss>
