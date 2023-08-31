@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 30 Aug 2023 08:46:05 +0000</lastBuildDate><item><title>渦中のAP通信「生成AIを記事執筆に使用しない」ガイドライン公表 ただしOpenAIとは協力</title><link>https://ledge.ai/articles/ap_standards_around_generative_ai</link><description>米国AP通信は2023年8月16日、{target=“_blank”}を公表した。生成AIを記事執筆には使用しないとあらためて明言した。同社は7月に対話型AI（チャットボット）「ChatGPT」を開発するOpenAIとライセンス契約を結んで注目を浴びたところ。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 30 Aug 2023 10:54:10 +0000</lastBuildDate><item><title>MicrosoftがAIを攻撃する専門組織「AIレッドチーム」ノウハウも公開 他社にも設立呼びかけ</title><link>https://ledge.ai/articles/microsoft_ai_red_team</link><description>:::small
+画像はSDXL1.0によりLedge.aiが生成
+:::
+米国Microsoft は2023年8月7日、公式ブログで「AIレッドチーム」の実践に関する知見を{target=“_blank”}した。自社のAIをあえて攻撃する組織を作り上げ、セキュリティ上の弱点を見つけ出す取り組みだ。
+
+サイバーセキュリティの世界ではシステムの防御役「Blue Team（ブルーチーム）」とは別に攻撃役「Red Team（レッドチーム）」を作り、模擬的に戦わせることで弱点を見つけ、本当の攻撃がある前に対策をとる手法が広がっている。
+
+Microsoftは2018年から「AIレッドチーム」を動かし、自社のAIなどの弱点を探っている。例えば生成AI検索「Bing AI Chat（新しいBing）」の公開前に、Microsoft社内の数十人のセキュリティと責任あるAI（Responsible AI、RAI）の専門家でAIレッドチームを作り、何百時間にもわたって調査をした。このような場合にはBing AI Chatのようなアプリケーションと、背後で動く大規模言語モデル（LLM）「GPT-4」の両方を標的に2段階で取り組む必要があるという。
+
+まずGPT-4に攻撃をしかけることで弱点や限界を見つけることは、GPT-4そのものの将来の改良に役立つだけでなく、どんなアプリに適しているのかを把握する上でも有益だった。Bing AI Chatへの攻撃ではGPT-4を検索に組み込んでも障害が起きないかを確認できた。
+
+今回Microsoftは経験を活かし、AIレッドチームが従来のレッドチームとどこが似ていて、どこが異なるのかをセキュリティ専門家向けに説明。より多くの組織がAIレッドチームを作り、さらに既存のレッドチームをよりうまく活用できるようにする参考として、5つの知見を紹介している。
+
+!
+
+**１．AIレッドチームの役目はより広範囲:**
+AIレッドチームは従来のレッドチームと異なりセキュリティ脆弱性だけでなく、RAI問題を取り扱わねばならない。AIが示すさまざまな固定観念など公平性の問題や、暴力の賛美をはじめとする有害な情報についても調査する必要がある。
+
+**２．AIレッドチームは悪意の人物だけでなく善意の人物が引き起こす問題にも注目する:**
+例えば新しいBingでは、悪意の人物がセキュリティに焦点を当てた技術や不正なプログラムでAIを破壊する可能性だけでなく、いかに一般人がAIとの対話で有害な情報を生成するかにも注目せねばならなかった。この点が悪意の人物の行動のみに注目する従来のレッドチームとは異なる。AIレッドチームでは、より広範なペルソナ（想定する人物像）を対象にする。
+
+**３．AIは絶えず進化している:**
+AI常に変化する。LLMの場合、開発者はフィードバックに基づいてメタプロンプト（機械学習モデルへの基礎となる命令）を変更することがある。伝統的なソフトウェア・システムに比べAIは急速に変化するため、AIレッドチームは攻撃を繰り返し仕掛け、体系的で自動化した測定システムを確立し、時間をかけて監視することが重要。
+
+**４．生成AIに対しては複数回の試行が必要:**
+生成AIのふるまいは確率によって決まり、同じ入力を複数回実行すると、異なる出力が得られる可能性がある。AIレッドチームも同じ操作で複数回の攻撃を実施する必要がある。初回の攻撃が失敗しても、次回以降の同じ攻撃が成功してしまう場合を考慮せねばならない。攻撃に対する結果が決定的になる従来のレッドチームとの違いだ。
+
+**５．AIの問題を緩和するには多層防御が必要:**
+AIに起こる問題を緩和するためには、単一の方法ではなく複数の手段を組み合わせる必要がある。潜在的に有害な情報に目印をつけておくためにAIの「分類器（Classifier）」を使用することや、人間との対話が危険な方向へずれてゆかないよう「メタプロンプト」を使用して行動を誘導することを含む。多層防御が重要という点については、既存のレッドチームと似通う。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 30 Aug 2023 10:54:10 +0000</pubDate></item><item><title>渦中のAP通信「生成AIを記事執筆に使用しない」ガイドライン公表 ただしOpenAIとは協力</title><link>https://ledge.ai/articles/ap_standards_around_generative_ai</link><description>米国AP通信は2023年8月16日、{target=“_blank”}を公表した。生成AIを記事執筆には使用しないとあらためて明言した。同社は7月に対話型AI（チャットボット）「ChatGPT」を開発するOpenAIとライセンス契約を結んで注目を浴びたところ。
 
 APは公式ブログで「我々は、報道における正確性、公平性、迅速性を重視しており、AIを注意深く使用することでその価値を向上でき、働き方にも貢献できると考えている」と前置きした。
 
@@ -237,17 +273,4 @@ davinci-002の料金は1,000トークンあたり通常の入力と出力が0.00
 :::box
 
 :::
-</description><pubDate>Fri, 25 Aug 2023 06:36:51 +0000</pubDate></item><item><title>無料で使える画像ツール「Adobe Express」に生成AI機能 テキストから画像を出力  </title><link>https://ledge.ai/articles/adobe_express_generative_ai_function</link><description>米国Abobe（アドビ）は2023年8月16日、オンラインの画像編集ツール「{target=“_blank”}」を更新し、生成AI機能を組み込んだ最新版を一般公開した。パソコンのWebブラウザなどから利用できる。
-
-新たにAdobe独自の画像生成AI「Adobe Firefly」（ベータ版）を搭載し、日本語を含む100以上の言語でプロンプト（文章による指示）を入力することで画像やテキスト効果の生成が可能になった。
-
-また既存のAI機能の強化として編集中の画像に適した追加要素をすばやく見つけられるようになり、個々人の作風に合ったテンプレートの提案を受けられるようになった。SNSへ投稿する画像や、動画、ポスター、チラシなどの作成がより容易になったとしている。
-
-これらの新機能はAdobe Expressのデスクトップ版に続きモバイル版でも導入予定。デスクトップ版は会員登録すれば無料で利用できる。なおAdobeの定額課金サービス「Adobe Creative Cloud」を契約していれば有料機能も使える。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 24 Aug 2023 08:49:15 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 25 Aug 2023 06:36:51 +0000</pubDate></item></channel></rss>
