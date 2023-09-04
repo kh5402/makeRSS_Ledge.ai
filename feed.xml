@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Sep 2023 07:58:29 +0000</lastBuildDate><item><title>米国で「生成AI地ビール」ChatGPTがレシピ作成 Midjourneyがラベルデザイン
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 02 Sep 2023 06:41:20 +0000</lastBuildDate><item><title>生成AIがCOBOLをJavaへ高速変換 IBMが「watsonx Code Assistant for Z」公開</title><link>https://ledge.ai/articles/watsonx_code_assistant_for_z</link><description>生成AIを使用し、データ処理用の古いプログラミング言語COBOLで作成したアプリケーションをより新しい言語Javaへ高速で変換するサービス「{target=“_blank”}」を米国IBMが現地時間2023年8月22日付けで発表した。9月11～13日に米国ラスベガスで開催するイベント「IBM TechXchange」でプレビューを公開し、10～12月には同社のメインフレーム「IBM Z」シリーズ向けに提供開始予定。
+
+@
+
+115種類のプログラミング言語に対応するIBMの生成AI「watsonx.aiコード・モデル」を活かしたもの。1兆5,000億のトークン（語彙）から学習し、200億パラメーター（変数）のデータサイズを持つ。コード自動化用の生成AI基盤モデルとしては最大級のひとつとしている。
+
+COBOLで構築したアプリのコードを選択的、段階的にJavaに変換できる。対象となる潜在COBOLコードは数十億行に上るとIBMは推定している。また分析ツール「Application Discovery and Delivery Intelligence（ADDI）」と組み合わせて展開し、アプリのリファクタリング（再設計）、自動テスト、結果の検証なども行える。アプリの改修に伴う総コスト、複雑性、リスクの管理なども可能としている。</description><pubDate>Sat, 02 Sep 2023 06:41:20 +0000</pubDate></item><item><title>生成AIフェイク防げ “見えない電子透かし” 画像に入れる「SynthID」登場</title><link>https://ledge.ai/articles/synthid</link><description>AIが生成した画像に「電子透かし（watermark）」を入れて識別するツール「{target=“_blank”}」のベータ版を米国Google傘下の英国Google DeepMindが開発したと現地時間の2023年8月29日付けで発表した。画像を構成する微小な点、ピクセル（画素）の間に人間の目には感知できない情報を直接埋め込む。Google Cloudの機械学習基盤「Vertex AI」で画像生成AI「Imagen」を利用している一部の企業が導入できる。
+
+@
+
+生成AIは本物そっくりの偽写真などを作り出せるとして米国政府なども問題視し、ほかと区別できる仕組みを求める声が高まっている。
+
+対策のひとつが電子透かし。ただ画像の端などにスタンプのように目に見えるかたちで入れる従来の手法だと、切り抜きなどの簡単な編集で削除できてしまう。また芸術や商業目的で画像を利用する上で美的な問題が生じる。すでに目に見えない透かしを入れる手法もあるが、やはりサイズ変更などの単純な編集で削除できてしまう場合がある。
+
+SynthIDは画質を損なわず、フィルターの追加、色の変更、JPEGをはじめ非可逆圧縮方式でのデータ保存を経ても、透かしを検出可能な状態を維持できるよう設計してある。透かしの挿入と識別に、さまざまな画像セットで訓練した2つの深層学習モデルを使用している。
+
+:::box
+
+:::</description><pubDate>Sat, 02 Sep 2023 06:06:13 +0000</pubDate></item><item><title>米国で「生成AI地ビール」ChatGPTがレシピ作成 Midjourneyがラベルデザイン
 </title><link>https://ledge.ai/articles/night_shift_brewing_chatgpt</link><description>:::small
 画像出典：Night Shift Brewing
 :::
@@ -210,40 +228,4 @@ GoogleのSGEは5月から米国などで始まり、順次機能の拡充が進�
 :::
 
 
-</description><pubDate>Tue, 29 Aug 2023 07:16:37 +0000</pubDate></item><item><title>ChatGPTの法人版「ChatGPT Enterprise」登場 高速GPT-4を無制限に利用可 入力内容は学習に使用せず</title><link>https://ledge.ai/articles/chatgpt_enterprise</link><description>:::small
-画像出典：OpenAI
-:::
-米国OpenAIは、2023年8月28日に対話型AI（チャットボット）「ChatGPT」の法人版「ChatGPT Enterprise」の{target=“_blank”}した。セキュリティとプライバシーの保護水準が高く、入力したデータやプロンプト（文章による指示）をAIの学習に使わない仕様という。米国公認会計士協会のセキュリティ統制基準「SOC 2」にも準拠し、全ての会話を送受信や保存時に暗号化する。
-
-{target=“_blank”}ではまた、OpenAI最新の大規模言語モデル（LLM）「GPT-4」を無制限に利用できる。3万2,000トークン（語彙）の入力を一度に行える。通常版の4倍の長さの文章やファイルをより効率よく処理可能。動作速度も最大2倍に向上している。
-
-これに加え通常版で「コードインタープリター」という名称で導入していたデータ解析機能も無制限に利用できる。市場データを処理する金融研究者、調査結果を解析するマーケティング担当者、データの抽出・変換・書き出し（ETL）用簡易プログラムを調整するデータ サイエンティストなどが数秒で作業を終えられるとのこと。
-
-さらに、組織の必要に応じてChatGPTをカスタマイズ可能。テンプレートを活用し、共同作業や特定のワークフローを構築することが手軽になる。完全なカスタマイズを求める場合、ChatGPTの機能を外部から呼び出すためのアプリケーション・プログラミング・インターフェイス（API）の無料クレジットも利用できる。
-
-なお公式サイトでは「ChatGPT Enterprise」の料金体系を掲載しておらず、OpenAIの営業部門に直接問い合わせるよう案内している。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 29 Aug 2023 06:53:13 +0000</pubDate></item><item><title>Zoom 顧客の映像や音声をAI学習に使用の恐れ 批判受け1週間で2度規約改訂</title><link>https://ledge.ai/articles/zoom_updated_terms_of_service_twice_in_a_week</link><description>2023年8月6日に、ビデオ会議アプリケーション「Zoom」の新{target=“_blank”}に関し「利用者のデータをAIの学習に利用できることになっている」と報じたStackDiaryの{target=“_blank”}について、米国の複数メディアが取り上げた。インターネット上の騒然とした反応を受けて開発元の米国Zoom Video Communicationsは1週間で2度にわたり規約を改訂する事態となった。
-
-焦点となったのは、最初に報道があった時点の規約のセクション10.2と10.4。Zoomが利用者のデータ、特にビデオ会議などによって残る「サービス生成データ」の利用に関する広範な権利を持つことを示し、AIや機械学習（ML）といった用途にも言及していた。
-
-Zoomはすでに規約の該当部分を変更したものの、内容についてはさまざまなWebサイトの過去の情報を保存する「{target=“_blank”}」などから確認可能だ。該当部分は3月から8月初旬まで存在したことがわかる。
-
-Zoomは8月7日に事態に対応するため1度目の規約改訂を実施。Eric Yuan（エリック・ユアン）創業者兼最高経営責任者（CEO）は8日にSNS「LinkedIn」で、利用者のデータを同意なくAI学習に使用しないとし、製品を改善しAIを訓練するためのコンテンツの共有についてオプトイン（事前承認）を求めるようになっていることが操作画面から確認できると{target=“_blank”}。
-
-しかし以降も事態は収束せず、8月11日の2度目の規約改訂で、Zoomはデータ使用慣行を明確にし、AIの訓練に会議の音声、動画、チャットなどの内容を使用しないことを強調した。
-
-StackDiaryのAlex Ivanovs氏は、今回の事態は当初から起こるべきではなかったと指摘。AIの学習にデータを使用する場合、事前の告知はもちろんオプトアウト（事後不承認）の選択肢は必須との立場を示した。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 28 Aug 2023 08:50:55 +0000</pubDate></item></channel></rss>
+</description><pubDate>Tue, 29 Aug 2023 07:16:37 +0000</pubDate></item></channel></rss>
