@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Sep 2023 09:54:19 +0000</lastBuildDate><item><title>GoogleがAIを攻撃する6つの手法公開 個人情報の抽出からAIそのものを盗み出すやり方まで</title><link>https://ledge.ai/articles/google_ai_red_team</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Sep 2023 09:54:19 +0000</lastBuildDate><item><title>スタバ 中国・深センにDX施設、3年間で300億円を投資 データ分析やモデリングの拠点に</title><link>https://ledge.ai/articles/starbucks_sitc</link><description>:::small
+Unsplashのkevsが撮影した写真
+:::
+
+米国スターバックスは2023年8月17日、中国の広東省深セン市に「Starbucks China Innovation and Technology Center（SITC）」を設立すると{target=“_blank”}した。2023年9月に稼働開始する予定で、深セン市などによると今後3年間で約15億元（約300億円）を投資する。
+
+SITCはデータ分析、モデリングなどを駆使して、中国での小売業務や、店舗やWebサイトなどを連携させたオムニチャネル事業のデジタル化を進める。
+
+店舗運営の簡素化と自動化、革新的なコーヒーなどの飲料や食品の提供、サプライチェーンや店舗開発、運営のデジタル化、環境フットプリントの削減に焦点を当てる。スターバックスは2023年現在、世界86市場で37,000以上の店舗を運営。2025年までに、中国に9,000店舗を展開する。2023年秋には、統合配送センターなどのインフラを備える「Starbucks China Coffee Innovation Park」のオープンも予定している。
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Mon, 04 Sep 2023 05:56:22 +0000</pubDate></item><item><title>GoogleがAIを攻撃する6つの手法公開 個人情報の抽出からAIそのものを盗み出すやり方まで</title><link>https://ledge.ai/articles/google_ai_red_team</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 米国Googleは、AIへの攻撃を専門にする組織「{target=“_blank”}」を運用している。AIの弱点を見つけ出し、対策を立てるためだ。2023年7月19日には、同じような組織を作る他社の参考となるよう報告書を{target=“_blank”}した。
@@ -229,19 +247,4 @@ GoogleのSGEは5月から米国などで始まり、順次機能の拡充が進�
 :::
 :::box
 
-:::</description><pubDate>Wed, 30 Aug 2023 07:30:48 +0000</pubDate></item><item><title>NVIDIA 純利益9倍・売上高2倍で過去最高 生成AI需要増で 第2四半期決算
-</title><link>https://ledge.ai/articles/nvidia_settlement</link><description>米国NVIDIAは2023年8月23日に、2024年度第2四半期（2023年5月～7月）決算を{target=“_blank”}した。生成AIの開発競争が激化しており、AI向け半導体製品の需要が拡大。売上高、純利益とも過去最高を更新した。
-
-売上高は過去最高の135億1,000万ドルで、第1四半期比で88%、前年同期比で101%増加。またデータセンターの売上高は103億2,000万ドルを記録、第1四半期比で141%、前年同期比で171% 増加した。
-
-米国会計基準（GAAP）にもとづく希薄化後1株当たり純利益は2.48ドルで、第1四半期比202％増、前年同期比854％増。 非GAAP基準の希薄化後1株当たり純利益は2.70ドルで、第1四半期比148%増、前年同期比429%増となった。
-
-同社の Jensen Huang（ジェンセン・ファン）創業者兼最高経営責任者（CEO）は「当四半期中、大手クラウドサービスプロバイダーは大規模なNVIDIA H100 AI インフラストラクチャを発表した。大手エンタープライズ ITシステムおよびソフトウェアプロバイダーはNVIDIA AIをあらゆる業界に提供するためのパートナーシップを発表した。生成型AIの導入競争は続いている」と述べている。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 30 Aug 2023 01:55:25 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 30 Aug 2023 07:30:48 +0000</pubDate></item></channel></rss>
