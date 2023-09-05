@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Sep 2023 09:54:19 +0000</lastBuildDate><item><title>スタバ 中国・深センにDX施設、3年間で300億円を投資 データ分析やモデリングの拠点に</title><link>https://ledge.ai/articles/starbucks_sitc</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Sep 2023 07:25:06 +0000</lastBuildDate><item><title>OpenAIついにEUデータ保護規則違反で訴訟に「事前に当局と協議すべきだった」</title><link>https://ledge.ai/articles/openai_sued_for_gdpr_violation</link><description>:::small
+photo by {target=“_blank”}
+:::
+
+ポーランドの法律事務所GP Partnersは2023年8月31日、サイバーセキュリティとプライバシーの研究者 Lukasz Olejnik博士の原告代理人として、米国OpenAIが欧州連合（EU）の包括的な一般データ保護規則（GDPR）に違反したとして、ポーランドのデータ保護当局に訴状を提出したと{target=“_blank”}した。
+
+EUはGDPRを2016年4月に制定、2018年5月25日に施行している。EUのデータ保護指令より個人データやプライバシーの保護に関して厳格に規定した内容だ。
+
+{target=“_blank”}によると、訴状では、OpenAIが法的根拠、透明性、公平性、データアクセス権、設計上のプライバシーといった幅広い側面にわたりGDPRに違反していると主張している。経緯としては、Olejnik博士がOpenAIが開発する対話型AI（チャットボット）「ChatGPT」を使用して自分の伝記を生成したところ、いくつかの誤謬（ごびゅう）を含んでいるのに気づき、3月末頃にOpenAIに連絡して修正を求めた。また博士はGDPRに基づき、OpenAIが持つ彼の情報を提供することも促した。6月にかけて博士とOpenAIの間でメールのやりとりがあり、OpenAIは一部の情報を提供したが、法が義務付ける内容としては不十分だったという。
+
+GP Partnersは、ChatGPTのようなAIの開発と「データ主体（つまりOlejnik博士）」の権利を調和させることは可能なはずだとしている。またAIの開発に数十億ドルを費やすのであれば一部をGDPR準拠のために割り当てることはできるし、もしOpenAIが自社サービスとGDPRの調和に疑問を抱いた場合、制度にのっとって事前にデータ保護当局と協議しておくべきだったとも指摘した。
+
+!
+:::small
+{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 05 Sep 2023 07:25:06 +0000</pubDate></item><item><title>スタバ 中国・深センにDX施設、3年間で300億円を投資 データ分析やモデリングの拠点に</title><link>https://ledge.ai/articles/starbucks_sitc</link><description>:::small
 Unsplashのkevsが撮影した写真
 :::
 
@@ -230,21 +256,4 @@ APは社内の記者たちに、機密情報や機微情報をAIに入力しな�
 :::
 :::box
 
-:::</description><pubDate>Wed, 30 Aug 2023 08:46:05 +0000</pubDate></item><item><title>Googleいよいよ検索に生成AIを導入 日本でも「SGE」試験運用開始</title><link>https://ledge.ai/articles/google_releases_sge_japanese_version</link><description>米国Googleは生成AIを組み込んだ検索サービス「Search Generative Experience（SGE）」の日本語版を試験運用開始したと、2023年8月30日にした。検索技術の研究組織「Search Labs」の公式サイトでGoogleアカウントを使って登録を済ませると、数日中にパソコン向けWebブラウザ「Chrome」またはiPhoneやAndroidスマートフォン向けの「Google」アプリケーションから利用できるようになる。なお即座に使える場合もある。
-
-GoogleのSGEは5月から米国などで始まり、順次機能の拡充が進んできた。すでに米国Microsoftの生成AI検索「Bing AI Chat（あるいは新しいBing）」が2月に登場し、日本語に対応していることを考えると慎重な動きだった。
-
-新たに試験運用を開始したSGEの日本語版では例えば「残暑見舞いはいつ頃送る? 」という質問をすると、「残暑見舞いは、立秋（8月7日）から8月末頃までの間に送るのが一般的です」といった回答があらわれる。検索の結果見つかった複数のWebサイトの情報をAIが簡潔にまとめた概要だ。表示を切り替えれば概要のどの部分どのWebサイトの情報に基づくのかを参照できる。概要の下には通常の検索結果が続く。
-
-!
-
-さらに「残暑見舞いに何を送ったら喜ばれますか？」「残暑見舞いのマナーは？」といった続く質問の候補も一覧できる。気になった候補を選択すると対話形式で知りたい情報を掘り下げてゆける。候補の代わりに自分で考えた質問をすることも可能だ。いずれの場合はSGEは質問の流れを一定程度覚えているため、自然なかたちでやりとりを続けられる。
-
-なおSGEはGoogleが開発した大規模言語モデル（LLM）を採用しているが、性能に限界があるため検索が常に正しく機能するとはいえず、今後さらに更新予定。当面、検索結果では常にAIがまとめた概要を表示するのではなく、特定の質問だけにとどまるという。このほかSGEも専用枠に広告を表示するが、ほかの部分と区別できるように「スポンサー」と明記する。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 30 Aug 2023 07:30:48 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 30 Aug 2023 08:46:05 +0000</pubDate></item></channel></rss>
