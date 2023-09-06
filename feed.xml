@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Sep 2023 07:25:06 +0000</lastBuildDate><item><title>OpenAIついにEUデータ保護規則違反で訴訟に「事前に当局と協議すべきだった」</title><link>https://ledge.ai/articles/openai_sued_for_gdpr_violation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Sep 2023 08:52:48 +0000</lastBuildDate><item><title>AI台風の目「Hugging Face」が345億円調達  Google・NVIDIA・Amazonなどから</title><link>https://ledge.ai/articles/huggingface_fundrasing</link><description>AIプラットフォームを運営する米国Hugging Faceは2023年8月24日、資金調達ラウンドで2億3500万ドル（約345億円）を達成したと共同創設者兼最高経営責任者（CEO）Clem Delangue氏が自身のX（旧Twitter）アカウントで{target=“_blank”}した。Salesforce Ventures、Google、Amazon.com、NVIDIA、AMD、Intel、Qualcomm Ventures、IBM、SOUND VENTURESの9社が参加し、企業価値は45億ドル（約6,613億円）に達したという。
+
+Hugging Faceは大規模言語モデル（LLM）をはじめとする数多くの機械学習（ML）技術が集まるWebサイトとして、今やAI分野における台風の目ともいえる存在だ。
+
+!
+:::small
+{target=“_blank”}
+:::
+
+Delangue氏は今回の出資企業だけでもすでにHugging Face上で1,000を超えるオープンモデルとデータセットを共有しており、1万以上のユーザーが存在するとした。オープンソースの力で良質な機械学習を民主化するためには多くの協力が必要だと述べ、「取り組みはまだ始まったばかり」と述べている。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 05 Sep 2023 08:52:48 +0000</pubDate></item><item><title>OpenAIついにEUデータ保護規則違反で訴訟に「事前に当局と協議すべきだった」</title><link>https://ledge.ai/articles/openai_sued_for_gdpr_violation</link><description>:::small
 photo by {target=“_blank”}
 :::
 
@@ -245,15 +261,4 @@ APは社内の記者たちに、機密情報や機微情報をAIに入力しな�
 :::
 :::box
 
-:::</description><pubDate>Wed, 30 Aug 2023 02:16:51 +0000</pubDate></item><item><title>Naver 独自の大規模言語モデル「Hyper CLOVA X」発表 チャットボットやAI検索も</title><link>https://ledge.ai/articles/hyper_clova_x</link><description>韓国Naverは2023年8月24日、ソウル市で生成AI技術と事業戦略を中心としたカンファレンス「DAN 23」を開催した。のチェ・スヨン代表が、大規模言語モデル（LLM）「{target=“_blank”} X」、対話型AI（チャットボット）「{target=“_blank”}」、生成AI検索「CUE」の3つの{target=“_blank”}した。
-
-このうちCLOVA Xは創作、要約、推論、翻訳、コーディングなどをベースに多様な回答を提供できる対話型AIで、質問と回答を連続して続けられる。Naver内外の様々なサービスをアプリケーション・プログラミング・インターフェイス（API）でつなぐ「スキル」機能を導入し、LLMだけでは限界がある回答を補完してゆくことが可能。NaverはもちろんLINEやFacebookのアカウントで利用登録を受け付けている。
-
-なおNaverは60万台以上のサーバーを収容でき、単一企業としてはアジア最大規模をうたうデータセンターを11月に世宗（セジョン）特別自治市で開設予定だとも明らかにした。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 30 Aug 2023 08:46:05 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 30 Aug 2023 02:16:51 +0000</pubDate></item></channel></rss>
