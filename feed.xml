@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Sep 2023 08:52:48 +0000</lastBuildDate><item><title>AI台風の目「Hugging Face」が345億円調達  Google・NVIDIA・Amazonなどから</title><link>https://ledge.ai/articles/huggingface_fundrasing</link><description>AIプラットフォームを運営する米国Hugging Faceは2023年8月24日、資金調達ラウンドで2億3500万ドル（約345億円）を達成したと共同創設者兼最高経営責任者（CEO）Clem Delangue氏が自身のX（旧Twitter）アカウントで{target=“_blank”}した。Salesforce Ventures、Google、Amazon.com、NVIDIA、AMD、Intel、Qualcomm Ventures、IBM、SOUND VENTURESの9社が参加し、企業価値は45億ドル（約6,613億円）に達したという。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Sep 2023 08:52:48 +0000</lastBuildDate><item><title>「AIカンニングは検知できない」OpenAIもお手上げ
+</title><link>https://ledge.ai/articles/chatgpt_teaching_with_ai</link><description>:::small
+U
+:::
+
+学校の生徒がこっそり対話型AI（チャットボット）「ChatGPT」などを使用して課題を済ませていたらどうするか。開発元である米国OpenAIの意見は「検知は困難」というものだ。2023年8月31日向けに教育者向けの資料の中で{target=“_blank”}した。
+
+この資料は、よくある質問と回答（{target=“_blank”}）の形式で、教育者がChatGPTをどのように活用して生徒の学習を促進するかや、教育者がツールを使い始めるためのテキストによる指示「プロンプト」について、いくつかの事例を共有している。
+
+ただし9月時点でFAQの一番最初にあるのは「{target=“_blank”}」という質問だ。回答ではこうした行為が学校の規則に違反したり、OpenAIの利用規約に違反したりする恐れがあるとの認識を示している。
+
+一方でAIが書いた文章を見分ける技術はまだないと正直に認めている。OpenAIは検出ツールの開発を試みているが、シェイクスピアの著作や米国の独立宣言などをAIが書いた文章と誤認識する問題が明らかになっている。また英語が第一言語でない生徒、簡潔な文章や定型的な文章を書く生徒にも濡れ衣を着せてしまいがちだ。さらには将来AIが生成した文章を正確に識別できるようになっても、生徒は小さな編集を加えるだけで検出を回避できるという。
+
+なお今回のFAQはほかにも生成AIの具体的な使用例として「ロールプレイングによる会話」「クイズ、テスト、授業計画の作成」「非英語話者にとっての障壁を減らす」「批判的思考の教育」などをあげている。プロンプトの例も提示しており、すぐにChatGPTに貼り付けて試せるようになっている。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 05 Sep 2023 04:50:22 +0000</pubDate></item><item><title>AI台風の目「Hugging Face」が345億円調達  Google・NVIDIA・Amazonなどから</title><link>https://ledge.ai/articles/huggingface_fundrasing</link><description>AIプラットフォームを運営する米国Hugging Faceは2023年8月24日、資金調達ラウンドで2億3500万ドル（約345億円）を達成したと共同創設者兼最高経営責任者（CEO）Clem Delangue氏が自身のX（旧Twitter）アカウントで{target=“_blank”}した。Salesforce Ventures、Google、Amazon.com、NVIDIA、AMD、Intel、Qualcomm Ventures、IBM、SOUND VENTURESの9社が参加し、企業価値は45億ドル（約6,613億円）に達したという。
 
 Hugging Faceは大規模言語モデル（LLM）をはじめとする数多くの機械学習（ML）技術が集まるWebサイトとして、今やAI分野における台風の目ともいえる存在だ。
 
@@ -242,23 +262,4 @@ AIに起こる問題を緩和するためには、単一の方法ではなく複
 :::box
 
 :::
-</description><pubDate>Wed, 30 Aug 2023 10:54:10 +0000</pubDate></item><item><title>渦中のAP通信「生成AIを記事執筆に使用しない」ガイドライン公表 ただしOpenAIとは協力</title><link>https://ledge.ai/articles/ap_standards_around_generative_ai</link><description>米国AP通信は2023年8月16日、{target=“_blank”}を公表した。生成AIを記事執筆には使用しないとあらためて明言した。同社は7月に対話型AI（チャットボット）「ChatGPT」を開発するOpenAIとライセンス契約を結んで注目を浴びたところ。
-
-APは公式ブログで「我々は、報道における正確性、公平性、迅速性を重視しており、AIを注意深く使用することでその価値を向上でき、働き方にも貢献できると考えている」と前置きした。
-
-そのうえで「AP通信のジャーナリストの中心的な役割は変わらず、AIがその代替になり得るとは考えない。ジャーナリストは、共有する情報の正確性と公平性について責任を負わねばならない」と述べた。
-
-APとOpenAIが結んだライセンス契約では、OpenAIがAPのテキストアーカイブの一部に対する使用許諾を得て、APはOpenAIの技術と製品の専門知識を活用できる。しかし、APは公開する記事などの作成に生成AIは使用しない。
-
-またAIが生成する内容は未確認の情報源として扱うとし、公開時にはAPの編集上の判断と情報源に関する基準を適用する。AIで写真、動画、音声の要素を改変しないこと、AIが虚偽を描写したと疑いうるあるいはそう証明済みのA画像も配信しないことを明確にした。
-
-ただし、ただしAIが生成したイラストや芸術作品が記事の主題になる場合、その旨を明記している限り使用できるとした。
-
-APは社内の記者たちに、機密情報や機微情報をAIに入力しないよう強く求めている。また、外部から受け取った素材についてはAIが生成したものをを含んでいないか確認するよう注意を促しているという。素材の出典を確認したり、逆画像検索を行ったり、信頼できる報道機関で類似の素材を使用していないか確認を怠らないこと、また資料の信憑性に疑念がある場合は使用しないよう求めているとのこと。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 30 Aug 2023 02:16:51 +0000</pubDate></item></channel></rss>
+</description><pubDate>Wed, 30 Aug 2023 10:54:10 +0000</pubDate></item></channel></rss>
