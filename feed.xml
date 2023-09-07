@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Sep 2023 04:37:49 +0000</lastBuildDate><item><title>X（旧Twitter）利用者の投稿はAIの訓練に使う 新プライバシーポリシーに明記</title><link>https://ledge.ai/articles/x_revises_privacy_policy</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Sep 2023 07:01:01 +0000</lastBuildDate><item><title>noteとAdobeが連携 AIで記事の見出し画像生成 年内に実現</title><link>https://ledge.ai/articles/adobe_note_generate_headline_image</link><description>誰でも記事を書いて公開できる「note」が、新たな生成AI機能を導入する。文章の内容に合わせて画像を生成し、見出しとして掲載できるという。Adobe（アドビ）の協力で実現するもので、両社が2023年8月29日に{target=“_blank”}した。パソコン版のnoteで年内にも利用可能になる見込みだ。
+
+今後、noteの記事投稿画面をアドビのオンライン画像編集サービス「Adobe Express」と連携。Adobe Expressからアドビの画像生成AI「Firefly」を呼び出し、文章を入力するだけで見出し画像を生成できるようにする。
+
+見出し画像はnoteや外部SNSのタイムラインにあらわれ、記事がより多くの人の目にとまるための重要な要素のひとつ。なおFireflyは、アドビの画像素材サービス「Adobe Stock」や一般公開しているライセンスコンテンツ、著作権が失効しているパブリックドメインコンテンツから学習しており、他者の知的財産権を侵害する画像を生成しないよう設計してあるという。
+
+:::box
+
+:::</description><pubDate>Wed, 06 Sep 2023 07:01:01 +0000</pubDate></item><item><title>X（旧Twitter）利用者の投稿はAIの訓練に使う 新プライバシーポリシーに明記</title><link>https://ledge.ai/articles/x_revises_privacy_policy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 X（旧Twitter）は利用者の公開データをAIの訓練に使うことを{target=“_blank”}に明記した。米国時間の2023年9月29日から適用開始となる。Xを所有するイーロン・マスク氏は、「公開データのみが対象で、DM（ダイレクトメッセージ）やそのほかのプライベートな内容は対象外」と1日に[投稿](
@@ -241,14 +249,4 @@ Proofread機能は、従来のGoogleドキュメントと同じように綴（�
 :::box
 
 :::
-</description><pubDate>Thu, 31 Aug 2023 03:11:05 +0000</pubDate></item><item><title>ベトナム学生にサイバーセキュリティ教育を 日本企業での雇用機会も 機械学習のフォアーが現地大と協力</title><link>https://ledge.ai/articles/fore_vietnam_projcet</link><description>ベトナムの大学生にサイバーセキュリティ教育や訓練を実施し、日本企業への雇用機会を作る計画を東京・神田の企業フォアーが2023年8月30日に{target=“_blank”}した。現地のDuy Tan大学（DUT）、人材サービスのSuganuma Groupと同分野の協力に関する覚書を締結している。
-
-フォアーは機械学習などのデータサイエンス事業とサイバーセキュリティ事業を手掛けてきた。今回の覚書に基づきDUTの内部にサイバー攻撃に対する訓練と研究のための共同研究所を設立。DUTの学生向けにサイバーセキュリティに関する教育活動を実施する。
-
-またセキュリティに関する共同研修や研究プログラムに参加する学生を、資金や学習ツールのスポンサーなどさまざまな形で支援する。これに加えサイバーセキュリティ分野の日本企業と学生との連携を強化し、学生の雇用機会を作るという。
-
-DUTは1994年にベトナム中部ダナン市で設立。2015年に私立大学へ移行した。ベトナムおける最初にして最大の私立大学といい、多様で学際的な教育が特徴。情報技術、電気電子の分野で米国の非政府教育認定機関Accreditation Board for Engineering and Technology（ABET）の認定を取得している。英国高等教育情報誌「The Times Higher Education（THE）」の発表する世界大学ランキングでは2023年に上位500位に入った。
-
-:::box
-
-:::</description><pubDate>Thu, 31 Aug 2023 04:33:22 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 31 Aug 2023 03:11:05 +0000</pubDate></item></channel></rss>
