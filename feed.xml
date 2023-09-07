@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Sep 2023 07:01:01 +0000</lastBuildDate><item><title>noteとAdobeが連携 AIで記事の見出し画像生成 年内に実現</title><link>https://ledge.ai/articles/adobe_note_generate_headline_image</link><description>誰でも記事を書いて公開できる「note」が、新たな生成AI機能を導入する。文章の内容に合わせて画像を生成し、見出しとして掲載できるという。Adobe（アドビ）の協力で実現するもので、両社が2023年8月29日に{target=“_blank”}した。パソコン版のnoteで年内にも利用可能になる見込みだ。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Sep 2023 05:50:23 +0000</lastBuildDate><item><title>理研 AI用スパコン「語岳」整備 「富岳」と組み合わせ「世界一」と同等性能確保</title><link>https://ledge.ai/articles/riken_gogaku_fugaku</link><description>:::small
+photo by {target=“_blank”}
+:::
+
+理化学研究所（理研）が、AI向けスーパーコンピュータ「語岳」を整備する。既存のスパコン「富岳」と組み合わせ、世界一の米国製「Aurora（オーロラ）」と同等の性能を目指す。2023年9月5日の{target=“_blank”}が報じている。
+
+CPU（中央処理装置）ベースの富岳と異なり語岳はGPU（画像処理装置）ベースで、AI向けの計算性能は富岳の4.5倍という。浮動小数点数を8bit形式であらわす低精度演算については9EFLOPS（エクサフロップス）つまり1秒間に900京（けい）回行える。一方で浮動小数点数を64bit形式であらわす倍精度演算では0.147EFLOPSで富岳の4分の1弱。それぞれ強味が異なる2つのスパコンを20Tbit/s（兆ビット毎秒）のネットワークで接続する。
+
+米国IntelとHewlett Packard Enterpriseが共同設計し2023年6月22日に導入完了した米国アルゴンヌ国立研究所の{target=“_blank”}はCPUとGPUの組み合わせで性能を高める設計で、語岳と富岳も同様の手法で計算能力を確保する。
+
+例えば対話型AI（チャットボット）「ChatGPT」の中枢である基盤モデル「GPT-4」の詳しい仕様は非公開だが、日刊工業新聞によると、富岳のみの場合、同様の基盤モデルを訓練するのに1年以上かかる。一方でオーロラは1週間から1カ月で計算でき、富岳も語岳と組み合わせれば同等の期間で計算できるという。
+
+文部科学省は、AIスパコン整備の関連費用を2024年度予算の{target=“_blank”}に盛り込むことを明らかにした。理由として、基盤モデルを保有する国と保有しない国の間で研究開発力や産業競争力に格差が生じることを懸念している。
+
+!
+:::small
+画像：{target=“_blank”}より
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 07 Sep 2023 05:50:23 +0000</pubDate></item><item><title>noteとAdobeが連携 AIで記事の見出し画像生成 年内に実現</title><link>https://ledge.ai/articles/adobe_note_generate_headline_image</link><description>誰でも記事を書いて公開できる「note」が、新たな生成AI機能を導入する。文章の内容に合わせて画像を生成し、見出しとして掲載できるという。Adobe（アドビ）の協力で実現するもので、両社が2023年8月29日に{target=“_blank”}した。パソコン版のnoteで年内にも利用可能になる見込みだ。
 
 今後、noteの記事投稿画面をアドビのオンライン画像編集サービス「Adobe Express」と連携。Adobe Expressからアドビの画像生成AI「Firefly」を呼び出し、文章を入力するだけで見出し画像を生成できるようにする。
 
@@ -231,22 +260,4 @@ Proofread機能は、従来のGoogleドキュメントと同じように綴（�
 
 :::box
 
-:::</description><pubDate>Fri, 01 Sep 2023 07:58:29 +0000</pubDate></item><item><title>スペイン 車載AI用に「光通信半導体」の新工場 米中依存から脱却 欧州の自立めざす</title><link>https://ledge.ai/articles/kdpof_fabrication_facility</link><description>:::small
-画像出典：写真AC
-:::
-
-スペインの光半導体メーカーKDPOFは、車載AIなどに利用できる光通信用半導体の製造施設を建設する予定を{target=“_blank”}した。建設には「欧州共通利益に適合する重要プロジェクト（IPCEI）」から資金提供を受ける。デジタル分野における、欧州地域の自立性の確立を目指して設立した基金だ。
-
-調達した資金を投じてマドリード州トレス・カントスのKDPOF本社近くに光電子機器用のパッケージング工場の建設を進める。さらに同社は新しい光電子パッケージング技術を開発しており、次期車載高速光通信用トランシーバICの製造に使う。AI、センサー、プロセッサーを自動運転車に組み込むために車両内の光ファイバーリンクを使用してすべての部品を堅牢、低コストで相互接続する技術と位置付ける。
-
-「欧州の工場は世界中の半導体の約10パーセントしか製造していないため、我々はアジアと米国に依存している。当社はほかに先駆けてスペインでの自動車用光電子機器の大量生産を進め、依存を軽減してゆく」とCarlos Pardo（カルロス・パルド）共同創設者兼最高経営責任者（CEO）は述べている。
-
-{target=“_blank”}によると、この施設はスペイン初の商用半導体製造工場になるという。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 31 Aug 2023 03:11:05 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 01 Sep 2023 07:58:29 +0000</pubDate></item></channel></rss>
