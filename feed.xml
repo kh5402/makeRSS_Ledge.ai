@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Sep 2023 05:50:23 +0000</lastBuildDate><item><title>理研 AI用スパコン「語岳」整備 「富岳」と組み合わせ「世界一」と同等性能確保</title><link>https://ledge.ai/articles/riken_gogaku_fugaku</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Sep 2023 05:50:23 +0000</lastBuildDate><item><title>“AIに資料作らせ徹夜なくす” 「Duet AI for Google Workspace」一般提供開始
+</title><link>https://ledge.ai/articles/duet_ai_for_google_workspace</link><description>AIが人間の代わりにプレゼンテーション資料を生成したり、ビデオ会議の設定を調整したりするサービス「Duet AI for Google Workspace」を、Googleが2023年8月30日に{target=“_blank”}した。
+
+Googleの各種業務用アプリケーションをまとめた「Google Workspace」の追加機能「アドオン」として有償で利用できる。大組織向けプラン「Enterprise」を利用している場合の料金は、各種報道などによると月額30ドル。
+
+「Gmail」「Googleドキュメント」「Googleスライド」「Googleスプレッドシート」「Google Meet」などのアプリケーションで、AIによる支援を受けられる。プレゼンテーション資料の自動作成や、ビデオ会議設定の自動調整や会議中の即時翻訳、要約、メール返信の自動生成などだ。
+
+プライバシーとセキュリティの面では、Duet AIとのやり取りはほかの利用者に知られず、データを許可なくAIの学習に使用されないといった特徴がある。一方外部サービスとも連携可能。例えば「Typeface」や「Jasper」などを利用し、Workspace内で生成AIを使用してパーソナライズされたコンテンツを作成できる。
+
+Googleは具体的な用例も挙げる。夕方の17時に上司から「明日の午前8時までに第 3四半期の業績に関するプレゼンをしてほしい」とメールを受け取ったとする。従来は関連するスプレッドシート、P&amp;Lドキュメント、月次ビジネスレビューのスライド、地域の見込み顧客からのメールなどを人力で読み漁る必要があったが、Duet AIがあれば「第3四半期業績の要約を作成してください」のようなプロンプトを入力するだけでテキスト、グラフ、画像の入った資料ができあがる。徹夜が必要だった土壇場の依頼も夕食前に完了できるようになる、という。
+
+なお導入を検討する企業は14日間の{target=“_blank”}に参加できる。
+
+:::box
+
+:::</description><pubDate>Thu, 07 Sep 2023 01:58:37 +0000</pubDate></item><item><title>理研 AI用スパコン「語岳」整備 「富岳」と組み合わせ「世界一」と同等性能確保</title><link>https://ledge.ai/articles/riken_gogaku_fugaku</link><description>:::small
 photo by {target=“_blank”}
 :::
 
@@ -243,21 +258,4 @@ Rio Bravo Brewing Company
 
 :::
 
-</description><pubDate>Fri, 01 Sep 2023 06:49:40 +0000</pubDate></item><item><title>Googleドキュメント AIが文章を手直しする「Proofread」機能を正式導入</title><link>https://ledge.ai/articles/google_docs_proofread</link><description>米国Googleは、オンライン文章編集アプリケーション「Googleドキュメント」で、書いた文章をAIが読みやすく手直しする「{target=“_blank”}」機能を正式導入する。2023年8月29日に同社のイベント「Google Cloud Next ‘23」で明らかにした。有料のオフィススイート「Google Workspace」で「Duet AI for Workspace Enterprise」アドオンを使用していれば使えるようになる。
-
-Proofread機能は、従来のGoogleドキュメントと同じように綴（つづ）りや文法が適切かどうかを調べてくれるばかりか、新たに文章そのものについて改善案を提示する。文中の単語や言い回しを自動で強調し、それぞれよりよいと考えられる候補を案内して置き換えるかどうかの確認を求める。提案の種類は例えば次のようなものがある。
-
-- Spelling：綴りの間違いを指摘し正しい綴りを示す
-- Grammar：文法の間違いを指摘し正しい文法を示す
-- Conciseness： 言い回しをより簡潔にする
-- Active voice: 言い回しをより読者にとって明確にする
-- Wording: 文脈の中で言葉をより躍動的に、またはよりきちんとした使い方にする
-- Sentence Split: 文章を読みやすくするために複雑な文を分割する
-
-提案はすべて本文の横の校正欄にまとまるため、共同編集作業中なども邪魔にならないとしている。どの提案を受け入れるかは個別に選べる。ちなみに、この機能はDuet AI for Workspace Enterpriseアドオンを入れれば標準で有効になるが、任意で無効にでき、また設定で表示する提案の種類も絞り込める。
-
-なおすでにProofreadのアルファ版を利用していた場合、継続するためには前述のアドオンを購入する必要がある。
-
-:::box
-
-:::</description><pubDate>Fri, 01 Sep 2023 07:58:29 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 01 Sep 2023 06:49:40 +0000</pubDate></item></channel></rss>
