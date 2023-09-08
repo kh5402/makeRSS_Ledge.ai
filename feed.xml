@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Sep 2023 03:18:44 +0000</lastBuildDate><item><title>法務・会計の専門家 AIに楽観的 3分の2弱が「自分の評価はむしろ上がる」と認識</title><link>https://ledge.ai/articles/thomsonreuters_future_of_professionals</link><description>法務・会計の専門家の多くはAIの影響を楽観的にとらえている。Thomson Reuters（ロイター）が2023年8月22日 にこんな{target=“_blank”}をまとめた。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Sep 2023 05:21:20 +0000</lastBuildDate><item><title>Zoom 遅刻した会議をAIが要約「Zoom AI Companion」拡大 有料会員は追加料金なしで利用可能</title><link>https://ledge.ai/articles/zoom_ai_companion</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ビデオ会議アプリケーション「Zoom」で会議の内容を自動要約するなど、生成AIを活かした機能「Zoom AI Companion（以前のZoom IQ）」が拡大し、有料版を契約していれば追加料金なしで利用可能になった。開発元の米国Zoom Video Communicationsが2023年9月5日に{target=“_blank”}した。
+
+Zoom AI Companionでは例えば、遅れてビデオ会議に参加した人が、チャットで質問をすると、生成AIが進行中の議事の要約を示したり、議事に関する質問に回答したりする。ほかにもチャットの返信をAIに提案させるといったことが可能だ。
+
+9月時点では「ミーティング」と「チームチャット」の2つのサービスで利用できる。今後順次、電話機能、メール機能、ホワイトボード機能を含むZoomのサービス全体で導入が進む見通し。
+
+!
+:::small
+画僧出典：{target=“_blank”}
+:::
+
+Zoom独自の大規模言語モデル（LLM）に加えMeta Llama 2、OpenAI、Anthropicなどの他社のLLMを組み合わせて利用している。
+
+なお利用者の音声、動画、チャット、共有した画面、添付ファイルなどの情報はAIの訓練に使用しないとしている。ただし一部の業種、地域では有料版を契約してもZoom AI Companionを利用できない場合があると断っている。
+
+@
+
+:::box
+
+:::</description><pubDate>Fri, 08 Sep 2023 05:21:20 +0000</pubDate></item><item><title>法務・会計の専門家 AIに楽観的 3分の2弱が「自分の評価はむしろ上がる」と認識</title><link>https://ledge.ai/articles/thomsonreuters_future_of_professionals</link><description>法務・会計の専門家の多くはAIの影響を楽観的にとらえている。Thomson Reuters（ロイター）が2023年8月22日 にこんな{target=“_blank”}をまとめた。
 
 調査によると、専門家の3分の1弱（64％）はAIの台頭によって自分の技能の価値が下がるのではなく、むしろ上がる可能性が高いと考えている。そのうちのほぼ4分の1 (24%) が影響は今後18か月以内にあらわれると予想している。
 
@@ -230,16 +253,4 @@ AIのモデルそのものを盗み出したり、特徴を模倣したりする
 
 115種類のプログラミング言語に対応するIBMの生成AI「watsonx.aiコード・モデル」を活かしたもの。1兆5,000億のトークン（語彙）から学習し、200億パラメーター（変数）のデータサイズを持つ。コード自動化用の生成AI基盤モデルとしては最大級のひとつとしている。
 
-COBOLで構築したアプリのコードを選択的、段階的にJavaに変換できる。対象となる潜在COBOLコードは数十億行に上るとIBMは推定している。また分析ツール「Application Discovery and Delivery Intelligence（ADDI）」と組み合わせて展開し、アプリのリファクタリング（再設計）、自動テスト、結果の検証なども行える。アプリの改修に伴う総コスト、複雑性、リスクの管理なども可能としている。</description><pubDate>Sat, 02 Sep 2023 06:41:20 +0000</pubDate></item><item><title>生成AIフェイク防げ “見えない電子透かし” 画像に入れる「SynthID」登場</title><link>https://ledge.ai/articles/synthid</link><description>AIが生成した画像に「電子透かし（watermark）」を入れて識別するツール「{target=“_blank”}」のベータ版を米国Google傘下の英国Google DeepMindが開発したと現地時間の2023年8月29日付けで発表した。画像を構成する微小な点、ピクセル（画素）の間に人間の目には感知できない情報を直接埋め込む。Google Cloudの機械学習基盤「Vertex AI」で画像生成AI「Imagen」を利用している一部の企業が導入できる。
-
-@
-
-生成AIは本物そっくりの偽写真などを作り出せるとして米国政府なども問題視し、ほかと区別できる仕組みを求める声が高まっている。
-
-対策のひとつが電子透かし。ただ画像の端などにスタンプのように目に見えるかたちで入れる従来の手法だと、切り抜きなどの簡単な編集で削除できてしまう。また芸術や商業目的で画像を利用する上で美的な問題が生じる。すでに目に見えない透かしを入れる手法もあるが、やはりサイズ変更などの単純な編集で削除できてしまう場合がある。
-
-SynthIDは画質を損なわず、フィルターの追加、色の変更、JPEGをはじめ非可逆圧縮方式でのデータ保存を経ても、透かしを検出可能な状態を維持できるよう設計してある。透かしの挿入と識別に、さまざまな画像セットで訓練した2つの深層学習モデルを使用している。
-
-:::box
-
-:::</description><pubDate>Sat, 02 Sep 2023 06:06:13 +0000</pubDate></item></channel></rss>
+COBOLで構築したアプリのコードを選択的、段階的にJavaに変換できる。対象となる潜在COBOLコードは数十億行に上るとIBMは推定している。また分析ツール「Application Discovery and Delivery Intelligence（ADDI）」と組み合わせて展開し、アプリのリファクタリング（再設計）、自動テスト、結果の検証なども行える。アプリの改修に伴う総コスト、複雑性、リスクの管理なども可能としている。</description><pubDate>Sat, 02 Sep 2023 06:41:20 +0000</pubDate></item></channel></rss>
