@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Sep 2023 05:50:23 +0000</lastBuildDate><item><title>“AIに資料作らせ徹夜なくす” 「Duet AI for Google Workspace」一般提供開始
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Sep 2023 03:18:44 +0000</lastBuildDate><item><title>法務・会計の専門家 AIに楽観的 3分の2弱が「自分の評価はむしろ上がる」と認識</title><link>https://ledge.ai/articles/thomsonreuters_future_of_professionals</link><description>法務・会計の専門家の多くはAIの影響を楽観的にとらえている。Thomson Reuters（ロイター）が2023年8月22日 にこんな{target=“_blank”}をまとめた。
+
+調査によると、専門家の3分の1弱（64％）はAIの台頭によって自分の技能の価値が下がるのではなく、むしろ上がる可能性が高いと考えている。そのうちのほぼ4分の1 (24%) が影響は今後18か月以内にあらわれると予想している。
+
+一方で3分の1 (33%) はAIの台頭によって自分の職業が失われ、技能が求められなくなるなど、見通しは暗くなるだろうと述べた。
+
+いずれにせよ専門家の67%が、AIが今後5年間で彼らの職業に大きな影響を与えると答えている。66%以上が、AIが新たな専門家のためのキャリアパスを生み出すと予測しており、68%が今後5年間で伝統的な法務または税務上の資格を必要としない仕事が増加すると予想した。
+
+!
+:::small
+画像出典：{target=“_blank”}
+:::
+
+また専門家の45%はAIで生産性が上がると回答。67%は仕事への動機づけの中で「高品質な助言を提供すること」を重要視している。AI技術の進化と導入により、専門家として果たす役割に新たな意味や価値が生まれつつあることを示しているという。
+
+AI導入にあたり、何を最大の懸念とするかという問いに対し、精度の低下（25%）、失業（19%）、職業全体の消滅（17%）、データセキュリティ（15%）、および倫理（15%）が挙げられた。ロイターは責任あるAIの開発が今後の社会課題だと述べた。
+
+調査は2023年5～6月、北米、中南米、および英国の法務・会計等の専門家1,200人以上を対象にインターネット上で実施した。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 08 Sep 2023 03:18:44 +0000</pubDate></item><item><title>“AIに資料作らせ徹夜なくす” 「Duet AI for Google Workspace」一般提供開始
 </title><link>https://ledge.ai/articles/duet_ai_for_google_workspace</link><description>AIが人間の代わりにプレゼンテーション資料を生成したり、ビデオ会議の設定を調整したりするサービス「Duet AI for Google Workspace」を、Googleが2023年8月30日に{target=“_blank”}した。
 
 Googleの各種業務用アプリケーションをまとめた「Google Workspace」の追加機能「アドオン」として有償で利用できる。大組織向けプラン「Enterprise」を利用している場合の料金は、各種報道などによると月額30ドル。
@@ -217,45 +242,4 @@ SynthIDは画質を損なわず、フィルターの追加、色の変更、JPEG
 
 :::box
 
-:::</description><pubDate>Sat, 02 Sep 2023 06:06:13 +0000</pubDate></item><item><title>米国で「生成AI地ビール」ChatGPTがレシピ作成 Midjourneyがラベルデザイン
-</title><link>https://ledge.ai/articles/night_shift_brewing_chatgpt</link><description>:::small
-画像出典：Night Shift Brewing
-:::
-
-米国のクラフトブルワリーが、AIを活用し新しい地ビールを開発している。ボストンのNight Shift Brewing（ナイトシフト・ブルーイング）は2023年2月「{target=“_blank”}」という地ビールを発表した。
-
-!
-:::small
-画像出典：Night Shift Brewing
-:::
-公式サイトによると、ビールのスタイル、完全なレシピ、名前、ラベルはすべてAIがデザインした。対話型AI（チャットボット）「ChatGPT」 と画像生成AI「Midjourney」を組み合わせた。人間は テキストによる指示「プロンプト」や質問を通じて工程を誘導したが、ほとんどの部分でAIが決定を下したという。ビール自体はマンゴーとスイカの弾けるような味わいが楽しめ、生き生きとしたレモンとライムの香りも感じられるという。
-
-またミシガン州デトロイトのAtwater Brewery（アトウォーター・ブルワリー）も2023年1月に「{target=“_blank”}」を発表。さらにニューメキシコ州のRio Bravo Brewing Company（リオ・ブラボー・ブルーイング）は、4月にAIを使用したペールエール「{target=“_blank”}」を市場に投入している。
-
-!
-:::small
-出典：Atwater Brewery
-:::
-
-!
-:::small
-Rio Bravo Brewing Company
-:::
-
-アーティフィシャル・インテリジェンスIPAもAIがデザインしたという銘柄。往年のSF映画「2001年宇宙の旅」に登場するAI「HAL 9000」 のオマージュとして、価格は1パイントあたり2.001ドルに設定した。
-
-
-
-アルゴリズムもAI生成を打ち出しており、センテニアルやアマリロなどの昔ながらのホップを使用し、グレープフルーツのオレンジマーマレード風味を感じられる仕上がりになったとのこと。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 01 Sep 2023 06:49:40 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Sat, 02 Sep 2023 06:06:13 +0000</pubDate></item></channel></rss>
