@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Sep 2023 12:55:01 +0000</lastBuildDate><item><title>Teslaの「完全自動運転」突如値下げ 「看板に偽りあり」と批判も</title><link>https://ledge.ai/articles/tesla_fsd_price_cut</link><description>米国Teslaが、電気自動車向けに用意している「Full Self-Driving（FSD：完全自動運転）」オプションが2023年9月に入った値下げになったとして、ちょっとした話題になっている。完全自動運転なる名称が誇張だという批判もあいまって、意図について取り沙汰があるようだ。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Sep 2023 14:51:51 +0000</lastBuildDate><item><title>英Arm 7.7兆円で上場へ Apple・NVDIA・Googleなどが出資
+</title><link>https://ledge.ai/articles/arm_ipo</link><description>ソフトバンクグループ傘下の半導体設計大手、英国Arm Holdings（Arm）は現地時間の2023年9月5日、新規株式公開（IPO）に関する説明会（ロードショー）を開始したと{target=“_blank”}した。AIの学習ではGPUのみならず、連携するCPUの設計が重要になっており、Armの動向は関心の集まるところ。
+
+ソフトバンクグループは2016年にArmを買収。ただし孫正義社長は以前から繰り返し再上場を示唆。一方で米国の半導体大手NVIDIAへの売却も検討したが、独占禁止法の問題などで白紙になった経緯がある。
+
+今回正式に決まった上場先は国際展開する大手企業を対象にした米国のNASDAQ Global Select Market（ナスダック・グローバルセレクトマーケット）。銘柄を示すティッカーシンボルは「ARM」。IPO時の価格は1株あたり47.00～51.00米ドルの範囲と推定している。ソフトバンクグループの持ち株の1割程度にあたる合計9,550万株の米国預託株式（ADS）のを売り出す。なお追加販売（オーバーアロットメント）が発生した場合に備え引受人に最大700万株のADSを追加購入できる選択肢（オプション）を付与する。時価評価額は最大で約520億ドル（約7兆7,000億円）になる。
+
+米国ニューヨークなどに拠点を置く投資会社The Raine Group傘下のRaine Securitiesが財務アドバイザーを、英国Barclays（バークレイズ）、米国Goldman Sachs（ゴールドマン・サックス）、J.P. Morgan（JPモルガン）、日本のみずほ証券の各社が共同ブックランニング・マネージャーを務める。
+
+Apple、Google International、半導体開発用ソフトウェア（EDA）大手Cadence Design SystemsやSynopsys、半導体大手のIntel、Advanced Micro Devices（AMD）、NVIDIA、韓国サムスン電子、台湾TSMC差傘下のTSMC Partners、MediaTekの関連会社が購入に{target=“_blank”}いる。
+
+CPU設計の雄であるArmは自体がAI向け製品に力を入れるばかりか、他社にとっても重要な存在。例えばNVDIAの夏の目玉となったAI向けCPUとGPUの統合製品「 GH200 Grace Hopper Superchip」もArm規格のCPUを組み込んでいる。
+
+:::box
+[関連記事：NVIDIA、次世代「GH200 Grace Hopper Superchip」 大規模言語モデル向けCPU・GPU統合製品
+](https://ledge.ai/articles/adobe_gh200_gracde_hopper_superchip)
+:::</description><pubDate>Fri, 08 Sep 2023 14:51:51 +0000</pubDate></item><item><title>Teslaの「完全自動運転」突如値下げ 「看板に偽りあり」と批判も</title><link>https://ledge.ai/articles/tesla_fsd_price_cut</link><description>米国Teslaが、電気自動車向けに用意している「Full Self-Driving（FSD：完全自動運転）」オプションが2023年9月に入った値下げになったとして、ちょっとした話題になっている。完全自動運転なる名称が誇張だという批判もあいまって、意図について取り沙汰があるようだ。
 
 Teslaは何種類かの運転支援機能を用意している。例えば「Autopilot（オートパイロット）」は目下標準装備となっている一方、より内容の充実したFSDはオプションで、9月時点での米国価格は月額199ドルまたは買い切り価格の1万2,000ドル。
 
@@ -210,22 +226,4 @@ GP Partnersは、ChatGPTのようなAIの開発と「データ主体（つまり
 :::
 :::box
 
-:::</description><pubDate>Tue, 05 Sep 2023 07:25:06 +0000</pubDate></item><item><title>スタバ 中国・深センにDX施設、3年間で300億円を投資 データ分析やモデリングの拠点に</title><link>https://ledge.ai/articles/starbucks_sitc</link><description>:::small
-Unsplashのkevsが撮影した写真
-:::
-
-米国スターバックスは2023年8月17日、中国の広東省深セン市に「Starbucks China Innovation and Technology Center（SITC）」を設立すると{target=“_blank”}した。2023年9月に稼働開始する予定で、深セン市などによると今後3年間で約15億元（約300億円）を投資する。
-
-SITCはデータ分析、モデリングなどを駆使して、中国での小売業務や、店舗やWebサイトなどを連携させたオムニチャネル事業のデジタル化を進める。
-
-店舗運営の簡素化と自動化、革新的なコーヒーなどの飲料や食品の提供、サプライチェーンや店舗開発、運営のデジタル化、環境フットプリントの削減に焦点を当てる。スターバックスは2023年現在、世界86市場で37,000以上の店舗を運営。2025年までに、中国に9,000店舗を展開する。2023年秋には、統合配送センターなどのインフラを備える「Starbucks China Coffee Innovation Park」のオープンも予定している。
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Mon, 04 Sep 2023 05:56:22 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Tue, 05 Sep 2023 07:25:06 +0000</pubDate></item></channel></rss>
