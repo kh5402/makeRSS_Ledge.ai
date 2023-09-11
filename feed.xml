@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Sep 2023 14:51:51 +0000</lastBuildDate><item><title>英Arm 7.7兆円で上場へ Apple・NVDIA・Googleなどが出資
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 09 Sep 2023 07:34:29 +0000</lastBuildDate><item><title>中国Tencentの大規模基盤モデル「混元」外部企業に開放 連携アプリ開発可能に</title><link>https://ledge.ai/articles/tencent_hunyuan</link><description>中国腾讯（Tencent）は独自開発した大規模基盤モデル「{target=“_blank”}」を2023年9月7日に正式発表した。中国企業はクラウドサービス「腾讯雲（Tencent Cloud）」を利用し、アプリケーション・プログラミング・インターフェイス（API）を通じて混元の機能を組み込んだアプリの試験、構築などを行える。
+
+混元は中国語処理能力などを特徴として打ち出している。導入企業は用途に合わせてファインチューニング（微調整）が可能。画像生成、コピーライティング、文章認識、顧客対応といった機能を持ち、金融、公共サービス、ソーシャルメディア、電子商取引（EC）、運輸、ゲームなどで役立つと説明している。
+
+Tencentの既存製品との連携も特徴。例えばビデオ会議アプリケーション「会開会（Tencent Meeting）」 にはHunyuanを利用したAIアシスタントを組み込んでおり、自然言語の指示で会議議事録の作成などを行う。オフィススイート「腾讯文档（Tencent Docs）」でもさまざまな形式の文章をワンクリックで生成することが可能だ。
+
+:::box
+
+:::</description><pubDate>Sat, 09 Sep 2023 07:34:29 +0000</pubDate></item><item><title>英Arm 7.7兆円で上場へ Apple・NVDIA・Googleなどが出資
 </title><link>https://ledge.ai/articles/arm_ipo</link><description>ソフトバンクグループ傘下の半導体設計大手、英国Arm Holdings（Arm）は現地時間の2023年9月5日、新規株式公開（IPO）に関する説明会（ロードショー）を開始したと{target=“_blank”}した。AIの学習ではGPUのみならず、連携するCPUの設計が重要になっており、Armの動向は関心の集まるところ。
 
 ソフトバンクグループは2016年にArmを買収。ただし孫正義社長は以前から繰り返し再上場を示唆。一方で米国の半導体大手NVIDIAへの売却も検討したが、独占禁止法の問題などで白紙になった経緯がある。
@@ -200,30 +208,4 @@ Delangue氏は今回の出資企業だけでもすでにHugging Face上で1,000�
 :::
 :::box
 
-:::</description><pubDate>Tue, 05 Sep 2023 08:52:48 +0000</pubDate></item><item><title>OpenAIついにEUデータ保護規則違反で訴訟に「事前に当局と協議すべきだった」</title><link>https://ledge.ai/articles/openai_sued_for_gdpr_violation</link><description>:::small
-photo by {target=“_blank”}
-:::
-
-ポーランドの法律事務所GP Partnersは2023年8月31日、サイバーセキュリティとプライバシーの研究者 Lukasz Olejnik博士の原告代理人として、米国OpenAIが欧州連合（EU）の包括的な一般データ保護規則（GDPR）に違反したとして、ポーランドのデータ保護当局に訴状を提出したと{target=“_blank”}した。
-
-EUはGDPRを2016年4月に制定、2018年5月25日に施行している。EUのデータ保護指令より個人データやプライバシーの保護に関して厳格に規定した内容だ。
-
-{target=“_blank”}によると、訴状では、OpenAIが法的根拠、透明性、公平性、データアクセス権、設計上のプライバシーといった幅広い側面にわたりGDPRに違反していると主張している。経緯としては、Olejnik博士がOpenAIが開発する対話型AI（チャットボット）「ChatGPT」を使用して自分の伝記を生成したところ、いくつかの誤謬（ごびゅう）を含んでいるのに気づき、3月末頃にOpenAIに連絡して修正を求めた。また博士はGDPRに基づき、OpenAIが持つ彼の情報を提供することも促した。6月にかけて博士とOpenAIの間でメールのやりとりがあり、OpenAIは一部の情報を提供したが、法が義務付ける内容としては不十分だったという。
-
-GP Partnersは、ChatGPTのようなAIの開発と「データ主体（つまりOlejnik博士）」の権利を調和させることは可能なはずだとしている。またAIの開発に数十億ドルを費やすのであれば一部をGDPR準拠のために割り当てることはできるし、もしOpenAIが自社サービスとGDPRの調和に疑問を抱いた場合、制度にのっとって事前にデータ保護当局と協議しておくべきだったとも指摘した。
-
-!
-:::small
-{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 05 Sep 2023 07:25:06 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Tue, 05 Sep 2023 08:52:48 +0000</pubDate></item></channel></rss>
