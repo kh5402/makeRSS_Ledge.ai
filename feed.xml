@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 10 Sep 2023 04:33:48 +0000</lastBuildDate><item><title>Microsoftが「AIバックパック」の特許申請 スマホ出さず音声アシストや予定管理など可能に</title><link>https://ledge.ai/articles/microsoft_ai_back_pack</link><description>米国Microsoftはスマートフォンを手に持っていなくても、AIにさまざまな助言を受けられるスマートバックパックに関する特許を申請した。{target=“_blank”}が現地時間の2023年8月24日付の文書を公開している。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 10 Sep 2023 09:08:38 +0000</lastBuildDate><item><title>長いSlackのスレッド AIで要約「Slack AI」今冬にも導入へ</title><link>https://ledge.ai/articles/slack_ai</link><description>コミュニケーションアプリケーション「Slack」が、生成AI機能「Slack AI（以前のSlack GPT）」のクローズドベータを今冬より開始する。開発元である米国Salesforce子会社Slack Technologiesが2023年9月6日に{target="_blank"}した。
+
+### Slack AI
+!
+:::small
+出典：Slack Technologies
+:::
+Slack AIは、Slack上に蓄積したメッセージ、キャンバス、クリップなどの情報を要約して簡単に利用できるようにするための機能。今回の発表では「channels recap（チャンネルの要約）」「thread summaries（スレッドの概要）」「search answers（回答の検索）」の3つをあらためて紹介している。
+
+チャンネルの要約は名前の通り、任意のチャンネルを選んで要点を取り出す。例えば客先との連絡に利用しているチャンネルから重要な話題を即座に抽出できるとしている。
+
+スレッドの概要は、チャンネル内の任意のスレッドの要点を取り出す。例えばカスタマーサポートチームがひとつの事例に群がってスレッドが長く伸びたあとになって、対象分野の専門家をスレッドに追加したとする。専門家がこの機能を利用すればすぐに状況を把握し、問題の解決に取り組める、としている。
+
+回答の検索を使用すると、質問するだけで関連するSlackメッセージにもとづく明確で簡潔な回答を得るられる。 例えば新規プロジェクトについて学ぶ場合、この機能でプロジェクトの目標、主要な関係者などをすぐ把握できるという。
+
+### リスト機能
+!
+:::small
+出典：Slack Technologies
+:::
+なおSlack AIとは別に「List（リスト）」機能についても今冬クローズドベータを始めるとの予告もあった。短い説明動画を見る限り、複数の作業について、それぞれ担当者や進行状況、期日などを記録し、一覧管理できるようになる。
+
+Slackのほかの機能と同じように作成したリストについての通知も受け取れる。リスト中の任意の項目について、それぞれ個別にスレッドを作成して相談が可能。またリストはファイルやメッセージと同じ要領でSlack内のどこでも共有できる。ほかのSlackと並行してコミュニケーションアプリのリスト機能を利用していた企業の手間を省くのが狙いだとしている。
+
+:::box
+
+:::</description><pubDate>Sun, 10 Sep 2023 09:08:38 +0000</pubDate></item><item><title>Microsoftが「AIバックパック」の特許申請 スマホ出さず音声アシストや予定管理など可能に</title><link>https://ledge.ai/articles/microsoft_ai_back_pack</link><description>米国Microsoftはスマートフォンを手に持っていなくても、AIにさまざまな助言を受けられるスマートバックパックに関する特許を申請した。{target=“_blank”}が現地時間の2023年8月24日付の文書を公開している。
 
 申請中の特許は「AI支援ウェアラブル」に関するもの。 バックパックを代表として挙げていて、音声で指示をすると自動で周囲にあるものを識別してさまざまな機能を発揮する。特徴のひとつは指示があまり詳しくはっきりしたものではない「非明示的」な内容であっても、AIが文脈を汲み取って適切な反応をする、という点だ。
 
@@ -182,29 +208,4 @@ CPU（中央処理装置）ベースの富岳と異なり語岳はGPU（画像�
 
 :::box
 
-:::</description><pubDate>Wed, 06 Sep 2023 07:01:01 +0000</pubDate></item><item><title>X（旧Twitter）利用者の投稿はAIの訓練に使う 新プライバシーポリシーに明記</title><link>https://ledge.ai/articles/x_revises_privacy_policy</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-X（旧Twitter）は利用者の公開データをAIの訓練に使うことを{target=“_blank”}に明記した。米国時間の2023年9月29日から適用開始となる。Xを所有するイーロン・マスク氏は、「公開データのみが対象で、DM（ダイレクトメッセージ）やそのほかのプライベートな内容は対象外」と1日に[投稿](
-https://twitter.com/elonmusk/status/1697328706178502737){target=“_blank”}
-した。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-!
-
-:::small
-画像：上：{target=“_blank”} / 下：{target=“_blank”} 強調はLedge.ai編集部による
-:::
-
-なお、利用者の同意に基づき生体情報を収集するともしている。安全確保や身元確認が目的とする。さらに求職者に求人を紹介したり、求人企業に求職者の情報を共有したりするために職歴、学歴、仕事に関する希望、技術、能力、求職活動および内定などの情報も取得する場合があるという。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 06 Sep 2023 04:37:49 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 06 Sep 2023 07:01:01 +0000</pubDate></item></channel></rss>
