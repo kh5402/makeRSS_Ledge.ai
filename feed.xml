@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 03:47:23 +0000</lastBuildDate><item><title>Appleまたも「AI」なしで製品発表 実はiPhone 15は「機械学習」性能を強化 </title><link>https://ledge.ai/articles/apple_iphone_15</link><description>米国Appleが現地時間2023年9月11日に発表した「{target="blank"}」をはじめとする新製品の数々。いずれも性能の紹介について「人工知能（AI）」といううたい文句を控えつつ、「機械学習（ML）」への対応強化を打ち出した。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 03:47:23 +0000</lastBuildDate><item><title>プレゼン資料の画像をAI生成「Google Slides」に新機能</title><link>https://ledge.ai/articles/duet_ai_googleslides</link><description>:::small
+画像出典：{target=“_blank”}
+:::
+
+米国Googleは現地時刻の2023年8月29日、プレゼンテーション用アプリケーション「Google Slides」で、スライド内の文章に合わせた画像を生成して組み込む機能を{target=“_blank”}した。生成AIによる事務支援「Duet AI for Google Workspace」の一部。
+
+Googleは同じ日にDuet AI for Google Workspaceの一般提供開始を発表した。AIが人間の代わりにプレゼンテーション資料を生成したり、ビデオ会議の設定を調整したりするサービスだ。Googleの各種業務用アプリケーションをまとめた「Google Workspace」の追加機能「アドオン」として有償で利用できる。
+
+AIによる画像生成は、従来のようにGoogle Slideで作成中の資料に画像を挿入するときと手順はほとんど変わらないという。「Help me visualize（視覚化するのを手伝って）」という入力欄に文字による指示「プロンプト」を入力すると、プレゼンテーション用の画像が数点生成でき、任意の画像を選択することが可能だ。
+
+!
+{target=“_blank”}
+
+:::box
+
+:::</description><pubDate>Tue, 12 Sep 2023 07:49:33 +0000</pubDate></item><item><title>Appleまたも「AI」なしで製品発表 実はiPhone 15は「機械学習」性能を強化 </title><link>https://ledge.ai/articles/apple_iphone_15</link><description>米国Appleが現地時間2023年9月11日に発表した「{target="blank"}」をはじめとする新製品の数々。いずれも性能の紹介について「人工知能（AI）」といううたい文句を控えつつ、「機械学習（ML）」への対応強化を打ち出した。
 
 Appleは6月の開発者会議「WWDC23」でも「AI」について打ち出さず、さりげなく「ML」機能の強化をちりばめていた。
 
@@ -206,19 +221,4 @@ AI導入にあたり、何を最大の懸念とするかという問いに対し
 :::box
 
 :::
-</description><pubDate>Fri, 08 Sep 2023 03:18:44 +0000</pubDate></item><item><title>“AIに資料作らせ徹夜なくす” 「Duet AI for Google Workspace」一般提供開始
-</title><link>https://ledge.ai/articles/duet_ai_for_google_workspace</link><description>AIが人間の代わりにプレゼンテーション資料を生成したり、ビデオ会議の設定を調整したりするサービス「Duet AI for Google Workspace」を、Googleが2023年8月30日に{target=“_blank”}した。
-
-Googleの各種業務用アプリケーションをまとめた「Google Workspace」の追加機能「アドオン」として有償で利用できる。大組織向けプラン「Enterprise」を利用している場合の料金は、各種報道などによると月額30ドル。
-
-「Gmail」「Googleドキュメント」「Googleスライド」「Googleスプレッドシート」「Google Meet」などのアプリケーションで、AIによる支援を受けられる。プレゼンテーション資料の自動作成や、ビデオ会議設定の自動調整や会議中の即時翻訳、要約、メール返信の自動生成などだ。
-
-プライバシーとセキュリティの面では、Duet AIとのやり取りはほかの利用者に知られず、データを許可なくAIの学習に使用されないといった特徴がある。一方外部サービスとも連携可能。例えば「Typeface」や「Jasper」などを利用し、Workspace内で生成AIを使用してパーソナライズされたコンテンツを作成できる。
-
-Googleは具体的な用例も挙げる。夕方の17時に上司から「明日の午前8時までに第 3四半期の業績に関するプレゼンをしてほしい」とメールを受け取ったとする。従来は関連するスプレッドシート、P&amp;Lドキュメント、月次ビジネスレビューのスライド、地域の見込み顧客からのメールなどを人力で読み漁る必要があったが、Duet AIがあれば「第3四半期業績の要約を作成してください」のようなプロンプトを入力するだけでテキスト、グラフ、画像の入った資料ができあがる。徹夜が必要だった土壇場の依頼も夕食前に完了できるようになる、という。
-
-なお導入を検討する企業は14日間の{target=“_blank”}に参加できる。
-
-:::box
-
-:::</description><pubDate>Thu, 07 Sep 2023 01:58:37 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 08 Sep 2023 03:18:44 +0000</pubDate></item></channel></rss>
