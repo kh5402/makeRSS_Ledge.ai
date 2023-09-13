@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 10 Sep 2023 09:08:38 +0000</lastBuildDate><item><title>長いSlackのスレッド AIで要約「Slack AI」今冬にも導入へ</title><link>https://ledge.ai/articles/slack_ai</link><description>コミュニケーションアプリケーション「Slack」が、生成AI機能「Slack AI（以前のSlack GPT）」のクローズドベータを今冬より開始する。開発元である米国Salesforce子会社Slack Technologiesが2023年9月6日に{target="_blank"}した。
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 03:47:23 +0000</lastBuildDate><item><title>Appleまたも「AI」なしで製品発表 実はiPhone 15は「機械学習」性能を強化 </title><link>https://ledge.ai/articles/apple_iphone_15</link><description>米国Appleが現地時間2023年9月11日に発表した「{target="blank"}」をはじめとする新製品の数々。いずれも性能の紹介について「人工知能（AI）」といううたい文句を控えつつ、「機械学習（ML）」への対応強化を打ち出した。
+
+Appleは6月の開発者会議「WWDC23」でも「AI」について打ち出さず、さりげなく「ML」機能の強化をちりばめていた。
+
+!
+:::small
+出典：Apple
+:::
+今回のスマートフォン「iPhone 15」と「iPhone 15 Plus」の頭脳にあたるSoC「A16 Bionic」は6コアのCPUと5コアのGPU、加えて新たな16コアNeural Engineで構成。毎秒17兆回近くの演算が可能で「iOS 17」のライブ留守番電話の書き起こしのような機能や、他社製アプケーションのML処理が高速に行えるとしている。
+
+!
+:::small
+出典：Apple
+:::
+
+ワイヤレスイヤホン「AirPods Pro（第2世代）」はMLを活用し、音量について利用者の好みを学習して自動で微調整する。
+
+!
+:::small
+出典：Apple
+:::
+スマートウォッチ「Apple Watch Series 9」「Apple Watch Ultra 2」もそれぞれ従来の「Apple Watch Series 8」「Apple Watch Ultra」と比べて最大2倍高速にML処理が行える4コアNeural Engineを搭載する。
+
+各製品とも大げさな宣伝はないものの、着実に新技術の採用を進めていることがうかがえる発表だった。
+
+:::box
+
+:::</description><pubDate>Wed, 13 Sep 2023 03:47:23 +0000</pubDate></item><item><title>「世界AI原則」創作物の無許可使用を拒絶 国内外の報道・メディア26団体が署名</title><link>https://ledge.ai/articles/global_principles_on_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+世界ニュース発行者協会（WAN-IFRA）など世界の報道・メディア26団体が発表した｢世界AI原則」に、日本新聞協会は2023年9月6日賛同し、署名したと{target=“_blank”}した。
+
+この原則では、特に生成AIの技術について、社会に利益をもたらす一方、クリエイティブ産業の持続可能性や知識・ジャーナリズム・科学に対する人々の信頼、さらに民主主義の健全性にリスクをもたらすと指摘した。そのうえで、開発や規制に適用すべき考え方として「知的財産」「透明性」「説明責任」などの分野にわたり12の項目にまとめている。
+
+!
+出典：News/Media Alliance
+
+例えば「知的財産」では、AIを開発・運営・および展開する際の、オリジナルコンテンツへの投資を保護し、権利を尊重すること。また「透明性」では、著作者や権利保有者、利用者に対して詳細を提供する必要性などが挙げられた。
+
+AI開発に協力の意志を示しつつ、明示的な許可なしに独自の創作物を収集したり、取り込んだり、使用してはならないと主張している。
+
+「世界AI原則」本文は、米ニュース／メディア連合ウェブサイトで{target=“_blank”}されている。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 12 Sep 2023 07:45:39 +0000</pubDate></item><item><title>長いSlackのスレッド AIで要約「Slack AI」今冬にも導入へ</title><link>https://ledge.ai/articles/slack_ai</link><description>コミュニケーションアプリケーション「Slack」が、生成AI機能「Slack AI（以前のSlack GPT）」のクローズドベータを今冬より開始する。開発元である米国Salesforce子会社Slack Technologiesが2023年9月6日に{target="_blank"}した。
 
 ### Slack AI
 !
@@ -171,41 +221,4 @@ Googleは具体的な用例も挙げる。夕方の17時に上司から「明日
 
 :::box
 
-:::</description><pubDate>Thu, 07 Sep 2023 01:58:37 +0000</pubDate></item><item><title>理研 AI用スパコン「語岳」整備 「富岳」と組み合わせ「世界一」と同等性能確保</title><link>https://ledge.ai/articles/riken_gogaku_fugaku</link><description>:::small
-photo by {target=“_blank”}
-:::
-
-理化学研究所（理研）が、AI向けスーパーコンピュータ「語岳」を整備する。既存のスパコン「富岳」と組み合わせ、世界一の米国製「Aurora（オーロラ）」と同等の性能を目指す。2023年9月5日の{target=“_blank”}が報じている。
-
-CPU（中央処理装置）ベースの富岳と異なり語岳はGPU（画像処理装置）ベースで、AI向けの計算性能は富岳の4.5倍という。浮動小数点数を8bit形式であらわす低精度演算については9EFLOPS（エクサフロップス）つまり1秒間に900京（けい）回行える。一方で浮動小数点数を64bit形式であらわす倍精度演算では0.147EFLOPSで富岳の4分の1弱。それぞれ強味が異なる2つのスパコンを20Tbit/s（兆ビット毎秒）のネットワークで接続する。
-
-米国IntelとHewlett Packard Enterpriseが共同設計し2023年6月22日に導入完了した米国アルゴンヌ国立研究所の{target=“_blank”}はCPUとGPUの組み合わせで性能を高める設計で、語岳と富岳も同様の手法で計算能力を確保する。
-
-例えば対話型AI（チャットボット）「ChatGPT」の中枢である基盤モデル「GPT-4」の詳しい仕様は非公開だが、日刊工業新聞によると、富岳のみの場合、同様の基盤モデルを訓練するのに1年以上かかる。一方でオーロラは1週間から1カ月で計算でき、富岳も語岳と組み合わせれば同等の期間で計算できるという。
-
-文部科学省は、AIスパコン整備の関連費用を2024年度予算の{target=“_blank”}に盛り込むことを明らかにした。理由として、基盤モデルを保有する国と保有しない国の間で研究開発力や産業競争力に格差が生じることを懸念している。
-
-!
-:::small
-画像：{target=“_blank”}より
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 07 Sep 2023 05:50:23 +0000</pubDate></item><item><title>noteとAdobeが連携 AIで記事の見出し画像生成 年内に実現</title><link>https://ledge.ai/articles/adobe_note_generate_headline_image</link><description>誰でも記事を書いて公開できる「note」が、新たな生成AI機能を導入する。文章の内容に合わせて画像を生成し、見出しとして掲載できるという。Adobe（アドビ）の協力で実現するもので、両社が2023年8月29日に{target=“_blank”}した。パソコン版のnoteで年内にも利用可能になる見込みだ。
-
-今後、noteの記事投稿画面をアドビのオンライン画像編集サービス「Adobe Express」と連携。Adobe Expressからアドビの画像生成AI「Firefly」を呼び出し、文章を入力するだけで見出し画像を生成できるようにする。
-
-見出し画像はnoteや外部SNSのタイムラインにあらわれ、記事がより多くの人の目にとまるための重要な要素のひとつ。なおFireflyは、アドビの画像素材サービス「Adobe Stock」や一般公開しているライセンスコンテンツ、著作権が失効しているパブリックドメインコンテンツから学習しており、他者の知的財産権を侵害する画像を生成しないよう設計してあるという。
-
-:::box
-
-:::</description><pubDate>Wed, 06 Sep 2023 07:01:01 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Thu, 07 Sep 2023 01:58:37 +0000</pubDate></item></channel></rss>
