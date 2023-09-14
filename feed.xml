@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 03:47:23 +0000</lastBuildDate><item><title>プレゼン資料の画像をAI生成「Google Slides」に新機能</title><link>https://ledge.ai/articles/duet_ai_googleslides</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 09:50:21 +0000</lastBuildDate><item><title>“ChatGPT超え” 生成AI「Gemini」Googleが秋公開へ サイズ「巨大化」の今後占う</title><link>https://ledge.ai/articles/google_deepmind_gemini</link><description>:::small
+画像出典：Google 
+:::
+
+米国Google傘下の英国DeepMind Technologies（Google DeepMind）のデミス・ハサビス最高経営責任者（CEO）が開発中の新たな大規模言語モデル（LLM）「{target=“_blank”}」について{target=“_blank”}の現地時間2023年6月26日の記事で明かして以来、この話題は多大な注目を浴びてきた。8月15日付けで続報を伝えた{target=“_blank”}によると、Geminiは今秋にも公開予定。開発が順調であればいよいよ全貌が明らかになる時期が近づいている。
+
+Geminiは、2015〜2016年にかけて囲碁のトップ棋士を次々に破って話題となったDeepMindのAI「AlphaGo」で用いた強化学習の技術とLLMを組み合わせたものになるという。
+
+Geminiが初めて公になったのは、2023年5月のグーグル開発者会議「{target=“_blank”}」だ。開発はまだ進行中で、完成までには数か月と数千万ドルから数億ドルの費用がかかる可能性があるとのうわさだった。Geminiの完成により、Googleは、OpenAIのチャットボット「ChatGPT」などが採用する最新LLM「GPT-4」に対抗できるようになると期待が集まっている。。
+
+GPT-4の詳細は非公開だが、OpenAIのより世代の古いLLMである「GPT-3.5 Turbo」などに比べAIのサイズの目安となるパラメータ数が大幅に増えていると多くの研究者が推測している。対抗馬となるGeminiが同じ巨大化路線でさらなる性能向上に成功するのか、あるいは別の手法で革新を起こそうとしているのかも関心の集まるところだ。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 13 Sep 2023 09:50:21 +0000</pubDate></item><item><title>KDDIとAWS 生成AIの「推し」はオープンソース・スタートアップ製 企業・自治体へ導入支援</title><link>https://ledge.ai/articles/kddi_aws</link><description>KDDIとアマゾン ウェブ サービス ジャパン（AWS）が企業や自治体が生成AIを利用できるよう支援サービスを2023年10月をめどに始める。9月1日付けで包括的な協力関係を結んだと{target=“_blank”}した。
+
+米国OpenAIの「ChatGPT」やGoogleの「Bard」などクローズドソースの生成AIが注目を浴びるが、今回両社はオープンソースやスタートアップ製に重点を置く。KDDIグループのアイレットなどがAWSのクラウドサービスを使った生成AI用インフラ設計、構築、運用保守、データ活用プラットフォームの提供、アプリケーション開発を担当する。
+
+またKDDIの組織「KDDI ∞ Labo（ムゲンラボ）」が企業、自治体とスタートアップのビジネスマッチングを行う。それぞれの課題に特化した生成AIのファインチューニング（微調整）が可能としている。
+
+!
+:::small
+画像出典：{target=“_blank”}より
+:::
+
+AWSは多様な基盤モデルやコスト性能に優れた計算基盤などを企業や自治体に提供する。スタートアップ向けには「AWS Activate」プログラムを通じたツール、リソース、専門家による支援を行う。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 12 Sep 2023 13:48:16 +0000</pubDate></item><item><title>プレゼン資料の画像をAI生成「Google Slides」に新機能</title><link>https://ledge.ai/articles/duet_ai_googleslides</link><description>:::small
 画像出典：{target=“_blank”}
 :::
 
@@ -173,52 +211,4 @@ ChatGPTについて聞いたことのある社会人ののうち、こうした�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 11:52:49 +0000</pubDate></item><item><title>Zoom 遅刻した会議をAIが要約「Zoom AI Companion」拡大 有料会員は追加料金なしで利用可能</title><link>https://ledge.ai/articles/zoom_ai_companion</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ビデオ会議アプリケーション「Zoom」で会議の内容を自動要約するなど、生成AIを活かした機能「Zoom AI Companion（以前のZoom IQ）」が拡大し、有料版を契約していれば追加料金なしで利用可能になった。開発元の米国Zoom Video Communicationsが2023年9月5日に{target=“_blank”}した。
-
-Zoom AI Companionでは例えば、遅れてビデオ会議に参加した人が、チャットで質問をすると、生成AIが進行中の議事の要約を示したり、議事に関する質問に回答したりする。ほかにもチャットの返信をAIに提案させるといったことが可能だ。
-
-9月時点では「ミーティング」と「チームチャット」の2つのサービスで利用できる。今後順次、電話機能、メール機能、ホワイトボード機能を含むZoomのサービス全体で導入が進む見通し。
-
-!
-:::small
-画僧出典：{target=“_blank”}
-:::
-
-Zoom独自の大規模言語モデル（LLM）に加えMeta Llama 2、OpenAI、Anthropicなどの他社のLLMを組み合わせて利用している。
-
-なお利用者の音声、動画、チャット、共有した画面、添付ファイルなどの情報はAIの訓練に使用しないとしている。ただし一部の業種、地域では有料版を契約してもZoom AI Companionを利用できない場合があると断っている。
-
-@
-
-:::box
-
-:::</description><pubDate>Fri, 08 Sep 2023 05:21:20 +0000</pubDate></item><item><title>法務・会計の専門家 AIに楽観的 3分の2弱が「自分の評価はむしろ上がる」と認識</title><link>https://ledge.ai/articles/thomsonreuters_future_of_professionals</link><description>法務・会計の専門家の多くはAIの影響を楽観的にとらえている。Thomson Reuters（ロイター）が2023年8月22日 にこんな{target=“_blank”}をまとめた。
-
-調査によると、専門家の3分の1弱（64％）はAIの台頭によって自分の技能の価値が下がるのではなく、むしろ上がる可能性が高いと考えている。そのうちのほぼ4分の1 (24%) が影響は今後18か月以内にあらわれると予想している。
-
-一方で3分の1 (33%) はAIの台頭によって自分の職業が失われ、技能が求められなくなるなど、見通しは暗くなるだろうと述べた。
-
-いずれにせよ専門家の67%が、AIが今後5年間で彼らの職業に大きな影響を与えると答えている。66%以上が、AIが新たな専門家のためのキャリアパスを生み出すと予測しており、68%が今後5年間で伝統的な法務または税務上の資格を必要としない仕事が増加すると予想した。
-
-!
-:::small
-画像出典：{target=“_blank”}
-:::
-
-また専門家の45%はAIで生産性が上がると回答。67%は仕事への動機づけの中で「高品質な助言を提供すること」を重要視している。AI技術の進化と導入により、専門家として果たす役割に新たな意味や価値が生まれつつあることを示しているという。
-
-AI導入にあたり、何を最大の懸念とするかという問いに対し、精度の低下（25%）、失業（19%）、職業全体の消滅（17%）、データセキュリティ（15%）、および倫理（15%）が挙げられた。ロイターは責任あるAIの開発が今後の社会課題だと述べた。
-
-調査は2023年5～6月、北米、中南米、および英国の法務・会計等の専門家1,200人以上を対象にインターネット上で実施した。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 08 Sep 2023 03:18:44 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 08 Sep 2023 11:52:49 +0000</pubDate></item></channel></rss>
