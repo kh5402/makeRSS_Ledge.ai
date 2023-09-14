@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 09:50:21 +0000</lastBuildDate><item><title>Google ビデオ会議の背景をAI生成 商談相手に合わせカスタマイズ可能に</title><link>https://ledge.ai/articles/duet_ai_googlemeet</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 09:50:21 +0000</lastBuildDate><item><title>TSMC AI向け半導体生産を2倍に 24年までに</title><link>https://ledge.ai/articles/tsmc_doubles_semiconductor_production_4ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+台湾の半導体製造大手TSMCが、AI向け半導体の増産を加速している。6月に先進の半導体製造後工程工場を新設稼働させるなど、重要工程の生産能力を2024年に現状の2倍に高めるという。
+
+2023年9月6日、台北市内で開催された国際展示会「セミコン台湾」にTSMC経営トップの劉徳音・董事長が{target=“_blank”}した。「AI時代の半導体技術」をテーマに講演し「AIは人々の生活や仕事を大きく変え、半導体産業に巨大なチャンスをもたらしている」と語り、AI市場の成長性を強調した。講演後、同氏は記者団に「1年半後に供給が需要に追いつく」と述べた。
+
+半導体の製造工程において、AI向け半導体の性能向上の鍵を握る先端パッケージングは、演算や記憶といった機能をそれぞれ持つ複数の半導体を一つのパッケージに収め、効率よく相互に連動させる後工程技術だ。同社は、AI向け半導体の増産のため、6月に先進の半導体製造後工程工場「Backend Fab6」を新設し、後工程の生産能力を増やす。また7月には苗栗県の別の場所に約900億台湾ドル（約4000億円）を投じ、新工場を設けることが明らかになった。着工は2024年後半、2027年には量産開始の見込みだ。
+
+:::box
+
+:::</description><pubDate>Wed, 13 Sep 2023 04:59:44 +0000</pubDate></item><item><title>Google ビデオ会議の背景をAI生成 商談相手に合わせカスタマイズ可能に</title><link>https://ledge.ai/articles/duet_ai_googlemeet</link><description>:::small
 画像出典：{target=“_blank”}
 :::
 
@@ -30,7 +41,7 @@
 
 Geminiは、2015〜2016年にかけて囲碁のトップ棋士を次々に破って話題となったDeepMindのAI「AlphaGo」で用いた強化学習の技術とLLMを組み合わせたものになるという。
 
-Geminiが初めて公になったのは、2023年5月のグーグル開発者会議「{target=“_blank”}」だ。開発はまだ進行中で、完成までには数か月と数千万ドルから数億ドルの費用がかかる可能性があるとのうわさだった。Geminiの完成により、Googleは、OpenAIのチャットボット「ChatGPT」などが採用する最新LLM「GPT-4」に対抗できるようになると期待が集まっている。。
+Geminiが初めて公になったのは、2023年5月のグーグル開発者会議「{target=“_blank”}」だ。開発はまだ進行中で、完成までには数か月と数千万ドルから数億ドルの費用がかかる可能性があるとのうわさだった。Geminiの完成によりGoogleは、OpenAIのチャットボット「ChatGPT」などが採用する最新LLM「GPT-4」に対抗できるようになると期待が集まっている。
 
 GPT-4の詳細は非公開だが、OpenAIのより世代の古いLLMである「GPT-3.5 Turbo」などに比べAIのサイズの目安となるパラメータ数が大幅に増えていると多くの研究者が推測している。対抗馬となるGeminiが同じ巨大化路線でさらなる性能向上に成功するのか、あるいは別の手法で革新を起こそうとしているのかも関心の集まるところだ。
 
@@ -186,7 +197,7 @@ Microsoftは活用場面としてまずスキー場を図解つきで紹介し�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 14:03:34 +0000</pubDate></item><item><title>中国Tencentの大規模基盤モデル「混元」外部企業に開放 連携アプリ開発可能に</title><link>https://ledge.ai/articles/tencent_hunyuan</link><description>中国腾讯（Tencent）は独自開発した大規模基盤モデル「{target=“_blank”}」を2023年9月7日に正式発表した。中国企業はクラウドサービス「腾讯雲（Tencent Cloud）」を利用し、アプリケーション・プログラミング・インターフェイス（API）を通じて混元の機能を組み込んだアプリの試験、構築などを行える。
+:::</description><pubDate>Sat, 09 Sep 2023 14:03:34 +0000</pubDate></item><item><title>中国Tencentの大規模基盤モデル「混元」外部企業に開放 連携アプリ開発可能に</title><link>https://ledge.ai/articles/tencent_hunyuan</link><description>中国騰訊（Tencent）は独自開発した大規模基盤モデル「{target=“_blank”}」を2023年9月7日に正式発表した。中国企業はクラウドサービス「腾讯雲（Tencent Cloud）」を利用し、アプリケーション・プログラミング・インターフェイス（API）を通じて混元の機能を組み込んだアプリの試験、構築などを行える。
 
 混元は中国語処理能力などを特徴として打ち出している。導入企業は用途に合わせてファインチューニング（微調整）が可能。画像生成、コピーライティング、文章認識、顧客対応といった機能を持ち、金融、公共サービス、ソーシャルメディア、電子商取引（EC）、運輸、ゲームなどで役立つと説明している。
 
@@ -210,14 +221,4 @@ CPU設計の雄であるArmは自体がAI向け製品に力を入れるばかり
 :::box
 [関連記事：NVIDIA、次世代「GH200 Grace Hopper Superchip」 大規模言語モデル向けCPU・GPU統合製品
 ](https://ledge.ai/articles/adobe_gh200_gracde_hopper_superchip)
-:::</description><pubDate>Fri, 08 Sep 2023 14:51:51 +0000</pubDate></item><item><title>Teslaの「完全自動運転」突如値下げ 「看板に偽りあり」と批判も</title><link>https://ledge.ai/articles/tesla_fsd_price_cut</link><description>米国Teslaが、電気自動車向けに用意している「Full Self-Driving（FSD：完全自動運転）」オプションが2023年9月に入った値下げになったとして、ちょっとした話題になっている。完全自動運転なる名称が誇張だという批判もあいまって、意図について取り沙汰があるようだ。
-
-Teslaは何種類かの運転支援機能を用意している。例えば「Autopilot（オートパイロット）」は目下標準装備となっている一方、より内容の充実したFSDはオプションで、9月時点での米国価格は月額199ドルまたは買い切り価格の1万2,000ドル。
-
-FSDの買い切り価格が今回の焦点だ。Teslaファンのブログとして有名な「{target=“_blank”}」によると、2019年には5,000ドルで始まったものの、毎年のように値上げを続け2022年には過去最高額となる1万5,000ドルに達していた。2023年に入って突然の値下げはちょっとした驚きだが、Not a Tesla Appは「この傾向が続く可能性は低い」とさらなる値下げには期待薄の態度。最適な価格を探っているだけではないかと述べている。
-
-一方、例えばITを広く取り扱う「{target=“_blank”}」のようなブログでは、FSDが名前に反して実際には自動運転ではないとあらためて指摘。2月には米国の運輸省道路交通安全局（{target=“_blank”}）が衝突事故を引き起こす恐れがあると通知しリコールになった件も取り上げ、値下げとからめた。もっともFSDの不完全さや、当局によるテスラの問題視は今に始まったことではないという声もある。
-
-:::box
-
-:::</description><pubDate>Fri, 08 Sep 2023 12:55:01 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 08 Sep 2023 14:51:51 +0000</pubDate></item></channel></rss>
