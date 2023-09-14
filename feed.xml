@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 09:50:21 +0000</lastBuildDate><item><title>“ChatGPT超え” 生成AI「Gemini」Googleが秋公開へ サイズ「巨大化」の今後占う</title><link>https://ledge.ai/articles/google_deepmind_gemini</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Sep 2023 09:50:21 +0000</lastBuildDate><item><title>Google ビデオ会議の背景をAI生成 商談相手に合わせカスタマイズ可能に</title><link>https://ledge.ai/articles/duet_ai_googlemeet</link><description>:::small
+画像出典：{target=“_blank”}
+:::
+
+米国Google の提供するオンラインビデオ会議ツール「Google Meet」で、会議中の自画像の背景をAIで生成して利用できるようになったと、現地時刻の2023年8月29日に{target=“_blank”}した。
+
+同じ日に一般提供開始を発表した「Duet AI for Google Workspace」の生成AIを使い、ユーザーがプロンプト（文字による指示）を入力することで、会議に適した背景を作ることが可能となった。
+
+!
+:::small
+画像出典：{target=“_blank”}
+:::
+
+機能のアップデートを伝えるブログでは、背景を工夫することで得られる効果について触れた。
+実際の会議のカメラ画像に、オフィスの様子が映り込まないなど、通話中のプライバシーを保護できるだけでなく、背景による会議自体の強化を計れるという。例えば、クライアントや取引先の業界に固有の背景を作成し、視覚的な強化を通じてつながりを深める。また、重要なプロジェクトを開始するときの雰囲気を決める背景を作ったり、会社や同僚のマイルストーンを祝うのにふさわしい背景などで雰囲気を盛り上げたりなどの効果が期待できるという。
+
+このサービスは、Googleの各種業務用アプリケーションをまとめた「Google Workspace」の追加機能「アドオン」として有償で利用できる。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 13 Sep 2023 04:50:38 +0000</pubDate></item><item><title>“ChatGPT超え” 生成AI「Gemini」Googleが秋公開へ サイズ「巨大化」の今後占う</title><link>https://ledge.ai/articles/google_deepmind_gemini</link><description>:::small
 画像出典：Google 
 :::
 
@@ -197,18 +220,4 @@ FSDの買い切り価格が今回の焦点だ。Teslaファンのブログとし
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 12:55:01 +0000</pubDate></item><item><title>ChatGPT 成人の8割が使ったことなし -- 米国で衝撃の調査結果</title><link>https://ledge.ai/articles/pew_chatgpt_survey</link><description>2022年に登場した対話型AI（チャットボット）「ChatGPT」が世間を騒がせてすでに数か月が経つが、実際に利用した経験がある米国の成人は全体の5分の1にとどまるという推計が明らかになった。Pew Research Centerが2023年8月28日に{target=“_blank”}を発表した。
-
-ChatGPTについて聞いたことがある人のうち利用経験があるのは24％で、米国の成人全体に換算すると、18％に相当するという。
-
-なお同じChatGPTについて聞いたことある層でも、年代による利用率の差は大きく、18～29歳で約41％に達する一方、50～64歳では19％、65歳以上ではわずか5％。また学歴別でみると大学院生以上が最も利用しているが、それでも33%だ。性別では男性が29％に対し、女性は19%。
-
-ちなみにChatGPTについて聞いたことがある人のうち、娯楽のために利用したという割合が20％で、学習のためが19％、何らかの作業のためとなると16％だ。娯楽や学習での利用は若い層ほど熱心で、高齢になると少なくなってゆく。作業のために利用したという割合は年代による差が目立たない。
-
-ChatGPTについて聞いたことのある社会人ののうち、こうしたチャットボットが自分の仕事に大きな影響を与えると考える割合は約19％。軽微ながら影響はあるとの回答は36％で、27％はまったく影響がないと予想している。
-
-なお調査は2023年7月17～23日に実施し、5,057人から回答を得た。
-
-:::box
-
-:::</description><pubDate>Fri, 08 Sep 2023 11:52:49 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 08 Sep 2023 12:55:01 +0000</pubDate></item></channel></rss>
