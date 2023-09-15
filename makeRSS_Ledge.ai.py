@@ -75,7 +75,7 @@ async def main():
             )
 
     # RSSフィードをファイルに書き出し
-    with open('feed_multi_categories.xml', 'w') as f:
+    with open('feed.xml', 'w') as f:
         feed.write(f, 'utf-8')
 
     print("複数カテゴリのRSSフィードが生成されました🎉")
