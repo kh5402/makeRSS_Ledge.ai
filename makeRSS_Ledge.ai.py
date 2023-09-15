@@ -10,10 +10,10 @@ from pyppeteer import launch
 urls = [
     'https://ledge.ai/categories/business/',
     'https://ledge.ai/categories/learning/', 
-    'https://ledge.ai/categories/engineering',
-    'https://ledge.ai/categories/academic',
-    'https://ledge.ai/categories/public',
-    'https://ledge.ai/categories/entertainment'
+    'https://ledge.ai/categories/engineering/',
+    'https://ledge.ai/categories/academic/',
+    'https://ledge.ai/categories/public/',
+    'https://ledge.ai/categories/entertainment/'
 ]
 
 async def main():
