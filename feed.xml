@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 01:49:10 +0000</lastBuildDate><item><title>日本の組織の72%が生成AIの職場利用を禁止または検討中 BlackBerry調査</title><link>https://ledge.ai/articles/blackberry_reserch_ai_japan</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.aiビジネスカテゴリ</title><link>https://ledge.ai/categories/business/</link><description>Ledge.aiのビジネスカテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 01:57:36 +0000</lastBuildDate><item><title>Kindle出版「生成AI使ったら申告」義務付け ガイドライン改訂 全米作家協会「新しい一歩」と評価</title><link>https://ledge.ai/articles/amazon_kdp_guideline</link><description>:::small
+photo by {target=“_blank”}
+:::
+
+米国Amazon.comは2023年9月7日、電子書籍Kindle用の出版サービス「Kindle Direct Publishing（KDP）」のコンテンツガイドラインを{target=“_blank”}し、生成AIコンテンツの取り扱いについての項目を追加した。Kindleで新しい本を出版、または既存の本を編集し再出版をする際、コンテンツ（テキスト、画像、翻訳）をAIで生成した場合はAmazonへの開示義務が発生する。
+
+AIベースのツールを使用するケースとして下記の2パターンを想定し、それぞれ開示の義務の有無を線引きしている。
+
+「AI生成」AI ベースのツールを使用して実際のコンテンツ (テキスト、画像、または翻訳) を作成する場合→開示義務あり
+
+「AIアシスト」コンテンツは自身で作成し、編集、改良、エラーチェックなどにAIベースのツールを使用する場合→開示不要
+
+AIで生成または補助されたすべてのコンテンツが、コンテンツガイドラインに準拠しているかを確認する責任は、出版者にあるとした。
+
+7月にThe Authors Guild（全米作家協会）がAI開発企業に対し、作家の作品を無断でAIの訓練に使わないよう求める書簡を公開したことを受けての動きと見られている。同協会はAmazonが更新した開示ポリシーを「{target=“_blank”}」と評価した。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 14 Sep 2023 01:57:36 +0000</pubDate></item><item><title>日本の組織の72%が生成AIの職場利用を禁止または検討中 BlackBerry調査</title><link>https://ledge.ai/articles/blackberry_reserch_ai_japan</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -222,23 +243,4 @@ Microsoftは活用場面としてまずスキー場を図解つきで紹介し�
 
 :::box
 
-:::</description><pubDate>Sun, 10 Sep 2023 04:33:48 +0000</pubDate></item><item><title>AI生成の政治広告 ごまかすべからず Google 11月に新ポリシー 米大統領選に備え</title><link>https://ledge.ai/articles/google_political_ads</link><description>AIで政治広告を生成した場合は必ず明記せよ。そのように受け取れる文言を盛り込んだ{target=“_blank”}を、米国Googleは2023年11月から導入する。いよいよ近づく米国大統領選の季節に合わせた取り組みともっぱらの評判だ。
-
-選挙広告を出す広告主は、広告の内容に本物に見える人またはできごとを人為的に描写した「合成コンテンツ」含む場合、明確に開示する義務が生じる。開示情報は明確にわかりやすく、目につくような場所に配置する必要がある。画像、動画、音声が対象だ。Googleはより細かい例も挙げている。
-
-・広告に含まれる合成コンテンツが、実際にはなかった発言または行為を、ある人物が行なっているように見えるものである場合
-・広告に含まれる合成コンテンツが、実際の出来事の映像を改ざんしたもの、または実際には起きていない場面を描写するために、ある出来事のリアルな描写を生成したものである場合
-
-ただし重要度が低い編集または生成についての開示は不要。画像のサイズ変更、切り抜き、色補正または明るさ補正、「赤目」除去など。あるいは実際のできごとを写実的に描写していない背景の編集などだ。
-
-### 「AI」との表現は用いず
-今回のポリシー変更についてGoogleは「AI」という単語は一切用いていないが、機械学習技術による生成を念頭に置いたものと受け止める向きは多い。米国の{target=“_blank”}や{target=“_blank”}といった報道機関は先行例として、フロリダ州知事Ronald Dion DeSanti（ロン・デサンティス）氏の陣営が、党内の対立候補と目すDonald Trump（ドナルド・トランプ）氏に関するAI生成画像・{target=“_blank”}をそうと明かさず使用した件を例に挙げている。
-
-### 対象は世界各国
-なお新広告ポリシーの適用対象は正確には「選挙広告に関する適格性の確認が必要な地域」の「確認済みのすべての広告主」。実際には米国以外にも{target=“_blank”}は多い。2024年に選挙を控えた欧州連合（EU）、インド、ブラジル、日本に近いところでは台湾などだ。
-
-世界の政治が大きく動き始める前にとGoogleが準備を進めるなか、同様にインターネット広告大手であるMetaの動向にも関心が集まっている。
-
-:::box
-
-:::</description><pubDate>Sat, 09 Sep 2023 14:03:34 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Sun, 10 Sep 2023 04:33:48 +0000</pubDate></item></channel></rss>
