@@ -18,6 +18,8 @@ urls = [
 
 async def main():
 
+    print(f"アクセス中：{getURL} 🌐")
+
     # RSSフィードの初期化はループの外で行う
     feed = Rss201rev2Feed(
         title="Ledge.ai 複数カテゴリ",
@@ -28,6 +30,8 @@ async def main():
     )
     
     for getURL in urls:
+
+        print(f"{getURL} にアクセスするよ🌐")
 
         # Pyppeteerでブラウザを開く
         browser = await launch(
@@ -42,8 +46,11 @@ async def main():
             ],
         )
 
+        print("ブラウザ開いた📂")
+
         page = await browser.newPage()
         await page.goto(getURL)
+        print("ページに移動した✈️")
 
         # ページのHTMLを取得
         html = await page.content()
@@ -53,9 +60,15 @@ async def main():
 
         # window.__NUXT__の内容を取得してJSONデータをPythonの辞書に変換
         nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
+        print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")  # JSONデータの一部をログに出力
 
         # "data"キーの中にある"articles"キーの"data"キーの値を取得
         articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
+
+        if not articles:
+            print("警告: 記事データが空やで❗️")  # 記事データが空かどうかを確認
+        else:
+            print(f"取得した記事数：{len(articles)} 📚")  # 取得した記事の数をログに出力
 
         # 12個のデータを取得 ➡ 1ページに12個の記事あるから。
         for article in articles[:12]:
@@ -73,6 +86,7 @@ async def main():
                 description=description,
                 pubdate=date_obj
             )
+        print("RSSフィードにデータ追加した📝")
 
     # RSSフィードをファイルに書き出し
     with open('feed.xml', 'w') as f:
