@@ -55,7 +55,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git diff --exit-code feed_multi_categories.xml || git stash # 変更を一時的に退避させる
+        git diff --exit-code feed.xml || git stash # 変更を一時的に退避させる
         git pull --rebase # リモートリポジトリの変更を取り込む
         git stash pop || true  # 退避させた変更を戻す
         git add feed.xml
