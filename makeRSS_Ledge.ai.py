@@ -62,8 +62,13 @@ async def main():
         nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
         print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")  # JSONデータの一部をログに出力
 
+        # URLからクエリパラメータを除いてからスプリット
+        category_name = getURL.split('?')[0].split('/')[-2]
+
         # "data"キーの中にある"articles"キーの"data"キーの値を取得
-        articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
+        #articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
+        articles = nuxt_data["data"][f"/categories/{category_name}"]["articles"]["data"]
+
 
         if not articles:
             print("警告: 記事データが空やで❗️")  # 記事データが空かどうかを確認
