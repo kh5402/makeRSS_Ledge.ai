@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 08:54:09 +0000</lastBuildDate><item><title>「夏休みの宿題に生成AI使った」3人に1人 人気はChatGPT 次点はBard</title><link>https://ledge.ai/articles/nyle_reserch_generativeai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 08:54:09 +0000</lastBuildDate><item><title>AIブームで熱くなるカリブの小国アンギラ「.aiドメイン」が急成長</title><link>https://ledge.ai/articles/anguilla_domain_name</link><description>:::small
+
+:::
+
+カリブ海西インド諸島にある英国領アンギラの国別ドメイン「.ai」が、AIブームにより人気になっていると米国{target=“_blank”}が2023年8月30日に報じた。ChatGPTの登場以降に.aiドメインに対する需要が急増しており、AI産業全体のブームを反映している。
+
+.aiドメインを取得しているのは、有名なAIスタートアップやテック企業だ。Stability.ai、X.ai、Character.ai、Google.ai、Facebook.ai、 Microsoft.aiなどがその例だ。過去1年で.aiドメインの登録数は倍増し、合計で28万7,432件になった。
+
+アンギラは観光業が主な収入源であり、人口2万人以下の小規模な国だ。ドメインの価格は固定されており、GoDaddyやNameCheapなどの登録業者はアンギラに2年間で140ドルを支払う。
+
+2021年に.aiドメインから740万ドルの収益を上げており、2023年には2,500万～3,000万ドルの収益を見込む。この収益は、アンギラのGDPにとって大きな意味を持つ。
+
+専門家は、AIブームが減速すると.aiドメインに対する興味も減少する可能性があると指摘。しかし需要の減速の兆しは見られるものの、今後も成長が続くと考えられている。
+
+:::box
+
+:::
+</description><pubDate>Thu, 14 Sep 2023 04:08:23 +0000</pubDate></item><item><title>「夏休みの宿題に生成AI使った」3人に1人 人気はChatGPT 次点はBard</title><link>https://ledge.ai/articles/nyle_reserch_generativeai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -237,33 +254,7 @@ AI開発に協力の意志を示しつつ、明示的な許可なしに独自の
 :::
 :::box
 
-:::</description><pubDate>Tue, 12 Sep 2023 07:45:39 +0000</pubDate></item><item><title>長いSlackのスレッド AIで要約「Slack AI」今冬にも導入へ</title><link>https://ledge.ai/articles/slack_ai</link><description>コミュニケーションアプリケーション「Slack」が、生成AI機能「Slack AI（以前のSlack GPT）」のクローズドベータを今冬より開始する。開発元である米国Salesforce子会社Slack Technologiesが2023年9月6日に{target="_blank"}した。
-
-### Slack AI
-!
-:::small
-出典：Slack Technologies
-:::
-Slack AIは、Slack上に蓄積したメッセージ、キャンバス、クリップなどの情報を要約して簡単に利用できるようにするための機能。今回の発表では「channels recap（チャンネルの要約）」「thread summaries（スレッドの概要）」「search answers（回答の検索）」の3つをあらためて紹介している。
-
-チャンネルの要約は名前の通り、任意のチャンネルを選んで要点を取り出す。例えば客先との連絡に利用しているチャンネルから重要な話題を即座に抽出できるとしている。
-
-スレッドの概要は、チャンネル内の任意のスレッドの要点を取り出す。例えばカスタマーサポートチームがひとつの事例に群がってスレッドが長く伸びたあとになって、対象分野の専門家をスレッドに追加したとする。専門家がこの機能を利用すればすぐに状況を把握し、問題の解決に取り組める、としている。
-
-回答の検索を使用すると、質問するだけで関連するSlackメッセージにもとづく明確で簡潔な回答を得るられる。 例えば新規プロジェクトについて学ぶ場合、この機能でプロジェクトの目標、主要な関係者などをすぐ把握できるという。
-
-### リスト機能
-!
-:::small
-出典：Slack Technologies
-:::
-なおSlack AIとは別に「List（リスト）」機能についても今冬クローズドベータを始めるとの予告もあった。短い説明動画を見る限り、複数の作業について、それぞれ担当者や進行状況、期日などを記録し、一覧管理できるようになる。
-
-Slackのほかの機能と同じように作成したリストについての通知も受け取れる。リスト中の任意の項目について、それぞれ個別にスレッドを作成して相談が可能。またリストはファイルやメッセージと同じ要領でSlack内のどこでも共有できる。ほかのSlackと並行してコミュニケーションアプリのリスト機能を利用していた企業の手間を省くのが狙いだとしている。
-
-:::box
-
-:::</description><pubDate>Sun, 10 Sep 2023 09:08:38 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Tue, 12 Sep 2023 07:45:39 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
