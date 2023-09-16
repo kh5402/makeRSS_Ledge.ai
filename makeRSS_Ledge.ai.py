@@ -8,12 +8,12 @@ from pyppeteer import launch
 
 # 複数のURLをリストで用意
 urls = [
-    'https://ledge.ai/categories/business',
-    'https://ledge.ai/categories/learning', 
-    'https://ledge.ai/categories/engineering',
-    'https://ledge.ai/categories/academic',
-    'https://ledge.ai/categories/public',
-    'https://ledge.ai/categories/entertainment'
+    'https://ledge.ai/categories/business'#,
+    #'https://ledge.ai/categories/learning', 
+    #'https://ledge.ai/categories/engineering',
+    #'https://ledge.ai/categories/academic',
+    #'https://ledge.ai/categories/public',
+    #'https://ledge.ai/categories/entertainment'
 ]
 
 async def main():
@@ -31,9 +31,11 @@ async def main():
     
     for getURL in urls:
 
+        base_url = getURL
         page_num = 1  # ページ番号の初期値
-        while True:  # このループでページ数を増やしていく
-            getURL = f"{getURL}?page={page_num}"
+        
+        while some_condition:  # このループでページ数を増やしていく
+            getURL = f"{base_url}?page={page_num}"
             print(f"{getURL} にアクセスするよ🌐")
 
             # Pyppeteerでブラウザを開く
