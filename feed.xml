@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 04:02:18 +0000</lastBuildDate><item><title>Kindle出版「生成AI使ったら申告」義務付け ガイドライン改訂 全米作家協会「新しい一歩」と評価</title><link>https://ledge.ai/articles/amazon_kdp_guideline</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 08:54:09 +0000</lastBuildDate><item><title>「夏休みの宿題に生成AI使った」3人に1人 人気はChatGPT 次点はBard</title><link>https://ledge.ai/articles/nyle_reserch_generativeai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+学生・生徒の3人に1人が夏休みの宿題に生成AIを使用し、そのうち4分の3が「ChatGPT」を活かしている。こんな{target=“_blank”}をマーケティング支援のナイルが2023年9月5日に発表した。
+
+
+調査によると、夏休みの宿題に 34.1%の学生・生徒が生成AIを活用したと回答。そのうち134人（73.6％）が、ChatGPTを使ったと答えた。
+
+!
+
+生成AIを活用して取り組んだ宿題には「論文・レポート」「数学の問題」「読書感想文」などが挙げられた。なお生成AIを宿題に使用した学生・生徒のうち85.7%が「宿題が捗（はかど）った」と回答。
+
+生成AIの使い方を学んだ方法について尋ねると、最も回答が多かったのは「インターネットの記事やブログ（65人）」、次いで「学校で質問した（52人）」、「YouTubeや動画サイトでの解説（49人）」という結果となった。
+
+!
+
+また、生成AIを活用しても「宿題が捗（はかど）らなかった」と回答した学生にその理由を尋ねると、「生成AIの回答が不正解だった（13人）」「自分の学習理解が浅くなったと感じた（8人）」「情報の信頼性に疑問を感じた（6人）」などの回答を得た。
+
+!
+
+この調査はナイルが運営するスマートフォン向けアプリケーション紹介メディア「Appliv」が実施した。調査概要は次の通り。
+
+調査対象：全国の10～20代の男女533人
+調査機関：ジャストシステム
+調査方法：インターネット調査
+調査期間：2023年8月24日～2023年8月30日
+有効回答数：533人（男性：256人・女性：277人）
+15歳～19歳 388人
+20歳～29歳 145人
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 14 Sep 2023 08:54:09 +0000</pubDate></item><item><title>Kindle出版「生成AI使ったら申告」義務付け ガイドライン改訂 全米作家協会「新しい一歩」と評価</title><link>https://ledge.ai/articles/amazon_kdp_guideline</link><description>:::small
 photo by {target=“_blank”}
 :::
 
@@ -227,23 +263,7 @@ Slackのほかの機能と同じように作成したリストについての通
 
 :::box
 
-:::</description><pubDate>Sun, 10 Sep 2023 09:08:38 +0000</pubDate></item><item><title>Microsoftが「AIバックパック」の特許申請 スマホ出さず音声アシストや予定管理など可能に</title><link>https://ledge.ai/articles/microsoft_ai_back_pack</link><description>米国Microsoftはスマートフォンを手に持っていなくても、AIにさまざまな助言を受けられるスマートバックパックに関する特許を申請した。{target=“_blank”}が現地時間の2023年8月24日付の文書を公開している。
-
-申請中の特許は「AI支援ウェアラブル」に関するもの。 バックパックを代表として挙げていて、音声で指示をすると自動で周囲にあるものを識別してさまざまな機能を発揮する。特徴のひとつは指示があまり詳しくはっきりしたものではない「非明示的」な内容であっても、AIが文脈を汲み取って適切な反応をする、という点だ。
-
-Microsoftは活用場面としてまずスキー場を図解つきで紹介している。バックパックを背負った人がゲレンデに立ち、「この方向に滑ってもよいだろうか」と尋ねると搭載するAIが周囲にある木、スキーリフトの支柱、山などの環境を認識。「いいえ。その方向は範囲外です。範囲内に留まるため右方向へ滑ってください」と回答する。
-
-!
-
-また別の場面も案内している。バックパックを背負った人が、ビートルズのキャンドルスティック・パーク（カリフォルニア州にかつてあった球場）で8月29日に開催予定のコンサートのポスターを前に、「ねえアシスタント君、これをカレンダーに追加しておいて」と呼びかける。するとAIが自動で情報で読み取って指示通りの処理を済ませる。従来はスマートフォンを取り出し、カメラで読み取るか、手入力し、内容をカレンダーアプリケーションに登録するといった操作が必要で、忙しければそもそも諦めてしまう場合もあるはずだという。
-
-!
-
-なおバックパックにはプロセッサーや記憶装置、通信装置、カメラ、マイク、スピーカー、GPS、圧力、加速度、温度などのセンサーを搭載し、単体での動作はもちろん、ノートパソコンやスマートフォンなどと連携したり、インターネット上のサーバーと接続することも想定している。
-
-:::box
-
-:::</description><pubDate>Sun, 10 Sep 2023 04:33:48 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Sun, 10 Sep 2023 09:08:38 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
