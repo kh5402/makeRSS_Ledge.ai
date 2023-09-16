@@ -8,12 +8,12 @@ from pyppeteer import launch
 
 # 複数のURLをリストで用意
 urls = [
-    'https://ledge.ai/categories/business/',
-    'https://ledge.ai/categories/learning/', 
-    'https://ledge.ai/categories/engineering/',
-    'https://ledge.ai/categories/academic/',
-    'https://ledge.ai/categories/public/',
-    'https://ledge.ai/categories/entertainment/'
+    'https://ledge.ai/categories/business?page=1',
+    'https://ledge.ai/categories/learning?page=1', 
+    'https://ledge.ai/categories/engineering?page=1',
+    'https://ledge.ai/categories/academic?page=1',
+    'https://ledge.ai/categories/public?page=1',
+    'https://ledge.ai/categories/entertainment?page=1'
 ]
 
 async def main():
