@@ -34,7 +34,7 @@ async def main():
         base_url = getURL
         page_num = 1  # ページ番号の初期値
         
-        while some_condition:  # このループでページ数を増やしていく
+        while true:  # このループでページ数を増やしていく
             getURL = f"{base_url}?page={page_num}"
             print(f"{getURL} にアクセスするよ🌐")
 
