@@ -33,8 +33,9 @@ async def main():
 
         base_url = getURL
         page_num = 1  # ページ番号の初期値
+        has_more_articles = True  # 初期値はTrueにしておく
         
-        while true:  # このループでページ数を増やしていく
+        while has_more_articles:  # このループでページ数を増やしていく
             getURL = f"{base_url}?page={page_num}"
             print(f"{getURL} にアクセスするよ🌐")
 
@@ -77,6 +78,7 @@ async def main():
 
             if not articles:
                 print("警告: 記事データが空やで❗️")  # 記事データが空かどうかを確認
+                has_more_articles = False  # 記事がないならループを抜ける
             else:
                 print(f"取得した記事数：{len(articles)} 📚")  # 取得した記事の数をログに出力
 
