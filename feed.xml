@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 01:57:36 +0000</lastBuildDate><item><title>Kindle出版「生成AI使ったら申告」義務付け ガイドライン改訂 全米作家協会「新しい一歩」と評価</title><link>https://ledge.ai/articles/amazon_kdp_guideline</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 04:02:18 +0000</lastBuildDate><item><title>Kindle出版「生成AI使ったら申告」義務付け ガイドライン改訂 全米作家協会「新しい一歩」と評価</title><link>https://ledge.ai/articles/amazon_kdp_guideline</link><description>:::small
 photo by {target=“_blank”}
 :::
 
@@ -1766,7 +1766,28 @@ welzo社内では経営陣による本格的なDX推進も始まったが、現�
 :::button
 {target=“_blank”}
 :::
- </description><pubDate>Wed, 21 Jun 2023 05:04:46 +0000</pubDate></item><item><title>AIが脊髄損傷の患者を歩行可能にする「BSI」技術 スイスで開発</title><link>https://ledge.ai/articles/brain_spinel_interface_epfl</link><description>:::small
+ </description><pubDate>Wed, 21 Jun 2023 05:04:46 +0000</pubDate></item><item><title>ドローンレースでAI「Swift」が人間の世界王者に勝利
+</title><link>https://ledge.ai/articles/drone_racing_swift</link><description>:::small
+画像出典：Champion-level drone racing using deep reinforcement learning
+:::
+
+スイスのチューリッヒ大学と米国Intelの研究チームが、自動操縦AI「Swift」でドローンレースの世界チャンピオン3人と対戦し勝利したと2023年8月30日にネイチャーで{target=“_blank”}した。研究チームは、自律移動ロボットが現実世界の競技スポーツにおいて世界チャンピオンレベルの能力を達成した初めてのこととしている。
+
+一人称視点（FPV）ドローンレースの人気は高まっている。競技者はヘッドセットを装着し、障害物があるコースを通過。障害物が設置された複雑なコースを、いかに速く通過できるかを競う。またレース中にドローン同士がぶつからないことも重要だ。ドローンの速度は、時速80マイル（約128km）にも達する。
+
+@
+
+今回のレースは「FPVドローンレース」で、独自のカメラとゴーグルを使用。Swiftはリアルタイムでカメラデータを解析し、速度や位置を調整する。独自の慣性計測装置（IMU）、視覚慣性移動量計測装置（VIO）、飛行中にくぐるべき関門の検出装置（Gate Detector）などで環境との相互作用を高度に管理し、ニューラルネットワークと強化学習を用いて性能を高めた。
+
+Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは25回のレースで15回勝利し、ラップタイムでも全体の最速である17.47秒を記録した。このラップタイムは、人間の記録よりも約0.5秒速かった。
+
+研究者たちは、人間チャンピオン3人とSwiftでコースにアプローチする方法に違いがあることを指摘。Swiftのシステムは周回を重ねるごとにより安定し、コースを回る際により小回りがきいているように見えたという。ラップタイムをコンマ数秒ずつ繰り返し短縮し、最終的にドローンがレースで優位になった。
+
+今回のレースは2022年6月5日から13日まで、スイスのチューリッヒ近郊で開催された。
+
+:::box
+
+:::</description><pubDate>Thu, 14 Sep 2023 04:02:18 +0000</pubDate></item><item><title>AIが脊髄損傷の患者を歩行可能にする「BSI」技術 スイスで開発</title><link>https://ledge.ai/articles/brain_spinel_interface_epfl</link><description>:::small
 画像出典：ネイチャー
 :::
 
@@ -2022,29 +2043,7 @@ OpenAIは直接の論文発表数は少ないものの、AIのデータサイズ
 :::
 :::box
 
-:::</description><pubDate>Mon, 28 Aug 2023 05:54:02 +0000</pubDate></item><item><title>生成AI 英語で使った方が高性能 「指示を翻訳させてから回答させる」と効果大 スペイン・バスク大が論文
-</title><link>https://ledge.ai/articles/llm_english_high_performance</link><description>スペインのバスク大学の研究者らが、大規模言語モデル（LLM）にタスク（作業）をさせる際、英語以外の言語で直接指示するよりも、指示をいったん英語に翻訳させから処理させる方が高い精度になることを論文「{target=“_blank”}」で発表した。
-
-!
-:::small
-画像出典：Do Multilingual Language Models Think Better in English？
-:::
-
-実験では処理性能の目安となるパラメータ数が異なるLLMとして、米国Metaが開発した「XGLM」の564M、1.7B、2.9B、7.5B版と、「LLaMA」の7B、13B、30B版を使用。それぞれ英語以外の言語で指示する方法と、指示を英語に翻訳させてから処理させる方法を試して比較した。処理するタスクは、算数問題や常識問題、言い換え問題など5つ。
-
-!
-:::small
-画像出典：Do Multilingual Language Models Think Better in English？
-:::
-
-その結果非英語の言語で指示してタスクを処理させるより、英語に翻訳してから処理させる方が精度が高い傾向があることがわかった。とりわけLLaMAは、すべての版とタスクで英語翻訳した方が結果が良好だった。この傾向はタスク間で共通し、パラメータ数の大きなLLMや「高リソース言語」ほど顕著だった。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 28 Aug 2023 06:04:31 +0000</pubDate></item><item><title>日本 高リスクAIほど強く規制「リスクベースアプローチ」 EUに続き採用へ 政府骨子案</title><link>https://ledge.ai/articles/ai_strategy_mtg_risk_based_approach</link><description>:::small
+:::</description><pubDate>Mon, 28 Aug 2023 05:54:02 +0000</pubDate></item><item><title>日本 高リスクAIほど強く規制「リスクベースアプローチ」 EUに続き採用へ 政府骨子案</title><link>https://ledge.ai/articles/ai_strategy_mtg_risk_based_approach</link><description>:::small
 画像出典：欧州委員会 {target=“_blank”}
 :::
 
