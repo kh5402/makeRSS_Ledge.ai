@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 08:54:09 +0000</lastBuildDate><item><title>京大「仏教AI」を増産 「親鸞ボット」「世親ボット」など次々登場 ChatGPTの技術活かす</title><link>https://ledge.ai/articles/shinran_seshin_bot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 11:43:07 +0000</lastBuildDate><item><title>大学生 ChatGPT「一度も使ったことがない」4割 文系ほど敬遠か </title><link>https://ledge.ai/articles/the_honesty_of_generation_z</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+現役大学生・大学院生の4割はまだ一度も対話型AI（チャットボット）「ChatGPT」を使った経験がない。こんな調査結果を、人材サービスのRECCOO（リクー）が2023年9月4日に{target=“_blank”}した。
+
+「使ったことはあるが日常的には使っていない」が44％で最も多く、「一度も使ったことがない」が42％でこれに続く。「日常的に使っている」は11%。「レポートの時だけ使っている」が3%だった。
+
+Chat GPTの活用率を性別でみると男性は約68.4%、女性は約51.8%と差が出た。文系学部の活用率は約53.6%、理系学部は約57.8%と若干、理系の方が多かった。なお有料版「ChatGPT Plus」の活用率は全体のわずか2%だった。
+
+!
+
+また、ChatGPTを活用する具体的な利用場面について自由回答を解析すると以下の図のような結果となった。調べ物やレポート作成、アイデア、行き詰まった時などの利用が目立つ。
+
+!
+
+この調査はRECCOOが運営する大学のサークル向けコミュニケーションアプリケーション「サークルアップ」で実施した。調査概要は以下の通り。
+
+【調査概要】
+・調査日：2023年9月3日
+・調査機関（調査主体）：RECCOO
+・調査対象：サークルアップに登録する大学1年〜大学院2年
+・有効回答数（サンプル数）：200人
+・調査方法：サークルアップ for client のアンケートオファー
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 14 Sep 2023 11:43:07 +0000</pubDate></item><item><title>京大「仏教AI」を増産 「親鸞ボット」「世親ボット」など次々登場 ChatGPTの技術活かす</title><link>https://ledge.ai/articles/shinran_seshin_bot</link><description>:::small
 画像出典：京都大学
 :::
 
@@ -223,34 +256,7 @@ AIによる画像生成は、従来のようにGoogle Slideで作成中の資料
 
 :::box
 
-:::</description><pubDate>Tue, 12 Sep 2023 07:49:33 +0000</pubDate></item><item><title>Appleまたも「AI」なしで製品発表 実はiPhone 15は「機械学習」性能を強化 </title><link>https://ledge.ai/articles/apple_iphone_15</link><description>米国Appleが現地時間2023年9月11日に発表した「{target="blank"}」をはじめとする新製品の数々。いずれも性能の紹介について「人工知能（AI）」といううたい文句を控えつつ、「機械学習（ML）」への対応強化を打ち出した。
-
-Appleは6月の開発者会議「WWDC23」でも「AI」について打ち出さず、さりげなく「ML」機能の強化をちりばめていた。
-
-!
-:::small
-出典：Apple
-:::
-今回のスマートフォン「iPhone 15」と「iPhone 15 Plus」の頭脳にあたるSoC「A16 Bionic」は6コアのCPUと5コアのGPU、加えて新たな16コアNeural Engineで構成。毎秒17兆回近くの演算が可能で「iOS 17」のライブ留守番電話の書き起こしのような機能や、他社製アプケーションのML処理が高速に行えるとしている。
-
-!
-:::small
-出典：Apple
-:::
-
-ワイヤレスイヤホン「AirPods Pro（第2世代）」はMLを活用し、音量について利用者の好みを学習して自動で微調整する。
-
-!
-:::small
-出典：Apple
-:::
-スマートウォッチ「Apple Watch Series 9」「Apple Watch Ultra 2」もそれぞれ従来の「Apple Watch Series 8」「Apple Watch Ultra」と比べて最大2倍高速にML処理が行える4コアNeural Engineを搭載する。
-
-各製品とも大げさな宣伝はないものの、着実に新技術の採用を進めていることがうかがえる発表だった。
-
-:::box
-
-:::</description><pubDate>Wed, 13 Sep 2023 03:47:23 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Tue, 12 Sep 2023 07:49:33 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
