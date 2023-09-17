@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 08:54:09 +0000</lastBuildDate><item><title>AIブームで熱くなるカリブの小国アンギラ「.aiドメイン」が急成長</title><link>https://ledge.ai/articles/anguilla_domain_name</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 08:54:09 +0000</lastBuildDate><item><title>京大「仏教AI」を増産 「親鸞ボット」「世親ボット」など次々登場 ChatGPTの技術活かす</title><link>https://ledge.ai/articles/shinran_seshin_bot</link><description>:::small
+画像出典：京都大学
+:::
+
+対話型AI（チャットボット）「ChatGPT」の技術と宗教を掛け合わせた「親鸞ボット」と「世親ボット」を開発したことを、京都大学とテラバースの研究開発グループが、2023年9月12日に{target=“_blank”}した。拡張現実（AR）技術も開発され、テキストによるやりとりだけでなく、視覚や聴覚を用いた多感覚的（マルチモーダル）なコミュニケーションも可能だ。
+
+これらのチャットボットは、日本最大の仏教宗派である浄土真宗の開祖親鸞と、大乗仏教の哲学「唯識」を大成した菩薩の世親をモデルとしている。既存の「ブッダボット」「ブッダボットプラス」と同様に、現存する仏教聖典を機械学習し、人々の悩みに宗教的観点から回答可能だ。
+
+この開発により「ブッダ」（教えを生み出した者）、「菩薩」（教えを哲学的に分析した者）、「高僧」（教えを広めた者）といった仏教の主要な伝道者タイプの対話ボットが一通り揃った。今後は人類史を代表する哲人や聖者たちの対話AIを開発する。
+
+
+:::box
+[関連記事：仏教AI「ブッダボットプラス」京大が開発 GPT-4が仏典を解釈し悩みに回答
+](https://ledge.ai/articles/buddha_bot_plus_kyoto_university)
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 14 Sep 2023 04:12:14 +0000</pubDate></item><item><title>AIブームで熱くなるカリブの小国アンギラ「.aiドメイン」が急成長</title><link>https://ledge.ai/articles/anguilla_domain_name</link><description>:::small
 
 :::
 
@@ -231,30 +250,7 @@ Appleは6月の開発者会議「WWDC23」でも「AI」について打ち出さ
 
 :::box
 
-:::</description><pubDate>Wed, 13 Sep 2023 03:47:23 +0000</pubDate></item><item><title>「世界AI原則」創作物の無許可使用を拒絶 国内外の報道・メディア26団体が署名</title><link>https://ledge.ai/articles/global_principles_on_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-世界ニュース発行者協会（WAN-IFRA）など世界の報道・メディア26団体が発表した｢世界AI原則」に、日本新聞協会は2023年9月6日賛同し、署名したと{target=“_blank”}した。
-
-この原則では、特に生成AIの技術について、社会に利益をもたらす一方、クリエイティブ産業の持続可能性や知識・ジャーナリズム・科学に対する人々の信頼、さらに民主主義の健全性にリスクをもたらすと指摘した。そのうえで、開発や規制に適用すべき考え方として「知的財産」「透明性」「説明責任」などの分野にわたり12の項目にまとめている。
-
-!
-出典：News/Media Alliance
-
-例えば「知的財産」では、AIを開発・運営・および展開する際の、オリジナルコンテンツへの投資を保護し、権利を尊重すること。また「透明性」では、著作者や権利保有者、利用者に対して詳細を提供する必要性などが挙げられた。
-
-AI開発に協力の意志を示しつつ、明示的な許可なしに独自の創作物を収集したり、取り込んだり、使用してはならないと主張している。
-
-「世界AI原則」本文は、米ニュース／メディア連合ウェブサイトで{target=“_blank”}されている。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 12 Sep 2023 07:45:39 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Wed, 13 Sep 2023 03:47:23 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
