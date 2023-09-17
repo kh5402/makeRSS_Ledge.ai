@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Sep 2023 11:43:07 +0000</lastBuildDate><item><title>大学生 ChatGPT「一度も使ったことがない」4割 文系ほど敬遠か </title><link>https://ledge.ai/articles/the_honesty_of_generation_z</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 03:41:34 +0000</lastBuildDate><item><title>大学生 ChatGPT「一度も使ったことがない」4割 文系ほど敬遠か </title><link>https://ledge.ai/articles/the_honesty_of_generation_z</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2295,7 +2295,26 @@ WPの報道時点では、米国議会はまだ選挙における生成AIの使�
 :::
 :::box
 
-:::</description><pubDate>Thu, 31 Aug 2023 13:57:36 +0000</pubDate></item><item><title>「AI分野で最も影響力のある100人」日本からは「サイバーパンク桃太郎」の作者</title><link>https://ledge.ai/articles/time100ai_cyberpunk_peach_john</link><description>:::small
+:::</description><pubDate>Thu, 31 Aug 2023 13:57:36 +0000</pubDate></item><item><title>無料で音楽生成できるAI「Stable Audio」テキスト入力だけの簡単操作 英Stability AI公開</title><link>https://ledge.ai/articles/stable_audio</link><description>:::small
+画像出典：Stability AI
+:::
+
+画像生成AI「Stable Diffusion」の開発元として知られる英国Stability AIが2023年9月13日、新たに音楽とサウンド生成のためのAI「{target=“_blank”}」を{target=“_blank”}した。専用のWebサイトから利用でき、長さ45秒までの非商用音源を基本無料で生成しダウンロードが行えるなほか、より長い商用音源を作成可能な有料会員サービスにも加入できる。
+
+希望する音源のジャンル、スタイル、楽器などについて自然言語の文章による指示「プロンプト」を入力し、音源の長さを決めるだけで操作が完了する手軽さが特徴。
+
+主要な音楽ライブラリ「AudioSparx」の音楽とメタデータで訓練している。latent diffusion（潜在拡散）アーキテクチャを使用して44.1 kHzの高品質な商用音源を生成できる初の製品をうたっている。
+
+9月時点の料金プランは無料で長さ45秒までの非商用音源を月20件生成できる「Free」のほか、月額11.99ドルで長さ90秒までの商用音源を月500件生成できる「Professional」、さらに料金応相談でより柔軟な条件が設定できる「Enterprise」から選べる。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 15 Sep 2023 03:41:34 +0000</pubDate></item><item><title>「AI分野で最も影響力のある100人」日本からは「サイバーパンク桃太郎」の作者</title><link>https://ledge.ai/articles/time100ai_cyberpunk_peach_john</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2573,20 +2592,4 @@ VX-βの特徴として、まるで本物の歌手の楽曲を編集している
 :::
 :::box
 
-:::</description><pubDate>Tue, 29 Aug 2023 06:37:43 +0000</pubDate></item><item><title>いらすとや風のイラストを作れる「AIいらすとや」正式公開 本家と提携し開発 商用利用可能</title><link>https://ledge.ai/articles/ai_irasutoya</link><description>フリーイラストサイト「いらすとや」風のイラストを無制限に生成して商用利用できるという「{target=“_blank”}」が2023年8月10日に公開となった。画像生成AI開発のAI Picassoがいらすとやと提携して開発した。
-
-画像生成AI「AIピカソ」の技術を応用し、いらすとやのキャラクターを学習させた。すでにAIピカソのアプリケーション内では同種の機能が利用できたが、今回大幅が品質を向上させられたためAI Picassoの運営する素材サイト「AI素材.com」の新機能としてあらためて正式導入した。
-
-無料プランで20枚まで試用として生成でき、月額1,480円の「AI素材 Proプラン」を契約すればすべてのサイズで無制限に生成、ダウンロードできるとしている。なお有料プランではほかにも「AI素材」として実写風の画像などを生成可能だ。
-
-AI Picassoでは宇宙猫、アマングアス、桃太郎、サングラス犬など、いらすとや風画像の生成例を紹介している。
-
-!
-
-!
-
-!
-
-:::box
-
-:::</description><pubDate>Fri, 25 Aug 2023 11:24:45 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Tue, 29 Aug 2023 06:37:43 +0000</pubDate></item></channel></rss>
