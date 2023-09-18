@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 03:41:34 +0000</lastBuildDate><item><title>大学生 ChatGPT「一度も使ったことがない」4割 文系ほど敬遠か </title><link>https://ledge.ai/articles/the_honesty_of_generation_z</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 03:41:34 +0000</lastBuildDate><item><title>AIと開発した “西暦3000年” のコカ・コーラ「Y3000 」未来の味を探求</title><link>https://ledge.ai/articles/coca_cola_y3000</link><description>:::small
+画像出典：Coca-Cola
+:::
+
+米国Coca-Cola（コカ・コーラ）が限定版の新製品「Coca‑Cola Y3000」「Coca‑Cola Y3000 Zero Sugar」を2023年9月12日に{target=“_blank”}した。西暦3000年の未来を想像しつつ、人間とAIが共同開発したフレーバー。
+
+世界中のファンが感情、希望、色、味などを通じて未来をどのように思い描くかを収集し、人間とAIが分析して開発した。コカ・コーラが西暦3000年になっても現在と同じく時代に合った、さわやかなものであり続けるよう願っており、そのため未来のコーラがどのような味になるのか探求したという。
+
+
+パッケージデザインも未来志向だ。AIと共同で作成し、色彩や形状が未来の肯定的なビジョンを強調している。
+
+Coca‑Cola Y3000 Zero Sugarは米国、カナダ、中国、欧州、アフリカの一部市場で期間限定販売する。米国とカナダではオリジナルのCoca‑Cola Y3000も用意する。
+
+
+消費者はパッケージに記載されたQRコードをスキャンして{target=“_blank”}にアクセスすると、写真をカスタムする「Y3000 AI Cam」を使用できる。また未来をテーマにしたファッションブランド「AMBUSH」とのコラボレーションも予定されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 15 Sep 2023 02:37:48 +0000</pubDate></item><item><title>大学生 ChatGPT「一度も使ったことがない」4割 文系ほど敬遠か </title><link>https://ledge.ai/articles/the_honesty_of_generation_z</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -241,22 +264,7 @@ AWSは多様な基盤モデルやコスト性能に優れた計算基盤など�
 :::box
 
 :::
-</description><pubDate>Tue, 12 Sep 2023 13:48:16 +0000</pubDate></item><item><title>プレゼン資料の画像をAI生成「Google Slides」に新機能</title><link>https://ledge.ai/articles/duet_ai_googleslides</link><description>:::small
-画像出典：{target=“_blank”}
-:::
-
-米国Googleは現地時刻の2023年8月29日、プレゼンテーション用アプリケーション「Google Slides」で、スライド内の文章に合わせた画像を生成して組み込む機能を{target=“_blank”}した。生成AIによる事務支援「Duet AI for Google Workspace」の一部。
-
-Googleは同じ日にDuet AI for Google Workspaceの一般提供開始を発表した。AIが人間の代わりにプレゼンテーション資料を生成したり、ビデオ会議の設定を調整したりするサービスだ。Googleの各種業務用アプリケーションをまとめた「Google Workspace」の追加機能「アドオン」として有償で利用できる。
-
-AIによる画像生成は、従来のようにGoogle Slideで作成中の資料に画像を挿入するときと手順はほとんど変わらないという。「Help me visualize（視覚化するのを手伝って）」という入力欄に文字による指示「プロンプト」を入力すると、プレゼンテーション用の画像が数点生成でき、任意の画像を選択することが可能だ。
-
-!
-{target=“_blank”}
-
-:::box
-
-:::</description><pubDate>Tue, 12 Sep 2023 07:49:33 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 13:48:16 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
@@ -1779,7 +1787,33 @@ welzo社内では経営陣による本格的なDX推進も始まったが、現�
 :::button
 {target=“_blank”}
 :::
- </description><pubDate>Wed, 21 Jun 2023 05:04:46 +0000</pubDate></item><item><title>ドローンレースでAI「Swift」が人間の世界王者に勝利
+ </description><pubDate>Wed, 21 Jun 2023 05:04:46 +0000</pubDate></item><item><title>UI改善に人手は不要 AIがiPhoneアプリを検索・ダウンロード・データ収集する「終わりなき学習者」
+</title><link>https://ledge.ai/articles/never_ending_learning_ai</link><description>:::small
+画像出典：Never-ending Learning of User Interfaces
+:::
+
+AIが人間の代わりにiPhoneなど向けのアプリケーションをApp Storeから検索、ダウンロード、インストール、操作までしてデータを収集し、別のAIが学習できるよう整える。こんな取り組みを、米国のカーネギーメロン大学やAppleなどに所属する研究者らが論文「{target=“_blank”}」として2023年8月17日に発表した。
+
+論文によると、この研究はAIがiOS向けアプリなどの操作画面（UI）を分析し、より使いやすく改良するための手助けをする。
+
+従来、AIがアプリの分析に利用するためのデータセットはいちいち人間がアプリを操作して収集、注釈付けして作成していた。しかしコストがかかるうえ、特定の分野では手違いが生じやすい。
+
+例えばアプリの操作画面の各部分がタップ可能かどうかは、スクリーンショットや信頼性に欠けるビュー階層などのメタデータから推測することもできるが、確実に知る方法はプログラム的にタップして効果を観察することだ。
+
+研究者らは今回「Never-ending UI Learner（終わりなきUI学習者）」と呼ぶAIを開発。初期の学習データ以外はすべて自動で収集、注釈付けなどを行ってくれる。。それどころかApp  Storeからアプリを探してインストールもする。
+
+終わりなきUI学習者は5000時間以上にわたって稼働し、約6,000種類のアプリに対して50万回以上の操作を行った。結果、作成できたデータセットは、人手による既存のよるものより10倍以上大きかったとする。研究者らはこの新たなデータセットを利用してアプリの「タップ可能性」「ドラッグ可能性」「画面の類似性」についてコンピュータビジョン（CV）による画像認識を行うAIを訓練して検証した。
+
+結果、新たなデータセットで訓練したAIは従来の人手によるものよりもアプリの操作画面分析について正確になる可能性があり、さらに継続して改善してゆけることがわかったという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 15 Sep 2023 02:34:09 +0000</pubDate></item><item><title>ドローンレースでAI「Swift」が人間の世界王者に勝利
 </title><link>https://ledge.ai/articles/drone_racing_swift</link><description>:::small
 画像出典：Champion-level drone racing using deep reinforcement learning
 :::
@@ -2036,27 +2070,7 @@ OpenAIは直接の論文発表数は少ないものの、AIのデータサイズ
 :::
 :::box
 
-:::</description><pubDate>Tue, 29 Aug 2023 03:06:39 +0000</pubDate></item><item><title>「AIに学習したことを忘れさせる技術」マシン“アン”ラーニングの必要高まる 訴訟やプライバシー対策で</title><link>https://ledge.ai/articles/machine_unlearning_ai</link><description>AIが効率的に情報を忘れる「Machine Unlearning（マシンアンラーニング、機械非学習）」の必要性が高まっている。AIの「情報を忘れない性質」がプライバシー、セキュリティ、倫理問題を引き起こし、訴訟も相次ぐためだ。Googleが7月にこの技術の向上を目指して{target=“_blank”}を始めた。
-
-対話型AI（チャットボット）「ChatGPT」を開発する米国OpenAIや、画像生成AI「Stable Diffusion」を開発する英国Stability AIなどは、それぞれのAIの訓練に使用したデータをめぐる権利問題で訴訟に直面している。また「メンバーシップ推論攻撃（MIA）」と呼ぶ手法で、AIから訓練に使用したデータセットが含む個人情報を引き出せることもわかり、プライバシー懸念も増している。
-
-ただ既存の技術では、データ削除の要求があった場合、つどAI全体を訓練し直す必要があり、高いコストがかかる。マシンアンラーニングは訓練のし直しを避けて特定のデータの影響だけを取り除けるようにする技術だ。
-
-この件について報じた「{target=“_blank”}」ではマシンアンラーニングについて、企業を裁判所から遠ざける訳ではないが、関連するデータを完全に削除したと弁護側が証明する役には立つと評している。
-
-ただGoogleによると、従来のマシンアンラーニングの手法は多様でそれぞれ長短があり、さらに実際にどの程度効果があったのかを評価するための共通指標も定まっていない。
-
-2023年7月～9月の期間、Googleが開催している技術競技会「{target=“_blank”}」では評価指標を統一し、標準化することを目的としている。内容は「顔写真から年齢を予測するAI」に対して、プライバシー保護のため特定のデータを忘れさせる手法を工夫する、というもの。Googleが参加者がさまざまな発想で生み出した提出物を評価、比較して指標作りなどに活かす。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 28 Aug 2023 05:54:02 +0000</pubDate></item><item><title>日本 高リスクAIほど強く規制「リスクベースアプローチ」 EUに続き採用へ 政府骨子案</title><link>https://ledge.ai/articles/ai_strategy_mtg_risk_based_approach</link><description>:::small
+:::</description><pubDate>Tue, 29 Aug 2023 03:06:39 +0000</pubDate></item><item><title>日本 高リスクAIほど強く規制「リスクベースアプローチ」 EUに続き採用へ 政府骨子案</title><link>https://ledge.ai/articles/ai_strategy_mtg_risk_based_approach</link><description>:::small
 画像出典：欧州委員会 {target=“_blank”}
 :::
 
