@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 03:41:34 +0000</lastBuildDate><item><title>AIと開発した “西暦3000年” のコカ・コーラ「Y3000 」未来の味を探求</title><link>https://ledge.ai/articles/coca_cola_y3000</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 04:32:33 +0000</lastBuildDate><item><title>AIと開発した “西暦3000年” のコカ・コーラ「Y3000 」未来の味を探求</title><link>https://ledge.ai/articles/coca_cola_y3000</link><description>:::small
 画像出典：Coca-Cola
 :::
 
@@ -2309,7 +2309,36 @@ WPの報道時点では、米国議会はまだ選挙における生成AIの使�
 :::
 :::box
 
-:::</description><pubDate>Thu, 31 Aug 2023 13:57:36 +0000</pubDate></item><item><title>無料で音楽生成できるAI「Stable Audio」テキスト入力だけの簡単操作 英Stability AI公開</title><link>https://ledge.ai/articles/stable_audio</link><description>:::small
+:::</description><pubDate>Thu, 31 Aug 2023 13:57:36 +0000</pubDate></item><item><title>集英社 漫画作り助けるAI「コミコパ」成長中 ChatGPTの技術で「アイディア出し」から「作者励まし」までサポート</title><link>https://ledge.ai/articles/comic_copilot_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+集英社などが運営する漫画制作サポートAI「Comic-Copilot（コミック・コパイロット、略称：コミコパ）」が話題となっている。2023年5月の公開から利用者数は増加を続け、文章だけでなく音声での操作も可能になるなど継続して機能の拡充も進んでいる。
+
+コミコパは、集英社の漫画アプリケーション「少年ジャンプ＋（プラス）」の編集部と、クリエーター支援サービスのアルが手掛ける。米国OpenAIの対話型AI（チャットボット）「ChatGPT」の技術を使い、クリエイターの作品作りを手伝う機能がある。ストーリーの発想をサポートしたり、作品の感想や励ましの言葉を伝えたりする。
+
+少年ジャンプ＋編集部が運営する漫画投稿・公開サービス「ジャンプルーキー!」か、同編集部とはてなが共同運営する「マンガノ」へ登録すれば、無料で利用できる。
+
+ログインすると「テーマを一緒に考えたい」「マンガのタイトルを提案して」「キャラクター名を考えて」など、ストーリー制作に関わる様々な対話のテーマが用意されている。
+
+!
+:::small
+コミコパの操作画面「相談：ライターですがマンガ描けますか」
+:::
+
+試しに「ライターでもマンガが描けるのか」と、コミコパに相談をすると、「素晴らしいです」「～してみてはいかがですか？」とほめ上手でポジティブな返答が返ってきた。また「とにかく励ましてほしい」「とにかく話をしたい」といった会話テーマをみると、精神面で漫画家をサポートするというふれこみもうなずける。
+
+利用者数はアルの5月29日付けの{target=”_blank”}によると、開始から10日で2万5,000人を超えた。さらに8月30日付けの{target=“_blank”}の報道では3万6,000人としている。
+
+コミコパは利用者アンケートの結果をもとに、新機能も追加している。パソコンでの利用者が43.8%という結果を受け、パソコンで制作をしながらコミコパを利用しやすくするためのアップデートを続けている。7月13日に「会話ログの保存機能」、8月31日には「音声入力」と「読み上げ」機能を追加し、9月7日にはパソコンでのチャット表示領域を広くした。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 15 Sep 2023 04:32:33 +0000</pubDate></item><item><title>無料で音楽生成できるAI「Stable Audio」テキスト入力だけの簡単操作 英Stability AI公開</title><link>https://ledge.ai/articles/stable_audio</link><description>:::small
 画像出典：Stability AI
 :::
 
@@ -2582,28 +2611,4 @@ YouTube Music AI Incubatorの協力相手には音楽グループ「ABBA」の�
 :::box
 
 :::
-</description><pubDate>Tue, 29 Aug 2023 07:26:50 +0000</pubDate></item><item><title>ヤマハ「AIシンガー」を自在に歌わせる「VX-β」の実験開始 抽選で参加可能</title><link>https://ledge.ai/articles/yamaha_vxbeta</link><description>:::small
-画像出典：ヤマハ
-:::
-
-ヤマハは2023年8月22日、「AIシンガー」を自在に歌わせられるという新たな音声合成技術の実証実験を開始した。「{target=“_blank”}」という製品で機能を試せるようになっている。
-
-@
-
-VX-βは、同社が2003年から開発、販売してきた「VOCALOID」シリーズと異なり、独立したアプリケーションではなく、ドイツのグループ会社Steinberg Media Technologiesが開発するデジタル音響制作環境（DAW）アプリケーション「Cubase」に新機能を追加するためのプラグインとなっている。
-
-!
-:::small
-画像出典：ヤマハ
-:::
-
-VX-βの特徴として、まるで本物の歌手の楽曲を編集しているような操作感や、リアルタイム合成エンジンを使用したパラメーターの変化がAIシンガーの歌い方に即座に反映される点が挙げられる。また、さまざまなジャンルに対応する9つのボイスバンクも備え、ポップスからロック、アニメソングなど幅広いジャンルに対応する歌声を合成できる。
-
-ヤマハの研究組織「VOCALOID β-STUDIO」の{target=“_blank”}を通じて実験への参加を申し込める。同社の会員サービス用アカウント「Yamaha Music ID」への登録とアンケート回答が必要。また不定期に行う抽選に当選した人限定となっている。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 29 Aug 2023 06:37:43 +0000</pubDate></item></channel></rss>
+</description><pubDate>Tue, 29 Aug 2023 07:26:50 +0000</pubDate></item></channel></rss>
