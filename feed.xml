@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 04:32:33 +0000</lastBuildDate><item><title>AIと開発した “西暦3000年” のコカ・コーラ「Y3000 」未来の味を探求</title><link>https://ledge.ai/articles/coca_cola_y3000</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 09:05:13 +0000</lastBuildDate><item><title>米税務当局 AIで富裕層の税金逃れ分析 一般納税者の負担軽減へ</title><link>https://ledge.ai/articles/irs_focus_will_shift_attention_to_wealthy</link><description>:::small
+photo by {target=“_blank”}
+:::
+
+米国の国税庁にあたる内国歳入庁（IRS）は2023年9月8日、AIをはじめとする新技術を駆使して、富裕層の租税回避の手口を特定すると{target=“_blank”}した。一般の納税者の負担を減らすのが目的とする。国の税法を悪用する富裕層や大企業（コーポレーション）、そして「パートナーシップ」「プロモーター」への監視を強化するという。
+
+ここで言うプロモーターは富裕層や企業などに対して税務に関する手助けをする専門家。パートナーシップは2人以上で事業を営む団体でコーポレーションと異なる形態をとり、富裕層がしばしば租税回避の手段として利用するとして問題になっていた。
+
+IRSはパートナーシップを主な対象として監査にAIを活用する。9月末までにヘッジファンド、不動産投資パートナーシップ、上場パートナーシップ（PTP）、大手法律事務所、およびその他の産業を含む米国内で最も大きなパートナーシップ75団体の調査を開始する予定だ。これらの団体の資産総額は平均100億ドル以上という。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 15 Sep 2023 09:05:13 +0000</pubDate></item><item><title>Microsoft 顧客がAI使用で訴えられたら補償 「Copilot」の著作権懸念に対処
+</title><link>https://ledge.ai/articles/microsoft_copilot_copyright_commitment</link><description>:::small
+画像出典：Microsoft
+:::
+
+米国Microsoftは2023年9月7日、生成AIを利用した業務支援サービス「Microsoft Copilot」について、知的財産権侵害の申立てなどから顧客企業を保護する「Microsoft Copilot Copyright Commitment」を{target=“_blank”}した。10月1日より適用する。
+
+法人向けCopilotとBing Chat Enterpriseの有料版が対象だ。Word、Excel、PowerPointといったオフィスアプリケーションの操作をAIが支援する「Microsoft 365 Copilot」や、開発者のプログラミングコード作成をAIが支援する「GitHub Copilot」を含む。
+
+!
+:::small
+画像出典：Microsoft
+:::
+
+既存の「{target=“_blank”}」に基づき、知的財産権に関する補償を法人向けにも拡大するもの。第三者が著作権侵害で訴えた場合、同社が顧客を弁護し費用も負担する。
+
+なおCopilotには著作権侵害を防ぐためコンテンツフィルタリング、運用監視などを行う「ガードレール」機能を組み込んでいる。顧客企業がこれらの機能を利用することが「Copilot Copyright Commitment」の前提となる。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 15 Sep 2023 08:04:03 +0000</pubDate></item><item><title>AIと開発した “西暦3000年” のコカ・コーラ「Y3000 」未来の味を探求</title><link>https://ledge.ai/articles/coca_cola_y3000</link><description>:::small
 画像出典：Coca-Cola
 :::
 
@@ -226,45 +265,7 @@ BlackBerry Japanが2023年9月7日、職場でのChatGPTやその他の生成AI�
 :::
 :::box
 
-:::</description><pubDate>Wed, 13 Sep 2023 04:50:38 +0000</pubDate></item><item><title>“ChatGPT超え” 生成AI「Gemini」Googleが秋公開へ サイズ「巨大化」の今後占う</title><link>https://ledge.ai/articles/google_deepmind_gemini</link><description>:::small
-画像出典：Google 
-:::
-
-米国Google傘下の英国DeepMind Technologies（Google DeepMind）のデミス・ハサビス最高経営責任者（CEO）が開発中の新たな大規模言語モデル（LLM）「{target=“_blank”}」について{target=“_blank”}の現地時間2023年6月26日の記事で明かして以来、この話題は多大な注目を浴びてきた。8月15日付けで続報を伝えた{target=“_blank”}によると、Geminiは今秋にも公開予定。開発が順調であればいよいよ全貌が明らかになる時期が近づいている。
-
-Geminiは、2015〜2016年にかけて囲碁のトップ棋士を次々に破って話題となったDeepMindのAI「AlphaGo」で用いた強化学習の技術とLLMを組み合わせたものになるという。
-
-Geminiが初めて公になったのは、2023年5月にGoogleが開催した開発者会議「{target=“_blank”}」だ。開発はまだ進行中で、完成までには数か月と数千万ドルから数億ドルの費用がかかる可能性があるとのうわさだった。Geminiの完成によりGoogleは、OpenAIのチャットボット「ChatGPT」などが採用する最新LLM「GPT-4」に対抗できるようになると期待が集まっている。
-
-GPT-4の詳細は非公開だが、OpenAIのより世代の古いLLMである「GPT-3.5 Turbo」などに比べAIのサイズの目安となるパラメータ数が大幅に増えていると多くの研究者が推測している。対抗馬となるGeminiが同じ巨大化路線でさらなる性能向上に成功するのか、あるいは別の手法で革新を起こそうとしているのかも関心の集まるところだ。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 13 Sep 2023 09:50:21 +0000</pubDate></item><item><title>KDDIとAWS 生成AIの「推し」はオープンソース・スタートアップ製 企業・自治体へ導入支援</title><link>https://ledge.ai/articles/kddi_aws</link><description>KDDIとアマゾン ウェブ サービス ジャパン（AWS）が企業や自治体が生成AIを利用できるよう支援サービスを2023年10月をめどに始める。9月1日付けで包括的な協力関係を結んだと{target=“_blank”}した。
-
-米国OpenAIの「ChatGPT」やGoogleの「Bard」などクローズドソースの生成AIが注目を浴びるが、今回両社はオープンソースやスタートアップ製に重点を置く。KDDIグループのアイレットなどがAWSのクラウドサービスを使った生成AI用インフラ設計、構築、運用保守、データ活用プラットフォームの提供、アプリケーション開発を担当する。
-
-またKDDIの組織「KDDI ∞ Labo（ムゲンラボ）」が企業、自治体とスタートアップのビジネスマッチングを行う。それぞれの課題に特化した生成AIのファインチューニング（微調整）が可能としている。
-
-!
-:::small
-画像出典：{target=“_blank”}より
-:::
-
-AWSは多様な基盤モデルやコスト性能に優れた計算基盤などを企業や自治体に提供する。スタートアップ向けには「AWS Activate」プログラムを通じたツール、リソース、専門家による支援を行う。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 12 Sep 2023 13:48:16 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Wed, 13 Sep 2023 04:50:38 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
@@ -1787,7 +1788,25 @@ welzo社内では経営陣による本格的なDX推進も始まったが、現�
 :::button
 {target=“_blank”}
 :::
- </description><pubDate>Wed, 21 Jun 2023 05:04:46 +0000</pubDate></item><item><title>UI改善に人手は不要 AIがiPhoneアプリを検索・ダウンロード・データ収集する「終わりなき学習者」
+ </description><pubDate>Wed, 21 Jun 2023 05:04:46 +0000</pubDate></item><item><title>西表島で「Starlink」とAI使い外来種調査 KDDIとスタートアップがタッグ</title><link>https://ledge.ai/articles/biome_reserch_iriomote</link><description>:::small
+画像出典：KDDI
+:::
+
+沖縄セルラー電話、KDDI、AIスタートアップのバイオームの3社は、2023年9月7日～8日に沖縄県西表島で{target=“_blank”}を実施した。スマートフォンで撮影した生物をAIが判定するアプリケーション「Biome（バイオーム）」と、イーロン・マスク氏率いる米国Space Exploration Technologies（SpaceX）の衛星通信サービス「Starlink」を活用した国内初の取り組み。
+
+西表島には絶滅危惧種であるイリオモテヤマネコなどの固有種が多く生息しており、侵略的外来種の影響について懸念があるため調査が必要となっている。
+
+KDDIは2021年からStarlinkの国内導入のためSpaceXと提携し、商用向けに「Starlink Business」のブランドで展開しており、今回は西表島の携帯電話回線が不安定な地域にStarlink Businessでインターネット回線を構築。Biomeを使って外来種の分布データを収集した。Biomeは日本国内のほぼ全種（約10万種）の動植物を収録しており、専門家でなくても高精度な調査が可能だ。
+
+この調査は沖縄セルラーが2021年から進める「おきなわ自然保護プロジェクト」の一環として、環境省沖縄奄美自然保護事務所、沖縄県環境部自然保護課、竹富町の協力で実施。収集したデータは各組織に共有し、生物多様性保全に活用する。
+
+調査の背景として、2022年末の生物多様性条約第15回締約国会議（COP15）が生物多様性保全の世界目標を採択し、自然資本の重要性が高まっていることがある。奄美・沖縄も生物多様性保全に重要地域となっている。
+
+沖縄セルラーは従来、インターネット接続機能を備えた機器、いわゆるIoTのカメラで動物の分布を調査しているがこれまで収集できたデータ量が十分でないことや、自然が豊かな地域では通信が不安定な場合があるなどの課題があった。
+
+:::box
+
+:::</description><pubDate>Fri, 15 Sep 2023 03:45:33 +0000</pubDate></item><item><title>UI改善に人手は不要 AIがiPhoneアプリを検索・ダウンロード・データ収集する「終わりなき学習者」
 </title><link>https://ledge.ai/articles/never_ending_learning_ai</link><description>:::small
 画像出典：Never-ending Learning of User Interfaces
 :::
@@ -2027,50 +2046,7 @@ Cubec（キューベック）は2023年8月9日、心不全治療に特化した
 :::box
 
 :::
-</description><pubDate>Tue, 29 Aug 2023 08:12:07 +0000</pubDate></item><item><title>今の世界は「生成AIのカンブリア爆発」米国が研究助成でトップ独走 特許出願は中国 日本はともに4位</title><link>https://ledge.ai/articles/astamuse_ai_report</link><description>アスタミューゼは2023年7月27日、生成AIの技術領域において同社が所有する論文・特許・スタートアップ・グラントなどのイノベーション・研究開発情報を分析し、動向を{target=“_blank”}としてまとめた。
-
-レポートが対象とする生成AIには米国OpenAIの「ChatGPT」や、英国Stability AIの「Stable Diffusion」などが含まれ、それぞれ異なる分野を得意とし、文章の翻訳や要約、画像、音声、動画、プログラミングコードなどを半自動で生成する能力がある。また技術の進化によって、ひとつのAIが文字だけでなく音声や画像、動画など、さまざまな入力情報を処理可能となった。これらを「マルチモーダルAI」と呼ぶ。具体的には画像認識や文章読み上げ機能を持つGoogleの「Bard」などだ。
-
-!
-!
-:::small
-画像出典：アスタミューゼ
-:::
-
-上記2つの図はコンサルタントのAlan D. Thompson氏が手掛けたもので、生成AIの群雄割拠のありさまをあらわしている。この状況を「生成AIのカンブリア爆発」とアスタミューゼは呼ぶ。
-
-生成AI、特に大規模言語モデル（LLM）の隆盛は、2017年にGoogleが発表した深層学習の画期的な手法「Transformer（トランスフォーマー）」がきっかけだ。次に2017年以降の全世界の生成AI関連の動向、とりわけ最近の特許と論文を中心に見てみると、米国と中国が特許出願数と論文発表数の両方で際立つ。
-
-!
-:::small
-画像出典：アスタミューゼ
-:::
-
-中国は特許出願数で1万1,975件とトップを走る一方、米国はグラント（公的研究助成）件数で981件と首位。米国と中国の論文発表数は、それぞれ1万1,174件と1万1,875件でほぼ互角だ。一方で日本は特許出願数とグラント件数の両方で4位。
-
-国ごとの特許資産の総量を表すTPA（Total Patent Asset）合計では、米国が圧倒的な首位で、2位の韓国、3位の日本の7～8倍の値を示した。
-
-グラントの総配賦額（各国の基礎研究投資額の指標）では米国が首位、英国が2位で両国が3位以下を大きく引き離した。ベンチャー・スタートアップの新規設立数と資金調達額では、米国が圧倒的な首位を獲得。
-
-!
-:::small
-画像出典：アスタミューゼ
-:::
-
-また中国の特許出願数が大幅に増えている。これは中国政府が2006年に策定した「国家中長期科学技術発展計画（2006-2020年）」の影響と考えられている。この政策の下で、中国は研究開発支出の対GDP比率を2020年までに2.5%以上に引き上げることを目指しており、国内のイノベーションを推進してきた。
-
-AI関連企業が発表した論文の件数推移は、米国Googleが818本、Microsoftが662本で、他の企業を大きく引き離している。
-
-特にGoogleの論文「Attention Is All You Need」は7万6,000件以上の被引用数を持ち、多くの研究者から注目を集めている。Microsoftは論文「Sparks of Artificial General Intelligence」で、GPT-4が汎用人工知能（AGI）の事実上の初期版だと語っている。
-
-OpenAIは直接の論文発表数は少ないものの、AIのデータサイズなどが大きくなるほど性能が高まるという「Scaling Laws（スケーリング則）」に関する論文を発表しており、研究者や投資家からの関心を集めている。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 29 Aug 2023 03:06:39 +0000</pubDate></item><item><title>日本 高リスクAIほど強く規制「リスクベースアプローチ」 EUに続き採用へ 政府骨子案</title><link>https://ledge.ai/articles/ai_strategy_mtg_risk_based_approach</link><description>:::small
+</description><pubDate>Tue, 29 Aug 2023 08:12:07 +0000</pubDate></item><item><title>日本 高リスクAIほど強く規制「リスクベースアプローチ」 EUに続き採用へ 政府骨子案</title><link>https://ledge.ai/articles/ai_strategy_mtg_risk_based_approach</link><description>:::small
 画像出典：欧州委員会 {target=“_blank”}
 :::
 
