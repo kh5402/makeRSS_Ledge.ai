@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 09:09:25 +0000</lastBuildDate><item><title>企業のデータ侵害コスト過去最高445万ドル AIで対処にかかる時間は短縮 -- IBM調査</title><link>https://ledge.ai/articles/ibm_seurity_report_2023</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 09:19:40 +0000</lastBuildDate><item><title>企業のデータ侵害コスト過去最高445万ドル AIで対処にかかる時間は短縮 -- IBM調査</title><link>https://ledge.ai/articles/ibm_seurity_report_2023</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2282,7 +2282,22 @@ WPの報道時点では、米国議会はまだ選挙における生成AIの使�
 :::
 :::box
 
-:::</description><pubDate>Thu, 31 Aug 2023 13:57:36 +0000</pubDate></item><item><title>集英社 漫画作り助けるAI「コミコパ」成長中 ChatGPTの技術で「アイディア出し」から「作者励まし」までサポート</title><link>https://ledge.ai/articles/comic_copilot_ai</link><description>:::small
+:::</description><pubDate>Thu, 31 Aug 2023 13:57:36 +0000</pubDate></item><item><title>商用OK Adobeの画像生成AI「Firely」正式公開 Webアプリで「生成塗りつぶし」「生成拡張」利用可能に</title><link>https://ledge.ai/articles/adobe_firefly_models_and_web_application</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Abobe（アドビ）は独自の画像生成AI「Adobe Firefly」をベータ版から正式版へ移行させ、出力した内容の商用利用を可能にした。合わせてWebアプリケーション「{target="_blank"}」を公開した。いずれも現地時間2023年9月13日に{target=“_blank”}した。
+
+Fireflyは文章による指示（プロンプト）から画像を生成する「text to image（t2i）」機能のほか、背景を一部消し、プロンプトで生成した画像に置き替える「生成塗りつぶし」機能、写っていない、描いていない部分を生成し、画像を広げる「生成拡張」機能、文字の表示スタイルや装飾をプロンプトで指示する「テキスト効果」機能などを搭載している。
+
+同社はFireflyのベータ版を約6か月間公開したあと主力サービス「Adobe Creative Cloud」シリーズに統合し正式版とした。Adobe Creative Cloudの各アプリケーションでは、契約している料金プランごとに決まった「生成クレジット」を受け取って、消費しながら利用することになる。上限に達したあとは処理速度が低下した状態で利用し続けるか、有料で生成クレジットを増やすかを選べる。 
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 15 Sep 2023 09:19:40 +0000</pubDate></item><item><title>集英社 漫画作り助けるAI「コミコパ」成長中 ChatGPTの技術で「アイディア出し」から「作者励まし」までサポート</title><link>https://ledge.ai/articles/comic_copilot_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2562,26 +2577,4 @@ AI技術を用いた脚本制作の規制や待遇改善を求め、ハリウッ
 :::box
 
 :::
-</description><pubDate>Fri, 01 Sep 2023 01:46:38 +0000</pubDate></item><item><title>YouTube 生成AIの音楽利用でユニバーサル・ミュージックと提携 ABBAのメンバーなどが協力</title><link>https://ledge.ai/articles/youtube_partners_with_universal_music_on_generative_ai</link><description>:::small
-photo by {target=“_blank”} (CC BY-SA 2.0)
-:::
-米国Google傘下の動画共有大手「YouTube」は2023年8月21日、米蘭音楽大手Universal Music Group（ユニバーサル ミュージック）とAI技術に関して提携したと{target=“_blank”}した。生成AIの実験や研究に関する組織「YouTube Music AI Incubator」を設立し、音楽関係者と協力する。
-
-YouTube Music AI Incubatorの協力相手には音楽グループ「ABBA」の一員として知られるシンガーソングライターBjörn Ulvaeus（ビヨルン・ウルヴァース）氏など、著名なミュージシャンや音楽プロデューサーの名前が挙がっている。
-
-新組織を通じ生成AIの研究、実験を推進する一方、生成AIによる権利侵害や誤情報対策として、既存の著作権保護機能「Content ID」をはじめAIを活用した技術への投資を続けることも訴えた。
-
-このほかYouTubeは「AI音楽3原則」を発表している。
-- 第1条: AIが現実のものとなったことを、YouTubeは音楽業界のパートナーとともに責任を持って受け入れる。
-- 第2条: AIは新たな創作表現の時代をもたらすが、適切な保護を伴わねばならず、参加を選択する音楽業界のパートナーには機会が開かれていなければならない。
-- 第3条: YouTubeは業界を主導する信頼と安全に関する組織とコンテンツポリシーを築き、AIの課題に対応するために拡大してゆく。
-
-なお、YouTubeはユニバーサル ミュージック以外にも提携相手を広げることを検討している。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 29 Aug 2023 07:26:50 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 01 Sep 2023 01:46:38 +0000</pubDate></item></channel></rss>
