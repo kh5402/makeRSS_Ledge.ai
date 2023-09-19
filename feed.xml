@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 09:05:13 +0000</lastBuildDate><item><title>米税務当局 AIで富裕層の税金逃れ分析 一般納税者の負担軽減へ</title><link>https://ledge.ai/articles/irs_focus_will_shift_attention_to_wealthy</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 09:09:25 +0000</lastBuildDate><item><title>企業のデータ侵害コスト過去最高445万ドル AIで対処にかかる時間は短縮 -- IBM調査</title><link>https://ledge.ai/articles/ibm_seurity_report_2023</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日本IBMは2023年9月11日、「2023年データ侵害のコストに関する調査レポート」の日本語版を{target=“_blank”}した。データ侵害の世界平均コストは2023年に過去最高の445万ドルに到達し、過去3年で15%増加している。同期間の検知と上層部への確認（エスカレーション）のコストは約42%上昇しており最も大きな部分を占める。データ侵害調査の複雑化を示すものだという。
+
+95%の組織がデータ侵害を1回以上経験しているが、企業によってデータ侵害のコスト増への対応が分かれる。被害企業の51%がセキュリティへの投資を増やしたが、一方で57%がコストを消費者側に転嫁する選択をしているという。
+
+さらに調査では以下のことが明らかになった。
+- AIと自動化は、調査対象組織のデータ侵害の特定および被害の封じ込めを迅速化する。AIと自動化の両方を広範に使用している組織はそうではない組織に比べデータ侵害のライフサイクルを108日短縮した。
+- ランサムウェア攻撃に法執行機関を関与させることで、被害コストを47万ドル下げる効果があるという。しかし、37%の被害者が法執行機関の関与を選択していない。
+- データ侵害の調査対象となった組織のうち3分の1しか自らのセキュリティ組織で侵害を検知できておらず、4分の1以上は攻撃者が公開して発覚した。攻撃者による公開のコストは、組織の自らの検知よりも平均で約100万ドル高くなっている。
+
+調査は2022年3月から2023年3月の間に553の組織が経験したデータ侵害を基に米国の調査会社Ponemon Instituteが実施。IBMセキュリティが分析している。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 15 Sep 2023 09:09:25 +0000</pubDate></item><item><title>米税務当局 AIで富裕層の税金逃れ分析 一般納税者の負担軽減へ</title><link>https://ledge.ai/articles/irs_focus_will_shift_attention_to_wealthy</link><description>:::small
 photo by {target=“_blank”}
 :::
 
@@ -242,30 +262,7 @@ BlackBerry Japanが2023年9月7日、職場でのChatGPTやその他の生成AI�
 
 :::box
 
-:::</description><pubDate>Wed, 13 Sep 2023 04:59:44 +0000</pubDate></item><item><title>Google ビデオ会議の背景をAI生成 商談相手に合わせカスタマイズ可能に</title><link>https://ledge.ai/articles/duet_ai_googlemeet</link><description>:::small
-画像出典：{target=“_blank”}
-:::
-
-米国Google の提供するオンラインビデオ会議ツール「Google Meet」で、会議中の自画像の背景をAIで生成して利用できるようになったと、現地時刻の2023年8月29日に{target=“_blank”}した。
-
-同じ日に一般提供開始を発表した「Duet AI for Google Workspace」の生成AIを使い、ユーザーがプロンプト（文字による指示）を入力することで、会議に適した背景を作ることが可能となった。
-
-!
-:::small
-画像出典：{target=“_blank”}
-:::
-
-機能のアップデートを伝えるブログでは、背景を工夫することで得られる効果について触れた。
-実際の会議のカメラ画像に、オフィスの様子が映り込まないなど、通話中のプライバシーを保護できるだけでなく、背景による会議自体の強化を計れるという。例えば、クライアントや取引先の業界に固有の背景を作成し、視覚的な強化を通じてつながりを深める。また、重要なプロジェクトを開始するときの雰囲気を決める背景を作ったり、会社や同僚のマイルストーンを祝うのにふさわしい背景などで雰囲気を盛り上げたりなどの効果が期待できるという。
-
-このサービスは、Googleの各種業務用アプリケーションをまとめた「Google Workspace」の追加機能「アドオン」として有償で利用できる。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 13 Sep 2023 04:50:38 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Wed, 13 Sep 2023 04:59:44 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
