@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 09:19:40 +0000</lastBuildDate><item><title>企業のデータ侵害コスト過去最高445万ドル AIで対処にかかる時間は短縮 -- IBM調査</title><link>https://ledge.ai/articles/ibm_seurity_report_2023</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 09:34:50 +0000</lastBuildDate><item><title>ChatGPT「使ったことある」10人に1人 Threadsわずか4％  ただし徐々に上昇する傾向も</title><link>https://ledge.ai/articles/chatgpt_threads_reserch</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日本リサーチセンターは2023年8月31日、新商品・新サービス利用経験を調査する「NRC デイリー・トラッキング調査」で、「ChatGPT」と「Threads」などについて尋ねた結果を{target=“_blank”}した。
+
+ChatGPTは2023年3月時点で3％だった利用者割合が、8月には10%まで徐々に上がっている。男女年代別比較では、全年代で女性より男性の方が利用経験が高く、8月時点では、20~40代男性利用割合が16%以上と全体を5ポイント以上上回った。
+
+!
+:::small
+{target=“_blank”}
+:::
+
+2023年7月にサービス開始したThreadsの8月時点での利用経験率は全体で4％。男女ともに20代で約10%の利用経験があり、40~60代は各年代で5%未満だった。
+
+!
+:::small
+{target=“_blank”}
+:::
+
+NRCデイリー・トラッキング調査の概要
+調査目的：人々の行動と感情について、日々の推移をトラッキングする
+調査方法：Web調査
+調査対象者：NRCサイバーパネル会員　全国20～69才男女　毎日約150人回収（平均）　日本の人口構成比（エリア、男女、年代）に合わせてウエイト集計
+調査期間：　2022年5月17日からデイリーでトラッキング調査を実施中
+調査機関：　日本リサーチセンター（NRC）
+
+質問内容：次の中で、あなたが利用したことがあるものをすべてお知らせください。（いくつでも）
+選択肢：ChatGPT、Threads、Midjourney、Discord、Pinterest、Voicy、NFT、メタバース、Starlink、オンライン診療、スマート家電、VR、いずれもない
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 15 Sep 2023 09:34:50 +0000</pubDate></item><item><title>AWSとCloudera「信頼できる生成AI」で協力 クラウドとデータ管理・分析製品の連携強化</title><link>https://ledge.ai/articles/cdp_on_aws</link><description>企業向けの「信頼できる生成AI」実現に向けデータ管理・分析製品大手のClouderaと、クラウドサービス大手のAmazon Web Services（AWS）が手を組む。両社は現地時間2023年9月7日付けで戦略的協業契約を結んだと{target="_blank"}した。
+
+Clouderaのデータレイクハウス「Cloudera Data Platform（CDP）」の主要機能を、AIや機械学習（ML）関連を含めAWSのクラウド上で実行できる。ClouderaはAWSで認証済みのアプリケーションを検索して購入できる「AWS Marketplace」にCDPのパブリッククラウド版を提供しており、協業でより利便性が高まるとしている。
+
+Clouderaの顧客企業はアプリケーションを再設計（リファクタリング）せずAWSのクラウドに移行可能。Amazon Simple Storage Service（Amazon S3）、Amazon Elastic Kubernetes Service（Amazon EKS）、Amazon Relational Database Service（Amazon RDS）、Amazon Elastic Compute Cloud（Amazon EC2）などの各サービスとCDPを直接統合できる。
+
+:::box
+
+:::
+</description><pubDate>Fri, 15 Sep 2023 07:51:38 +0000</pubDate></item><item><title>企業のデータ侵害コスト過去最高445万ドル AIで対処にかかる時間は短縮 -- IBM調査</title><link>https://ledge.ai/articles/ibm_seurity_report_2023</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -232,37 +276,7 @@ BlackBerry Japanが2023年9月7日、職場でのChatGPTやその他の生成AI�
 
 :::
 
-</description><pubDate>Thu, 14 Sep 2023 01:49:10 +0000</pubDate></item><item><title>中国が作った「6本指の自由の女神」 生成AIで米国の分断煽り大統領選に介入か Microsoftが警鐘</title><link>https://ledge.ai/articles/microsoft_cyber_attack</link><description>:::small
-画像出典：Microsoft
-:::
-
-米国Microsoftが2023年9月7日、サイバー攻撃に関する調査報告書を{target=“_blank”}した。中国の工作員が生成AIを使って偽アカウントを作り、米国の世論を誘導する可能性があると指摘している。
-
-目的は、米国内で政治、人種、経済、イデオロギーに沿った議論を引き起こすこととみられている。生成AIを使用して目を引く画像を作成して発信しているのが特徴で、偽アカウントは多くの場合、インフルエンサーや著名人を偽装している。
-
-生成AIを使用した工作の例のひとつとしてMicrosoftが挙げるのが「6本（あるいはそれ以上の）指の自由の女神像」だ。最新のAIはきわめて高品質のイラストやデザインを描き出せるが、いまだに指の数や形については手こずることが多い。だが中国は今後生成AIを駆使した工作をより洗練させてゆくとも同社は見込んでいる。
-
-2024年の米大統領選挙に向けて、情報操作に対する警戒感がいっそう高まる見込みだ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 13 Sep 2023 07:14:59 +0000</pubDate></item><item><title>TSMC AI向け半導体生産を2倍に 24年までに</title><link>https://ledge.ai/articles/tsmc_doubles_semiconductor_production_4ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-台湾の半導体製造大手TSMCが、AI向け半導体の増産を加速している。6月に先進の半導体製造後工程工場を新設稼働させるなど、重要工程の生産能力を2024年に現状の2倍に高めるという。
-
-2023年9月6日、台北市内で開催された国際展示会「セミコン台湾」にTSMC経営トップの劉徳音・董事長が{target=“_blank”}した。「AI時代の半導体技術」をテーマに講演し「AIは人々の生活や仕事を大きく変え、半導体産業に巨大なチャンスをもたらしている」と語り、AI市場の成長性を強調した。講演後、同氏は記者団に「1年半後に供給が需要に追いつく」と述べた。
-
-半導体の製造工程において、AI向け半導体の性能向上の鍵を握る先端パッケージングは、演算や記憶といった機能をそれぞれ持つ複数の半導体を一つのパッケージに収め、効率よく相互に連動させる後工程技術だ。同社は、AI向け半導体の増産のため、6月に先進の半導体製造後工程工場「Backend Fab6」を新設し、後工程の生産能力を増やす。また7月には苗栗県の別の場所に約900億台湾ドル（約4000億円）を投じ、新工場を設けることが明らかになった。着工は2024年後半、2027年には量産開始の見込みだ。
-
-:::box
-
-:::</description><pubDate>Wed, 13 Sep 2023 04:59:44 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Thu, 14 Sep 2023 01:49:10 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
