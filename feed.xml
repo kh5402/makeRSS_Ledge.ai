@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Sep 2023 09:34:50 +0000</lastBuildDate><item><title>ChatGPT「使ったことある」10人に1人 Threadsわずか4％  ただし徐々に上昇する傾向も</title><link>https://ledge.ai/articles/chatgpt_threads_reserch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Sep 2023 05:26:16 +0000</lastBuildDate><item><title>ソフトバンクグループ 次の投資先は自動運転トラック「Stack AV」10億ドル以上 元Google・Uber技術者設立
+</title><link>https://ledge.ai/articles/stack_av_softbank_group</link><description>:::small
+画像出典：Stack AV
+:::
+
+ソフトバンクグループが、米国の自動運転トラック開発企業Stack AVへの{target=“_blank”}を米国時間2023年9月7日に発表した。出資額は明らかにしていないが、{target=“_blank”}によると、10億ドル（約1,472億円）以上。
+
+Stack AVは、2022年に解散した米国Argo AIの経営陣が設立した。Argo AIは米国Ford MotorとドイツVolkswagenが出資し、米国Google出身のBryan Salesky（ブライアン・サレスキー）氏、Uber出身のPeter Rander（ピーター・ランダー）氏、Brett Browning（ブレット・ブラウニング）氏といった技術者が2016年に立ち上げたスタートアップだったが、開発した自動運転システムは実用化にはいたらなかった。新たなStack AVの本社は旧Argo AIと同じく米国ペンシルベニア州ピッツバーグに位置する。従業員数は150人で、リモートワークも活用している。
+
+ソフトバンクグループはすでにAI向け半導体需要の高まりを背景に傘下の英国Arm Holdingsの上場を決め、巨額の資金を調達。今後の投資先に関心が集まっていた。
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Tue, 19 Sep 2023 05:26:16 +0000</pubDate></item><item><title>ChatGPT「使ったことある」10人に1人 Threadsわずか4％  ただし徐々に上昇する傾向も</title><link>https://ledge.ai/articles/chatgpt_threads_reserch</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -251,32 +270,7 @@ AIで生成または補助されたすべてのコンテンツが、コンテン
 :::
 :::box
 
-:::</description><pubDate>Thu, 14 Sep 2023 01:57:36 +0000</pubDate></item><item><title>日本の組織の72%が生成AIの職場利用を禁止または検討中 BlackBerry調査</title><link>https://ledge.ai/articles/blackberry_reserch_ai_japan</link><description>:::small
-画像出典：写真AC
-:::
-
-
-BlackBerry Japanが2023年9月7日、職場でのChatGPTやその他の生成AIアプリケーションの利用についての調査結果を{target=“_blank”}した。日本の組織の7割以上で、職場での生成AIの使用を禁止または検討中であることがわかった。
-
-今回の調査によると、日本の組織の72%が職場での生成AI（ChatGPTを含む）の使用を禁止または検討中で、58%は禁止措置が長期的または恒久的であると回答した。主な懸念は顧客データ侵害、知的財産へのリスク、誤情報の拡散だ。
-
-また81%が、安全でないアプリケーションがサイバーセキュリティ上のリスクとなると懸念。一方で54%は生成AIがイノベーションを高め、48%は創造力と効率性が高まると感じている。
-
-さらにサイバーセキュリティの防御のために生成AIツールを使用することについては、77%が賛成。IT部門の意思決定者がサイバー犯罪者に優位に立たれることを望んでいないことがわかる。
-
-また調査対象のすべての国で、政治（82％）やメディア（80％）も職場での生成AIアプリケーションの禁止を支持することに影響を与えていると指摘された。
-
-同調査は、OnePollがBlackBerryに代わり、2023年6月から7月にかけて、北米（米国、カナダ）、ヨーロッパ（英国、フランス、ドイツ、オランダ）、日本、オーストラリアのIT意思決定者2,000人を対象に実施したもの。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 14 Sep 2023 01:49:10 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Thu, 14 Sep 2023 01:57:36 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
