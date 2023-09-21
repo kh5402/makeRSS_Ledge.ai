@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Sep 2023 10:21:28 +0000</lastBuildDate><item><title>Salesforce AIで顧客体験・関係管理製品を強化 Genesysと連携</title><link>https://ledge.ai/articles/cx_clooud_for_genesys_and_salesforce</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Sep 2023 10:26:29 +0000</lastBuildDate><item><title>Salesforce AIで顧客体験・関係管理製品を強化 Genesysと連携</title><link>https://ledge.ai/articles/cx_clooud_for_genesys_and_salesforce</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2266,7 +2266,26 @@ WPの報道時点では、米国議会はまだ選挙における生成AIの使�
 :::
 :::box
 
-:::</description><pubDate>Mon, 04 Sep 2023 11:22:34 +0000</pubDate></item><item><title>商用OK Adobeの画像生成AI「Firely」正式公開 Webアプリで「生成塗りつぶし」「生成拡張」利用可能に</title><link>https://ledge.ai/articles/adobe_firefly_models_and_web_application</link><description>:::small
+:::</description><pubDate>Mon, 04 Sep 2023 11:22:34 +0000</pubDate></item><item><title>AI生成の “名画” コンペ優勝も著作権登録は却下 Midjourneyで624回推敲も「人間の著作物ではない」</title><link>https://ledge.ai/articles/copyright_rejected_for_midjourney_generated_paintings</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国著作権局は現地時間の2023年9月5日、画像生成AI「Midjourney」による画像の著作権登録を求めたジェイソン・M・アレン氏の要求を却下した。同局はアレン氏のSFをテーマとした画像「Theatre D'opera Spatial」は、人間の著作物でないため、著作権の保護の対象ではないとの{target=“_blank”}を下した。
+
+アレン氏はボードゲーム会社「Incarnate Games」の経営者。くだんの画像は、2022年8月にコロラド州で開催されたファインアート（純粋芸術）のコンペティションで優勝したことで話題となった。アレン氏が著作権を登録するために同年9月に申請すると、著作権局は画像を作成する際のMidjourneyの役割について詳細を要求した。同氏はMidjourneyには文章による指示（プロンプト）を少なくとも624回入力して生成し、その後、画像編集アプリケーション「Adobe Photoshop」で修正を加えたと報告した。
+
+同局は著作権保護を受けるためには、Midjourneyが生成した画像の部分を放棄するよう求めたがアレン氏は拒否。その後申請が却下されたとのこと。
+
+{target=“_blank”}によると、アレン氏は、この判断を予想していたが、最終的には勝利するだろうと述べたという。
+
+
+:::box
+[関連記事：AI生成の画像「著作権で保護されず」米連邦地裁判決 ただし今後は困難な問題も](
+https://ledge.ai/articles/a_recent_entrance_to_paradise)
+:::
+:::box
+
+:::</description><pubDate>Tue, 19 Sep 2023 10:26:29 +0000</pubDate></item><item><title>商用OK Adobeの画像生成AI「Firely」正式公開 Webアプリで「生成塗りつぶし」「生成拡張」利用可能に</title><link>https://ledge.ai/articles/adobe_firefly_models_and_web_application</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2542,23 +2561,4 @@ AI技術を用いた脚本制作の規制や待遇改善を求め、ハリウッ
 :::
 :::box
 
-</description><pubDate>Thu, 31 Aug 2023 01:44:55 +0000</pubDate></item><item><title>Skypeに画像AI機能 チャットで手軽にイラスト・デザインを生成</title><link>https://ledge.ai/articles/skype_dalle_e</link><description>:::small
-画像出典：Skype
-:::
-
-米国Microsoft傘下のルクセンブルクSkype Technologiesは2023年8月10日にコミュニケーションアプリケーション「Skype」のパソコン向け最新版「Skype 8.101」を{target=“_blank”}
-した。チャット中に指示をすると画像生成AIがイラストやデザインなどを描き出す「ピカソモード」が目玉だ。公式サイトからダウンロード可能となっており、自動更新や各アプリストアでの配信も順次開始されている。
-
-新たなピカソモードでは、Skypeのチャットで検索エンジン「Bing」を話相手として選び、「〇〇を描いて」と指示すると利用できる。画像生成AI「DALL-E」を搭載した「Bing Image Creator」機能が作動し、指示に沿った内容を出力するようになっている。。試しに「楽しそうにジャンプするうさぎを描いて」と日本語で依頼すると、漫画風のかわいらしいイラストを4枚生成した。
-
-またコンテキストメニューが利用できるようになり、チャットの利便性が高まった。テキストをハイライトし、右クリックすることでコンテキストメニューが開く。これを使用すると、選択されたテキスト部分のWeb検索、引用返信、他のユーザーへの転送、翻訳などの操作が可能だ。
-
-今回の新機能はWindows、Mac、Linux向けアプリの最新版と、各種のWebブラウザから利用できる「web.skype.com」に導入した。Windows版はWindows7以降に対応し、公式サイト「skype.com」から無償でダウンロード可能だ。Windows10／11の場合は「Microsoft Store」からストアアプリ版を入手できる。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 01 Sep 2023 01:46:38 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 31 Aug 2023 01:44:55 +0000</pubDate></item></channel></rss>
