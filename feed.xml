@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Sep 2023 10:26:29 +0000</lastBuildDate><item><title>Salesforce AIで顧客体験・関係管理製品を強化 Genesysと連携</title><link>https://ledge.ai/articles/cx_clooud_for_genesys_and_salesforce</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Sep 2023 04:02:47 +0000</lastBuildDate><item><title>うっかりMicrosoftのAI研究チーム 社内機密38TBを漏洩 実は3年前からか</title><link>https://ledge.ai/articles/microsoft_38tb_of_internal_data_accidentally_leaked</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Microsoftは現地時間2023年9月18日、AIやアプリケーションの開発基盤「GitHub」に掲載したオープンソースの機械学習モデルの情報を編集中、従業員同士が交わしたメッセージなどの内部情報を誤って公開していたと{target=“_blank”}した。すでに対策をとっており、顧客情報に影響はなかったと説明している。
+
+Microsoftは該当の機械学習モデルに必要な情報を提供するため、クラウドストレージ「Azure Storage」を利用し、「Shared Access Signature（SAS）」トークンと呼ぶ機能で公開範囲を設定。次にAzure StorageへのリンクとSASトークンをGitHubに投稿した。ところがこのSASトークンの設定が不適切で、同社の内部情報まで取得できるようになっていた。
+
+この件をMicrosoftに報告したのは、米国とイスラエルに拠点を持つセキュリティ企業Wiz。同社の{target=“_blank”}によると、問題となったGitHubのリポジトリ（データ格納場所）はMicrosoftのAI研究部門の管理下にあり、そこを介してAzure Storage上から漏洩（ろうえい）した情報は38TBにおよぶ。従業員2人のワークステーションのディスクバックアップを含んでおり、359人がコミュニケーションアプリケーション「Microsoft Teams」でやりとりした3万件以上のメッセージをはじめ、機密性の高い個人情報、パスワード、情報の暗号化やその解除に利用できる秘密鍵などが入っていた。
+
+加えて、SASトークンは読み取り専用ではなく「フルコントロール」権限を許可する設定になっていた。 つまりAzure Storage上の情報を誰でも閲覧できただけでなく、悪意ある第三者が一部を削除したり上書きしたりする恐れもあった。なおGitHubへのSASトークンの投稿は2020年7月から始まっていたとしている。
+
+Wizが米国時間2023年6月22日にMicrosoftに連絡し、Microsoftは7月7日にSASトークンを変更。8月15日に内部調査を完了し、9月18日の情報公開にいたったとしている。
+
+!
+:::small
+画像の出典 {target=“_blank”}より：SASトークンを介して38TBの個人データが誤って漏洩してしまった経緯を図解
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 21 Sep 2023 04:02:47 +0000</pubDate></item><item><title>Salesforce AIで顧客体験・関係管理製品を強化 Genesysと連携</title><link>https://ledge.ai/articles/cx_clooud_for_genesys_and_salesforce</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -235,24 +258,7 @@ Chat GPTの活用率を性別でみると男性は約68.4%、女性は約51.8%�
 
 :::
 
-</description><pubDate>Thu, 14 Sep 2023 04:12:14 +0000</pubDate></item><item><title>AIブームで熱くなるカリブの小国アンギラ「.aiドメイン」が急成長</title><link>https://ledge.ai/articles/anguilla_domain_name</link><description>:::small
-
-:::
-
-カリブ海西インド諸島にある英国領アンギラの国別ドメイン「.ai」が、AIブームにより人気になっていると米国{target=“_blank”}が2023年8月30日に報じた。ChatGPTの登場以降に.aiドメインに対する需要が急増しており、AI産業全体のブームを反映している。
-
-.aiドメインを取得しているのは、有名なAIスタートアップやテック企業だ。Stability.ai、X.ai、Character.ai、Google.ai、Facebook.ai、 Microsoft.aiなどがその例だ。過去1年で.aiドメインの登録数は倍増し、合計で28万7,432件になった。
-
-アンギラは観光業が主な収入源であり、人口2万人以下の小規模な国だ。ドメインの価格は固定されており、GoDaddyやNameCheapなどの登録業者はアンギラに2年間で140ドルを支払う。
-
-2021年に.aiドメインから740万ドルの収益を上げており、2023年には2,500万～3,000万ドルの収益を見込む。この収益は、アンギラのGDPにとって大きな意味を持つ。
-
-専門家は、AIブームが減速すると.aiドメインに対する興味も減少する可能性があると指摘。しかし需要の減速の兆しは見られるものの、今後も成長が続くと考えられている。
-
-:::box
-
-:::
-</description><pubDate>Thu, 14 Sep 2023 04:08:23 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Thu, 14 Sep 2023 04:12:14 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
