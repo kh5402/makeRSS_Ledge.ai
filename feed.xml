@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Sep 2023 05:26:16 +0000</lastBuildDate><item><title>ソフトバンクグループ 次の投資先は自動運転トラック「Stack AV」10億ドル以上 元Google・Uber技術者設立
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Sep 2023 10:21:28 +0000</lastBuildDate><item><title>Salesforce AIで顧客体験・関係管理製品を強化 Genesysと連携</title><link>https://ledge.ai/articles/cx_clooud_for_genesys_and_salesforce</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Genesys Cloud Servicesは2023年9月6日 、Salesforceとの戦略的な提携を{target=“_blank”}した。問い合わせの電話に対応するコンタクトセンター機能などを備えたGenesysの顧客体験（CX）基盤「Genesys Cloud CX」と、Salesforceの顧客関係管理（CRM）基盤「Salesforce Service Cloud」を統合した「CX Cloud from Genesys and Salesforce」を投入する。両社の強みとAIを活用したCX、CRMが行えると打ち出している。
+
+Genesys Cloud CXのコンタクトセンターと人員管理（WEM）の機能を、Salesforce Service Cloudの導入企業が利用可能となる。顧客が問い合わせをしてから課題が解決するまでコンタクトセンターで途切れなく対応できるようにする。
+
+CX Cloud from Genesys and Salesforceの主な機能は次の通り。
+
+**同期されたAI対応のデータ：**
+Salesforce Data Cloudの機能を利用し、リアルタイムかつ自動で問い合わせをした顧客に関するデータを集約し、対応する人員が文脈（コンテキスト）を踏まえて会話を進めたり、ボットがより効率よくやりとりを処理したりできるようになる。またサービスレベル、処理時間、全体の顧客満足度などの指標を追跡し、詳しい分析やレポートを作成できる。
+
+**単一のオーケストレーションエンジン：**
+Genesys Cloud CX の機能を利用することで、GenesysとSalesforceの両製品のデータ、ボット、チャネルを組み合わせ、AIを活かして顧客の行動過程を可視化する「カスタマージャーニー」を作成できる。プログラミングコードを記述せず機能を実装できる「ノーコード」の仕組みが利用可能。
+
+**統一されたAIベースの従業員体験：**
+Salsefoce Service CloudとGenesys Cloud CXの顧客情報、カスタマージャーニー、対応履歴を利用し、SalesforceのAI技術「Einstein AI」と、GenesysのAI技術「Genesys AI」で顧客満足度の向上が図れるようになるという。またSalsefoce Service Cloud の従業員アクティビティダッシュボードに埋め込んだGenesysのWEM機能を利用できる。
+
+:::box
+
+:::</description><pubDate>Tue, 19 Sep 2023 10:21:28 +0000</pubDate></item><item><title>AI自主規制 AdobeやSalseforceも参加 IT大手8社 米政府の呼びかけに応じる</title><link>https://ledge.ai/articles/eight_companies_manage_the_risk_ai</link><description>:::small
+画像出典：写真AC
+:::
+
+米国政府は現地時間の2023年9月12日、Adobe、IBM、NVIDIAを含む8社が、ジョー・バイデン大統領が推進するAIのリスク管理に自主的に参加することを{target=“_blank”}した。バイデン大統領は「AIの利点活用、リスク管理、迅速な行動」に焦点を当て、民間セクターと連携すると述べている。
+
+参加するのは上記3社の他、米国Palantir Technologies、英国Stability AI、米国Salesforce、米国ScaleAI、カナダCohereの5社。
+
+2023年7月には米国OpenAI、Alphabet、Meta Platforms、Amazon.com、Microsoftなどが、AIが生成したコンテンツに「透かし」を入れるなどの、AI技術を安全にするための措置を自発的に実施することを約束している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 19 Sep 2023 05:34:49 +0000</pubDate></item><item><title>ソフトバンクグループ 次の投資先は自動運転トラック「Stack AV」10億ドル以上 元Google・Uber技術者設立
 </title><link>https://ledge.ai/articles/stack_av_softbank_group</link><description>:::small
 画像出典：Stack AV
 :::
@@ -213,64 +252,7 @@ Chat GPTの活用率を性別でみると男性は約68.4%、女性は約51.8%�
 :::box
 
 :::
-</description><pubDate>Thu, 14 Sep 2023 04:08:23 +0000</pubDate></item><item><title>「夏休みの宿題に生成AI使った」3人に1人 人気はChatGPT 次点はBard</title><link>https://ledge.ai/articles/nyle_reserch_generativeai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-学生・生徒の3人に1人が夏休みの宿題に生成AIを使用し、そのうち4分の3が「ChatGPT」を活かしている。こんな{target=“_blank”}をマーケティング支援のナイルが2023年9月5日に発表した。
-
-
-調査によると、夏休みの宿題に 34.1%の学生・生徒が生成AIを活用したと回答。そのうち134人（73.6％）が、ChatGPTを使ったと答えた。
-
-!
-
-生成AIを活用して取り組んだ宿題には「論文・レポート」「数学の問題」「読書感想文」などが挙げられた。なお生成AIを宿題に使用した学生・生徒のうち85.7%が「宿題が捗（はかど）った」と回答。
-
-生成AIの使い方を学んだ方法について尋ねると、最も回答が多かったのは「インターネットの記事やブログ（65人）」、次いで「学校で質問した（52人）」、「YouTubeや動画サイトでの解説（49人）」という結果となった。
-
-!
-
-また、生成AIを活用しても「宿題が捗（はかど）らなかった」と回答した学生にその理由を尋ねると、「生成AIの回答が不正解だった（13人）」「自分の学習理解が浅くなったと感じた（8人）」「情報の信頼性に疑問を感じた（6人）」などの回答を得た。
-
-!
-
-この調査はナイルが運営するスマートフォン向けアプリケーション紹介メディア「Appliv」が実施した。調査概要は次の通り。
-
-調査対象：全国の10～20代の男女533人
-調査機関：ジャストシステム
-調査方法：インターネット調査
-調査期間：2023年8月24日～2023年8月30日
-有効回答数：533人（男性：256人・女性：277人）
-15歳～19歳 388人
-20歳～29歳 145人
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 14 Sep 2023 08:54:09 +0000</pubDate></item><item><title>Kindle出版「生成AI使ったら申告」義務付け ガイドライン改訂 全米作家協会「新しい一歩」と評価</title><link>https://ledge.ai/articles/amazon_kdp_guideline</link><description>:::small
-photo by {target=“_blank”}
-:::
-
-米国Amazon.comは2023年9月7日、電子書籍Kindle用の出版サービス「Kindle Direct Publishing（KDP）」のコンテンツガイドラインを{target=“_blank”}し、生成AIコンテンツの取り扱いについての項目を追加した。Kindleで新しい本を出版、または既存の本を編集し再出版をする際、コンテンツ（テキスト、画像、翻訳）をAIで生成した場合はAmazonへの開示義務が発生する。
-
-AIベースのツールを使用するケースとして下記の2パターンを想定し、それぞれ開示の義務の有無を線引きしている。
-
-「AI生成」AI ベースのツールを使用して実際のコンテンツ (テキスト、画像、または翻訳) を作成する場合→開示義務あり
-
-「AIアシスト」コンテンツは自身で作成し、編集、改良、エラーチェックなどにAIベースのツールを使用する場合→開示不要
-
-AIで生成または補助されたすべてのコンテンツが、コンテンツガイドラインに準拠しているかを確認する責任は、出版者にあるとした。
-
-7月にThe Authors Guild（全米作家協会）がAI開発企業に対し、作家の作品を無断でAIの訓練に使わないよう求める書簡を公開したことを受けての動きと見られている。同協会はAmazonが更新した開示ポリシーを「{target=“_blank”}」と評価した。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 14 Sep 2023 01:57:36 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Thu, 14 Sep 2023 04:08:23 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
