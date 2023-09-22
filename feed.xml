@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Sep 2023 04:17:40 +0000</lastBuildDate><item><title>AIチャットボットは “稼げるサービス” か ChatGPT競合「Claude.ai」に有料版 月20ドルで利用量5倍 </title><link>https://ledge.ai/articles/anthoropic_claude_pro</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Sep 2023 04:17:40 +0000</lastBuildDate><item><title>阪急電鉄の各駅にAI翻訳機「ポケトークS」配備 インバウンド対応強化へ</title><link>https://ledge.ai/articles/hankyu_poketalks</link><description>:::small
+画像出典：写真AC
+:::
+
+
+ポケトークは2023年9月15日、AI通訳機「ポケトークS」を阪急電鉄の運営する全87駅（天神橋筋六丁目駅を除く）に導入したと{target=“_blank”}した。全駅の改札口、定期券発売所、お忘れ物センターなどで利用できる。
+
+阪急電鉄は大阪梅田を中心に、神戸・宝塚・京都を結ぶ鉄道会社だ。通勤・通学の利用者に加え、沿線には観光スポットも多数あり、年間輸送人員は5億人以上。インバウンド旅客の増加を受け、各駅で「言葉の壁」をなくすサービスの導入となった。
+
+ポケトークは互いの言葉を話せない人同士が、自国語のままで対話できるAI通訳機だ。74言語を音声・テキストに翻訳し、11言語をテキストのみに翻訳できる。今回の導入で、対面の多言語コミュニケーションを円滑にし、海外客の日本滞在を充実させることを目指す。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 21 Sep 2023 02:47:59 +0000</pubDate></item><item><title>AIチャットボットは “稼げるサービス” か ChatGPT競合「Claude.ai」に有料版 月20ドルで利用量5倍 </title><link>https://ledge.ai/articles/anthoropic_claude_pro</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -215,31 +233,7 @@ IRSはパートナーシップを主な対象として監査にAIを活用する
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Sep 2023 09:05:13 +0000</pubDate></item><item><title>Microsoft 顧客がAI使用で訴えられたら補償 「Copilot」の著作権懸念に対処
-</title><link>https://ledge.ai/articles/microsoft_copilot_copyright_commitment</link><description>:::small
-画像出典：Microsoft
-:::
-
-米国Microsoftは2023年9月7日、生成AIを利用した業務支援サービス「Microsoft Copilot」について、知的財産権侵害の申立てなどから顧客企業を保護する「Microsoft Copilot Copyright Commitment」を{target=“_blank”}した。10月1日より適用する。
-
-法人向けCopilotとBing Chat Enterpriseの有料版が対象だ。Word、Excel、PowerPointといったオフィスアプリケーションの操作をAIが支援する「Microsoft 365 Copilot」や、開発者のプログラミングコード作成をAIが支援する「GitHub Copilot」を含む。
-
-!
-:::small
-画像出典：Microsoft
-:::
-
-既存の「{target=“_blank”}」に基づき、知的財産権に関する補償を法人向けにも拡大するもの。第三者が著作権侵害で訴えた場合、同社が顧客を弁護し費用も負担する。
-
-なおCopilotには著作権侵害を防ぐためコンテンツフィルタリング、運用監視などを行う「ガードレール」機能を組み込んでいる。顧客企業がこれらの機能を利用することが「Copilot Copyright Commitment」の前提となる。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 15 Sep 2023 08:04:03 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Fri, 15 Sep 2023 09:05:13 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
