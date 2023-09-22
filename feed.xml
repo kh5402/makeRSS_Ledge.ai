@@ -1780,7 +1780,22 @@ welzo社内では経営陣による本格的なDX推進も始まったが、現�
 :::button
 {target=“_blank”}
 :::
- </description><pubDate>Wed, 21 Jun 2023 05:04:46 +0000</pubDate></item><item><title>西表島で「Starlink」とAI使い外来種調査 KDDIとスタートアップがタッグ</title><link>https://ledge.ai/articles/biome_reserch_iriomote</link><description>:::small
+ </description><pubDate>Wed, 21 Jun 2023 05:04:46 +0000</pubDate></item><item><title>豪雨もたらす「線状降水帯」画像AIで観測精度改善 気象庁と理研</title><link>https://ledge.ai/articles/jma_riken_senjoukousuitai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+気象庁は、理化学研究所 革新知能統合研究センターの共同研究で、AI技術を用いた降水量予測の精度改善や全国の気温実況値を推定する技術の開発などにおいて一定の成果を得たと2023年6月30日に{target=“_blank”}した。研究期間は2019年1月23日から2023年3月31日の約3年間。 気象庁と理化学研究所がそれぞれ、気象現象とAI技術に関する知見を相互に持ち寄り研究開発を進めた。
+
+研究成果のひとつに、AIを使った新たな観測データの処理方法が挙げられる。高精度センサーで得た大気中の水蒸気観測データから、AIを使ってデータのノイズを取り除くというものだ。 気象庁では、この技術を、大雨を降らせる「線状降水帯」のメカニズム解明研究で用い、今後気象レーダーや衛星の観測データなどに対しての応用可能性を検討するという。
+
+気象庁は、次々と発生する発達した雨雲が列をなし組織化した積乱雲群を「線状降水帯」と呼び、予測が難しいとされる「顕著な大雨に関する気象情報」を伝える{target=“_blank”}している。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 21 Sep 2023 03:56:24 +0000</pubDate></item><item><title>西表島で「Starlink」とAI使い外来種調査 KDDIとスタートアップがタッグ</title><link>https://ledge.ai/articles/biome_reserch_iriomote</link><description>:::small
 画像出典：KDDI
 :::
 
@@ -2021,16 +2036,25 @@ EWADはガウス過程（GP）ベースの空間共分散（SCV）を使用し�
 
 :::box
 
-:::</description><pubDate>Sat, 02 Sep 2023 00:38:39 +0000</pubDate></item><item><title>心臓病の患者が激増する「心不全パンデミック」 AIで対策へ 国立循環器病研究センターなど</title><link>https://ledge.ai/articles/cubec_heart_failure_as_a_general_pandemic</link><description>:::small
-photo by {target=“_blank”}(photoAC)
+:::</description><pubDate>Sat, 02 Sep 2023 00:38:39 +0000</pubDate></item><item><title>米中IT大手6社 デジタル世界の「門番」に EUが指定 厳格な規制課す</title><link>https://ledge.ai/articles/european_commission_gatekeeper</link><description>:::small
+{target=“_blank”} 
 :::
-Cubec（キューベック）は2023年8月9日、心不全治療に特化したサービスとして「AIを活用した心不全診療支援プログラム医療機器」を開発中だと{target=“_blank”}した。国立循環器病研究センターを中心に琉球大学、帝京大学、名古屋大学医学部附属病院、九州大学病院と同社の共同研究として進めている。開発を加速する目的で、投資会社のゼロイチキャピタルから4,000万円の資金も調達した。
 
-開発中のサービスは、社会の高齢化などに伴う心不全患者数の急速な増加という「{target=“_blank”}」対策に役立つよう、全国のかかりつけ医を支援するのが目的だ。
 
-心不全は徐々に進行する場合があり、長期にわたる治療が必要で、普段から患者に接するかかりつけ医の役割が重要。しかし、かかりつけ医は心不全を専門としているとは限らない。
+欧州連合（EU）の執行機関である欧州委員会（European Commission）が2023年9月6日、デジタル市場法（DMA）に基づき6社の「ゲートキーパー（門番）」を指定したと{target=“_blank”}した。米国Googleを傘下に置くAlphabetをはじめAmazon.com、Apple、Meta Platforms、Microsoft、中国ByteDanceがその内訳だ。
 
-そこで同サービスでは電子カルテの情報を入力することで、AIが患者ひとりひとりに合わせたリスク判定や治療案を提示し、関連するエビデンス（根拠）も検索、要約して表示する。複数の機器やアプリケーションを使い分ける必要がなく、治療調整や循環器専門医への紹介判断を効率的に行えるとしている。今後「厚生労働省プログラム医療機器」としての承認取得を目指しているとのこと。同社は2027年のサービス実現を目指す。
+ゲートキーパーは、DMA法に基づく厳格な規制を受ける。EU地域で一定の売り上げを記録し、EUがリストアップする10種の主要なプラットフォームサービス（例：検索やSNS）において大きな権限を持つ企業が対象。
+
+今回の指定は、候補となった7社に通知した後、45日間の審査を経て決まった。なお7社のうち韓国サムスン電子のみは開発しているWebブラウザ「Samsung Internet Browser」が主要なプラットフォームサービスとは言えないとして指定対象から外れた。
+
+ゲートキーパーが提供する22の主要なプラットフォームサービスは以下のとおり。
+!
+
+:::small
+画像出典：EU
+:::
+
+各サービスについて、6社にはDMAの義務を遵守するための6か月の猶予が与えられる。なおEUはAIを活かしたチャットボットなどを直接取り上げてはいないが、実際には検索エンジンやOSなどで統合が進んでいるため、規制のゆくえには関心が持たれるところだ。
 
 :::box
 
@@ -2038,7 +2062,7 @@ Cubec（キューベック）は2023年8月9日、心不全治療に特化した
 :::box
 
 :::
-</description><pubDate>Tue, 29 Aug 2023 08:12:07 +0000</pubDate></item><item><title>高性能AIの暴走防ぐ「ガードレール」国際ルール作り急ぐ G7デジタル・技術閣僚声明</title><link>https://ledge.ai/articles/g7hiroshima_ai_process_digital-tech_ministers_statement</link><description>:::small
+</description><pubDate>Thu, 21 Sep 2023 02:33:28 +0000</pubDate></item><item><title>高性能AIの暴走防ぐ「ガードレール」国際ルール作り急ぐ G7デジタル・技術閣僚声明</title><link>https://ledge.ai/articles/g7hiroshima_ai_process_digital-tech_ministers_statement</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2252,26 +2276,7 @@ WPの報道時点では、米国議会はまだ選挙における生成AIの使�
 :::
 :::box
 
-:::</description><pubDate>Mon, 04 Sep 2023 11:11:16 +0000</pubDate></item><item><title>「AI予算を」総務省・経産省・デジタル庁そろって概算請求に記載</title><link>https://ledge.ai/articles/estimated_budget_for_ai_in_fy2024</link><description>:::small
-画像の出典：{target=“_blank”}（photoAC）
-:::
-総務省、経済産業省、デジタル庁の2024年度概算要求が2023年8月末出そろった。AI分野で注目を浴びた部分はそれぞれ次の通り。
-
-{target=“_blank”}
-先端技術開発促進のため約589億7,000万円と金額を示さない「事項要求」を記載した。日本語に強い国産生成AI、量子通暗号通信網、6Gなどの次世代通信規格などを挙げている。
-
-{target=“_blank”}
-「デジタル社会の実現・生成AIへの対応」として約1,591億円を記載。目玉はグリーントランスフォーメーション（GX）実現に向けた半導体の製造供給網強靱（きょうじん）化支援などだが省エネAI半導体及びシステムに関する技術開発にも50億円を挙げる。また先端技術の研究開発を支援する成果重視型の補助金制度で、目標を達成した場合のみ給付する「懸賞金型」を2024年度に本格導入する方針で、予算を10億円程度とした。試験導入した2023年度の2倍以上に増額する。
-
-{target=“_blank”}
-「AI活用に係る経費」として行政機関や行政サービスにおけるAIの利用環境について検討を進めるとした。金額を示さない「事項要求」として新規に取り上げている。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 04 Sep 2023 11:22:34 +0000</pubDate></item><item><title>AI生成の “名画” コンペ優勝も著作権登録は却下 Midjourneyで624回推敲も「人間の著作物ではない」</title><link>https://ledge.ai/articles/copyright_rejected_for_midjourney_generated_paintings</link><description>:::small
+:::</description><pubDate>Mon, 04 Sep 2023 11:11:16 +0000</pubDate></item><item><title>AI生成の “名画” コンペ優勝も著作権登録は却下 Midjourneyで624回推敲も「人間の著作物ではない」</title><link>https://ledge.ai/articles/copyright_rejected_for_midjourney_generated_paintings</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
