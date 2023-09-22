@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Sep 2023 04:02:47 +0000</lastBuildDate><item><title>Amazon 商品説明をAIで生成可能に 出品者の手間省く</title><link>https://ledge.ai/articles/amazon_sellers_generativeai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Sep 2023 04:02:47 +0000</lastBuildDate><item><title>三井化学 GPTとWatson 2種のAIを駆使 製品の「新規用途」発見数倍増</title><link>https://ledge.ai/articles/ibm_watson_gpt_</link><description>:::small
+画像出典：写真AC
+:::
+
+自動車材料から殺虫剤までさまざまな化学製品を手がける三井化学は、「GPT」と「IBM Watson」という2種類のAIを活用し、製品の「新規用途」発見数を2倍に増やした。使い道が広がれば、売り上げや市場シェアの拡大につなげられると見込む。日本IBMが2023年9月13日に事例として{target=“_blank”}した。
+
+
+
+
+
+ニュース、SNS、特許などのビッグデータ（大量に蓄積した情報）をAIで分析し、三井化学製品の機能特性に関連するキーワードから新たな用途を発見する取り組みだ。
+
+IBM Watsonは三井化学固有の辞書を構築したうえでビッグデータを分析するAI基盤として導入。さらに米国MicrosoftのAI基盤「Azure Open AI」を通じてGPTの生成、応答、抽出、要約、高速検索といった機能や、対話型の操作画面を活かし、IBM Watsonの分析能力向上を図った。
+
+:::box
+
+:::
+
+:::box
+
+:::
+</description><pubDate>Tue, 19 Sep 2023 09:33:53 +0000</pubDate></item><item><title>Amazon 商品説明をAIで生成可能に 出品者の手間省く</title><link>https://ledge.ai/articles/amazon_sellers_generativeai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -224,40 +245,7 @@ Coca‑Cola Y3000 Zero Sugarは米国、カナダ、中国、欧州、アフリ�
 :::box
 
 :::
-</description><pubDate>Fri, 15 Sep 2023 02:37:48 +0000</pubDate></item><item><title>大学生 ChatGPT「一度も使ったことがない」4割 文系ほど敬遠か </title><link>https://ledge.ai/articles/the_honesty_of_generation_z</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-現役大学生・大学院生の4割はまだ一度も対話型AI（チャットボット）「ChatGPT」を使った経験がない。こんな調査結果を、人材サービスのRECCOO（リクー）が2023年9月4日に{target=“_blank”}した。
-
-「使ったことはあるが日常的には使っていない」が44％で最も多く、「一度も使ったことがない」が42％でこれに続く。「日常的に使っている」は11%。「レポートの時だけ使っている」が3%だった。
-
-Chat GPTの活用率を性別でみると男性は約68.4%、女性は約51.8%と差が出た。文系学部の活用率は約53.6%、理系学部は約57.8%と若干、理系の方が多かった。なお有料版「ChatGPT Plus」の活用率は全体のわずか2%だった。
-
-!
-
-また、ChatGPTを活用する具体的な利用場面について自由回答を解析すると以下の図のような結果となった。調べ物やレポート作成、アイデア、行き詰まった時などの利用が目立つ。
-
-!
-
-この調査はRECCOOが運営する大学のサークル向けコミュニケーションアプリケーション「サークルアップ」で実施した。調査概要は以下の通り。
-
-【調査概要】
-・調査日：2023年9月3日
-・調査機関（調査主体）：RECCOO
-・調査対象：サークルアップに登録する大学1年〜大学院2年
-・有効回答数（サンプル数）：200人
-・調査方法：サークルアップ for client のアンケートオファー
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 14 Sep 2023 11:43:07 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Fri, 15 Sep 2023 02:37:48 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
