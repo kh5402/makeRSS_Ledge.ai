@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Sep 2023 04:02:47 +0000</lastBuildDate><item><title>三井化学 GPTとWatson 2種のAIを駆使 製品の「新規用途」発見数倍増</title><link>https://ledge.ai/articles/ibm_watson_gpt_</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Sep 2023 04:17:40 +0000</lastBuildDate><item><title>AIチャットボットは “稼げるサービス” か ChatGPT競合「Claude.ai」に有料版 月20ドルで利用量5倍 </title><link>https://ledge.ai/articles/anthoropic_claude_pro</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Anthropicは2023年9月7日、AIチャットボット「Claude.ai」の有料版「Claude Pro」の開始を{target=“_blank”}した。
+
+Claude Proは現在、米国（月額20ドル）英国（月額18ポンド）でのみ利用可能。加入者は最新の大規模言語モデル（LLM）「Claude 2」を無料版の5倍使用でき、様々なタスクの生産性向上を図れるという。Claude 2は7月より提供開始され、従来のLLM「Claude」より長いコンテキストウィンドウへの対応が特徴となっている。
+
+Claude Proの特典としてはほかに混雑時のClaude.aiへの優先アクセス、新機能への早期アクセスなどが提供される。
+
+Claude.aiの競合であるOpenAIの「ChatGPT」もすでに2月に月額20ドルの有料版「ChatGPT Plus」を導入している。もっぱら個人が対象と見られるこうしたサブスクリプション（定額課金）サービスが、AI開発企業にとって主要な収益源となりうるかは議論があるが、今回のAnthropicの動きは一定の期待を示すものといえる。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 21 Sep 2023 04:17:40 +0000</pubDate></item><item><title>三井化学 GPTとWatson 2種のAIを駆使 製品の「新規用途」発見数倍増</title><link>https://ledge.ai/articles/ibm_watson_gpt_</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -222,30 +239,7 @@ IRSはパートナーシップを主な対象として監査にAIを活用する
 :::box
 
 :::
-</description><pubDate>Fri, 15 Sep 2023 08:04:03 +0000</pubDate></item><item><title>AIと開発した “西暦3000年” のコカ・コーラ「Y3000 」未来の味を探求</title><link>https://ledge.ai/articles/coca_cola_y3000</link><description>:::small
-画像出典：Coca-Cola
-:::
-
-米国Coca-Cola（コカ・コーラ）が限定版の新製品「Coca‑Cola Y3000」「Coca‑Cola Y3000 Zero Sugar」を2023年9月12日に{target=“_blank”}した。西暦3000年の未来を想像しつつ、人間とAIが共同開発したフレーバー。
-
-世界中のファンが感情、希望、色、味などを通じて未来をどのように思い描くかを収集し、人間とAIが分析して開発した。コカ・コーラが西暦3000年になっても現在と同じく時代に合った、さわやかなものであり続けるよう願っており、そのため未来のコーラがどのような味になるのか探求したという。
-
-
-パッケージデザインも未来志向だ。AIと共同で作成し、色彩や形状が未来の肯定的なビジョンを強調している。
-
-Coca‑Cola Y3000 Zero Sugarは米国、カナダ、中国、欧州、アフリカの一部市場で期間限定販売する。米国とカナダではオリジナルのCoca‑Cola Y3000も用意する。
-
-
-消費者はパッケージに記載されたQRコードをスキャンして{target=“_blank”}にアクセスすると、写真をカスタムする「Y3000 AI Cam」を使用できる。また未来をテーマにしたファッションブランド「AMBUSH」とのコラボレーションも予定されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 15 Sep 2023 02:37:48 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Fri, 15 Sep 2023 08:04:03 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
