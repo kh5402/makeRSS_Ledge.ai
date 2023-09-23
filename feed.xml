@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Sep 2023 04:17:40 +0000</lastBuildDate><item><title>阪急電鉄の各駅にAI翻訳機「ポケトークS」配備 インバウンド対応強化へ</title><link>https://ledge.ai/articles/hankyu_poketalks</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Sep 2023 06:41:46 +0000</lastBuildDate><item><title>口頭指示だけでスーパーや倉庫の作業こなす「Jacobi.ai」中国スタートアップにIT大手が出資
+</title><link>https://ledge.ai/articles/jacobi_ai_j_mind</link><description>:::small
+画像出典：Jacobi.ai
+:::
+
+
+中国のAIスタートアップ「雅可比機器人（Jacobi.ai）」がシードラウンドで資金調達を実施した。2023年9月12日に{target=“_blank”}が報じた。資金調達は設立からわずか4か月で行われ、中国IT大手バイドゥの元最高執行責任者（COO）やYコンビネーター中国の最高経営責任者（CEO）陸奇氏も出資している。
+
+同社は人の脳の学習方法を模倣するAI技術に特化している。「エンボディドAI（身体性を持つAI）」ソリューションを開発済みで、スーパーマーケットでの商品の仕分けや品出しなどのタスクが口頭指示で可能だ。
+
+「J-Mind」という技術で、大規模言語モデル（LLM）とマシンビジョンを組み合わせ、ロボットが自律的にタスクを実行する。製品デモによれば、従業員の口頭指示により「J-Mind」がタスクを推理・細分化し、ロボットがそれを実行。効率的に陳列状態を確認し、商品補充と整理を自動で行う。
+
+同社のコアメンバーの多くは米国カーネギーメロン大学ロボット工学研究所出身で、AIやロボット開発の豊富な実践経験がある。創業者でCEOの邱迪聡氏は、米航空宇宙局（NASA）の火星探査車開発やレベル4自動運転技術の開発に携わった経験があり、共同創業者の梁俊衛氏も米国Googleと中国テンセントで働いた経歴がある。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 22 Sep 2023 06:41:46 +0000</pubDate></item><item><title>阪急電鉄の各駅にAI翻訳機「ポケトークS」配備 インバウンド対応強化へ</title><link>https://ledge.ai/articles/hankyu_poketalks</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -218,22 +238,7 @@ Clouderaの顧客企業はアプリケーションを再設計（リファクタ
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Sep 2023 09:09:25 +0000</pubDate></item><item><title>米税務当局 AIで富裕層の税金逃れ分析 一般納税者の負担軽減へ</title><link>https://ledge.ai/articles/irs_focus_will_shift_attention_to_wealthy</link><description>:::small
-photo by {target=“_blank”}
-:::
-
-米国の国税庁にあたる内国歳入庁（IRS）は2023年9月8日、AIをはじめとする新技術を駆使して、富裕層の租税回避の手口を特定すると{target=“_blank”}した。一般の納税者の負担を減らすのが目的とする。国の税法を悪用する富裕層や大企業（コーポレーション）、そして「パートナーシップ」「プロモーター」への監視を強化するという。
-
-ここで言うプロモーターは富裕層や企業などに対して税務に関する手助けをする専門家。パートナーシップは2人以上で事業を営む団体でコーポレーションと異なる形態をとり、富裕層がしばしば租税回避の手段として利用するとして問題になっていた。
-
-IRSはパートナーシップを主な対象として監査にAIを活用する。9月末までにヘッジファンド、不動産投資パートナーシップ、上場パートナーシップ（PTP）、大手法律事務所、およびその他の産業を含む米国内で最も大きなパートナーシップ75団体の調査を開始する予定だ。これらの団体の資産総額は平均100億ドル以上という。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 15 Sep 2023 09:05:13 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Fri, 15 Sep 2023 09:09:25 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
