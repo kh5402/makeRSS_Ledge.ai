@@ -2256,7 +2256,24 @@ WPの報道時点では、米国議会はまだ選挙における生成AIの使�
 :::
 :::box
 
-:::</description><pubDate>Mon, 04 Sep 2023 11:11:16 +0000</pubDate></item><item><title>AI生成の “名画” コンペ優勝も著作権登録は却下 Midjourneyで624回推敲も「人間の著作物ではない」</title><link>https://ledge.ai/articles/copyright_rejected_for_midjourney_generated_paintings</link><description>:::small
+:::</description><pubDate>Mon, 04 Sep 2023 11:11:16 +0000</pubDate></item><item><title>AI生成の “抽象画” など3万枚を無料公開 デイシン 写実避け得意分野伸ばす</title><link>https://ledge.ai/articles/ai_art_dasyn</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+3Dプリントのデイシンは2023年9月11日、画像生成AIを利用して作った抽象画風の画像など3万枚以上を{target=“_blank”}した。高解像度の画像については編集著作権を主張しているが、原画はクリエイティブ・コモンズ・ライセンスに基づき無料で利用できるようにしている。
+
+デイシンによると、画像生成AIの利用者の多くは写実的な画像を制作するが、実際は人体など実世界のものの構造に関する知識を持たないため、そうした分野には適していない。同社は画像生成AIの得意分野として抽象的な画像を重視した。利用するAIは2022年に普及した「Stable Diffusion 2.1」を中心に旧版の1.5、新版XSDLなど。
+
+文章による指示「プロンプト」を短かくしたことが画像を特徴づけている。AIには細かい指示を与えるのが一般的だがあえて1～3語程度の短い言葉や造語を入力し、自由に画像をつくらせるという。工夫したプロンプトの内容などは画像とともに{target=“_blank”}で確認できる。
+
+なお同社はすでに2022年12月から画像生成AIに作らせたAIアートのポスター500枚をショッピングサイトの「楽天市場」で販売しているが、今回公開した3万枚の画像からさらに約2,000枚を選別してAIアートポスターとして取り扱う。一部はポストカードとしても提供する。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 21 Sep 2023 05:43:16 +0000</pubDate></item><item><title>AI生成の “名画” コンペ優勝も著作権登録は却下 Midjourneyで624回推敲も「人間の著作物ではない」</title><link>https://ledge.ai/articles/copyright_rejected_for_midjourney_generated_paintings</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2537,18 +2554,4 @@ Emposyが運営する「AIタレントエージェンシー」は2023年8月24�
 :::
 
 
-</description><pubDate>Fri, 01 Sep 2023 06:06:26 +0000</pubDate></item><item><title>「AIが生成した脚本は著作と見なさない」ハリウッドのスト 制作側が提案 脚本家側は不服</title><link>https://ledge.ai/articles/amptp_proposal_to_writers_strike_hollywood_2023</link><description>:::small
-画像出典：{target=“_blank”}
-:::
-AI技術を用いた脚本制作の規制や待遇改善を求め、ハリウッドの脚本家が中心となって2023年5月に始まったストライキは、7月には俳優たちにも広がりを見せ、度重なる交渉が続いている。米国映画テレビ製作者協会（AMPTP）は2023年8月22日、脚本家組合（WGA）に提案した内容を{target=“_blank”}した。この提案は、脚本家が業界で果たす基本的な役割を認識し、ストライキ終結に向けた両社のコミットメントを強調するものだという。
-
-提案の中でAMPTPは、生成AIによって制作された脚本は、文学的素材とはみなさない。 脚本の一部が生成AIによって制作された素材に基づいている場合でも、脚本家が不利益を被ることはない、と公表している。
-
-この発表を受け、WGAは「AI保護に関して実際に話し合いを行い、彼らの動きを見てきたが、我々はまだ必要なところに到達していない。一例としてAIに映画用の新たなコンテンツを書かせる訓練のため我々の成果を使用することについて、規制を拒否し続けている」と{target=“_blank”}いる。
-
-:::box
-
-:::
-:::box
-
-</description><pubDate>Thu, 31 Aug 2023 01:44:55 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 01 Sep 2023 06:06:26 +0000</pubDate></item></channel></rss>
