@@ -1673,7 +1673,26 @@ CDAO （Chief Data Analytics Officer）　西田幸平 氏
 {target=“_blank”}
 
 （Sponsored by 株式会社バンダイナムコネクサス）
- </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>豪雨もたらす「線状降水帯」画像AIで観測精度改善 気象庁と理研</title><link>https://ledge.ai/articles/jma_riken_senjoukousuitai</link><description>:::small
+ </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>テキスト指示だけでAIがAIを作成する「Prompt2Model」米大学などが開発</title><link>https://ledge.ai/articles/prompt2model</link><description>:::small
+画像出典：Prompt2Model: Generating Deployable Models from Natural Language Instructions
+:::
+
+米国カーネギーメロン大学や中国の清華大学の研究者らは、2023年8月23日に論文{target=“_blank”}を発表した。短い文章による指示「プロンプト」から、自然言語処理（NLP）モデルを自動で作り出すフレームワークを提案している。簡単な操作でAIがAIを作り出せる。
+
+従来のNLPモデルの構築は煩雑で、多くの手続きを必要としていた。また米国OpenAIの開発した「GPT-3」などの大規模言語モデル（LLM）の登場で、短時間での試作モデル作成が可能になったが膨大な計算リソースや、商用アプリケーション・プログラミング・インターフェイス（API）へのアクセスが必要。入力プロンプトの品質に依存し、不安定でプライバシーの懸念もある。
+
+Prompt2Modelフレームワークは、これらの課題解決を図るもの。プロンプトを入力すると関連するデータを収集。LLMを用いて疑似ラベル付きの新しいデータセットを生成する。そして事前に訓練された適切なモデルをプロンプトに基づいて選び、そのモデルをファインチューニング（微調整）・評価する。
+
+Prompt2Modelの利点は、従来手間のかかっていた作業を自動化できることだ。短時間かつ少ない労力で、特定用途に適したNLPモデルを作成できる。フレームワークは拡張性が高く、新しい研究アプローチにも利用できる。なおPrompt2Model は{target=“_blank”}できる。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 21 Sep 2023 04:33:55 +0000</pubDate></item><item><title>豪雨もたらす「線状降水帯」画像AIで観測精度改善 気象庁と理研</title><link>https://ledge.ai/articles/jma_riken_senjoukousuitai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1915,21 +1934,7 @@ OpenAIの開発する対話型AI（チャットボット）「ChatGPT」をは�
 
 :::box
 
-:::</description><pubDate>Sat, 02 Sep 2023 05:21:21 +0000</pubDate></item><item><title>AIが新型ウイルスのパンデミック予測 コロナのデータ活用 早期警告を可能に</title><link>https://ledge.ai/articles/scripps_releases_pandemic_forecasting_ai</link><description>今後の新たなウイルス感染症の世界的大流行（パンデミック）を早期に警告できるAI「{target=“_blank”}」が登場した。SARS-CoV-2、いわゆる新型コロナウイルスのデータを活用した取り組み。米国の非営利研究機関であるScripps Research（スクリプス研究所）の研究者らが開発し、オープンアクセスジャーナル「00155-1){target=“_blank”}」で2023年7月21日に発表した。
-
-EWADはガウス過程（GP）ベースの空間共分散（SCV）を使用した機械学習（ML）の手法を採用。既知のパンデミックの過程に関する3種類のデータセットとして公開済みの「世界の感染者から見つかったSARS-CoV-2変異株の遺伝子配列」「変異株の頻度」「世界の新型コロナウイルス感染症（COVID-19）死亡率」を関連づけた。
-
-結果としてEWADは、SARS-CoV-2の変異株が通常、感染率が増加するにつれ死亡率が低下するという傾向を確認できた。行動制限（ロックダウン）、マスク着用、ワクチン摂取、自然免疫の増加、さらには変異株同士の容赦ない競争に対する適応を示すものという。
-
-過去の変異株の傾向を正しく確認できたEWADは、今後のウイルスの感染率と死亡率の重大な変化につながる遺伝子変異を早期に発見し、警告する警告する役にも立つことが分かった。実験では世界保健機関（WHO）による正式な指定に先立ち、SARS-CoV-2の新たな懸念される変異種（VOC）の出現を予測できた可能性を示せた。原理的には将来のパンデミックをリアルタイムで追跡し、適切な公衆衛生対策を講じられるはずだという。
-
-「今回の研究の大きな教訓のひとつは、一部の目立つ変異株だけでなく、我々が『変異株暗黒物質（ダークマター）』と呼ぶ数万の未指定の変異株への目配りも重要だということだ」とScripps Researchは研究者は述べている。
-
-治療法やワクチンの開発を強化できる可能性もある。EWADを応用すれば、これまでのパンデミックでSARS-CoV-2の各変異株のタンパク質がどのように連携したか詳細に把握できるためだ。
-
-:::box
-
-:::</description><pubDate>Sat, 02 Sep 2023 00:38:39 +0000</pubDate></item><item><title>米中IT大手6社 デジタル世界の「門番」に EUが指定 厳格な規制課す</title><link>https://ledge.ai/articles/european_commission_gatekeeper</link><description>:::small
+:::</description><pubDate>Sat, 02 Sep 2023 05:21:21 +0000</pubDate></item><item><title>米中IT大手6社 デジタル世界の「門番」に EUが指定 厳格な規制課す</title><link>https://ledge.ai/articles/european_commission_gatekeeper</link><description>:::small
 {target=“_blank”} 
 :::
 
