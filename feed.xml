@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Sep 2023 06:49:13 +0000</lastBuildDate><item><title>VTuberも自動化か AIキャスターが24時間ニュースをかわいく読み上げる「ライブドアニュース24」</title><link>https://ledge.ai/articles/ai_caster_livedoornews24</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Sep 2023 06:53:26 +0000</lastBuildDate><item><title>Windows11に生成AIを統合「Microsoft Copilot」9月から導入開始</title><link>https://ledge.ai/articles/microsoft_your_everyday_ai_copilot</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Microsoftは現地時刻2023年9月21日、ニューヨークで開かれた秋の新製品イベントで、9月26日リリース予定のWindows11アップデートに伴う新たなAI戦略を{target=“_blank”}した。
+
+このアップデートによりWindows11のOSそのものに「Your everyday AI companion（あなたの日常をサポートするAI）」と銘打った「Microsoft Copilot」が組み込まれ、メールやカレンダーなどWindows内のあらゆるアプリケーションをCopilotが行き来して、ユーザーの要望に応えるという。CopilotはWindows11、Microsoft 365、EdgeとBingを統合したWebブラウザ内でも利用可能だ。
+
+Copilotは、長いメールの文章を要約したり、遅れて参加したWeb会議の流れをまとめて文字で伝えたり、画像の背景を取り除いたりなど、ユーザーがPCで行っている作業に合わせて最適な支援を提供する。アプリケーションとして動作するほか、必要に応じてマウスの右クリックで呼び出すこともでき、ユーザーからの文章の指示に応答する。
+
+@
+出典：#MicrosoftEvent in less than 2 minutes | September 21, 2023
+
+このアップデートには150以上の新機能が含まれており、PaintやPhotos、ClipchampなどのアプリケーションにもAIが導入される。注目すべきは、BingがOpenAIの最新モデルDALL-E 3をサポートしている点だ。
+
+@
+出典：Bing | Image Creator with DALL-E 3
+
+Microsoftの会長兼最高経営責任者（CEO）サティア・ナデラ氏が基調講演で「Copilotが我々とテクノロジーとの関係を根本的に変革する時代の到来を告げる」と述べた。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 22 Sep 2023 06:35:04 +0000</pubDate></item><item><title>日立CEO小島氏、生成AIを中心にしたイノベーション戦略を明らかに</title><link>https://ledge.ai/articles/hitachi_ai_inovation</link><description>:::small
+画像出典：日立製作所
+:::
+
+日立製作所が2023年9月20日と21日に{target=“_blank”}を東京ビッグサイトで開催した。
+
+執行役社長で最高経営責任者（CEO）小島啓二氏が登壇し「日立がめざすイノベーションの未来 ～AI新時代の持続的経済成長～」と題して講演をおこなった。
+
+小島氏はライト兄弟の有人動力飛行の成功を例とし、イノベーションは「行動」「情報」「科学」の3つの要素が組み合わさることで生まれると説明。
+
+同社は生成AIを自社だけでなく、顧客企業の潜在力を引き出すためにも積極的に活用する方針だ。
+
+生成AIを使う事例として、鉄道会社が新しい路線を設計する際に、住民のニーズや他国の事例を素早く調査・整理し、効率的な事業計画を作成するというケースを紹介。
+
+同氏は「生成AIは企業がもつ情報を整理し、圧倒的な速度と情報量でアイデアを提案してくれる。その上で人間は今まで以上に責任をもって判断を下さなければならない」と述べた。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 22 Sep 2023 06:53:26 +0000</pubDate></item><item><title>VTuberも自動化か AIキャスターが24時間ニュースをかわいく読み上げる「ライブドアニュース24」</title><link>https://ledge.ai/articles/ai_caster_livedoornews24</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -193,51 +240,7 @@ Stack AVは、2022年に解散した米国Argo AIの経営陣が設立した。A
 :::
 
 
-</description><pubDate>Tue, 19 Sep 2023 05:26:16 +0000</pubDate></item><item><title>ChatGPT「使ったことある」10人に1人 Threadsわずか4％  ただし徐々に上昇する傾向も</title><link>https://ledge.ai/articles/chatgpt_threads_reserch</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本リサーチセンターは2023年8月31日、新商品・新サービス利用経験を調査する「NRC デイリー・トラッキング調査」で、「ChatGPT」と「Threads」などについて尋ねた結果を{target=“_blank”}した。
-
-ChatGPTは2023年3月時点で3％だった利用者割合が、8月には10%まで徐々に上がっている。男女年代別比較では、全年代で女性より男性の方が利用経験が高く、8月時点では、20~40代男性利用割合が16%以上と全体を5ポイント以上上回った。
-
-!
-:::small
-{target=“_blank”}
-:::
-
-2023年7月にサービス開始したThreadsの8月時点での利用経験率は全体で4％。男女ともに20代で約10%の利用経験があり、40~60代は各年代で5%未満だった。
-
-!
-:::small
-{target=“_blank”}
-:::
-
-NRCデイリー・トラッキング調査の概要
-調査目的：人々の行動と感情について、日々の推移をトラッキングする
-調査方法：Web調査
-調査対象者：NRCサイバーパネル会員　全国20～69才男女　毎日約150人回収（平均）　日本の人口構成比（エリア、男女、年代）に合わせてウエイト集計
-調査期間：　2022年5月17日からデイリーでトラッキング調査を実施中
-調査機関：　日本リサーチセンター（NRC）
-
-質問内容：次の中で、あなたが利用したことがあるものをすべてお知らせください。（いくつでも）
-選択肢：ChatGPT、Threads、Midjourney、Discord、Pinterest、Voicy、NFT、メタバース、Starlink、オンライン診療、スマート家電、VR、いずれもない
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 15 Sep 2023 09:34:50 +0000</pubDate></item><item><title>AWSとCloudera「信頼できる生成AI」で協力 クラウドとデータ管理・分析製品の連携強化</title><link>https://ledge.ai/articles/cdp_on_aws</link><description>企業向けの「信頼できる生成AI」実現に向けデータ管理・分析製品大手のClouderaと、クラウドサービス大手のAmazon Web Services（AWS）が手を組む。両社は現地時間2023年9月7日付けで戦略的協業契約を結んだと{target="_blank"}した。
-
-Clouderaのデータレイクハウス「Cloudera Data Platform（CDP）」の主要機能を、AIや機械学習（ML）関連を含めAWSのクラウド上で実行できる。ClouderaはAWSで認証済みのアプリケーションを検索して購入できる「AWS Marketplace」にCDPのパブリッククラウド版を提供しており、協業でより利便性が高まるとしている。
-
-Clouderaの顧客企業はアプリケーションを再設計（リファクタリング）せずAWSのクラウドに移行可能。Amazon Simple Storage Service（Amazon S3）、Amazon Elastic Kubernetes Service（Amazon EKS）、Amazon Relational Database Service（Amazon RDS）、Amazon Elastic Compute Cloud（Amazon EC2）などの各サービスとCDPを直接統合できる。
-
-:::box
-
-:::
-</description><pubDate>Fri, 15 Sep 2023 07:51:38 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Tue, 19 Sep 2023 05:26:16 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
