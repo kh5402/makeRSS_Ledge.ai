@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Sep 2023 06:56:27 +0000</lastBuildDate><item><title>Windows11に生成AIを統合「Microsoft Copilot」9月から導入開始</title><link>https://ledge.ai/articles/microsoft_your_everyday_ai_copilot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Sep 2023 06:49:53 +0000</lastBuildDate><item><title>YouTube、AI搭載の動画制作ツール発表</title><link>https://ledge.ai/articles/made_on_youtube</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Google子会社YouTubeは現地時刻の2023年9月21日、ニューヨークで行われたクリエイター向けのイベント「Made on Youtube」で、AIが動画や背景を生成する「Dream Screen」や、モバイルアプリ「YouTube Create」など、AIを搭載した制作ツールのリリースを{target=“_blank”}した。日本での導入は未定。
+
+!
+:::small
+画像出典{target=“_blank”}
+:::
+
+**「Dream Screen」**
+アイディアを入力することで、AI が生成した動画や画像の背景をショート動画に追加できる新機能。まずは一部のクリエイターを対象に導入し、2024年より提供範囲を拡大予定（英語のみで日本での導入時期は未定）
+!
+:::small
+画像出典：{target=“_blank”}
+:::
+
+**モバイルアプリ「YouTube Create」
+**現在、Android 向けベータ版として一部の地域（日本は対象外）で提供されている 無料アプリケーション{target=“_blank”} が、すべてモバイル デバイスから利用可能となる。
+自動字幕起こしやナレーション機能が用意されているほか、各種フィルタ、エフェクト、切り替え効果や、ビートマッチング対応のロイヤリティフリーの音楽も利用できるなど、ショート動画や長尺動画の制作プロセスを簡素化する。
+
+**「AI Insightts」**
+・AI を活用したインサイトが得られる。各チャンネルごとにパーソナライズされ、視聴者がクリエイターのチャンネルおよび、YouTube で視聴しているコンテンツに基づいて提供される。
+
+・ AI 搭載の自動吹き替えツール、「Aloud」を YouTube に導入する。（日本の導入時期は未定）
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 25 Sep 2023 06:49:53 +0000</pubDate></item><item><title>Windows11に生成AIを統合「Microsoft Copilot」9月から導入開始</title><link>https://ledge.ai/articles/microsoft_your_everyday_ai_copilot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -221,26 +254,7 @@ Salsefoce Service CloudとGenesys Cloud CXの顧客情報、カスタマージ�
 
 :::
 
-</description><pubDate>Tue, 19 Sep 2023 05:34:49 +0000</pubDate></item><item><title>ソフトバンクグループ 次の投資先は自動運転トラック「Stack AV」10億ドル以上 元Google・Uber技術者設立
-</title><link>https://ledge.ai/articles/stack_av_softbank_group</link><description>:::small
-画像出典：Stack AV
-:::
-
-ソフトバンクグループが、米国の自動運転トラック開発企業Stack AVへの{target=“_blank”}を米国時間2023年9月7日に発表した。出資額は明らかにしていないが、{target=“_blank”}によると、10億ドル（約1,472億円）以上。
-
-Stack AVは、2022年に解散した米国Argo AIの経営陣が設立した。Argo AIは米国Ford MotorとドイツVolkswagenが出資し、米国Google出身のBryan Salesky（ブライアン・サレスキー）氏、Uber出身のPeter Rander（ピーター・ランダー）氏、Brett Browning（ブレット・ブラウニング）氏といった技術者が2016年に立ち上げたスタートアップだったが、開発した自動運転システムは実用化にはいたらなかった。新たなStack AVの本社は旧Argo AIと同じく米国ペンシルベニア州ピッツバーグに位置する。従業員数は150人で、リモートワークも活用している。
-
-ソフトバンクグループはすでにAI向け半導体需要の高まりを背景に傘下の英国Arm Holdingsの上場を決め、巨額の資金を調達。今後の投資先に関心が集まっていた。
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Tue, 19 Sep 2023 05:26:16 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Tue, 19 Sep 2023 05:34:49 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
