@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Sep 2023 06:53:26 +0000</lastBuildDate><item><title>Windows11に生成AIを統合「Microsoft Copilot」9月から導入開始</title><link>https://ledge.ai/articles/microsoft_your_everyday_ai_copilot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Sep 2023 06:56:27 +0000</lastBuildDate><item><title>Windows11に生成AIを統合「Microsoft Copilot」9月から導入開始</title><link>https://ledge.ai/articles/microsoft_your_everyday_ai_copilot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1676,7 +1676,29 @@ CDAO （Chief Data Analytics Officer）　西田幸平 氏
 {target=“_blank”}
 
 （Sponsored by 株式会社バンダイナムコネクサス）
- </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>テキスト指示だけでAIがAIを作成する「Prompt2Model」米大学などが開発</title><link>https://ledge.ai/articles/prompt2model</link><description>:::small
+ </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>生成AI「Z世代」7割が利用 「X世代」「ベビーブーマー」とギャップ Salseforce調査</title><link>https://ledge.ai/articles/ai_generation_gap</link><description>:::small
+画像出典：Salesforce
+:::
+
+
+生成AIの利用者は世代差が顕著で、非利用者との間には技術や影響力への理解度にも差がある。米国Salesforce（セールスフォース）が2023年9月7日こんな{target=“_blank”}をまとめた。
+
+調査によると、生成AI利用者の65％が、ミレニアル世代（おおむね1980年代～1990年代前半生まれ）またはZ世代（おおむね1990年代後半から2010年代前半生まれ）。特にZ世代では70％が生成AIを利用しており、52％が意思決定に役立つと信じている。
+
+一方で生成AIの非利用者の68%は、X世代（おおむね1960年代から1970年代生まれ）やベビーブーマー世代（おおむね1940年代後半～1950年代前半生まれ）で、世代間の分断があるという。
+
+調査によると、生成AI利用者の3分の1が頻度を毎日と回答した。利用者の大半は仕事で活かし、3分の1は楽しみや学習のために使用。一方、非利用者の88%が生成AIの影響を理解しておらず、40%はこの技術に詳しくない。
+
+「Generative AI Snapshot Research: The AI Divide」と題するこのレポートは、米国、英国、オーストラリア、インドの4,041人を対象に2023年8月16～22日に調査したもの。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 22 Sep 2023 06:56:27 +0000</pubDate></item><item><title>テキスト指示だけでAIがAIを作成する「Prompt2Model」米大学などが開発</title><link>https://ledge.ai/articles/prompt2model</link><description>:::small
 画像出典：Prompt2Model: Generating Deployable Models from Natural Language Instructions
 :::
 
@@ -1917,27 +1939,7 @@ AI研究の推進では、従来のコンピューターサイエンスだけで
 :::box
 
 :::
-</description><pubDate>Mon, 04 Sep 2023 06:43:08 +0000</pubDate></item><item><title>数学に強いAI「WizardMath」Microsoftなどが開発 Metaの「Llama-2」を強化</title><link>https://ledge.ai/articles/wizardmath</link><description>数学に強い新たな大規模言語モデル（LLM）「WizardMath」が登場した。米国Microsoftと中国科学院深セン先進技術研究院の研究者らが2023年8月18日に発表した論文「{target=“_blank”}」で明らかにしたもの。
-
-### 数学に強いAI、弱いAI
-OpenAIの開発する対話型AI（チャットボット）「ChatGPT」をはじめ、さまざまなAIの中枢となっているLLM。各社が開発を進めているが、数学の問題を解く性能には大きな差がある。
-
-例えばChatGPTの中枢である「GPT-4」は、論文によると困難な数学的推論を含む自然言語処理 (NLP) に高い実力示す。しかし内部の詳しい仕組みなどはクローズド（非公開）。一方「Llama-2」のような、内部の仕組みまで公開したオープンソースのLLMの多くは数学関連の最適化は行っていないという。
-
-周知の通りMicrosoftは、GPT-4の開発元OpenAIと提携しつつ、Llama-2の開発元Metaとも協力関係にあり、今回のWizardMathは後者の数学能力を前者に近づけるような取り組みだ。
-
-### 数学の指示データをAIに作らせ訓練
-研究の目玉は「Reinforcement Learning from Evol-Instruct Feedback（RLEIF）」という新手法。人間の代わりにLLMに大量の指示データを生成させる「Evol-Instruct」を応用し、小学校の算数から高難度の数学までも対象にデータを作らせ、Llama-2のファインチューニング（微調整）に利用した。
-
-!
-
-結果できあがったWizardMathに対して「GSM8k」と「MATH」という2つの数学的推論ベンチマークで評価したところ、ほかのオープンソースLLMを大幅に上回る能力だったという。またGSM8kではChatGPT-3.5、Claude Instant-1、PaLM-2、MinervaといったクローズドLLMも上回り、MATHではText-davinci-002、PaLM-1、GPT-3を上回った。Microsoftなどは詳細とモデルの重みをGitHubとHugging Faceで公開している。
-
-!
-
-:::box
-
-:::</description><pubDate>Sat, 02 Sep 2023 05:21:21 +0000</pubDate></item><item><title>一般道にも自動運転レーン 茨城・日立市で2024年にも</title><link>https://ledge.ai/articles/digital_architecture_lifeline</link><description>:::small
+</description><pubDate>Mon, 04 Sep 2023 06:43:08 +0000</pubDate></item><item><title>一般道にも自動運転レーン 茨城・日立市で2024年にも</title><link>https://ledge.ai/articles/digital_architecture_lifeline</link><description>:::small
 画像出典：第2回デジタルライフライン全国総合整備実現会議
 :::
 
