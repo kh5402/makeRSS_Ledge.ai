@@ -1937,7 +1937,27 @@ OpenAIの開発する対話型AI（チャットボット）「ChatGPT」をは�
 
 :::box
 
-:::</description><pubDate>Sat, 02 Sep 2023 05:21:21 +0000</pubDate></item><item><title>米中IT大手6社 デジタル世界の「門番」に EUが指定 厳格な規制課す</title><link>https://ledge.ai/articles/european_commission_gatekeeper</link><description>:::small
+:::</description><pubDate>Sat, 02 Sep 2023 05:21:21 +0000</pubDate></item><item><title>一般道にも自動運転レーン 茨城・日立市で2024年にも</title><link>https://ledge.ai/articles/digital_architecture_lifeline</link><description>:::small
+画像出典：第2回デジタルライフライン全国総合整備実現会議
+:::
+
+
+政府は2023年9月15日、先進的なデジタル技術を活用して経済成長を実現する「デジタル田園都市国家構想」に基づき{target=“_blank”}の第2回会合を経済産業省で開催した。会合では{target=“_blank”}が提示され、大部分が了承された。
+
+今回の「中間取りまとめ」案では「デジタルライフライン全国総合整備計画」として2点を提案した。 自動運転やドローン等について「点から線・面へ」「実証から実装へ」の移行を加速させ、デジタル化された生活必需サービスを全国津々浦々に行きわたらせる。また ハード・ソフト・ルールのデジタルライフラインを整備する約10年の中長期的な実装計画を策定し、重複を排除した官民による集中的な投資を行う。
+
+自動運転の実用化支援については、既存の高速道路に加え、2024年度に茨城県日立市の一般道にも「自動運転支援道」を設置する方針だ。日立市のJR大甕駅周辺に自動運転レーンを設置する予定。
+
+また25年度以降に新東名高速道、東北自動車道の一部に自動運転レーンの設置を検討している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 21 Sep 2023 04:38:04 +0000</pubDate></item><item><title>米中IT大手6社 デジタル世界の「門番」に EUが指定 厳格な規制課す</title><link>https://ledge.ai/articles/european_commission_gatekeeper</link><description>:::small
 {target=“_blank”} 
 :::
 
@@ -2162,22 +2182,7 @@ WPの報道時点では、米国議会はまだ選挙における生成AIの使�
 :::
 :::box
 
-:::</description><pubDate>Tue, 05 Sep 2023 06:28:12 +0000</pubDate></item><item><title>デジタル庁「ChtaGPTを業務に組み込むためのハンズオン」デモアプリのコードも</title><link>https://ledge.ai/articles/hands_on_with_the_digital_agency</link><description>デジタル庁は「{target=“_blank”}」と題した資料を2023年8月4日に公開した。米国OpenAIの対話型AI（チャットボット）「ChatGPT」の機能を既存の業務フローに組み込んだり、独自アプリケーションで利用したり、業務データベースと接続したりといった試行錯誤ができるよう手ほどきする内容だ。
-
-日本政府の内閣人事局が6月26日に国家公務員向けに開催した「働き方改革促進のための生成AI活用ワークショップ」の一環。デジタル庁も技術支援のかたちで参加し、成果を一般向けにも掲載した。
-
-資料はChatGPTと題してはいるが、実際にはその中枢である大規模言語モデル（LLM）「GPT-4」や「GPT-3.5」の機能を外部から呼び出せるアプリケーション・プログラミング・インターフェイス（API）の利用方法を解説している。
-
-なお今回はハンズオンのほかに、ワークショップの模様を{target=“_blank”}で報告。講義に用いたデモンストレーション用のアプリケーションを再現するためのプログラミングコードも掲載した。デジタル庁の河野太郎大臣も「ぜひ、参考にしてください。」と自身の{target=“_blank”}で発表している。
-
-!
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 04 Sep 2023 11:11:16 +0000</pubDate></item><item><title>ChatGPT 画像も生成可能に 新AI「DALL-E 3」導入--著名人のフェイク画像など安全性にも配慮</title><link>https://ledge.ai/articles/openai_dall-e3</link><description>:::small
+:::</description><pubDate>Tue, 05 Sep 2023 06:28:12 +0000</pubDate></item><item><title>ChatGPT 画像も生成可能に 新AI「DALL-E 3」導入--著名人のフェイク画像など安全性にも配慮</title><link>https://ledge.ai/articles/openai_dall-e3</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
