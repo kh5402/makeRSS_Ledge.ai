@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Sep 2023 06:49:53 +0000</lastBuildDate><item><title>宇宙クラウド「Azure Space」AIで衛星データ分析 企業が高速で利用可能に 防衛・環境用途</title><link>https://ledge.ai/articles/azure_space_and_the_partners</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 01:37:19 +0000</lastBuildDate><item><title>松尾研発AIスタートアップELYZA ✕ JR西日本コンタクトセンター 通話要約業務に言語生成AI導入</title><link>https://ledge.ai/articles/elyza_jwcr</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ELYZAは2023年9月21日、JR西日本カスタマーリレーションズ（JWCR）との実証実験に成功し、通話要約業務に言語生成AIを導入したことを{target=“_blank”}した。
+
+ELYZAは東京大学松尾研究室発のAIスタートアップの株式会社で、言語生成AIの社会実装を進めている。JR西日本お客様センターを運営するJWCRとの共同プロジェクトとして、顧客対応業務の品質向上・業務負荷削減を目指し、システム及び業務フローのあり方を言語生成AI起点で一から見直すLLM DXのプロジェクトを2022年より実施していた。2023年3月にはメール問い合わせの内容要約業務において言語生成AIの活用を開始している。
+
+5月から8月にかけて通話内容要約業務における実証実験を実施し、現場活用にたる生成精度・業務短縮効果が確認されたため、実業務での言語生成AI活用を開始。本業務の言語生成AIは、基盤にGPTシリーズを援用。コンタクトセンターとして言語生成AIを導入・活用するのは、国内でも稀少な事例だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 26 Sep 2023 01:37:19 +0000</pubDate></item><item><title>宇宙クラウド「Azure Space」AIで衛星データ分析 企業が高速で利用可能に 防衛・環境用途</title><link>https://ledge.ai/articles/azure_space_and_the_partners</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -235,28 +257,7 @@ Wizが米国時間2023年6月22日にMicrosoftに連絡し、Microsoftは7月7�
 :::
 :::box
 
-:::</description><pubDate>Thu, 21 Sep 2023 04:02:47 +0000</pubDate></item><item><title>Salesforce AIで顧客体験・関係管理製品を強化 Genesysと連携</title><link>https://ledge.ai/articles/cx_clooud_for_genesys_and_salesforce</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Genesys Cloud Servicesは2023年9月6日 、Salesforceとの戦略的な提携を{target=“_blank”}した。問い合わせの電話に対応するコンタクトセンター機能などを備えたGenesysの顧客体験（CX）基盤「Genesys Cloud CX」と、Salesforceの顧客関係管理（CRM）基盤「Salesforce Service Cloud」を統合した「CX Cloud from Genesys and Salesforce」を投入する。両社の強みとAIを活用したCX、CRMが行えると打ち出している。
-
-Genesys Cloud CXのコンタクトセンターと人員管理（WEM）の機能を、Salesforce Service Cloudの導入企業が利用可能となる。顧客が問い合わせをしてから課題が解決するまでコンタクトセンターで途切れなく対応できるようにする。
-
-CX Cloud from Genesys and Salesforceの主な機能は次の通り。
-
-**同期されたAI対応のデータ：**
-Salesforce Data Cloudの機能を利用し、リアルタイムかつ自動で問い合わせをした顧客に関するデータを集約し、対応する人員が文脈（コンテキスト）を踏まえて会話を進めたり、ボットがより効率よくやりとりを処理したりできるようになる。またサービスレベル、処理時間、全体の顧客満足度などの指標を追跡し、詳しい分析やレポートを作成できる。
-
-**単一のオーケストレーションエンジン：**
-Genesys Cloud CX の機能を利用することで、GenesysとSalesforceの両製品のデータ、ボット、チャネルを組み合わせ、AIを活かして顧客の行動過程を可視化する「カスタマージャーニー」を作成できる。プログラミングコードを記述せず機能を実装できる「ノーコード」の仕組みが利用可能。
-
-**統一されたAIベースの従業員体験：**
-Salsefoce Service CloudとGenesys Cloud CXの顧客情報、カスタマージャーニー、対応履歴を利用し、SalesforceのAI技術「Einstein AI」と、GenesysのAI技術「Genesys AI」で顧客満足度の向上が図れるようになるという。またSalsefoce Service Cloud の従業員アクティビティダッシュボードに埋め込んだGenesysのWEM機能を利用できる。
-
-:::box
-
-:::</description><pubDate>Tue, 19 Sep 2023 10:21:28 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Thu, 21 Sep 2023 04:02:47 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
