@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Sep 2023 06:49:53 +0000</lastBuildDate><item><title>YouTube、AI搭載の動画制作ツール発表</title><link>https://ledge.ai/articles/made_on_youtube</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Sep 2023 06:49:53 +0000</lastBuildDate><item><title>宇宙クラウド「Azure Space」AIで衛星データ分析 企業が高速で利用可能に 防衛・環境用途</title><link>https://ledge.ai/articles/azure_space_and_the_partners</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Microsoftは2023年9月11日、宇宙から収集したデータを利用できるクラウドサービス「Azure Space」について新{target=“_blank”}を行った。人工衛星などで観測した地球の画像をAIで分析し、アプリケーション・プログラミング・インターフェイス（API）を通じ外部企業のアプリケーションが高速で呼び出せるようにした。
+
+Azure Spaceの一部として今回、地球の大気や地形などのデータを集めた{target=“_blank”}が加わった。地理情報システム（GIS）のESRIや、8月に戦略的パートナーシップを{target=“_blank”}した画像分析AIのSynthetaicとの協力によるもの。
+
+環境保護や科学研究から防衛など幅広い用途に活かせる。ESRIのGIS「ArcGIS」、Synthetaicの画像認識AI「RAIC」を導入することで膨大なデータの呼び出しを高速化した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 22 Sep 2023 06:54:22 +0000</pubDate></item><item><title>YouTube、AI搭載の動画制作ツール発表</title><link>https://ledge.ai/articles/made_on_youtube</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -236,25 +256,7 @@ Salsefoce Service CloudとGenesys Cloud CXの顧客情報、カスタマージ�
 
 :::box
 
-:::</description><pubDate>Tue, 19 Sep 2023 10:21:28 +0000</pubDate></item><item><title>AI自主規制 AdobeやSalseforceも参加 IT大手8社 米政府の呼びかけに応じる</title><link>https://ledge.ai/articles/eight_companies_manage_the_risk_ai</link><description>:::small
-画像出典：写真AC
-:::
-
-米国政府は現地時間の2023年9月12日、Adobe、IBM、NVIDIAを含む8社が、ジョー・バイデン大統領が推進するAIのリスク管理に自主的に参加することを{target=“_blank”}した。バイデン大統領は「AIの利点活用、リスク管理、迅速な行動」に焦点を当て、民間セクターと連携すると述べている。
-
-参加するのは上記3社の他、米国Palantir Technologies、英国Stability AI、米国Salesforce、米国ScaleAI、カナダCohereの5社。
-
-2023年7月には米国OpenAI、Alphabet、Meta Platforms、Amazon.com、Microsoftなどが、AIが生成したコンテンツに「透かし」を入れるなどの、AI技術を安全にするための措置を自発的に実施することを約束している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 19 Sep 2023 05:34:49 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Tue, 19 Sep 2023 10:21:28 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
