@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 01:37:19 +0000</lastBuildDate><item><title>松尾研発AIスタートアップELYZA ✕ JR西日本コンタクトセンター 通話要約業務に言語生成AI導入</title><link>https://ledge.ai/articles/elyza_jwcr</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>Amazon、Anthropicと戦略的提携 最大40億ドル投資ーーAWSで生成AI開発</title><link>https://ledge.ai/articles/anthropic_strategic_collaboration_for_generative_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Amazon.comは2023年9月25日、生成AIの進展のためにAnthropicとの戦略的提携を{target=“_blank”}した。Amazonは、Anthropicに最大40億ドルを投資し、同社の少数持分所有権を保持する。
+
+Anthropicは、AWS TrainiumおよびInferentiaチップを使用して、未来の基盤モデルを構築、訓練、展開する。両社は将来の Trainium および Inferentia テクノロジーの開発でも協力する。また、AWSを主要なクラウドプロバイダとして選択し、安全性の研究と未来の基盤モデルの開発を含むワークロードの大部分をAWSで実行する予定だ。
+
+AWSの顧客は「Amazon Bedrock」を通じ、Anthropicの基盤モデルへアクセスできる。さらに、モデルのカスタマイズとファインチューニングのための独自の機能への早期アクセスが可能となる。これにより顧客がAmazon Bedrockを介しAnthropicモデルを構築でき、生成AI機能を自分の仕事に組み込み、既存のアプリケーションを強化できるという。
+
+Anthropicは7月、OpenAIの「ChatGPT」と競合する対話型AIのモデル「Claude」の新版「Claude 2」をリリース。9月には有料版「Claude Pro」の提供を開始している。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 26 Sep 2023 03:45:59 +0000</pubDate></item><item><title>ソニー・ドコモ 機密流出か サイバー犯罪者 “カネを払わないとEUの罰を受ける” と脅迫</title><link>https://ledge.ai/articles/sony_and_docomo_are_threatened_by_ransomed_dot_vc</link><description>ソニーグループやNTTドコモから機密情報が流出し、サイバー犯罪者がそれを種に恐喝をしかけているという噂が海外のセキュリティ関連のニュースメディアを駆け巡っている。興味深いのは取引に応じなければ欧州連合（EU）の「一般データ保護規則（GDPR）」による罰金を受けることになるとほのめかしていることだ。事実とすればAIやその基盤となるデータに関して厳しい規制を敷くEUの仕組みを悪用した手口だ。
+
+米国時間の2023年9月25日にいち早く一件を報じたセキュリティブログの「{target="_blank"}」によると恐喝をしかけたのは「Ransomed.vc」を名乗るサイバー犯罪者。9月に登場し、ダークウェブと通常のインターネットの両方を介して犯行声明を出した。「ソニーのすべてのデータ」を入手したが、ソニーが対価を支払うつもりがないため第三者に販売するとうたっているという。
+
+
+証拠としてソニーグループの内部システムのログイン画面のスクリーンショット、プレゼンテーションアプリケーション「PowwerPoint」向け資料、プログラミング言語「Java」で記述したファイル、などと称するものを列挙している。Cybersecurity Connectは「ソニーのすべてのデータ」にしては量が少ないと、Ransomed.vcの主張の信憑性に保留をつけている。ただソニーグループは傘下企業を含め幾度もサイバー犯罪の標的となり、被害を出したこともあるだけに、はったりとも言い切れない。日本時間の9月26日時点ではソニーグループの公式サイトは真偽についての発表はない。
+
+標的がソニーだけにゲームメディアもこの話題を取り上げている。「{target="_blank"}」よるとRansomed.vcは複数人で構成する組織。参加者はいままさに戦争のさなかにあるロシアとウクライナの出身だという。
+
+またテクノロジーメディアの「{target="_blank"}」などによると、今回の標的はソニーだけでなくNTTドコモを含む厖大な数の企業だ。なおRansomed.vcの風変わりな面は、世界でも特に厳しいデータ保護基準を企業に求めるGDPRを尊重していると主張しているところだ。
+
+もし被害企業から支払いが受け取れなかった場合、GDPR違反をEUのしかるべき機関に報告するのだという。SiliconANGLEを含む複数のメディアは、被害企業がGDPR違反による多額の罰金への恐怖から、より安い金額であればサイバー犯罪者に支払ってもよいと思わせる狙いだと推測している。
+
+:::box
+
+:::</description><pubDate>Tue, 26 Sep 2023 07:16:24 +0000</pubDate></item><item><title>業界標準UCIe準拠「マルチ・チップレット・パッケージ」発表、Intel Innovation 2023</title><link>https://ledge.ai/articles/multi_chiplet_package_intel</link><description>:::small
+画像出典：Intel Innovation 2023
+:::
+
+
+米国Intelは2023年9月19日(米国時間)、カリフォルニア州のサンノゼ・コンベンションセンターで年次イベント{target=“_blank”}を開催した。同社の最高経営責任者（CEO）パット・ゲルシンガー氏が、各種製品やロードマップなどを明らかにした。
+
+同イベントでIntelは「4年間で5ノード」という製造技術開発計画について紹介し、このペースで開発を続けると発表。Intel 4で製造されるCore Ultra(Meteor Lake)、Intel 3で製造されるGranite RapidsとSierra Forest、Intel 20Aで製造されるArrow Lakeの4つを提示した。
+
+またガラスサブ基板の試作品と、チップレットの業界標準UCIe（Universal Chiplet Interconnect Express）に準拠した「マルチ・チップレット・パッケージ」を公開した。UCIeは半導体業界の新しい標準仕様で、多くの大手半導体メーカーが参加。この標準を用いて、異なるチップやファウンダリからのチップを1つのパッケージに容易に統合できる。
+
+Intelは開発コードネーム「Pike Creak」と呼ばれるチップを公開し、実際にデモを行った。このチップはIntelとTSMCの技術を組み合わせたもので、UCIeの規格に準拠。UCIeの普及によって、今後は複数の半導体メーカーが協力して製品を提供する可能性が高まる。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 25 Sep 2023 06:08:55 +0000</pubDate></item><item><title>松尾研発AIスタートアップELYZA ✕ JR西日本コンタクトセンター 通話要約業務に言語生成AI導入</title><link>https://ledge.ai/articles/elyza_jwcr</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -195,69 +249,7 @@ Claude.aiの競合であるOpenAIの「ChatGPT」もすでに2月に月額20ド�
 :::
 :::box
 
-:::</description><pubDate>Thu, 21 Sep 2023 04:17:40 +0000</pubDate></item><item><title>三井化学 GPTとWatson 2種のAIを駆使 製品の「新規用途」発見数倍増</title><link>https://ledge.ai/articles/ibm_watson_gpt_</link><description>:::small
-画像出典：写真AC
-:::
-
-自動車材料から殺虫剤までさまざまな化学製品を手がける三井化学は、「GPT」と「IBM Watson」という2種類のAIを活用し、製品の「新規用途」発見数を2倍に増やした。使い道が広がれば、売り上げや市場シェアの拡大につなげられると見込む。日本IBMが2023年9月13日に事例として{target=“_blank”}した。
-
-
-
-
-
-ニュース、SNS、特許などのビッグデータ（大量に蓄積した情報）をAIで分析し、三井化学製品の機能特性に関連するキーワードから新たな用途を発見する取り組みだ。
-
-IBM Watsonは三井化学固有の辞書を構築したうえでビッグデータを分析するAI基盤として導入。さらに米国MicrosoftのAI基盤「Azure Open AI」を通じてGPTの生成、応答、抽出、要約、高速検索といった機能や、対話型の操作画面を活かし、IBM Watsonの分析能力向上を図った。
-
-:::box
-
-:::
-
-:::box
-
-:::
-</description><pubDate>Tue, 19 Sep 2023 09:33:53 +0000</pubDate></item><item><title>Amazon 商品説明をAIで生成可能に 出品者の手間省く</title><link>https://ledge.ai/articles/amazon_sellers_generativeai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Amazon.comは2023年9月13日、誰でもインターネットを通じ商品を販売できる「Amazon Seller Central」の新機能として商品の説明、タイトル、特徴の箇条書きをAIが生成する機能を{target=“_blank”}した。人間のような自然な文章を書き出せる大規模言語モデル（LLM）を利用している。
-
-Amazon Seller Centralの管理画面で、数語または数節の短い説明を入力するだけで利用できる。例えば「mouse pad with gel wrist（ジェル製リストレスト付きマウスパッド）」と打ち込むと、「This mouse pad is designed to enhance your productivity（このマウスパッドはあなたの生産性を高めるよう設計してあります）」から始まる長い売り文句を生成する、といった具合だ。
-
-AmazonのLLMは商品の仕様書に直径が記載してあればテーブルが円形だと推測したり、シャツの見本写真から襟のスタイルを推測したりして説明を書き出す機能があるという。
-
-!
-
-AIが生成した説明をそのまま掲載してもよく、また手動で編集してから掲載することも可能だ。なおAmazonによると、過去数か月の試験運用に参加した出品者は大半がそのまま掲載する方を選んだという。
-
-!
-
-:::box
-
-:::</description><pubDate>Tue, 19 Sep 2023 08:35:32 +0000</pubDate></item><item><title>うっかりMicrosoftのAI研究チーム 社内機密38TBを漏洩 実は3年前からか</title><link>https://ledge.ai/articles/microsoft_38tb_of_internal_data_accidentally_leaked</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Microsoftは現地時間2023年9月18日、AIやアプリケーションの開発基盤「GitHub」に掲載したオープンソースの機械学習モデルの情報を編集中、従業員同士が交わしたメッセージなどの内部情報を誤って公開していたと{target=“_blank”}した。すでに対策をとっており、顧客情報に影響はなかったと説明している。
-
-Microsoftは該当の機械学習モデルに必要な情報を提供するため、クラウドストレージ「Azure Storage」を利用し、「Shared Access Signature（SAS）」トークンと呼ぶ機能で公開範囲を設定。次にAzure StorageへのリンクとSASトークンをGitHubに投稿した。ところがこのSASトークンの設定が不適切で、同社の内部情報まで取得できるようになっていた。
-
-この件をMicrosoftに報告したのは、米国とイスラエルに拠点を持つセキュリティ企業Wiz。同社の{target=“_blank”}によると、問題となったGitHubのリポジトリ（データ格納場所）はMicrosoftのAI研究部門の管理下にあり、そこを介してAzure Storage上から漏洩（ろうえい）した情報は38TBにおよぶ。従業員2人のワークステーションのディスクバックアップを含んでおり、359人がコミュニケーションアプリケーション「Microsoft Teams」でやりとりした3万件以上のメッセージをはじめ、機密性の高い個人情報、パスワード、情報の暗号化やその解除に利用できる秘密鍵などが入っていた。
-
-加えて、SASトークンは読み取り専用ではなく「フルコントロール」権限を許可する設定になっていた。 つまりAzure Storage上の情報を誰でも閲覧できただけでなく、悪意ある第三者が一部を削除したり上書きしたりする恐れもあった。なおGitHubへのSASトークンの投稿は2020年7月から始まっていたとしている。
-
-Wizが米国時間2023年6月22日にMicrosoftに連絡し、Microsoftは7月7日にSASトークンを変更。8月15日に内部調査を完了し、9月18日の情報公開にいたったとしている。
-
-!
-:::small
-画像の出典 {target=“_blank”}より：SASトークンを介して38TBの個人データが誤って漏洩してしまった経緯を図解
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 21 Sep 2023 04:02:47 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Thu, 21 Sep 2023 04:17:40 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
