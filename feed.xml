@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>イーロン・マスク氏のNeuralink、四肢麻痺患者を対象に脳インプラント臨床試験</title><link>https://ledge.ai/articles/neuralink_bci</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>GitHub 全個人向けユーザーに無償で提供「GitHub Copilot Chat」ベータ版提供</title><link>https://ledge.ai/articles/github_copilot_chat_for_individual</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国GitHubは2023年9月20日、開発者向け対話型AI（チャットボット）「GitHub Copilot Chat」ベータ版をGitHub Copilot 個人ユーザーを対象に無償で提供すると{target=“_blank”}した。
+
+「GitHub Copilot Chat」は、AIでコーディングを支援する「GitHub Copilot X」の中でも重要なインターフェースとされ、組織向けの「GitHub Copilot for Business」を導入しているビジネスユーザーに向けてすでに7月から提供を開始している。
+
+汎用チャットボットと異なり、開発者向けに設計された「GitHub Copilot Chat」は、入力したコードや表示中のエラーメッセージをコンテキスト（文脈）に沿って認識する。例えば特定のコードスニペットで行き詰まっている場合や、特定のプログラミング概念に関するガイダンスを必要としている場合などに状況に合った回答を生成する。
+
+GitHub Copilot Chat と GitHub Copilot のペアプログラマを統合すると、すべての開発者が自分の選択した自然言語で思い思いのスピードで構築できるよう支援できる強力な AI アシスタントが形成できると同社は述べる。
+
+Visual Studio エディターと Visual Studio Code エディターの両方でサポートされ、GitHub Copilot for Individual ユーザーには同社より電子メールが送られ、次のステップを案内予定。まだベータ プログラムに参加しておらず、新たに開始したい場合は、電子メール通知にリンクされている包括的なスタート ガイドを参照してほしいとのこと。
+
+:::box
+
+:::</description><pubDate>Mon, 25 Sep 2023 06:55:02 +0000</pubDate></item><item><title>イーロン・マスク氏のNeuralink、四肢麻痺患者を対象に脳インプラント臨床試験</title><link>https://ledge.ai/articles/neuralink_bci</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -262,27 +278,7 @@ VTuber文化が浸透してきた今、人間ではなくキャラクターを�
 :::box
 
 :::
-</description><pubDate>Thu, 21 Sep 2023 07:08:05 +0000</pubDate></item><item><title>口頭指示だけでスーパーや倉庫の作業こなす「Jacobi.ai」中国スタートアップにIT大手が出資
-</title><link>https://ledge.ai/articles/jacobi_ai_j_mind</link><description>:::small
-画像出典：Jacobi.ai
-:::
-
-
-中国のAIスタートアップ「雅可比機器人（Jacobi.ai）」がシードラウンドで資金調達を実施した。2023年9月12日に{target=“_blank”}が報じた。資金調達は設立からわずか4か月で行われ、中国IT大手バイドゥの元最高執行責任者（COO）やYコンビネーター中国の最高経営責任者（CEO）陸奇氏も出資している。
-
-同社は人の脳の学習方法を模倣するAI技術に特化している。「エンボディドAI（身体性を持つAI）」ソリューションを開発済みで、スーパーマーケットでの商品の仕分けや品出しなどのタスクが口頭指示で可能だ。
-
-「J-Mind」という技術で、大規模言語モデル（LLM）とマシンビジョンを組み合わせ、ロボットが自律的にタスクを実行する。製品デモによれば、従業員の口頭指示により「J-Mind」がタスクを推理・細分化し、ロボットがそれを実行。効率的に陳列状態を確認し、商品補充と整理を自動で行う。
-
-同社のコアメンバーの多くは米国カーネギーメロン大学ロボット工学研究所出身で、AIやロボット開発の豊富な実践経験がある。創業者でCEOの邱迪聡氏は、米航空宇宙局（NASA）の火星探査車開発やレベル4自動運転技術の開発に携わった経験があり、共同創業者の梁俊衛氏も米国Googleと中国テンセントで働いた経歴がある。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 22 Sep 2023 06:41:46 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Thu, 21 Sep 2023 07:08:05 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
