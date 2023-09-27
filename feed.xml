@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>GitHub 全個人向けユーザーに無償で提供「GitHub Copilot Chat」ベータ版提供</title><link>https://ledge.ai/articles/github_copilot_chat_for_individual</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>生成AI搭載 Alexaデモ公開「Alexa, お喋りしよう」と話しかけるだけで自然なアシストーー米Amazon</title><link>https://ledge.ai/articles/amazon_generative_ai_on_alexa</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Amazon.comは現地時刻の2023年9月20日、最新機器と機能の発表で、AIアシスタント「Amazon Echo」シリーズに、新たに生成AIを搭載した「Alexa」の新機能の{target=“_blank”}を行った。
+
+生成AIを搭載しアップグレードした Alexaは、音声対話用に最適化された新しい大規模な言語モデル（Alexa LLM）を基盤に持ち、リアルタイム情報の取得、効率的なスマート ホーム制御、ホーム エンターテイメントの最大化などの機能に特化するという。
+
+米国では、すでに所有している Echoデバイスに「Alexa, let’s chat（アレクサ、おしゃべりしよう）」と話しかけることで、生成 AI 機能の一部をプレビューできるようになるとのこと。Alexaの推論、ユーザー意図の推測、複雑なリクエストの理解能力の向上が体験できるという。
+
+新しいAlexa LLM を使用すると、Alexaが複数のスマートホームリクエストを同時に処理できるようになる。指示が特定のデバイス名や場所と一致しない場合に、ユーザーの意図を推測することもできる。例えば「アレクサ、ここは明るすぎる」とユーザーが言うと、Alexaが照明を暗くするなど、曖昧な指示から意図を汲み取るという。
+@
+:::small
+画像の出典：["Alexa, let's chat." | Experience new Alexa capabilities]https://youtu.be/UqS3NxJ2L_I?feature=shared){target=“_blank”}
+:::
+
+今後順次リリース予定の新機能を{target=“_blank”}からも確認できる。日本国内ユーザー向けのサービスは未定。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 25 Sep 2023 07:18:31 +0000</pubDate></item><item><title>GitHub 全個人向けユーザーに無償で提供「GitHub Copilot Chat」ベータ版提供</title><link>https://ledge.ai/articles/github_copilot_chat_for_individual</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -259,26 +282,7 @@ Microsoftの会長兼最高経営責任者（CEO）サティア・ナデラ氏�
 :::box
 
 :::
-</description><pubDate>Fri, 22 Sep 2023 06:53:26 +0000</pubDate></item><item><title>VTuberも自動化か AIキャスターが24時間ニュースをかわいく読み上げる「ライブドアニュース24」</title><link>https://ledge.ai/articles/ai_caster_livedoornews24</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ライブドアは2023年9月13日、AIによる24時間ニュース配信サービス「ライブドアニュース24」β版のリリースをしたことを{target=“_blank”}した。
-
-この配信サービスは、ライブドアニュースの記事を元に、ChatGPTや自動音声などを活用したAIキャラクターが24時間ニュースを読み上げる。配信元各社の許諾のあるニュース記事をピックアップし、原稿の作成から音声による読み上げ、動画配信までの一連の流れを自動で行う。β版では「速見」というAIキャラクターがキャスターを務める。
-
-VTuber文化が浸透してきた今、人間ではなくキャラクターを用いることで、デジタルネイティブ世代やテクノロジーに関心を持つ新たなユーザー層へアプローチすると同社は述べる。
-@
-
-β版の提供開始は9月14日、正式なリリースは2023年12月を予定しているという。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 21 Sep 2023 07:08:05 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:53:26 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
