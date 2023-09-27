@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>生成AI搭載 Alexaデモ公開「Alexa, お喋りしよう」と話しかけるだけで自然なアシストーー米Amazon</title><link>https://ledge.ai/articles/amazon_generative_ai_on_alexa</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>AI活用「脳の健康チェックplus」有償トライアルを開始、NTTコミュニケーションズ</title><link>https://ledge.ai/articles/cognitive_function_ai_ntt</link><description>:::small
+画像出典：NTTコミュニケーションズ
+:::
+
+
+NTTコミュニケーションズは2023年9月21日、AIにより早期に認知機能の低下状態を確認できる{target=“_blank”}の有償トライアルを開始した。「認知症で不安になる本人・家族・企業が少なくなる社会へ」をコンセプトに開発。今後は法人向けに展開する予定で、有償トライアル期間中は個人も利用できる。
+
+高齢化が進むなか、認知症が一大社会問題となっている。2025年には高齢者の5人に1人、国民の17人に1人が認知症になると予測されており、予防や発症後のケアなどへの意識が高まっている。認知症の予備群として軽度認知障害(MCI：Mild Cognitive Impairment)があり、MCIの状態を早期に発見し適切な対応や行動変容を促すことが重要だ。
+
+このサービスは、日本テクトシステムズ株式会社と共同開発した認知機能みまもりAI「M-KENSA」を使用。回答発話中の沈黙や声の高さ、時間見当識、即時記憶やワーキングメモリなどをチェックし、詳細な5段階で認知機能の状態を判断する。サービスの利用には携帯電話からは約180円、固定電話からは約60円の利用料がかかる。
+
+なおこのサービスは医療行為ではなく、認知機能の状態を確認するものだ。利用は1か月に1回程度を推奨する。連携予定のパートナー企業や自治体には、AI機能以外にも専用番号、履歴管理機能、SMS機能などが提供される。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 25 Sep 2023 06:11:56 +0000</pubDate></item><item><title>生成AI搭載 Alexaデモ公開「Alexa, お喋りしよう」と話しかけるだけで自然なアシストーー米Amazon</title><link>https://ledge.ai/articles/amazon_generative_ai_on_alexa</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -260,29 +280,7 @@ Microsoftの会長兼最高経営責任者（CEO）サティア・ナデラ氏�
 :::
 :::box
 
-:::</description><pubDate>Fri, 22 Sep 2023 06:35:04 +0000</pubDate></item><item><title>日立CEO小島氏、生成AIを中心にしたイノベーション戦略を明らかに</title><link>https://ledge.ai/articles/hitachi_ai_inovation</link><description>:::small
-画像出典：日立製作所
-:::
-
-日立製作所が2023年9月20日と21日に{target=“_blank”}を東京ビッグサイトで開催した。
-
-執行役社長で最高経営責任者（CEO）小島啓二氏が登壇し「日立がめざすイノベーションの未来 ～AI新時代の持続的経済成長～」と題して講演をおこなった。
-
-小島氏はライト兄弟の有人動力飛行の成功を例とし、イノベーションは「行動」「情報」「科学」の3つの要素が組み合わさることで生まれると説明。
-
-同社は生成AIを自社だけでなく、顧客企業の潜在力を引き出すためにも積極的に活用する方針だ。
-
-生成AIを使う事例として、鉄道会社が新しい路線を設計する際に、住民のニーズや他国の事例を素早く調査・整理し、効率的な事業計画を作成するというケースを紹介。
-
-同氏は「生成AIは企業がもつ情報を整理し、圧倒的な速度と情報量でアイデアを提案してくれる。その上で人間は今まで以上に責任をもって判断を下さなければならない」と述べた。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 22 Sep 2023 06:53:26 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Fri, 22 Sep 2023 06:35:04 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
