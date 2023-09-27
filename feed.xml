@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>Amazon、Anthropicと戦略的提携 最大40億ドル投資ーーAWSで生成AI開発</title><link>https://ledge.ai/articles/anthropic_strategic_collaboration_for_generative_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>イーロン・マスク氏のNeuralink、四肢麻痺患者を対象に脳インプラント臨床試験</title><link>https://ledge.ai/articles/neuralink_bci</link><description>:::small
+画像出典：写真AC
+:::
+
+
+米国Neuralinkは2023年9月19日（現地時間）、同社の脳埋め込み型ワイヤレス・ブレイン・コンピューター・インターフェース（BCI）と手術用ロボットについて、人間を対象とした{target=“_blank”}を開始すると明らかにした。
+
+同社が開発中のBCIは、脳の運動の意図を制御する領域にインプラントを装着し、人が考えた動きに応じて外部デバイスを操作する。インプラントが脳の信号を専用アプリに送信し、そのアプリが信号を解読して人間が望む動作に繋げる仕組みだ。インプラントの装着は手術ロボットが行い、装着後には外部からは見えなくなる。通信はワイヤレスで行う。
+
+初期の目標は、人々が思考だけでコンピュータのカーソルやキーボードを制御できるようにすることだ。臨床試験の対象は頸髄損傷や筋萎縮性側索硬化症（ALS）による四肢麻痺の患者で、参加には{target=“_blank”}からの患者登録が必要。
+
+!
+
+
+:::small
+画像出典：X（）
+:::
+
+
+Neuralinkはイーロン・マスク氏などが共同で設立した企業。マスク氏は将来的に全身の運動機能を回復できる可能性について触れ「スティーブン・ホーキング博士がこの技術を持っていたら」とコメントしている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Mon, 25 Sep 2023 09:33:25 +0000</pubDate></item><item><title>Googleレンズを使って画像と文章で質問・回答も画像付き「Bard」アップデート日本語対応</title><link>https://ledge.ai/articles/google_bard_update</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+米国Googleは2023年9月19日、対話型AI（チャットボット）「Bard」を高性能なモデルにアップデートしたと{target=“_blank”}した。
+
+Bardは「PaLM 2」という大規模言語モデル（LLM）を使用しており、これをアップデートすることで今まで英語でのみ提供していた機能が日本語を含む40 以上の言語および地域に拡大する。 Google レンズで画像をアップロードして問う機能や、画像を入れた回答をもらう機能、Bard の回答を調整する機能など。これらはGoogleユーザーに無料で提供される。
+
+さらに、英語のみに対応するアップデートとして、BardをGoogleのアプリケーションやサービスと統合する。また「Googleで検索」機能を改善し、Bardが生成した回答をそのままWebで検索し、内容をダブルチェックできるようにした。
+
+
+## Google レンズを使って質問する
+画像での質問に文章を組み合わせて問いかけられる。5月10日に開催した年次開発者会議「Google I/O」では、英語対応のみで発表していたが、今後は日本語でも利用可能。
+!
+:::small
+例：文字のメッセージと画像データを組み合わせて質問できる。
+:::
+
+## Bard から画像を添えた回答を得る
+回答に画像が含まれることで、より視覚的にわかりやすい回答が得られる。
+!
+:::small
+例：画像を添えた回答を得る
+:::
+
+## Bard の回答を自分好みに調整
+Bardからの回答が気に入らないときは、長さや口調を 5 つのオプション（短くする、長くする、シンプル、カジュアル、または専門的な表現にする）で変更可能。
+!
+:::small
+例：Bardの口調や回答の長さを調整する
+:::
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 26 Sep 2023 02:15:09 +0000</pubDate></item><item><title>Amazon、Anthropicと戦略的提携 最大40億ドル投資ーーAWSで生成AI開発</title><link>https://ledge.ai/articles/anthropic_strategic_collaboration_for_generative_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -214,42 +282,7 @@ VTuber文化が浸透してきた今、人間ではなくキャラクターを�
 :::box
 
 :::
-</description><pubDate>Fri, 22 Sep 2023 06:41:46 +0000</pubDate></item><item><title>阪急電鉄の各駅にAI翻訳機「ポケトークS」配備 インバウンド対応強化へ</title><link>https://ledge.ai/articles/hankyu_poketalks</link><description>:::small
-画像出典：写真AC
-:::
-
-
-ポケトークは2023年9月15日、AI通訳機「ポケトークS」を阪急電鉄の運営する全87駅（天神橋筋六丁目駅を除く）に導入したと{target=“_blank”}した。全駅の改札口、定期券発売所、お忘れ物センターなどで利用できる。
-
-阪急電鉄は大阪梅田を中心に、神戸・宝塚・京都を結ぶ鉄道会社だ。通勤・通学の利用者に加え、沿線には観光スポットも多数あり、年間輸送人員は5億人以上。インバウンド旅客の増加を受け、各駅で「言葉の壁」をなくすサービスの導入となった。
-
-ポケトークは互いの言葉を話せない人同士が、自国語のままで対話できるAI通訳機だ。74言語を音声・テキストに翻訳し、11言語をテキストのみに翻訳できる。今回の導入で、対面の多言語コミュニケーションを円滑にし、海外客の日本滞在を充実させることを目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 21 Sep 2023 02:47:59 +0000</pubDate></item><item><title>AIチャットボットは “稼げるサービス” か ChatGPT競合「Claude.ai」に有料版 月20ドルで利用量5倍 </title><link>https://ledge.ai/articles/anthoropic_claude_pro</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Anthropicは2023年9月7日、AIチャットボット「Claude.ai」の有料版「Claude Pro」の開始を{target=“_blank”}した。
-
-Claude Proは現在、米国（月額20ドル）英国（月額18ポンド）でのみ利用可能。加入者は最新の大規模言語モデル（LLM）「Claude 2」を無料版の5倍使用でき、様々なタスクの生産性向上を図れるという。Claude 2は7月より提供開始され、従来のLLM「Claude」より長いコンテキストウィンドウへの対応が特徴となっている。
-
-Claude Proの特典としてはほかに混雑時のClaude.aiへの優先アクセス、新機能への早期アクセスなどが提供される。
-
-Claude.aiの競合であるOpenAIの「ChatGPT」もすでに2月に月額20ドルの有料版「ChatGPT Plus」を導入している。もっぱら個人が対象と見られるこうしたサブスクリプション（定額課金）サービスが、AI開発企業にとって主要な収益源となりうるかは議論があるが、今回のAnthropicの動きは一定の期待を示すものといえる。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 21 Sep 2023 04:17:40 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:41:46 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
