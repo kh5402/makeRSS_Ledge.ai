@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Sep 2023 06:15:37 +0000</lastBuildDate><item><title>「Oracle CloudWorld 2023」エンタープライズ向け生成AIサービスを発表</title><link>https://ledge.ai/articles/oracle_cloud_world</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Sep 2023 05:10:10 +0000</lastBuildDate><item><title>生成AIベンチャーのオルツが19億円の資金調達実施、累計80億円突破
+</title><link>https://ledge.ai/articles/alt_funding</link><description>:::small
+画像出典：オルツ
+:::
+
+
+オルツは2023年9月19日、累計資金調達額が総額80億円を突破したことを{target=“_blank”}した。今回の資金調達金額は約19億円。
+
+引受先は近鉄ベンチャーパートナーズ、ヒューリックスタートアップ1号投資事業有限責任組合、UB Ventures、キーエンス、AGキャピタルなどだ。調達の背景には、2022年末から生成AI分野に注目が集中していることがある。
+
+同社は社会実装とビジネス実装を重視し、 事業会社との連携、LLM開発を含むAI技術基盤への投資、プロダクト開発、人材確保、セールス&amp;マーケティング強化などを目的に調達を行った。投資家らは同社の「非生産的労働からの解放」に共感している。
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Thu, 28 Sep 2023 05:10:10 +0000</pubDate></item><item><title>「Oracle CloudWorld 2023」エンタープライズ向け生成AIサービスを発表</title><link>https://ledge.ai/articles/oracle_cloud_world</link><description>:::small
 画像出典：Oracle CloudWorld
 :::
 
@@ -232,29 +253,7 @@ Intelは開発コードネーム「Pike Creak」と呼ばれるチップを公�
 
 :::
 
-</description><pubDate>Mon, 25 Sep 2023 06:08:55 +0000</pubDate></item><item><title>松尾研発AIスタートアップELYZA ✕ JR西日本コンタクトセンター 通話要約業務に言語生成AI導入</title><link>https://ledge.ai/articles/elyza_jwcr</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ELYZAは2023年9月21日、JR西日本カスタマーリレーションズ（JWCR）との実証実験に成功し、通話要約業務に言語生成AIを導入したことを{target=“_blank”}した。
-
-ELYZAは東京大学松尾研究室発のAIスタートアップの株式会社で、言語生成AIの社会実装を進めている。JR西日本お客様センターを運営するJWCRとの共同プロジェクトとして、顧客対応業務の品質向上・業務負荷削減を目指し、システム及び業務フローのあり方を言語生成AI起点で一から見直すLLM DXのプロジェクトを2022年より実施していた。2023年3月にはメール問い合わせの内容要約業務において言語生成AIの活用を開始している。
-
-5月から8月にかけて通話内容要約業務における実証実験を実施し、現場活用にたる生成精度・業務短縮効果が確認されたため、実業務での言語生成AI活用を開始。本業務の言語生成AIは、基盤にGPTシリーズを援用。コンタクトセンターとして言語生成AIを導入・活用するのは、国内でも稀少な事例だという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 26 Sep 2023 01:37:19 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Mon, 25 Sep 2023 06:08:55 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
