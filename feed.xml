@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Sep 2023 06:15:37 +0000</lastBuildDate><item><title>中国研究者ら開発「Xwin-LM」公開 GPT-4を追い抜く成績</title><link>https://ledge.ai/articles/xwin_lm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Sep 2023 06:15:37 +0000</lastBuildDate><item><title>「Oracle CloudWorld 2023」エンタープライズ向け生成AIサービスを発表</title><link>https://ledge.ai/articles/oracle_cloud_world</link><description>:::small
+画像出典：Oracle CloudWorld
+:::
+
+
+オラクルの年次カンファレンス{target=“_blank”}が2023年9月19日（米国時間）、米国ラスベガスで開幕した。「Oracle Cloud Infrastructure（OCI）」は、エンタープライズ向けの生成AIサービス「OCI Generative AIサービス」（ベータ版、限定提供開始）を発表した。
+
+オラクル会長兼最高技術責任者（CTO）のラリー・エリソン氏は基調講演で、OCIの“スーパークラスタ”が生成AIモデルのトレーニングにおいて優れていることを強調した。最大1万6000個のGPUを、200GbpsのRDMAネットワークで接続する。
+
+「OCI Generative AIサービス」は、エンタープライズ向けの生成AI/LLMサービスだ。Cohereとの連携でPaaSとして利用でき、ユーザーが開発するアプリケーションに生成AI機能を組み込むことが可能だ。また同社が提供するSaaSアプリケーション「Oracle Fusion Cloud Applications Suite」「Oracle NetSuite」「Oracle Cerner」などが生成AI機能を提供する際の基盤にもなる。
+
+同サービスはテキスト生成、テキスト要約、チャット、RAGなどのユースケースに対応。事前学習済みモデルはCohereが開発する。
+
+提供されるベースモデルはファインチューニングが可能で、自社独自のカスタムモデルを構築できる。また、エンタープライズデータのセキュリティやプライバシーは保護される。
+
+現時点ではOCI Generative AIサービスはベータ版で、利用料金や提供するリージョンなどは不明。一般提供開始時期について、同社はもうすぐとしている。
+
+
+:::box
+
+:::
+</description><pubDate>Tue, 26 Sep 2023 05:56:37 +0000</pubDate></item><item><title>中国研究者ら開発「Xwin-LM」公開 GPT-4を追い抜く成績</title><link>https://ledge.ai/articles/xwin_lm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -233,27 +254,7 @@ ELYZAは東京大学松尾研究室発のAIスタートアップの株式会社�
 :::box
 
 :::
-</description><pubDate>Tue, 26 Sep 2023 01:37:19 +0000</pubDate></item><item><title>宇宙クラウド「Azure Space」AIで衛星データ分析 企業が高速で利用可能に 防衛・環境用途</title><link>https://ledge.ai/articles/azure_space_and_the_partners</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Microsoftは2023年9月11日、宇宙から収集したデータを利用できるクラウドサービス「Azure Space」について新{target=“_blank”}を行った。人工衛星などで観測した地球の画像をAIで分析し、アプリケーション・プログラミング・インターフェイス（API）を通じ外部企業のアプリケーションが高速で呼び出せるようにした。
-
-Azure Spaceの一部として今回、地球の大気や地形などのデータを集めた{target=“_blank”}が加わった。地理情報システム（GIS）のESRIや、8月に戦略的パートナーシップを{target=“_blank”}した画像分析AIのSynthetaicとの協力によるもの。
-
-環境保護や科学研究から防衛など幅広い用途に活かせる。ESRIのGIS「ArcGIS」、Synthetaicの画像認識AI「RAIC」を導入することで膨大なデータの呼び出しを高速化した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 22 Sep 2023 06:54:22 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Tue, 26 Sep 2023 01:37:19 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
