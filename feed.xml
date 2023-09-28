@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Sep 2023 07:16:24 +0000</lastBuildDate><item><title>AI活用「脳の健康チェックplus」有償トライアルを開始、NTTコミュニケーションズ</title><link>https://ledge.ai/articles/cognitive_function_ai_ntt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Sep 2023 06:15:37 +0000</lastBuildDate><item><title>中国研究者ら開発「Xwin-LM」公開 GPT-4を追い抜く成績</title><link>https://ledge.ai/articles/xwin_lm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年9月、AIプラットフォーム「HuggingFace」で、米国OpenAI「GPT-4」を上回る性能を謳うAI「Xwin-LM」が{target=“_blank”}されている。言語モデルのベンチマークサイト「AlpacaEval」で1位を獲得した。GPT-4は2位。中国科学院や清華大学の博士課程の研究者らが開発したもので、開発者名は明記されていない。
+
+Xwin-LMは米国MetaのAI「 Llama2」ベースモデルに基づいて、教師ありファインチューニング、報酬モデル、リジェクトサンプリング、強化学習などを使って調整したという。
+
+パラメータ数は70億、130億、700億の3つのモデルがある。「Xwin-LM-70B-V0.1」（700億）は、AlpacaEvalの評価基準である「Text-Davinci-003」（GPT-3のモデルの一つ）に対する勝率で95.57％を記録。勝率95.28％のGPT-4を追い抜いたとしている。また、GPT-4 に対する勝率が60.61%であることにも注目してほしいとのこと。
+!
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 27 Sep 2023 06:15:37 +0000</pubDate></item><item><title>SAPジャパンが国内AIエコシステムを展開、日本マイクロソフトなど主要パートナーとの連携強化</title><link>https://ledge.ai/articles/sapjapan_partner_ecosystem</link><description>:::small
+画像出典：写真AC
+:::
+
+
+SAPジャパンは2023年9月19日、AI分野でのパートナーエコシステムの構築を国内に展開すると{target=“_blank”}した。進化するAI技術を背景に、国内のビジネスプロセス革新をさらに支援する目的がある。日本マイクロソフト、日本アイ・ビー・エム、グーグル・クラウド・ジャパン、DataRobot Japanなどのパートナー企業が協力を表明している。
+
+この取り組みは「SAP® Business AI」と、高水準のテクノロジーを持つパートナーとの連携が核となる。日本のビジネスにおけるAI活用状況は一部に遅れがあることをふまえ、同社はビジネスのためのAIを提供する。
+
+SAP Business AIは、業界固有のデータとビジネスプロセスの知識を使用。今後は生成AIや大規模言語モデルも取り入れ、ユーザーエクスペリエンスの向上に注力する。たとえば在庫管理、需要の予測、人事採用業務の文書作成などの領域での支援を目指す。
+
+
+:::box
+
+:::
+
+</description><pubDate>Tue, 26 Sep 2023 05:53:12 +0000</pubDate></item><item><title>AI活用「脳の健康チェックplus」有償トライアルを開始、NTTコミュニケーションズ</title><link>https://ledge.ai/articles/cognitive_function_ai_ntt</link><description>:::small
 画像出典：NTTコミュニケーションズ
 :::
 
@@ -222,65 +253,7 @@ Azure Spaceの一部として今回、地球の大気や地形などのデータ
 :::
 :::box
 
-:::</description><pubDate>Fri, 22 Sep 2023 06:54:22 +0000</pubDate></item><item><title>YouTube、AI搭載の動画制作ツール発表</title><link>https://ledge.ai/articles/made_on_youtube</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Google子会社YouTubeは現地時刻の2023年9月21日、ニューヨークで行われたクリエイター向けのイベント「Made on Youtube」で、AIが動画や背景を生成する「Dream Screen」や、モバイルアプリ「YouTube Create」など、AIを搭載した制作ツールのリリースを{target=“_blank”}した。日本での導入は未定。
-
-!
-:::small
-画像出典{target=“_blank”}
-:::
-
-**「Dream Screen」**
-アイディアを入力することで、AI が生成した動画や画像の背景をショート動画に追加できる新機能。まずは一部のクリエイターを対象に導入し、2024年より提供範囲を拡大予定（英語のみで日本での導入時期は未定）
-!
-:::small
-画像出典：{target=“_blank”}
-:::
-
-**モバイルアプリ「YouTube Create」
-**現在、Android 向けベータ版として一部の地域（日本は対象外）で提供されている 無料アプリケーション{target=“_blank”} が、すべてモバイル デバイスから利用可能となる。
-自動字幕起こしやナレーション機能が用意されているほか、各種フィルタ、エフェクト、切り替え効果や、ビートマッチング対応のロイヤリティフリーの音楽も利用できるなど、ショート動画や長尺動画の制作プロセスを簡素化する。
-
-**「AI Insightts」**
-・AI を活用したインサイトが得られる。各チャンネルごとにパーソナライズされ、視聴者がクリエイターのチャンネルおよび、YouTube で視聴しているコンテンツに基づいて提供される。
-
-・ AI 搭載の自動吹き替えツール、「Aloud」を YouTube に導入する。（日本の導入時期は未定）
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 25 Sep 2023 06:49:53 +0000</pubDate></item><item><title>Windows11に生成AIを統合「Microsoft Copilot」9月から導入開始</title><link>https://ledge.ai/articles/microsoft_your_everyday_ai_copilot</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Microsoftは現地時刻2023年9月21日、ニューヨークで開かれた秋の新製品イベントで、9月26日リリース予定のWindows11アップデートに伴う新たなAI戦略を{target=“_blank”}した。
-
-このアップデートによりWindows11のOSそのものに「Your everyday AI companion（あなたの日常をサポートするAI）」と銘打った「Microsoft Copilot」が組み込まれ、メールやカレンダーなどWindows内のあらゆるアプリケーションをCopilotが行き来して、ユーザーの要望に応えるという。CopilotはWindows11、Microsoft 365、EdgeとBingを統合したWebブラウザ内でも利用可能だ。
-
-Copilotは、長いメールの文章を要約したり、遅れて参加したWeb会議の流れをまとめて文字で伝えたり、画像の背景を取り除いたりなど、ユーザーがPCで行っている作業に合わせて最適な支援を提供する。アプリケーションとして動作するほか、必要に応じてマウスの右クリックで呼び出すこともでき、ユーザーからの文章の指示に応答する。
-
-@
-出典：#MicrosoftEvent in less than 2 minutes | September 21, 2023
-
-このアップデートには150以上の新機能が含まれており、PaintやPhotos、ClipchampなどのアプリケーションにもAIが導入される。注目すべきは、BingがOpenAIの最新モデルDALL-E 3をサポートしている点だ。
-
-@
-出典：Bing | Image Creator with DALL-E 3
-
-Microsoftの会長兼最高経営責任者（CEO）サティア・ナデラ氏が基調講演で「Copilotが我々とテクノロジーとの関係を根本的に変革する時代の到来を告げる」と述べた。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 22 Sep 2023 06:35:04 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Fri, 22 Sep 2023 06:54:22 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
