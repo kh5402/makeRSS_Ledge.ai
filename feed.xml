@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Sep 2023 07:29:34 +0000</lastBuildDate><item><title>【AI TALK NIGHT】国内最大級AIメディアが主催するビジネス交流会×トークセッション｜vol.18</title><link>https://ledge.ai/articles/ai-talk-night-vol18</link><description>「AI TALK NIGHT」第18回開催のお知らせです。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Sep 2023 07:29:34 +0000</lastBuildDate><item><title>「1位はChatGPT」マーケティングへの生成AI活用の実態、Macbee Planet調査</title><link>https://ledge.ai/articles/macbee_planet_reserch</link><description>:::small
+画像出典：Macbee Planet
+:::
+
+Macbee Planetが2023年9月20日、業務に「生成AI」を活用しているマーケティング担当者を対象とした生成AI活用の実態調査を実施したと{target=“_blank”}した。担当者らが「業務の効率化」「クリエイティブな提案の補助」などのメリットを実感していることが明らかになった。
+
+!
+
+
+生成AIの活用のきっかけに対する質問への回答は、「業務の効率化のため」が39.6%、「無料の生成AIが登場したため」が23.6%、「人員コスト削減のため」が8.5%という結果となった。
+
+!
+
+業務で使用している生成AIツールは、1位が「ChatGPT」で65.1%、2位は「Bard」の26.4%、3位が「BingAI」の22.6%だった。
+
+!
+
+マーケティングに「生成AI」を活用するメリットについては、「業務の効率化」が63.2%、「クリエイティブな提案の補助」が48.1%、「コストの削減」が34.9%という回答があった。
+
+!
+
+マーケティングにおける「生成AI」を活用するまでのハードルについての問いには、「情報の正確性が保証されていない」が53.8%、「リスクマネジメントが困難」が34.0%、「品質が不安定」が29.2%、「法整備が進んでいない」が29.2%という回答があった。
+
+!
+
+マーケティングで「生成AI」を活用している／したい場面についての質問には、「市場分析」が53.8%、「企画書・プレゼン資料の作成」が46.2%、「議事録の要約・添削」が36.8%という結果となった。
+
+今回の調査は2023年9月4日〜5日に、業務に生成AIを活用しているマーケティング担当者106名を対象に行ったもの。
+
+情報の出典元：株式会社Macbee Planet
+{target=“_blank”}
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Wed, 27 Sep 2023 06:29:33 +0000</pubDate></item><item><title>OpenAIが専門家ネットワーク「レッドチーム」結成</title><link>https://ledge.ai/articles/openai_redteam</link><description>:::small
+画像出典：OpenAI
+:::
+
+
+米国OpenAIは2023年9月19日（米国時間）、専門家で構成される「OpenAI Red Teaming Network」を立ち上げると{target=“_blank”}した。専門家からリスク評価や緩和戦略に必要な知見の提供を受け、より安全性の高いモデルを展開する。
+
+レッドチームは、新しい技術のテストや安全確保のための重要なプロセスだ。GoogleやMicrosoftなども、AIモデル専用のレッドチームを持っている。OpenAIの今回の取り組みは大規模なモデル展開前の一時的なものではなく、製品の開発サイクル全体を通じた正式なプロセスだ。
+
+Red Teaming Networkの結成では、教育、経済、法律など多岐にわたる専門家を募集している。AIや言語モデルの経験は問わず、メンバーには報酬が支払われ、秘密保持契約（NDA）を適用する。
+
+メンバーが関与するプロジェクトは限定的で、年5～10時間の参加も可能。応募は{target=“_blank”}から可能だ。2023年 12月1日まで応募できる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 27 Sep 2023 05:47:06 +0000</pubDate></item><item><title>【AI TALK NIGHT】国内最大級AIメディアが主催するビジネス交流会×トークセッション｜vol.18</title><link>https://ledge.ai/articles/ai-talk-night-vol18</link><description>「AI TALK NIGHT」第18回開催のお知らせです。
 レッジが主催する、他業界の方と交流できる無料のオフラインイベントです。是非お気軽にご参加ください。
 
 :::button
@@ -282,39 +343,7 @@ Bardからの回答が気に入らないときは、長さや口調を 5 つの�
 :::
 :::box
 
-:::</description><pubDate>Tue, 26 Sep 2023 02:15:09 +0000</pubDate></item><item><title>Amazon、Anthropicと戦略的提携 最大40億ドル投資ーーAWSで生成AI開発</title><link>https://ledge.ai/articles/anthropic_strategic_collaboration_for_generative_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Amazon.comは2023年9月25日、生成AIの進展のためにAnthropicとの戦略的提携を{target=“_blank”}した。Amazonは、Anthropicに最大40億ドルを投資し、同社の少数持分所有権を保持する。
-
-Anthropicは、AWS TrainiumおよびInferentiaチップを使用して、未来の基盤モデルを構築、訓練、展開する。両社は将来の Trainium および Inferentia テクノロジーの開発でも協力する。また、AWSを主要なクラウドプロバイダとして選択し、安全性の研究と未来の基盤モデルの開発を含むワークロードの大部分をAWSで実行する予定だ。
-
-AWSの顧客は「Amazon Bedrock」を通じ、Anthropicの基盤モデルへアクセスできる。さらに、モデルのカスタマイズとファインチューニングのための独自の機能への早期アクセスが可能となる。これにより顧客がAmazon Bedrockを介しAnthropicモデルを構築でき、生成AI機能を自分の仕事に組み込み、既存のアプリケーションを強化できるという。
-
-Anthropicは7月、OpenAIの「ChatGPT」と競合する対話型AIのモデル「Claude」の新版「Claude 2」をリリース。9月には有料版「Claude Pro」の提供を開始している。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 26 Sep 2023 03:45:59 +0000</pubDate></item><item><title>ソニー・ドコモ 機密流出か サイバー犯罪者 “カネを払わないとEUの罰を受ける” と脅迫</title><link>https://ledge.ai/articles/sony_and_docomo_are_threatened_by_ransomed_dot_vc</link><description>ソニーグループやNTTドコモから機密情報が流出し、サイバー犯罪者がそれを種に恐喝をしかけているという噂が海外のセキュリティ関連のニュースメディアを駆け巡っている。興味深いのは取引に応じなければ欧州連合（EU）の「一般データ保護規則（GDPR）」による罰金を受けることになるとほのめかしていることだ。事実とすればAIやその基盤となるデータに関して厳しい規制を敷くEUの仕組みを悪用した手口だ。
-
-米国時間の2023年9月25日にいち早く一件を報じたセキュリティブログの「{target="_blank"}」によると恐喝をしかけたのは「Ransomed.vc」を名乗るサイバー犯罪者。9月に登場し、ダークウェブと通常のインターネットの両方を介して犯行声明を出した。「ソニーのすべてのデータ」を入手したが、ソニーが対価を支払うつもりがないため第三者に販売するとうたっているという。
-
-
-証拠としてソニーグループの内部システムのログイン画面のスクリーンショット、プレゼンテーションアプリケーション「PowwerPoint」向け資料、プログラミング言語「Java」で記述したファイル、などと称するものを列挙している。Cybersecurity Connectは「ソニーのすべてのデータ」にしては量が少ないと、Ransomed.vcの主張の信憑性に保留をつけている。ただソニーグループは傘下企業を含め幾度もサイバー犯罪の標的となり、被害を出したこともあるだけに、はったりとも言い切れない。日本時間の9月26日時点ではソニーグループの公式サイトは真偽についての発表はない。
-
-標的がソニーだけにゲームメディアもこの話題を取り上げている。「{target="_blank"}」よるとRansomed.vcは複数人で構成する組織。参加者はいままさに戦争のさなかにあるロシアとウクライナの出身だという。
-
-またテクノロジーメディアの「{target="_blank"}」などによると、今回の標的はソニーだけでなくNTTドコモを含む厖大な数の企業だ。なおRansomed.vcの風変わりな面は、世界でも特に厳しいデータ保護基準を企業に求めるGDPRを尊重していると主張しているところだ。
-
-もし被害企業から支払いが受け取れなかった場合、GDPR違反をEUのしかるべき機関に報告するのだという。SiliconANGLEを含む複数のメディアは、被害企業がGDPR違反による多額の罰金への恐怖から、より安い金額であればサイバー犯罪者に支払ってもよいと思わせる狙いだと推測している。
-
-:::box
-
-:::</description><pubDate>Tue, 26 Sep 2023 07:16:24 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+:::</description><pubDate>Tue, 26 Sep 2023 02:15:09 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
