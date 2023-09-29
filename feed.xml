@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Sep 2023 07:29:34 +0000</lastBuildDate><item><title>「1位はChatGPT」マーケティングへの生成AI活用の実態、Macbee Planet調査</title><link>https://ledge.ai/articles/macbee_planet_reserch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Sep 2023 07:29:34 +0000</lastBuildDate><item><title>ビジネスでのAI活用を最大化、デロイト トーマツとDataikuが統合プラットフォームの導入支援</title><link>https://ledge.ai/articles/deloitte_dataiku</link><description>:::small
+画像出典：写真AC
+:::
+
+
+デロイト トーマツは2023年9月22日、Dataiku Japanと協業し、顧客企業に対して機械学習（ML）モデルの運用を管理する統合データサイエンスプラットフォーム「Dataiku」の導入を支援すると{target=“_blank”}した。この協業により、顧客企業のAIおよびMLOps（機械学習の開発・運用サイクル）を組織全体に取り入れ、ビジネスでの活用を最大化する。
+
+AIの実用化において、PoCから本番運用にスムーズに移行すること、ビジネス環境の変化に対応する機械学習モデルのアップデートが課題として挙げられる。この解決にはビジネス部門のステークホルダー、技術領域が異なるデータサイエンティスト、インフラエンジニアなど、さまざまな人たちの間での密接な関わりが必要だ。Dataikuのプラットフォームはデータのサイロ化を回避し、一連のデータパイプラインのサイクルを統制するMLOps機能を持つ。
+
+この協業においてデロイト トーマツは、Dataikuの導入支援、データ分析基盤の構築、AI技術の本番活用、MLOpsの取り入れ、AI人材の育成などのアドバイザリーサービスなどを提供。またDataikuは、対話型生成AIの一元化された取り込み、モデル開発や仕組みの提供、リアルタイムなダッシュボード化、双方向のWebアプリ開発などの仕組みを提供する。
+
+
+:::box
+
+:::
+
+</description><pubDate>Wed, 27 Sep 2023 05:52:05 +0000</pubDate></item><item><title>「1位はChatGPT」マーケティングへの生成AI活用の実態、Macbee Planet調査</title><link>https://ledge.ai/articles/macbee_planet_reserch</link><description>:::small
 画像出典：Macbee Planet
 :::
 
@@ -95,7 +111,7 @@ AIの有識者をゲストにお迎えし、ゲストのAI関連の取り組み�
 [募集要項]
 テーマ：『私の業務効率化　Before / After』
 形　　式：自由（プロジェクターがございますので、資料等ご準備いただいた場合は投影可能です）
-募集締切：2023/10/10(火)23:59
+募集締切：2023/10/10(火)
 登壇連絡：2023/10/12(木)中にご連絡いたします
 
 :::button
@@ -307,43 +323,7 @@ Neuralinkはイーロン・マスク氏などが共同で設立した企業。�
 
 
 
-</description><pubDate>Mon, 25 Sep 2023 09:33:25 +0000</pubDate></item><item><title>Googleレンズを使って画像と文章で質問・回答も画像付き「Bard」アップデート日本語対応</title><link>https://ledge.ai/articles/google_bard_update</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-米国Googleは2023年9月19日、対話型AI（チャットボット）「Bard」を高性能なモデルにアップデートしたと{target=“_blank”}した。
-
-Bardは「PaLM 2」という大規模言語モデル（LLM）を使用しており、これをアップデートすることで今まで英語でのみ提供していた機能が日本語を含む40 以上の言語および地域に拡大する。 Google レンズで画像をアップロードして問う機能や、画像を入れた回答をもらう機能、Bard の回答を調整する機能など。これらはGoogleユーザーに無料で提供される。
-
-さらに、英語のみに対応するアップデートとして、BardをGoogleのアプリケーションやサービスと統合する。また「Googleで検索」機能を改善し、Bardが生成した回答をそのままWebで検索し、内容をダブルチェックできるようにした。
-
-
-## Google レンズを使って質問する
-画像での質問に文章を組み合わせて問いかけられる。5月10日に開催した年次開発者会議「Google I/O」では、英語対応のみで発表していたが、今後は日本語でも利用可能。
-!
-:::small
-例：文字のメッセージと画像データを組み合わせて質問できる。
-:::
-
-## Bard から画像を添えた回答を得る
-回答に画像が含まれることで、より視覚的にわかりやすい回答が得られる。
-!
-:::small
-例：画像を添えた回答を得る
-:::
-
-## Bard の回答を自分好みに調整
-Bardからの回答が気に入らないときは、長さや口調を 5 つのオプション（短くする、長くする、シンプル、カジュアル、または専門的な表現にする）で変更可能。
-!
-:::small
-例：Bardの口調や回答の長さを調整する
-:::
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 26 Sep 2023 02:15:09 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
+</description><pubDate>Mon, 25 Sep 2023 09:33:25 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
 画像出典：{target=“_blank”}より
 :::
 富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
