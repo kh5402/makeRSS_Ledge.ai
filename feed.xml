@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Sep 2023 04:37:08 +0000</lastBuildDate><item><title>ビジネスでのAI活用を最大化、デロイト トーマツとDataikuが統合プラットフォームの導入支援</title><link>https://ledge.ai/articles/deloitte_dataiku</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Sep 2023 04:37:08 +0000</lastBuildDate><item><title>自動運転にLLMを組み合わせ訓練　AI ドライバーの解釈可能性が劇的に向上</title><link>https://ledge.ai/articles/wayve_lingo1</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ロンドンの自動運転スタートアップWayveは2023年9月14日、既存の自動運転ソフトウェアと大規模言語モデル（LLM）を組み合わせた自動運転用の視覚言語行動モデル（VLAM）「LINGO-1」を{target=“_blank”}した。
+
+LINGO-1は、シーンに関する質問に答え、運転操作の説明を提供するよう設計されている。これにより、モデルの解釈可能性が向上し、パフォーマンスの向上が期待される。言語記述の使用は、学習プロセスを大幅に加速し、大規模言語モデル（LLM）とビジョン言語アクションモデル（VLAM）の統合を可能にする。
+
+Wayveの専門ドライバーが運転中に解説する現実世界のデータを使用してトレーニングされているため、 LINGO-1 は運転行動の背後にある理由を説明できる。これによりAI モデルの解釈、説明、トレーニングのための新しいタイプのデータが提供されるという。
+!
+:::small
+画像出典：{target=“_blank”}VLAMの概要やその訓練について説明している。
+:::
+
+例えば下の画像のように「車の流れが遅いので、少しずつ進入していきます」「路肩に駐車してある車を追い越します」「前方の道が空いているので、今加速しています」と、LINGO-1が運転シーンについてコメントし、運転環境のどの要因が運転の決定に影響を与えたかを明確にして説明する。
+!
+:::small
+画像出典：{target=“_blank”}LINGO-1 が駐車中の車を追い越すときに実行するアクションについて説明している動画より。
+:::
+
+:::box
+
+:::</description><pubDate>Thu, 28 Sep 2023 06:36:11 +0000</pubDate></item><item><title>ビジネスでのAI活用を最大化、デロイト トーマツとDataikuが統合プラットフォームの導入支援</title><link>https://ledge.ai/articles/deloitte_dataiku</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -291,39 +313,7 @@ Visual Studio エディターと Visual Studio Code エディターの両方で�
 
 :::box
 
-:::</description><pubDate>Mon, 25 Sep 2023 06:55:02 +0000</pubDate></item><item><title>イーロン・マスク氏のNeuralink、四肢麻痺患者を対象に脳インプラント臨床試験</title><link>https://ledge.ai/articles/neuralink_bci</link><description>:::small
-画像出典：写真AC
-:::
-
-
-米国Neuralinkは2023年9月19日（現地時間）、同社の脳埋め込み型ワイヤレス・ブレイン・コンピューター・インターフェース（BCI）と手術用ロボットについて、人間を対象とした{target=“_blank”}を開始すると明らかにした。
-
-同社が開発中のBCIは、脳の運動の意図を制御する領域にインプラントを装着し、人が考えた動きに応じて外部デバイスを操作する。インプラントが脳の信号を専用アプリに送信し、そのアプリが信号を解読して人間が望む動作に繋げる仕組みだ。インプラントの装着は手術ロボットが行い、装着後には外部からは見えなくなる。通信はワイヤレスで行う。
-
-初期の目標は、人々が思考だけでコンピュータのカーソルやキーボードを制御できるようにすることだ。臨床試験の対象は頸髄損傷や筋萎縮性側索硬化症（ALS）による四肢麻痺の患者で、参加には{target=“_blank”}からの患者登録が必要。
-
-!
-
-
-:::small
-画像出典：X（）
-:::
-
-
-Neuralinkはイーロン・マスク氏などが共同で設立した企業。マスク氏は将来的に全身の運動機能を回復できる可能性について触れ「スティーブン・ホーキング博士がこの技術を持っていたら」とコメントしている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Mon, 25 Sep 2023 09:33:25 +0000</pubDate></item><item><title>Hugging Faceとは？| AI特化版GitHubを手がける成長企業
+:::</description><pubDate>Mon, 25 Sep 2023 06:55:02 +0000</pubDate></item><item><title>Hugging Faceとは？| AI特化版GitHubを手がける成長企業
 </title><link>https://ledge.ai/articles/The-Al-community</link><description>
 AIについてインターネット検索していると、Hugging FaceというWebサイトにたどり着いたことがあるはずだ。ニコっしながら手を広げている黄色い絵文字が印象的だ。
 !
