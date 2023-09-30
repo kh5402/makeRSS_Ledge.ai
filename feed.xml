@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Sep 2023 07:29:34 +0000</lastBuildDate><item><title>ビジネスでのAI活用を最大化、デロイト トーマツとDataikuが統合プラットフォームの導入支援</title><link>https://ledge.ai/articles/deloitte_dataiku</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Sep 2023 04:37:08 +0000</lastBuildDate><item><title>ビジネスでのAI活用を最大化、デロイト トーマツとDataikuが統合プラットフォームの導入支援</title><link>https://ledge.ai/articles/deloitte_dataiku</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -2448,7 +2448,22 @@ Intelligence Designでは9月5日に「すでに実施中の取り組みであ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 05 Sep 2023 09:05:23 +0000</pubDate></item><item><title>アニメ業界「生成AI規制すべき」7割超 学習データの権利問題懸念 効率化に期待も</title><link>https://ledge.ai/articles/survey_on_generative_ai_animation_industry</link><description>:::small
+:::</description><pubDate>Tue, 05 Sep 2023 09:05:23 +0000</pubDate></item><item><title>森永乳業、ChatGPTと連携「AI平野レミロイド」公開</title><link>https://ledge.ai/articles/morinaga_hiranoremi_ai</link><description>:::small
+画像出典：oricon
+:::
+
+森永乳業は「クラフト バジルフレッシュモッツァレラ」を2023年9月22日より全国で発売開始した。それに伴い、料理研究家の平野レミをモデルに開発した営業・商談ができるChatGPT連携タレントロボット「AI平野レミロイド」を披露したと{target=“_blank”}が報じた。
+
+@
+
+発表会には、平野本人とAI平野レミロイドが登場した。同社は営業や商談をロボットが行う未来を予想し、同ロボットを開発。コンセプトは「商談・販売活動ができるロボット」で、商品紹介だけでなく、リアルな顔や話し方も再現できる。
+
+:::box
+
+:::
+:::box
+
+</description><pubDate>Fri, 29 Sep 2023 04:37:08 +0000</pubDate></item><item><title>アニメ業界「生成AI規制すべき」7割超 学習データの権利問題懸念 効率化に期待も</title><link>https://ledge.ai/articles/survey_on_generative_ai_animation_industry</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2728,35 +2743,4 @@ AI lainは定期的に新しい知識を追加するほか、ChatGPTなどが採
 :::
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 04:54:32 +0000</pubDate></item><item><title>誰でもAIチャットボット作れる「altBRAIN」試してみた プログラミング知識不要 ノーコード活用</title><link>https://ledge.ai/articles/altbrain</link><description>:::small
-画像出典：オルツ
-:::
-
-オルツは2023年9月6日、独自の大規模言語モデル「LHTM-2」を組み込んだ生成AIプラットフォーム「altBRAIN」のサービスを正式に{target=“_blank”}した。さまざまな用途で特定の機能を持つAIチャットボット「BRAIN」を作成可能。プログラミングコードを記述せずにアプリケーションを開発できる「ノーコード」の仕組みを活かしている。
-
-作成できるBRAINの例として、偉人や著名人のキャラクター、ゲーム攻略、医療問診などがある。α版の段階でオルツが用意した約20種類のBRAINを無料で提供していた。
-
-今回の正式公開に合わせ無料で3つまでBRAINを作成できる「フリープラン」のほか、有料でより多くのBRAINが作成できさまざまな機能も利用できる「ライトプラン」「スタンダードプラン」「ビジネスプラン」を開始した。なお作成したBRAINはLINE、Slack、Discordなどのプラットフォームに導入可能だ。
-
-さっそく筆者もログインして、まずはBRAINに質問する側として利用してみた。マルタ島に興味があるため、日本からの直行便の有無や、乗り継ぎ国について質問した。鎌田美幸というアドバイザーが登場し、マルタ島へのアクセスについて教えてくれた。
-
-!
-:::small
-画像出典：altBRAIN
-:::
-
-次に新しいBRAINを作ってみた。「Develop」を押下し、登録を始める。「節約料理ブレイン」を作成することに決め、質問したいことやイメージ画像などの情報を入れてゆく。
-
-!
-:::small
-画像出典：altBRAIN
-:::
-
-プレビュー画面でチャットしてみると、節約料理ブレインらしく、火を使う時間が短いレシピを紹介している。テキスト情報入力画面では、一人称、身長、体重、好きなもの、嫌いなもの、人生の目標、見た目についてなどを設定できる。作成したBRAINは「Develop」を押下すると確認可能だ。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 07 Sep 2023 02:06:42 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 08 Sep 2023 04:54:32 +0000</pubDate></item></channel></rss>
