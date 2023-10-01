@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Sep 2023 04:37:08 +0000</lastBuildDate><item><title>自動運転にLLMを組み合わせ訓練　AI ドライバーの解釈可能性が劇的に向上</title><link>https://ledge.ai/articles/wayve_lingo1</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Sep 2023 06:52:57 +0000</lastBuildDate><item><title>「AIホリエモン」がアナウンサーに 北九州のFMラジオ「CROSS FM」代表取締役会長に堀江氏就任</title><link>https://ledge.ai/articles/caster_ai_horiemon_crossfm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+実業家の堀江貴文氏は2023年9月22日、北九州市の小倉城で{target=“_blank”}を行った。同氏は9月6日に北九州市のFMラジオ局「CROSS FM（クロスエフエム）」の代表権を持つ会長に就任した。経営権を取得した堀江氏らが、自身をコンテンツにした新規事業や関連番組の立ち上げを行う。会見では「電波を使った大実験」と銘打って、ラジオの可能性について触れ、地域活性のための大型集客イベントの開催などのさまざまなチャレンジについて今後の展開を語った。
+
+この日、同社と包括的業務提携契約の締結を{target=“_blank”}したINCLUSIVEとの取り組みで、堀江氏の合成音声を使った「AIホリエモン」がニュースや交通情報を読むという。
+:::small
+!
+画像出典：{target=“_blank”}より
+:::
+:::box
+
+:::</description><pubDate>Fri, 29 Sep 2023 06:52:57 +0000</pubDate></item><item><title>自動運転にLLMを組み合わせ訓練　AI ドライバーの解釈可能性が劇的に向上</title><link>https://ledge.ai/articles/wayve_lingo1</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -297,23 +310,7 @@ NTTコミュニケーションズは2023年9月21日、AIにより早期に認�
 :::
 :::box
 
-:::</description><pubDate>Mon, 25 Sep 2023 07:18:31 +0000</pubDate></item><item><title>GitHub 全個人向けユーザーに無償で提供「GitHub Copilot Chat」ベータ版提供</title><link>https://ledge.ai/articles/github_copilot_chat_for_individual</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国GitHubは2023年9月20日、開発者向け対話型AI（チャットボット）「GitHub Copilot Chat」ベータ版をGitHub Copilot 個人ユーザーを対象に無償で提供すると{target=“_blank”}した。
-
-「GitHub Copilot Chat」は、AIでコーディングを支援する「GitHub Copilot X」の中でも重要なインターフェースとされ、組織向けの「GitHub Copilot for Business」を導入しているビジネスユーザーに向けてすでに7月から提供を開始している。
-
-汎用チャットボットと異なり、開発者向けに設計された「GitHub Copilot Chat」は、入力したコードや表示中のエラーメッセージをコンテキスト（文脈）に沿って認識する。例えば特定のコードスニペットで行き詰まっている場合や、特定のプログラミング概念に関するガイダンスを必要としている場合などに状況に合った回答を生成する。
-
-GitHub Copilot Chat と GitHub Copilot のペアプログラマを統合すると、すべての開発者が自分の選択した自然言語で思い思いのスピードで構築できるよう支援できる強力な AI アシスタントが形成できると同社は述べる。
-
-Visual Studio エディターと Visual Studio Code エディターの両方でサポートされ、GitHub Copilot for Individual ユーザーには同社より電子メールが送られ、次のステップを案内予定。まだベータ プログラムに参加しておらず、新たに開始したい場合は、電子メール通知にリンクされている包括的なスタート ガイドを参照してほしいとのこと。
-
-:::box
-
-:::</description><pubDate>Mon, 25 Sep 2023 06:55:02 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Mon, 25 Sep 2023 07:18:31 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
