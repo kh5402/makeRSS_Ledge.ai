@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Sep 2023 06:52:57 +0000</lastBuildDate><item><title>Uberが自動運転トラックを導入、いずれは完全自動モードに</title><link>https://ledge.ai/articles/waabi_uber_self_driving_truck</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 02 Oct 2023 02:54:51 +0000</lastBuildDate><item><title>ChatGPTに視覚・聴覚・音声出力を実装 画像を認識して音声対話が可能</title><link>https://ledge.ai/articles/gpt_see_hear_and_speak</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国OpenAIは現地時間の2023年9月25日、対話型AI「ChatGPT」に、ChatGPTに新たな音声と画像機能を導入開始すると{target=“_blank”}した。ChatGPTとの音声対話や、画像を示し対話することができる。例えば冷蔵庫の写真を撮り、夕食のメニューを考えさせることも可能だという。音声はiOSとAndroidで利用可能となり、画像はすべてのプラットフォームで利用できる。この新機能は、今後2週間でPlusユーザーとEnterpriseユーザーに順次提供される。
+
+例えば下図のように、自転車の一部を撮影した画像と文章で「これはレバーですか？」とChatGPTに質問をすると、「いいえ、それはボルトです。緩めるにはレンチが必要です」という回答が返ってくる。
+!
+
+音声機能には、新しいテキスト読み上げモデルを活用しており、テキストと数秒のサンプル音声だけから人間のような音声を生成できる。プロの声優と協力して数種類の音声が作成されている。また、音声認識には同社のオープンソースのWhisperを使用し、話された言葉をテキストに変換する。
+
+画像理解は、マルチモーダルGPT-3.5およびGPT-4によって強化されている。これらのモデルは、言語推論スキルを、写真、スクリーンショット、テキストと画像の両方を含むドキュメントなど、幅広い画像に適用するという。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 02 Oct 2023 02:54:51 +0000</pubDate></item><item><title>Uberが自動運転トラックを導入、いずれは完全自動モードに</title><link>https://ledge.ai/articles/waabi_uber_self_driving_truck</link><description>:::small
 画像出典：Waabi
 :::
 
@@ -308,23 +329,7 @@ Xwin-LMは米国MetaのAI「 Llama2」ベースモデルに基づいて、教師
 :::
 :::box
 
-:::</description><pubDate>Wed, 27 Sep 2023 06:15:37 +0000</pubDate></item><item><title>SAPジャパンが国内AIエコシステムを展開、日本マイクロソフトなど主要パートナーとの連携強化</title><link>https://ledge.ai/articles/sapjapan_partner_ecosystem</link><description>:::small
-画像出典：写真AC
-:::
-
-
-SAPジャパンは2023年9月19日、AI分野でのパートナーエコシステムの構築を国内に展開すると{target=“_blank”}した。進化するAI技術を背景に、国内のビジネスプロセス革新をさらに支援する目的がある。日本マイクロソフト、日本アイ・ビー・エム、グーグル・クラウド・ジャパン、DataRobot Japanなどのパートナー企業が協力を表明している。
-
-この取り組みは「SAP® Business AI」と、高水準のテクノロジーを持つパートナーとの連携が核となる。日本のビジネスにおけるAI活用状況は一部に遅れがあることをふまえ、同社はビジネスのためのAIを提供する。
-
-SAP Business AIは、業界固有のデータとビジネスプロセスの知識を使用。今後は生成AIや大規模言語モデルも取り入れ、ユーザーエクスペリエンスの向上に注力する。たとえば在庫管理、需要の予測、人事採用業務の文書作成などの領域での支援を目指す。
-
-
-:::box
-
-:::
-
-</description><pubDate>Tue, 26 Sep 2023 05:53:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 27 Sep 2023 06:15:37 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
