@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Sep 2023 06:52:57 +0000</lastBuildDate><item><title>「AIホリエモン」がアナウンサーに 北九州のFMラジオ「CROSS FM」代表取締役会長に堀江氏就任</title><link>https://ledge.ai/articles/caster_ai_horiemon_crossfm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Sep 2023 06:52:57 +0000</lastBuildDate><item><title>ChatGPT Plusがこっそりアップデート、2022年1月までの知識と新機能、ブラウジング機能も提供</title><link>https://ledge.ai/articles/chatgpt_update_browsing</link><description>:::small
+画像出典：写真AC
+:::
+
+
+ChatGPT plusはこれまで2021年9月までの学習データしか利用できなかったが、その期限が2022年1月までに延長されている。OpenAIからの正式な発表はないが、ほかにもいくつかの変更点がみられる。
+
+!
+:::small
+画像出典：ChatGPT
+:::
+
+編集部が確認のためにChatGPTに直接質問してみると、2022年1月までの知識を持っているという回答があった。なおChatGPT Plusのみがアップデートされている。
+
+ChatGPTの機能変更もいくつかみられる。機能「Code Interpretor」が「Advanced data analysis」に変わっている。また「Regenerate」ボタンで得られる複数の回答を比較するUIが、回答を左右に並べて比較するスタイルになった。さらに、倫理的な問題がある回答の拒否が多くなったという声が、XなどのSNSにあがっている。
+
+またOpenAIは2023年9月28日、「ChatGPT Plus」と「Enterprise」ユーザー向けにブラウジング機能の提供を開始したと{target=“_blank”}した。これは2021年9月以前の学習データに縛られず、最新のインターネット情報を取得して回答する機能。ユーザーエージェントの特定や「robots.txt」の尊重などの改善が実施された。
+
+!
+:::small
+画像出典：X（）
+:::
+
+機能を使用するには「Browse with Bing」オプションの有効化が必要だ。なお近日中に、全ユーザー向けの展開も予定している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Fri, 29 Sep 2023 04:44:06 +0000</pubDate></item><item><title>「AIホリエモン」がアナウンサーに 北九州のFMラジオ「CROSS FM」代表取締役会長に堀江氏就任</title><link>https://ledge.ai/articles/caster_ai_horiemon_crossfm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -287,30 +321,7 @@ NTTコミュニケーションズは2023年9月21日、AIにより早期に認�
 :::box
 
 :::
-</description><pubDate>Mon, 25 Sep 2023 06:11:56 +0000</pubDate></item><item><title>生成AI搭載 Alexaデモ公開「Alexa, お喋りしよう」と話しかけるだけで自然なアシストーー米Amazon</title><link>https://ledge.ai/articles/amazon_generative_ai_on_alexa</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Amazon.comは現地時刻の2023年9月20日、最新機器と機能の発表で、AIアシスタント「Amazon Echo」シリーズに、新たに生成AIを搭載した「Alexa」の新機能の{target=“_blank”}を行った。
-
-生成AIを搭載しアップグレードした Alexaは、音声対話用に最適化された新しい大規模な言語モデル（Alexa LLM）を基盤に持ち、リアルタイム情報の取得、効率的なスマート ホーム制御、ホーム エンターテイメントの最大化などの機能に特化するという。
-
-米国では、すでに所有している Echoデバイスに「Alexa, let’s chat（アレクサ、おしゃべりしよう）」と話しかけることで、生成 AI 機能の一部をプレビューできるようになるとのこと。Alexaの推論、ユーザー意図の推測、複雑なリクエストの理解能力の向上が体験できるという。
-
-新しいAlexa LLM を使用すると、Alexaが複数のスマートホームリクエストを同時に処理できるようになる。指示が特定のデバイス名や場所と一致しない場合に、ユーザーの意図を推測することもできる。例えば「アレクサ、ここは明るすぎる」とユーザーが言うと、Alexaが照明を暗くするなど、曖昧な指示から意図を汲み取るという。
-@
-:::small
-画像の出典：["Alexa, let's chat." | Experience new Alexa capabilities]https://youtu.be/UqS3NxJ2L_I?feature=shared){target=“_blank”}
-:::
-
-今後順次リリース予定の新機能を{target=“_blank”}からも確認できる。日本国内ユーザー向けのサービスは未定。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 25 Sep 2023 07:18:31 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 25 Sep 2023 06:11:56 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
