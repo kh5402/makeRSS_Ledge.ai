@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 02 Oct 2023 04:21:41 +0000</lastBuildDate><item><title>大坂なおみやパリス・ヒルトンがAIキャラに Meta開発者会議で新製品発表</title><link>https://ledge.ai/articles/meta_ai_charactor</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 02 Oct 2023 04:24:32 +0000</lastBuildDate><item><title>大坂なおみやパリス・ヒルトンがAIキャラに Meta開発者会議で新製品発表</title><link>https://ledge.ai/articles/meta_ai_charactor</link><description>:::small
 画像出典：Meta
 :::
 
@@ -2453,7 +2453,28 @@ Intelligence Designでは9月5日に「すでに実施中の取り組みであ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 05 Sep 2023 09:05:23 +0000</pubDate></item><item><title>生成AI に揺れるゲーム業界「Steam：AIを組み込めばBAN」 「Epic：うちで配信すれば？」</title><link>https://ledge.ai/articles/steam_rejects_ai_and_epic_allows_it</link><description>:::small
+:::</description><pubDate>Tue, 05 Sep 2023 09:05:23 +0000</pubDate></item><item><title>「Adobe Photoshop Web」正式版リリース ブラウザ上で生成塗りつぶし可能に</title><link>https://ledge.ai/articles/adobe_photoshop_web</link><description>:::small
+画像出典：Adobe
+:::
+
+米国Adobeは2023年9月27日、β版として提供していた「Adobe Photoshop Web」の正式版リリースを{target=“_blank”}した。インストール不要でブラウザからPhotoshopの機能にアクセスでき、同社の生成AI「Firefly」などの機能も利用できる。無料版はないが、Photoshopを含む全てのCreative Cloudプランで使える。
+
+
+Web版Photoshopでは、ブラウザ上でPhotoshopの機能をインストールなしで利用可能だ。
+ファイルの作成や編集、デスクトップ版への移行がスムーズに行える。デスクトップ版と全ての機能が同一というわけではないが、よく使われる主要な機能はWeb版に搭載している。なおパッチツール、ペンツール、スマートオブジェクトのサポート、多角形なげなわなどが今後追加される予定だ。
+
+Web版ではPhotoshopユーザーでなくても、共有されたリンクからWeb版Photoshopを起動し、ファイルの閲覧やコメントが可能だ。共同作業の招待や、ブラウザ上でのデータチェックもできる。
+
+さらに生成AI「Firefly」を使用した「生成塗りつぶし」「生成拡張」機能を搭載し、生成AIを利用して、画像の欠けた部分の補完やオブジェクトの追加・削除が可能だ。プロンプトは日本語を含む100以上の言語に対応している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 02 Oct 2023 04:24:32 +0000</pubDate></item><item><title>生成AI に揺れるゲーム業界「Steam：AIを組み込めばBAN」 「Epic：うちで配信すれば？」</title><link>https://ledge.ai/articles/steam_rejects_ai_and_epic_allows_it</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2728,30 +2749,4 @@ AIは単なる道具で、使い方の良し悪しは使い手による。テク
 :::
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 10:33:58 +0000</pubDate></item><item><title>わざとか失策か Amazon 人気ゲーム「Fallout」ドラマ版の宣伝に生成AI使用と話題</title><link>https://ledge.ai/articles/amazon_fallout</link><description>:::small
-{target=“_blank”}
-:::
-
-米国Amazon.comが、Bethesda Softworks（ベゼスタ）の人気ゲーム「Fallout（フォールアウト）」シリーズに基づいた新作実写ドラマの初の宣伝画像を2023年8月23日に{target=“_blank”}した背景美術に生成AIを使用したとして注目を浴びている。
-
-米国で進行中の脚本家組合と俳優組合のストライキで、AIの使用が中心的な問題のひとつとなっている。そんななかでAmazonが公開した画像についても議論が起きた。
-
-SNSでも賛否の声はそれぞれかまびすしいが、後追いするニュースサイトの反応もさまざまだ。経済誌の{target=“_blank”}は批判の論調で、画像内の赤い車や窓のない建物、人物の形状など、多くが不自然だと主張。画像生成AI「Midjourney」を使用して制作過程の「再現」を試みたうえで、時価総額1兆ドルを超える企業が人間のアーティストを雇わずAIを使用しコスト削減を試みたと示唆している。
-
-ただ9月時点で、AmazonがAIを使用したと発表した訳ではなく、コスト削減が理由だとするForbesの分析も確かめられていない。もっぱらゲームの話題を専門に報じる{target=“_blank”}は、今回話題になっている宣伝画像とは別の宣伝動画を視聴したあと、視覚効果が印象深く、制作の質が高いのは明らかだと語っている。
-
-また国内では{target=“_blank”}がこの問題を取り上げ、TYPE-MOONの人気ゲーム「Fate/Grand Order」が6月にあえて生成AIを宣伝に活かして利用者をうならせた一件を引いている。
-
-今回のAmazonの宣伝画像があえてのしかけか、単に視聴者に悪印象を与える失策かは不明だが、少なくとも多くの耳目を惹き付ける結果にはつながった。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 08 Sep 2023 09:10:43 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 08 Sep 2023 10:33:58 +0000</pubDate></item></channel></rss>
