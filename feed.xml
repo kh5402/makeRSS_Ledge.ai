@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 02 Oct 2023 02:54:51 +0000</lastBuildDate><item><title>ChatGPTに視覚・聴覚・音声出力を実装 画像を認識して音声対話が可能</title><link>https://ledge.ai/articles/gpt_see_hear_and_speak</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 02 Oct 2023 04:21:41 +0000</lastBuildDate><item><title>大坂なおみやパリス・ヒルトンがAIキャラに Meta開発者会議で新製品発表</title><link>https://ledge.ai/articles/meta_ai_charactor</link><description>:::small
+画像出典：Meta
+:::
+
+
+米国Metaは2023年9月27日、開発者会議{target=“_blank”}にて、AI会話アシスタント「Meta AI」や、画像生成モデル「Emu」を利用したAI製品を発表した。
+
+「Meta AI」は「Llama 2」をベースにしたAIアシスタントだ。既存のサービス「WhatsApp」「Messenger」「Instagram」などで使用可能。また「Ray-Ban Metaスマートグラス」と「Quest 3」にも近日導入予定だ。MicrosoftのBingとパートナーシップを結び、リアルタイム情報の検索が可能となる。チャット内でプロンプト「@MetaAI /imagine」を入力すると、画像を生成することもできる。
+
+「AIステッカー」は「Llama 2」「Emu」を利用して、プロンプトから数秒で画像を生成できる機能。10月から一部の英語圏ユーザーが使え、利用できるアプリはWhatsApp、Messenger、Instagram、Facebook Storiesだ。
+
+またInstagramには、新機能「Restyle」や「Backdrop」を追加。AIが生成したコンテンツは、特定のアイコンで明示される。
+
+さらに米国では、有名人をモデルにした28種類のAIキャラクターをベータ版で{target=“_blank”}する。AIキャラクターは、モデルとなった人物とは別の設定や人格を持つ。下記はその一部だ。
+
+!
+
+
+:::small
+画像出典：Meta
+:::
+
+「Meta AI」とは異なり、多くのAIキャラクターは最新の情報を取得できないが、今後の対応が予定されている。
+
+またMetaは「AI studio」も発表し、今後数週間で利用開始予定。将来的には、メタバース上にもAIを構築できるようになる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Mon, 02 Oct 2023 04:21:41 +0000</pubDate></item><item><title>ChatGPTに視覚・聴覚・音声出力を実装 画像を認識して音声対話が可能</title><link>https://ledge.ai/articles/gpt_see_hear_and_speak</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -314,22 +349,7 @@ JR山手線 五反田駅 徒歩 1分
 :::box
 
 :::
-</description><pubDate>Tue, 26 Sep 2023 05:56:37 +0000</pubDate></item><item><title>中国研究者ら開発「Xwin-LM」公開 GPT-4を追い抜く成績</title><link>https://ledge.ai/articles/xwin_lm</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年9月、AIプラットフォーム「HuggingFace」で、米国OpenAI「GPT-4」を上回る性能を謳うAI「Xwin-LM」が{target=“_blank”}されている。言語モデルのベンチマークサイト「AlpacaEval」で1位を獲得した。GPT-4は2位。中国科学院や清華大学の博士課程の研究者らが開発したもので、開発者名は明記されていない。
-
-Xwin-LMは米国MetaのAI「 Llama2」ベースモデルに基づいて、教師ありファインチューニング、報酬モデル、リジェクトサンプリング、強化学習などを使って調整したという。
-
-パラメータ数は70億、130億、700億の3つのモデルがある。「Xwin-LM-70B-V0.1」（700億）は、AlpacaEvalの評価基準である「Text-Davinci-003」（GPT-3のモデルの一つ）に対する勝率で95.57％を記録。勝率95.28％のGPT-4を追い抜いたとしている。また、GPT-4 に対する勝率が60.61%であることにも注目してほしいとのこと。
-!
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 27 Sep 2023 06:15:37 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 26 Sep 2023 05:56:37 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
