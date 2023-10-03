@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 02 Oct 2023 04:24:32 +0000</lastBuildDate><item><title>大坂なおみやパリス・ヒルトンがAIキャラに Meta開発者会議で新製品発表</title><link>https://ledge.ai/articles/meta_ai_charactor</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 02 Oct 2023 04:24:32 +0000</lastBuildDate><item><title>Google Bardをアップデート「Bard Extensions 」アプリとサービスを横断検索</title><link>https://ledge.ai/articles/google_bard_extenshions</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2023年9月19日、対話型AI（チャットボット）「Bard」を高性能なモデルにアップデートしたと{target=“_blank”}した。
+
+この日、Bardの新しい拡張機能「Bard Extensions」が英語で公開された。Gmail、Google ドキュメント、Google ドライブ、Google マップ、YouTubeなど、日々使用する複数の Google ツールに必要な情報がまたがる場合でも、Bard が関連情報を検索して表示する。
+
+例えば旅行の計画をする場合、Gmail から全員に都合の良い日付を選んだ上で、リアルタイムのフライトとホテルの情報を検索したり、Google マップで空港までの道順を確認したり、旅先のアクティビティをYouTube動画で視聴したりが、すべて同じ会話内でできる。
+
+あるいは、新しい仕事にエントリーするとき、Bard に「Googleドライブから『2023年6月』というタイトルの履歴書を見つけ、それを短く要約して」などと依頼し、新しいカバーレターの下書きを作成するなどの事例も紹介されている。
+
+:::box
+
+:::</description><pubDate>Mon, 02 Oct 2023 02:59:38 +0000</pubDate></item><item><title>大坂なおみやパリス・ヒルトンがAIキャラに Meta開発者会議で新製品発表</title><link>https://ledge.ai/articles/meta_ai_charactor</link><description>:::small
 画像出典：Meta
 :::
 
@@ -328,28 +342,7 @@ JR山手線 五反田駅 徒歩 1分
 
 
 
-</description><pubDate>Thu, 28 Sep 2023 05:10:10 +0000</pubDate></item><item><title>「Oracle CloudWorld 2023」エンタープライズ向け生成AIサービスを発表</title><link>https://ledge.ai/articles/oracle_cloud_world</link><description>:::small
-画像出典：Oracle CloudWorld
-:::
-
-
-オラクルの年次カンファレンス{target=“_blank”}が2023年9月19日（米国時間）、米国ラスベガスで開幕した。「Oracle Cloud Infrastructure（OCI）」は、エンタープライズ向けの生成AIサービス「OCI Generative AIサービス」（ベータ版、限定提供開始）を発表した。
-
-オラクル会長兼最高技術責任者（CTO）のラリー・エリソン氏は基調講演で、OCIの“スーパークラスタ”が生成AIモデルのトレーニングにおいて優れていることを強調した。最大1万6000個のGPUを、200GbpsのRDMAネットワークで接続する。
-
-「OCI Generative AIサービス」は、エンタープライズ向けの生成AI/LLMサービスだ。Cohereとの連携でPaaSとして利用でき、ユーザーが開発するアプリケーションに生成AI機能を組み込むことが可能だ。また同社が提供するSaaSアプリケーション「Oracle Fusion Cloud Applications Suite」「Oracle NetSuite」「Oracle Cerner」などが生成AI機能を提供する際の基盤にもなる。
-
-同サービスはテキスト生成、テキスト要約、チャット、RAGなどのユースケースに対応。事前学習済みモデルはCohereが開発する。
-
-提供されるベースモデルはファインチューニングが可能で、自社独自のカスタムモデルを構築できる。また、エンタープライズデータのセキュリティやプライバシーは保護される。
-
-現時点ではOCI Generative AIサービスはベータ版で、利用料金や提供するリージョンなどは不明。一般提供開始時期について、同社はもうすぐとしている。
-
-
-:::box
-
-:::
-</description><pubDate>Tue, 26 Sep 2023 05:56:37 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Thu, 28 Sep 2023 05:10:10 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
