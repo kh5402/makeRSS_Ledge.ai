@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 03:48:12 +0000</lastBuildDate><item><title>PFNが世界トップ性能の大規模言語モデル「PLaMo-13B」をオープンソースで公開
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 03:48:12 +0000</lastBuildDate><item><title>GoogleもようやくAI学習からオプトアウトできるオプション「Google-Extended」を発表</title><link>https://ledge.ai/articles/google_extended</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2023年9月28日、Webサイトの運営・管理者など（Webパブリッシャー）が、BardやVertex AIの生成APIに対してオプトアウトできる新たな機能「Google-Extended」を{target=“_blank”}した。Webパブリッシャー自身で、サイトのコンテンツが、Googleの対話型AI「Bard」や機械学習プラットフォーム「Vertrex」の今後の学習に使用されないことを選択できる設定だ。
+
+Googleは、7月の時点で個人情報の取り扱いを定めたプライバシーポリシーを2023年7月1日付けで改訂。いったんインターネット上に公開された情報であれば対話型AI「Bard」などのために使用することを明示していた。これに対し、OpenAIは8月、インターネット上からAIに学習させるためのデータを集めるWebクローラー「GPTbot」を拒否（ブロック）する方法を発表していた。
+
+今回の発表では、Googleも「Googlebot」をブロックするというオプションをしているが、同社は「Googleの AIモデルの機能改善・向上に、自身のコンテンツを役立てるかどうかをコントロールできる機能」とあくまで学習データの提供に協力的な姿勢を期待する表現を貫いている。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 03 Oct 2023 03:41:33 +0000</pubDate></item><item><title>PFNが世界トップ性能の大規模言語モデル「PLaMo-13B」をオープンソースで公開
 </title><link>https://ledge.ai/articles/pfn_plamo_13b</link><description>:::small
 画像出典：Preferred Networks
 :::
@@ -255,90 +270,7 @@ Red Teaming Networkの結成では、教育、経済、法律など多岐にわ�
 :::box
 
 :::
-</description><pubDate>Wed, 27 Sep 2023 05:47:06 +0000</pubDate></item><item><title>【AI TALK NIGHT】国内最大級AIメディアが主催するビジネス交流会×トークセッション｜vol.18</title><link>https://ledge.ai/articles/ai-talk-night-vol18</link><description>「AI TALK NIGHT」第18回開催のお知らせです。
-レッジが主催する、他業界の方と交流できる無料のオフラインイベントです。是非お気軽にご参加ください。
-
-:::button
-
-:::
-
-## AI TALK NIGHT とは
-AI TALK NIGHTとは、レッジが主催する参加費無料の交流会イベントです。
-AIに携わる全ての方々へ向けて、参加者のネットワークを拡大する機会や、最先端の技術・事例を共有する場を提供し、皆様の企業発展へ貢献いたします。
-
-**参加者交流会**
-トークセッション前後には、多様なバックグラウンドを持った参加者と情報交換ができる、交流会を行います。ぜひ多くの方との情報交換や他者理解の場として活用ください。
-
-**トークセッション**
-各回トークセッションも行っております。
-AIの有識者をゲストにお迎えし、ゲストのAI関連の取り組みや事例紹介、最新テクノロジーなどについて語っていただきます。ざっくばらんなトークセッションとなりますので、どうぞお気軽に自社の悩みや質問をぶつけてください。
-
-【過去のトークテーマ（一部）】
-- 
-- 
-
-### **今回は、参加者の皆さまからトークセッション登壇者を募集します！**
-今回のAI TALK NIGHTでは、参加者の皆様からトークセッションの登壇者を募集いたします！
-
-トークテーマは『私の業務効率化　Before / After』。
-
-企業のDXやAI活用が叫ばれて久しい昨今、昨年にはChat GPTなどの生成系AIの登場で一気にテクノロジーが身近になりました。そこで「どのようにデジタル活用しているか」「実際に使ってみてどうだったか？」など、成功・失敗談問わず、皆様のリアルをシェアしてください！
-
-ご希望の方は、以下要項をご確認の上、参加申し込みフォーム内の専用欄よりご応募をお願いします。応募多数の場合は、抽選で登壇者を決定させていただきます。
-※複数人で登壇されたい場合は、入力欄へその旨ご記入ください。
-
-[募集要項]
-テーマ：『私の業務効率化　Before / After』
-形　　式：自由（プロジェクターがございますので、資料等ご準備いただいた場合は投影可能です）
-募集締切：2023/10/10(火)
-登壇連絡：2023/10/12(木)中にご連絡いたします
-
-:::button
-
-:::
-
-## 登壇者
-登壇者確定後、順次公開いたします。
-
-## 開催概要
-### **イベント名**
-【AI TALK NIGHT vol.18】ビジネス交流会×トークセッション
-### **イベント会場**
-株式会社レッジ本社
-東京都品川区西五反田１丁目１−８ NMF五反田駅前ビル 7F
-JR山手線 五反田駅 徒歩 1分
-都営浅草線 五反田駅 A1出口 徒歩1分
-### **開催日時**
-2023年10月24日（火）　18:00~20:00
-### **参加費**
-無料
-### **タイムスケジュール**
-17:30-　開場・受付開始
-18:00-　開会
-18:05-　参加者交流会（40分）※お飲み物とお食事をご用意しています
-18:45-　トークセッション（45分）
-19:30-　参加者交流会（25分）
-19:55-　閉会
-20:00 　解散
-### **トークテーマ**
-『私の業務効率化　Before / After』
-### **参加人数**
-〜30名
-※開場の関係上、人数制限を設けております
-※先着順で参加申し込みを締め切らせていただきます
-### **諸注意**
-- 受付や名札、懇親会などにて名刺が必要となります。2枚以上の名刺をご持参いただきますよう、お願いいたします。
-- お荷物を預かるクロークを準備しております。(無料)
-- 服装自由です。
-- 他の参加者のご迷惑になる勧誘行為等はお控えください。
-- 本イベントの様子をSNSやWeb上に掲載する可能性があります。客席を含む会場内の写真が使用されることがありますので、予めご了承ください。
-- やむを得ない事情によりイベントの開催を見合わせる場合もございます。その際は事前にご案内いたしますので、ご不明な点がございましたらお問い合わせください。
-
-:::button
-
-:::
-
-</description><pubDate>Thu, 28 Sep 2023 07:29:34 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 27 Sep 2023 05:47:06 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
