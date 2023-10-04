@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 03:48:12 +0000</lastBuildDate><item><title>GoogleもようやくAI学習からオプトアウトできるオプション「Google-Extended」を発表</title><link>https://ledge.ai/articles/google_extended</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 03:48:12 +0000</lastBuildDate><item><title>Mirosoft「Power Automate」プラグイン発表ーーChatGPTから直接フローを作成し実行。Plus会員は追加費用なし</title><link>https://ledge.ai/articles/microsoft_power_automate_plugin_for_gpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+米国Microsoftは2023年9月21日、ChatGPT向けにPowerAutomateのプラグインを{target=“_blank”}した。
+
+Microsoftの提供する「Power Automate」は、スクリプト、データ抽出、テスト、フォームへの記入など定型化した処理を自動化するツールだ。ChatGPT用に新たに発表されたPower Automateのプラグインを使用すると、ユーザーはChatGPT から直接フローを作成、一覧表示、実行できる。さらにChatGPTのインターフェースからフローを検出、呼び出しが可能。
+
+プラグインで作成したフローや呼び出したフローは、実行前に内容の確認ができる。生成AIの助けを借りたときにも、あくまでユーザーが責任を持って確認し実行する。
+
+プラグインは、すべてのChatGPT Plusユーザーが利用可能。Power AutomateアカウントとChatGPT Plusアカウントを取得し、ChatGPTのプラグインストアよりインストールする。その後、Power Automateアカウントからプラグインを承認すれば準備が完了する。
+
+その後は「新しいファイルが SharePoint フォルダーに追加されたときに Teams チャネルに通知を投稿するフローを作成する」など文章による指示（プロンプト）を使用し、ChatGPTとの会話が開始できる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+「スキル」と呼ばれるPower Automateフローは、プラグインからの実行が可能だ。ChatGPTで「Copilotからフローを実行」トリガーを持つスキルを呼び出せる。
+
+たとえばユーザーが「メールを送信する」というPower Automateフロー（スキル）を作成した場合、このフローは、ChatGPTからトリガー（実行）できる。ユーザーはChatGPTとの会話の中で「メールを送信する」というコマンドを入力するだけで、対応するフローが実行され、指定されたアクション（この場合はメールの送信）が自動的に行われるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 02 Oct 2023 08:17:46 +0000</pubDate></item><item><title>GoogleもようやくAI学習からオプトアウトできるオプション「Google-Extended」を発表</title><link>https://ledge.ai/articles/google_extended</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -250,27 +284,7 @@ Macbee Planetが2023年9月20日、業務に「生成AI」を活用している�
 
 
 
-</description><pubDate>Wed, 27 Sep 2023 06:29:33 +0000</pubDate></item><item><title>OpenAIが専門家ネットワーク「レッドチーム」結成</title><link>https://ledge.ai/articles/openai_redteam</link><description>:::small
-画像出典：OpenAI
-:::
-
-
-米国OpenAIは2023年9月19日（米国時間）、専門家で構成される「OpenAI Red Teaming Network」を立ち上げると{target=“_blank”}した。専門家からリスク評価や緩和戦略に必要な知見の提供を受け、より安全性の高いモデルを展開する。
-
-レッドチームは、新しい技術のテストや安全確保のための重要なプロセスだ。GoogleやMicrosoftなども、AIモデル専用のレッドチームを持っている。OpenAIの今回の取り組みは大規模なモデル展開前の一時的なものではなく、製品の開発サイクル全体を通じた正式なプロセスだ。
-
-Red Teaming Networkの結成では、教育、経済、法律など多岐にわたる専門家を募集している。AIや言語モデルの経験は問わず、メンバーには報酬が支払われ、秘密保持契約（NDA）を適用する。
-
-メンバーが関与するプロジェクトは限定的で、年5～10時間の参加も可能。応募は{target=“_blank”}から可能だ。2023年 12月1日まで応募できる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 27 Sep 2023 05:47:06 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 27 Sep 2023 06:29:33 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
