@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 02 Oct 2023 04:24:32 +0000</lastBuildDate><item><title>Google Bardをアップデート「Bard Extensions 」アプリとサービスを横断検索</title><link>https://ledge.ai/articles/google_bard_extenshions</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 03:48:12 +0000</lastBuildDate><item><title>PFNが世界トップ性能の大規模言語モデル「PLaMo-13B」をオープンソースで公開
+</title><link>https://ledge.ai/articles/pfn_plamo_13b</link><description>:::small
+画像出典：Preferred Networks
+:::
+
+
+Preferred Networks(PFN)は2023年9月28日、130億パラメータの事前学習済み大規模言語モデル{target=“_blank”}を、研究・商用で利用可能なオープンソースで公開した。現在公開されている同規模のパラメータ数の事前学習済み言語モデルと比べ、大規模言語モデルのベンチマーク評価において、日英2言語をあわせた能力で世界トップレベルの性能を示している。
+
+PLaMo-13Bの学習データは、1.4兆トークンの日英2言語のデータセットを使用。国立研究開発法人産業技術総合研究所のNVIDIA A100を480GPU使用し、約1か月の学習を行った。
+これにより英語と日本語のデータを増やして、コンパクトながら高い性能を持つモデルを開発した。
+
+またPFNは同時に、新会社の設立に関する発表も行った。マルチモーダル基盤モデルの開発を強化する目的でPreferred Elementsを設立。大規模かつ高機能な基盤モデルの開発を行い、2024年中の商用サービスの提供開始を目指す。
+
+
+:::box
+
+:::
+</description><pubDate>Tue, 03 Oct 2023 03:48:12 +0000</pubDate></item><item><title>Google Bardをアップデート「Bard Extensions 」アプリとサービスを横断検索</title><link>https://ledge.ai/articles/google_bard_extenshions</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -321,28 +338,7 @@ JR山手線 五反田駅 徒歩 1分
 
 :::
 
-</description><pubDate>Thu, 28 Sep 2023 07:29:34 +0000</pubDate></item><item><title>生成AIベンチャーのオルツが19億円の資金調達実施、累計80億円突破
-</title><link>https://ledge.ai/articles/alt_funding</link><description>:::small
-画像出典：オルツ
-:::
-
-
-オルツは2023年9月19日、累計資金調達額が総額80億円を突破したことを{target=“_blank”}した。今回の資金調達金額は約19億円。
-
-引受先は近鉄ベンチャーパートナーズ、ヒューリックスタートアップ1号投資事業有限責任組合、UB Ventures、キーエンス、AGキャピタルなどだ。調達の背景には、2022年末から生成AI分野に注目が集中していることがある。
-
-同社は社会実装とビジネス実装を重視し、 事業会社との連携、LLM開発を含むAI技術基盤への投資、プロダクト開発、人材確保、セールス&amp;マーケティング強化などを目的に調達を行った。投資家らは同社の「非生産的労働からの解放」に共感している。
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Thu, 28 Sep 2023 05:10:10 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Thu, 28 Sep 2023 07:29:34 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
