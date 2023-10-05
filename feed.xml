@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 03:48:12 +0000</lastBuildDate><item><title>Mirosoft「Power Automate」プラグイン発表ーーChatGPTから直接フローを作成し実行。Plus会員は追加費用なし</title><link>https://ledge.ai/articles/microsoft_power_automate_plugin_for_gpt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 03:51:38 +0000</lastBuildDate><item><title>Mirosoft「Power Automate」プラグイン発表ーーChatGPTから直接フローを作成し実行。Plus会員は追加費用なし</title><link>https://ledge.ai/articles/microsoft_power_automate_plugin_for_gpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 米国Microsoftは2023年9月21日、ChatGPT向けにPowerAutomateのプラグインを{target=“_blank”}した。
@@ -2388,7 +2388,27 @@ Intelligence Designでは9月5日に「すでに実施中の取り組みであ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 05 Sep 2023 09:05:23 +0000</pubDate></item><item><title>「Adobe Photoshop Web」正式版リリース ブラウザ上で生成塗りつぶし可能に</title><link>https://ledge.ai/articles/adobe_photoshop_web</link><description>:::small
+:::</description><pubDate>Tue, 05 Sep 2023 09:05:23 +0000</pubDate></item><item><title>Getty Images、商用利用可能なAI画像生成ツール公開</title><link>https://ledge.ai/articles/getty_images_generative_ai</link><description>:::small
+画像出典：Getty Images
+:::
+
+米国Getty Imagesは2023年9月25日、AI画像生成ツール「Generative AI by Getty Images」を{target=“_blank”}した。同社の約5億点のストックコンテンツライブラリの一部を、米国NVIDIAの生成AIモデルライブラリ「Picasso」の「Edify」モデルで学習したもので、安全に商業利用できる。
+
+@
+
+
+このツールは、プロンプトに説明文を入力することで画像を生成できる。コンテンツを生成して商用利用するユーザーは、同社の標準ロイヤリティフリーライセンスを取得し、著作権訴訟から保護される。生成コンテンツは、既存のGetty ImagesおよびiStockのライブラリに追加されない。また学習に含まれたコンテンツの制作者には、別途報酬が支払われる。
+
+ツールはAPIでも提供され、ユーザーはカスタマイズして独自アプリとしても公開可能だ。
+なお価格情報については公表されていない。
+
+
+:::box
+
+:::
+
+
+</description><pubDate>Tue, 03 Oct 2023 03:51:38 +0000</pubDate></item><item><title>「Adobe Photoshop Web」正式版リリース ブラウザ上で生成塗りつぶし可能に</title><link>https://ledge.ai/articles/adobe_photoshop_web</link><description>:::small
 画像出典：Adobe
 :::
 
@@ -2660,28 +2680,4 @@ AIは単なる道具で、使い方の良し悪しは使い手による。テク
 :::
 :::box
 
-:::</description><pubDate>Wed, 13 Sep 2023 04:39:25 +0000</pubDate></item><item><title>スティーブン・キング「著作がAIに学習されても構わない」と語る </title><link>https://ledge.ai/articles/stephenking_my_books_were_used_to_train_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年9月5日に新作小説「HOLLY」を出版した米国のベストセラー作家スティーブン・キング氏は、文学や文化を取り扱う雑誌「The Atlantic」に同日寄稿したエッセイ “{target=“_blank”}（私の本はAIの訓練に使われた）”で、AIが著作を学習のために使用することに反対ではないと述べた。
-
-キング氏は、かつて著書の中で人間が良い作家になるために多くの読書が必要だと述べたことを振り返りつつ、AIの開発者も同様の観点から大量の書籍を学習に使用し、その中には同氏の作品も入っているようだと指摘した。一方、そのようにして完成したAIが生成する内容については今のところ高い評価を与えていないとし、「創造性は感覚なしには生まれない」と持論を展開した。ただし一部のAIは感覚を持つとの主張があることにも触れ、ある種の恐ろしい魅力のある可能性だとも認めた。
-
-著作をコンピュータに教えることを禁じることについては、君主の権力があっても海の潮の流れを止められなかった英国のクヌート王の伝説や、19世紀に産業革命に反対するため起きた機械の打ち壊し、ラッダイト運動になぞらえ、技術の進歩を止める試みは無駄だとの考えを示した。
-
-エッセイは米国で反響を起こした。9月5日に音楽や映画などを取り扱う{target=“_blank”}が掲載したインタビューでもその内容に話題が及ぶと、キング氏は、AIがシチュエーションコメディーやドラマシリーズの脚本を書けるのでないかというテレビや映画の脚本家の懸念に触れ、前述のクヌート王の伝説を挙げて進歩は止めようがないと繰り返し示唆した。
-
-ただAIが “本当の感覚” を獲得するのは、まだ先のことだとキング氏は考えており、それまでAIが何かを書くことができるとはとても思えないと語った。英国の詩人で画家であるウィリアム・ブレイクの作品を学習したAIの詩を例に挙げ、神や子羊といったブレイクの作品に登場する要素を取り入れてはいたが、同等のものとはいえず、近づけてさえもいないとした。
-
-「バドワイザーと普通のビールの違いのようなもの」で「どちらもチクチクするが同じではない」と評している。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 08 Sep 2023 10:33:58 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 13 Sep 2023 04:39:25 +0000</pubDate></item></channel></rss>
