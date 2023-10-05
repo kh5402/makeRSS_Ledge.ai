@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 03:51:38 +0000</lastBuildDate><item><title>Mirosoft「Power Automate」プラグイン発表ーーChatGPTから直接フローを作成し実行。Plus会員は追加費用なし</title><link>https://ledge.ai/articles/microsoft_power_automate_plugin_for_gpt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 05:31:56 +0000</lastBuildDate><item><title>Mirosoft「Power Automate」プラグイン発表ーーChatGPTから直接フローを作成し実行。Plus会員は追加費用なし</title><link>https://ledge.ai/articles/microsoft_power_automate_plugin_for_gpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 米国Microsoftは2023年9月21日、ChatGPT向けにPowerAutomateのプラグインを{target=“_blank”}した。
@@ -2388,7 +2388,21 @@ Intelligence Designでは9月5日に「すでに実施中の取り組みであ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 05 Sep 2023 09:05:23 +0000</pubDate></item><item><title>Getty Images、商用利用可能なAI画像生成ツール公開</title><link>https://ledge.ai/articles/getty_images_generative_ai</link><description>:::small
+:::</description><pubDate>Tue, 05 Sep 2023 09:05:23 +0000</pubDate></item><item><title>DL数3.4億超えのアイビスペイント 新バージョンをリリース「人工知能」フィルターカテゴリに「背景透過」を追加</title><link>https://ledge.ai/articles/ibispaint11</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+アイビスは2023年9月14日、お絵描きアプリ「ibisPaint（アイビスペイント）」ver.11.0.0のリリースを{target=“_blank”}した。
+
+アップデートにより7つの新しい機能が追加された。
+ユーザーの作成したイラストをパラパラ漫画のように連続で再生して動いているように見せることが簡単にできる「アニメーション機能」のほか、フィルター機能に「(人工知能)：背景透過」が追加されている。AIを用いて、対象物と背景を切り分けることで、背景を簡単に透過できる。
+@
+
+アイビスペイントは、スマートフォンやタブレットで使用できる無料のペイントアプリケーション。指一本でイラストが描けるほか、取り込んだ写真やイラストの色付けや編集も可能だ。また、作品は同社の運営するサイトに投稿でき、SNSの機能も有する。19言語に対応し、2023年8月末時点で累計ダウンロード数が3億4000万回を達成するなど、世界中に利用者を持つ。
+
+:::box
+　
+:::</description><pubDate>Tue, 03 Oct 2023 05:31:56 +0000</pubDate></item><item><title>Getty Images、商用利用可能なAI画像生成ツール公開</title><link>https://ledge.ai/articles/getty_images_generative_ai</link><description>:::small
 画像出典：Getty Images
 :::
 
@@ -2639,45 +2653,4 @@ Fireflyは文章による指示（プロンプト）から画像を生成する�
 
 :::
 
-</description><pubDate>Fri, 15 Sep 2023 03:41:34 +0000</pubDate></item><item><title>「AI分野で最も影響力のある100人」日本からは「サイバーパンク桃太郎」の作者</title><link>https://ledge.ai/articles/time100ai_cyberpunk_peach_john</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米誌TIMEは2023年9月7日、The TIME100 Most Influential People in AI（世界のAI分野で最も影響力のある100人）を{target=“_blank”}した。
-
-TIMEはその年の出来事に最も影響を与えた人物として「Person of the Year（今年の人）」を特集する。「TIME100／AI」は、夏のプロジェクトとして、発表された。
-
-!
-:::small
-{target=“_blank”}
-:::
-
-日本からは、AIのイノベーターとして、画像生成AI「Midjourney」を使用した作品「サイバーパンク桃太郎」を世に送り出した漫画家として Rootport 氏が選出された。
-
-2022年8月、同氏は自身のX（旧Twitter）アカウントでMidjourneyでの作画を試行し「AIにマンガを描かせてみるテスト」を投稿。この作品がメディア各社で取り上げられ、話題となった。2023年3月の単行本化にあたり加筆修正はあるものの「2022年8月当時のAIができたこと」を残しているという。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-TIME編集部の{target=“_blank”}によるとRootport氏は絵の描き方を知らないが、「サイバーパンク桃太郎」は108 ページに及び、6週間で仕上げたという。
-
-同氏は、漫画家が低賃金・重労働の職業だとし、AIがアシスタントとして機能すれば「これらの労働問題を劇的に改善する可能性がある」と述べた。かつてはスクリーントーンを切り貼りして背景の模様などを表現していたが、アプリケーションを使えば簡単にその作業ができる。技術革新は、漫画業界を衰退させるのではなく、作家の技術向上を助けたと同氏は述べた。
-
-またRootport氏は「Now is the TIME to make mangas with AIs.（今こそAIで漫画を描く時代）」と題した自身の公式ブログにインタビューの全文を{target=“_blank”}した。TIMEには載らなかった「AIの学習と盗作」に関する同氏の考えや、画像生成AIの業界における受け止められかたなどが読める。
-
-AIは単なる道具で、使い方の良し悪しは使い手による。テクノロジーはそれを実現するための手段だと同氏は締めくくった。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 13 Sep 2023 04:39:25 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 15 Sep 2023 03:41:34 +0000</pubDate></item></channel></rss>
