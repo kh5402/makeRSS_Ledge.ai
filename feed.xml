@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 03 Oct 2023 05:31:56 +0000</lastBuildDate><item><title>Mirosoft「Power Automate」プラグイン発表ーーChatGPTから直接フローを作成し実行。Plus会員は追加費用なし</title><link>https://ledge.ai/articles/microsoft_power_automate_plugin_for_gpt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 04 Oct 2023 04:44:58 +0000</lastBuildDate><item><title>Meta AI、学習にFacebookとInstagramの公開投稿を使用</title><link>https://ledge.ai/articles/meta_ai_training_facebook_instagram</link><description>:::small
+画像出典：写真AC
+:::
+
+米国Meta Platformsが新しい消費者向け生成AIツール「Meta AI」のトレーニングにFacebookやInstagramの公開投稿を使用していると、2023年9月29日に{target=“_blank”}が報じた。
+
+プライバシー保護のため、家族や友人のみに公開されている投稿は使用せず、プライベートチャットも利用しない。国際問題担当社長のニック・クレッグ氏は、訓練に使うデータは主に公開データで、プライバシーが懸念されるLinkedInなどのデータは使用していないと述べた。
+
+同社は開発者向け年次イベント{target=“_blank”}で「Meta AI」を発表。Meta AIで生成されるコンテンツには、著名人の写真の生成などの安全上の制限がある。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 04 Oct 2023 04:44:58 +0000</pubDate></item><item><title>Mirosoft「Power Automate」プラグイン発表ーーChatGPTから直接フローを作成し実行。Plus会員は追加費用なし</title><link>https://ledge.ai/articles/microsoft_power_automate_plugin_for_gpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 米国Microsoftは2023年9月21日、ChatGPT向けにPowerAutomateのプラグインを{target=“_blank”}した。
@@ -243,48 +261,7 @@ AIの実用化において、PoCから本番運用にスムーズに移行する
 
 :::
 
-</description><pubDate>Wed, 27 Sep 2023 05:52:05 +0000</pubDate></item><item><title>「1位はChatGPT」マーケティングへの生成AI活用の実態、Macbee Planet調査</title><link>https://ledge.ai/articles/macbee_planet_reserch</link><description>:::small
-画像出典：Macbee Planet
-:::
-
-Macbee Planetが2023年9月20日、業務に「生成AI」を活用しているマーケティング担当者を対象とした生成AI活用の実態調査を実施したと{target=“_blank”}した。担当者らが「業務の効率化」「クリエイティブな提案の補助」などのメリットを実感していることが明らかになった。
-
-!
-
-
-生成AIの活用のきっかけに対する質問への回答は、「業務の効率化のため」が39.6%、「無料の生成AIが登場したため」が23.6%、「人員コスト削減のため」が8.5%という結果となった。
-
-!
-
-業務で使用している生成AIツールは、1位が「ChatGPT」で65.1%、2位は「Bard」の26.4%、3位が「BingAI」の22.6%だった。
-
-!
-
-マーケティングに「生成AI」を活用するメリットについては、「業務の効率化」が63.2%、「クリエイティブな提案の補助」が48.1%、「コストの削減」が34.9%という回答があった。
-
-!
-
-マーケティングにおける「生成AI」を活用するまでのハードルについての問いには、「情報の正確性が保証されていない」が53.8%、「リスクマネジメントが困難」が34.0%、「品質が不安定」が29.2%、「法整備が進んでいない」が29.2%という回答があった。
-
-!
-
-マーケティングで「生成AI」を活用している／したい場面についての質問には、「市場分析」が53.8%、「企画書・プレゼン資料の作成」が46.2%、「議事録の要約・添削」が36.8%という結果となった。
-
-今回の調査は2023年9月4日〜5日に、業務に生成AIを活用しているマーケティング担当者106名を対象に行ったもの。
-
-情報の出典元：株式会社Macbee Planet
-{target=“_blank”}
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Wed, 27 Sep 2023 06:29:33 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 27 Sep 2023 05:52:05 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
