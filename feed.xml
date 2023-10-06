@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 04 Oct 2023 07:37:44 +0000</lastBuildDate><item><title>NVIDIAとNTTドコモ、世界初のGPUによる5Gネットワークを日本で展開</title><link>https://ledge.ai/articles/docomo_nvidia_first_gpu_accelerated_5g_network</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 05 Oct 2023 06:35:16 +0000</lastBuildDate><item><title>生成AIが日常に溶け込む　「死後」「無駄話」などのアイデアが優秀賞｜Ledge.ai主催のアイデアコンテスト結果発表</title><link>https://ledge.ai/articles/ledge_ai_challenge_ideas_category</link><description>8月3日、Ledge.aiが主催したアイデアコンテスト{target=“_blank”}の「発想」部門が開催された。募集テーマは「5年後の日常に余白を生むサービスアイデア」。9月19日に「発想」部門の受付が終了し、審査員6名による審査の結果、5作品が優秀賞として選出された。優秀賞選出作品は以下の通り。
+- 死後も双方向のコミュニケーションを。生成AIを活用した終活&amp;死後支援サービス
+- 産後の新しいステップ：テクノロジーでサポートする出産前後の手続きと心のケア
+- 災害発生予測に基づく避難所の過密解消を目的とした早期分散避難計画の作成と周知
+- PERSONACHER personalized guidance teacher　君だけの君のための君のAI先生
+- 反復無駄話
+
+今回審査にあたったのは、青野 慶久氏（サイボウズ株式会社 代表取締役社長）、西脇 資哲氏（日本マイクロソフト株式会社 業務執行役員 エバンジェリスト）、岡田 隆太朗氏（一般社団法人日本ディープラーニング協会 専務理事）、高井 志保氏（クオンタムリープベンチャーズ株式会社 アソシエイト）、森 詩絵里氏（インテグラル法律事務所 弁護士）、小瀧 健太（株式会社レッジ 代表取締役社長）。
+
+審査観点として、主に以下の3点で評価を行った。
+- ストーリーへの共感度
+- ソリューションアイデアの独自性
+- 変化のインパクト
+
+## 「日常」そのものに溶け込むソリューションアイデアも
+応募アイデアは、「死後」に向き合うもの、災害発生時の対策に活用するもの、学校・教育に取り入れるものなど、様々なシーンでのソリューションアイデアが寄せられた。
+テーマである「日常」そのものに注目したアイデアとして、今回優秀賞にも選出されている「反復無駄話」というアイデアも。
+家庭での会話を学習するAIが「それ、前にも言ったやん。」「何遍も同じこと言わさんといてー。」 といったように会話に割り込む。まさに「日常」「余白」に注目したアイデアとして光った。
+
+## 「実装」部門の参加者募集開始
+Ledge.ai CHALLENGEの第1部「発想」部門では、自由なアイデアを募るコンテスト形式で行われた。ここから第2部として、「実装」部門へ移行する。
+特設サイト上の応募フォームより、今回選出された優秀5作品を「実装」するチームメンバーの募集を開始する。
+
+応募資格は以下の通り。（詳細は特設サイトを確認）
+- 11月から12月にかけて継続的に「実装」に参加すること（スケジュールは各チームにて検討）
+- 「実装」を行うエンジニアリングスキルを有していること
+- 優秀賞として選出されたアイデアの実現に共感していること
+
+## 2023年末に最終審査および表彰式の開催
+12月末には都内会場にて各チームが実装したソリューションまたはプロトタイプを発表する最終審査会を開催予定。ライブまたはアーカイブでの配信も予定している。
+今年起きた「第4次AIブーム」の中で「発想」されたアイデアを、今年のうちにソリューションの「実装」までたどり着く各チームの取り組みを是非見届けてほしい。
+</description><pubDate>Thu, 05 Oct 2023 06:35:16 +0000</pubDate></item><item><title>NVIDIAとNTTドコモ、世界初のGPUによる5Gネットワークを日本で展開</title><link>https://ledge.ai/articles/docomo_nvidia_first_gpu_accelerated_5g_network</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -240,20 +271,7 @@ ChatGPTの機能変更もいくつかみられる。機能「Code Interpretor」
 :::
 
 
-</description><pubDate>Fri, 29 Sep 2023 04:44:06 +0000</pubDate></item><item><title>「AIホリエモン」がアナウンサーに 北九州のFMラジオ「CROSS FM」代表取締役会長に堀江氏就任</title><link>https://ledge.ai/articles/caster_ai_horiemon_crossfm</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-実業家の堀江貴文氏は2023年9月22日、北九州市の小倉城で{target=“_blank”}を行った。同氏は9月6日に北九州市のFMラジオ局「CROSS FM（クロスエフエム）」の代表権を持つ会長に就任した。経営権を取得した堀江氏らが、自身をコンテンツにした新規事業や関連番組の立ち上げを行う。会見では「電波を使った大実験」と銘打って、ラジオの可能性について触れ、地域活性のための大型集客イベントの開催などのさまざまなチャレンジについて今後の展開を語った。
-
-この日、同社と包括的業務提携契約の締結を{target=“_blank”}したINCLUSIVEとの取り組みで、堀江氏の合成音声を使った「AIホリエモン」がニュースや交通情報を読むという。
-:::small
-!
-画像出典：{target=“_blank”}より
-:::
-:::box
-
-:::</description><pubDate>Fri, 29 Sep 2023 06:52:57 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 29 Sep 2023 04:44:06 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
