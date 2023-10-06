@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 04 Oct 2023 07:33:00 +0000</lastBuildDate><item><title>生成AIのオルツとキーエンスが資本業務提携、AI技術と生産性向上ノウハウを融合</title><link>https://ledge.ai/articles/alt_keyence_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 04 Oct 2023 07:37:44 +0000</lastBuildDate><item><title>NVIDIAとNTTドコモ、世界初のGPUによる5Gネットワークを日本で展開</title><link>https://ledge.ai/articles/docomo_nvidia_first_gpu_accelerated_5g_network</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2023年9月27日、NTTドコモとの協力を{target=“_blank”}し、日本でGPU アクセラレーテッド 5G ネットワーク オープン RANの構築を開始する。NTTドコモは、GPUを利用したこの5Gネットワークを展開する世界初の通信事業者となる。
+
+このネットワークは、性能、総所有コスト、エネルギー効率の向上を目指し、オープンRANの柔軟性、拡張性、供給チェーンの多様性を実現することを目的としている。この5GオープンRANソリューションは、富士通の5G仮想基地局（vRAN）を基盤とし、NVIDIA Aerial vRAN スタックと NVIDIA コンバージド アクセラレータを組み合わせている。これにより、標準的な業界機器を使用してリソースを動的に割り当てる、完全にソフトウェアおよびクラウド定義のネットワークを通信事業者が作成することが可能となる。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 04 Oct 2023 07:37:44 +0000</pubDate></item><item><title>生成AIのオルツとキーエンスが資本業務提携、AI技術と生産性向上ノウハウを融合</title><link>https://ledge.ai/articles/alt_keyence_partnership</link><description>:::small
 画像出典：オルツ
 :::
 
@@ -240,29 +253,7 @@ ChatGPTの機能変更もいくつかみられる。機能「Code Interpretor」
 :::
 :::box
 
-:::</description><pubDate>Fri, 29 Sep 2023 06:52:57 +0000</pubDate></item><item><title>自動運転にLLMを組み合わせ訓練　AI ドライバーの解釈可能性が劇的に向上</title><link>https://ledge.ai/articles/wayve_lingo1</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ロンドンの自動運転スタートアップWayveは2023年9月14日、既存の自動運転ソフトウェアと大規模言語モデル（LLM）を組み合わせた自動運転用の視覚言語行動モデル（VLAM）「LINGO-1」を{target=“_blank”}した。
-
-LINGO-1は、シーンに関する質問に答え、運転操作の説明を提供するよう設計されている。これにより、モデルの解釈可能性が向上し、パフォーマンスの向上が期待される。言語記述の使用は、学習プロセスを大幅に加速し、大規模言語モデル（LLM）とビジョン言語アクションモデル（VLAM）の統合を可能にする。
-
-Wayveの専門ドライバーが運転中に解説する現実世界のデータを使用してトレーニングされているため、 LINGO-1 は運転行動の背後にある理由を説明できる。これによりAI モデルの解釈、説明、トレーニングのための新しいタイプのデータが提供されるという。
-!
-:::small
-画像出典：{target=“_blank”}VLAMの概要やその訓練について説明している。
-:::
-
-例えば下の画像のように「車の流れが遅いので、少しずつ進入していきます」「路肩に駐車してある車を追い越します」「前方の道が空いているので、今加速しています」と、LINGO-1が運転シーンについてコメントし、運転環境のどの要因が運転の決定に影響を与えたかを明確にして説明する。
-!
-:::small
-画像出典：{target=“_blank”}LINGO-1 が駐車中の車を追い越すときに実行するアクションについて説明している動画より。
-:::
-
-:::box
-
-:::</description><pubDate>Thu, 28 Sep 2023 06:36:11 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 29 Sep 2023 06:52:57 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
