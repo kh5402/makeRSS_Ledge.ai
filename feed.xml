@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 04 Oct 2023 07:33:00 +0000</lastBuildDate><item><title>Meta AI、学習にFacebookとInstagramの公開投稿を使用</title><link>https://ledge.ai/articles/meta_ai_training_facebook_instagram</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 04 Oct 2023 07:33:00 +0000</lastBuildDate><item><title>生成AIのオルツとキーエンスが資本業務提携、AI技術と生産性向上ノウハウを融合</title><link>https://ledge.ai/articles/alt_keyence_partnership</link><description>:::small
+画像出典：オルツ
+:::
+
+
+オルツが2023年9月8日、キーエンスとの資本業務提携を行うと{target=“_blank”}した。オルツの大規模言語モデル（LLM）や音声認識・音声合成などのAI技術と、キーエンスの生産性向上や企業運営の知見を組み合わせたパートナーシップだ。
+
+日本企業では、データやナレッジの有効活用やAI技術を用いたDX・業務効率化の取り組みが進んでいない状況がある。この提携では、オルツのAI技術・実装ノウハウとキーエンスのクライアントの課題解決能力を融合し、業界や業務に合わせた生産性向上ソリューションの開発・提供を目指す。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 04 Oct 2023 04:49:09 +0000</pubDate></item><item><title>Meta AI、学習にFacebookとInstagramの公開投稿を使用</title><link>https://ledge.ai/articles/meta_ai_training_facebook_instagram</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -245,23 +262,7 @@ Wayveの専門ドライバーが運転中に解説する現実世界のデータ
 
 :::box
 
-:::</description><pubDate>Thu, 28 Sep 2023 06:36:11 +0000</pubDate></item><item><title>ビジネスでのAI活用を最大化、デロイト トーマツとDataikuが統合プラットフォームの導入支援</title><link>https://ledge.ai/articles/deloitte_dataiku</link><description>:::small
-画像出典：写真AC
-:::
-
-
-デロイト トーマツは2023年9月22日、Dataiku Japanと協業し、顧客企業に対して機械学習（ML）モデルの運用を管理する統合データサイエンスプラットフォーム「Dataiku」の導入を支援すると{target=“_blank”}した。この協業により、顧客企業のAIおよびMLOps（機械学習の開発・運用サイクル）を組織全体に取り入れ、ビジネスでの活用を最大化する。
-
-AIの実用化において、PoCから本番運用にスムーズに移行すること、ビジネス環境の変化に対応する機械学習モデルのアップデートが課題として挙げられる。この解決にはビジネス部門のステークホルダー、技術領域が異なるデータサイエンティスト、インフラエンジニアなど、さまざまな人たちの間での密接な関わりが必要だ。Dataikuのプラットフォームはデータのサイロ化を回避し、一連のデータパイプラインのサイクルを統制するMLOps機能を持つ。
-
-この協業においてデロイト トーマツは、Dataikuの導入支援、データ分析基盤の構築、AI技術の本番活用、MLOpsの取り入れ、AI人材の育成などのアドバイザリーサービスなどを提供。またDataikuは、対話型生成AIの一元化された取り込み、モデル開発や仕組みの提供、リアルタイムなダッシュボード化、双方向のWebアプリ開発などの仕組みを提供する。
-
-
-:::box
-
-:::
-
-</description><pubDate>Wed, 27 Sep 2023 05:52:05 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Thu, 28 Sep 2023 06:36:11 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
