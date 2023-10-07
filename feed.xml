@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 05 Oct 2023 06:35:16 +0000</lastBuildDate><item><title>生成AIが日常に溶け込む　「死後」「無駄話」などのアイデアが優秀賞｜Ledge.ai主催のアイデアコンテスト結果発表</title><link>https://ledge.ai/articles/ledge_ai_challenge_ideas_category</link><description>8月3日、Ledge.aiが主催したアイデアコンテスト{target=“_blank”}の「発想」部門が開催された。募集テーマは「5年後の日常に余白を生むサービスアイデア」。9月19日に「発想」部門の受付が終了し、審査員6名による審査の結果、5作品が優秀賞として選出された。優秀賞選出作品は以下の通り。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:30:14 +0000</lastBuildDate><item><title>「ヘイ Meta！」音声コマンドで通話や撮影「Ray-Ban | Meta」次世代スマートグラスにはライブ配信機能も</title><link>https://ledge.ai/articles/meta_rayban_collection</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+Metaは米国時間の2023年9月28日、同社の開発者イベント「Meta Connect 2023」で、EssilorLuxotticaとの協力のもと次世代のRay-Ban Metaスマートグラスコレクションを{target=“_blank”}した。
+
+2021年から販売していた第1世代のスマートグラスのコア機能を改善し、新機能を追加。「ライブ配信機能」と「Meta AI」を内蔵した新たなスマートグラスコレクションは、10月17日から販売開始予定。価格は299ドルからで、現在meta.comとray-ban.comで予約を受け付けている。米国、カナダ、オーストラリア、およびヨーロッパ全土を含む15か国で販売されるが、残念ながら日本からの注文はできない。
+
+ライブ配信機能を使うと、スマートグラスからInstagramやFacebookに直接映像を配信でき、スマートグラスとスマートフォンのカメラをシームレスに切り替えながら、自分だけの視点を共有できる。
+
+また、搭載されている音声コマンドを使い、ハンズフリー機能をスマートグラスから直接利用可能。WhatsApp、Messenger、スマートフォンを使って電話をかけたり、メッセージを送信できる。写真や動画の撮影や、メディア再生、一時停止などのコントロールが手を動かさずに行えるという。音声機能は、英語、イタリア語、フランス語に対応。Meta AIは米国でのみ利用できるとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 06 Oct 2023 05:30:14 +0000</pubDate></item><item><title>生成AIが日常に溶け込む　「死後」「無駄話」などのアイデアが優秀賞｜Ledge.ai主催のアイデアコンテスト結果発表</title><link>https://ledge.ai/articles/ledge_ai_challenge_ideas_category</link><description>8月3日、Ledge.aiが主催したアイデアコンテスト{target=“_blank”}の「発想」部門が開催された。募集テーマは「5年後の日常に余白を生むサービスアイデア」。9月19日に「発想」部門の受付が終了し、審査員6名による審査の結果、5作品が優秀賞として選出された。優秀賞選出作品は以下の通り。
 - 死後も双方向のコミュニケーションを。生成AIを活用した終活&amp;死後支援サービス
 - 産後の新しいステップ：テクノロジーでサポートする出産前後の手続きと心のケア
 - 災害発生予測に基づく避難所の過密解消を目的とした早期分散避難計画の作成と周知
@@ -237,41 +258,7 @@ WaabiのトラックはAIソフトウェアとセンサーを搭載している�
 
 
 
-</description><pubDate>Fri, 29 Sep 2023 04:48:32 +0000</pubDate></item><item><title>ChatGPT Plusがこっそりアップデート、2022年1月までの知識と新機能、ブラウジング機能も提供</title><link>https://ledge.ai/articles/chatgpt_update_browsing</link><description>:::small
-画像出典：写真AC
-:::
-
-
-ChatGPT plusはこれまで2021年9月までの学習データしか利用できなかったが、その期限が2022年1月までに延長されている。OpenAIからの正式な発表はないが、ほかにもいくつかの変更点がみられる。
-
-!
-:::small
-画像出典：ChatGPT
-:::
-
-編集部が確認のためにChatGPTに直接質問してみると、2022年1月までの知識を持っているという回答があった。なおChatGPT Plusのみがアップデートされている。
-
-ChatGPTの機能変更もいくつかみられる。機能「Code Interpretor」が「Advanced data analysis」に変わっている。また「Regenerate」ボタンで得られる複数の回答を比較するUIが、回答を左右に並べて比較するスタイルになった。さらに、倫理的な問題がある回答の拒否が多くなったという声が、XなどのSNSにあがっている。
-
-またOpenAIは2023年9月28日、「ChatGPT Plus」と「Enterprise」ユーザー向けにブラウジング機能の提供を開始したと{target=“_blank”}した。これは2021年9月以前の学習データに縛られず、最新のインターネット情報を取得して回答する機能。ユーザーエージェントの特定や「robots.txt」の尊重などの改善が実施された。
-
-!
-:::small
-画像出典：X（）
-:::
-
-機能を使用するには「Browse with Bing」オプションの有効化が必要だ。なお近日中に、全ユーザー向けの展開も予定している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 29 Sep 2023 04:44:06 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 29 Sep 2023 04:48:32 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
