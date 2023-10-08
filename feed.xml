@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:34:40 +0000</lastBuildDate><item><title>「ChatGPT」開発のOpenAI、最大900億ドルの評価額を目指し株式売却を協議中</title><link>https://ledge.ai/articles/openai_stock_sale</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:39:04 +0000</lastBuildDate><item><title>孫正義氏、AGI(汎用AI)の実現は10年後と想定</title><link>https://ledge.ai/articles/softbank_agi</link><description>:::small
+画像出典：ソフトバンク
+:::
+
+ソフトバンクは2023年10月3日～6日に、イベント{target=“_blank”}を開催した。創業者の孫正義氏が、生成AIについての特別講演を行った。
+
+講演において孫氏は、汎用性のあるAI（AGI）を「人類の叡智の総和の10倍」と定義した。また、AGIは10年以内に実現し、社会を大きく変えるとし「日本、目覚めよ」と述べた。会場のほとんどの人がAGIを知らないことを指摘し、これから多くの産業（医療、運輸、金融など）に影響を与えるとし、取り組む企業が将来のリーダーになると強調した。
+
+また孫氏はChatGPTについても触れ、その有用性とコスト効果について語った。さらに2060年までの未来の動画を上映し、2060年までにヒューマノイドが人間と区別がつかないほど進化すると述べた。
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Fri, 06 Oct 2023 05:39:04 +0000</pubDate></item><item><title>「ChatGPT」開発のOpenAI、最大900億ドルの評価額を目指し株式売却を協議中</title><link>https://ledge.ai/articles/openai_stock_sale</link><description>:::small
 画像出典：{target=“_blank”}
 :::
 
@@ -234,28 +253,7 @@ PLaMo-13Bの学習データは、1.4兆トークンの日英2言語のデータ�
 :::
 
 
-</description><pubDate>Mon, 02 Oct 2023 04:21:41 +0000</pubDate></item><item><title>ChatGPTに視覚・聴覚・音声出力を実装 画像を認識して音声対話が可能</title><link>https://ledge.ai/articles/gpt_see_hear_and_speak</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国OpenAIは現地時間の2023年9月25日、対話型AI「ChatGPT」に、ChatGPTに新たな音声と画像機能を導入開始すると{target=“_blank”}した。ChatGPTとの音声対話や、画像を示し対話することができる。例えば冷蔵庫の写真を撮り、夕食のメニューを考えさせることも可能だという。音声はiOSとAndroidで利用可能となり、画像はすべてのプラットフォームで利用できる。この新機能は、今後2週間でPlusユーザーとEnterpriseユーザーに順次提供される。
-
-例えば下図のように、自転車の一部を撮影した画像と文章で「これはレバーですか？」とChatGPTに質問をすると、「いいえ、それはボルトです。緩めるにはレンチが必要です」という回答が返ってくる。
-!
-
-音声機能には、新しいテキスト読み上げモデルを活用しており、テキストと数秒のサンプル音声だけから人間のような音声を生成できる。プロの声優と協力して数種類の音声が作成されている。また、音声認識には同社のオープンソースのWhisperを使用し、話された言葉をテキストに変換する。
-
-画像理解は、マルチモーダルGPT-3.5およびGPT-4によって強化されている。これらのモデルは、言語推論スキルを、写真、スクリーンショット、テキストと画像の両方を含むドキュメントなど、幅広い画像に適用するという。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 02 Oct 2023 02:54:51 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 02 Oct 2023 04:21:41 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
