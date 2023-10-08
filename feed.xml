@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:39:04 +0000</lastBuildDate><item><title>孫正義氏、AGI(汎用AI)の実現は10年後と想定</title><link>https://ledge.ai/articles/softbank_agi</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:45:16 +0000</lastBuildDate><item><title>OpenAIが「AI版iPhone」開発の巨額プロジェクトへ向け交渉中　Apple元デザイナー、ソフトバンク傘下Armが中心になる可能性も</title><link>https://ledge.ai/articles/openai_arm_softbank</link><description>:::small
+画像出典：{target=“_blank”}
+:::
+
+「ChatGPT」を運営する米国OpenAIが「AI版iPhone」開発プロジェクトについて、アップルの元デザイナーのジョナサン・アイブ氏やソフトバンクグループと交渉を行っていると、{target=“_blank”}が2023年9月28日に報じた。これは10億ドル（約1500億円）規模のプロジェクトとのこと。
+
+アイブ氏はアップルでiPhoneやiPodのハードウエア開発に関与し、2019年にLoveFromを設立。アイブ氏とOpenAIのサム・アルトマン氏は、AIを活用した「自然で直感的なユーザー体験」を提供する機器の開発を目指して議論中だ。
+
+また両者はソフトバンクの孫正義社長を交え、プロジェクトへの10億ドル以上の出資や、新ベンチャー企業設立の交渉を進めている。ソフトバンク傘下のArmが、プロジェクトに中心的に関与する可能性がある。協議は進行中で、製品の完成には数年かかるとみられる。
+
+ソフトバンクはArmの新規株式上場（IPO）成功後、AI事業の強化を検討しているとの情報もある。FTは孫氏が、AI分野への数兆円規模の投資を考慮中と報じている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 06 Oct 2023 05:45:16 +0000</pubDate></item><item><title>孫正義氏、AGI(汎用AI)の実現は10年後と想定</title><link>https://ledge.ai/articles/softbank_agi</link><description>:::small
 画像出典：ソフトバンク
 :::
 
@@ -218,42 +239,7 @@ PLaMo-13Bの学習データは、1.4兆トークンの日英2言語のデータ�
 
 :::box
 
-:::</description><pubDate>Mon, 02 Oct 2023 02:59:38 +0000</pubDate></item><item><title>大坂なおみやパリス・ヒルトンがAIキャラに Meta開発者会議で新製品発表</title><link>https://ledge.ai/articles/meta_ai_charactor</link><description>:::small
-画像出典：Meta
-:::
-
-
-米国Metaは2023年9月27日、開発者会議{target=“_blank”}にて、AI会話アシスタント「Meta AI」や、画像生成モデル「Emu」を利用したAI製品を発表した。
-
-「Meta AI」は「Llama 2」をベースにしたAIアシスタントだ。既存のサービス「WhatsApp」「Messenger」「Instagram」などで使用可能。また「Ray-Ban Metaスマートグラス」と「Quest 3」にも近日導入予定だ。MicrosoftのBingとパートナーシップを結び、リアルタイム情報の検索が可能となる。チャット内でプロンプト「@MetaAI /imagine」を入力すると、画像を生成することもできる。
-
-「AIステッカー」は「Llama 2」「Emu」を利用して、プロンプトから数秒で画像を生成できる機能。10月から一部の英語圏ユーザーが使え、利用できるアプリはWhatsApp、Messenger、Instagram、Facebook Storiesだ。
-
-またInstagramには、新機能「Restyle」や「Backdrop」を追加。AIが生成したコンテンツは、特定のアイコンで明示される。
-
-さらに米国では、有名人をモデルにした28種類のAIキャラクターをベータ版で{target=“_blank”}する。AIキャラクターは、モデルとなった人物とは別の設定や人格を持つ。下記はその一部だ。
-
-!
-
-
-:::small
-画像出典：Meta
-:::
-
-「Meta AI」とは異なり、多くのAIキャラクターは最新の情報を取得できないが、今後の対応が予定されている。
-
-またMetaは「AI studio」も発表し、今後数週間で利用開始予定。将来的には、メタバース上にもAIを構築できるようになる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Mon, 02 Oct 2023 04:21:41 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Mon, 02 Oct 2023 02:59:38 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
