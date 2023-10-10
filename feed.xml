@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:50:23 +0000</lastBuildDate><item><title>Stabilty.AI、環境に優しく効率的な30億パラメータ大規模言語モデル「Stable LM 3B」発表</title><link>https://ledge.ai/articles/stability_ai_llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:53:51 +0000</lastBuildDate><item><title>Stabilty.AI、環境に優しく効率的な30億パラメータ大規模言語モデル「Stable LM 3B」発表</title><link>https://ledge.ai/articles/stability_ai_llm</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -1854,7 +1854,33 @@ CDAO （Chief Data Analytics Officer）　西田幸平 氏
 {target=“_blank”}
 
 （Sponsored by 株式会社バンダイナムコネクサス）
- </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>生成AI「Z世代」7割が利用 「X世代」「ベビーブーマー」とギャップ Salseforce調査</title><link>https://ledge.ai/articles/ai_generation_gap</link><description>:::small
+ </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>Z世代の多く「仕事がAIに置き換わること脅威に感じない」 Adobe未来の労働力調査</title><link>https://ledge.ai/articles/adbe_reserch_ai_z</link><description>:::small
+画像出典：Adobe
+:::
+
+
+米国Adobeが2023年9月27日、調査結果{target=“_blank”}を公開した。Z世代（1997〜2012年生まれ）の従業員は、生成AIが労働市場にもたらす影響にそれほど不安を抱いていないことがわかった。
+
+パンデミック後にベビーブーマー世代が労働市場から退いており、Z世代がキャリアをスタートさせた。多くの人に生成AIの導入による労働市場への影響に懸念があるが、Z世代の多く（59％）は自らの仕事がAIに置き換わることを脅威に感じていない。
+
+また生成AIが組織内での日常の業務に導入されることに対して、準備ができていると感じるのは48％だった。
+
+Z世代の23％が、生成AIの導入に全面的に賛成。また50％が生成AIを業務で利用した経験があり、70％はAIツールを使用している。職場で生成AI使用のガイドラインが提供されていると答えたのは35％だった。
+
+この調査は、米国で従業員数750人以上の企業で3年以下の職務経験を持つZ世代の従業員1011人からの回答をまとめたもの。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 06 Oct 2023 05:53:51 +0000</pubDate></item><item><title>生成AI「Z世代」7割が利用 「X世代」「ベビーブーマー」とギャップ Salseforce調査</title><link>https://ledge.ai/articles/ai_generation_gap</link><description>:::small
 画像出典：Salesforce
 :::
 
@@ -2099,25 +2125,7 @@ AI研究の推進では、従来のコンピューターサイエンスだけで
 :::
 
 
-</description><pubDate>Fri, 08 Sep 2023 03:20:09 +0000</pubDate></item><item><title>「生成AIは雇用を破壊するより拡大する」ILO研究 ただし「政府の管理方法次第」とも</title><link>https://ledge.ai/articles/ilo_ai_job_report</link><description>:::small
-
-:::
-
-国際労働機関（ILO）は2023年8月21日、生成AIに関する見解を{target=“_blank”}した。世界規模の調査により、ChatGPTなどの生成AIは雇用を破壊するより拡大する可能性が高いと同機関は予測している。
-
-{target=“_blank”}によると、ほとんどの仕事や業界は部分的にしか自動化されておらず、生成AIによって完全に取って代わられるのではなく、生成AIは仕事を補完する可能性が高いことがわかった。生成AIの最大の影響は、仕事の質（特に労働強度と自律性）に対する潜在的な変化である可能性が高い。
-
-高所得国では総雇用の5.5%が、低所得国では0.4%が自動化のリスクにさらされている。管理職や営業職、技術職への影響は相対的に低いが、事務職は高く、この技術により作業の4分の1が自動化の影響を受ける可能性がある。また男性に比べ女性の方が潜在的な影響を受けやすい。高所得国や中所得国で事務職に女性が多いため。
-
-一方で、雇用を拡大する可能性はどの国でもほぼ同等であり、適切な政策を実施すれば、この技術が途上国に重要な利益をもたらす可能性があるとしている。ILOは生成AIの影響は管理方法に大きく依存すると指摘した。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 04 Sep 2023 06:43:08 +0000</pubDate></item><item><title>特許庁「幅広い分野での審査に対応が必要」AI担当官4倍に増員　全審査部門に配置</title><link>https://ledge.ai/articles/ai_shutsugan_seibi</link><description>:::small
+</description><pubDate>Fri, 08 Sep 2023 03:20:09 +0000</pubDate></item><item><title>特許庁「幅広い分野での審査に対応が必要」AI担当官4倍に増員　全審査部門に配置</title><link>https://ledge.ai/articles/ai_shutsugan_seibi</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
