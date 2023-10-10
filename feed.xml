@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:45:16 +0000</lastBuildDate><item><title>トヨタ労組の定期大会「AI活用や自動化で求められるスキルや働き方が大きく変化していく可能性」新委員長発言</title><link>https://ledge.ai/articles/toyota_labor_union</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:45:16 +0000</lastBuildDate><item><title>アート引越センター「引越しAI見積りアプリ」の開発に着手、2024年2月提供へ</title><link>https://ledge.ai/articles/art_moving_company</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+アート引越センターは2023年9月27日、ぐるっと室内を撮影するだけで AIが自動見積りをする新アプリの開発に着手したことを {target=“_blank”}した。
+
+同社は発表で2024年問題をはじめとした働き方改革、労働力不足といった社会的な課題に触れ、引越業界においてもAIなどの最先端テクノロジーを活用した積極的な業務改革、DXが急務だと述べた。
+
+自動見積りサービス「引越しＡＩ見積りアプリ（仮）」では、顧客が室内をぐるっと撮影すると、そのデータを基に3Dモデルが自動で生成され、同社独自の物量積算AIエンジンによって自動で見積り金額が算出される仕組みだという。2024年2月にはアプリを使用したサービス開始を目指して開発を進めるとのことだ。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 06 Oct 2023 05:40:35 +0000</pubDate></item><item><title>トヨタ労組の定期大会「AI活用や自動化で求められるスキルや働き方が大きく変化していく可能性」新委員長発言</title><link>https://ledge.ai/articles/toyota_labor_union</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -221,24 +236,7 @@ Googleは、7月の時点で個人情報の取り扱いを定めたプライバ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 03 Oct 2023 03:41:33 +0000</pubDate></item><item><title>PFNが世界トップ性能の大規模言語モデル「PLaMo-13B」をオープンソースで公開
-</title><link>https://ledge.ai/articles/pfn_plamo_13b</link><description>:::small
-画像出典：Preferred Networks
-:::
-
-
-Preferred Networks(PFN)は2023年9月28日、130億パラメータの事前学習済み大規模言語モデル{target=“_blank”}を、研究・商用で利用可能なオープンソースで公開した。現在公開されている同規模のパラメータ数の事前学習済み言語モデルと比べ、大規模言語モデルのベンチマーク評価において、日英2言語をあわせた能力で世界トップレベルの性能を示している。
-
-PLaMo-13Bの学習データは、1.4兆トークンの日英2言語のデータセットを使用。国立研究開発法人産業技術総合研究所のNVIDIA A100を480GPU使用し、約1か月の学習を行った。
-これにより英語と日本語のデータを増やして、コンパクトながら高い性能を持つモデルを開発した。
-
-またPFNは同時に、新会社の設立に関する発表も行った。マルチモーダル基盤モデルの開発を強化する目的でPreferred Elementsを設立。大規模かつ高機能な基盤モデルの開発を行い、2024年中の商用サービスの提供開始を目指す。
-
-
-:::box
-
-:::
-</description><pubDate>Tue, 03 Oct 2023 03:48:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Tue, 03 Oct 2023 03:41:33 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
@@ -456,7 +454,7 @@ Python特化型プログラミングスクールである。未経験から3ヶ�
 
 
 
-</description><pubDate>Thu, 28 Sep 2023 06:18:09 +0000</pubDate></item><item><title>Hugging Face(ハギングフェイス)とは| Hugging Face Hub(AI特化版GitHub)を手がける成長企業　概要と使い方を解説
+</description><pubDate>Thu, 28 Sep 2023 06:18:09 +0000</pubDate></item><item><title>Hugging Face(ハギングフェイス)とは｜Hugging Face Hub(AI特化版GitHub)を手がける成長企業　概要と使い方を解説
 </title><link>https://ledge.ai/articles/The-Al-community</link><description>
 AIについてインターネット検索していると、Hugging FaceというWebサイトにたどり着いたことがあるはずだ。ニコっしながら手を広げている黄色い絵文字が印象的だ。
 !
