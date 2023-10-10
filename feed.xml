@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:45:16 +0000</lastBuildDate><item><title>アート引越センター「引越しAI見積りアプリ」の開発に着手、2024年2月提供へ</title><link>https://ledge.ai/articles/art_moving_company</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:50:23 +0000</lastBuildDate><item><title>Stabilty.AI、環境に優しく効率的な30億パラメータ大規模言語モデル「Stable LM 3B」発表</title><link>https://ledge.ai/articles/stability_ai_llm</link><description>:::small
+画像出典：写真AC
+:::
+
+
+英国Stabilty.AIは2023年10月3日、コンパクトな大規模言語モデル（LLM）{target=“_blank”}を発表した。ノートPCなど計算能力があまり高くない機器でも動作するように設計されており、ライセンスは商用利用可能なオープンソースだ。
+
+業界の標準は70億～700億パラメータだが、Stable LM 3Bのモデルは30億パラメータで構成されている。主な特徴は小型化と効率性で、消費電力が少なく環境に優しい。他と比較して運用コストが低いが、従来の3Bパラメーター言語モデルや7Bパラメーターのモデルを凌駕する性能を持つ。
+
+Stable LM 3Bにより、各種端末や家庭用PCでのアプリケーション開発が容易になる。従来のStable LMと比較して、推論速度は高速でテキスト生成能力が向上。またダウンストリーム性能が向上しており、大規模な学習を経て高性能を達成する。
+
+汎用性がありさまざまな用途に適応可能だが、安全に動作させるためには事前の調整が必要だ。インストラクションモデルは現在安全テスト中で、近々リリースする予定。現在のモデルは無料で、オープンソースのCC-By-SA 4.0ライセンスでリリースされている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Fri, 06 Oct 2023 05:50:23 +0000</pubDate></item><item><title>アート引越センター「引越しAI見積りアプリ」の開発に着手、2024年2月提供へ</title><link>https://ledge.ai/articles/art_moving_company</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -221,22 +243,7 @@ Microsoftの提供する「Power Automate」は、スクリプト、データ抽
 :::
 :::box
 
-:::</description><pubDate>Mon, 02 Oct 2023 08:17:46 +0000</pubDate></item><item><title>GoogleもようやくAI学習からオプトアウトできるオプション「Google-Extended」を発表</title><link>https://ledge.ai/articles/google_extended</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleは2023年9月28日、Webサイトの運営・管理者など（Webパブリッシャー）が、BardやVertex AIの生成APIに対してオプトアウトできる新たな機能「Google-Extended」を{target=“_blank”}した。Webパブリッシャー自身で、サイトのコンテンツが、Googleの対話型AI「Bard」や機械学習プラットフォーム「Vertrex」の今後の学習に使用されないことを選択できる設定だ。
-
-Googleは、7月の時点で個人情報の取り扱いを定めたプライバシーポリシーを2023年7月1日付けで改訂。いったんインターネット上に公開された情報であれば対話型AI「Bard」などのために使用することを明示していた。これに対し、OpenAIは8月、インターネット上からAIに学習させるためのデータを集めるWebクローラー「GPTbot」を拒否（ブロック）する方法を発表していた。
-
-今回の発表では、Googleも「Googlebot」をブロックするというオプションをしているが、同社は「Googleの AIモデルの機能改善・向上に、自身のコンテンツを役立てるかどうかをコントロールできる機能」とあくまで学習データの提供に協力的な姿勢を期待する表現を貫いている。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 03 Oct 2023 03:41:33 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Mon, 02 Oct 2023 08:17:46 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
