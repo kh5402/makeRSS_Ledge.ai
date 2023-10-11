@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 06 Oct 2023 05:53:51 +0000</lastBuildDate><item><title>Stabilty.AI、環境に優しく効率的な30億パラメータ大規模言語モデル「Stable LM 3B」発表</title><link>https://ledge.ai/articles/stability_ai_llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 10 Oct 2023 03:10:12 +0000</lastBuildDate><item><title>Google最新スマホは生成AI搭載「Google Pixel 8シリーズ」12日より販売開始</title><link>https://ledge.ai/articles/google_pixel8_pixel8_pro</link><description>:::small
+画像の出典{target=“_blank”}
+:::
+
+米国Googleは2023年10月4日、新製品発表「MadeByGoogle」で、最新のスマートフォン「Pixel8」と「Pixel8 Pro」を12日に発売すると{target=“_blank”}した。Google Tensor G3チップ搭載による高度なセキュリティ機能、長時間駆動バッテリー、高性能カメラなどを備え、最新のGoogleAIにより、写真の修正、通話スクリーニング、調べ物などの作業を効率的にこなす。
+
+両モデルともアップデートされたメインカメラと新しい超広角レンズを備えており、Pixel 8 Proは特に低照度での撮影能力が向上している。また、Pixel 8 Proでは、シャッタースピードやISOなどの設定を含むProControlsが利用可能だ。
+
+Googleフォトの新機能「Magic Editor」では、生成AIを使用して写真を編集し、撮影時のエッセンスに合わせて調整することができる。被写体の位置変更や背景の色調整など、写真の編集がより簡単になる。
+
+写真撮影時には「ベストテイク」機能が利用できる。この機能は、生成AIを活用して写真内の顔を認識し、ユーザーの好みに合わせて最適な表情に変更することができる。端末内に保存されている同じ顔の写真を学習することで、同じ人を撮影することが多くなるほど、この機能の精度も向上するという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+さらに、Googleフォトアプリの「Audio Magic Eraser」機能を使用すれば、動画内の気になる音を簡単に削減することができる。この機能により、特定の音だけを強調したり、不要な雑音を削除したりすることが可能となる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+今年の後半には、Pixel 8 Proに「Video Boost」が追加される予定で、これによりTensor G3とGoogleのデータセンターを活用して、動画の色調や安定性などを最適化し、よりリアルな映像を実現する。
+
+Pixelシリーズは7年間のソフトウェアアップデート、Android OSのアップグレード、セキュリティアップデート、定期的なFeature Dropsを受け取ることができるとのこと。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 10 Oct 2023 03:10:12 +0000</pubDate></item><item><title>Stabilty.AI、環境に優しく効率的な30億パラメータ大規模言語モデル「Stable LM 3B」発表</title><link>https://ledge.ai/articles/stability_ai_llm</link><description>:::small
 画像出典：写真AC
 :::
 
@@ -209,41 +242,7 @@ NVIDIAは2023年9月27日、NTTドコモとの協力を{target=“_blank”}し�
 
 :::
 
-</description><pubDate>Wed, 04 Oct 2023 04:44:58 +0000</pubDate></item><item><title>Mirosoft「Power Automate」プラグイン発表ーーChatGPTから直接フローを作成し実行。Plus会員は追加費用なし</title><link>https://ledge.ai/articles/microsoft_power_automate_plugin_for_gpt</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-米国Microsoftは2023年9月21日、ChatGPT向けにPowerAutomateのプラグインを{target=“_blank”}した。
-
-Microsoftの提供する「Power Automate」は、スクリプト、データ抽出、テスト、フォームへの記入など定型化した処理を自動化するツールだ。ChatGPT用に新たに発表されたPower Automateのプラグインを使用すると、ユーザーはChatGPT から直接フローを作成、一覧表示、実行できる。さらにChatGPTのインターフェースからフローを検出、呼び出しが可能。
-
-プラグインで作成したフローや呼び出したフローは、実行前に内容の確認ができる。生成AIの助けを借りたときにも、あくまでユーザーが責任を持って確認し実行する。
-
-プラグインは、すべてのChatGPT Plusユーザーが利用可能。Power AutomateアカウントとChatGPT Plusアカウントを取得し、ChatGPTのプラグインストアよりインストールする。その後、Power Automateアカウントからプラグインを承認すれば準備が完了する。
-
-その後は「新しいファイルが SharePoint フォルダーに追加されたときに Teams チャネルに通知を投稿するフローを作成する」など文章による指示（プロンプト）を使用し、ChatGPTとの会話が開始できる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-「スキル」と呼ばれるPower Automateフローは、プラグインからの実行が可能だ。ChatGPTで「Copilotからフローを実行」トリガーを持つスキルを呼び出せる。
-
-たとえばユーザーが「メールを送信する」というPower Automateフロー（スキル）を作成した場合、このフローは、ChatGPTからトリガー（実行）できる。ユーザーはChatGPTとの会話の中で「メールを送信する」というコマンドを入力するだけで、対応するフローが実行され、指定されたアクション（この場合はメールの送信）が自動的に行われるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 02 Oct 2023 08:17:46 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 04 Oct 2023 04:44:58 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
