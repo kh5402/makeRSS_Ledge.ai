@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 02:30:43 +0000</lastBuildDate><item><title>NVIDIA テルアビブでのAIサミット開催を中止「参加者の安全性とウェルビーイングを最優先」ハマスのイスラエル攻撃を鑑み</title><link>https://ledge.ai/articles/nvidia_canceled_aisummit_in_telaviv</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 02:40:04 +0000</lastBuildDate><item><title>NVIDIA テルアビブでのAIサミット開催を中止「参加者の安全性とウェルビーイングを最優先」ハマスのイスラエル攻撃を鑑み</title><link>https://ledge.ai/articles/nvidia_canceled_aisummit_in_telaviv</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2365,7 +2365,24 @@ Intelligence Designでは9月5日に「すでに実施中の取り組みであ�
 :::
 :::box
 
-:::</description><pubDate>Wed, 06 Sep 2023 01:19:03 +0000</pubDate></item><item><title>シンギュラリティのその先を、100年前に重ね合わせてみる「モダン・タイムス・イン・パリ 1925－機械時代のアートとデザイン」展</title><link>https://ledge.ai/articles/pola_museum_modern_times_in_paris1925</link><description>:::small
+:::</description><pubDate>Wed, 06 Sep 2023 01:19:03 +0000</pubDate></item><item><title>ガンダムと人類が共存する次なる未来『GUNDAM NEXT FUTURE PAVILION』大阪・関西万博パビリオン名発表ーーバンダイナムコ</title><link>https://ledge.ai/articles/gundam_next_future_pavilion</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+バンダイナムコホールディングスは2023年10月6日、大阪・関西万博に出展予定の同グループパビリオンを「GUNDAM NEXT FUTURE PAVILION」と名付け、新たなキービジュアルとパビリオンの外観デザインなどを{target=“_blank”}した。
+
+「機動戦士ガンダム」は、1979年のTVアニメーション放送から40年以上、映像作品や商品・サービスを通じて多くのファンに愛されてきた。これにより、ガンダムは社会的アイコンとしての位置付けを目指している。
+
+「GUNDAM NEXT FUTURE PAVILION」は、「もうひとつの宇宙世紀」をテーマに、ガンダムと人類が共存する未来を示唆している。外観デザインは未来のスペースエアポートを想起させ、人類が宇宙に生活圏を拡大する世界観を反映している。2024年はガンダムの生誕45周年を迎えるため、これまでのそのさらなる可能性に関する考察がパビリオンでの発表が期待されている。
+
+大阪・関西万博は、SDGsの達成と「いのち輝く未来社会」の実現を目指している。この「NEXT FUTURE」プロジェクトは、ガンダムの未来だけでなく、ガンダムとともにある未来を考えることを目的としているという。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 11 Oct 2023 02:40:04 +0000</pubDate></item><item><title>シンギュラリティのその先を、100年前に重ね合わせてみる「モダン・タイムス・イン・パリ 1925－機械時代のアートとデザイン」展</title><link>https://ledge.ai/articles/pola_museum_modern_times_in_paris1925</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2619,19 +2636,4 @@ https://ledge.ai/articles/a_recent_entrance_to_paradise)
 :::
 :::box
 
-:::</description><pubDate>Tue, 19 Sep 2023 10:26:29 +0000</pubDate></item><item><title>商用OK Adobeの画像生成AI「Firely」正式公開 Webアプリで「生成塗りつぶし」「生成拡張」利用可能に</title><link>https://ledge.ai/articles/adobe_firefly_models_and_web_application</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Abobe（アドビ）は独自の画像生成AI「Adobe Firefly」をベータ版から正式版へ移行させ、出力した内容の商用利用を可能にした。合わせてWebアプリケーション「{target="_blank"}」を公開した。いずれも現地時間2023年9月13日に{target=“_blank”}した。
-
-Fireflyは文章による指示（プロンプト）から画像を生成する「text to image（t2i）」機能のほか、背景を一部消し、プロンプトで生成した画像に置き替える「生成塗りつぶし」機能、写っていない、描いていない部分を生成し、画像を広げる「生成拡張」機能、文字の表示スタイルや装飾をプロンプトで指示する「テキスト効果」機能などを搭載している。
-
-同社はFireflyのベータ版を約6か月間公開したあと主力サービス「Adobe Creative Cloud」シリーズに統合し正式版とした。Adobe Creative Cloudの各アプリケーションでは、契約している料金プランごとに決まった「生成クレジット」を受け取って、消費しながら利用することになる。上限に達したあとは処理速度が低下した状態で利用し続けるか、有料で生成クレジットを増やすかを選べる。 
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 15 Sep 2023 09:19:40 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Tue, 19 Sep 2023 10:26:29 +0000</pubDate></item></channel></rss>
