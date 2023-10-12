@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 10 Oct 2023 03:17:41 +0000</lastBuildDate><item><title>「叡（A）」に決定、理研の国産超伝導量子コンピュータ初号機
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 10 Oct 2023 03:17:41 +0000</lastBuildDate><item><title>サイバーエージェントが「アニメーションAI Lab」新設、生成AI活用のアニメ制作</title><link>https://ledge.ai/articles/cyberagent_animation_ai_lab</link><description>:::small
+画像出典：サイバーエージェント
+:::
+
+サイバーエージェントは2023年10月4日、AI事業本部において、アニメーション業界の生成AI研究開発に取り組む「アニメーションAI Lab」を新設したと{target=“_blank”}した。AI技術の研究開発組織「AI Lab」とアニメ事業本部が共同で設立し、生成AIを活用したアニメーションの新しい制作プロセスの構築を目指す。
+
+同社は2020年に「アニメ事業本部」を立ち上げ、アニメの独占・先行配信などを「ABEMA」で実施。2016年に「AI Lab」を立ち上げ、AIで広告効果を最大化するサービスを提供してきた。2023年5月には日本語LLMを開発・公開し、生成AIを使用した広告効果改善に取り組む。映像分野での生成AI活用が注目されており、さまざまな映像制作やキャラクター生成の可能性が見込まれている。
+
+今回新設の「アニメーションAI Lab」は、アニメーションの最新制作プロセスを研究し、生成AIを活用した制作プロセスの構築を目指す。また著作権保護や、不正利用防止のための研究も積極的に行う。初回研究開発では、アニメーションを用いた広告クリエイティブの制作と、新しい広告表現・価値提供の実現を目指す。研究強化分野は以下のとおり。
+
+・画像・映像生成
+・アニメーション
+・モーション生成
+・レンダリング
+・リップシンク/音声合成・BGM
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 10 Oct 2023 01:23:59 +0000</pubDate></item><item><title>「叡（A）」に決定、理研の国産超伝導量子コンピュータ初号機
 </title><link>https://ledge.ai/articles/riken_a</link><description>:::small
 画像出典：写真AC
 :::
@@ -226,24 +250,7 @@ NVIDIAは2023年9月27日、NTTドコモとの協力を{target=“_blank”}し�
 :::
 :::box
 
-:::</description><pubDate>Wed, 04 Oct 2023 07:37:44 +0000</pubDate></item><item><title>生成AIのオルツとキーエンスが資本業務提携、AI技術と生産性向上ノウハウを融合</title><link>https://ledge.ai/articles/alt_keyence_partnership</link><description>:::small
-画像出典：オルツ
-:::
-
-
-オルツが2023年9月8日、キーエンスとの資本業務提携を行うと{target=“_blank”}した。オルツの大規模言語モデル（LLM）や音声認識・音声合成などのAI技術と、キーエンスの生産性向上や企業運営の知見を組み合わせたパートナーシップだ。
-
-日本企業では、データやナレッジの有効活用やAI技術を用いたDX・業務効率化の取り組みが進んでいない状況がある。この提携では、オルツのAI技術・実装ノウハウとキーエンスのクライアントの課題解決能力を融合し、業界や業務に合わせた生産性向上ソリューションの開発・提供を目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 04 Oct 2023 04:49:09 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 04 Oct 2023 07:37:44 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
