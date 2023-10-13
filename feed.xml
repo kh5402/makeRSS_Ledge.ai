@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 02:40:04 +0000</lastBuildDate><item><title>NVIDIA テルアビブでのAIサミット開催を中止「参加者の安全性とウェルビーイングを最優先」ハマスのイスラエル攻撃を鑑み</title><link>https://ledge.ai/articles/nvidia_canceled_aisummit_in_telaviv</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 02:46:26 +0000</lastBuildDate><item><title>NVIDIA テルアビブでのAIサミット開催を中止「参加者の安全性とウェルビーイングを最優先」ハマスのイスラエル攻撃を鑑み</title><link>https://ledge.ai/articles/nvidia_canceled_aisummit_in_telaviv</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2140,7 +2140,23 @@ AI研究の推進では、従来のコンピューターサイエンスだけで
 :::
 
 
-</description><pubDate>Fri, 08 Sep 2023 03:20:09 +0000</pubDate></item><item><title>国立情報学研究所と松尾研究室発のスタートアップELYZA、産総研の生成AI開発支援プログラムに採択ーープリファードに続く大規模言語モデル開発を後押し</title><link>https://ledge.ai/articles/nii_elyza_aist_ai_program</link><description>:::small
+</description><pubDate>Fri, 08 Sep 2023 03:20:09 +0000</pubDate></item><item><title>大阪観光局、20か国語対応の多言語生成AIチャットボットで観光案内拡充10月16日よりーー大阪・関西万博見据え</title><link>https://ledge.ai/articles/osaka_tourism_genai_chatbot</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+大阪観光局は2023年9月26日、対話型AIによる観光案内サービスを拡充すると{target=“_blank”}した。
+
+急増する訪日外国人旅行者に対して多言語受入能力を高めるべく、大阪公式観光情報サイトの「OSAKA-INFO」にこれまで設置してきたAIチャットボットから、日本初導入となる20言語以上に対応可能な生成AIチャットボットに刷新する。10月16日より、JTBとKotoznaの多言語生成AIチャットボットサービス「Kotozna laMondo」を公式サイトにて使用開始。レストランの予約、防災情報の提供も可能になる見通しで、今後は大阪観光局公式・観光アプリ「Discover Osaka」にも搭載予定。
+
+大阪観光局は2025年の大阪・関西万博に向け、生成AIチャットボットを活用した観光案内所やコールセンターでの多言語問い合わせの利便性向上と、観光情報の管理業務の省力化を両立することで、来阪する訪日外国人観光客へのおもてなしの向上を目指す。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 11 Oct 2023 02:46:26 +0000</pubDate></item><item><title>国立情報学研究所と松尾研究室発のスタートアップELYZA、産総研の生成AI開発支援プログラムに採択ーープリファードに続く大規模言語モデル開発を後押し</title><link>https://ledge.ai/articles/nii_elyza_aist_ai_program</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2341,31 +2357,7 @@ Intelligence Designでは9月5日に「すでに実施中の取り組みであ�
 :::
 :::box
 
-:::</description><pubDate>Wed, 06 Sep 2023 03:46:44 +0000</pubDate></item><item><title>東京都 生成AIガイドライン完成 全局5万人に業務利用うながす</title><link>https://ledge.ai/articles/tokyo_chatgpt_guideline</link><description>:::small
-画像出典：写真AC
-:::
-
-「文章生成AI利活用ガイドライン」の策定を、東京都が2023年8月23日に{target=“_blank”}した。業務へのAIの活用を進める方針で、同ガイドラインの職員への浸透を徹底するとともに、全局で約5万人を対象に利用できる環境を整備した。
-
-ガイドラインの目的は、文章生成AIの利用上のルールを定め、効果的な活用事例を提供し、行政サービスと都政のQOS（Quality of service）を向上させることだ。
-
-都は2023年4月にデジタルサービス局内に検討プロジェクトチーム（PT）を設置し、議論を重ねてきた。{target=“_blank”}によると、都は情報漏えいや回答の不正確性、著作権侵害などのリスクを指摘。取り組みの方向性として「利用環境」「利用上のルール」「効果的な活用方法」の3つの視点から検討した。
-
-!
-:::small
-画像出典：文章生成AI利活用ガイドライン
-:::
-
-デジタルサービス局はMicrosoftの「Azure OpenAI Service」を用いて安全な利用環境を整備。また利用上のルールとして、庁内共通基盤での使用、利用申請フォームでの申請、e-ラーニング受講が必要とした。
-
-具体的な利用上のルールは個人情報の非入力、著作権への配慮、回答の根拠確認、回答を対外的にそのまま使用する場合の明記など。また「必要な情報を引き出し整理する」「視点を加えて高度な回答を導く」といった活用方法を挙げている。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 06 Sep 2023 01:19:03 +0000</pubDate></item><item><title>ガンダムと人類が共存する次なる未来『GUNDAM NEXT FUTURE PAVILION』大阪・関西万博パビリオン名発表ーーバンダイナムコ</title><link>https://ledge.ai/articles/gundam_next_future_pavilion</link><description>:::small
+:::</description><pubDate>Wed, 06 Sep 2023 03:46:44 +0000</pubDate></item><item><title>ガンダムと人類が共存する次なる未来『GUNDAM NEXT FUTURE PAVILION』大阪・関西万博パビリオン名発表ーーバンダイナムコ</title><link>https://ledge.ai/articles/gundam_next_future_pavilion</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
