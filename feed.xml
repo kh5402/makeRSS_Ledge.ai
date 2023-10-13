@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 06:04:35 +0000</lastBuildDate><item><title>Google、生成AI「Bard」を活用した新世代のアシスタント発表</title><link>https://ledge.ai/articles/google_assistant_with_bard</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 06:09:26 +0000</lastBuildDate><item><title>LinkedIn、生成AIを活用した採用・コーチング支援ツールを発表</title><link>https://ledge.ai/articles/linkedin_new_tool</link><description>:::small
+画像出典：{target=“_blank”}
+:::
+
+LinkedInは2023年10月3日、求人やコーチングを生成AIで支援する新たなツール群を{target=“_blank”}した。同社は自社プラットフォームでのAI活用を推進している。
+
+ツール「Recruiter 2024」は、生成AIとLinkedInのインサイトを組み合わせて、採用担当者が求める人材の発見を支援する。採用担当者は求める条件を自然言語で入力することで、LinkedInが条件に合致する候補者リストを生成する。
+
+また検索の最適化提案も行う。例えば地域を拡大する、複合的な役職を提案するといったことだ。生成AIを活用するスカウトメール作成機能（「InMail」メッセージの自動生成）が、採用担当者の業務効率化に寄与する。
+
+さらに新しいAIを用いたコーチング支援ツールも発表。リーダーがAIチャットボットを使い、受講者向けのカスタマイズされたコーチングを実施する。AIチャットボットは、受講者のニーズに応じてリアルタイムでのアドバイスやコンテンツ提供が可能だ。
+
+マーケティング向けツール「Accelerate for Campaign Manager」も登場。パーソナライズされたキャンペーン提案が5分で可能になる。
+
+
+
+:::box
+
+:::
+
+</description><pubDate>Wed, 11 Oct 2023 06:09:26 +0000</pubDate></item><item><title>Google、生成AI「Bard」を活用した新世代のアシスタント発表</title><link>https://ledge.ai/articles/google_assistant_with_bard</link><description>:::small
 画像出典：Google
 :::
 
@@ -225,28 +245,7 @@ WSJによると、OpenAIは自社の価値を800億～900億ドルで評価す�
 :::box
 
 :::
-</description><pubDate>Fri, 06 Oct 2023 05:34:40 +0000</pubDate></item><item><title>「ヘイ Meta！」音声コマンドで通話や撮影「Ray-Ban | Meta」次世代スマートグラスにはライブ配信機能も</title><link>https://ledge.ai/articles/meta_rayban_collection</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-Metaは米国時間の2023年9月28日、同社の開発者イベント「Meta Connect 2023」で、EssilorLuxotticaとの協力のもと次世代のRay-Ban Metaスマートグラスコレクションを{target=“_blank”}した。
-
-2021年から販売していた第1世代のスマートグラスのコア機能を改善し、新機能を追加。「ライブ配信機能」と「Meta AI」を内蔵した新たなスマートグラスコレクションは、10月17日から販売開始予定。価格は299ドルからで、現在meta.comとray-ban.comで予約を受け付けている。米国、カナダ、オーストラリア、およびヨーロッパ全土を含む15か国で販売されるが、残念ながら日本からの注文はできない。
-
-ライブ配信機能を使うと、スマートグラスからInstagramやFacebookに直接映像を配信でき、スマートグラスとスマートフォンのカメラをシームレスに切り替えながら、自分だけの視点を共有できる。
-
-また、搭載されている音声コマンドを使い、ハンズフリー機能をスマートグラスから直接利用可能。WhatsApp、Messenger、スマートフォンを使って電話をかけたり、メッセージを送信できる。写真や動画の撮影や、メディア再生、一時停止などのコントロールが手を動かさずに行えるという。音声機能は、英語、イタリア語、フランス語に対応。Meta AIは米国でのみ利用できるとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 06 Oct 2023 05:30:14 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 06 Oct 2023 05:34:40 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
