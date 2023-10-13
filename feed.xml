@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 02:46:26 +0000</lastBuildDate><item><title>NVIDIA テルアビブでのAIサミット開催を中止「参加者の安全性とウェルビーイングを最優先」ハマスのイスラエル攻撃を鑑み</title><link>https://ledge.ai/articles/nvidia_canceled_aisummit_in_telaviv</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 06:04:35 +0000</lastBuildDate><item><title>Google、生成AI「Bard」を活用した新世代のアシスタント発表</title><link>https://ledge.ai/articles/google_assistant_with_bard</link><description>:::small
+画像出典：Google
+:::
+
+
+米国Googleは2023年10月4日、生成AIによる「Bard」を対話アシスタントとして活用する{target=“_blank”}をMade by Googleイベントで発表した。
+
+従来の「Googleアシスタント」は、音声を中心に天気の予報や電話機能を提供してきた。Assistant with Bardは生成AI「Bard」を使用して、Googleがアシスタント機能を拡張する。生成能力や推論能力を利用してパーソナライズし、テキスト、音楽、画像を使用してユーザーと対話する。
+
+またGmailやDocsなどのGoogleサービスとの統合で、さらにパーソナライズされたアシスタントを目指す。例えばAndroidで子犬の写真を取り込むと、SNSへの投稿用のキャプション作成をうながす。なお現在は「実験段階」であり、AndroidとiOSでの公開を数カ月後に予定している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 11 Oct 2023 06:04:35 +0000</pubDate></item><item><title>NVIDIA テルアビブでのAIサミット開催を中止「参加者の安全性とウェルビーイングを最優先」ハマスのイスラエル攻撃を鑑み</title><link>https://ledge.ai/articles/nvidia_canceled_aisummit_in_telaviv</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -227,38 +246,7 @@ Metaは米国時間の2023年9月28日、同社の開発者イベント「Meta C
 :::
 :::box
 
-:::</description><pubDate>Fri, 06 Oct 2023 05:30:14 +0000</pubDate></item><item><title>生成AIが日常に溶け込む　「死後」「無駄話」などのアイデアが優秀賞｜Ledge.ai主催のアイデアコンテスト結果発表</title><link>https://ledge.ai/articles/ledge_ai_challenge_ideas_category</link><description>8月3日、Ledge.aiが主催したアイデアコンテスト{target=“_blank”}の「発想」部門が開催された。募集テーマは「5年後の日常に余白を生むサービスアイデア」。9月19日に「発想」部門の受付が終了し、審査員6名による審査の結果、5作品が優秀賞として選出された。優秀賞選出作品は以下の通り。
-- 死後も双方向のコミュニケーションを。生成AIを活用した終活&amp;死後支援サービス
-- 産後の新しいステップ：テクノロジーでサポートする出産前後の手続きと心のケア
-- 災害発生予測に基づく避難所の過密解消を目的とした早期分散避難計画の作成と周知
-- PERSONACHER personalized guidance teacher　君だけの君のための君のAI先生
-- 反復無駄話
-
-今回審査にあたったのは、青野 慶久氏（サイボウズ株式会社 代表取締役社長）、西脇 資哲氏（日本マイクロソフト株式会社 業務執行役員 エバンジェリスト）、岡田 隆太朗氏（一般社団法人日本ディープラーニング協会 専務理事）、高井 志保氏（クオンタムリープベンチャーズ株式会社 アソシエイト）、森 詩絵里氏（インテグラル法律事務所 弁護士）、小瀧 健太（株式会社レッジ 代表取締役社長）。
-
-審査観点として、主に以下の3点で評価を行った。
-- ストーリーへの共感度
-- ソリューションアイデアの独自性
-- 変化のインパクト
-
-## 「日常」そのものに溶け込むソリューションアイデアも
-応募アイデアは、「死後」に向き合うもの、災害発生時の対策に活用するもの、学校・教育に取り入れるものなど、様々なシーンでのソリューションアイデアが寄せられた。
-テーマである「日常」そのものに注目したアイデアとして、今回優秀賞にも選出されている「反復無駄話」というアイデアも。
-家庭での会話を学習するAIが「それ、前にも言ったやん。」「何遍も同じこと言わさんといてー。」 といったように会話に割り込む。まさに「日常」「余白」に注目したアイデアとして光った。
-
-## 「実装」部門の参加者募集開始
-Ledge.ai CHALLENGEの第1部「発想」部門では、自由なアイデアを募るコンテスト形式で行われた。ここから第2部として、「実装」部門へ移行する。
-特設サイト上の応募フォームより、今回選出された優秀5作品を「実装」するチームメンバーの募集を開始する。
-
-応募資格は以下の通り。（詳細は特設サイトを確認）
-- 11月から12月にかけて継続的に「実装」に参加すること（スケジュールは各チームにて検討）
-- 「実装」を行うエンジニアリングスキルを有していること
-- 優秀賞として選出されたアイデアの実現に共感していること
-
-## 2023年末に最終審査および表彰式の開催
-12月末には都内会場にて各チームが実装したソリューションまたはプロトタイプを発表する最終審査会を開催予定。ライブまたはアーカイブでの配信も予定している。
-今年起きた「第4次AIブーム」の中で「発想」されたアイデアを、今年のうちにソリューションの「実装」までたどり着く各チームの取り組みを是非見届けてほしい。
-</description><pubDate>Thu, 05 Oct 2023 06:35:16 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 06 Oct 2023 05:30:14 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
