@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:16:55 +0000</lastBuildDate><item><title>LinkedIn、生成AIを活用した採用・コーチング支援ツールを発表</title><link>https://ledge.ai/articles/linkedin_new_tool</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:34:56 +0000</lastBuildDate><item><title>LinkedIn、生成AIを活用した採用・コーチング支援ツールを発表</title><link>https://ledge.ai/articles/linkedin_new_tool</link><description>:::small
 画像出典：{target=“_blank”}
 :::
 
@@ -1856,7 +1856,26 @@ CDAO （Chief Data Analytics Officer）　西田幸平 氏
 {target=“_blank”}
 
 （Sponsored by 株式会社バンダイナムコネクサス）
- </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>Z世代の多く「仕事がAIに置き換わること脅威に感じない」 Adobe未来の労働力調査</title><link>https://ledge.ai/articles/adbe_reserch_ai_z</link><description>:::small
+ </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>岸田首相がノーベル賞受賞者多数参加のSTSフォーラム登壇、AI課題「偽情報の拡散、プライバシーや著作権侵害」</title><link>https://ledge.ai/articles/sts_forum_kishida</link><description>:::small
+画像出典：首相官邸
+:::
+
+岸田文雄首相は2023年10月1日、京都市で国内外の有識者が科学技術や社会問題を議論する「科学技術と人類の未来に関する国際フォーラム（STSフォーラム）」の開会式に{target=“_blank”}した。科学には「光と影の側面がある」と指摘し、持続可能な発展に向けた議論を呼びかけた。
+
+首相は、イノベーション推進と社会への負の影響や倫理的問題への対応が重要と強調。生成AIの取り組みについて触れ、大衆化と便利な世界の実現への期待を表明した。
+
+AIに関する問題点として、偽情報の拡散、プライバシーや著作権の侵害の懸念を指摘。「広島AIプロセス」を紹介し、日本が主導するAIのガバナンスや透明性確保のための国際ルール作りを強調した。
+
+STSフォーラムは2004年に創設され、今回が20回目の節目となる。生成AIなど最先端の科学技術の活用について、その功罪や課題解決を巡る議論が交わされた。期間中には80を超える国・地域・国際機関から、14人のノーベル賞受賞者を含む計約1500人が参加した。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 13 Oct 2023 05:34:56 +0000</pubDate></item><item><title>Z世代の多く「仕事がAIに置き換わること脅威に感じない」 Adobe未来の労働力調査</title><link>https://ledge.ai/articles/adbe_reserch_ai_z</link><description>:::small
 画像出典：Adobe
 :::
 
@@ -2104,30 +2123,7 @@ AgentVerseでは、自律エージェント達が次のような手順で行動�
 
 :::box
 
-:::</description><pubDate>Sun, 10 Sep 2023 10:28:12 +0000</pubDate></item><item><title>東大とMicrosoft AI研究で連携 GXや多様性の推進でも協力</title><link>https://ledge.ai/articles/tokyo_university_microsoft_partnership</link><description>:::small
-画像出典：写真AC
-:::
-
-
-東京大学と米国Microsoftはグリーントランスフォーメーション（GX）、ダイバーシティ＆インクルージョン（D&amp;I）、AI研究の推進で連携する。両者が基本合意書を締結したことを2023年8月31日に{target=“_blank”}した。
-GXの推進では、東京大学の温室効果ガス排出削減をMicrosoftのテクノロジーで支援。また「GX人材」の育成も行う。
-
-D&amp;Iの推進では、東京大学が2022年6月に策定したダイバーシティ＆インクルージョン宣言をさらに進める。宣言は、人種などの多様性、さまざまな視点を反映する包摂性を重視し、差別や不当な排除をなくす姿勢を示すもの。
-
-AI研究の推進では、従来のコンピューターサイエンスだけでなく、多様な分野でAIの適用や課題に関する研究を行う。
-
-2022年11月に、東京大学の藤井総長とMicrosoftのSatya Nadella（サフィア・ナデラ）最高経営責任者（CEO）が面談し、これらのテーマについて意見交換を行っていた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 08 Sep 2023 03:20:09 +0000</pubDate></item><item><title>大阪観光局、20か国語対応の多言語生成AIチャットボットで観光案内拡充10月16日よりーー大阪・関西万博見据え</title><link>https://ledge.ai/articles/osaka_tourism_genai_chatbot</link><description>:::small
+:::</description><pubDate>Sun, 10 Sep 2023 10:28:12 +0000</pubDate></item><item><title>大阪観光局、20か国語対応の多言語生成AIチャットボットで観光案内拡充10月16日よりーー大阪・関西万博見据え</title><link>https://ledge.ai/articles/osaka_tourism_genai_chatbot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
