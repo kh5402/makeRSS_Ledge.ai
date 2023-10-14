@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 11 Oct 2023 06:09:26 +0000</lastBuildDate><item><title>LinkedIn、生成AIを活用した採用・コーチング支援ツールを発表</title><link>https://ledge.ai/articles/linkedin_new_tool</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:16:55 +0000</lastBuildDate><item><title>LinkedIn、生成AIを活用した採用・コーチング支援ツールを発表</title><link>https://ledge.ai/articles/linkedin_new_tool</link><description>:::small
 画像出典：{target=“_blank”}
 :::
 
@@ -2344,7 +2344,43 @@ Intelligence Designでは9月5日に「すでに実施中の取り組みであ�
 :::
 :::box
 
-:::</description><pubDate>Wed, 06 Sep 2023 03:46:44 +0000</pubDate></item><item><title>ガンダムと人類が共存する次なる未来『GUNDAM NEXT FUTURE PAVILION』大阪・関西万博パビリオン名発表ーーバンダイナムコ</title><link>https://ledge.ai/articles/gundam_next_future_pavilion</link><description>:::small
+:::</description><pubDate>Wed, 06 Sep 2023 03:46:44 +0000</pubDate></item><item><title>AI Picasso 商用利用できるAIアート用画像生成AI「Emi」と「Manga Diffusion」を無償公開</title><link>https://ledge.ai/articles/ai_picasso_emi_manga_diffusion</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+AI Picassoは2023年9月25日、AIアート用画像生成AI、Emi (Ethereal master of illustration) を商用利用可能で無償公開すると{target=“_blank”}した。
+Emiは商用利用が可能で、追加学習において無断転載画像を学習していない。{target=“_blank”}より無償利用が可能だ。
+
+また、Emiと同時にクリーンな画像生成AI「Manga Diffusion」の概念実証版も{target=“_blank”}。この画像生成AIはパブリックドメインの画像や著作権者から学習を許可された画像だけを学習している。
+
+
+このモデルは、アニメやマンガのようなAIアート生成に特化している。NVIDIAのGPU「H100」とStable Diffusion XL1.0に同社のノウハウを用いて開発されたとのこと。これまでの生成画像よりも約2倍高精細になり、最近の画風になるように調整されている。
+
+以下は、同じプロンプト（文章による指示）を使用し、これまでのモデルと今回のモデルを比較している。「空、ひまわり、ショートボブヘア、茶色の目、一人の少女」を入力し生成した。
+左： Picasso Diffusion 1.1／右： Emi
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+その他の特徴には、追加学習に無断転載画像を使用していないこと、商用利用が可能になったことが挙げられる。
+ライセンスの商用利用を可能とした理由として同社は
+１. 画像生成AIが普及するに伴い、創作業界に悪影響を及ぼさないように、マナーを守る人が増えてきたと感じられるため
+２. 他の画像生成AIが商用可能である以上、非商用ライセンスである実効性がなくなってきたため
+の2点を挙げた。
+
+AI Picassoは、クリエイターとの協力関係や対話に重きを置いていると述べる。
+たとえば同社は「いらすとや」を運営する、みふねたかし氏と約１年相談しながら画像とその説明文を学習用に提供を受け「AIいらすとや」をリリースした。クリエイターからのデータ提供に対する適切な報酬や、生成されたイラストに対する利益配分の仕組みを取り入れているという。また、長期的な関係を通してクリエイターたちと意見交換を行い、信頼関係を築いている。Emiだけでなく、モデルのあり方について、XやDiscordのコミュニティでの対話が続いているという。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 13 Oct 2023 05:16:55 +0000</pubDate></item><item><title>ガンダムと人類が共存する次なる未来『GUNDAM NEXT FUTURE PAVILION』大阪・関西万博パビリオン名発表ーーバンダイナムコ</title><link>https://ledge.ai/articles/gundam_next_future_pavilion</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2596,23 +2632,4 @@ DALL-E3は安全性へ配慮し、暴力的、成人向け、あるいはヘイ�
 :::
 :::box
 
-:::</description><pubDate>Thu, 21 Sep 2023 05:43:16 +0000</pubDate></item><item><title>AI生成の “名画” コンペ優勝も著作権登録は却下 Midjourneyで624回推敲も「人間の著作物ではない」</title><link>https://ledge.ai/articles/copyright_rejected_for_midjourney_generated_paintings</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国著作権局は現地時間の2023年9月5日、画像生成AI「Midjourney」による画像の著作権登録を求めたジェイソン・M・アレン氏の要求を却下した。同局はアレン氏のSFをテーマとした画像「Theatre D'opera Spatial」は、人間の著作物でないため、著作権の保護の対象ではないとの{target=“_blank”}を下した。
-
-アレン氏はボードゲーム会社「Incarnate Games」の経営者。くだんの画像は、2022年8月にコロラド州で開催されたファインアート（純粋芸術）のコンペティションで優勝したことで話題となった。アレン氏が著作権を登録するために同年9月に申請すると、著作権局は画像を作成する際のMidjourneyの役割について詳細を要求した。同氏はMidjourneyには文章による指示（プロンプト）を少なくとも624回入力して生成し、その後、画像編集アプリケーション「Adobe Photoshop」で修正を加えたと報告した。
-
-同局は著作権保護を受けるためには、Midjourneyが生成した画像の部分を放棄するよう求めたがアレン氏は拒否。その後申請が却下されたとのこと。
-
-{target=“_blank”}によると、アレン氏は、この判断を予想していたが、最終的には勝利するだろうと述べたという。
-
-
-:::box
-[関連記事：AI生成の画像「著作権で保護されず」米連邦地裁判決 ただし今後は困難な問題も](
-https://ledge.ai/articles/a_recent_entrance_to_paradise)
-:::
-:::box
-
-:::</description><pubDate>Tue, 19 Sep 2023 10:26:29 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Thu, 21 Sep 2023 05:43:16 +0000</pubDate></item></channel></rss>
