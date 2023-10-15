@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:34:56 +0000</lastBuildDate><item><title>LinkedIn、生成AIを活用した採用・コーチング支援ツールを発表</title><link>https://ledge.ai/articles/linkedin_new_tool</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:34:56 +0000</lastBuildDate><item><title>万博建設の円滑な進行を後押し　AI気象予測技術を応用し建設現場に予測データ提供 ーー大阪ガスが実証実験</title><link>https://ledge.ai/articles/expo25_osakagas_obayashigumi</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+大阪ガスは本年度にも、大阪・関西万博の建設現場にAIによる独自の気象予測技術を応用した予測データを提供する実証実験を始めると2023年10月5日に{target=“_blank”}が報じている。天候以外にも、クレーン操作やコンクリートの使用で参考になる情報をスマートフォンに通知する仕組みを想定。人手不足で工事の遅れが課題となる中、円滑な作業進行を後押しするという。
+
+大阪ガスと大林組は2023年5月17日に、AI技術を用いた高精度な気象予測情報を建設現場で活用することで、安全で効率的な施工管理を支援する「建設工事向けAI気象予測サービス」の開発に共同で着手したことを{target=“_blank”}している。
+
+両社は2022年5月より、気象が建設工事に与える影響および建設現場での気象予測ニーズに関する調査を万博の開催予定地である「夢洲（ゆめしま）」を対象に行った。その結果、建設現場で求められる気象情報の仕様、および夢洲エリアの気象傾向をAIに学習させることで、予測精度を高められる可能性があることなどを明らかにしている。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 13 Oct 2023 05:30:51 +0000</pubDate></item><item><title>LinkedIn、生成AIを活用した採用・コーチング支援ツールを発表</title><link>https://ledge.ai/articles/linkedin_new_tool</link><description>:::small
 画像出典：{target=“_blank”}
 :::
 
@@ -225,27 +240,7 @@ Stable LM 3Bにより、各種端末や家庭用PCでのアプリケーション
 
 
 
-</description><pubDate>Fri, 06 Oct 2023 05:39:04 +0000</pubDate></item><item><title>「ChatGPT」開発のOpenAI、最大900億ドルの評価額を目指し株式売却を協議中</title><link>https://ledge.ai/articles/openai_stock_sale</link><description>:::small
-画像出典：{target=“_blank”}
-:::
-
-「ChatGPT」を開発した米国OpenAIが、株式売却の可能性について投資家と協議していると、2023年9月26日に米紙{target=“_blank”}が報じた。
-
-WSJによると、OpenAIは自社の価値を800億～900億ドルで評価することを目指している。
-評価がこの水準となれば、同社の評価額は今年の初めの約3倍になる。
-
-この取引を通じて、新株を発行する代わりに、従業員が持つ既存の株式の売却が可能になる。取引の条件は現在投資家に売り込んでいる段階で、まだ変更される可能性がある。
-
-800億ドル以上の評価となると、OpenAIは世界で最も高く評価されるスタートアップのひとつとなる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 06 Oct 2023 05:34:40 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 06 Oct 2023 05:39:04 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
