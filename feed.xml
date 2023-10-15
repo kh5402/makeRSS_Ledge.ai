@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:35:23 +0000</lastBuildDate><item><title>2026年までに80％以上の企業が生成AIに対応したアプリを展開「生成AIのハイプサイクル」ガートナージャパン</title><link>https://ledge.ai/articles/gartner_genai_hype_cycle_2023</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:40:22 +0000</lastBuildDate><item><title>生成AI市場、2027年に780億円規模へ  IDC Japanの最新予測</title><link>https://ledge.ai/articles/idc_japan_usecase_reserch</link><description>:::small
+画像出典：IDC Japan
+:::
+
+IDC Japanは2023年9月26日、国内の生成AIユースケース市場が今後5年で780億円規模に成長するとの{target=“_blank”}を発表した。
+
+同社は5年間の支出額予測を{target=“_blank”}として提供している。2023年8月のレポートでは、生成AIのユースケースをオーディオ、イメージ、テキスト、ビデオの4種類に分類し、その支出額から市場規模を予測。
+
+生成AIのユースケース市場は、2022年～2027年の年間平均成長率（CAGR）が194.7％で、2027年の市場規模は786億9,400万円とした。
+
+生成AIの利用はオフィス作業からエンターテインメントや教育分野まで広がるが、利用コストやセキュリティ、倫理等の課題も存在する。IDCは、信頼できるツールやプラットフォームを選択し、市場要請に対してユーザー企業が適切な適用ポリシーを遵守することで、同市場は急速に拡大するとみている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 13 Oct 2023 05:40:22 +0000</pubDate></item><item><title>2026年までに80％以上の企業が生成AIに対応したアプリを展開「生成AIのハイプサイクル」ガートナージャパン</title><link>https://ledge.ai/articles/gartner_genai_hype_cycle_2023</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -223,28 +243,7 @@ Stable LM 3Bにより、各種端末や家庭用PCでのアプリケーション
 :::
 :::box
 
-:::</description><pubDate>Fri, 06 Oct 2023 05:37:48 +0000</pubDate></item><item><title>OpenAIが「AI版iPhone」開発の巨額プロジェクトへ向け交渉中　Apple元デザイナー、ソフトバンク傘下Armが中心になる可能性も</title><link>https://ledge.ai/articles/openai_arm_softbank</link><description>:::small
-画像出典：{target=“_blank”}
-:::
-
-「ChatGPT」を運営する米国OpenAIが「AI版iPhone」開発プロジェクトについて、アップルの元デザイナーのジョナサン・アイブ氏やソフトバンクグループと交渉を行っていると、{target=“_blank”}が2023年9月28日に報じた。これは10億ドル（約1500億円）規模のプロジェクトとのこと。
-
-アイブ氏はアップルでiPhoneやiPodのハードウエア開発に関与し、2019年にLoveFromを設立。アイブ氏とOpenAIのサム・アルトマン氏は、AIを活用した「自然で直感的なユーザー体験」を提供する機器の開発を目指して議論中だ。
-
-また両者はソフトバンクの孫正義社長を交え、プロジェクトへの10億ドル以上の出資や、新ベンチャー企業設立の交渉を進めている。ソフトバンク傘下のArmが、プロジェクトに中心的に関与する可能性がある。協議は進行中で、製品の完成には数年かかるとみられる。
-
-ソフトバンクはArmの新規株式上場（IPO）成功後、AI事業の強化を検討しているとの情報もある。FTは孫氏が、AI分野への数兆円規模の投資を考慮中と報じている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 06 Oct 2023 05:45:16 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 06 Oct 2023 05:37:48 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
