@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:34:56 +0000</lastBuildDate><item><title>万博建設の円滑な進行を後押し　AI気象予測技術を応用し建設現場に予測データ提供 ーー大阪ガスが実証実験</title><link>https://ledge.ai/articles/expo25_osakagas_obayashigumi</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:35:23 +0000</lastBuildDate><item><title>2026年までに80％以上の企業が生成AIに対応したアプリを展開「生成AIのハイプサイクル」ガートナージャパン</title><link>https://ledge.ai/articles/gartner_genai_hype_cycle_2023</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ガートナージャパンは2023年10月12日、「生成AIのハイプ・サイクル：2023年」を{target=“_blank”}した。また、2026年までに80%以上の企業が生成AIのAPIやモデルを使用して、生成AIに対応したアプリケーションを本稼働環境に展開するようになるとの見解を示した。これは2023年の5%未満から大幅な増加になるという。
+
+ガートナーの「ハイプ・サイクル」（Hype Cycle）は、新しい技術が市場に登場してから成熟に至るまでのプロセスを視覚的に表現したモデルで、５つのフェーズから成る。それぞれを「黎明期」、「過度な期待」のピーク期、「幻滅期」、「啓発期」、「生産性の安定期」と定義している。
+
+このたび発表された「生成AIのハイプ・サイクル：2023年」では、10年以内に組織に大きなインパクトを及ぼすと予測される3つのイノベーションとして、「生成AI対応アプリケーション」「ファウンデーション・モデル」「AI TRiSM （AIのトラスト／リスク／セキュリティ・マネジメント）」を挙げた。
+
+### 生成AI対応アプリケーション
+ユーザー・エクスペリエンス (UX) とタスク拡張のために生成AIを使用し、ユーザーが目指す成果の達成を加速および支援するもの。アプリケーションの生成AI対応が進むにつれ、従業員のスキルセットの幅は広がる。
+### ファウンデーション・モデル
+大規模な事前にトレーニングされたモデルであり、幅広いユースケースに適用可能。従業員の生産性向上、カスタマー・エクスペリエンスの自動化／強化、コスト効率に優れた方法での新プロダクト／サービスの創出を可能にすることで、企業内のデジタル・トランスフォーメーションを促進する。
+### AI TRiSM 
+AIモデルのガバナンス、信頼性 （トラスト）、公平性、確実性、堅牢性、有効性、データ保護を確保するフレームワークを指す。AI TRiSMには、モデルの解釈可能性と説明可能性、データとコンテンツの異常検知、AIデータ保護、モデル運用、攻撃に対する敵対的抵抗のためのソリューション、テクニック、プロセスが含まれる。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 13 Oct 2023 05:35:23 +0000</pubDate></item><item><title>万博建設の円滑な進行を後押し　AI気象予測技術を応用し建設現場に予測データ提供 ーー大阪ガスが実証実験</title><link>https://ledge.ai/articles/expo25_osakagas_obayashigumi</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -221,26 +244,7 @@ Stable LM 3Bにより、各種端末や家庭用PCでのアプリケーション
 
 :::
 
-</description><pubDate>Fri, 06 Oct 2023 05:45:16 +0000</pubDate></item><item><title>孫正義氏、AGI(汎用AI)の実現は10年後と想定</title><link>https://ledge.ai/articles/softbank_agi</link><description>:::small
-画像出典：ソフトバンク
-:::
-
-ソフトバンクは2023年10月3日～6日に、イベント{target=“_blank”}を開催した。創業者の孫正義氏が、生成AIについての特別講演を行った。
-
-講演において孫氏は、汎用性のあるAI（AGI）を「人類の叡智の総和の10倍」と定義した。また、AGIは10年以内に実現し、社会を大きく変えるとし「日本、目覚めよ」と述べた。会場のほとんどの人がAGIを知らないことを指摘し、これから多くの産業（医療、運輸、金融など）に影響を与えるとし、取り組む企業が将来のリーダーになると強調した。
-
-また孫氏はChatGPTについても触れ、その有用性とコスト効果について語った。さらに2060年までの未来の動画を上映し、2060年までにヒューマノイドが人間と区別がつかないほど進化すると述べた。
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Fri, 06 Oct 2023 05:39:04 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 06 Oct 2023 05:45:16 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
