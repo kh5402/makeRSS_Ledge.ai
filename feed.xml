@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:40:22 +0000</lastBuildDate><item><title>生成AI搭載のカーナビ「MapGPT」発表ーー地図開発プラットフォームの米国Mapbox</title><link>https://ledge.ai/articles/mapbox_gpt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:46:45 +0000</lastBuildDate><item><title>約5割の企業が2024年新入社員研修に「ChatGPT研修を予定している」ーーMENTER調査</title><link>https://ledge.ai/articles/menta_reserch_gpt_training_for_2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+WHITE株式会社は2023年10月2日、企業の人事部門で育成・研修関連の業務に従事する236名に対して「2024年入社の新入社員研修の意識調査」を実施した結果を{target=“_blank”}した。
+
+MENTERの調査によると、2024年春に入社する新入社員向けにOpenAI社が開発した対話型AI「ChatGPT」に関連する研修を予定しているかを尋ねたところ「予定している」（50.8％）が約半数で、「検討中」は41.5％。一方、「予定してない」（7.6％）が1割を下回るなど、多くの企業がChatGPTの企業活用について前向きであることが明らかになった。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ChatGPT研修を予定していると回答した人に、その理由を尋ねたところ、「業務効率の向上」が60.8％と最も多く、「これからの時代に必要なリテラシー」(60.0％）、「アウトプットの質向上」（59.2％）が続く結果となった。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+一方、ChatGPT研修を「検討中」「予定していない」と回答した理由としては、「機密情報の漏洩リスク」「社内ルール・ガイドラインの未整備」が37.1％と同率1位。社内体制が新しい技術に追いついていないことが要因とMENTERでは分析している。次点は「アウトプットされる情報の正確性」に懸念を抱く人が34.5％であった。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ChatGPT研修を「検討中」の企業は、導入条件やキッカケが何かという問いに対し、約半数となる45.9％が「機密情報の漏洩リスクがクリア」されれば導入したいと回答した。ついで「予算がつけば導入したい」（41.8％）、「良いパートナー企業がいれば導入したい」（37.8％）が続いた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+■ 調査データについて
+調査名称：2024新人研修に関する意識調査
+調査機関：Fastask
+調査対象：全国の人事担当者（主に“育成・研修”業務に従事）
+調査方法： インターネットリサーチ
+調査期間：2023年9月13日〜2023年9月20日
+有効回答数：236件
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 13 Oct 2023 05:46:45 +0000</pubDate></item><item><title>生成AI搭載のカーナビ「MapGPT」発表ーー地図開発プラットフォームの米国Mapbox</title><link>https://ledge.ai/articles/mapbox_gpt</link><description>:::small
 画像の出典：{target=“_blank”}
 
 :::
@@ -244,22 +291,7 @@ Stable LM 3Bにより、各種端末や家庭用PCでのアプリケーション
 :::
 
 
-</description><pubDate>Fri, 06 Oct 2023 05:50:23 +0000</pubDate></item><item><title>アート引越センター「引越しAI見積りアプリ」の開発に着手、2024年2月提供へ</title><link>https://ledge.ai/articles/art_moving_company</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-アート引越センターは2023年9月27日、ぐるっと室内を撮影するだけで AIが自動見積りをする新アプリの開発に着手したことを {target=“_blank”}した。
-
-同社は発表で2024年問題をはじめとした働き方改革、労働力不足といった社会的な課題に触れ、引越業界においてもAIなどの最先端テクノロジーを活用した積極的な業務改革、DXが急務だと述べた。
-
-自動見積りサービス「引越しＡＩ見積りアプリ（仮）」では、顧客が室内をぐるっと撮影すると、そのデータを基に3Dモデルが自動で生成され、同社独自の物量積算AIエンジンによって自動で見積り金額が算出される仕組みだという。2024年2月にはアプリを使用したサービス開始を目指して開発を進めるとのことだ。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 06 Oct 2023 05:40:35 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 06 Oct 2023 05:50:23 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
