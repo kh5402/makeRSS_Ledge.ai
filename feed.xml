@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:46:45 +0000</lastBuildDate><item><title>約5割の企業が2024年新入社員研修に「ChatGPT研修を予定している」ーーMENTER調査</title><link>https://ledge.ai/articles/menta_reserch_gpt_training_for_2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:46:45 +0000</lastBuildDate><item><title>伊藤園とAI model、日本初のAIタレント起用「お～いお茶 カテキン緑茶」CM発表</title><link>https://ledge.ai/articles/itoen_ai_model_tarent</link><description>:::small
+画像出典：AI model
+:::
+
+AI modelは2023年10月3日、伊藤園の「お～いお茶 カテキン緑茶」のリニューアル発売に際し、テレビCMにAIタレントの提供を行ったと{target=“_blank”}した。同社調べでは、日本初の試みとのこと。
+
+AI modelはAI技術で生成した各企業専属のオリジナルモデルで、ブランディングやプロモーションの最適化を実現するサービスだ。テレビCMや動画・静止画などの広告において、モデルや撮影のクオリティは消費者の購買意思決定やブランドの独自性に影響する。AI modelによると、2023年8月7日16:00時点でAIタレントが出演したテレビCMの該当はないという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Fri, 13 Oct 2023 05:44:17 +0000</pubDate></item><item><title>約5割の企業が2024年新入社員研修に「ChatGPT研修を予定している」ーーMENTER調査</title><link>https://ledge.ai/articles/menta_reserch_gpt_training_for_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -269,29 +287,7 @@ Pixelシリーズは7年間のソフトウェアアップデート、Android OS�
 :::
 :::box
 
-:::</description><pubDate>Tue, 10 Oct 2023 03:10:12 +0000</pubDate></item><item><title>Stabilty.AI、環境に優しく効率的な30億パラメータ大規模言語モデル「Stable LM 3B」発表</title><link>https://ledge.ai/articles/stability_ai_llm</link><description>:::small
-画像出典：写真AC
-:::
-
-
-英国Stabilty.AIは2023年10月3日、コンパクトな大規模言語モデル（LLM）{target=“_blank”}を発表した。ノートPCなど計算能力があまり高くない機器でも動作するように設計されており、ライセンスは商用利用可能なオープンソースだ。
-
-業界の標準は70億～700億パラメータだが、Stable LM 3Bのモデルは30億パラメータで構成されている。主な特徴は小型化と効率性で、消費電力が少なく環境に優しい。他と比較して運用コストが低いが、従来の3Bパラメーター言語モデルや7Bパラメーターのモデルを凌駕する性能を持つ。
-
-Stable LM 3Bにより、各種端末や家庭用PCでのアプリケーション開発が容易になる。従来のStable LMと比較して、推論速度は高速でテキスト生成能力が向上。またダウンストリーム性能が向上しており、大規模な学習を経て高性能を達成する。
-
-汎用性がありさまざまな用途に適応可能だが、安全に動作させるためには事前の調整が必要だ。インストラクションモデルは現在安全テスト中で、近々リリースする予定。現在のモデルは無料で、オープンソースのCC-By-SA 4.0ライセンスでリリースされている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 06 Oct 2023 05:50:23 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Tue, 10 Oct 2023 03:10:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
