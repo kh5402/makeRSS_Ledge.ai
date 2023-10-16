@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:40:22 +0000</lastBuildDate><item><title>生成AI市場、2027年に780億円規模へ  IDC Japanの最新予測</title><link>https://ledge.ai/articles/idc_japan_usecase_reserch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 13 Oct 2023 05:40:22 +0000</lastBuildDate><item><title>生成AI搭載のカーナビ「MapGPT」発表ーー地図開発プラットフォームの米国Mapbox</title><link>https://ledge.ai/articles/mapbox_gpt</link><description>:::small
+画像の出典：{target=“_blank”}
+
+:::
+
+米国Mapboxは2023年10月4日、次世代の車載向け生成AI音声アシスタント 「MapGPT」を{target=“_blank”}した。
+
+同社は地図開発プラットフォーム事業を行っている。MapGPTは同社の提供する位置情報サービスと、ドライバーの場所、目的地、周囲の状況などリアルタイムで取得される情報を組み合わせることにより、従来の音声アシスタントよりも優れた理解力とレコメンド機能を実現する。
+
+またこれを搭載する自動車メーカーは、音声アシスタントに使用する大規模言語モデル（LLM）をはじめ、参照する情報ソースや実行させるアクション、音声、アバター、性格、ウェイクワードなどあらゆる要素をカスタマイズ可能だ。
+
+インターネットに接続されている間、MapGPT は OpenAI の GPT-3.5 および GPT-4 のLLMを利用し、オフラインの場合は、車両に組み込まれたハードウェア上で直接実行されるMapboxのオンボードTiny LLMが使用される。車両がインターネット接続を失った場合でも、ドライバーは自宅への移動、EV 充電ステーションの検索、ユーザー マニュアルへのアクセス、または Mapbox データから他の場所の検索が可能になるという。
+
+
+MapGPTに希望する条件を音声で伝えると、最適なルートや目的地を提案する。例えば「家族4人で楽しめる近くのレストランを紹介してほしい」と伝えれば、内蔵したアプリの情報などを基に条件に合ったレストランと、そこまでの経路を案内してくれる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+スマートフォン決済のPayPayの機能も搭載しており、車内から買い物やサービスの支払いも可能だという。MapGPTに搭載するアプリは自動車メーカーが自由に選んでカスタマイズすることもできる。今後は世界の自動車メーカーを対象に導入を目指していく。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 13 Oct 2023 05:39:27 +0000</pubDate></item><item><title>生成AI市場、2027年に780億円規模へ  IDC Japanの最新予測</title><link>https://ledge.ai/articles/idc_japan_usecase_reserch</link><description>:::small
 画像出典：IDC Japan
 :::
 
@@ -230,20 +259,7 @@ Stable LM 3Bにより、各種端末や家庭用PCでのアプリケーション
 :::
 :::box
 
-:::</description><pubDate>Fri, 06 Oct 2023 05:40:35 +0000</pubDate></item><item><title>トヨタ労組の定期大会「AI活用や自動化で求められるスキルや働き方が大きく変化していく可能性」新委員長発言</title><link>https://ledge.ai/articles/toyota_labor_union</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-トヨタ自動車労働組合は2023年9月28日、新体制のもと定期大会をオンラインで開催したと{target=“_blank”}が報じた。組合員680人あまりが参加するなか、来年の春闘に向けた運動方針などが満場一致で可決されたとのこと。
-
-今年就任した執行委員長の鬼頭圭介氏は、高齢化により深刻化する人手不足について、AIの活用や自動化の推進などに触れ「働く人に求められるスキルや働き方が大きく変化していく可能性がある」とあいさつの中で述べたという。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 06 Oct 2023 05:37:48 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 06 Oct 2023 05:40:35 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像はAdobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
