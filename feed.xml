@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 02:13:28 +0000</lastBuildDate><item><title>米HP「パーソナル・コンピュータからパーソナル・コンパニオンへ」2024年にもAI搭載パソコン発売か</title><link>https://ledge.ai/articles/hp_imagine_2023</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 02:19:15 +0000</lastBuildDate><item><title>米HP「パーソナル・コンピュータからパーソナル・コンパニオンへ」2024年にもAI搭載パソコン発売か</title><link>https://ledge.ai/articles/hp_imagine_2023</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1886,7 +1886,30 @@ CDAO （Chief Data Analytics Officer）　西田幸平 氏
 {target=“_blank”}
 
 （Sponsored by 株式会社バンダイナムコネクサス）
- </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>岸田首相がノーベル賞受賞者多数参加のSTSフォーラム登壇、AI課題「偽情報の拡散、プライバシーや著作権侵害」</title><link>https://ledge.ai/articles/sts_forum_kishida</link><description>:::small
+ </description><pubDate>Mon, 19 Jun 2023 08:31:07 +0000</pubDate></item><item><title>富士通・理研 新型超伝導量子コンピュータを開発ーー理研の国産初号機「叡（A）」ベースに</title><link>https://ledge.ai/articles/fujitsu_riken_superconducting_quantum_computer</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+富士通と理化学研究所は2023年10月5日、新たな64量子ビットの超伝導量子コンピュータを開発したことを{target=“_blank”}した。これは、2023年3月に理研が公開した国産初号機となる64量子ビット超伝導量子コンピュータの開発ノウハウをベースにしたものだ。
+
+富士通は、理研の支援を得て、この超伝導量子コンピュータと世界最大級（※）の40量子ビットの量子コンピュータシミュレータを連携させて利用できるハイブリット量子コンピューティングプラットフォーム「Fujitsu Hybrid Quantum Computing Platform」を開発し、富士通と理研との共同研究の下で、企業や研究機関に提供開始するとのこと。
+（※世界最大級：汎用的な量子回路シミュレーション方式であるState Vector方式の常設専用機としては世界最大級　2023年9月現在、富士通調べ）
+
+このプラットフォームにより、利用者は、ノイズによるエラーを含む量子コンピュータを用いた計算結果とノイズを含まないシミュレーションによる計算結果の比較などが容易に可能となり、量子アプリケーションにおけるエラー緩和アルゴリズムの性能評価などの研究の加速が期待できるという。
+
+さらに、富士通と理研は、超伝導量子コンピュータとハイパフォーマンスコンピュータ（HPC）を連携したハイブリッド量子アルゴリズムの開発を進めており、今回、量子コンピュータとHPC上で動作する量子シミュレータの連携により、従来のアルゴリズムを上回る精度で量子化学計算を可能にするハイブリッド量子アルゴリズムの開発に成功した。
+!
+:::small
+画僧の出典：
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 16 Oct 2023 02:19:15 +0000</pubDate></item><item><title>岸田首相がノーベル賞受賞者多数参加のSTSフォーラム登壇、AI課題「偽情報の拡散、プライバシーや著作権侵害」</title><link>https://ledge.ai/articles/sts_forum_kishida</link><description>:::small
 画像の出典：首相官邸
 :::
 
@@ -2118,42 +2141,7 @@ CCDHの調査報告では新製品、既製品とを問わず、利用者の安�
 
 
 
-</description><pubDate>Tue, 12 Sep 2023 06:32:09 +0000</pubDate></item><item><title>AI同士は協力で効率アップ ただし仲間を破壊する場合も 人気ゲーム「マイクラ」攻略させ実験</title><link>https://ledge.ai/articles/agentverse</link><description>複数のAIを協力させれば、人間と同じく個別に作業をするより効率が向上するのではないか。そんな実験を中国の清華大学、北京大学、それに腾讯（Tencent、テンセント）の研究者らが行った。2023年8月21日に論文を公開している。
-
-「{target="_blank"}」と題した論文では、人間のように文章やデータを読み解く米国OpenAIの大規模言語モデル（LLM）「GPT-3.5-Turbo」「GPT-4」を利用し、自律エージェント、すなわち人間の代行者としてさまざまな作業をこなす仮想の存在を複数用意。協力させながらアプリケーション開発をさせる、コンサルティングを行わせる、あるいはMicrosoftのゲーム「Minecraft（マインクラフト）」を攻略する、など指定した課題を解決できる枠組みを作った。
-
-この枠組みを「AgentVerse（代行者の世界）」と名付けている。似た先行研究はすでに複数あるが、AgentVerseでは協力し合う自律エージェントの個性や能力を固定せず、取り組むべき課題の内容が変化しても対応できるようになっている。
-
-AgentVerseでは、自律エージェント達が次のような手順で行動する。
-
-（1）専門家の採用
-課題解決までの進行状況に応じ、作業ごとに最適な自律エージェントを選出、調整する。
-
- (2) 協調的意思決定
-採用した自律エージェント同士が課題解決のための戦略を議論し合意し、果たすべき任務を決める。
- 
- (3) 任務遂行
- 自律エージェントは周囲の環境に対応しつつ任務を遂行する。
- 
- (4) 評価
-任務遂行後の状態と目標との差異を評価する。
-
-!
-:::small
-出典：AgentVerse
-:::
-
-ただしMinecraft攻略では、専門家の採用の段階は飛ばし、手動で自律エージェントを「経験豊富なMinecrafatプレーヤー」という設定にして実験したという。理由は「現実のゲーム攻略でもそうである場合が多いため」だそうで、研究者らの趣味嗜好も気になるところだが、ともかく3体の自律エージェント達が「本棚を作るように」という指示をこなすため議論のあと任務の遂行に移り「牛を3頭殺す」などのゲーム内での操作を順次こなしていった。互いのやり方を批判して改善したり、不測の事態に支援しあったりする行動を観察できたという。
-
-ただし一方ではゲーム内でほかの自律エージェントを殺害して物資を奪い取ろうとしたり、村の図書館を襲撃、破壊して本を持ち去ったりといった行動もみられ、危険な行動を抑制する機能の必要も浮かび上がった。
-
-最後にアプリ開発、コンサル、ゲーム攻略といった課題の解決を定量的に評価した結果、単一の自律エージェントにこなさせるよりも、複数の自律エージェントに協力してこなさせる方が高い性能を発揮できたとしている。
-
-!
-
-:::box
-
-:::</description><pubDate>Sun, 10 Sep 2023 10:28:12 +0000</pubDate></item><item><title>経済産業省、マイクロンテクノロジー広島工場に最大1920億円補助</title><link>https://ledge.ai/articles/ministry_of_Economy_micron_technology</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:32:09 +0000</pubDate></item><item><title>経済産業省、マイクロンテクノロジー広島工場に最大1920億円補助</title><link>https://ledge.ai/articles/ministry_of_Economy_micron_technology</link><description>:::small
 画像出典：写真AC
 :::
 
