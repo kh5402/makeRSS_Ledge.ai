@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 02:43:05 +0000</lastBuildDate><item><title>三井不動産　自社特化型の生成AIチャットツール「&amp;Chat」を全従業員対象に運用開始</title><link>https://ledge.ai/articles/mitsuifudosan_andchat</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 05:52:47 +0000</lastBuildDate><item><title>コンタクトセンター「生成AI活用したい」　責任者やスーパーバイザーの9割　楽天コミュニケーションズ調査
+</title><link>https://ledge.ai/articles/rakuten_reserch_contactscenter</link><description>:::small
+画像出典：写真AC
+:::
+
+楽天コミュニケーションズは2023年10月3日に{target=“_blank”}の結果を発表した。これはコンタクトセンターでのAI活用の実態や、AI活用に対してどのような認識を持っているのかを調査したもの。
+!
+:::small
+画像出典：楽天コミュニケーションズ
+:::
+
+自社コンタクトセンターでのAI活用状況は、「活用している」が52.7%、「活用に向けて準備中」が40.5%、「活用も準備もしていない」が5.5%だった。責任者やスーパーバイザーの9割が、生成AIの活用に前向きなことが判明した。
+
+!
+:::small
+画像出典：楽天コミュニケーションズ
+:::
+
+またAIの活用状況をコンタクトセンターの席数規模別に見ると、「活用している」と答えたのは501席以上では64.9%、100席以下では40.6%。その差は24.3ポイントだった。
+
+!
+:::small
+画像出典：楽天コミュニケーションズ
+:::
+
+具体的なAIの活用状況・予定については「AIチャットボットによる応対の自動化・省力化」が66.8%、「AI-IVR（自動音声応答システム）による応対の自動化・省力化」が50.7%、「顧客の感情分析による応対品質向上」が47.8%だった。
+
+!
+:::small
+画像出典：楽天コミュニケーションズ
+:::
+
+生成AI「ChatGPT」の公開後の関心度変化は「とても高まった」が22.7%、「高まった」が42.3%、「やや高まった」が20.5%。85.5%が「関心度が高まった」と回答していることがわかる。
+
+!
+:::small
+画像出典：楽天コミュニケーションズ
+:::
+
+生成AIの活用希望度については「とても活用したい」が27.3%、「活用したい」が47.7%、
+「やや活用したい」が15.0%。90.0%が、コンタクトセンターでの生成AIの活用を希望していると判明した。
+
+!
+:::small
+画像出典：楽天コミュニケーションズ
+:::
+
+一方でAI活用の懸念点として「顧客に間違った回答をするリスクの管理」が62.6%、「AIに対するトレーニングデータの収集・整理」が54.0%、「顧客情報に関するセキュリティの担保」が42.9%あった。
+
+
+【調査概要】
+調査エリア： 全国
+調査対象者： コンタクトセンターの責任者またはスーパーバイザー（SV）
+回収サンプルサイズ： 220サンプルサイズ
+調査時期： 2023年6月12日～2023年6月13日
+調査方法： インターネット調査
+調査実施機関： 株式会社ジャストシステム
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Mon, 16 Oct 2023 05:52:47 +0000</pubDate></item><item><title>三井不動産　自社特化型の生成AIチャットツール「&amp;Chat」を全従業員対象に運用開始</title><link>https://ledge.ai/articles/mitsuifudosan_andchat</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -247,31 +315,7 @@ LinkedInは2023年10月3日、求人やコーチングを生成AIで支援する
 :::
 :::box
 
-:::</description><pubDate>Wed, 11 Oct 2023 02:30:43 +0000</pubDate></item><item><title>サイバーエージェントが「アニメーションAI Lab」新設、生成AI活用のアニメ制作</title><link>https://ledge.ai/articles/cyberagent_animation_ai_lab</link><description>:::small
-画像出典：サイバーエージェント
-:::
-
-サイバーエージェントは2023年10月4日、AI事業本部において、アニメーション業界の生成AI研究開発に取り組む「アニメーションAI Lab」を新設したと{target=“_blank”}した。AI技術の研究開発組織「AI Lab」とアニメ事業本部が共同で設立し、生成AIを活用したアニメーションの新しい制作プロセスの構築を目指す。
-
-同社は2020年に「アニメ事業本部」を立ち上げ、アニメの独占・先行配信などを「ABEMA」で実施。2016年に「AI Lab」を立ち上げ、AIで広告効果を最大化するサービスを提供してきた。2023年5月には日本語LLMを開発・公開し、生成AIを使用した広告効果改善に取り組む。映像分野での生成AI活用が注目されており、さまざまな映像制作やキャラクター生成の可能性が見込まれている。
-
-今回新設の「アニメーションAI Lab」は、アニメーションの最新制作プロセスを研究し、生成AIを活用した制作プロセスの構築を目指す。また著作権保護や、不正利用防止のための研究も積極的に行う。初回研究開発では、アニメーションを用いた広告クリエイティブの制作と、新しい広告表現・価値提供の実現を目指す。研究強化分野は以下のとおり。
-
-・画像・映像生成
-・アニメーション
-・モーション生成
-・レンダリング
-・リップシンク/音声合成・BGM
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 10 Oct 2023 01:23:59 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 11 Oct 2023 02:30:43 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
