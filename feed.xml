@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 05:52:47 +0000</lastBuildDate><item><title>コンタクトセンター「生成AI活用したい」　責任者やスーパーバイザーの9割　楽天コミュニケーションズ調査
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 05:58:35 +0000</lastBuildDate><item><title>日本はAIとどのように共存していくべきか　マイクロソフトがAIガバナンスに関するレポート発表</title><link>https://ledge.ai/articles/microsoft_governance_japan</link><description>:::small
+画像出典：マイクロソフト
+:::
+
+マイクロソフトは2023年10月6日、日本のAIガバナンスに関するレポート{target=“_blank”}を発表した。これはAIの活用や開発、規制に関する国際的なルール作りに向けた提言をまとめたものだ。
+
+レポートでは日本の状況を考慮した同社のAI提案を、3部構成で紹介している。
+第1部：日本のAI政策、法律、規制の5つのポイント
+第2部：マイクロソフト社内の倫理的AIへの取り組み
+第3部：AIが日本の社会問題の解決に貢献する事例
+
+日本の課題は労働人口の減少と高齢化とし、AIの活用で人口構成や社会変化に対応し、経済成長を促進する必要があると指摘した。また「広島AIプロセス」立ち上げに触れ、日本のAI問題へのリーダーシップや模範的行動に多くの国が期待していると述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 16 Oct 2023 05:58:35 +0000</pubDate></item><item><title>コンタクトセンター「生成AI活用したい」　責任者やスーパーバイザーの9割　楽天コミュニケーションズ調査
 </title><link>https://ledge.ai/articles/rakuten_reserch_contactscenter</link><description>:::small
 画像の出典：写真AC
 :::
@@ -294,28 +315,7 @@ LinkedInは2023年10月3日、求人やコーチングを生成AIで支援する
 
 :::
 
-</description><pubDate>Wed, 11 Oct 2023 06:04:35 +0000</pubDate></item><item><title>NVIDIA テルアビブでのAIサミット開催を中止「参加者の安全性とウェルビーイングを最優先」ハマスのイスラエル攻撃を鑑み</title><link>https://ledge.ai/articles/nvidia_canceled_aisummit_in_telaviv</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国NVIDIAは、2023年10月15日および16日にテルアビブで予定されていたAIサミットを中止すると{target=“_blank”}した。イスラムの組織ハマスがイスラエルを攻撃し、ガザ地区での状況が悪化したことを受けての判断だという。サミットには同社創設者兼CEOのジェンスン・フアン氏をはじめとする同社幹部が参加し、生成 AI とクラウド コンピューティングの最新技術を紹介する予定であった。
-
-「イスラエルでの現状を受けて、我々はAIサミットを中止する決断を下しました。この状況で影響を受けているすべての人々に心からの思いを寄せています。参加者の安全と健康が我々の最優先事項であり、これが全ての人にとって最善の措置であると信じています」と同社は述べている。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-イスラエルは6,000社以上のスタートアップ企業を抱えており、一人当たりのVC投資額で常に世界トップクラスに位置している。2023年のグローバルスタートアップエコシステムレポートでは、テルアビブは世界でトップ5の都市の1つと位置づけられている。
-
-また、この2日間のサミットは、世界でも最も活気あるテクノロジーハブの1つから、2,500人以上の開発者、研究者、および意思決定者を集める予定であった。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 11 Oct 2023 02:30:43 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 11 Oct 2023 06:04:35 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
