@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 02:19:15 +0000</lastBuildDate><item><title>米HP「パーソナル・コンピュータからパーソナル・コンパニオンへ」2024年にもAI搭載パソコン発売か</title><link>https://ledge.ai/articles/hp_imagine_2023</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 02:43:05 +0000</lastBuildDate><item><title>三井不動産　自社特化型の生成AIチャットツール「&amp;Chat」を全従業員対象に運用開始</title><link>https://ledge.ai/articles/mitsuifudosan_andchat</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+三井不動産株式会社は2023年10月10日、生成AIを活用した自社特化型AIチャットツール「&amp;Chat（アンドチャット）」の開発と、全従業員に向けた導入を{target=“_blank”}した
+
+「&amp;Chat」は「Azure OpenAI Service」の最新バージョン「GPT-4」を用い、最新のインターネット情報や社内データを参照して回答を生成することが可能。
+
+同社によると、2023年8月より全従業員約2,500人を対象に運用を開始しており、2023年10月下旬よりアイデアソンにて、プロンプトのアイデアの社内公募を開始する。アイデアソンを通して、各部門における「&amp;Chat推進リーダー」を育成し、部内に活用方法を広めていくことを狙いとしており、このような施策を通じて「&amp;Chat」の本格活用を推進するという。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 16 Oct 2023 02:43:05 +0000</pubDate></item><item><title>米HP「パーソナル・コンピュータからパーソナル・コンパニオンへ」2024年にもAI搭載パソコン発売か</title><link>https://ledge.ai/articles/hp_imagine_2023</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -256,26 +271,7 @@ LinkedInは2023年10月3日、求人やコーチングを生成AIで支援する
 
 :::
 
-</description><pubDate>Tue, 10 Oct 2023 01:23:59 +0000</pubDate></item><item><title>「叡（A）」に決定、理研の国産超伝導量子コンピュータ初号機
-</title><link>https://ledge.ai/articles/riken_a</link><description>:::small
-画像出典：写真AC
-:::
-
-理化学研究所（理研）量子コンピュータ研究センター（RQC）は2023年10月5日、クラウド利用を開始した国産超伝導量子コンピュータ初号機の愛称を{target=“_blank”}に決めたと発表した。
-
-3月27日に稼働を始めたこの国産超伝導量子コンピュータ初号機は、64量子ビットを持つ。「叡」は聡明さを意味し、量子コンピュータの情報処理の卓越性・先進性を示す。また英語名の"A"はアルファベット順の最初の文字で、RQCや日本にとっての量子コンピュータ開発の第一歩を意味する。
-
-2023年4月7日から愛称の一般公募を開始し、5月31日までの期間に3,781件の応募があった。商標登録されているものを除外し、研究グループが選考して決定。今後は「叡」に合ったロゴマークの作成を予定している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 10 Oct 2023 01:20:34 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 10 Oct 2023 01:23:59 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
