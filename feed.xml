@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 03:16:08 +0000</lastBuildDate><item><title>プリファード　移動家具ロボット「カチャカ」にLLM搭載「リビング、ゴミ」で指示を理解しゴミ箱を運ぶーーCEATEC 2023で先行デモ</title><link>https://ledge.ai/articles/preferred_robotics_kachaka</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 06:30:09 +0000</lastBuildDate><item><title>プリファード　移動家具ロボット「カチャカ」にLLM搭載「リビング、ゴミ」で指示を理解しゴミ箱を運ぶーーCEATEC 2023で先行デモ</title><link>https://ledge.ai/articles/preferred_robotics_kachaka</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2404,7 +2404,29 @@ Intelligence Designでは9月5日に「すでに実施中の取り組みであ�
 
 :::
 
-</description><pubDate>Wed, 06 Sep 2023 01:58:45 +0000</pubDate></item><item><title>AI Picasso 商用利用できるAIアート用画像生成AI「Emi」と「Manga Diffusion」を無償公開</title><link>https://ledge.ai/articles/ai_picasso_emi_manga_diffusion</link><description>:::small
+</description><pubDate>Wed, 06 Sep 2023 01:58:45 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+画像の出典：Adobe
+:::
+
+米国Adobeは2023年10月10日、年次イベント{target=“_blank”}において「Illustrator」のアップデートを発表した。生成AI「Adobe Firefly」を使った新機能として{target=“_blank”}を披露。プロンプトを入力するだけで、ベクターイメージを生成できる。
+
+Adoobe Illustratorデスクトップ版に導入されたこの新機能は、シンプルなテキストプロンプトからベクターグラフィックが生成可能だ。Adobe Fireflyを搭載し、さまざまな用途に対応できる。
+
+生成したベクターアートは瞬時にアードボード上に表示され、編集や拡大縮小が可能だ。
+生成AIモデルは商用利用を想定し、Adobe Stockやパブリックドメインのコンテンツで学習している。
+
+新しい機能には、グラデーションの作成、整理された出力、シームレスなパターン、正確なジオメトリなどが含まれる。また他の生成AIツールとも併用可能だ。デザインにはコンテンツクレデンシャル機能が自動追加され、生成技術と作成ツールの情報を付与。新しいコンテンツは新規レイヤーに作成され、オリジナルのアートワークは保持される。
+
+また「テキストからベクター生成」と同時に、Retype （ベータ版）、モックアップ（ベータ版）、Adobe Illustrator web版（ベータ版）も発表した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 18 Oct 2023 06:30:09 +0000</pubDate></item><item><title>AI Picasso 商用利用できるAIアート用画像生成AI「Emi」と「Manga Diffusion」を無償公開</title><link>https://ledge.ai/articles/ai_picasso_emi_manga_diffusion</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2675,21 +2697,4 @@ DALL-E3は安全性へ配慮し、暴力的、成人向け、あるいはヘイ�
 :::
 :::box
 
-:::</description><pubDate>Fri, 22 Sep 2023 06:24:44 +0000</pubDate></item><item><title>AI生成の “抽象画” など3万枚を無料公開 デイシン 写実避け得意分野伸ばす</title><link>https://ledge.ai/articles/ai_art_dasyn</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-3Dプリントのデイシンは2023年9月11日、画像生成AIを利用して作った抽象画風の画像など3万枚以上を{target=“_blank”}した。高解像度の画像については編集著作権を主張しているが、原画はクリエイティブ・コモンズ・ライセンスに基づき無料で利用できるようにしている。
-
-デイシンによると、画像生成AIの利用者の多くは写実的な画像を制作するが、実際は人体など実世界のものの構造に関する知識を持たないため、そうした分野には適していない。同社は画像生成AIの得意分野として抽象的な画像を重視した。利用するAIは2022年に普及した「Stable Diffusion 2.1」を中心に旧版の1.5、新版XSDLなど。
-
-文章による指示「プロンプト」を短かくしたことが画像を特徴づけている。AIには細かい指示を与えるのが一般的だがあえて1～3語程度の短い言葉や造語を入力し、自由に画像をつくらせるという。工夫したプロンプトの内容などは画像とともに{target=“_blank”}で確認できる。
-
-なお同社はすでに2022年12月から画像生成AIに作らせたAIアートのポスター500枚をショッピングサイトの「楽天市場」で販売しているが、今回公開した3万枚の画像からさらに約2,000枚を選別してAIアートポスターとして取り扱う。一部はポストカードとしても提供する。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 21 Sep 2023 05:43:16 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 22 Sep 2023 06:24:44 +0000</pubDate></item></channel></rss>
