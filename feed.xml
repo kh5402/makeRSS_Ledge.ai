@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 16 Oct 2023 05:58:35 +0000</lastBuildDate><item><title>日本はAIとどのように共存していくべきか　マイクロソフトがAIガバナンスに関するレポート発表</title><link>https://ledge.ai/articles/microsoft_governance_japan</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 03:16:08 +0000</lastBuildDate><item><title>プリファード　移動家具ロボット「カチャカ」にLLM搭載「リビング、ゴミ」で指示を理解しゴミ箱を運ぶーーCEATEC 2023で先行デモ</title><link>https://ledge.ai/articles/preferred_robotics_kachaka</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Preferred Robotics（PFRobotics）は2023年10月13日、大規模言語モデル（LLM）を利用したスマートファニチャー・プラットフォーム「カチャカ」の新機能のデモを2023年10月17日（火）～20日（金）に幕張メッセで開催されるCEATEC 2023で先行すると{target=“_blank”}した。
+
+@
+
+同社は5月に「カチャカ」を人の指示で家具を動かすAI搭載の自律移動ロボットとして一般発売を開始。8月には、開発者向けにAPIを公開し外部サービスと連携可能とした。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+PFRoboticsは9月28日に130億パラメータの事前学習済み大規模言語モデル「PLaMo-13B(Preferred Language Model)」を、研究・商用で利用可能なオープンソースで公開したPreferred Networks（PFN）の子会社だ。
+
+例えば「リビング、ゴミ」と言った単語を羅列するだけで、カチャカが指示を認識し、リビングルームにゴミ箱を運ぶなど、LLMを活用し自然言語で柔軟に動く新機能の実装に向け同社は開発を進めている。大規模な学習データとパラメータにより、決められたコマンドフレーズのみならず、カチャカが抽象的な依頼を認識して動作し、必要に応じて気の利いた発話をするようになるという。将来的には、親会社のPreferred NetworksのLLM活用も見据えて、開発を進めるとのことだ。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 18 Oct 2023 03:16:08 +0000</pubDate></item><item><title>日本はAIとどのように共存していくべきか　マイクロソフトがAIガバナンスに関するレポート発表</title><link>https://ledge.ai/articles/microsoft_governance_japan</link><description>:::small
 画像出典：マイクロソフト
 :::
 
@@ -296,26 +320,7 @@ LinkedInは2023年10月3日、求人やコーチングを生成AIで支援する
 
 :::
 
-</description><pubDate>Wed, 11 Oct 2023 06:09:26 +0000</pubDate></item><item><title>Google、生成AI「Bard」を活用した新世代のアシスタント発表</title><link>https://ledge.ai/articles/google_assistant_with_bard</link><description>:::small
-画像出典：Google
-:::
-
-
-米国Googleは2023年10月4日、生成AIによる「Bard」を対話アシスタントとして活用する{target=“_blank”}をMade by Googleイベントで発表した。
-
-従来の「Googleアシスタント」は、音声を中心に天気の予報や電話機能を提供してきた。Assistant with Bardは生成AI「Bard」を使用して、Googleがアシスタント機能を拡張する。生成能力や推論能力を利用してパーソナライズし、テキスト、音楽、画像を使用してユーザーと対話する。
-
-またGmailやDocsなどのGoogleサービスとの統合で、さらにパーソナライズされたアシスタントを目指す。例えばAndroidで子犬の写真を取り込むと、SNSへの投稿用のキャプション作成をうながす。なお現在は「実験段階」であり、AndroidとiOSでの公開を数カ月後に予定している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 11 Oct 2023 06:04:35 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 11 Oct 2023 06:09:26 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
