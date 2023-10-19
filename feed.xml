@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 06:30:09 +0000</lastBuildDate><item><title>プリファード　移動家具ロボット「カチャカ」にLLM搭載「リビング、ゴミ」で指示を理解しゴミ箱を運ぶーーCEATEC 2023で先行デモ</title><link>https://ledge.ai/articles/preferred_robotics_kachaka</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 06:34:07 +0000</lastBuildDate><item><title>生成AIコンテンツの識別と信頼性、Metaが日本語の新ガイドライン発表</title><link>https://ledge.ai/articles/meta_llama2_guide_japanese</link><description>:::small
+画像の出典：Meta
+:::
+
+米国Metaは2023年10月10日、大規模言語モデル「Llama 2」の安全対策を解説した{target=“_blank”}を公開したと発表した。ガイドでは生成AIの潜在的な脆弱性の検出やリスクの低減、安全性と信頼性の向上の取り組みについて日本語で解説している。
+
+AIアシスタント「Meta AI」などテキストベースのカスタムAIモデルは、Llama 2の安全性と責任に関する学習を活用している。Metaは10年間の開発で得た教訓を取り入れ、生成AIの限界を理解するための注意書きを日本語で明示した。ガイドでは危険な回答の検知と除外のための完全性区分などの対策が、ベストプラクティスとして説明されている。
+
+またAIによって生成されたコンテンツは、それがAI作成であることを示すマークで表示される。同社は他の企業とも協力し、AIによって生成されたコンテンツの識別や分類のための共通基準の策定を目指していると述べた。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 18 Oct 2023 06:34:07 +0000</pubDate></item><item><title>プリファード　移動家具ロボット「カチャカ」にLLM搭載「リビング、ゴミ」で指示を理解しゴミ箱を運ぶーーCEATEC 2023で先行デモ</title><link>https://ledge.ai/articles/preferred_robotics_kachaka</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -300,27 +317,7 @@ AIモデルのガバナンス、信頼性 （トラスト）、公平性、確�
 :::
 :::box
 
-:::</description><pubDate>Fri, 13 Oct 2023 05:30:51 +0000</pubDate></item><item><title>LinkedIn、生成AIを活用した採用・コーチング支援ツールを発表</title><link>https://ledge.ai/articles/linkedin_new_tool</link><description>:::small
-画像出典：{target=“_blank”}
-:::
-
-LinkedInは2023年10月3日、求人やコーチングを生成AIで支援する新たなツール群を{target=“_blank”}した。同社は自社プラットフォームでのAI活用を推進している。
-
-ツール「Recruiter 2024」は、生成AIとLinkedInのインサイトを組み合わせて、採用担当者が求める人材の発見を支援する。採用担当者は求める条件を自然言語で入力することで、LinkedInが条件に合致する候補者リストを生成する。
-
-また検索の最適化提案も行う。例えば地域を拡大する、複合的な役職を提案するといったことだ。生成AIを活用するスカウトメール作成機能（「InMail」メッセージの自動生成）が、採用担当者の業務効率化に寄与する。
-
-さらに新しいAIを用いたコーチング支援ツールも発表。リーダーがAIチャットボットを使い、受講者向けのカスタマイズされたコーチングを実施する。AIチャットボットは、受講者のニーズに応じてリアルタイムでのアドバイスやコンテンツ提供が可能だ。
-
-マーケティング向けツール「Accelerate for Campaign Manager」も登場。パーソナライズされたキャンペーン提案が5分で可能になる。
-
-
-
-:::box
-
-:::
-
-</description><pubDate>Wed, 11 Oct 2023 06:09:26 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 13 Oct 2023 05:30:51 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
