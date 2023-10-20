@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 06:54:45 +0000</lastBuildDate><item><title>積水ハウスと博報堂、AI活用「生活ログ」解析の共同プロジェクト開始</title><link>https://ledge.ai/articles/sekisui_hakuhodo_platform_house_touch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 06:54:45 +0000</lastBuildDate><item><title>GPU比10倍のコストパフォーマンス Leapmind 生成AI特化の半導体チップ開発開始</title><link>https://ledge.ai/articles/leapmind_ai_chip</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ LeapMind株式会社は2023年10月10日、大規模なAIモデルの学習と推論を高速化する新しいAIチップの開発を開始したと{target=“_blank”}した。
+
+同社がエッジAI向けアクセラレーターの開発で培ってきた技術を応用しAIチップの開発に活かすという。モデルの学習と推論に特化することで、演算性能目標を2PFLOPS（ペタフロップス）とし、同等性能のGPU比で10倍のコストパフォーマンスを目指す。2025年中の製品出荷開始予定。
+
+大規模言語モデル（LLM）をはじめとする近年のAIモデルのサイズ拡大や計算量の増大により、最先端のAIモデルを学習するためのコストは10年前とは比較にならないほど上昇しており、このコスト上昇が、AIの進化における重大なボトルネックとなっていると同社は述べる。学習用のプロセッサに求められているものは、絶対性能の高さから、コストパフォーマンスの高さに変化していると現状を鑑み、開発に着手したという。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 18 Oct 2023 06:49:51 +0000</pubDate></item><item><title>積水ハウスと博報堂、AI活用「生活ログ」解析の共同プロジェクト開始</title><link>https://ledge.ai/articles/sekisui_hakuhodo_platform_house_touch</link><description>:::small
 画像の出典：積水ハウス
 :::
 
@@ -368,36 +384,7 @@ ChatGPT研修を「検討中」の企業は、導入条件やキッカケが何�
 :::
 :::box
 
-:::</description><pubDate>Fri, 13 Oct 2023 05:46:45 +0000</pubDate></item><item><title>生成AI搭載のカーナビ「MapGPT」発表ーー地図開発プラットフォームの米国Mapbox</title><link>https://ledge.ai/articles/mapbox_gpt</link><description>:::small
-画像の出典：{target=“_blank”}
-
-:::
-
-米国Mapboxは2023年10月4日、次世代の車載向け生成AI音声アシスタント 「MapGPT」を{target=“_blank”}した。
-
-同社は地図開発プラットフォーム事業を行っている。MapGPTは同社の提供する位置情報サービスと、ドライバーの場所、目的地、周囲の状況などリアルタイムで取得される情報を組み合わせることにより、従来の音声アシスタントよりも優れた理解力とレコメンド機能を実現する。
-
-またこれを搭載する自動車メーカーは、音声アシスタントに使用する大規模言語モデル（LLM）をはじめ、参照する情報ソースや実行させるアクション、音声、アバター、性格、ウェイクワードなどあらゆる要素をカスタマイズ可能だ。
-
-インターネットに接続されている間、MapGPT は OpenAI の GPT-3.5 および GPT-4 のLLMを利用し、オフラインの場合は、車両に組み込まれたハードウェア上で直接実行されるMapboxのオンボードTiny LLMが使用される。車両がインターネット接続を失った場合でも、ドライバーは自宅への移動、EV 充電ステーションの検索、ユーザー マニュアルへのアクセス、または Mapbox データから他の場所の検索が可能になるという。
-
-
-MapGPTに希望する条件を音声で伝えると、最適なルートや目的地を提案する。例えば「家族4人で楽しめる近くのレストランを紹介してほしい」と伝えれば、内蔵したアプリの情報などを基に条件に合ったレストランと、そこまでの経路を案内してくれる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-スマートフォン決済のPayPayの機能も搭載しており、車内から買い物やサービスの支払いも可能だという。MapGPTに搭載するアプリは自動車メーカーが自由に選んでカスタマイズすることもできる。今後は世界の自動車メーカーを対象に導入を目指していく。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 13 Oct 2023 05:39:27 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 13 Oct 2023 05:46:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
