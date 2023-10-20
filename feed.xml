@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 06:54:45 +0000</lastBuildDate><item><title>GPU比10倍のコストパフォーマンス Leapmind 生成AI特化の半導体チップ開発開始</title><link>https://ledge.ai/articles/leapmind_ai_chip</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 06:54:45 +0000</lastBuildDate><item><title>BBC「スクレイピングは公共の利益にかなっていない」Webクローラーをブロック 大手メディアでAI学習防止の動き続く</title><link>https://ledge.ai/articles/bbc_blocks_web_crawler_from_scraping_content</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+イギリスの公共放送局（BBC）は2023年10月5日、生成AIに対する最新の見解を{target=“_blank”}した。
+
+BBCは、生成AIが公共の使命をさらに深め、強化する大きな機会を提供すると信じている。また、製作ワークフローやバックオフィスなど、さまざまな分野で効果的かつ効率的に作業する手助けにもなり得ると述べた。その一方で、適切に取り扱われない場合のリスクをもたらす可能性にも触れた。倫理的問題、法的および著作権の課題、そして誤情報や偏見に関するリスクを指す。
+
+このような背景を考慮し、BBCは生成AIに対する以下３つの原則を採用するという。
+１．常に公共の最善の利益を追求する
+２．人間の才能と創造性を常に優先する
+３．オープンかつ透明である
+
+生成AIの進化に伴い、BBCはライセンス料の利益を守るための措置を講じている。BBCのデータを許可なく使用しAIモデルを訓練する現行の「スクレイピング」は公共の利益にかなっていないとの考えを示した。
+
+スクレイピングとは、Webサイトなどから情報を自動的に抽出するプロセスのことを指す。データ分析、競合他社の研究、サイトの内容の更新追跡など、様々な目的で用いられるが、個人情報の不適切な収集や著作権侵害など、法律的な問題を引き起こす可能性があるため、法的な規制や倫理的なガイドラインを考慮する必要がある。
+
+これまでにも著作物がスクレイピングを受けたことが問題であるとしてOpenAIを相手に作家たちが集団訴訟を起こすなどの係争がメディアを賑わせた。
+
+米国紙ニューヨークタイムズ（NYT）は8月に利用規約を更新し、機械学習（ML)やAIの訓練を目的とした同社コンテンツの無断使用を禁止する項目を追加した。英国紙ガーディアンによれば、NYT、CNN、ABCが、WebからAI学習データを集めるOpenAIのクローラー「GPTBot」をブロックしたと{target=“_blank”}いる。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 18 Oct 2023 06:53:11 +0000</pubDate></item><item><title>GPU比10倍のコストパフォーマンス Leapmind 生成AI特化の半導体チップ開発開始</title><link>https://ledge.ai/articles/leapmind_ai_chip</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -337,54 +366,7 @@ AI modelはAI技術で生成した各企業専属のオリジナルモデルで�
 
 
 
-</description><pubDate>Fri, 13 Oct 2023 05:44:17 +0000</pubDate></item><item><title>約5割の企業が2024年新入社員研修に「ChatGPT研修を予定している」ーーMENTER調査</title><link>https://ledge.ai/articles/menta_reserch_gpt_training_for_2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-WHITE株式会社は2023年10月2日、企業の人事部門で育成・研修関連の業務に従事する236名に対して「2024年入社の新入社員研修の意識調査」を実施した結果を{target=“_blank”}した。
-
-MENTERの調査によると、2024年春に入社する新入社員向けにOpenAI社が開発した対話型AI「ChatGPT」に関連する研修を予定しているかを尋ねたところ「予定している」（50.8％）が約半数で、「検討中」は41.5％。一方、「予定してない」（7.6％）が1割を下回るなど、多くの企業がChatGPTの企業活用について前向きであることが明らかになった。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ChatGPT研修を予定していると回答した人に、その理由を尋ねたところ、「業務効率の向上」が60.8％と最も多く、「これからの時代に必要なリテラシー」(60.0％）、「アウトプットの質向上」（59.2％）が続く結果となった。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-一方、ChatGPT研修を「検討中」「予定していない」と回答した理由としては、「機密情報の漏洩リスク」「社内ルール・ガイドラインの未整備」が37.1％と同率1位。社内体制が新しい技術に追いついていないことが要因とMENTERでは分析している。次点は「アウトプットされる情報の正確性」に懸念を抱く人が34.5％であった。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ChatGPT研修を「検討中」の企業は、導入条件やキッカケが何かという問いに対し、約半数となる45.9％が「機密情報の漏洩リスクがクリア」されれば導入したいと回答した。ついで「予算がつけば導入したい」（41.8％）、「良いパートナー企業がいれば導入したい」（37.8％）が続いた。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-■ 調査データについて
-調査名称：2024新人研修に関する意識調査
-調査機関：Fastask
-調査対象：全国の人事担当者（主に“育成・研修”業務に従事）
-調査方法： インターネットリサーチ
-調査期間：2023年9月13日〜2023年9月20日
-有効回答数：236件
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 13 Oct 2023 05:46:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 13 Oct 2023 05:44:17 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
