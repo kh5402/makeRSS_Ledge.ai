@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 18 Oct 2023 06:54:45 +0000</lastBuildDate><item><title>BBC「スクレイピングは公共の利益にかなっていない」Webクローラーをブロック 大手メディアでAI学習防止の動き続く</title><link>https://ledge.ai/articles/bbc_blocks_web_crawler_from_scraping_content</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 00:53:42 +0000</lastBuildDate><item><title>OpenAI、AI用半導体不足対策として独自チップ生産も視野に</title><link>https://ledge.ai/articles/openai_semiconductor_manufacturing</link><description>:::small
+画像の出典：写真AC
+:::
+
+米国OpenAIが独自のAIチップの製造を検討中で、デューディリジェンス（資産評価）を行なっていると、2023年10月5日に{target=“_blank”}が報じた。
+
+関係筋によると、OpenAIの社内協議では具体的な計画の決定に至っていない。しかし昨年時点で、AI用半導体の不足解消のため多様な選択肢を検討していた。選択肢としてAI用半導体の自社生産、エヌビディアなどのメーカーとの協力強化、サプライヤーをエヌビディア以外にも広げる、などがあるという。
+
+同社はこの件に関するコメントを控えている。同社の最高経営責任者（CEO）サム・アルトマン氏は「AI用半導体の確保が最優先」と述べており、エヌビディアのGPU不足に不満を示していた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 20 Oct 2023 00:53:42 +0000</pubDate></item><item><title>BBC「スクレイピングは公共の利益にかなっていない」Webクローラーをブロック 大手メディアでAI学習防止の動き続く</title><link>https://ledge.ai/articles/bbc_blocks_web_crawler_from_scraping_content</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -348,25 +365,7 @@ PFRoboticsは9月28日に130億パラメータの事前学習済み大規模言�
 :::
 :::box
 
-:::</description><pubDate>Mon, 16 Oct 2023 02:13:28 +0000</pubDate></item><item><title>伊藤園とAI model、日本初のAIタレント起用「お～いお茶 カテキン緑茶」CM発表</title><link>https://ledge.ai/articles/itoen_ai_model_tarent</link><description>:::small
-画像の出典：AI model
-:::
-
-AI modelは2023年10月3日、伊藤園の「お～いお茶 カテキン緑茶」のリニューアル発売に際し、テレビCMにAIタレントの提供を行ったと{target=“_blank”}した。同社調べでは、日本初の試みとのこと。
-
-AI modelはAI技術で生成した各企業専属のオリジナルモデルで、ブランディングやプロモーションの最適化を実現するサービスだ。テレビCMや動画・静止画などの広告において、モデルや撮影のクオリティは消費者の購買意思決定やブランドの独自性に影響する。AI modelによると、2023年8月7日16:00時点でAIタレントが出演したテレビCMの該当はないという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Fri, 13 Oct 2023 05:44:17 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Mon, 16 Oct 2023 02:13:28 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
