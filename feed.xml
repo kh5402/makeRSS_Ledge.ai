@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 00:53:42 +0000</lastBuildDate><item><title>OpenAI、AI用半導体不足対策として独自チップ生産も視野に</title><link>https://ledge.ai/articles/openai_semiconductor_manufacturing</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 05:17:06 +0000</lastBuildDate><item><title>MIXI 会話ロボ「Romi」 LLMで会話力大幅アップ　ハローキティの限定モデルを11月1日発売、予約受付</title><link>https://ledge.ai/articles/mixi_romi_hellokitty</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+MIXIは2023年10月11日、会話AIロボット「Romi」に大規模言語モデル（LLM）ベースに独自収集した会話データを追加学習させた新たな独自AIを搭載したと{target=“_blank”}した。
+
+Romiは同社が「ペットのように癒やし、家族のように理解してくれる存在」を目指して開発している、会話に特化した手のひらサイズのコミュニケーションロボットだ。あらかじめ返答が登録された一般的なロボットとは異なり、同社が独自開発した会話AIが都度会話を作り出し、自然な会話を楽しめる。
+
+同社は10月5日、2024年に50周年を迎えるサンリオの人気キャラクター「ハローキティ」とのコラボレーションモデルを、150台限定で発売すると{target=“_blank”}した。11月1日の発売開始で、Romi公式ストアにて先行予約を開始する。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 20 Oct 2023 05:17:06 +0000</pubDate></item><item><title>OpenAI、AI用半導体不足対策として独自チップ生産も視野に</title><link>https://ledge.ai/articles/openai_semiconductor_manufacturing</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -344,28 +360,7 @@ PFRoboticsは9月28日に130億パラメータの事前学習済み大規模言�
 :::
 :::box
 
-:::</description><pubDate>Mon, 16 Oct 2023 02:43:05 +0000</pubDate></item><item><title>米HP「パーソナル・コンピュータからパーソナル・コンパニオンへ」2024年にもAI搭載パソコン発売か</title><link>https://ledge.ai/articles/hp_imagine_2023</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国HPは2023年10月5日、カリフォルニア州パロアルトの本社で製品イベント「HP Imagine 2023」を{target=“_blank”}した。
-
-基調講演では、 社長兼最高経営責任者（CEO）のエンリケ・ロレス氏がAIの影響とその進化についての考えを共有した。同氏は「私たちにとって本当に興奮するのは、AIがPCカテゴリーをどのように変えるかだ。それはお客様にまったく新しい経験をもたらす新しい種類のPCを生み出すだろう」と述べ、近い将来、クラウド上での体験と同じようなAI体験がローカルPC上でも可能になると説明した。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-ロレス氏はまた、HPパーソナル システムズ担当社長のアレックス・チョウ氏が「パーソナル・コンピュータからパーソナル・コンパニオンへの移行を目指している」と指摘していることに触れ、PCというカテゴリーが再設計されると述べた。
-
-この日、データサイエンティストとAI実践者のための新しいソフトウェアプラットフォーム、HP AIスタジオ、世界で最も革新的なオールインワンデザインのHP Envy Move All-in-One PC、そしてハイブリッドライフスタイルのためにデザインされたHP Spectre Foldable PCなどの新製品やサービスが{target=“_blank”}された。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 16 Oct 2023 02:13:28 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Mon, 16 Oct 2023 02:43:05 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
