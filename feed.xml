@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 05:17:06 +0000</lastBuildDate><item><title>MIXI 会話ロボ「Romi」 LLMで会話力大幅アップ　ハローキティの限定モデルを11月1日発売、予約受付</title><link>https://ledge.ai/articles/mixi_romi_hellokitty</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 07:09:27 +0000</lastBuildDate><item><title>中国初の量産型ARグラスが大規模言語モデルを搭載　「INMO Go」発表</title><link>https://ledge.ai/articles/inmo_go</link><description>:::small
+画像の出典：INMO Technology
+:::
+
+中国の影目科技（INMO Technology）が、新製品「INMO Go」を2023年9月6日に発表したと{target=“_blank”}が報じた。同製品は、大規模言語モデル（LLM）をベースにしたサービスが使える中国初の量産型ARグラスだ。
+
+ARグラスは翻訳、ナビゲーション、情報表示などで利用されてきた。INMO Goは対話型AI「文心一言（ERNIE Bot）」や科大訊飛（iFLYTEK）、マイクロソフトなど大規模言語モデルの技術を利用する。
+
+AIとARの組み合わせにより、以下のようなことができる。海外旅行中に現地の言語をユーザーの使用言語に変換したり、仕事中にスケジュールやメッセージをリアルタイムで通知したりといったことだ。またARグラスが外国語の講師役となり、TOEFLやIELTSの口頭試問をリアルに体験することも可能だ。
+
+52グラムの薄型軽量デザインで、7時間のバッテリー駆動が可能。光学ソリューションとして回折光導波路、マイクロLEDディスプレイを採用している。価格は1999元（約4万円）からとなっている。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 20 Oct 2023 07:09:27 +0000</pubDate></item><item><title>MIXI 会話ロボ「Romi」 LLMで会話力大幅アップ　ハローキティの限定モデルを11月1日発売、予約受付</title><link>https://ledge.ai/articles/mixi_romi_hellokitty</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -345,22 +363,7 @@ PFRoboticsは9月28日に130億パラメータの事前学習済み大規模言�
 :::
 
 
-</description><pubDate>Mon, 16 Oct 2023 05:52:47 +0000</pubDate></item><item><title>三井不動産　自社特化型の生成AIチャットツール「&amp;Chat」を全従業員対象に運用開始</title><link>https://ledge.ai/articles/mitsuifudosan_andchat</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-三井不動産株式会社は2023年10月10日、生成AIを活用した自社特化型AIチャットツール「&amp;Chat（アンドチャット）」の開発と、全従業員に向けた導入を{target=“_blank”}した
-
-「&amp;Chat」は「Azure OpenAI Service」の最新バージョン「GPT-4」を用い、最新のインターネット情報や社内データを参照して回答を生成することが可能。
-
-同社によると、2023年8月より全従業員約2,500人を対象に運用を開始しており、2023年10月下旬よりアイデアソンにて、プロンプトのアイデアの社内公募を開始する。アイデアソンを通して、各部門における「&amp;Chat推進リーダー」を育成し、部内に活用方法を広めていくことを狙いとしており、このような施策を通じて「&amp;Chat」の本格活用を推進するという。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 16 Oct 2023 02:43:05 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 16 Oct 2023 05:52:47 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
