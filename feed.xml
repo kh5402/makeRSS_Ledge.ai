@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 07:09:27 +0000</lastBuildDate><item><title>オンワード　顧客データを分析「最強オフィス服」のデザインをAIがはじき出す</title><link>https://ledge.ai/articles/onward_drobe_anysis</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 07:09:27 +0000</lastBuildDate><item><title>自動運転タクシー「クルーズオリジン」26年から東京都心部で配車サービス開始ーーホンダ・クルーズ・GMが合弁</title><link>https://ledge.ai/articles/honda_cruise_origin</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ホンダが、2026年から東京都心部での自動運転タクシーサービスを開始する。
+
+2023年10月19日、ホンダと、GM クルーズホールディングスLLC、ゼネラルモーターズは、日本での自動運転タクシーサービスを2026年初頭に開始するため、サービス提供を担う合弁会社の設立に向けた基本合意書を{target=“_blank”}した。関係当局の承認を経て、2024年前半の設立を目指す。
+
+同サービスは、クルーズ、GM、Hondaで共同開発した自動運転専用車両「クルーズ・オリジン」が指定場所まで迎えにくるところから、目的地に到達するまで全て自動運転で行われ、配車から決済まで全てスマートフォンのアプリで完結するタクシー配車サービスだ。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+クルーズ・オリジンは、運転席の無い自動運転車両で、対面6人乗りによる広い車内空間と自家用車のようなプライベート空間を実現する。この自動運転タクシーサービスを、2026年初頭に東京都心部で開始予定。まずは数十台からスタートし、500台規模での運用を見込んでいる。その後は順次台数を増加させ、サービス提供エリアの拡大を目指すとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+クルーズ・オリジンは、東京ビッグサイトで開催される「Japan Mobility Show 2023」（一般公開日：10月28日～11月5日）のHondaブースに展示される。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 20 Oct 2023 05:36:45 +0000</pubDate></item><item><title>オンワード　顧客データを分析「最強オフィス服」のデザインをAIがはじき出す</title><link>https://ledge.ai/articles/onward_drobe_anysis</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -292,28 +321,7 @@ PFRoboticsは9月28日に130億パラメータの事前学習済み大規模言�
 :::
 :::box
 
-:::</description><pubDate>Wed, 18 Oct 2023 03:16:08 +0000</pubDate></item><item><title>日本はAIとどのように共存していくべきか　マイクロソフトがAIガバナンスに関するレポート発表</title><link>https://ledge.ai/articles/microsoft_governance_japan</link><description>:::small
-画像出典：マイクロソフト
-:::
-
-マイクロソフトは2023年10月6日、日本のAIガバナンスに関するレポート{target=“_blank”}を発表した。これはAIの活用や開発、規制に関する国際的なルール作りに向けた提言をまとめたものだ。
-
-レポートでは日本の状況を考慮した同社のAI提案を、3部構成で紹介している。
-第1部：日本のAI政策、法律、規制の5つのポイント
-第2部：マイクロソフト社内の倫理的AIへの取り組み
-第3部：AIが日本の社会問題の解決に貢献する事例
-
-日本の課題は労働人口の減少と高齢化とし、AIの活用で人口構成や社会変化に対応し、経済成長を促進する必要があると指摘した。また「広島AIプロセス」立ち上げに触れ、日本のAI問題へのリーダーシップや模範的行動に多くの国が期待していると述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 16 Oct 2023 05:58:35 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 18 Oct 2023 03:16:08 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
