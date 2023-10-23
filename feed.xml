@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 07:09:27 +0000</lastBuildDate><item><title>セコム 不審者検知する画像AI搭載「セコムドローンXX」巡回・侵入監視セキュリティドローン 24年春の発売予定</title><link>https://ledge.ai/articles/secom_drone_xx</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 20 Oct 2023 07:09:27 +0000</lastBuildDate><item><title>メルカリ  生成AI・LLM活用「メルカリAIアシスト」顧客行動の最適化を促すーー売れる商品名に改善提案など</title><link>https://ledge.ai/articles/mercari_aiassist</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+メルカリは2023年10月17日、フリマアプリ「メルカリ」上で、生成AI・大規模言語モデル（LLM）を活用した、AIアシスタント機能「メルカリAIアシスト」の提供を開始したことを{target=“_blank”}した。メルカリAIアシストは、出品・購入・その他の困りごとを解決すべく、AIが顧客に最適な行動を促す機能だという。
+
+第一弾の機能として同社は「出品商品の改善提案機能」を導入する。これは、出品済みの商品情報をAIが分析し、商品がより売れやすくなるよう出品者に改善提案を行う機能だ。一定期間売れ残っている出品商品に対し、AIがメルカリの過去の情報を元に商品情報の改善提案を行う。商品サイズや購入時価格など、追記すべき内容を提案するだけでなく、おすすめの商品名等を自動生成するという。
+
+!
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 20 Oct 2023 05:51:48 +0000</pubDate></item><item><title>セコム 不審者検知する画像AI搭載「セコムドローンXX」巡回・侵入監視セキュリティドローン 24年春の発売予定</title><link>https://ledge.ai/articles/secom_drone_xx</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -304,24 +323,7 @@ ChatGPTは1時間あたり100万kW以上、原子炉1基分の電力を消費す
 
 （Sponsored by 株式会社ファナティック）
 
-</description><pubDate>Tue, 10 Oct 2023 09:52:10 +0000</pubDate></item><item><title>生成AIコンテンツの識別と信頼性、Metaが日本語の新ガイドライン発表</title><link>https://ledge.ai/articles/meta_llama2_guide_japanese</link><description>:::small
-画像の出典：Meta
-:::
-
-米国Metaは2023年10月10日、大規模言語モデル「Llama 2」の安全対策を解説した{target=“_blank”}を公開したと発表した。ガイドでは生成AIの潜在的な脆弱性の検出やリスクの低減、安全性と信頼性の向上の取り組みについて日本語で解説している。
-
-AIアシスタント「Meta AI」などテキストベースのカスタムAIモデルは、Llama 2の安全性と責任に関する学習を活用している。Metaは10年間の開発で得た教訓を取り入れ、生成AIの限界を理解するための注意書きを日本語で明示した。ガイドでは危険な回答の検知と除外のための完全性区分などの対策が、ベストプラクティスとして説明されている。
-
-またAIによって生成されたコンテンツは、それがAI作成であることを示すマークで表示される。同社は他の企業とも協力し、AIによって生成されたコンテンツの識別や分類のための共通基準の策定を目指していると述べた。
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 18 Oct 2023 06:34:07 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 10 Oct 2023 09:52:10 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
