@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 23 Oct 2023 05:09:58 +0000</lastBuildDate><item><title>バイデン政権がエヌビディアを含むAI半導体の輸出停止計画、中国軍事技術への対抗措置</title><link>https://ledge.ai/articles/america_ai_tip_esport_ban</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 23 Oct 2023 05:18:00 +0000</lastBuildDate><item><title>大規模言語モデルの品質を検証、Citadel AI「LangCheck」オープンソースとして登場</title><link>https://ledge.ai/articles/citadel_ai_langcheck</link><description>:::small
+画像の出典：Citadel AI
+:::
+
+Citadel AIは2023年10月12日、大規模言語モデル（LLM）を用いた業務アプリケーションの信頼性を測定するツール{target=“_blank”}し、GitHubにソースコードを公開した。バージョンはv0.1.0、MIT Licenseで、pip(package installer for Python)を通じて、pip install langcheckでインストールできる。
+
+大規模言語モデルは社会や仕事環境の変革の可能性があるが、誤った情報を学習するリスクも存在する。企業がLLMを業務アプリケーションに取り入れる際には、出力の品質が重要だ。
+
+LangCheckは、LLMテストツールを統一的なインターフェースで提供する。機能の例として、正解テキスト一致判定、事実の一致度合いチェック、有害な出力チェック、文法・単語の誤りチェックなどがある。日本語に対応しており、{target=“_blank”}可能だ。
+
+
+:::box
+
+:::
+
+</description><pubDate>Mon, 23 Oct 2023 05:18:00 +0000</pubDate></item><item><title>バイデン政権がエヌビディアを含むAI半導体の輸出停止計画、中国軍事技術への対抗措置</title><link>https://ledge.ai/articles/america_ai_tip_esport_ban</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -231,31 +246,7 @@ PLATFORM HOUSE touchは、「生活ログ」として間取りや家族構成に
 
 :::
 
-</description><pubDate>Wed, 18 Oct 2023 06:54:45 +0000</pubDate></item><item><title>CEATEC 2023 今日が最終日　生成AIや環境技術に注目！国内大手企業やプリファードなどが出展</title><link>https://ledge.ai/articles/ceatec2023</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-一般社団法人電子情報技術産業協会（JEITA）が、IT技術とエレクトロニクスの展示会「CEATEC 2023」を幕張メッセにて{target=“_blank”}している。会期は2023年10月17日(火)～20日(金)で、本日が最終日となる。
-
-2000年よりデジタル家電見本市として発展してきたCEATECは、2016年「脱・家電見本市」を宣言。2023年は、Society 5.0が実現するこれからの社会や暮らし、最新のテクノロジーを「見る」「聴く」「感じる」「考える」共創の場をイノベーターたちに提供し、出展者・来場者と共に、新たな共創を生み出すことを目指す。5つの展示エリア（パートナーズパーク、アドバンスドテクノロジー、キーデバイス、スタートアップ＆ユニバーシティ、グローバル）に684社/団体が出展する。
-
-特に、生成AIを活用したサービスや、環境技術などを披露する企業に注目が集まっている。
-メタバース空間に鉄道車両の内部映像を再現し、生成AIが指示を出す訓練システムとして展示する{target=“_blank”}は、生成AIを組み合わせたアセット活用の新ソリューションなども紹介する。
-
-日本市場に合わせた生成AI開発に早くから取り組んでいた{target=“_blank”}は、様々なカンファレンスに登壇するほか、社内活用で生産性を大きく向上させた「NEC Generative AI」を展示する。
-
-{target=“_blank”}でアドバンストテクノロジ部門 準グランプリを受賞したプリファードネットワークス（PFN）は、省電力AIプロセッサーMN-Core™シリーズを展示。さらなる小型化、電力性能を持つMN-Core 2は、従来モデルと比較して、ラックあたりの演算性能は3倍、電力あたりの演算性能は33％向上しているという。
-
-そのほか出展内容は多岐にわたり、デジタル田園都市をテーマに掲げるパートナーズパークを中心に、テクノロジーで社会課題を解決するソリューションや未来の社会や暮らしが体験できる展示が多数披露されている。また、4年ぶりに対面で実施される講演や、ピッチイベントなども含め、合計で200を超えるカンファレンスが展開されている。
-
-4日間で10万人の来場者数を見込んでおり、来場者数の結果は会期終了後に発表される。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 18 Oct 2023 06:39:26 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 18 Oct 2023 06:54:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
