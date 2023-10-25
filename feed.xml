@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 23 Oct 2023 05:18:00 +0000</lastBuildDate><item><title>大規模言語モデルの品質を検証、Citadel AI「LangCheck」オープンソースとして登場</title><link>https://ledge.ai/articles/citadel_ai_langcheck</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 23 Oct 2023 05:22:24 +0000</lastBuildDate><item><title>TSMC熊本事業拡大、2兆円投資の最先端半導体製造も計画か</title><link>https://ledge.ai/articles/tsmc_kumamoto_factory</link><description>:::small
+画像の出典：写真AC
+:::
+
+TSMCが熊本県菊陽町の新工場の従業員について、約800人を地元から雇用したと2023年10月19日に{target=“_blank”}が報じた。同社の最高経営責任者（CEO）魏哲家氏によると、2024年末の量産開始に向け、新工場への製造装置の搬入を10月から開始。2023年7～9月期の決算説明会で、投資家に上記内容を報告したという。
+
+新工場のオフィス棟は部分的に供用開始、工場棟は年末完成を見込む。試作ラインを立ち上げつつ、24年末に回路線幅12～16ナノメートル（ナノは10億分の1）と22～28ナノメートルのロジック半導体の生産を始める予定だ。
+
+また同社が、日本国内で回路線幅6ナノメートルの国内最先端の半導体製造を計画していることを{target=“_blank”}が報じている。建設を検討中の熊本第2工場で製造し、総投資額はおよそ2兆円。経済産業省が最大9000億円ほどの資金支援を検討する。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 23 Oct 2023 05:22:24 +0000</pubDate></item><item><title>大規模言語モデルの品質を検証、Citadel AI「LangCheck」オープンソースとして登場</title><link>https://ledge.ai/articles/citadel_ai_langcheck</link><description>:::small
 画像の出典：Citadel AI
 :::
 
@@ -221,32 +237,7 @@ BBCは、生成AIが公共の使命をさらに深め、強化する大きな機
 :::
 :::box
 
-:::</description><pubDate>Wed, 18 Oct 2023 06:49:51 +0000</pubDate></item><item><title>積水ハウスと博報堂、AI活用「生活ログ」解析の共同プロジェクト開始</title><link>https://ledge.ai/articles/sekisui_hakuhodo_platform_house_touch</link><description>:::small
-画像の出典：積水ハウス
-:::
-
-積水ハウスと博報堂は2023年9月20日、{target=“_blank”}を開始したと発表した。積水ハウスのスマートホームサービス「PLATFORM HOUSE touch」を介して蓄積したビッグデータをAIで解析。博報堂はデータから、家族像や人物像の推計を推進する。
-
-!
-:::small
-画像の出典：積水ハウス
-:::
-
-PLATFORM HOUSE touchは、「生活ログ」として間取りや家族構成に関連したデータを蓄積する。通常のスマート家電は単なる「操作ログ」を記録するが、同サービスは生活全体に関わる総合的なデータを取得する。
-
-生活ログはAIを用いて解析され、「生活モーメント」「生活習慣」「行動の源泉」を可視化する。このデータは住まい手の無意識の活動やニーズを理解し、サービス提供者にとって有益な情報として活用される。2023年度内に、AIによる解析が可能となる予定。
-
-同サービスは、セキュリティ対策を最重要課題とし、CCDS認証を取得。住み手からの事前同意を得たデータのみを解析利用し、安心して使用できる環境を目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 18 Oct 2023 06:54:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 18 Oct 2023 06:49:51 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
