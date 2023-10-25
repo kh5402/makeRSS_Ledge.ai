@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 23 Oct 2023 05:22:24 +0000</lastBuildDate><item><title>世界で6拠点目 神戸にマイクロソフトのAI共創ラボ開設、AI・IoT開発支援拠点として産業創出めざす
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 23 Oct 2023 05:22:24 +0000</lastBuildDate><item><title>バンナム 米国GGWPに出資　良質なファンコミュニティの醸成に向けAI技術を活用したサービスを提供</title><link>https://ledge.ai/articles/bandainamco_ggwp</link><description>:::small
+画像の出典：{target=“_blank”}
+
+:::
+
+バンダイナムコエンターテインメントは2023年10月17日、スタートアップ投資ファンド「Bandai Namco Entertainment 021 Fund」 を通じ、米国に拠点を置くAI関連企業のGGWPに出資したことを{target=“_blank”}した。
+
+GGWPはオンラインゲーム内のデータを活用し、ゲームプレイヤーにとって安心でポジティブな環境の構築を目指す企業だ。オンラインゲームプレイヤーの悪質行為の検出から対処まで、AIを用いた迅速な対応を可能にする技術を有し、コミュニティの保護や育成、そしてプレイヤーにとってより良いゲーム環境・ゲーム体験を提供するための運営ツールを提供するという。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Sat, 21 Oct 2023 11:12:56 +0000</pubDate></item><item><title>世界で6拠点目 神戸にマイクロソフトのAI共創ラボ開設、AI・IoT開発支援拠点として産業創出めざす
 </title><link>https://ledge.ai/articles/microsoft_ai-co-Innovation-labs_in_kobe_opened</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -208,36 +222,7 @@ Romiは同社が「ペットのように癒やし、家族のように理解し�
 :::box
 
 :::
-</description><pubDate>Fri, 20 Oct 2023 00:53:42 +0000</pubDate></item><item><title>BBC「スクレイピングは公共の利益にかなっていない」Webクローラーをブロック 大手メディアでAI学習防止の動き続く</title><link>https://ledge.ai/articles/bbc_blocks_web_crawler_from_scraping_content</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-イギリスの公共放送局（BBC）は2023年10月5日、生成AIに対する最新の見解を{target=“_blank”}した。
-
-BBCは、生成AIが公共の使命をさらに深め、強化する大きな機会を提供すると信じている。また、製作ワークフローやバックオフィスなど、さまざまな分野で効果的かつ効率的に作業する手助けにもなり得ると述べた。その一方で、適切に取り扱われない場合のリスクをもたらす可能性にも触れた。倫理的問題、法的および著作権の課題、そして誤情報や偏見に関するリスクを指す。
-
-このような背景を考慮し、BBCは生成AIに対する以下３つの原則を採用するという。
-１．常に公共の最善の利益を追求する
-２．人間の才能と創造性を常に優先する
-３．オープンかつ透明である
-
-生成AIの進化に伴い、BBCはライセンス料の利益を守るための措置を講じている。BBCのデータを許可なく使用しAIモデルを訓練する現行の「スクレイピング」は公共の利益にかなっていないとの考えを示した。
-
-スクレイピングとは、Webサイトなどから情報を自動的に抽出するプロセスのことを指す。データ分析、競合他社の研究、サイトの内容の更新追跡など、様々な目的で用いられるが、個人情報の不適切な収集や著作権侵害など、法律的な問題を引き起こす可能性があるため、法的な規制や倫理的なガイドラインを考慮する必要がある。
-
-これまでにも著作物がスクレイピングを受けたことが問題であるとしてOpenAIを相手に作家たちが集団訴訟を起こすなどの係争がメディアを賑わせた。
-
-米国紙ニューヨークタイムズ（NYT）は8月に利用規約を更新し、機械学習（ML)やAIの訓練を目的とした同社コンテンツの無断使用を禁止する項目を追加した。英国紙ガーディアンによれば、NYT、CNN、ABCが、WebからAI学習データを集めるOpenAIのクローラー「GPTBot」をブロックしたと{target=“_blank”}いる。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 18 Oct 2023 06:53:11 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 20 Oct 2023 00:53:42 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
