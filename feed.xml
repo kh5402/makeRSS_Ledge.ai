@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 23 Oct 2023 05:22:24 +0000</lastBuildDate><item><title>TSMC熊本事業拡大、2兆円投資の最先端半導体製造も計画か</title><link>https://ledge.ai/articles/tsmc_kumamoto_factory</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 23 Oct 2023 05:22:24 +0000</lastBuildDate><item><title>世界で6拠点目 神戸にマイクロソフトのAI共創ラボ開設、AI・IoT開発支援拠点として産業創出めざす
+</title><link>https://ledge.ai/articles/microsoft_ai-co-Innovation-labs_in_kobe_opened</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日本マイクロソフトは2023年10月11日、世界6 拠点目となる「Microsoft AI Co-Innovation Lab」を、神戸市に開設し、入居する神戸商工貿易センターにて{target=“_blank”}を行った。
+
+Microsoft AI Co-Innovation Lab は、マイクロソフトおよび川崎重工業株式会社と神戸市が連携して開設。AIやIoTを活用したイノベーションの創出と、産業の振興を目的とする。AIを活用し、プロダクトやサービスの新たな可能性を探るスタートアップを含め様々な企業を支援するという。ラボには同社のエンジニアが常駐し、試作品段階までのIoT技術やAI搭載ソフトウェアの開発を支援するとのこと。
+
+このラボは2017年に米国レドモンドに開設されて以降、ミュンヘン、上海、サンフランシスコ、モンテビデオ（ウルグアイ）にて、800社を超えるエンゲージメントを行ってきたという。今回世界で第6の拠点になる神戸は、日本国内だけでなく、アジアにおけるAIとインダストリアルメタバースのイノベーション拠点になるとのことだ。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 23 Oct 2023 02:23:55 +0000</pubDate></item><item><title>TSMC熊本事業拡大、2兆円投資の最先端半導体製造も計画か</title><link>https://ledge.ai/articles/tsmc_kumamoto_factory</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -221,23 +237,7 @@ BBCは、生成AIが公共の使命をさらに深め、強化する大きな機
 :::
 :::box
 
-:::</description><pubDate>Wed, 18 Oct 2023 06:53:11 +0000</pubDate></item><item><title>GPU比10倍のコストパフォーマンス Leapmind 生成AI特化の半導体チップ開発開始</title><link>https://ledge.ai/articles/leapmind_ai_chip</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
- LeapMind株式会社は2023年10月10日、大規模なAIモデルの学習と推論を高速化する新しいAIチップの開発を開始したと{target=“_blank”}した。
-
-同社がエッジAI向けアクセラレーターの開発で培ってきた技術を応用しAIチップの開発に活かすという。モデルの学習と推論に特化することで、演算性能目標を2PFLOPS（ペタフロップス）とし、同等性能のGPU比で10倍のコストパフォーマンスを目指す。2025年中の製品出荷開始予定。
-
-大規模言語モデル（LLM）をはじめとする近年のAIモデルのサイズ拡大や計算量の増大により、最先端のAIモデルを学習するためのコストは10年前とは比較にならないほど上昇しており、このコスト上昇が、AIの進化における重大なボトルネックとなっていると同社は述べる。学習用のプロセッサに求められているものは、絶対性能の高さから、コストパフォーマンスの高さに変化していると現状を鑑み、開発に着手したという。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 18 Oct 2023 06:49:51 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 18 Oct 2023 06:53:11 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
