@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 26 Oct 2023 00:37:25 +0000</lastBuildDate><item><title>AIがドライバーの気分を解析し車内空間に反映「ニッサン ハイパーパンク」日産新型EVモビリティショー出展</title><link>https://ledge.ai/articles/nissan_hyper_punk</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 26 Oct 2023 00:40:45 +0000</lastBuildDate><item><title>百度が大規模言語モデル「文心4.0」発表、GPT-4と同等性能か</title><link>https://ledge.ai/articles/baidu_ernie4</link><description>:::small
+画像の出典：百度
+:::
+
+
+中国の検索最大手、百度（バイドゥ）は2023年10月17日、生成AIの基盤である大規模言語モデル（LLM）の最新版{target=“_blank”}を発表した。また企業向けの生成AIサービスを、中国で初めて投入するという。
+
+北京で開催された「Baidu World 2023」で登壇した最高技術責任者（CTO）王海峰氏によると、文心4.0は理解、生成、論理、記憶能力が顕著に向上。9月から若干量ながら実用化され、1か月あまりで効果がおよそ30%アップしたという。{target=“_blank”}が伝えている。
+
+なお、文心4.0は米国OpenAIのGPT-4モデルと同等性能と{target=“_blank”}が報じている。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 26 Oct 2023 00:40:45 +0000</pubDate></item><item><title>AIがドライバーの気分を解析し車内空間に反映「ニッサン ハイパーパンク」日産新型EVモビリティショー出展</title><link>https://ledge.ai/articles/nissan_hyper_punk</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -393,25 +411,7 @@ LangCheckは、LLMテストツールを統一的なインターフェースで�
 :::
 :::box
 
-:::</description><pubDate>Fri, 20 Oct 2023 05:36:45 +0000</pubDate></item><item><title>オンワード　顧客データを分析「最強オフィス服」のデザインをAIがはじき出す</title><link>https://ledge.ai/articles/onward_drobe_anysis</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-オンワード樫山のブランド「any SiS」は2023年8月、同社のパーソナルスタイリングサービス「DROBE」のAIによる分析データを活用し、AIを企画に取り入れたアイテムを{target=“_blank”}した。商品はオフィスカジュアルに欠かせない、清潔感と程よいトレンド感を兼ね備えた全5アイテム。現在、店頭に並ぶ。
-
-DROBEは、スタイリストとAIが顧客に合うアイテムを選定し自宅に送るというサービスで、顧客の購買履歴や、各提案アイテムに対する評価などのデータを収集できる。それらのデータをDROBE独自のAIで分析し、導いた人気アイテムの袖・丈・色味などの要素に基づきany SiSが商品企画を行うという試みだ。15万人以上の会員ユーザーごとに、それぞれの商品パターンの好みを示すスコアを算出し、スコアの高かったアイテムの要素を表したキーワードを用いて商品の企画を行った。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 20 Oct 2023 05:31:09 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 20 Oct 2023 05:36:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
