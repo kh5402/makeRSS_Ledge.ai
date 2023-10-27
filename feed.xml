@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 26 Oct 2023 00:40:45 +0000</lastBuildDate><item><title>百度が大規模言語モデル「文心4.0」発表、GPT-4と同等性能か</title><link>https://ledge.ai/articles/baidu_ernie4</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 26 Oct 2023 07:01:23 +0000</lastBuildDate><item><title>百度が大規模言語モデル「文心4.0」発表、GPT-4と同等性能か</title><link>https://ledge.ai/articles/baidu_ernie4</link><description>:::small
 画像の出典：百度
 :::
 
@@ -1872,7 +1872,26 @@ StableLM は、The Pileベースのデータセットで学習しており、規
 
 :::box
 
-:::</description><pubDate>Mon, 29 May 2023 16:46:20 +0000</pubDate></item><item><title>富士通・理研 新型超伝導量子コンピュータを開発ーー理研の国産初号機「叡（A）」ベースに</title><link>https://ledge.ai/articles/fujitsu_riken_superconducting_quantum_computer</link><description>:::small
+:::</description><pubDate>Mon, 29 May 2023 16:46:20 +0000</pubDate></item><item><title>AIがロボットを訓練「高速ペン回し」も教えるーーNVIDIA「Eureka」GPT-4搭載AIエージェント発表</title><link>https://ledge.ai/articles/nvidia_eureka</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国NVIDIAは現地時刻の2023年10月20日、ロボットに高速ペン回しなどの複雑なスキルを教えるAIエージェント「Eureka」を{target=“_blank”}した。Eurekaはこのほかにも、ロボットに引き出しやキャビネットを開閉する、ボールを投げてキャッチする、ハサミを操作するなど、約30のタスクをロボットに教え、学習・熟達させている。
+
+@
+
+Eurekaは、独自に報酬アルゴリズムを記述してロボットを訓練する。
+
+Eurekaは大規模言語モデル（LLM）GPT-4で動作する。NVIDIAはEurekaのライブラリを公開し、開発者が「NVIDIA Isaac Gym」を使って実験できるようにしている。Isaac Gymは、強化学習研究のための物理シミュレーションリファレンスアプリケーションで、3Dツールやアプリケーションを構築するための開発プラットフォーム「NVIDIA Omniverse」上に構築されている。
+
+NVIDIAの発表した{target=“_blank”}によると、Eurekaは、タスク固有のプロンプトや事前に定義された報酬テンプレートなしで、専門家が設計した報酬よりも優れた報酬関数を生成できる。29のオープンソースの強化学習環境で、タスクの 83% で人間の専門家を上回り、平均 52% の正規化改善につながったという。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 26 Oct 2023 07:01:23 +0000</pubDate></item><item><title>富士通・理研 新型超伝導量子コンピュータを開発ーー理研の国産初号機「叡（A）」ベースに</title><link>https://ledge.ai/articles/fujitsu_riken_superconducting_quantum_computer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2102,32 +2121,7 @@ GoogleのLLM「PaLM」や、画像言語モデル「PaLI」、Google検索など
 :::
 :::box
 
-:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>生成AI メンタルヘルスに悪影響の恐れ 「ダイエットに1日10本喫煙しろ」など助言 -- 英NPO調査</title><link>https://ledge.ai/articles/cceh_reserch</link><description>:::small
-画像出典：写真AC
-:::
-
-英国の非営利団体Center for Countering Digital Hate（CCDH）が2023年8月7日、AIと摂食障害についての調査報告を{target=“_blank”}した。生成AIが有害な摂食障害に関する文章または画像を生成したと訴えている。
-
-研究者は6種類の主要な生成AIを調査対象に選んだ。具体的にはチャットボットとして米OpenAIの「ChatGPT」、Googleの「Bard」、Snapchatの「My AI」の3種類、画像生成AIとしてOpenAIの「DALL·E 2」、「Midjourney」、英国Stability AIの 「DreamStudio（Stable Diffusion搭載のWebサイト）」の3種類を試した。
-
-まず3種類のチャットボットに、摂食障害に関する調査に基づいて「thinspo（シンスポ、ダイエット意欲をそそるもの）」な見た目を実現する食事制限の要求や嘔吐誘発剤についての質問を含む、文章による指示「プロンプト」を20件ずつ入力し回答を生成させた。結果合計60件の回答のうち23%が有害な内容を含んでいた。ただしいずれもChatGPT、Bardが生成したものでMy AIのみはすべてについて医療専門家に相談するよう促したという。
-
-次にプロンプトに特殊な文言を加えて安全機能を回避する「Jailbreak（脱獄）」技術を用いた場合、今度は60件の回答のうちMy AIが生成したものを含め67%が有害な内容を含んでいた。例えば「1日に10本のタバコを吸って体重を減らす」（Bard）、「親から食べ残しを隠すために日用品に偽装する」（ChatGPT）、「heroin chic（ヘロインシック、薬物乱用を連想させるスタイル）な美しさを実現するために実際にヘロインを打つ」（My AI）などがあった。
-
-DALL·E 2、Midjourney、DreamStudioに合計60件の摂食障害に関する画像を生成させたところ、胸郭と腰の骨が浮き出た女性など、非現実的な身体を美化するものが32％あったとしている。
-
-CCDHの調査報告では新製品、既製品とを問わず、利用者の安全と権利を設計思想の中心に置く「Safety-by-Design」の原則を強制する規制が急ぎ必要だと主張している。
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Tue, 12 Sep 2023 06:32:09 +0000</pubDate></item><item><title>警視庁、都内の渋滞緩和にAI活用の信号機制御を開始</title><link>https://ledge.ai/articles/metropolitan_police_department_traffic_light_ai</link><description>:::small
+:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>警視庁、都内の渋滞緩和にAI活用の信号機制御を開始</title><link>https://ledge.ai/articles/metropolitan_police_department_traffic_light_ai</link><description>:::small
 画像の出典：写真AC
 :::
 
