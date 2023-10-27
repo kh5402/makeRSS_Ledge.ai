@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 25 Oct 2023 05:04:41 +0000</lastBuildDate><item><title>AIがドライバーの気分を解析し車内空間に反映「ニッサン ハイパーパンク」日産新型EVモビリティショー出展</title><link>https://ledge.ai/articles/nissan_hyper_punk</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 26 Oct 2023 00:37:25 +0000</lastBuildDate><item><title>AIがドライバーの気分を解析し車内空間に反映「ニッサン ハイパーパンク」日産新型EVモビリティショー出展</title><link>https://ledge.ai/articles/nissan_hyper_punk</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2127,7 +2127,25 @@ CCDHの調査報告では新製品、既製品とを問わず、利用者の安�
 
 
 
-</description><pubDate>Tue, 12 Sep 2023 06:32:09 +0000</pubDate></item><item><title>ユネスコとオランダ、欧州AIガバナンス強化の新イニシアチブを立ち上げ</title><link>https://ledge.ai/articles/unesco_netherlands_ai_governance</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:32:09 +0000</pubDate></item><item><title>警視庁、都内の渋滞緩和にAI活用の信号機制御を開始</title><link>https://ledge.ai/articles/metropolitan_police_department_traffic_light_ai</link><description>:::small
+画像の出典：写真AC
+:::
+
+警視庁が都内の渋滞対策として、AIによる信号機制御の取り組みを開始すると2023年10月19日に{target=“_blank”}が報じた。全国の警察における、信号制御へのAIの本格導入は初という。
+
+都内一般道路の平日平均の渋滞は123キロにおよぶ。都内には約1万6千基の信号機があり、うち約8千基が交通管制センターで制御されている。現在は交通量を感知し、職員が手動で青信号の長さを調整している。
+
+AIは過去の交通データを基に渋滞状況を予測し、青信号の長さを自動調整する。具体的には30分後の渋滞を、40メートル以下の誤差で予測する。
+
+AIは住友電気工業らが開発した。2022年度から渋滞予測活用を開始し、数交差点でAI制御に切り替え、効果を検証した。信号機のシステム障害は混乱を招くリスクがあるが、サイバー攻撃の危険性は低い。警視庁は24時間体制で保守点検を実施する。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 26 Oct 2023 00:37:25 +0000</pubDate></item><item><title>ユネスコとオランダ、欧州AIガバナンス強化の新イニシアチブを立ち上げ</title><link>https://ledge.ai/articles/unesco_netherlands_ai_governance</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -2318,34 +2336,7 @@ GoogleはAIの活用は人間に利益をもたらすとする一方、公平性
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 08:00:15 +0000</pubDate></item><item><title>渋谷通る人の年齢・服のブランド・同伴者まで解析しデータ蓄積か 「渋谷100台プロジェクト」に不安の声</title><link>https://ledge.ai/articles/shibuya_project</link><description>東京・渋谷を訪れた人の年齢、服のブランド、同伴者、移動経路から買い物まで、100台のAIカメラで撮影したあと、リアルタイムで解析し行動データを蓄積。こんな触れ込みで始まった「渋谷100台プロジェクト」が懸念を呼んでいる。SNS「X（旧Twitter）」などで不安の声が上がり、ニュースサイトなども相次いで報じた。
-
-このプロジェクトは過去にさまざまな都市にAIカメラを設置してきたIntelligence Designが、産官学民連携組織の渋谷未来デザイン、渋谷駅周辺の企業や団体などで作る渋谷再開発協会と協力して運営する。
-
-Intelligence Designの当初の発表によると、渋谷駅周辺の商業施設や公共の場にAIカメラ100台を設置。7月から人流をリアルタイムで解析し、ハロウィーンや年末年始のカウントダウン時といった混雑時、警備員配置の最適化や人材不足の解決に役立てる。また一部はオープンデータ化し、マーケティングにも利用できるようにする。
-
-!
-
-!
-
-なお映像から抽出した人数、属性、滞留状況情報には個人を特定できる情報を含まず、撮影した映像は解析情報を抽出したあと即時破棄し、保存しないともしている。
-
-しかし公式サイトにある記述がSNS上で動揺を引き起こした。次のような内容だ。
-
-　「40代/男性、同席者有り（30代/女性）、ブランドAを着用/所持、休日12時より渋谷に銀座線で到着、ヒカリエでランチ、 明治通りを通り、宮下パークへ低速で移動（ショッピング目的を想定）、月3回目（前回：休日◯曜日）・今年10回目の渋谷、ヒカリエ来店数◯回、前回店舗A・Bにて購入を実施・・・」
-
-!
-
-100台のAIカメラを利用すれば対象の人物の通年にわたる行動をリアルタイムで蓄積できるという趣旨。9月1日以降は該当の内容は消えたが、Webサイトの過去の情報を記録する「{target=“_blank”}」で確認が可能。
-
-Intelligence Designでは9月5日に「すでに実施中の取り組みであるように誤解を招く可能性」があったため一部の公開内容について修正したと{target=“_blank”}した。
-
-またAIカメラが収集するのは、総務省の定める「[カメラ画像利活用ガイドブック](https://www.meti.go.jp/press/2021/03/20220330001/20220330001.html
-){target=“_blank”}」に従った人流に関する属性情報とそれに基づく統計情報で、個人情報保護法の定義する個人情報には該当しないとする認識を示した。実際に映像取得を行うにあたっては、地域住民など関係各所とコミュニケーションを図るほか、個人情報の取り扱いについて、個人情報保護法を順守し、前述のガイドブックに従い、有識者の助言を参考にし、適切に管理しているとのこと。また同社の公式サイトに掲載している個人情報保護方針については、取り組みの拡大にあわせて随時適切な改定を行うとしている。
-
-:::box
-
-:::</description><pubDate>Fri, 08 Sep 2023 07:21:12 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+:::</description><pubDate>Sat, 09 Sep 2023 08:00:15 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
