@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>米Appleが 生成AIに年10億ドル投資ーーアプリやOSに導入、巻き返しを図れるか</title><link>https://ledge.ai/articles/apple_invests_1billion_in_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>「宇宙で半導体製造」Space Forge社が新たな実験衛星を打ち上げ予定</title><link>https://ledge.ai/articles/spaceforge_satellite_launch</link><description>:::small
+画像の出典：写真AC
+:::
+
+
+英国Space Forge社が実験衛星「ForgeStar-1」を2023年末か2024年初頭に打ち上げると、{target=“_blank”}が2023年10月3日に報じた。なお同社は前回のLauncherOneロケット打ち上げに失敗し、実験衛星を失っている。
+
+地球上の半導体製造はコストが高く、エネルギーを大量に消費する。しかし宇宙では真空と微小重力によって、より効率的な半導体材料の開発が可能になる。ForgeStar-1衛星には小型の自動化された化学実験室が搭載され、地球に帰還せず、実験結果をデジタルで送信する。
+
+同社の最高経営責任者（CEO）兼創設者Western氏は、製品を地球に持ち帰るための帰還可能な衛星の構築についても語った。衛星は半導体製造だけでなく、他の産業プロセスにも使用される計画で、2～3年以内に最初の帰還可能な衛星の打ち上げが予想されるという。
+
+世界の半導体産業の価値は現在5,000億ドル以上で、2030年までに半導体産業の規模は2倍に成長すると予測されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Fri, 27 Oct 2023 00:46:37 +0000</pubDate></item><item><title>米Appleが 生成AIに年10億ドル投資ーーアプリやOSに導入、巻き返しを図れるか</title><link>https://ledge.ai/articles/apple_invests_1billion_in_genai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 米国Appleが、OSやアプリへの生成AIを導入に向けて年間10億ドルを費やす計画だと2023年10月22日に{target=“_blank”}が報じた。
@@ -374,31 +396,7 @@ LangCheckは、LLMテストツールを統一的なインターフェースで�
 :::
 :::box
 
-:::</description><pubDate>Fri, 20 Oct 2023 05:51:48 +0000</pubDate></item><item><title>セコム 不審者検知する画像AI搭載「セコムドローンXX」巡回・侵入監視セキュリティドローン 24年春の発売予定</title><link>https://ledge.ai/articles/secom_drone_xx</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-セコムは2023年10月13日、AIを活用して巡回・侵入監視を行うセキュリティドローン「セコムドローンXX（ダブルエックス）」を開発したことを{target=“_blank”}した。2024年春の発売予定。
-
-セコムドローンXXは、2015年12月に実用化されていた「セコムドローン」の機能をさらに進化させたもの。敷地内への侵入があった際に不審者を自律飛行で追跡し、その映像をセコムのコントロールセンターに送信して迅速・的確な対応につなげる。人や車両を検知する画像AIをドローンに搭載し、監視員が不審者・不審車両と判断して指定した物体を自動で追跡・撮影する。
-
-飛行時間・速度を大幅に向上させ、最大で半径約6km のエリアを警備可能となった。また、耐風性能を高め、赤外線カメラも搭載しているため、悪天候や夜間の監視能力が向上。LTE通信等を使用でき、敷地内へのWi-Fi通信設備の設置が不要となった。
-
-@
-
-格納庫もリニューアルし、ドローンの格納・離着陸・バッテリー交換／充電、機体のセルフチェックを全自動で行うという。バッテリーを自動で交換できるため、短時間で次の飛行を実施できる。
-
-セコムドローンXXは、巡回監視と侵入監視を提供し、公共施設の点検、災害時の安全確認、河川の見回りなど、さまざまな用途で活用できる。また、同ドローン開発は、防衛装備庁の新技術短期実証事業「ドローン等を用いた監視・検査の自動化・効率化」で実証された内容をベースにしており、航空自衛隊や海上自衛隊の防衛施設向け監視システムの現地実証試験も進行中とのこと。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 20 Oct 2023 05:47:30 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 20 Oct 2023 05:51:48 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
