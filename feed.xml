@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 26 Oct 2023 07:01:23 +0000</lastBuildDate><item><title>百度が大規模言語モデル「文心4.0」発表、GPT-4と同等性能か</title><link>https://ledge.ai/articles/baidu_ernie4</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>米Appleが 生成AIに年10億ドル投資ーーアプリやOSに導入、巻き返しを図れるか</title><link>https://ledge.ai/articles/apple_invests_1billion_in_genai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+米国Appleが、OSやアプリへの生成AIを導入に向けて年間10億ドルを費やす計画だと2023年10月22日に{target=“_blank”}が報じた。
+
+OpenAIのChatGPTの躍進にGoogleやMicrosoftが追随し、テック大手企業が生成AI技術を展開する中で、ほとんど傍観者スタンスにみえたApple。しかし現在、同社幹部はこの分野での遅れを取り戻すべく取り組んでいるという。
+
+Appleの最高経営責任者（CEO）Tim Cook氏は8月のCNBCとのインタビューで、同社が生成AIやその他のモデルの研究を長年にわたり進めてきたことを語った。同社のAIとソフトウェアエンジニアリングを担当するJohn Giannandrea氏とCraig Federighi氏は、この取り組みを主導している。サービス責任者のEddy Cue氏が加わり、この事業に年間約10億ドルを投資する計画だという。
+
+Giannandrea氏のチームは新しいAIシステムの技術を開発中で、Siriの大幅な改良も進めている。Federigh氏iのソフトウェアエンジニアリングチームは、次期iOSにAIを導入する予定だという。Xcodeなどの開発ツールに生成AIを統合することを検討している。そしてCue氏のチームが、できるだけ多くのアプリに AIを追加することを推進しているとのことだ。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 27 Oct 2023 07:33:37 +0000</pubDate></item><item><title>百度が大規模言語モデル「文心4.0」発表、GPT-4と同等性能か</title><link>https://ledge.ai/articles/baidu_ernie4</link><description>:::small
 画像の出典：百度
 :::
 
@@ -382,36 +398,7 @@ LangCheckは、LLMテストツールを統一的なインターフェースで�
 :::
 :::box
 
-:::</description><pubDate>Fri, 20 Oct 2023 05:47:30 +0000</pubDate></item><item><title>自動運転タクシー「クルーズオリジン」26年から東京都心部で配車サービス開始ーーホンダ・クルーズ・GMが合弁</title><link>https://ledge.ai/articles/honda_cruise_origin</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ホンダが、2026年から東京都心部での自動運転タクシーサービスを開始する。
-
-2023年10月19日、ホンダと、GM クルーズホールディングスLLC、ゼネラルモーターズは、日本での自動運転タクシーサービスを2026年初頭に開始するため、サービス提供を担う合弁会社の設立に向けた基本合意書を{target=“_blank”}した。関係当局の承認を経て、2024年前半の設立を目指す。
-
-同サービスは、クルーズ、GM、Hondaで共同開発した自動運転専用車両「クルーズ・オリジン」が指定場所まで迎えにくるところから、目的地に到達するまで全て自動運転で行われ、配車から決済まで全てスマートフォンのアプリで完結するタクシー配車サービスだ。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-クルーズ・オリジンは、運転席の無い自動運転車両で、対面6人乗りによる広い車内空間と自家用車のようなプライベート空間を実現する。この自動運転タクシーサービスを、2026年初頭に東京都心部で開始予定。まずは数十台からスタートし、500台規模での運用を見込んでいる。その後は順次台数を増加させ、サービス提供エリアの拡大を目指すとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-クルーズ・オリジンは、東京ビッグサイトで開催される「Japan Mobility Show 2023」（一般公開日：10月28日～11月5日）のHondaブースに展示される。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 20 Oct 2023 05:36:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 20 Oct 2023 05:47:30 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
