@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>Stability AI　新たに日本語大規模言語モデルを公開　日本語性能評価で最高水準・ 商用利用可</title><link>https://ledge.ai/articles/japanese_stable_lm_3b4e1_gamma7b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>Yahoo!ニュース、新機能「コメントAI要約 β版」試験提供開始</title><link>https://ledge.ai/articles/yahoonews_comment_sumarry</link><description>:::small
+画像の出典：LINEヤフー
+:::
+
+LINEヤフーは2023年10月25日、Yahoo!ニュースのコメント欄で新機能「コメントAI要約 β版」の試験提供を開始したと{target=“_blank”}した。ユーザーはコメント欄にある「コメントをAIで要約する」ボタンを押下すると、記事に投稿されたコメントの要約を読むことができる。
+
+同社は生成AIを活用して多くのコメントを要約し、ユーザーの新たな気づきや理解を助けることを目的として試験提供を開始した。
+!
+:::small
+画像の出典：LINEヤフー
+:::
+
+「コメントAI要約 β版」は、一定数以上のコメントが投稿された記事のコメント欄で提供する。配信から24時間以内の記事が対象で、要約対象コメントは 「おすすめ順」の上位コメント。要約結果の表示は3つ、注目ポイントの表現、主なコメントの要約、関連ワードの表示だ。
+
+今回の新機能導入は試験的であり、正確性や品質は保証されない。予告なく利用できなくなる可能性や、一部のブラウザでは表示されない場合がある。Yahoo!ニュースアプリでは提供せず、一部の記事は要約対象外。LINEヤフーおよびOpenAIの利用規約が適用される。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 27 Oct 2023 05:40:12 +0000</pubDate></item><item><title>Stability AI　新たに日本語大規模言語モデルを公開　日本語性能評価で最高水準・ 商用利用可</title><link>https://ledge.ai/articles/japanese_stable_lm_3b4e1_gamma7b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -382,28 +407,7 @@ LangCheckは、LLMテストツールを統一的なインターフェースで�
 
 :::
 
-</description><pubDate>Mon, 23 Oct 2023 05:18:00 +0000</pubDate></item><item><title>バイデン政権がエヌビディアを含むAI半導体の輸出停止計画、中国軍事技術への対抗措置</title><link>https://ledge.ai/articles/america_ai_tip_esport_ban</link><description>:::small
-画像の出典：写真AC
-:::
-
-
-バイデン米政権が、米国エヌビディアなどが設計したより高度なAI用半導体の中国への輸出停止を計画していると{target=“_blank”}が2023年10月17日に報じた。中国政府が軍事強化のために、米国の最先端技術を入手しようとするのを阻止する目的があるという。
-
-今回の措置は30日以内に発効し、イランやロシアも含む多くの国に対し半導体と製造装置の輸出を制限するものだ。ブラックリストには、エヌビディアの元従業員が設立した中国の2つの新興半導体製造企業を掲載する。
-
-レモンド米商務長官によると、新措置は昨年10月の規制の抜け穴を塞ぐことを目的とし、毎年更新される予定。目的は、中国が軍事用途でのAIや先進的なコンピュータ技術の急進を可能にする半導体へのアクセスを制限することだ。
-
-米政権は、中国に対する経済的打撃を目的としていないと強調した。中国は引き続き、米国製半導体を輸入予定。中国大使館はこの措置に「断固反対」と表明、市場経済と公正な競争の原則に反すると主張した。またエヌビディアはすべての規則を順守しており、業績に短期的な影響はないとの立場を表した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 23 Oct 2023 05:09:58 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 23 Oct 2023 05:18:00 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
