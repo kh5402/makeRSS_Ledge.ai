@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>「宇宙で半導体製造」Space Forge社が新たな実験衛星を打ち上げ予定</title><link>https://ledge.ai/articles/spaceforge_satellite_launch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>Stability AI　新たに日本語大規模言語モデルを公開　日本語性能評価で最高水準・ 商用利用可</title><link>https://ledge.ai/articles/japanese_stable_lm_3b4e1_gamma7b</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stability AI Japan は2023年10月25日、日本語向け大規模言語モデル（LLM）「Japanese Stable LM 3B-4E1T」及び「Japanese Stable LM Gamma 7B」を{target=“_blank”}した。
+
+前者は約30億パラメータ、後者は約70億パラメータのモデルで、日本語タスクを用いた性能評価において、同等サイズのモデルで最高水準の性能を発揮しているという。モデルはすべて商用利用可能な Apache 2.0 ライセンスにて公開中。
+
+同年8月に公開した「Japanese Stable LM Alpha」シリーズと違い、今回のモデルは英語モデルとして制作・公開されたLLM「Stable LM 3B-4E1T」「Mistral-7B-v0.1」が元になっている。これらは事前学習において英語のデータが主に用いられているため、英語の能力が非常に高く、すでに様々な知識を獲得していた。しかし、学習データに日本語のデータがほとんど含まれていないため、日本語の能力は低い状態であった。
+
+そこで、継続事前学習 (Continued Pretraining) と呼ばれるアプローチを用い、これらのモデルに対し、日本語を主としたデータを用いて更に事前学習を行い、日本語の能力を追加した。継続事前学習には Wikipedia, mC4, CC-100, OSCAR, SlimPajama（Books3を除く）等の日本語と英語データを利用し、のべ約1000億トークンで行われたという。
+
+Hugging Face Hub にて Hugging Face Transformers に準拠する形式で公開している。Hugging Face Transformers の他のモデルと同様、推論や追加学習を試すことができる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 27 Oct 2023 07:26:34 +0000</pubDate></item><item><title>「宇宙で半導体製造」Space Forge社が新たな実験衛星を打ち上げ予定</title><link>https://ledge.ai/articles/spaceforge_satellite_launch</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -377,26 +403,7 @@ LangCheckは、LLMテストツールを統一的なインターフェースで�
 
 :::
 
-</description><pubDate>Mon, 23 Oct 2023 05:09:58 +0000</pubDate></item><item><title>メルカリ  生成AI・LLM活用「メルカリAIアシスト」顧客行動の最適化を促すーー売れる商品名に改善提案など</title><link>https://ledge.ai/articles/mercari_aiassist</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-メルカリは2023年10月17日、フリマアプリ「メルカリ」上で、生成AI・大規模言語モデル（LLM）を活用した、AIアシスタント機能「メルカリAIアシスト」の提供を開始したことを{target=“_blank”}した。メルカリAIアシストは、出品・購入・その他の困りごとを解決すべく、AIが顧客に最適な行動を促す機能だという。
-
-第一弾の機能として同社は「出品商品の改善提案機能」を導入する。これは、出品済みの商品情報をAIが分析し、商品がより売れやすくなるよう出品者に改善提案を行う機能だ。一定期間売れ残っている出品商品に対し、AIがメルカリの過去の情報を元に商品情報の改善提案を行う。商品サイズや購入時価格など、追記すべき内容を提案するだけでなく、おすすめの商品名等を自動生成するという。
-
-!
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 20 Oct 2023 05:51:48 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 23 Oct 2023 05:09:58 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
