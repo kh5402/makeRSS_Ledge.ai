@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>Yahoo!ニュース、新機能「コメントAI要約 β版」試験提供開始</title><link>https://ledge.ai/articles/yahoonews_comment_sumarry</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>米国は日本の約3倍「仕事にAI利用している」AIビジネス活用を日米比較ーーGMOリサーチ調査</title><link>https://ledge.ai/articles/gmo-research_survey_on_the_actual_use_of_generative_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+GMOリサーチは2023年10月13日、日米のアンケートモニター2,095名を対象に「生成AIの利用実態・意識に関する調査」を実施したことを{target=“_blank”}した。この調査は、日米比較を通じて生成AIの利用に関する洞察を提供し、活用促進を目的とする。
+
+### ■AIに対する意識と生成AIの利用状況
+AIに対して肯定的な人の割合は、日本20.9％、米国24.2％と両国間で大きな差はない。一方、否定的な人は日本3.7％、米国13.4％と米国での意識がやや両極化している。また、生成AIを利用したことがある人は米国29.5％、日本18.7％と米国の方がやや進んでいる
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+### ■生成AIの業務利用経験と利用していない理由
+生成AIの業務利用経験は米国29.5％、日本10.7％と米国の方が進んでいる。業務で利用していない理由としては日米ともに「利用方法がわからない」という意見が最も多い。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+### ■生成AIが会社に与える影響をどう考えているか
+勤務する会社への生成AIの影響を「チャンス」と考える人は、米国は日本の約２倍であった。また、生成AIの影響が「チャンス」と考える回答と、勤務する会社の活用姿勢が「積極的」という回答は正の相関関係がみられる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+■調査概要
+・調査テーマ：生成 AI の利用実態・意識に関する調査
+・調査地域 ：日本・米国
+・回答者数 ：日本 1,047 名、米国 1,048 名
+・調査対象 ：生成 AI について認知している 20 歳～69 歳の正社員
+・調査期間 ：2023 年 8 月９日～8 月 18 日
+・調査方法 ：オンライン調査
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 27 Oct 2023 07:16:31 +0000</pubDate></item><item><title>Yahoo!ニュース、新機能「コメントAI要約 β版」試験提供開始</title><link>https://ledge.ai/articles/yahoonews_comment_sumarry</link><description>:::small
 画像の出典：LINEヤフー
 :::
 
@@ -392,22 +440,7 @@ TSMCが熊本県菊陽町の新工場の従業員について、約800人を地�
 :::box
 
 :::
-</description><pubDate>Mon, 23 Oct 2023 05:22:24 +0000</pubDate></item><item><title>大規模言語モデルの品質を検証、Citadel AI「LangCheck」オープンソースとして登場</title><link>https://ledge.ai/articles/citadel_ai_langcheck</link><description>:::small
-画像の出典：Citadel AI
-:::
-
-Citadel AIは2023年10月12日、大規模言語モデル（LLM）を用いた業務アプリケーションの信頼性を測定するツール{target=“_blank”}し、GitHubにソースコードを公開した。バージョンはv0.1.0、MIT Licenseで、pip(package installer for Python)を通じて、pip install langcheckでインストールできる。
-
-大規模言語モデルは社会や仕事環境の変革の可能性があるが、誤った情報を学習するリスクも存在する。企業がLLMを業務アプリケーションに取り入れる際には、出力の品質が重要だ。
-
-LangCheckは、LLMテストツールを統一的なインターフェースで提供する。機能の例として、正解テキスト一致判定、事実の一致度合いチェック、有害な出力チェック、文法・単語の誤りチェックなどがある。日本語に対応しており、{target=“_blank”}可能だ。
-
-
-:::box
-
-:::
-
-</description><pubDate>Mon, 23 Oct 2023 05:18:00 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 23 Oct 2023 05:22:24 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
