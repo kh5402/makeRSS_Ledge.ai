@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>はてなブログ、AI活用のタイトル提案機能「AIタイトルアシスト」クローズドβで開始</title><link>https://ledge.ai/articles/hatenablog_ai_title_assist</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>IBMとAWSの連携拡大「watsonx」がAWS上で利用可能に</title><link>https://ledge.ai/articles/ibm_aws_watsonx</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国IBMは現地時間の2023年10月18日、AmazonWebServices（AWS）との連携を拡大すると{target=“_blank”}した。自社のAIプラットフォーム「watsonx」の機能をAWS上で提供するという。
+
+この一環として、IBM Consultingは、2024年末までに1万人のコンサルタントを育成することで、AWSにおける生成AIの専門知識を深め、拡大することを目指すという。また、IBMとAWSは、重要なユースケース全体で企業を支援するように設計された生成AI機能でアップグレードされた共同ソリューションとサービスの提供を予定しているとのこと。
+
+:::box
+
+:::</description><pubDate>Fri, 27 Oct 2023 07:30:02 +0000</pubDate></item><item><title>はてなブログ、AI活用のタイトル提案機能「AIタイトルアシスト」クローズドβで開始</title><link>https://ledge.ai/articles/hatenablog_ai_title_assist</link><description>:::small
 画像の出典：はてな
 :::
 
@@ -425,23 +435,7 @@ GGWPはオンラインゲーム内のデータを活用し、ゲームプレイ�
 :::
 :::box
 
-:::</description><pubDate>Sat, 21 Oct 2023 11:12:56 +0000</pubDate></item><item><title>世界で6拠点目 神戸にマイクロソフトのAI共創ラボ開設、AI・IoT開発支援拠点として産業創出めざす
-</title><link>https://ledge.ai/articles/microsoft_ai-co-Innovation-labs_in_kobe_opened</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本マイクロソフトは2023年10月11日、世界6 拠点目となる「Microsoft AI Co-Innovation Lab」を、神戸市に開設し、入居する神戸商工貿易センターにて{target=“_blank”}を行った。
-
-Microsoft AI Co-Innovation Lab は、マイクロソフトおよび川崎重工業株式会社と神戸市が連携して開設。AIやIoTを活用したイノベーションの創出と、産業の振興を目的とする。AIを活用し、プロダクトやサービスの新たな可能性を探るスタートアップを含め様々な企業を支援するという。ラボには同社のエンジニアが常駐し、試作品段階までのIoT技術やAI搭載ソフトウェアの開発を支援するとのこと。
-
-このラボは2017年に米国レドモンドに開設されて以降、ミュンヘン、上海、サンフランシスコ、モンテビデオ（ウルグアイ）にて、800社を超えるエンゲージメントを行ってきたという。今回世界で第6の拠点になる神戸は、日本国内だけでなく、アジアにおけるAIとインダストリアルメタバースのイノベーション拠点になるとのことだ。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 23 Oct 2023 02:23:55 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Sat, 21 Oct 2023 11:12:56 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
