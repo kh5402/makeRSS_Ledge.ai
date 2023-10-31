@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 30 Oct 2023 08:47:30 +0000</lastBuildDate><item><title>国立情報学研究所、130億パラメータの国産大規模言語モデル「LLM-jp-13B」公開</title><link>https://ledge.ai/articles/nii_llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 30 Oct 2023 08:47:30 +0000</lastBuildDate><item><title>CohereがOracleのERP「NetSuite」導入、AI技術のイノベーション加速</title><link>https://ledge.ai/articles/oracle_cohere_netsuite</link><description>:::small
+画像の出典：Oracle
+:::
+
+米国Oracleは2023年10月17日、カナダのAIスタートアップCohereがクラウドERP「Oracle NetSuite」を採用したと{target=“_blank”}した。Cohereは「NetSuite」の利用で、生産性の向上やビジネス拡大、生成AI技術の需要に対応する。
+
+NetSuiteは、ERP/財務会計および顧客管理(CRM)、Eコマースなどを含む主要な業務アプリケーション機能を、単一のシステムで提供するビジネス管理ソフトウェアだ。
+
+Cohereのプレジデント兼最高経営責任者（CEO）Martin Kon氏はNetSuiteについて、手作業の財務報告より効率的だと述べている。AI技術の次のイノベーション分野を特定しやすくし、ソフトウェアを更に使いやすくする目的があるという。Cohereが想定する活用の効果は、業務効率の向上、情報に基づいた意思決定、財務ワークフローの統合・自動化、収益管理プロセスの自動化、決算を数日で完了するなど。
+
+
+:::box
+
+:::
+
+</description><pubDate>Mon, 30 Oct 2023 06:48:36 +0000</pubDate></item><item><title>国立情報学研究所、130億パラメータの国産大規模言語モデル「LLM-jp-13B」公開</title><link>https://ledge.ai/articles/nii_llm</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -418,32 +433,7 @@ ChatGPTは様々な場面で活用できる可能性があるものの、プロ�
 現状LLMに限定しておらず、実は画像生成の領域にも着手しています。さまざま検証中の部分もありますが、幅広く生成AIにトライしています。とはいえ弊社は研究会社ではないので、事業が成り立つかどうかを重視しています。ビジネスチャンスがあるという点でtoB向けのSaaSの事業が割合としては多いですが、toC向けでも、すぐに注力する予定はない一方で、「こういうシナリオだったら事業展開できそうだ」という構想はあります。
 足元はしっかりと事業を作りながら投資も行い、イノベーションがスケールすることにつなげられればよいと考えています。
 
-**── 大野さん、池田さん、ありがとうございました。生成AIについて、さまざまな話が伺えて非常に参考になりました。ご参加されたみなさまも、ヒントとなる部分が多かったのではないかと思います。**</description><pubDate>Wed, 25 Oct 2023 02:40:21 +0000</pubDate></item><item><title>OpenAI、ChatGPTによる最新情報の取得＆「DALL-E 3」活用の画像生成機能公開</title><link>https://ledge.ai/articles/chatgpt_new_information_dalle2</link><description>:::small
-画像の出典：OpenAI
-:::
-
-米国OpenAIが2023年10月18日までに、ChatGPTを活用して最新の情報を調べられるようにしたと{target=“_blank”}が報じた。資本・業務提携する米国Microsoftの技術を活用する。
-
-また同社は2023年10月19日に、ChatGPT上からAIとの単純な会話で画像生成が可能になったと{target=“_blank”}した。画像の生成には「DALL-E 3」を使用しており、「ChatGPT Plus」または「ChatGPT Enterprise」プランを契約中のユーザーが利用可能だ。
-
-ユーザーが指示を出すと、例えばWebサイトのUIデザインのような画像を生成する。また店舗のロゴや、レポート参考画像なども生成可能だ。
-
-!
-:::small
-画像の出典：OpenAI
-:::
-
-「DALL-E 3」には安全機構が組み込まれ、特定の種類のコンテンツ（暴力的、成人向けなど）や存命中のアーティストの画像の生成を制限する。またクリエイターが自身の画像の生成を避けるためのオプトアウトオプションも提供されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 25 Oct 2023 04:59:30 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+**── 大野さん、池田さん、ありがとうございました。生成AIについて、さまざまな話が伺えて非常に参考になりました。ご参加されたみなさまも、ヒントとなる部分が多かったのではないかと思います。**</description><pubDate>Wed, 25 Oct 2023 02:40:21 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
