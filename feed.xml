@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 27 Oct 2023 07:33:37 +0000</lastBuildDate><item><title>IBMとAWSの連携拡大「watsonx」がAWS上で利用可能に</title><link>https://ledge.ai/articles/ibm_aws_watsonx</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 30 Oct 2023 06:45:09 +0000</lastBuildDate><item><title>国立情報学研究所、130億パラメータの国産大規模言語モデル「LLM-jp-13B」公開</title><link>https://ledge.ai/articles/nii_llm</link><description>:::small
+画像の出典：写真AC
+:::
+
+国立情報学研究所（NII）は2023年10月20日、パラメータ数130億の大規模言語モデル（LLM）{target=“_blank”}を公開した。
+
+NIIはかねてよりLLM勉強会（LLM-jp）を主宰しており、大学・企業等から500名以上が参加。7月から大規模言語モデル（LLM）の構築を開始していた。まだ初期段階のモデルで評価値はこれまでに国内で公開されたものと比較して同程度だが、今後の研究開発のためにすべてをオープンにする。現在はモデル学習用コーパスの検索ツールを整備しており、近日公開予定だ。
+
+今後は産業技術総合研究所や東京工業大学と協力し、世界トップレベルのLLM構築を目指す。1750億パラメータのLLM構築開始（GPT-3級）に、すでに着手している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Mon, 30 Oct 2023 06:45:09 +0000</pubDate></item><item><title>IBMとAWSの連携拡大「watsonx」がAWS上で利用可能に</title><link>https://ledge.ai/articles/ibm_aws_watsonx</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -421,21 +443,7 @@ ChatGPTは様々な場面で活用できる可能性があるものの、プロ�
 
 :::
 
-</description><pubDate>Wed, 25 Oct 2023 04:59:30 +0000</pubDate></item><item><title>バンナム 米国GGWPに出資　良質なファンコミュニティの醸成に向けAI技術を活用したサービスを提供</title><link>https://ledge.ai/articles/bandainamco_ggwp</link><description>:::small
-画像の出典：{target=“_blank”}
-
-:::
-
-バンダイナムコエンターテインメントは2023年10月17日、スタートアップ投資ファンド「Bandai Namco Entertainment 021 Fund」 を通じ、米国に拠点を置くAI関連企業のGGWPに出資したことを{target=“_blank”}した。
-
-GGWPはオンラインゲーム内のデータを活用し、ゲームプレイヤーにとって安心でポジティブな環境の構築を目指す企業だ。オンラインゲームプレイヤーの悪質行為の検出から対処まで、AIを用いた迅速な対応を可能にする技術を有し、コミュニティの保護や育成、そしてプレイヤーにとってより良いゲーム環境・ゲーム体験を提供するための運営ツールを提供するという。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Sat, 21 Oct 2023 11:12:56 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 25 Oct 2023 04:59:30 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
