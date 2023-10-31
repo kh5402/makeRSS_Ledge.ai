@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 30 Oct 2023 06:45:09 +0000</lastBuildDate><item><title>国立情報学研究所、130億パラメータの国産大規模言語モデル「LLM-jp-13B」公開</title><link>https://ledge.ai/articles/nii_llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 30 Oct 2023 08:47:30 +0000</lastBuildDate><item><title>国立情報学研究所、130億パラメータの国産大規模言語モデル「LLM-jp-13B」公開</title><link>https://ledge.ai/articles/nii_llm</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -2153,7 +2153,21 @@ GoogleのLLM「PaLM」や、画像言語モデル「PaLI」、Google検索など
 :::
 :::box
 
-:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>警視庁、都内の渋滞緩和にAI活用の信号機制御を開始</title><link>https://ledge.ai/articles/metropolitan_police_department_traffic_light_ai</link><description>:::small
+:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>文科省「生成AIの利用に関するオンライン研修会」アーカイブ動画を公開</title><link>https://ledge.ai/articles/mext_genai_workshop_for_teachers</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+文部科学省は、2023年9月に学校教育関係者を対象とした生成AIの利用に関する{target=“_blank”}を行った。この研修は同年7月4日に発表された「初等中等教育段階における生成AIの利用に関する暫定的なガイドライン」に沿った内容となっている。生成AIの活用の方向性や活用事例等を5回にわたるオンライン講義形式で行っており、同省のYouTubeチャンネルにて（10月30日現在、第4回目の講義まで）視聴可能。
+
+第1回「生成AIの基礎と教育における活用可能性」
+@
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 30 Oct 2023 08:47:30 +0000</pubDate></item><item><title>警視庁、都内の渋滞緩和にAI活用の信号機制御を開始</title><link>https://ledge.ai/articles/metropolitan_police_department_traffic_light_ai</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -2354,15 +2368,7 @@ GoogleはAIの活用は人間に利益をもたらすとする一方、公平性
 :::
 :::box
 
-:::</description><pubDate>Thu, 14 Sep 2023 01:54:19 +0000</pubDate></item><item><title>大阪市 生成AI利用に本腰 AWSやPwCと協定締結 現場の市職員とともに検証へ</title><link>https://ledge.ai/articles/osaka_city_aws_pwc</link><description>大阪市は、生成AIの利用のため、アマゾン ウェブ サービス ジャパン（AWSジャパン）、PwCコンサルティングの2社と連携協力に関する協定を結ぶと2023年8月31日付けで{target=“_blank”}した。政令指定都市としては初の試みという。
-
-大阪市は生成AIについて期待が集まる一方、回答の正確性や情報漏洩（ろうえい）などリスクの指摘もあるとし、安全と品質を重視して利用する考えを示した。今回の協定をもとに市民サービス向上と業務効率化の可能性、課題を検証する。協定の締結日は9月1日。大阪市、AWS、PwCがそれぞれ連絡調整窓口を設置。各協定は2023年11月末まで有効で、1年単位で更新する。
-
-{target=“_blank”}によると、市民サービスに携わる市職員が現場の業務でどのように生成AIが利用できるかに取り組む。期待できる効果としては業務の効率化や品質向上だけでなく作業の負荷軽減もあるという。なお技術面については特定の手法やシステムありきではなく、利用内容に応じて市とともに検討してゆくとしている。
-
-:::box
-
-:::</description><pubDate>Sat, 09 Sep 2023 08:00:15 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+:::</description><pubDate>Thu, 14 Sep 2023 01:54:19 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
