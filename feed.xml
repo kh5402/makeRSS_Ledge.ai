@@ -2012,7 +2012,25 @@ GoogleのLLM「PaLM」や、画像言語モデル「PaLI」、Google検索など
 :::
 :::box
 
-:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>TSMC熊本事業拡大に向け　半導体向上周辺の渋滞対策にAIを活用　工業連合会提言</title><link>https://ledge.ai/articles/kumamoto_kenkoren_tsmc_policy_advocacy</link><description>:::small
+:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>国内自治体初　国産生成AI導入へ　NECと相模原市が協定締結</title><link>https://ledge.ai/articles/nec_sagamihara_ai</link><description>:::small
+画像の出典：NEC
+:::
+
+NECは2023年10月20日、自治体業務における生成AIの活用に向けて相模原市と協定を締結し、11月から相模原市役所の一部の部門での活用検証を行うと{target=“_blank”}した。
+
+汎用的な大規模言語モデル (LLM)には、正確性や信頼性の課題が存在している。自治体業務に特化した相模原市での取り組みは、NECにとって初めての事例という。
+
+検証ではNECの開発したLLMを用いて、自治体業務に特化したモデルを構築し、有用性をテストする。職員の業務プロセス改善や問題解決に焦点を当て、例規や庁内QAの探索の効率化など、具体的なユースケースの検証を行う。また今後の本格導入に向けて、自治体業務におけるセキュリティポリシーを踏まえた職員の利便性や、機密情報などの安全性の確保のための最適なアーキテクチャ検討を実施する。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 31 Oct 2023 00:41:18 +0000</pubDate></item><item><title>TSMC熊本事業拡大に向け　半導体向上周辺の渋滞対策にAIを活用　工業連合会提言</title><link>https://ledge.ai/articles/kumamoto_kenkoren_tsmc_policy_advocacy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2207,23 +2225,7 @@ AI担当官は、AI関連発明に関する審査の「ハブ」として、各�
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Sep 2023 09:25:14 +0000</pubDate></item><item><title>Google 「責任あるAI」研究に2,000万ドル基金 MITなど10団体を助成</title><link>https://ledge.ai/articles/google_digital_futures_project</link><description>:::small
-photo by {target=“_blank”}
-:::
-
-米国Googleは現地時間の2023年9月11日、AIに関する課題解決のため「Digital Futures Project」の立ち上げを{target=“_blank”}した。取り組みの一環としてGoogleの慈善部門であるGoogle.orgが2,000万ドルの基金を設立し、世界中の主要なシンクタンクや学術機関に助成金を提供することも明らかになった。
-
-GoogleはAIの活用は人間に利益をもたらすとする一方、公平性、偏見、誤情報、セキュリティ、労働の未来などの問題も提起。回答を出すには産業、学界、政府、市民社会間の深い協力が必要だと述べる。基金はAIが世界のセキュリティへに与える影響、労働と経済に与える影響、「責任あるAI」の実現方法などを研究する組織が対象。
-
-初回の助成先として挙がったのは10団体。Aspen Institute（アスペン研究所）、Brookings Institution（ブルッキングス研究所）、Carnegie Endowment for International Peace（CEIP：カーネギー国際平和財団）、the Center for a New American Security（CNAS：新アメリカ安全保障センター）、the Center for Strategic and International Studies（CSIS：戦略国際問題研究所）、the Institute for Security and Technology（IST：安全保障技術研究所）、Leadership Conference Education Fund（LCEF）、MIT Work of the Future（マサチューセッツ工科大学未来の仕事プロジェクト）、R Street Institute（Rストリート研究所）、SeedAIだ。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 15 Sep 2023 09:22:31 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+:::</description><pubDate>Fri, 15 Sep 2023 09:25:14 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
