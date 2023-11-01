@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 30 Oct 2023 08:47:30 +0000</lastBuildDate><item><title>CohereがOracleのERP「NetSuite」導入、AI技術のイノベーション加速</title><link>https://ledge.ai/articles/oracle_cohere_netsuite</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 30 Oct 2023 14:51:00 +0000</lastBuildDate><item><title>CohereがOracleのERP「NetSuite」導入、AI技術のイノベーション加速</title><link>https://ledge.ai/articles/oracle_cohere_netsuite</link><description>:::small
 画像の出典：Oracle
 :::
 
@@ -2143,7 +2143,20 @@ GoogleのLLM「PaLM」や、画像言語モデル「PaLI」、Google検索など
 :::
 :::box
 
-:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>文科省「生成AIの利用に関するオンライン研修会」アーカイブ動画を公開</title><link>https://ledge.ai/articles/mext_genai_workshop_for_teachers</link><description>:::small
+:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>TSMC熊本事業拡大に向け　半導体向上周辺の渋滞対策にAIを活用　工業連合会提言</title><link>https://ledge.ai/articles/kumamoto_kenkoren_tsmc_policy_advocacy</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+熊本県工業連合会の田中稔彦会長（金剛社長）らは2023年10月26日、行政へ対する工業会からの提言を取りまとめ、熊本県の蒲島郁夫知事、熊本市大西市長にそれぞれ地元産業の振興に向けた施策提言を行ったと{target=“_blank”}した。
+
+同提言では、台湾の半導体世界最大手TSMCの熊本進出を契機とした、大規模な先端企業の立地が、多くのものづくり企業にとって人材不足の課題が深刻化すること、また、渋滞等交通問題の悪化が懸念されるとしている。これに伴い、渋滞対策としてAIを使った予測システムの開発や、国内外からの呼び込みによる人材確保などを提案した。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 30 Oct 2023 14:51:00 +0000</pubDate></item><item><title>文科省「生成AIの利用に関するオンライン研修会」アーカイブ動画を公開</title><link>https://ledge.ai/articles/mext_genai_workshop_for_teachers</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2341,24 +2354,7 @@ GoogleはAIの活用は人間に利益をもたらすとする一方、公平性
 :::box
 
 :::
-</description><pubDate>Fri, 15 Sep 2023 09:22:31 +0000</pubDate></item><item><title>日本 高リスクAIほど強く規制「リスクベースアプローチ」 EUに続き採用へ 政府骨子案</title><link>https://ledge.ai/articles/ai_strategy_mtg_risk_based_approach</link><description>:::small
-画像出典：欧州委員会 {target=“_blank”}
-:::
-
-政府は2023年9月8日にAI戦略会議を開き、事業者向けの生成AIガイドラインの骨子案（スケルトン）を{target=“_blank”}した。欧州連合（EU）と同じく、生成AIのリスクの大きさに応じて規制を行う「リスクベースアプローチ」を明記した。
-
-また骨子案では開発者、利用者など各立場ごとに取り組むべき課題を整理した。透明性と想定されるリスクへの対応が、事業者に求められている。法の支配、人権、民主主義、多様性を尊重するようAIシステムを設計・利用する責務が明記され、「不適切な出入力」を抑制する技術の開発と導入が推奨されている。
-
-またAIの関わり方（開発者、データを使って学習させる事業者など）に応じた検討事項も整理。透明性や安全性の確保、外部監査の導入、及び「許容しない利用方法」の特定などの具体策について検討する。
-
-政府はこの骨子案を基に、有識者を交えて議論を続け、年内に正式なガイドラインをまとめる予定。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 14 Sep 2023 01:54:19 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+</description><pubDate>Fri, 15 Sep 2023 09:22:31 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
