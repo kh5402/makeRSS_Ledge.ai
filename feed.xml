@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 02:25:47 +0000</lastBuildDate><item><title>【事前登録開始】押さえておくべき2023年のAIニュースと2024年のAIトレンドとは？年末年始特集「Ledge.ai 23to24」を12月1日に公開</title><link>https://ledge.ai/articles/ledgeai23to24-teaser</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、参加費無料の年末年始特集「Ledge.ai 23to24」の公開に先立ち、事前参加登録受付を開始したことをお知らせいたします。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 03:50:03 +0000</lastBuildDate><item><title>東洋経済新報社とロゼッタ　ChatGPT活用「四季報AI」企業分析支援ツール正式リリース</title><link>https://ledge.ai/articles/shikiho_ai_toyokeizai_release</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ロゼッタは2023年10月26日、東洋経済新報社と共同で開発した「四季報AI」正式版の提供開始を{target=“_blank”}した。
+
+同サービスは、東洋経済新報社の「会社四季報オンライン」をはじめとする記事・データを出典とし、株式市場での企業分析をサポートするChatGPTを活用した対話形式のツール。7月にベータ版を公開しており、このたび正式リリースされたサービスは、AIが参照・提案する企業データがベータ版から質・量ともに改善されているという。
+
+「会社四季報オンライン」プレミアムプラン限定の機能として同サービス契約中の会員が利用できる。また「四季報AI」機能のAPI提供や組込み開発等については、ロゼッタが個別に相談を受け付けるとのことだ。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 01 Nov 2023 03:50:03 +0000</pubDate></item><item><title>【事前登録開始】押さえておくべき2023年のAIニュースと2024年のAIトレンドとは？年末年始特集「Ledge.ai 23to24」を12月1日に公開</title><link>https://ledge.ai/articles/ledgeai23to24-teaser</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、参加費無料の年末年始特集「Ledge.ai 23to24」の公開に先立ち、事前参加登録受付を開始したことをお知らせいたします。
 
 :::button
 
@@ -284,25 +299,7 @@ Giannandrea氏のチームは新しいAIシステムの技術を開発中で、S
 :::
 :::box
 
-:::</description><pubDate>Fri, 27 Oct 2023 07:33:37 +0000</pubDate></item><item><title>百度が大規模言語モデル「文心4.0」発表、GPT-4と同等性能か</title><link>https://ledge.ai/articles/baidu_ernie4</link><description>:::small
-画像の出典：百度
-:::
-
-
-中国の検索最大手、百度（バイドゥ）は2023年10月17日、生成AIの基盤である大規模言語モデル（LLM）の最新版{target=“_blank”}を発表した。また企業向けの生成AIサービスを、中国で初めて投入するという。
-
-北京で開催された「Baidu World 2023」で登壇した最高技術責任者（CTO）王海峰氏によると、文心4.0は理解、生成、論理、記憶能力が顕著に向上。9月から若干量ながら実用化され、1か月あまりで効果がおよそ30%アップしたという。{target=“_blank”}が伝えている。
-
-なお、文心4.0は米国OpenAIのGPT-4モデルと同等性能と{target=“_blank”}が報じている。
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 26 Oct 2023 00:40:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 27 Oct 2023 07:33:37 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
@@ -2030,7 +2027,7 @@ NECは2023年10月20日、自治体業務における生成AIの活用に向け�
 
 :::
 
-</description><pubDate>Tue, 31 Oct 2023 00:41:18 +0000</pubDate></item><item><title>TSMC熊本事業拡大に向け　半導体向上周辺の渋滞対策にAIを活用　工業連合会提言</title><link>https://ledge.ai/articles/kumamoto_kenkoren_tsmc_policy_advocacy</link><description>:::small
+</description><pubDate>Tue, 31 Oct 2023 00:41:18 +0000</pubDate></item><item><title>TSMC熊本事業拡大に向け　半導体工場周辺の渋滞対策にAIを活用　工業連合会提言</title><link>https://ledge.ai/articles/kumamoto_kenkoren_tsmc_policy_advocacy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
