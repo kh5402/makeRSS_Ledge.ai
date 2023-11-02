@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:01:21 +0000</lastBuildDate><item><title>オルツが環境負荷低減の軽量型LLM「LHTM-OPT」開発 日本語LLM最高性能を記録</title><link>https://ledge.ai/articles/alts_lhtm_opt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>レノボの新戦略「AI for All」 全製品へのAI搭載とハイブリッドAI導入</title><link>https://ledge.ai/articles/lenovo_ai_for_all</link><description>:::small
+画像の出典：レノボ
+:::
+
+中国レノボは2023年10月24日、AIをすべての製品やサービスに搭載する戦略を{target=“_blank”}した。
+
+@
+
+同社は米国テキサス州で年次カンファレンス「Lenovo Tech World 23」を開催し、今年のテーマ「AI for All」を発表。米国NVIDIAとのパートナーシップを拡大し、新しいハイブリッドAIソリューションとエンジニアリング協力で生成AI導入を支援すると述べた。
+
+基調講演ではリアルタイム手話通訳AIのデモを実施し、聴覚障害のある人の手話をポルトガル語に翻訳してみせた。このAI技術は、数千時間の手話データを学習し、約5年の開発期間で実現したもので、多言語の手話翻訳にも対応可能だ。同社の最高経営責任者（CEO）ヤンチン・ヤン氏は手話通訳AIを例に挙げ「誰も取り残さない」と意思表示した。
+
+今後はPCやワークステーションにAIを搭載し、ヘルスケアや教育分野にエッジAIを提供する。エンタープライズ向けには複数のAI基盤モデルを組み合わせて利用する「ハイブリッドAI」を提供し、情報のセキュリティを守りながらAIを活用するソリューションを展開する。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 01 Nov 2023 06:05:12 +0000</pubDate></item><item><title>オルツが環境負荷低減の軽量型LLM「LHTM-OPT」開発 日本語LLM最高性能を記録</title><link>https://ledge.ai/articles/alts_lhtm_opt</link><description>:::small
 画像の出典：オルツ
 :::
 
@@ -281,29 +302,7 @@ Hugging Face Hub にて Hugging Face Transformers に準拠する形式で公開
 :::
 :::box
 
-:::</description><pubDate>Fri, 27 Oct 2023 07:26:34 +0000</pubDate></item><item><title>「宇宙で半導体製造」Space Forge社が新たな実験衛星を打ち上げ予定</title><link>https://ledge.ai/articles/spaceforge_satellite_launch</link><description>:::small
-画像の出典：写真AC
-:::
-
-
-英国Space Forge社が実験衛星「ForgeStar-1」を2023年末か2024年初頭に打ち上げると、{target=“_blank”}が2023年10月3日に報じた。なお同社は前回のLauncherOneロケット打ち上げに失敗し、実験衛星を失っている。
-
-地球上の半導体製造はコストが高く、エネルギーを大量に消費する。しかし宇宙では真空と微小重力によって、より効率的な半導体材料の開発が可能になる。ForgeStar-1衛星には小型の自動化された化学実験室が搭載され、地球に帰還せず、実験結果をデジタルで送信する。
-
-同社の最高経営責任者（CEO）兼創設者Western氏は、製品を地球に持ち帰るための帰還可能な衛星の構築についても語った。衛星は半導体製造だけでなく、他の産業プロセスにも使用される計画で、2～3年以内に最初の帰還可能な衛星の打ち上げが予想されるという。
-
-世界の半導体産業の価値は現在5,000億ドル以上で、2030年までに半導体産業の規模は2倍に成長すると予測されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 27 Oct 2023 00:46:37 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 27 Oct 2023 07:26:34 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
