@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 03:50:03 +0000</lastBuildDate><item><title>東洋経済新報社とロゼッタ　ChatGPT活用「四季報AI」企業分析支援ツール正式リリース</title><link>https://ledge.ai/articles/shikiho_ai_toyokeizai_release</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:01:21 +0000</lastBuildDate><item><title>オルツが環境負荷低減の軽量型LLM「LHTM-OPT」開発 日本語LLM最高性能を記録</title><link>https://ledge.ai/articles/alts_lhtm_opt</link><description>:::small
+画像の出典：オルツ
+:::
+
+オルツは2023年10月19日、パラメータ数が最適化された軽量型大規模言語モデル（LLM）{target=“_blank”}を開発し、日本語商用プライベートLLMとして最高性能を記録したと発表した。
+
+大規模言語モデルは計算リソースとエネルギーの面で環境に負荷をかけるため、軽量で高精度な小規模パラメータモデルの研究が進行中だ。
+
+同社のLLM「LHTM-2」はパラメータ数が膨大で調整の自由度が非常に高く設定されているが、今回発表したLLMはそのパラメータを小規模GPUマシンでも実行可能で、実用に最適化された軽量型モデルだ。
+
+LHTM-OPTはRakudaベンチマークとJGLUEで高スコアを達成。自動質問応答、議事録要約、情報抽出などの高度な処理が必要な問題に対応可能なアプリケーションを実装予定だ。クライアントはLHTM-OPTを専門分野でカスタマイズ可能で、GPUコストの節約と回答精度の最適化というメリットを得られる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 01 Nov 2023 06:01:21 +0000</pubDate></item><item><title>東洋経済新報社とロゼッタ　ChatGPT活用「四季報AI」企業分析支援ツール正式リリース</title><link>https://ledge.ai/articles/shikiho_ai_toyokeizai_release</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -283,23 +303,7 @@ Hugging Face Hub にて Hugging Face Transformers に準拠する形式で公開
 :::
 
 
-</description><pubDate>Fri, 27 Oct 2023 00:46:37 +0000</pubDate></item><item><title>米Appleが 生成AIに年10億ドル投資ーーアプリやOSに導入、巻き返しを図れるか</title><link>https://ledge.ai/articles/apple_invests_1billion_in_genai</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-米国Appleが、OSやアプリへの生成AIを導入に向けて年間10億ドルを費やす計画だと2023年10月22日に{target=“_blank”}が報じた。
-
-OpenAIのChatGPTの躍進にGoogleやMicrosoftが追随し、テック大手企業が生成AI技術を展開する中で、ほとんど傍観者スタンスにみえたApple。しかし現在、同社幹部はこの分野での遅れを取り戻すべく取り組んでいるという。
-
-Appleの最高経営責任者（CEO）Tim Cook氏は8月のCNBCとのインタビューで、同社が生成AIやその他のモデルの研究を長年にわたり進めてきたことを語った。同社のAIとソフトウェアエンジニアリングを担当するJohn Giannandrea氏とCraig Federighi氏は、この取り組みを主導している。サービス責任者のEddy Cue氏が加わり、この事業に年間約10億ドルを投資する計画だという。
-
-Giannandrea氏のチームは新しいAIシステムの技術を開発中で、Siriの大幅な改良も進めている。Federigh氏iのソフトウェアエンジニアリングチームは、次期iOSにAIを導入する予定だという。Xcodeなどの開発ツールに生成AIを統合することを検討している。そしてCue氏のチームが、できるだけ多くのアプリに AIを追加することを推進しているとのことだ。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 27 Oct 2023 07:33:37 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 27 Oct 2023 00:46:37 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
