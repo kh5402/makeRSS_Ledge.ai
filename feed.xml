@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>Amazon Adsの新ツール 商品の利用イメージに合った背景をAIが生成 CTRが40%増すケースも</title><link>https://ledge.ai/articles/amazon_ads_ai_image_generator</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>入力情報が社外に漏れぬ環境で「ChatSCC」住友化学が社内向け生成AIサービスの運用を開始</title><link>https://ledge.ai/articles/sumitomo_chem_genai_chatscc</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+住友化学は2023年10月24日、ChatGPTライクな社内版の生成AI「ChatSCC」を開発し、約6,500名の全従業員を対象に運用を開始したと{target=“_blank”}した。生産性向上と独自データの有効活用による既存事業の競争力確保や新規ビジネスモデルの創出を目指すという。
+
+「ChatSCC」は、入力情報が外部に漏れないセキュアな環境を持ち、同社の独自情報を取り扱う。一般的なオフィス業務（文書作成、校正、プログラムソースコード生成など）で利用できることに加え、技術アイデアの創出や研究・製造データの分析に活用することも可能。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 01 Nov 2023 03:58:03 +0000</pubDate></item><item><title>Amazon Adsの新ツール 商品の利用イメージに合った背景をAIが生成 CTRが40%増すケースも</title><link>https://ledge.ai/articles/amazon_ads_ai_image_generator</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -270,32 +288,7 @@ AIに対して肯定的な人の割合は、日本20.9％、米国24.2％と両�
 :::box
 
 :::
-</description><pubDate>Fri, 27 Oct 2023 07:16:31 +0000</pubDate></item><item><title>Yahoo!ニュース、新機能「コメントAI要約 β版」試験提供開始</title><link>https://ledge.ai/articles/yahoonews_comment_sumarry</link><description>:::small
-画像の出典：LINEヤフー
-:::
-
-LINEヤフーは2023年10月25日、Yahoo!ニュースのコメント欄で新機能「コメントAI要約 β版」の試験提供を開始したと{target=“_blank”}した。ユーザーはコメント欄にある「コメントをAIで要約する」ボタンを押下すると、記事に投稿されたコメントの要約を読むことができる。
-
-同社は生成AIを活用して多くのコメントを要約し、ユーザーの新たな気づきや理解を助けることを目的として試験提供を開始した。
-!
-:::small
-画像の出典：LINEヤフー
-:::
-
-「コメントAI要約 β版」は、一定数以上のコメントが投稿された記事のコメント欄で提供する。配信から24時間以内の記事が対象で、要約対象コメントは 「おすすめ順」の上位コメント。要約結果の表示は3つ、注目ポイントの表現、主なコメントの要約、関連ワードの表示だ。
-
-今回の新機能導入は試験的であり、正確性や品質は保証されない。予告なく利用できなくなる可能性や、一部のブラウザでは表示されない場合がある。Yahoo!ニュースアプリでは提供せず、一部の記事は要約対象外。LINEヤフーおよびOpenAIの利用規約が適用される。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 27 Oct 2023 05:40:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 27 Oct 2023 07:16:31 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
