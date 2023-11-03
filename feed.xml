@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>レノボの新戦略「AI for All」 全製品へのAI搭載とハイブリッドAI導入</title><link>https://ledge.ai/articles/lenovo_ai_for_all</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>Amazon Adsの新ツール 商品の利用イメージに合った背景をAIが生成 CTRが40%増すケースも</title><link>https://ledge.ai/articles/amazon_ads_ai_image_generator</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Amazon.comは2023年10月25日、Amazon Adsの画像生成ツールのベータ版を{target=“_blank”}した。商品に合った背景をAIが商品詳細情報などをもとに生成する。
+
+Amazon Ad Console で、広告主が販売する商品を選択し「生成」ボタンをクリックすると、詳細情報に基づきその商品を用いたライフスタイルやブランドをテーマにした一連の画像を数秒で生成する。短いプロンプト（文章による指示）を入力し、画像を調整できるほか、複数のバージョンを迅速に作成し最適化できる。
+
+例えば、トースターなどの商品をただの白い背景で掲載する場合と比べ、同じトースターを設定されたライフスタイルの元でキッチンカウンターの上やクロワッサンの隣に配置した画像は、クリックスルー率（CTR＝クリック数÷広告表示回数）に40%の差が出るケースがあるという。
+
+@
+
+Amazon.comは9月に、商品説明をAIで生成可能にする「Amazon Seller Central」の新機能を発表している。Googleでは5月に同様の機能「Product Studio」を発表した。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 01 Nov 2023 03:53:18 +0000</pubDate></item><item><title>レノボの新戦略「AI for All」 全製品へのAI搭載とハイブリッドAI導入</title><link>https://ledge.ai/articles/lenovo_ai_for_all</link><description>:::small
 画像の出典：レノボ
 :::
 
@@ -276,33 +295,7 @@ LINEヤフーは2023年10月25日、Yahoo!ニュースのコメント欄で新�
 
 :::
 
-</description><pubDate>Fri, 27 Oct 2023 05:40:12 +0000</pubDate></item><item><title>Stability AI　新たに日本語大規模言語モデルを公開　日本語性能評価で最高水準・ 商用利用可</title><link>https://ledge.ai/articles/japanese_stable_lm_3b4e1_gamma7b</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stability AI Japan は2023年10月25日、日本語向け大規模言語モデル（LLM）「Japanese Stable LM 3B-4E1T」及び「Japanese Stable LM Gamma 7B」を{target=“_blank”}した。
-
-前者は約30億パラメータ、後者は約70億パラメータのモデルで、日本語タスクを用いた性能評価において、同等サイズのモデルで最高水準の性能を発揮しているという。モデルはすべて商用利用可能な Apache 2.0 ライセンスにて公開中。
-
-同年8月に公開した「Japanese Stable LM Alpha」シリーズと違い、今回のモデルは英語モデルとして制作・公開されたLLM「Stable LM 3B-4E1T」「Mistral-7B-v0.1」が元になっている。これらは事前学習において英語のデータが主に用いられているため、英語の能力が非常に高く、すでに様々な知識を獲得していた。しかし、学習データに日本語のデータがほとんど含まれていないため、日本語の能力は低い状態であった。
-
-そこで、継続事前学習 (Continued Pretraining) と呼ばれるアプローチを用い、これらのモデルに対し、日本語を主としたデータを用いて更に事前学習を行い、日本語の能力を追加した。継続事前学習には Wikipedia, mC4, CC-100, OSCAR, SlimPajama（Books3を除く）等の日本語と英語データを利用し、のべ約1000億トークンで行われたという。
-
-Hugging Face Hub にて Hugging Face Transformers に準拠する形式で公開している。Hugging Face Transformers の他のモデルと同様、推論や追加学習を試すことができる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 27 Oct 2023 07:26:34 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 27 Oct 2023 05:40:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
