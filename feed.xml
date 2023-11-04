@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>入力情報が社外に漏れぬ環境で「ChatSCC」住友化学が社内向け生成AIサービスの運用を開始</title><link>https://ledge.ai/articles/sumitomo_chem_genai_chatscc</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>複数の国で訴訟合戦中の顔認証「Clearview AI」イギリス情報委員会による罰金処分を控訴し撤回させる</title><link>https://ledge.ai/articles/clearviewai_wins_ico</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+米国ClearviewAIは2023年10月19日、イギリスの情報委員会（ICO）に対する控訴に勝訴したことを{target=“_blank”}した。
+
+顔認識検索エンジン技術を政府機関に提供するClearviewAIは昨年、英国民に通知をせず、また同意を得ることなく顔画像を収集したのは一般データ保護規則（GDPR）に違反するとして、ICOより750万ポンドの罰金とデータ削除を命じられていた。しかし2023年10月17日、イギリスの控訴裁判所は、同社がICOの管轄下にないとの{target=“_blank”}、この命令が撤回されたという。
+
+ClearviewAIの顔認識技術は、容疑者や特定の関心を持つ人物の写真を300億以上の公開されている顔の画像データベースと迅速・正確に照合する。同社の技術が犯罪捜査などの分野での高度な顔認識を可能にする一方で、プライバシー侵害、GDPR違反、ユーザーデータの不適切な収集といった問題で欧州や米国のデータ保護機関から指摘や法的な訴えを受けている。特に、インターネットからの大量の顔写真のスクレイピングによる世界最大規模の顔データセットの構築が、複数の国で違法と判断されている。
+
+このたびの控訴は、同社がICOの管轄下にないという論拠で勝訴した。同社の法務責任者、ジャック・マルケア氏は「ClearviewAIに対するICOの違法な命令を撤回する審議会の決定に満足している」と述べた。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 01 Nov 2023 04:03:50 +0000</pubDate></item><item><title>入力情報が社外に漏れぬ環境で「ChatSCC」住友化学が社内向け生成AIサービスの運用を開始</title><link>https://ledge.ai/articles/sumitomo_chem_genai_chatscc</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -240,55 +257,7 @@ NIIはかねてよりLLM勉強会（LLM-jp）を主宰しており、大学・�
 
 :::
 
-</description><pubDate>Fri, 27 Oct 2023 05:43:08 +0000</pubDate></item><item><title>米国は日本の約3倍「仕事にAI利用している」AIビジネス活用を日米比較ーーGMOリサーチ調査</title><link>https://ledge.ai/articles/gmo-research_survey_on_the_actual_use_of_generative_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-GMOリサーチは2023年10月13日、日米のアンケートモニター2,095名を対象に「生成AIの利用実態・意識に関する調査」を実施したことを{target=“_blank”}した。この調査は、日米比較を通じて生成AIの利用に関する洞察を提供し、活用促進を目的とする。
-
-### ■AIに対する意識と生成AIの利用状況
-AIに対して肯定的な人の割合は、日本20.9％、米国24.2％と両国間で大きな差はない。一方、否定的な人は日本3.7％、米国13.4％と米国での意識がやや両極化している。また、生成AIを利用したことがある人は米国29.5％、日本18.7％と米国の方がやや進んでいる
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### ■生成AIの業務利用経験と利用していない理由
-生成AIの業務利用経験は米国29.5％、日本10.7％と米国の方が進んでいる。業務で利用していない理由としては日米ともに「利用方法がわからない」という意見が最も多い。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### ■生成AIが会社に与える影響をどう考えているか
-勤務する会社への生成AIの影響を「チャンス」と考える人は、米国は日本の約２倍であった。また、生成AIの影響が「チャンス」と考える回答と、勤務する会社の活用姿勢が「積極的」という回答は正の相関関係がみられる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-■調査概要
-・調査テーマ：生成 AI の利用実態・意識に関する調査
-・調査地域 ：日本・米国
-・回答者数 ：日本 1,047 名、米国 1,048 名
-・調査対象 ：生成 AI について認知している 20 歳～69 歳の正社員
-・調査期間 ：2023 年 8 月９日～8 月 18 日
-・調査方法 ：オンライン調査
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 27 Oct 2023 07:16:31 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 27 Oct 2023 05:43:08 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
