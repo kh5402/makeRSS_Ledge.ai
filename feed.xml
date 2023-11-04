@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>複数の国で訴訟合戦中の顔認証「Clearview AI」イギリス情報委員会による罰金処分を控訴し撤回させる</title><link>https://ledge.ai/articles/clearviewai_wins_ico</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>AI・デジタルツインを活用した鉄道輸送計画業務の自動化・最適化　グリッド社が「ReNom Railway」の開発を開始</title><link>https://ledge.ai/articles/grid_renom_railway</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社グリッドは2023年10月23日、社会インフラ特化型 SaaS「ReNom Apps for Industry SaaS」に、新たに追加する「ReNom Railway」を開発開始したと{target=“_blank”}した。
+
+鉄道業界では、鉄道輸送に関する多様な計画を、熟練技術者が、無数の組合せの中から膨大な時間と労力をかけて最良と思われる計画を立案している。業務の属人化解消や効率化といった課題解決に、同社はAI・デジタルツインを活用した社会インフラ特化型の計画業務の自動化・最適化システムを用いて取り組む。
+
+「ReNom APPS for Industry SaaS」は電力・海運・サプライチェーン3分野のオペレーション最適化を実現する社会インフラ特化型 SaaSで、今回新たに追加される「ReNom Railway」のドメイン分野は鉄道分野向けのソリューションとなるという。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 01 Nov 2023 03:46:36 +0000</pubDate></item><item><title>複数の国で訴訟合戦中の顔認証「Clearview AI」イギリス情報委員会による罰金処分を控訴し撤回させる</title><link>https://ledge.ai/articles/clearviewai_wins_ico</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -240,24 +255,7 @@ NIIはかねてよりLLM勉強会（LLM-jp）を主宰しており、大学・�
 
 :::box
 
-:::</description><pubDate>Fri, 27 Oct 2023 07:30:02 +0000</pubDate></item><item><title>はてなブログ、AI活用のタイトル提案機能「AIタイトルアシスト」クローズドβで開始</title><link>https://ledge.ai/articles/hatenablog_ai_title_assist</link><description>:::small
-画像の出典：はてな
-:::
-
-はてなは2023年10月25日、ブログサービス「はてなブログ」の新機能「AIタイトルアシスト」を、クローズドβで提供開始したと{target=“_blank”}した。はてなブログの一部ユーザーが順次利用可能になる。
-
-この機能は、AIを使ってはてなブログで3種類のタイトル（見出し・タイトル要素・SNS向けタイトル）を提案するものだ。はてなブログでは、3種類の異なるタイトルを設定可能。
-
-クローズドβの対象は、9月に記事を投稿したユーザーの一部と、はてなブログMediaのメンバー。非対象ユーザーも、{target=“_blank”}からクローズドβへの参加を申し込むことができる。
-
-この機能を利用するには「AI」ボタンをクリックして、モーダルウィンドウを開く。本文には300文字以上必要だ。3種類のタイトルそれぞれに、最大3つの提案がある。提案されたタイトルは修正可能で、選択、適用できる。操作は初めは保存されず、公開や保存でデータ送信が行われる。なお利用回数は、無料ユーザー5回/日、有料ユーザー30回/日の制限がある。
-
-
-:::box
-
-:::
-
-</description><pubDate>Fri, 27 Oct 2023 05:43:08 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 27 Oct 2023 07:30:02 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
