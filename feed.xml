@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 02 Nov 2023 07:41:22 +0000</lastBuildDate><item><title>AI・デジタルツインを活用した鉄道輸送計画業務の自動化・最適化　グリッド社が「ReNom Railway」の開発を開始</title><link>https://ledge.ai/articles/grid_renom_railway</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 Nov 2023 00:46:57 +0000</lastBuildDate><item><title>OpenAIが「Preparedness」チーム結成、 未来の”フロンティアAIモデル”の壊滅的リスクを管理</title><link>https://ledge.ai/articles/openai_preparedness</link><description>:::small
+画像の出典：OpenAI
+:::
+
+米国OpenAIは2023年10月26日、将来の「フロンティアAIモデル」がもたらす壊滅的なリスクを管理するため、新たな専門チーム{target=“_blank”}を結成したと発表した。
+
+同チームは、安全なAGI（汎用人工知能）の構築を主要な目的の一つとし、
+「フロンティアAIモデル」については、「最先端の既存モデルの機能を超え、さまざまなタスクを実行できる大規模な機械学習モデル」と定義している。
+
+フロンティアAIモデルは人類に利益をもたらす可能性があるが、深刻なリスクも伴う。OpenAIは、フロンティアAIモデルのリスクを管理するための要件を質問として挙げた。
+
+・モデルの悪用による現在・未来の危険性は？
+・危険な機能への対策のフレームワークは？
+・モデルの「重み付け」が盗まれた際のリスクは？
+
+「Preparedness」チームのリーダーは、アレクサンダー・マドリー氏だ。チームは「人間をだまして説得する能力」「サイバーセキュリティ」「化学的・生物学的・放射線学的・核の脅威」「自律的な複製および適応」などのカテゴリーにおけるリスクの追跡、評価、予測、保護をおこなう。またリスク情報に基づいた開発ポリシー(RDP)の確立と維持、ガバナンス構造の確立にも取り組む。
+
+さらに、新たなAIリスクの特定を目的としたコンテストも実施する。最大10件の優秀な提案に対し、2万5000ドル(約376万円)分のAPIクレジットを贈呈する。
+
+また7月設立の「Frontier Model Forum」の初代事務局長がクリス・メセロール氏であること、「AI Safety Fund」を設立したことも発表した。これはフロンティアAIモデルのリスク評価・テスト技術開発を支援するものだ。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Fri, 03 Nov 2023 00:46:57 +0000</pubDate></item><item><title>AI・デジタルツインを活用した鉄道輸送計画業務の自動化・最適化　グリッド社が「ReNom Railway」の開発を開始</title><link>https://ledge.ai/articles/grid_renom_railway</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -245,17 +275,7 @@ NIIはかねてよりLLM勉強会（LLM-jp）を主宰しており、大学・�
 :::
 
 
-</description><pubDate>Mon, 30 Oct 2023 06:45:09 +0000</pubDate></item><item><title>IBMとAWSの連携拡大「watsonx」がAWS上で利用可能に</title><link>https://ledge.ai/articles/ibm_aws_watsonx</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国IBMは現地時間の2023年10月18日、AmazonWebServices（AWS）との連携を拡大すると{target=“_blank”}した。自社のAIプラットフォーム「watsonx」の機能をAWS上で提供するという。
-
-この一環として、IBM Consultingは、2024年末までに1万人のコンサルタントを育成することで、AWSにおける生成AIの専門知識を深め、拡大することを目指すという。また、IBMとAWSは、重要なユースケース全体で企業を支援するように設計された生成AI機能でアップグレードされた共同ソリューションとサービスの提供を予定しているとのこと。
-
-:::box
-
-:::</description><pubDate>Fri, 27 Oct 2023 07:30:02 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 30 Oct 2023 06:45:09 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
