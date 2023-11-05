@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 Nov 2023 06:05:12 +0000</lastBuildDate><item><title>AI・デジタルツインを活用した鉄道輸送計画業務の自動化・最適化　グリッド社が「ReNom Railway」の開発を開始</title><link>https://ledge.ai/articles/grid_renom_railway</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 02 Nov 2023 07:41:22 +0000</lastBuildDate><item><title>AI・デジタルツインを活用した鉄道輸送計画業務の自動化・最適化　グリッド社が「ReNom Railway」の開発を開始</title><link>https://ledge.ai/articles/grid_renom_railway</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1716,7 +1716,27 @@ StableLM は、The Pileベースのデータセットで学習しており、規
 
 :::box
 
-:::</description><pubDate>Mon, 29 May 2023 16:46:20 +0000</pubDate></item><item><title>AIがロボットを訓練「高速ペン回し」も教えるーーNVIDIA「Eureka」GPT-4搭載AIエージェント発表</title><link>https://ledge.ai/articles/nvidia_eureka</link><description>:::small
+:::</description><pubDate>Mon, 29 May 2023 16:46:20 +0000</pubDate></item><item><title>GPT-4は研究論文を査読できるか？スタンフォード大らNature等論文約4,800本で検証「LLMは査読にも有用」</title><link>https://ledge.ai/articles/llm_can_provide_useful_feedback</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2023年10月3日、大規模言語モデル（LLM）が研究論文の査読プロセスにどの程度有用であるかを示す研究結果が{target=“_blank”}された。この研究は、スタンフォード大学を始めとする研究チームによって行われた。Nature系列の論文3,096本とICLRの論文1,709本、合計4,805本の論文を対象に、GPT-4を使用して生成されたフィードバックと人間による査読フィードバックの有用性を比較した。その結果、LLMが科学的フィードバックの生成に有用であり、人間の査読プロセスに役立つことが示された。
+
+この研究の背景には、科学的フィードバックの提供プロセスが、従来の査読や会議ディスカッションなどの手段によって提供される場合に、時間などのリソースや専門知識の制約に直面しているという課題がある。特に、学術論文の急速な増加と科学知識の専門化が進む中、高品質なフィードバックを提供できる査読者の確保が困難になっている。この課題に対応するため、LLMのような技術を活用して科学的フィードバックを効率的に提供する方法が求められている。
+
+研究結果によれば、GPT-4によるフィードバックの品質は、Nature系列の論文で平均30.85%、ICLRで39.23%の一致率を示し、これは2人の人間による査読者間の一致率（Nature系列で28.58%、ICLRで35.25%）と比較しても高いことが判明した。また、研究者308名からのフィードバックによれば、57.4%の研究者がGPT-4によるフィードバックを有用と感じ、82.4%が一部の人間の査読者よりもGPT-4のフィードバックの方が有益だと感じたとのこと。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 02 Nov 2023 07:41:22 +0000</pubDate></item><item><title>AIがロボットを訓練「高速ペン回し」も教えるーーNVIDIA「Eureka」GPT-4搭載AIエージェント発表</title><link>https://ledge.ai/articles/nvidia_eureka</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1940,32 +1960,7 @@ Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは
 :::box
 
 :::
-</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>AIをより人間に近づける「AVIS」自分で計画し複数アプリを使いこなす</title><link>https://ledge.ai/articles/avis_llm</link><description>:::small
-画像出典：AVIS: Autonomous Visual Information Seeking with Large Language Models
-:::
-
-米国カリフォルニア大学ロサンゼルス校（UCLA）やGoogle Reserchの研究者は、自律的視覚情報検索システム「Autonomous Visual Information Seeking with Large Language Models（AVIS）」についての論文を2023年6月13日に{target=“_blank”}した。人間のような自然な文章を作成できる大規模言語モデル（LLM）をもとに、人間のように目標を達成するために計画を立て、段階を踏んで作業を行えるようにした。
-
-AIは単に人間の指示に従って一部の作業をこなすものから、自分で判断しながらさまざまな作業をこなせるより人間に近いものへと進歩してゆくという考え方があり、最終段階を汎用人工知能（AGI）と呼ぶ場合がある。
-
-AVISは人間の指示を受けて画像を検索するが、途中の工程では自分で判断をしながら計画を立て外部のアプリケーションを選んで操作する。この仕組みによって、米国OpenAIの最新LLM「GPT-4」のような画像と文章の両方を処理できるAIでもてこずる画像検索の作業をこなせるようにしようという試みだ。
-
-GoogleのLLM「PaLM」や、画像言語モデル「PaLI」、Google検索などの機能を組み合わせて構築した。さらに人間が例えば「この画像に描かれた建物はどのような出来事を記念しているのか？」といった調べものを必要とする問題を解く際の行動を収集し、意思決定の参考としている。
-
-実験ではAVISに（1）「（ビルの画像を示して）この建物にはいくつの階があるか」、（2）「（きのこの画像を示して）この菌類の分類は何か」、（3）「（おもちゃの画像を示して）これを使うと赤ん坊は体のどの部分で運動できるか」といったひねった問題を与える。
-
-するとAVISは、過去に別の問題を解いた人間の行動を参考に、どのような外部アプリを利用するかについて計画を立て、それらを順番に利用し、結果を分析して試行錯誤しながら回答を生成する。
-
-（1）についてはまず画像検索して同じ建物を見つけ、その説明が英国の高層ビル「Bridgewater Place」だと把握し、次に建物の名前でWebサイトを検索し、32階建てであることを突き止めた。（2）は初めうっかり画像の中の菌類ではなく緑の葉に注目したが、分析段階で過ちに気づき、やり直して菌類に注目、「キウロコタケ属」の一種だと当てた。（3）はまず画像検索して「噛むおもちゃ」という説明を取得し、次にLLMに「噛むおもちゃを使うと赤ん坊は身体のどの部分で運動できるか？」と質問して回答にたどりついた。
-
-質問ごとに違ったアプリを違った順序で利用していることに注目だ。AVISは画像に関する問題を解くベンチマーク「OK-VQA」で60.2の精度を達成した。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 12 Sep 2023 06:36:27 +0000</pubDate></item><item><title>国内自治体初　国産生成AI導入へ　NECと相模原市が協定締結</title><link>https://ledge.ai/articles/nec_sagamihara_ai</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>国内自治体初　国産生成AI導入へ　NECと相模原市が協定締結</title><link>https://ledge.ai/articles/nec_sagamihara_ai</link><description>:::small
 画像の出典：NEC
 :::
 
