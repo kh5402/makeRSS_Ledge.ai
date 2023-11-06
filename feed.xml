@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 Nov 2023 00:53:11 +0000</lastBuildDate><item><title>UberとAlphabet傘下のWaymo、米国フェニックスエリアで自動運転タクシー配車サービス開始</title><link>https://ledge.ai/articles/uber_waymo_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 Nov 2023 00:57:20 +0000</lastBuildDate><item><title>ソフトバンク傘下BOLDLYとエストニア企業Auve Techが開発の「MiCa」、自動運転レベル4対応で日本の公道走行可能に</title><link>https://ledge.ai/articles/boldly_auvetech_mica</link><description>:::small
+画像の出典：BOLDLY
+:::
+
+
+ソフトバンクの子会社BOLDLYは、Auve Tech（エストニア共和国）と連携し、同社が設計・製造する自動運転レベル4対応のEV「MiCa」の日本仕様モデルを開発した。また、10月4日に国土交通省関東運輸局長から基準緩和認定を受けて車両登録を行ない、自動車登録番号標(ナンバープレート)を取得した。この２つを2023年10月23日に{target=“_blank”}した。これにより、「MiCa」の公道走行が可能になる。
+
+同社は2023年度中に、全国6カ所で「MiCa」の実証走行を行う予定。BOLDLYが提供する運行管理システム「Dispatcher」を用いて、公道実証走行を重ねるという。
+
+2021年11月より、BOLDLYとAuve Techは日本市場展開を目指し連携開始。2022年10月にAuve Techと戦略的協業を合意し、日本での車両のナンバープレート取得に取り組んでい
+た。同社が取得した自動運転車両のナンバープレートは、「ARMA」に続いて2車種目となる。「MiCa」のナンバープレート取得は、輸入から約6カ月間で実現した。
+
+ハンドルがない自動運転車両の日本市場向け開発およびナンバープレート取得の海外メーカーは、同社によると世界で初めてだ。自動運転バスの実用化における経験を活かし、国内外の自動運転車両の調査・メーカーとの連携強化を進める。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 03 Nov 2023 00:57:20 +0000</pubDate></item><item><title>UberとAlphabet傘下のWaymo、米国フェニックスエリアで自動運転タクシー配車サービス開始</title><link>https://ledge.ai/articles/uber_waymo_partnership</link><description>:::small
 画像の出典：Waymo
 :::
 
@@ -255,22 +277,7 @@ Immersive View（イマーシブビュー）はAIと高解像度ストリート�
 :::
 
 
-</description><pubDate>Tue, 31 Oct 2023 00:38:50 +0000</pubDate></item><item><title>CohereがOracleのERP「NetSuite」導入、AI技術のイノベーション加速</title><link>https://ledge.ai/articles/oracle_cohere_netsuite</link><description>:::small
-画像の出典：Oracle
-:::
-
-米国Oracleは2023年10月17日、カナダのAIスタートアップCohereがクラウドERP「Oracle NetSuite」を採用したと{target=“_blank”}した。Cohereは「NetSuite」の利用で、生産性の向上やビジネス拡大、生成AI技術の需要に対応する。
-
-NetSuiteは、ERP/財務会計および顧客管理(CRM)、Eコマースなどを含む主要な業務アプリケーション機能を、単一のシステムで提供するビジネス管理ソフトウェアだ。
-
-Cohereのプレジデント兼最高経営責任者（CEO）Martin Kon氏はNetSuiteについて、手作業の財務報告より効率的だと述べている。AI技術の次のイノベーション分野を特定しやすくし、ソフトウェアを更に使いやすくする目的があるという。Cohereが想定する活用の効果は、業務効率の向上、情報に基づいた意思決定、財務ワークフローの統合・自動化、収益管理プロセスの自動化、決算を数日で完了するなど。
-
-
-:::box
-
-:::
-
-</description><pubDate>Mon, 30 Oct 2023 06:48:36 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 31 Oct 2023 00:38:50 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
