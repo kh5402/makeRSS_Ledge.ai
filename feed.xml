@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 Nov 2023 00:50:01 +0000</lastBuildDate><item><title>UberとAlphabet傘下のWaymo、米国フェニックスエリアで自動運転タクシー配車サービス開始</title><link>https://ledge.ai/articles/uber_waymo_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 Nov 2023 00:53:11 +0000</lastBuildDate><item><title>UberとAlphabet傘下のWaymo、米国フェニックスエリアで自動運転タクシー配車サービス開始</title><link>https://ledge.ai/articles/uber_waymo_partnership</link><description>:::small
 画像の出典：Waymo
 :::
 
@@ -1975,7 +1975,29 @@ Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは
 :::box
 
 :::
-</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>国内自治体初　国産生成AI導入へ　NECと相模原市が協定締結</title><link>https://ledge.ai/articles/nec_sagamihara_ai</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>広島AIプロセス、G7がAIの開発者向け国際指針と行動規範に合意</title><link>https://ledge.ai/articles/hiroshima_ai_process_statement</link><description>:::small
+画像の出典：写真AC
+:::
+
+日本政府は2023年10月30日、AIのルール作りの枠組み「広島AIプロセス」に関する、先進7カ国（G7）首脳声明を{target=“_blank”}した。先進的なAIの開発者向けルール{target=“_blank”}について合意し、{target=“_blank”}も公表した。
+
+指針として、以下のような項目が盛り込まれた。
+・AIの能力の限界や適切・不適切な利用領域を公表すること
+・サイバーセキュリティーなどの安全対策に投資すること
+・AIが生成した文章や画像を識別できる技術（例：電子透かし）を開発・導入すること
+・個人情報や知的財産を保護すること
+
+年末までに、AIの利用者向け指針も含めた包括的な政策枠組みを策定し公表する予定だ。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 03 Nov 2023 00:53:11 +0000</pubDate></item><item><title>国内自治体初　国産生成AI導入へ　NECと相模原市が協定締結</title><link>https://ledge.ai/articles/nec_sagamihara_ai</link><description>:::small
 画像の出典：NEC
 :::
 
@@ -2169,26 +2191,7 @@ AI担当官は、AI関連発明に関する審査の「ハブ」として、各�
 :::box
 
 :::
-</description><pubDate>Thu, 21 Sep 2023 02:33:28 +0000</pubDate></item><item><title>高性能AIの暴走防ぐ「ガードレール」国際ルール作り急ぐ G7デジタル・技術閣僚声明</title><link>https://ledge.ai/articles/g7hiroshima_ai_process_digital-tech_ministers_statement</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-高度なAIの暴走を防ぐ「ガードレール」作りが主要国に共通する課題となってきた。総務省は2023年9月7日、「広島AIプロセス閣僚級会合」をテレビ会議形式で開催したと{target=“_blank”}した。会合にはG7構成国・地域のほか関係国際機関が参加し、生成AIを巡る国際的なルール形成に向け議論。成果物として「{target=“_blank”}」を採択した。
-
-声明の要点はG7広島AIプロセスにおいて、生成AIの優先的なリスク、課題、機会をまとめた経済協力開発機構（OECD）による報告書を歓迎すること。すべてのAI関係者に適用可能な国際的な指針の策定、高度なAIシステムを開発する組織向けの行動規範の策定が急務であること。責任あるAIツールとベストプラクティスの開発を支援するプロジェクトベースの協力推進の計画など。
-
-また高度なAIの設計から開発、導入、利用の各段階で「appropriate guardrails, based on risks（リスクに基づいた適切なガードレール）」が必要との文言をあらためて盛り込んだ。ガードレールという言葉は、AIを禁止するのではなく規制しつつも活かす機能、制度などを意味する。規制を重視する欧州の要人などが頻繁に発信しつつ、活用を重視する日本などと合意を図ってきた。
-
-出席者
-【G7構成国・地域】カナダ、フランス、ドイツ、イタリア、日本（議長国）、英国、米国、欧州連合（EU）
-【招待国際機関】OECD、AIに関するグローバルパートナーシップ（GPAI）
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 15 Sep 2023 09:25:14 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+</description><pubDate>Thu, 21 Sep 2023 02:33:28 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
