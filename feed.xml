@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 Nov 2023 00:46:57 +0000</lastBuildDate><item><title>OpenAIが「Preparedness」チーム結成、 未来の”フロンティアAIモデル”の壊滅的リスクを管理</title><link>https://ledge.ai/articles/openai_preparedness</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 Nov 2023 00:50:01 +0000</lastBuildDate><item><title>UberとAlphabet傘下のWaymo、米国フェニックスエリアで自動運転タクシー配車サービス開始</title><link>https://ledge.ai/articles/uber_waymo_partnership</link><description>:::small
+画像の出典：Waymo
+:::
+
+自動運転技術を手がける米国Waymoは2023年10月26日、配車アプリ「Uber」からWaymoの完全自動運転タクシーを呼び出せるようになったことを{target=“_blank”}した。WaymoはIT大手Googleの親会社Alphabet傘下の企業。
+
+Uberアプリからの配車リクエスト時、条件に合うWaymoの車両が近くにいれば、その車両での乗車オプションが表示される。対象地域は、アリゾナ州フェニックスメトロポリタンエリアの225平方マイル（約582平方km）。
+
+この取り組みは、WaymoとUberが5月に発表した複数年契約の戦略的提携に基づくものだ。フェニックスメトロポリタンエリアでは、毎月数万人がWaymoの自動運転タクシーを利用している。毎週の配車は1万件を超え、そのうち1000件以上がフェニックス・スカイ・ハーバー国際空港の往復に関連しているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 03 Nov 2023 00:50:01 +0000</pubDate></item><item><title>OpenAIが「Preparedness」チーム結成、 未来の”フロンティアAIモデル”の壊滅的リスクを管理</title><link>https://ledge.ai/articles/openai_preparedness</link><description>:::small
 画像の出典：OpenAI
 :::
 
@@ -253,29 +270,7 @@ Cohereのプレジデント兼最高経営責任者（CEO）Martin Kon氏はNetS
 
 :::
 
-</description><pubDate>Mon, 30 Oct 2023 06:48:36 +0000</pubDate></item><item><title>国立情報学研究所、130億パラメータの国産大規模言語モデル「LLM-jp-13B」公開</title><link>https://ledge.ai/articles/nii_llm</link><description>:::small
-画像の出典：写真AC
-:::
-
-国立情報学研究所（NII）は2023年10月20日、パラメータ数130億の大規模言語モデル（LLM）{target=“_blank”}を公開した。
-
-NIIはかねてよりLLM勉強会（LLM-jp）を主宰しており、大学・企業等から500名以上が参加。7月から大規模言語モデル（LLM）の構築を開始していた。まだ初期段階のモデルで評価値はこれまでに国内で公開されたものと比較して同程度だが、今後の研究開発のためにすべてをオープンにする。現在はモデル学習用コーパスの検索ツールを整備しており、近日公開予定だ。
-
-今後は産業技術総合研究所や東京工業大学と協力し、世界トップレベルのLLM構築を目指す。1750億パラメータのLLM構築開始（GPT-3級）に、すでに着手している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Mon, 30 Oct 2023 06:45:09 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 30 Oct 2023 06:48:36 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
