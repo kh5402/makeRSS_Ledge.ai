@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 06 Nov 2023 06:25:03 +0000</lastBuildDate><item><title>生成AIのイメージ　Z世代「おもしろいコンテンツを生み出す」、中高年「仕事を手伝ってくれる」Adobe意識調査</title><link>https://ledge.ai/articles/adobe_reserch_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 06 Nov 2023 08:43:20 +0000</lastBuildDate><item><title>NTT独自のLLM「tsuzumi」　2024年3月に商用サービス提供予定　軽量化でコスト低減しつつGPT-3.5上回る日本語処理能力</title><link>https://ledge.ai/articles/ntt_llm_tsuzumi</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NTTは2023年11月1日、軽量で世界トップレベルの日本語処理能力を有する新しい大規模言語モデル（LLM）「tsuzumi」を{target=“_blank”}した。2024年3月からの商用サービス提供を予定している。tsuzumiは、パラメータ数6億の超軽量版と70億の軽量版の2種類を提供し、それぞれCPUおよび1GPUで高速に推論動作が可能であるため、チューニングや推論にかかるコストを大幅に削減できる。この取り組みにより、同社は持続可能性と経済的負担の軽減を図るという。
+
+
+同社は、GPT-3と比較した学習コストと推論コストを挙げ、tsuzumiが大幅なコスト低減に成功していることを示した。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+また、生成AI向けのベンチマークであるRakudaではGPT-3.5をはじめ、他の大規模言語モデルと比較しても高い勝率を示す性能評価を得たとしている。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 06 Nov 2023 08:43:20 +0000</pubDate></item><item><title>生成AIのイメージ　Z世代「おもしろいコンテンツを生み出す」、中高年「仕事を手伝ってくれる」Adobe意識調査</title><link>https://ledge.ai/articles/adobe_reserch_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -226,22 +256,7 @@ LHTM-OPTはRakudaベンチマークとJGLUEで高スコアを達成。自動質�
 
 :::
 
-</description><pubDate>Wed, 01 Nov 2023 06:01:21 +0000</pubDate></item><item><title>東洋経済新報社とロゼッタ　ChatGPT活用「四季報AI」企業分析支援ツール正式リリース</title><link>https://ledge.ai/articles/shikiho_ai_toyokeizai_release</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ロゼッタは2023年10月26日、東洋経済新報社と共同で開発した「四季報AI」正式版の提供開始を{target=“_blank”}した。
-
-同サービスは、東洋経済新報社の「会社四季報オンライン」をはじめとする記事・データを出典とし、株式市場での企業分析をサポートするChatGPTを活用した対話形式のツール。7月にベータ版を公開しており、このたび正式リリースされたサービスは、AIが参照・提案する企業データがベータ版から質・量ともに改善されているという。
-
-「会社四季報オンライン」プレミアムプラン限定の機能として同サービス契約中の会員が利用できる。また「四季報AI」機能のAPI提供や組込み開発等については、ロゼッタが個別に相談を受け付けるとのことだ。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 01 Nov 2023 03:50:03 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 01 Nov 2023 06:01:21 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
