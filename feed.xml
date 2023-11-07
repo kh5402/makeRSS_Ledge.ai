@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 Nov 2023 00:57:20 +0000</lastBuildDate><item><title>ソフトバンク傘下BOLDLYとエストニア企業Auve Techが開発の「MiCa」、自動運転レベル4対応で日本の公道走行可能に</title><link>https://ledge.ai/articles/boldly_auvetech_mica</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 06 Nov 2023 06:25:03 +0000</lastBuildDate><item><title>イスラエルとガザ地区、GoogleとAppleのマップアプリ機能を一時停止</title><link>https://ledge.ai/articles/googlemap_gaza_stop</link><description>:::small
+画像の出典：GoogleMapをLedge.ai編集部でスクリーンショット取得（2023/11/6）
+:::
+
+GoogleやAppleのマップアプリについて、道路の交通状況をリアルタイムで表示する機能が非表示になったと、2023年10月24日に{target=“_blank”}が報じた。これはイスラエル国防軍が準備している、ガザでの地上作戦に関連する措置とみられている。
+
+Googleの広報担当者は「紛争状況や地域の状況の進展に応じてこれまで行ってきたように、地域社会の安全を考慮して、ライブの交通状況や混雑情報を見る機能を一時的に無効にした」とBloombergに述べた。
+
+軍の動きが交通情報から推測されるリスクを避けるためであり、GPSナビアプリ「Waze」も同地域の交通情報表示を停止している。なおナビゲーションシステムを使用するドライバーは、引き続き実際の状況に基づいた推定到着時刻を受け取ることができる。
+
+同社は昨年、ロシアによるウクライナ侵攻を受けてウクライナでも同様の措置を講じ、リアルタイムの車両と歩行者の交通量データを無効にした。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 06 Nov 2023 06:25:03 +0000</pubDate></item><item><title>ソフトバンク傘下BOLDLYとエストニア企業Auve Techが開発の「MiCa」、自動運転レベル4対応で日本の公道走行可能に</title><link>https://ledge.ai/articles/boldly_auvetech_mica</link><description>:::small
 画像の出典：BOLDLY
 :::
 
@@ -252,32 +270,7 @@ Ledge.ai編集部が、2024年以降のAIについて、独自の視点から発
 
 :::button
 
-:::</description><pubDate>Wed, 01 Nov 2023 02:25:47 +0000</pubDate></item><item><title>Googleマップ、AI搭載のイマーシブビューやGoogleレンズ統合など新機能追加
-</title><link>https://ledge.ai/articles/immersive_view_for_routes_googlemap</link><description>:::small
-画像の出典：Google
-:::
-
-米国Googleは2023年10月26日、{target=“_blank”}を含む複数のGoogleマップの新機能を発表した。
-
-Immersive View（イマーシブビュー）はAIと高解像度ストリートビュー、衛星画像、航空写真を組み合わせた体験を提供する。目的地までのストリートビューを、イマーシブビューの中を移動して確認可能だ。
-
-
-目的地と移動手段を指定し、画像カードをタップするとイマーシブビューでのナビが開始する。ターンバイターンの画像確認、拡大、タイムスライダーで時間帯の変化のシミュレートも可能だ。
-
-他にも、GoogleマップにGoogleレンズが追加された。カメラでの情報検索でATM、駅、レストランなどの情報を提供する。またナビのマップ色が更新され、高速道路の車線詳細が改善。北米や欧州の12カ国で展開する予定だ。さらに電気自動車の充電ステーション検索機能が改善し、充電互換性と最後の使用日時の確認が可能になった。
-
-「やりたいこと」検索で、テーマ別のスポットも提案する。関連するスポット表示は、AIと画像認識モデルに基づいている。これは数週間以内に利用可能になる予定だ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Tue, 31 Oct 2023 00:38:50 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 01 Nov 2023 02:25:47 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
