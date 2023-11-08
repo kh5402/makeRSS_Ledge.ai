@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 Nov 2023 13:41:09 +0000</lastBuildDate><item><title>イーロン・マスクの新AI「Grok」公開 最新情報へのアクセス実現</title><link>https://ledge.ai/articles/grok_xai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 Nov 2023 13:48:18 +0000</lastBuildDate><item><title>イーロン・マスクの新AI「Grok」公開 最新情報へのアクセス実現</title><link>https://ledge.ai/articles/grok_xai</link><description>:::small
 画像の出典：xAI
 :::
 
@@ -1968,7 +1968,37 @@ Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは
 :::box
 
 :::
-</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>米国　初のAI規制大統領令「開発者は公開前にテストし事前に米国政府と共有すること」安全で信頼性あるAI開発管理方針示す</title><link>https://ledge.ai/articles/executive_order_on_the_safe_secure_ai</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>岸田首相のフェイク動画拡散「政府の情勢を偽り発信することは民主主義の基盤傷付ける」内閣官房長官が懸念示す</title><link>https://ledge.ai/articles/the_prime_ministes_fake_video_spread_on_x</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2023年11月6日、内閣官房長官の{target=“_blank”}で、11月2日に、岸田首相の画像や音声を使ったフェイク動画がSNSに投稿された件について記者が質問をした。これに対し松野官房長官は、岸田総理の偽動画の広まりについて懸念を表明しつつ、SNS上の個別の投稿についてはコメントを控えると前置きした。その上で、政府の情勢を偽って発信することは、場合によっては民主主義の基盤を傷つけかねないため行われるべきではないと一般論として指摘した。
+
+!
+:::small
+画像の出典：
+:::
+
+また海外でのフェイク動画問題を踏まえ、政府は関係省庁と連携し対策を検討していく考えを表明した。
+広島AIプロセスにおいて議長国である日本は、国際的な指針や行動規範、偽情報対策に関するプロジェクトベースの取り組みを提案しており、偽情報対策の中では、コンテンツの出所を特定する技術についても議論しているという。
+
+!
+:::small
+画像の出典：
+:::
+
+問題となった動画は、日テレNEWSのロゴを使用し、ニュース番組の画面に見せかけたフェイク動画で、首相の声を生成AIに学習させて作られたものと考えられている。今年の8月にニコニコ動画に投稿されていたものが一部切り取られ、11月2日再度X（旧Twitter）に投稿された。11月3日放送の「news zero」で日本テレビは「放送、番組ロゴをこのようなフェイク動画に悪用されたことは、到底許すことはできません。フェイク動画について今後も必要に応じて然るべき対応をして参ります」と{target=“_blank”}した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 07 Nov 2023 13:48:18 +0000</pubDate></item><item><title>米国　初のAI規制大統領令「開発者は公開前にテストし事前に米国政府と共有すること」安全で信頼性あるAI開発管理方針示す</title><link>https://ledge.ai/articles/executive_order_on_the_safe_secure_ai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2172,21 +2202,7 @@ AIは住友電気工業らが開発した。2022年度から渋滞予測活用�
 
 :::
 :::box
-</description><pubDate>Tue, 10 Oct 2023 03:17:41 +0000</pubDate></item><item><title>特許庁「幅広い分野での審査に対応が必要」AI担当官4倍に増員　全審査部門に配置</title><link>https://ledge.ai/articles/ai_shutsugan_seibi</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-特許庁は2023年9月21日、10月1日付けで、AI担当官を10名程度から40名程度に増員すると{target=“_blank”}した。2021年1月20日に発足したAI審査支援チームを強化するかたちだ。
-
-AI担当官は、AI関連発明に関する審査の「ハブ」として、各審査部門の知見を集約し、AI審査支援チーム外の審査官からの相談に応じることで、効率的かつ高品質な審査の実現に向けた支援を行っている。これまで、AI担当官をAI技術の活用が多くみられる審査室に配置していたが、このたびの増員で全ての審査室に1名ずつ配置することになる。
-
-「知的財産推進計画2023」で指摘されているように、ChatGPTなど万人が容易に利用可能なAIが登場したことで、幅広い分野の創作過程でのAIの利活用を見込んで審査体制を整備する必要があるという。
-
-今後、AI担当官が相談に対応して蓄積された知見は、AI審査支援チームにおいて共有・整理を行い、有用なものについてはAI関連発明の審査事例として公表する体制を整えていくとのこと。
-
-:::box
-
-:::</description><pubDate>Wed, 27 Sep 2023 06:20:34 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+</description><pubDate>Tue, 10 Oct 2023 03:17:41 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
