@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 06 Nov 2023 08:43:20 +0000</lastBuildDate><item><title>NTT独自のLLM「tsuzumi」　2024年3月に商用サービス提供予定　軽量化でコスト低減しつつGPT-3.5上回る日本語処理能力</title><link>https://ledge.ai/articles/ntt_llm_tsuzumi</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 Nov 2023 11:18:59 +0000</lastBuildDate><item><title>イーロン・マスクの新AI「Grok」公開 最新情報へのアクセス実現</title><link>https://ledge.ai/articles/grok_xai</link><description>:::small
+画像の出典：xAI
+:::
+
+イーロン・マスク氏率いるxAI（エックス・エーアイ）社は2023年11月4日、独自の言語モデル{target=“_blank”}を公開した。
+
+多くの既存の大規模言語モデルは、インターネットから収集された過去の情報に依存している。Grokは、リアルタイムで最新の情報にアクセスできるという特徴を持つ。月16ドルの上位料金プラン向けだ。
+
+マスク氏が公開したデモでは、Grokが2023年11月3日のFTX創設者の有罪判決という最新ニュースを出力した。Grokの回答は「おお、親愛なる人類」というフレーズで始まり、ユーモアを取り入れたキャラクターであるようにみえる。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Grokは、他のほとんどのAIシステムで拒否されるような難しい質問にも答えるという。なお11月7日時点では早期アクセスプログラムとして限られた利用者に提供されており、xAIのサイトから{target=“_blank”}に参加できる。
+
+
+またマスク氏はこれに先立ち、AIの安全性を議論する国際会議「AI安全サミット」への出席に合わせて訪英し、11月2日にスナク首相と対談。生成AIなどの技術進化により「（人間の）仕事が不要になる時が来る」と述べ、悪用のリスクがあるためAIを巡る規制に賛同する姿勢を示している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 07 Nov 2023 11:18:59 +0000</pubDate></item><item><title>NTT独自のLLM「tsuzumi」　2024年3月に商用サービス提供予定　軽量化でコスト低減しつつGPT-3.5上回る日本語処理能力</title><link>https://ledge.ai/articles/ntt_llm_tsuzumi</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -236,27 +263,7 @@ Amazon.comは9月に、商品説明をAIで生成可能にする「Amazon Seller
 :::box
 
 :::
-</description><pubDate>Wed, 01 Nov 2023 06:05:12 +0000</pubDate></item><item><title>オルツが環境負荷低減の軽量型LLM「LHTM-OPT」開発 日本語LLM最高性能を記録</title><link>https://ledge.ai/articles/alts_lhtm_opt</link><description>:::small
-画像の出典：オルツ
-:::
-
-オルツは2023年10月19日、パラメータ数が最適化された軽量型大規模言語モデル（LLM）{target=“_blank”}を開発し、日本語商用プライベートLLMとして最高性能を記録したと発表した。
-
-大規模言語モデルは計算リソースとエネルギーの面で環境に負荷をかけるため、軽量で高精度な小規模パラメータモデルの研究が進行中だ。
-
-同社のLLM「LHTM-2」はパラメータ数が膨大で調整の自由度が非常に高く設定されているが、今回発表したLLMはそのパラメータを小規模GPUマシンでも実行可能で、実用に最適化された軽量型モデルだ。
-
-LHTM-OPTはRakudaベンチマークとJGLUEで高スコアを達成。自動質問応答、議事録要約、情報抽出などの高度な処理が必要な問題に対応可能なアプリケーションを実装予定だ。クライアントはLHTM-OPTを専門分野でカスタマイズ可能で、GPUコストの節約と回答精度の最適化というメリットを得られる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 01 Nov 2023 06:01:21 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 01 Nov 2023 06:05:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
@@ -1961,7 +1968,25 @@ Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは
 :::box
 
 :::
-</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>広島AIプロセス、G7がAIの開発者向け国際指針と行動規範に合意</title><link>https://ledge.ai/articles/hiroshima_ai_process_statement</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>全国初のレベル4自動運転サービスで事故、永平寺町で自転車に接触</title><link>https://ledge.ai/articles/eiheiji_level4_traffic_accident</link><description>:::small
+永平寺町の町民の方々による乗車（2023年5月21日）
+画像の出典：経済産業省
+:::
+
+福井県永平寺町志比の町道で、「レベル4」の自動運転による車両が道路脇に停車中の自転車と接触したと2023年10月29日に{target=“_blank”}が報じた。永平寺町では5月から全国で初めてレベル4車両の移動サービスを開始しており、事故は初めて。乗っていた県内在住の男性4人にけがはなかった。
+
+レベル4では、限定された条件下においてすべての運転操作がシステムによって自動化される。今回の車両は7人乗りで、最高時速は12キロ。自転車・歩行者専用道路を定められたルートで走行していた。車載カメラによる遠隔監視システムにより、障害物検知時に自動で停止する機能を備えている。事故前の点検では、システム異常はなかったという。
+
+事故車両の前部に擦り傷があり、県警福井署が原因を調査している。永平寺町は運行を一時中止すると発表した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 06 Nov 2023 06:28:40 +0000</pubDate></item><item><title>広島AIプロセス、G7がAIの開発者向け国際指針と行動規範に合意</title><link>https://ledge.ai/articles/hiroshima_ai_process_statement</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -2151,33 +2176,7 @@ AI担当官は、AI関連発明に関する審査の「ハブ」として、各�
 :::box
 
 :::
-</description><pubDate>Thu, 21 Sep 2023 04:38:04 +0000</pubDate></item><item><title>米中IT大手6社 デジタル世界の「門番」に EUが指定 厳格な規制課す</title><link>https://ledge.ai/articles/european_commission_gatekeeper</link><description>:::small
-{target=“_blank”} 
-:::
-
-
-欧州連合（EU）の執行機関である欧州委員会（European Commission）が2023年9月6日、デジタル市場法（DMA）に基づき6社の「ゲートキーパー（門番）」を指定したと{target=“_blank”}した。米国Googleを傘下に置くAlphabetをはじめAmazon.com、Apple、Meta Platforms、Microsoft、中国ByteDanceがその内訳だ。
-
-ゲートキーパーは、DMA法に基づく厳格な規制を受ける。EU地域で一定の売り上げを記録し、EUがリストアップする10種の主要なプラットフォームサービス（例：検索やSNS）において大きな権限を持つ企業が対象。
-
-今回の指定は、候補となった7社に通知した後、45日間の審査を経て決まった。なお7社のうち韓国サムスン電子のみは開発しているWebブラウザ「Samsung Internet Browser」が主要なプラットフォームサービスとは言えないとして指定対象から外れた。
-
-ゲートキーパーが提供する22の主要なプラットフォームサービスは以下のとおり。
-!
-
-:::small
-画像出典：EU
-:::
-
-各サービスについて、6社にはDMAの義務を遵守するための6か月の猶予が与えられる。なおEUはAIを活かしたチャットボットなどを直接取り上げてはいないが、実際には検索エンジンやOSなどで統合が進んでいるため、規制のゆくえには関心が持たれるところだ。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 21 Sep 2023 02:33:28 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+</description><pubDate>Thu, 21 Sep 2023 04:38:04 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
