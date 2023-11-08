@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 Nov 2023 11:18:59 +0000</lastBuildDate><item><title>イーロン・マスクの新AI「Grok」公開 最新情報へのアクセス実現</title><link>https://ledge.ai/articles/grok_xai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 Nov 2023 13:41:09 +0000</lastBuildDate><item><title>イーロン・マスクの新AI「Grok」公開 最新情報へのアクセス実現</title><link>https://ledge.ai/articles/grok_xai</link><description>:::small
 画像の出典：xAI
 :::
 
@@ -1968,7 +1968,37 @@ Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは
 :::box
 
 :::
-</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>全国初のレベル4自動運転サービスで事故、永平寺町で自転車に接触</title><link>https://ledge.ai/articles/eiheiji_level4_traffic_accident</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>米国　初のAI規制大統領令「開発者は公開前にテストし事前に米国政府と共有すること」安全で信頼性あるAI開発管理方針示す</title><link>https://ledge.ai/articles/executive_order_on_the_safe_secure_ai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+米国バイデン大統領は2023年10月30日、AIの安全で信頼性のある開発と使用に関する{target=“_blank”}した。これはAIの持つリスクを軽減し、その利益を最大化するため、AIシステムが堅牢かつ安全であることを要求し、他国を先んじてリーダーシップを取り、新たな職種や業界が生まれる過程で米国の労働者を守り支援することを目的としている。
+
+大統領令では、8 つの基本原則と優先事項に従いAIの開発と使用を推進し、管理する方針を示した。
+１．AIは安全かつセキュリティが確保されていなければならない。
+２．責任ある革新、競争、協力を促進する。
+３．AIの責任ある開発と使用には、アメリカの労働者を支援することへのコミットメントが必要である。
+４．AIは公正かつ公平に利用されるべきである。
+５．AIは民主的な価値観、人権、および自由と両立するように機能しなければならない。
+６．アメリカのリーダーシップと国際的な協力を進める。
+７．AIの開発と使用において透明性を確保する。
+８．AIは包括的で公平な方法で全てのアメリカ人に利益をもたらすべきである​。
+
+政府は同日、この大統領令に基づいた{target=“_blank”}し、大統領令がAIの安全性とセキュリティのための新しい基準として以下の行動を指示した。
+
+・強力なAIシステムの開発者は、安全試験の結果や他の重要情報を公開前に米国政府と共有する。
+・国家安全保障や公衆衛生に重大なリスクをもたらすAIモデルの開発企業は、訓練段階での政府への通知とレッドチームによる安全試験の結果を共有する。
+・AIシステムの安全性を保証するための新しい基準、ツール、テストの開発。
+・危険な生物学的物質の製造やAIによる詐欺、欺瞞からアメリカ人を守るための基準とベストプラクティスの確立。
+・ソフトウェアとネットワークのセキュリティを強化するためのAIツールの開発。
+・軍事や情報コミュニティがAIを安全かつ効果的に使用するための国家安全保障覚書の作成​​。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 07 Nov 2023 13:41:09 +0000</pubDate></item><item><title>全国初のレベル4自動運転サービスで事故、永平寺町で自転車に接触</title><link>https://ledge.ai/articles/eiheiji_level4_traffic_accident</link><description>:::small
 永平寺町の町民の方々による乗車（2023年5月21日）
 画像の出典：経済産業省
 :::
@@ -2156,27 +2186,7 @@ AI担当官は、AI関連発明に関する審査の「ハブ」として、各�
 
 :::box
 
-:::</description><pubDate>Wed, 27 Sep 2023 06:20:34 +0000</pubDate></item><item><title>一般道にも自動運転レーン 茨城・日立市で2024年にも</title><link>https://ledge.ai/articles/digital_architecture_lifeline</link><description>:::small
-画像出典：第2回デジタルライフライン全国総合整備実現会議
-:::
-
-
-政府は2023年9月15日、先進的なデジタル技術を活用して経済成長を実現する「デジタル田園都市国家構想」に基づき{target=“_blank”}の第2回会合を経済産業省で開催した。会合では{target=“_blank”}が提示され、大部分が了承された。
-
-今回の「中間取りまとめ」案では「デジタルライフライン全国総合整備計画」として2点を提案した。 自動運転やドローン等について「点から線・面へ」「実証から実装へ」の移行を加速させ、デジタル化された生活必需サービスを全国津々浦々に行きわたらせる。また ハード・ソフト・ルールのデジタルライフラインを整備する約10年の中長期的な実装計画を策定し、重複を排除した官民による集中的な投資を行う。
-
-自動運転の実用化支援については、既存の高速道路に加え、2024年度に茨城県日立市の一般道にも「自動運転支援道」を設置する方針だ。日立市のJR大甕駅周辺に自動運転レーンを設置する予定。
-
-また25年度以降に新東名高速道、東北自動車道の一部に自動運転レーンの設置を検討している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 21 Sep 2023 04:38:04 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+:::</description><pubDate>Wed, 27 Sep 2023 06:20:34 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
