@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 Nov 2023 13:48:18 +0000</lastBuildDate><item><title>イーロン・マスクの新AI「Grok」公開 最新情報へのアクセス実現</title><link>https://ledge.ai/articles/grok_xai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 Nov 2023 00:51:45 +0000</lastBuildDate><item><title>AIによりお客様対応業務の一部を約50％省力化、ELYZAと東京海上日動の実証実験</title><link>https://ledge.ai/articles/elyza_tokyokaijo_experiment</link><description>:::small
+画像の出典：ELYZA
+:::
+
+
+東大発のAIスタートアップ企業ELYZAは2023年10月31日、東京海上日動火災保険との言語生成AIの実証実験の結果、一部業務で約50％の省力化に成功したと{target=“_blank”}した。これを受け、東京海上日動は実業務への言語生成AIの導入を本格検討する予定。
+
+
+今回の成果はELYZAが独自開発する国産の大規模言語モデル「ELYZA Brain」を活用し、モデル設計から体験設計まで支援して得られたものだ。
+
+物損事故と人身事故の問い合わせ複数ケースに対し、オペレーター単独で回答作成した処理時間と、言語AIの回答素案をもとに整形して回答作成した処理時間を比較し、省力化の程度を検証した。また言語生成AIが作成した回答素案をオペレーターがそのまま利用した割合についても分析を行った。
+
+20名のオペレーターの回答作成時間平均値を比較した結果、応対文面の作成業務において約50%の省力化に成功したことがわかった。また言語生成AIが作成した発話草案のうち、そのまま回答に利用された文の割合は、最低でも61％以上だった。
+
+「お客様接点」でのAI活用には、高い生成精度、応対品質、セキュリティが必要だ。今回の実証実験は、ELYZAと東京海上日動にとって初の取り組みとなった。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Wed, 08 Nov 2023 00:51:45 +0000</pubDate></item><item><title>イーロン・マスクの新AI「Grok」公開 最新情報へのアクセス実現</title><link>https://ledge.ai/articles/grok_xai</link><description>:::small
 画像の出典：xAI
 :::
 
@@ -242,28 +267,7 @@ Amazon.comは9月に、商品説明をAIで生成可能にする「Amazon Seller
 :::
 :::box
 
-:::</description><pubDate>Wed, 01 Nov 2023 03:53:18 +0000</pubDate></item><item><title>レノボの新戦略「AI for All」 全製品へのAI搭載とハイブリッドAI導入</title><link>https://ledge.ai/articles/lenovo_ai_for_all</link><description>:::small
-画像の出典：レノボ
-:::
-
-中国レノボは2023年10月24日、AIをすべての製品やサービスに搭載する戦略を{target=“_blank”}した。
-
-@
-
-同社は米国テキサス州で年次カンファレンス「Lenovo Tech World 23」を開催し、今年のテーマ「AI for All」を発表。米国NVIDIAとのパートナーシップを拡大し、新しいハイブリッドAIソリューションとエンジニアリング協力で生成AI導入を支援すると述べた。
-
-基調講演ではリアルタイム手話通訳AIのデモを実施し、聴覚障害のある人の手話をポルトガル語に翻訳してみせた。このAI技術は、数千時間の手話データを学習し、約5年の開発期間で実現したもので、多言語の手話翻訳にも対応可能だ。同社の最高経営責任者（CEO）ヤンチン・ヤン氏は手話通訳AIを例に挙げ「誰も取り残さない」と意思表示した。
-
-今後はPCやワークステーションにAIを搭載し、ヘルスケアや教育分野にエッジAIを提供する。エンタープライズ向けには複数のAI基盤モデルを組み合わせて利用する「ハイブリッドAI」を提供し、情報のセキュリティを守りながらAIを活用するソリューションを展開する。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 01 Nov 2023 06:05:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 01 Nov 2023 03:53:18 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
