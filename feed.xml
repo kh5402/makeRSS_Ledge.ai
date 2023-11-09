@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 Nov 2023 00:51:45 +0000</lastBuildDate><item><title>AIによりお客様対応業務の一部を約50％省力化、ELYZAと東京海上日動の実証実験</title><link>https://ledge.ai/articles/elyza_tokyokaijo_experiment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 Nov 2023 10:32:21 +0000</lastBuildDate><item><title>OpenAIが「GPT-4 Turbo」やカスタムAI「GPTs」など最新プロダクト発表
+</title><link>https://ledge.ai/articles/openai_gpt4_turbo</link><description>:::small
+画像の出典：OpenAI
+:::
+
+
+米国OpenAIは11月6日、カリフォルニア州サンフランシスコで初の開発者会議「OpenAI DevDay」を開催。最高経営責任者（CEO）サム・アルトマン氏による基調講演で「GPT-4 Turbo」「GPTs」など複数のプロダクトを{target=“_blank”}した。
+
+「GPT-4 Turbo」は「GPT-4」に続く最新の大規模言語モデルだ。2023年4月までの最新情報を理解し、最新の質問に対応可能となっている。128Kの大きな入力ウィンドウを持ち、1つのプロンプトにつき300ページを超えるテキストの処理が可能だ。
+
+さらに複数関数の呼び出し機能の向上、JSONフォーマットでの出力が可能な「JSON mode」の提供、回答の再現性向上のための「シード値」導入などの改善がなされた。すべての有料開発者がAPI経由で「gpt-4-1106-preview」として試用可能だ。GPT-4に比べて、入力トークンは3倍、出力トークンは2倍のコスト削減となっている。
+
+さらに「GPT-3.5 Turbo 16K」もリニューアルされ、JSONモードや関数の並行呼び出し機能をサポート。「GPT-3.5 Turbo 16K」と「GPT-4 Turbo」の価格が見直され、より安価になった。
+
+!
+:::small
+画像の出典：
+:::
+
+また「GPTs」は、ユーザーがカスタムバージョンのAIアシスタントを作成できる新機能だ。コーディング知識は必要なく、自然言語を使用して指示を出し、Web検索、画像作成、データ分析などを選ぶ。なおOpenAIのXでは「Puppy Hotline」という子犬専門のカスタムGPTのデモが示されている。
+
+ChatGPT Plusおよびエンタープライズユーザーは「Canva」「Zapier AI Actions」などのカスタムGPTを利用できる。また11月末には検証済み開発者によるカスタムGPTを集めたGPTストアがオープン予定。ストアでは自作のカスタムGPTを登録し、審査を経て収益化も目指せるという。
+
+
+
+他にも開発者向けの「Assistants API」、著作権侵害に関する法的な請求に対しユーザーを守り費用を支払う「著作権シールド」の導入、マイクロソフトとの連携などについても発表した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Wed, 08 Nov 2023 10:32:21 +0000</pubDate></item><item><title>AIによりお客様対応業務の一部を約50％省力化、ELYZAと東京海上日動の実証実験</title><link>https://ledge.ai/articles/elyza_tokyokaijo_experiment</link><description>:::small
 画像の出典：ELYZA
 :::
 
@@ -248,26 +288,7 @@ ClearviewAIの顔認識技術は、容疑者や特定の関心を持つ人物の
 :::
 :::box
 
-:::</description><pubDate>Wed, 01 Nov 2023 03:58:03 +0000</pubDate></item><item><title>Amazon Adsの新ツール 商品の利用イメージに合った背景をAIが生成 CTRが40%増すケースも</title><link>https://ledge.ai/articles/amazon_ads_ai_image_generator</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Amazon.comは2023年10月25日、Amazon Adsの画像生成ツールのベータ版を{target=“_blank”}した。商品に合った背景をAIが商品詳細情報などをもとに生成する。
-
-Amazon Ad Console で、広告主が販売する商品を選択し「生成」ボタンをクリックすると、詳細情報に基づきその商品を用いたライフスタイルやブランドをテーマにした一連の画像を数秒で生成する。短いプロンプト（文章による指示）を入力し、画像を調整できるほか、複数のバージョンを迅速に作成し最適化できる。
-
-例えば、トースターなどの商品をただの白い背景で掲載する場合と比べ、同じトースターを設定されたライフスタイルの元でキッチンカウンターの上やクロワッサンの隣に配置した画像は、クリックスルー率（CTR＝クリック数÷広告表示回数）に40%の差が出るケースがあるという。
-
-@
-
-Amazon.comは9月に、商品説明をAIで生成可能にする「Amazon Seller Central」の新機能を発表している。Googleでは5月に同様の機能「Product Studio」を発表した。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 01 Nov 2023 03:53:18 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 01 Nov 2023 03:58:03 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
