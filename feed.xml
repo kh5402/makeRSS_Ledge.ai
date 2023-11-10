@@ -2055,7 +2055,29 @@ Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは
 :::box
 
 :::
-</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>岸田首相のフェイク動画拡散「政府の情勢を偽り発信することは民主主義の基盤傷付ける」内閣官房長官が懸念示す</title><link>https://ledge.ai/articles/the_prime_ministes_fake_video_spread_on_x</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>MidjourneyとStability AIの著作権問題「実質的類似性」証明できず　アーティストたちの訴え棄却</title><link>https://ledge.ai/articles/lawsuit_against_stabilityai_dismissed</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+カリフォルニア連邦地方裁判所は2023年10月30日、Stability AI、Midjourney、DeviantArtを相手取り、サラ・アンダーセン氏、ケリー・マッケルナン氏、カーラ・オルティス氏が提起した集団訴訟案のうち、MidjourneyとDeviantArtに対するすべての申し立てを含む一部の申し立てを{target=“_blank”}。
+
+訴えによると、これらの企業は、著作権で保護された作品を無断で使用してAI「Stable Diffusion」を訓練したとのこと。裁判所は、アンダーセン氏による直接的な著作権侵害の主張の一部を除き、その他の訴えを退けた。
+
+裁判所が訴えの一部を棄却した主な理由は、原告側が著作権侵害の主張に必要な「実質的類似性」を証明できなかったこと、そしてMidjourneyとDeviantArtに対する申し立てについては、それらの企業が画像の「スクレイピング」やAIトレーニングにどのような役割を果たしたかを証明できなかったことが挙げられる。さらに、アンダーセン氏は著作権を登録していたが、マッケルナン氏とオルティス氏が彼らの作品に対して著作権登録をしていなかったため、著作権訴訟を起こすための法的要件を満たしていなかったとした。
+
+裁判官は、AI出力が原告の作品と「実質的に類似していない」と判断し、その主張についてはさらなる証明が必要であると述べた。原告の弁護士は、中心となる主張が生き残ったとし、修正された訴えを提出することで裁判所の懸念を解消すると主張した。
+
+原告の弁護にあたる{target=“_blank”}は、同年1月13日、Stability AI、Midjourney、DeviantArtを相手取り、カリフォルニア州北部地区連邦地方裁判所に訴状を提出した。訴状では、アーティストたちに対する著作権侵害、DMCA違反、パブリシティ権侵害、DeviantArt利用規約違反、不正競争、不当利得を主張している。また、すでに発生した損害を賠償し、将来の損害を防止するために、損害賠償と差止命令による救済措置を求めていた。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 09 Nov 2023 01:24:18 +0000</pubDate></item><item><title>岸田首相のフェイク動画拡散「政府の情勢を偽り発信することは民主主義の基盤傷付ける」内閣官房長官が懸念示す</title><link>https://ledge.ai/articles/the_prime_ministes_fake_video_spread_on_x</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2275,21 +2297,7 @@ AIは住友電気工業らが開発した。2022年度から渋滞予測活用�
 :::
 :::box
 
-:::</description><pubDate>Wed, 11 Oct 2023 02:46:26 +0000</pubDate></item><item><title>国立情報学研究所と松尾研究室発のスタートアップELYZA、産総研の生成AI開発支援プログラムに採択ーープリファードに続く大規模言語モデル開発を後押し</title><link>https://ledge.ai/articles/nii_elyza_aist_ai_program</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-西村経済産業大臣は2023年10月3日、自身のX（旧Twitter）公式アカウントで、産業技術総合研究所の生成AI開発支援プログラムに国立情報学研究所(NII)とELYZAが新たに採択されたことを{target=“_blank”}した。
-
-民間企業など約3000者が利用するAI用スパコン「ABCI」の計算能力の13%、20%をそれぞれ一定期間独占的に割り当て、大規模言語モデルの開発を加速化させる試みだ。ABCIの計算能力の大幅拡充も進めるという。
-
-8月4日、同プログラムの第１期採択がXで発表されたPreferred Networksは、9月28日に130億パラメータの事前学習済み大規模言語モデル「PLaMo-13B(Preferred Language Model)」を、研究・商用で利用可能なオープンソースで公開した。
-
-:::box
-
-:::
-:::box
-</description><pubDate>Tue, 10 Oct 2023 03:17:41 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+:::</description><pubDate>Wed, 11 Oct 2023 02:46:26 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
