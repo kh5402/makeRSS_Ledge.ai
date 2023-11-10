@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 Nov 2023 10:32:21 +0000</lastBuildDate><item><title>【AI TALK NIGHT】どこよりも早く2023年を振り返る『 Ledge.ai 23to24』｜vol.19</title><link>https://ledge.ai/articles/ai-talk-night-vol19</link><description>レッジが主催する、他業界の方と交流できる無料のオフラインイベント「AI TALK NIGHT」第19回開催のお知らせです。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 Nov 2023 10:32:21 +0000</lastBuildDate><item><title>ベネッセが生成AI活用　制作/運用コスト40％削減、制作期間50％短縮　「進研ゼミ中学講座」Webサイトで</title><link>https://ledge.ai/articles/benesse_next_generation_website_project</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ベネッセホールディングスは2023年10月27日、「進研ゼミ 中学講座」のサイト制作においてコスト４割減、制作期間８週間から３週間への短縮に成功したと{target=“_blank”}した。
+
+7月より、株式会社メンバーズ、株式会社ビービットの支援で「次世代型Webサイトプロジェクト」を開始。生成AI、ノーコードツールなどの最適なソリューションを活用して業務プロセスを再構築し、運用を高度化するPoCを実施している。ライティング業務では、顧客にとって分かりやすい説明文をAIが自動生成することで作業工数を削減した。Web専用の質の高いコピーを短納期で提供できるようにもなったという。また、専門知識がなくても使えるデザインテンプレートとノーコードCMSを導入し、サイト制作と運用の効率を大きく向上させ、コスト削減と制作期間の短縮を実現した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+本年度より段階的に新体制に移行し、2024年4月以降には既存のWebサイトの業務プロセスを全面的に改革し、顧客体験の向上ならびに、生産性向上を実現するという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 07 Nov 2023 13:54:32 +0000</pubDate></item><item><title>【AI TALK NIGHT】どこよりも早く2023年を振り返る『 Ledge.ai 23to24』｜vol.19</title><link>https://ledge.ai/articles/ai-talk-night-vol19</link><description>レッジが主催する、他業界の方と交流できる無料のオフラインイベント「AI TALK NIGHT」第19回開催のお知らせです。
 
 :::button
 
@@ -320,24 +345,7 @@ Uberアプリからの配車リクエスト時、条件に合うWaymoの車両�
 :::
 :::box
 
-:::</description><pubDate>Wed, 01 Nov 2023 03:46:36 +0000</pubDate></item><item><title>複数の国で訴訟合戦中の顔認証「Clearview AI」イギリス情報委員会による罰金処分を控訴し撤回させる</title><link>https://ledge.ai/articles/clearviewai_wins_ico</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-米国ClearviewAIは2023年10月19日、イギリスの情報委員会（ICO）に対する控訴に勝訴したことを{target=“_blank”}した。
-
-顔認識検索エンジン技術を政府機関に提供するClearviewAIは昨年、英国民に通知をせず、また同意を得ることなく顔画像を収集したのは一般データ保護規則（GDPR）に違反するとして、ICOより750万ポンドの罰金とデータ削除を命じられていた。しかし2023年10月17日、イギリスの控訴裁判所は、同社がICOの管轄下にないとの{target=“_blank”}、この命令が撤回されたという。
-
-ClearviewAIの顔認識技術は、容疑者や特定の関心を持つ人物の写真を300億以上の公開されている顔の画像データベースと迅速・正確に照合する。同社の技術が犯罪捜査などの分野での高度な顔認識を可能にする一方で、プライバシー侵害、GDPR違反、ユーザーデータの不適切な収集といった問題で欧州や米国のデータ保護機関から指摘や法的な訴えを受けている。特に、インターネットからの大量の顔写真のスクレイピングによる世界最大規模の顔データセットの構築が、複数の国で違法と判断されている。
-
-このたびの控訴は、同社がICOの管轄下にないという論拠で勝訴した。同社の法務責任者、ジャック・マルケア氏は「ClearviewAIに対するICOの違法な命令を撤回する審議会の決定に満足している」と述べた。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 01 Nov 2023 04:03:50 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Wed, 01 Nov 2023 03:46:36 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
