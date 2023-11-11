@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 09:42:38 +0000</lastBuildDate><item><title>Amazonが年末商戦に生成AIを使い倒す　プライム会員データを基にターゲット広告の精度アップ</title><link>https://ledge.ai/articles/amazon_ai_promotion_holiday</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 20:03:49 +0000</lastBuildDate><item><title>四足歩行ロボット犬「Spot」ChatGPTを搭載し、愉快なツアーガイドや英国風執事ロボに変身してお喋りーーボストン・ダイナミクス</title><link>https://ledge.ai/articles/boston_dynamics_spot_talking_with_chatgpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国ボストン・ダイナミクスは「基盤モデルのロボット工学への応用の概念実証」として、自社で開発したロボットにChatGPTなどを使用した新たな「会話機能」を実装し、それが実際に役立つかを{target=“_blank”}。同社の四足歩行ロボット「Spot」をツアーガイドとして使用する実証実験だ。
+
+Spotを会話させるために、ChatGPTのAPIと、いくつかのオープンソースの大規模言語モデル (LLM) を使用し、その応答を訓練。ロボットにスピーカーを搭載し、テキスト読み上げ機能を追加した。この様子は、2023年10月26日に動画としても公開された。
+@
+:::small
+動画：{target=“_blank”}
+:::
+
+Spotは自動化されたセンシング機能を持ち、周囲を観察・偵察し、データを収集するために動き回ることができる。機動性に富んだこのロボットは、日常の検査業務やデータ収集を安全かつ正確に自動化するために用いられている。人がタブレットのアプリや内蔵ステレオカメラを使って遠隔操作することもでき、またプログラムによって自律的に任務を行い、一貫したデータを収集する機能を有している。このたび社内で開催したハッカソンで、Spotに会話機能を組み合わせるコンセプトが生まれ、自然言語で対話するロボットガイドへと進化するアイディアが具現化されたという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+動画の冒頭ではSpotが「Fancy Butler（高級な執事）」のキャラクターで「Greetings my good sir（ごきげんよう）」と本格派イギリス英語でお出迎えする。これは、Spotに組み込まれたChatGPTなどの言語モデルを使用し、ロボットが取るべき行動や発言する内容を定義するために特定の指示やシナリオが与えられている。執事のほかにも「Excited Tour Guide Robot（ハイテンションなツアーガイド）」といったパーソナリティを設定するために、特定のキャラクター特性や行動がプロンプトに組み込まれ、Spotがそれに応じて行動するようになるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 10 Nov 2023 20:03:49 +0000</pubDate></item><item><title>Amazonが年末商戦に生成AIを使い倒す　プライム会員データを基にターゲット広告の精度アップ</title><link>https://ledge.ai/articles/amazon_ai_promotion_holiday</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -325,24 +359,7 @@ Googleの広報担当者は「紛争状況や地域の状況の進展に応じ�
 
 :::
 
-</description><pubDate>Fri, 03 Nov 2023 00:57:20 +0000</pubDate></item><item><title>UberとAlphabet傘下のWaymo、米国フェニックスエリアで自動運転タクシー配車サービス開始</title><link>https://ledge.ai/articles/uber_waymo_partnership</link><description>:::small
-画像の出典：Waymo
-:::
-
-自動運転技術を手がける米国Waymoは2023年10月26日、配車アプリ「Uber」からWaymoの完全自動運転タクシーを呼び出せるようになったことを{target=“_blank”}した。WaymoはIT大手Googleの親会社Alphabet傘下の企業。
-
-Uberアプリからの配車リクエスト時、条件に合うWaymoの車両が近くにいれば、その車両での乗車オプションが表示される。対象地域は、アリゾナ州フェニックスメトロポリタンエリアの225平方マイル（約582平方km）。
-
-この取り組みは、WaymoとUberが5月に発表した複数年契約の戦略的提携に基づくものだ。フェニックスメトロポリタンエリアでは、毎月数万人がWaymoの自動運転タクシーを利用している。毎週の配車は1万件を超え、そのうち1000件以上がフェニックス・スカイ・ハーバー国際空港の往復に関連しているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 03 Nov 2023 00:50:01 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 03 Nov 2023 00:57:20 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
