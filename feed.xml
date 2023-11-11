@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 09 Nov 2023 08:59:59 +0000</lastBuildDate><item><title>「全部AIで作った」 パルコの新ファッション広告は人間モデル不在</title><link>https://ledge.ai/articles/parco_ai_model</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 09:42:38 +0000</lastBuildDate><item><title>Amazonが年末商戦に生成AIを使い倒す　プライム会員データを基にターゲット広告の精度アップ</title><link>https://ledge.ai/articles/amazon_ai_promotion_holiday</link><description>:::small
+画像の出典：写真AC
+:::
+
+米国Amazon.comが、年末商戦で生成AIを活用すると{target=“_blank”}が2023年10月28日に報じた。
+
+Amazonは1億6千万人を超えるプライム会員のデータを基にターゲット広告の精度を上げ、販売業者のプロモーション作成を迅速化する。最高経営責任者（CEO）アンディ・ジャシー氏は、機械学習による関連性の高い広告提供の効果を強調した。
+
+同社は10月25日に、AIを利用して製品イメージを改善する新ツールを発表。生成AIの利用による主な利点は、多数のパーソナライズされた広告を表示できることだ。広告主は、予算に基づいて高パフォーマンスな広告を選択する傾向がある。
+
+アナリストらは、同社の広告事業のホリデー四半期の収益が142億ドルと、前年同期の115億6000万ドルから増加すると予想している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Fri, 10 Nov 2023 09:42:38 +0000</pubDate></item><item><title>「全部AIで作った」 パルコの新ファッション広告は人間モデル不在</title><link>https://ledge.ai/articles/parco_ai_model</link><description>:::small
 画像の出典：パルコ
 :::
 
@@ -320,37 +342,7 @@ Uberアプリからの配車リクエスト時、条件に合うWaymoの車両�
 :::box
 
 :::
-</description><pubDate>Fri, 03 Nov 2023 00:50:01 +0000</pubDate></item><item><title>OpenAIが「Preparedness」チーム結成、 未来の”フロンティアAIモデル”の壊滅的リスクを管理</title><link>https://ledge.ai/articles/openai_preparedness</link><description>:::small
-画像の出典：OpenAI
-:::
-
-米国OpenAIは2023年10月26日、将来の「フロンティアAIモデル」がもたらす壊滅的なリスクを管理するため、新たな専門チーム{target=“_blank”}を結成したと発表した。
-
-同チームは、安全なAGI（汎用人工知能）の構築を主要な目的の一つとし、
-「フロンティアAIモデル」については、「最先端の既存モデルの機能を超え、さまざまなタスクを実行できる大規模な機械学習モデル」と定義している。
-
-フロンティアAIモデルは人類に利益をもたらす可能性があるが、深刻なリスクも伴う。OpenAIは、フロンティアAIモデルのリスクを管理するための要件を質問として挙げた。
-
-・モデルの悪用による現在・未来の危険性は？
-・危険な機能への対策のフレームワークは？
-・モデルの「重み付け」が盗まれた際のリスクは？
-
-「Preparedness」チームのリーダーは、アレクサンダー・マドリー氏だ。チームは「人間をだまして説得する能力」「サイバーセキュリティ」「化学的・生物学的・放射線学的・核の脅威」「自律的な複製および適応」などのカテゴリーにおけるリスクの追跡、評価、予測、保護をおこなう。またリスク情報に基づいた開発ポリシー(RDP)の確立と維持、ガバナンス構造の確立にも取り組む。
-
-さらに、新たなAIリスクの特定を目的としたコンテストも実施する。最大10件の優秀な提案に対し、2万5000ドル(約376万円)分のAPIクレジットを贈呈する。
-
-また7月設立の「Frontier Model Forum」の初代事務局長がクリス・メセロール氏であること、「AI Safety Fund」を設立したことも発表した。これはフロンティアAIモデルのリスク評価・テスト技術開発を支援するものだ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 03 Nov 2023 00:46:57 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 03 Nov 2023 00:50:01 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
