@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 20:24:56 +0000</lastBuildDate><item><title>英ガーディアンがAI自動生成コンテンツでマイクロソフトを非難　社長宛ての書簡と紙面で</title><link>https://ledge.ai/articles/microsoft_accused_of_damaging_guardians_reputation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 20:24:56 +0000</lastBuildDate><item><title>ライカ　生成AIなどのフェイク画像から写真の真正性を保証　世界初の「コンテンツクレデンシャル機能」搭載</title><link>https://ledge.ai/articles/contentcredentials_leica</link><description>:::small
+画像の出典：Nick Rains Explains - Leica Content Credentials in the M11-P
+:::
+
+ライカは「コンテンツクレデンシャル機能」を内蔵した世界初のカメラ{target=“_blank”}を2023年10月26日に発表した。
+
+@
+
+コンテンツクレデンシャル機能は、撮影した写真の真正性を担保するために、撮影者の名前や撮影日時、編集に使用したツール、変更点などの情報を電子透かしとして添付できる認証機能だ。誤報や偽情報の増加や生成AIなどに対して、デジタルエコシステムの信頼性を確保するために開発された。
+
+M11-Pはこの機能を備えた世界初のカメラだ。M11シリーズの第3作目で、内蔵メモリは256GB。メタデータ自動付与機能を備えており、写真撮影時にカメラの情報、撮影者、撮影日時、撮影方法が画像データに記録される。記録情報は{target=“_blank”}またはLeica FOTOSアプリで確認可能だ。
+
+コンテンツクレデンシャル機能によりデータの元情報が確認できるが、メタデータが除去される可能性も指摘されている。M11-Pの価格は税込147万4000円。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 10 Nov 2023 09:45:54 +0000</pubDate></item><item><title>英ガーディアンがAI自動生成コンテンツでマイクロソフトを非難　社長宛ての書簡と紙面で</title><link>https://ledge.ai/articles/microsoft_accused_of_damaging_guardians_reputation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -339,25 +359,7 @@ X世代では、「仕事を手伝ってくれるもの」が37.3%で最多と�
 :::
 :::box
 
-:::</description><pubDate>Sun, 05 Nov 2023 12:22:15 +0000</pubDate></item><item><title>イスラエルとガザ地区、GoogleとAppleのマップアプリ機能を一時停止</title><link>https://ledge.ai/articles/googlemap_gaza_stop</link><description>:::small
-画像の出典：GoogleMapをLedge.ai編集部でスクリーンショット取得（2023/11/6）
-:::
-
-GoogleやAppleのマップアプリについて、道路の交通状況をリアルタイムで表示する機能が非表示になったと、2023年10月24日に{target=“_blank”}が報じた。これはイスラエル国防軍が準備している、ガザでの地上作戦に関連する措置とみられている。
-
-Googleの広報担当者は「紛争状況や地域の状況の進展に応じてこれまで行ってきたように、地域社会の安全を考慮して、ライブの交通状況や混雑情報を見る機能を一時的に無効にした」とBloombergに述べた。
-
-軍の動きが交通情報から推測されるリスクを避けるためであり、GPSナビアプリ「Waze」も同地域の交通情報表示を停止している。なおナビゲーションシステムを使用するドライバーは、引き続き実際の状況に基づいた推定到着時刻を受け取ることができる。
-
-同社は昨年、ロシアによるウクライナ侵攻を受けてウクライナでも同様の措置を講じ、リアルタイムの車両と歩行者の交通量データを無効にした。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 06 Nov 2023 06:25:03 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Sun, 05 Nov 2023 12:22:15 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
