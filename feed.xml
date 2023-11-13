@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 20:31:59 +0000</lastBuildDate><item><title>サイバーエージェント　日本語LLMバージョン２を公開ーー商用利用可能・32,000トークン対応のチャットモデル</title><link>https://ledge.ai/articles/cyberagent_japanese_llm_ver2</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 20:31:59 +0000</lastBuildDate><item><title>YouTube、コメント要約と対話型AIツールの新機能テストを開始</title><link>https://ledge.ai/articles/youtube_test_ai</link><description>:::small
+画像の出典：
+:::
+
+
+米国Google傘下のYouTubeは2023年11月6日、視聴者向けの2つの生成AIツールのテストを開始したと{target=“_blank”}した。
+
+1つ目は、AIが公開コメントをトピックごとに要約する新機能だ。英語の動画が多いコメントに対してテストを実施している。モバイル版でコメント欄を開くと、トピック別のソートオプションが表示される。YouTube Premiumメンバーは、{target=“_blank”}でベータ版の新機能を試せる。
+
+2つ目は、動画視聴中に使用できる対話型AIツールだ。内容の質問や関連コンテンツの推薦が可能。特定の学術的な動画でクイズ提供するなどの、理解を深めるための機能もテストしている。少数のユーザーによるテストが行われており、米国内のYouTube PremiumメンバーがAndroidデバイスで数週間以内にテスト可能になる予定だ。
+
+YouTubeはこれらを小規模から開始し、フィードバックを収集するとしている。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 10 Nov 2023 09:57:46 +0000</pubDate></item><item><title>サイバーエージェント　日本語LLMバージョン２を公開ーー商用利用可能・32,000トークン対応のチャットモデル</title><link>https://ledge.ai/articles/cyberagent_japanese_llm_ver2</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -318,37 +338,7 @@ Grokは、他のほとんどのAIシステムで拒否されるような難し�
 :::box
 
 :::
-</description><pubDate>Tue, 07 Nov 2023 11:18:59 +0000</pubDate></item><item><title>NTT独自のLLM「tsuzumi」　2024年3月に商用サービス提供予定　軽量化でコスト低減しつつGPT-3.5上回る日本語処理能力</title><link>https://ledge.ai/articles/ntt_llm_tsuzumi</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NTTは2023年11月1日、軽量で世界トップレベルの日本語処理能力を有する新しい大規模言語モデル（LLM）「tsuzumi」を{target=“_blank”}した。2024年3月からの商用サービス提供を予定している。tsuzumiは、パラメータ数6億の超軽量版と70億の軽量版の2種類を提供し、それぞれCPUおよび1GPUで高速に推論動作が可能であるため、チューニングや推論にかかるコストを大幅に削減できる。この取り組みにより、同社は持続可能性と経済的負担の軽減を図るという。
-
-
-同社は、GPT-3と比較した学習コストと推論コストを挙げ、tsuzumiが大幅なコスト低減に成功していることを示した。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-また、生成AI向けのベンチマークであるRakudaではGPT-3.5をはじめ、他の大規模言語モデルと比較しても高い勝率を示す性能評価を得たとしている。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 06 Nov 2023 08:43:20 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 07 Nov 2023 11:18:59 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
