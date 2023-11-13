@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 20:24:56 +0000</lastBuildDate><item><title>ライカ　生成AIなどのフェイク画像から写真の真正性を保証　世界初の「コンテンツクレデンシャル機能」搭載</title><link>https://ledge.ai/articles/contentcredentials_leica</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 20:31:59 +0000</lastBuildDate><item><title>サイバーエージェント　日本語LLMバージョン２を公開ーー商用利用可能・32,000トークン対応のチャットモデル</title><link>https://ledge.ai/articles/cyberagent_japanese_llm_ver2</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+サイバーエージェントは2023年11月2日、70億パラメータ・32,000トークン対応の日本語大規模言語モデル（LLM）を公開したことを{target=“_blank”}した。
+
+同社は2023年5月には国内の自然言語処理技術の発展への寄与を目的とし「CyberAgentLM」を一般公開しており、その後もLLMに関する研究開発を続けていた。様々なモデルを開発するとともに、「極予測AI」をはじめとするサービスにおいて活用を進めているという。
+
+今回公開したモデルは、日本語および英語データで事前学習を行った70億パラメータのベースモデルであるCyberAgentLM2-7Bと、チャット形式でのチューニングを行ったCyberAgentLM2-7B-Chatの2種類。CyberAgentLM2-7B-Chatは入出力の長さとして32,000トークンに対応しており、日本語の文章であれば一度に約50,000文字を処理できるとのこと。
+
+モデルは、AIの開発プラットフォームHuggingFace Hubにて公開され、商用利用も可能なApache License 2.0で提供されている。
+公開URL：{target=“_blank”}
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 10 Nov 2023 20:31:59 +0000</pubDate></item><item><title>ライカ　生成AIなどのフェイク画像から写真の真正性を保証　世界初の「コンテンツクレデンシャル機能」搭載</title><link>https://ledge.ai/articles/contentcredentials_leica</link><description>:::small
 画像の出典：Nick Rains Explains - Leica Content Credentials in the M11-P
 :::
 
@@ -329,37 +348,7 @@ NTTは2023年11月1日、軽量で世界トップレベルの日本語処理能�
 :::box
 
 :::
-</description><pubDate>Mon, 06 Nov 2023 08:43:20 +0000</pubDate></item><item><title>生成AIのイメージ　Z世代「おもしろいコンテンツを生み出す」、中高年「仕事を手伝ってくれる」Adobe意識調査</title><link>https://ledge.ai/articles/adobe_reserch_genai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Adobeは2023年10月26日、全国の15歳～65歳の男女900名を対象にした、「XYZ世代間 （X世代：40-65歳／Y世代：25-39歳／Z世代：15-24歳）のAIに対する意識と使用実態調査」の結果を{target=“_blank”}した。
-
-生成AIの認知状況では、世代間の傾向に差は見られないものの、X世代で最多。生活の中で目に触れる生成AIの比率はZ世代で最多であり、使用状況では、どの種類の生成AIにおいてもＹ世代の利用が最も高かった。
-
-また、生成AIに対するイメージでは、Z世代とY世代の意識が近い傾向を見せ「おもしろいコンテンツを生み出すもの」がZ世代で39.0％、Y世代で34.0％と両方の世代で最多となり、続いて「仕事を手伝ってくれるもの」、「簡単に情報を検索してくれるもの」と続いた。
-
-X世代では、「仕事を手伝ってくれるもの」が37.3%で最多となり、続いて「簡単に情報を検索してくれるもの」、「情報を検索してくれるもの」といった回答が得られたという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「XYZ世代間のAIに対する意識と使用実態調査」概要
-調査方法：インターネット調査
-実施対象：全国 男女　15-65歳　900人
-（X世代：40-65歳／Y世代：25-39歳／Z世代：15-24歳、世代・性別それぞれ均等割り付け）
-調査期間：2023年7月5日～2023年7月6日
-
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Sun, 05 Nov 2023 12:22:15 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 06 Nov 2023 08:43:20 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
