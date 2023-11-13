@@ -2053,7 +2053,31 @@ Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは
 :::box
 
 :::
-</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>MidjourneyとStability AIの著作権問題「実質的類似性」証明できず　アーティストたちの訴え棄却</title><link>https://ledge.ai/articles/lawsuit_against_stabilityai_dismissed</link><description>:::small
+</description><pubDate>Tue, 12 Sep 2023 06:40:14 +0000</pubDate></item><item><title>「人間中心」を最優先、政府がAI事業者向けのガイドライン原案提示
+</title><link>https://ledge.ai/articles/human_centered_guideline_japan</link><description>:::small
+画像の出典：写真AC
+:::
+
+日本政府がAI関連の国内事業者向けに策定を進めるガイドライン（指針）の原案が判明したと、2023年11月8日に{target=“_blank”}が報じた。全ての事業者が共通して考慮すべき指針として「公平性」「透明性」などの10原則を掲げており、有識者による「AI戦略会議」での議論を経て年末までに決定する方針。
+
+原案は、11月7日の同会議で非公式に提示された。対象は省庁や公的機関も含む、全てのAI事業利用者だ。10原則の中で「人間中心」を最優先とし「個人の尊厳を尊重し、生じうる不利益に慎重に留意する」「人間の意思決定や感情を不当に操作することを目的としたAIの開発・提供は行わない」ことなどを求めた。
+
+偽情報対策については、社会を混乱させるリスクを認識した上で「必要な対策を講じる」とした。公平性の原則では、AIのバイアス（偏り）を防ぐために人間の判断が介在することを強調。
+
+透明性の原則では、データ収集の方法に関する情報提供を、また説明責任の原則ではデータの出所追跡を要求した。具体的な著作権侵害などの課題には触れなかった。
+
+開発事業者には第三者が検証可能な文書化を留意事項とし、提供事業者と利用事業者にもそれぞれ留意事項を記した。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 10 Nov 2023 09:49:28 +0000</pubDate></item><item><title>MidjourneyとStability AIの著作権問題「実質的類似性」証明できず　アーティストたちの訴え棄却</title><link>https://ledge.ai/articles/lawsuit_against_stabilityai_dismissed</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2279,23 +2303,7 @@ AIは住友電気工業らが開発した。2022年度から渋滞予測活用�
 
 
 
-</description><pubDate>Mon, 16 Oct 2023 00:50:50 +0000</pubDate></item><item><title>大阪観光局、20か国語対応の多言語生成AIチャットボットで観光案内拡充10月16日よりーー大阪・関西万博見据え</title><link>https://ledge.ai/articles/osaka_tourism_genai_chatbot</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-大阪観光局は2023年9月26日、対話型AIによる観光案内サービスを拡充すると{target=“_blank”}した。
-
-急増する訪日外国人旅行者に対して多言語受入能力を高めるべく、大阪公式観光情報サイトの「OSAKA-INFO」にこれまで設置してきたAIチャットボットから、日本初導入となる20言語以上に対応可能な生成AIチャットボットに刷新する。10月16日より、JTBとKotoznaの多言語生成AIチャットボットサービス「Kotozna laMondo」を公式サイトにて使用開始。レストランの予約、防災情報の提供も可能になる見通しで、今後は大阪観光局公式・観光アプリ「Discover Osaka」にも搭載予定。
-
-大阪観光局は2025年の大阪・関西万博に向け、生成AIチャットボットを活用した観光案内所やコールセンターでの多言語問い合わせの利便性向上と、観光情報の管理業務の省力化を両立することで、来阪する訪日外国人観光客へのおもてなしの向上を目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 11 Oct 2023 02:46:26 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+</description><pubDate>Mon, 16 Oct 2023 00:50:50 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
