@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 Nov 2023 20:31:59 +0000</lastBuildDate><item><title>YouTube、コメント要約と対話型AIツールの新機能テストを開始</title><link>https://ledge.ai/articles/youtube_test_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 13 Nov 2023 02:26:06 +0000</lastBuildDate><item><title>「GPT-5」に関するサム・アルトマン氏の最新の見解　初の開発者会議「OpenAI DevDay」で</title><link>https://ledge.ai/articles/openai_what_must_be_done_before_gpt5</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国OpenAIが初の開発者会議「OpenAI DevDay」を2023年11月6日に開催し、多くの新機能を{target=“_blank”}した。
+
+最高経営責任者（CEO）サム・アルトマン氏は、2023年4月に参加したMITのカンファレンスで「GPT-5」の開発はまだ始めておらず、当面は計画もないと{target=“_blank”}が、同年7月には米国特許商標庁のデータベースから、OpenAIが「GPT-5」の商標登録に{target=“_blank”}ことが明らかになっている。出願内容にはマルチモーダルLLMを想定した内容が見て取れたという。
+
+このたび開発者会議後の記者会見で同氏は、今後の方向性について「GPT-5と呼ぶモデルを開発する前に、われわれが解決しなければならないことはまだたくさんある」「リリース時期の予測は困難」と述べたと{target=“_blank”}が報じている。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 13 Nov 2023 02:26:06 +0000</pubDate></item><item><title>YouTube、コメント要約と対話型AIツールの新機能テストを開始</title><link>https://ledge.ai/articles/youtube_test_ai</link><description>:::small
 画像の出典：
 :::
 
@@ -314,34 +332,7 @@ ChatGPT Plusおよびエンタープライズユーザーは「Canva」「Zapier
 :::
 
 
-</description><pubDate>Wed, 08 Nov 2023 00:51:45 +0000</pubDate></item><item><title>イーロン・マスクの新AI「Grok」公開 最新情報へのアクセス実現</title><link>https://ledge.ai/articles/grok_xai</link><description>:::small
-画像の出典：xAI
-:::
-
-イーロン・マスク氏率いるxAI（エックス・エーアイ）社は2023年11月4日、独自の言語モデル{target=“_blank”}を公開した。
-
-多くの既存の大規模言語モデルは、インターネットから収集された過去の情報に依存している。Grokは、リアルタイムで最新の情報にアクセスできるという特徴を持つ。月16ドルの上位料金プラン向けだ。
-
-マスク氏が公開したデモでは、Grokが2023年11月3日のFTX創設者の有罪判決という最新ニュースを出力した。Grokの回答は「おお、親愛なる人類」というフレーズで始まり、ユーモアを取り入れたキャラクターであるようにみえる。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Grokは、他のほとんどのAIシステムで拒否されるような難しい質問にも答えるという。なお11月7日時点では早期アクセスプログラムとして限られた利用者に提供されており、xAIのサイトから{target=“_blank”}に参加できる。
-
-
-またマスク氏はこれに先立ち、AIの安全性を議論する国際会議「AI安全サミット」への出席に合わせて訪英し、11月2日にスナク首相と対談。生成AIなどの技術進化により「（人間の）仕事が不要になる時が来る」と述べ、悪用のリスクがあるためAIを巡る規制に賛同する姿勢を示している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 07 Nov 2023 11:18:59 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 08 Nov 2023 00:51:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
