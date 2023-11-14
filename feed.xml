@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 13 Nov 2023 02:26:06 +0000</lastBuildDate><item><title>「GPT-5」に関するサム・アルトマン氏の最新の見解　初の開発者会議「OpenAI DevDay」で</title><link>https://ledge.ai/articles/openai_what_must_be_done_before_gpt5</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 13 Nov 2023 02:26:06 +0000</lastBuildDate><item><title>名鉄　踏切監視カメラにAI画像解析装置を導入　踏切事故を未然に防ぐ監視システム運用を開始</title><link>https://ledge.ai/articles/meitetsu_predicting_leve_crossing_accidents</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年11月6日、名古屋鉄道、名鉄EIエンジニア、トヨタシステムズ、東邦電機工業の4社は、踏切監視システムにAI画像解析装置を導入し、本格運用を開始すると{target=“_blank”}した。
+
+踏切事故の未然防止と保安度の向上を目指し、4社は2022年12月5日より、踏切道を通行する人や車をAI画像解析で判別し、列車が接近中に人や自動車の滞留など危険な状況が確認された際に、異常を検知するシステムの実証実験を行っていた。このたび同システムを既存の踏切監視カメラと連動させる仕組みを構築し、11月10日の初列車より本格運用を開始した。
+
+新しい監視システムは、踏切内だけでなく周囲も含めて人や自動車の動きを解析し、従来よりも異常検知の精度を高める。危険と判断した際には、表示装置と連動して列車乗務員に異常を知らせる信号を表示し、事故予兆の検知と事故発生の防止を図るものだ。
+
+設置場所は、愛知県瀬戸市西追分町にある瀬戸線新瀬戸2号踏切で、2023年度中に10箇所の踏切への設置を予定している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 10 Nov 2023 20:53:44 +0000</pubDate></item><item><title>「GPT-5」に関するサム・アルトマン氏の最新の見解　初の開発者会議「OpenAI DevDay」で</title><link>https://ledge.ai/articles/openai_what_must_be_done_before_gpt5</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -307,32 +330,7 @@ ChatGPT Plusおよびエンタープライズユーザーは「Canva」「Zapier
 
 
 
-</description><pubDate>Wed, 08 Nov 2023 10:32:21 +0000</pubDate></item><item><title>AIによりお客様対応業務の一部を約50％省力化、ELYZAと東京海上日動の実証実験</title><link>https://ledge.ai/articles/elyza_tokyokaijo_experiment</link><description>:::small
-画像の出典：ELYZA
-:::
-
-
-東大発のAIスタートアップ企業ELYZAは2023年10月31日、東京海上日動火災保険との言語生成AIの実証実験の結果、一部業務で約50％の省力化に成功したと{target=“_blank”}した。これを受け、東京海上日動は実業務への言語生成AIの導入を本格検討する予定。
-
-
-今回の成果はELYZAが独自開発する国産の大規模言語モデル「ELYZA Brain」を活用し、モデル設計から体験設計まで支援して得られたものだ。
-
-物損事故と人身事故の問い合わせ複数ケースに対し、オペレーター単独で回答作成した処理時間と、言語AIの回答素案をもとに整形して回答作成した処理時間を比較し、省力化の程度を検証した。また言語生成AIが作成した回答素案をオペレーターがそのまま利用した割合についても分析を行った。
-
-20名のオペレーターの回答作成時間平均値を比較した結果、応対文面の作成業務において約50%の省力化に成功したことがわかった。また言語生成AIが作成した発話草案のうち、そのまま回答に利用された文の割合は、最低でも61％以上だった。
-
-「お客様接点」でのAI活用には、高い生成精度、応対品質、セキュリティが必要だ。今回の実証実験は、ELYZAと東京海上日動にとって初の取り組みとなった。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Wed, 08 Nov 2023 00:51:45 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Wed, 08 Nov 2023 10:32:21 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
