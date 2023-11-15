@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 Nov 2023 03:14:53 +0000</lastBuildDate><item><title>OpenAI　DDoS攻撃によりChatGPT等の断続的なサービス停止</title><link>https://ledge.ai/articles/openai_suffers_ddos_attack</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 Nov 2023 08:14:24 +0000</lastBuildDate><item><title>ポケトークが「ポケトーク for BUSINESS 同時通訳」のWebブラウザ版を発表</title><link>https://ledge.ai/articles/poketalk_for_business_browser</link><description>:::small
+画像の出典：ポケトーク
+:::
+
+
+ポケトークは2023年11月9日に「ポケトーク for BUSINESS 同時通訳」のWebブラウザ版の提供を開始したと{target=“_blank”}した。
+
+@
+
+
+「ポケトーク for BUSINESS 同時通訳」（2023年3月発表）は、10言語の音声と字幕をリアルタイムで74言語に翻訳するサービスだ。これまではインストール版だったが、今回の製品はWebブラウザ上で利用可能で、インターネット接続があればスマートフォン、PC、タブレットで使用できる。ブラウザ上で使用できるため、セキュリティの観点でソフトウェアのダウンロードが困難な法人でも導入が容易になる。
+
+オンライン会議だけでなく、対面の場でも使用可能。サービスは英語、日本語、韓国語、中国語、スペイン語、ドイツ語、フランス語、イタリア語、ポルトガル語、ロシア語に対応している。利用料は月額3,300円または年額39,600円。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Tue, 14 Nov 2023 08:14:24 +0000</pubDate></item><item><title>OpenAI　DDoS攻撃によりChatGPT等の断続的なサービス停止</title><link>https://ledge.ai/articles/openai_suffers_ddos_attack</link><description>:::small
 画像の出典：[DALL-E3によりLedge.aiが生成]
 :::
 
@@ -240,32 +264,7 @@ Amazonは1億6千万人を超えるプライム会員のデータを基にター
 
 :::
 
-</description><pubDate>Thu, 09 Nov 2023 08:59:59 +0000</pubDate></item><item><title>ベネッセが生成AI活用　制作/運用コスト40％削減、制作期間50％短縮　「進研ゼミ中学講座」Webサイトで</title><link>https://ledge.ai/articles/benesse_next_generation_website_project</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ベネッセホールディングスは2023年10月27日、「進研ゼミ 中学講座」のサイト制作においてコスト４割減、制作期間８週間から３週間への短縮に成功したと{target=“_blank”}した。
-
-7月より、株式会社メンバーズ、株式会社ビービットの支援で「次世代型Webサイトプロジェクト」を開始。生成AI、ノーコードツールなどの最適なソリューションを活用して業務プロセスを再構築し、運用を高度化するPoCを実施している。ライティング業務では、顧客にとって分かりやすい説明文をAIが自動生成することで作業工数を削減した。Web専用の質の高いコピーを短納期で提供できるようにもなったという。また、専門知識がなくても使えるデザインテンプレートとノーコードCMSを導入し、サイト制作と運用の効率を大きく向上させ、コスト削減と制作期間の短縮を実現した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-本年度より段階的に新体制に移行し、2024年4月以降には既存のWebサイトの業務プロセスを全面的に改革し、顧客体験の向上ならびに、生産性向上を実現するという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 07 Nov 2023 13:54:32 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Thu, 09 Nov 2023 08:59:59 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
