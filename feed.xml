@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 Nov 2023 08:14:24 +0000</lastBuildDate><item><title>ポケトークが「ポケトーク for BUSINESS 同時通訳」のWebブラウザ版を発表</title><link>https://ledge.ai/articles/poketalk_for_business_browser</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 Nov 2023 08:18:12 +0000</lastBuildDate><item><title>Amazon、GPT-4超の2兆パラメータの大規模言語モデル「Olympus」開発中か</title><link>https://ledge.ai/articles/amazon_olympus</link><description>:::small
+画像の出典：
+:::
+
+
+Amazonがコードネーム「Olympus（オリンパス）」と呼ばれる大規模言語モデル（LLM）を開発中であると{target=“_blank”}が2023年11月8日に報じた。
+
+OpenAIのGPT-4モデルは1兆個のパラメータを持つとされ、現在入手可能なモデルの中で最高のひとつだ。関係者によるとOlympusには約2兆個のパラメータがあり、これは訓練対象のモデルとして最大級の可能性がある。
+
+プロジェクトの責任者はAlexaの元責任者Rohit Prasad氏。Amazonはすでに小規模なモデル「Titan」をトレーニングしており、AnthropicやAI21 Labsなどの企業と提携している。AWS上で自社製モデルを導入し、企業顧客に最高性能のモデルへのアクセスを提供することを目指しているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 14 Nov 2023 08:18:12 +0000</pubDate></item><item><title>ポケトークが「ポケトーク for BUSINESS 同時通訳」のWebブラウザ版を発表</title><link>https://ledge.ai/articles/poketalk_for_business_browser</link><description>:::small
 画像の出典：ポケトーク
 :::
 
@@ -244,27 +266,7 @@ Amazonは1億6千万人を超えるプライム会員のデータを基にター
 
 
 
-</description><pubDate>Fri, 10 Nov 2023 09:42:38 +0000</pubDate></item><item><title>「全部AIで作った」 パルコの新ファッション広告は人間モデル不在</title><link>https://ledge.ai/articles/parco_ai_model</link><description>:::small
-画像の出典：パルコ
-:::
-
-株式会社パルコは2023年10月30日、最先端の画像生成AIを使用したファッション広告「HAPPY HOLIDAYSキャンペーン」を制作・公開したと{target=“_blank”}した。
-
-最先端の画像生成AIを使用して、実際のモデル撮影を行わずにファッション広告を制作。人物から背景、グラフィック・ムービー、ナレーション、音楽までを全て生成AIで作成した。
-
-この広告では、LA在住の「木之村美穂(STUDIO DOG代表)」をクリエイティブディレクターに迎え制作。また世界トップクラスのAI・デジタルクリエイター「Ai-Editorial – Christian Guernelli」を、日本企業で初めて起用したとのこと。
-
-パルコは前例のない新しい技術をいち早く取り入れることも、企業としての存在価値（パーパス）と考えている。画像生成AIとトップクラスのクリエイターによるキャンペーン広告制作は、将来的な進化の可能性を探るチャレンジングな試みだとしている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 09 Nov 2023 08:59:59 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 10 Nov 2023 09:42:38 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
