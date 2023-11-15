@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 13 Nov 2023 10:12:52 +0000</lastBuildDate><item><title>サムスンが「Galaxy AI」を2024年初頭リリース、オンデバイスAIとクラウドベースAIどちらも活用</title><link>https://ledge.ai/articles/samsung_galaxy_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 Nov 2023 03:14:53 +0000</lastBuildDate><item><title>OpenAI　DDoS攻撃によりChatGPT等の断続的なサービス停止</title><link>https://ledge.ai/articles/openai_suffers_ddos_attack</link><description>:::small
+画像の出典：[DALL-E3によりLedge.aiが生成]
+:::
+
+米国OpenAIは現地時間の2023年11月8日、ChatGPTおよびAPIの断続的な停止を確認したとステータスページで{target=“_blank”}した。11月9日の13時（日本時間の10日6時）過ぎ、サービスの正常な状態への復旧が発表された。このインシデントは、API、ChatGPT、Labs、Playgroundに影響を及ぼした。同社は、これがDDoS攻撃による異常なトラフィックパターンが原因であると{target=“_blank”}で述べた。
+
+DDoS攻撃は、複数のコンピューターやデバイスを利用してターゲットとなるサーバーまたはネットワークに大量のデータ通信を送り込むことによって、正常なサービスを妨害する。今回の攻撃は、OpenAI初の開発者会議「OpenAI Dev Day」での発表前後に大きく影響を受けている。
+
+攻撃の詳細は明らかにされていないが、Anonymous Sudanを名乗るハクティビスト集団がTelegramで犯行声明を投稿し、ChatGPTがイスラエルとパレスチナに偏見を持っておりそれを修正する目的だと主張している​と複数メディアで報じられている。
+
+!
+:::small
+画像の出典：[Anonymous Sudan のTelegram投稿より]
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 14 Nov 2023 03:14:53 +0000</pubDate></item><item><title>サムスンが「Galaxy AI」を2024年初頭リリース、オンデバイスAIとクラウドベースAIどちらも活用</title><link>https://ledge.ai/articles/samsung_galaxy_ai</link><description>:::small
 画像の出典：Samsung Electronics
 :::
 
@@ -241,74 +265,7 @@ Amazonは1億6千万人を超えるプライム会員のデータを基にター
 :::
 :::box
 
-:::</description><pubDate>Tue, 07 Nov 2023 13:54:32 +0000</pubDate></item><item><title>【AI TALK NIGHT】どこよりも早く2023年を振り返る『 Ledge.ai 23to24』｜vol.19</title><link>https://ledge.ai/articles/ai-talk-night-vol19</link><description>レッジが主催する、他業界の方と交流できる無料のオフラインイベント「AI TALK NIGHT」第19回開催のお知らせです。
-
-:::button
-
-:::
-
-## AI TALK NIGHT とは
-AI TALK NIGHTとは、レッジが主催する参加費無料の交流会イベントです。
-AIに携わる全ての方々へ向けて、参加者のネットワークを拡大する機会や、最先端の技術・事例を共有する場を提供し、皆様の企業発展へ貢献いたします。
-
-**参加者交流会**
-トークセッション前後には、多様なバックグラウンドを持った参加者と情報交換ができる、交流会を行います。ぜひ多くの方との情報交換や他者理解の場として活用ください。
-
-**トークセッション**
-各回トークセッションも行っております。
-AIの有識者をゲストにお迎えし、ゲストのAI関連の取り組みや事例紹介、最新テクノロジーなどについて語っていただきます。ざっくばらんなトークセッションとなりますので、どうぞお気軽に自社の悩みや質問をぶつけてください。
-
-:::box
-【過去のトークテーマ（一部）】
-- 
-- 
-:::
-
-### **今回のトークテーマ**
-早くも2023年も残り1ヵ月となりました。今回は、2023年12月1日公開の年末年始特集「Ledge.ai 23to24」より、一足先にコンテンツの一部をご紹介！ 
-実際に今年Ledge.aiで取り上げたニュースを用いながら、AI界隈の「2023年のニュース」についてキーワードとともに振り返ります。2023年を振り返り、来年度のAIを見つめ直す機会にとして、是非ご参加ください。
-
-:::button
-
-:::
-
-## 開催概要
-### **イベント名**
-どこよりも早く2023年を振り返る『 Ledge.ai 23to24』 in AI TALK NIGHT
-### **イベント会場**
-株式会社レッジ本社
-東京都品川区西五反田１丁目１−８ NMF五反田駅前ビル 7F
-JR山手線 五反田駅 徒歩 1分
-都営浅草線 五反田駅 A1出口 徒歩1分
-### **開催日時**
-2023年11月29日（水）　18:30~20:30
-### **参加費**
-無料
-### **タイムスケジュール**
-18:00-　開場・受付開始
-18:30-　開会
-18:35-　参加者交流会（40分）
-　※お飲み物とお食事をご用意しています
-19:15-　トークセッション（45分）
-20:00-　参加者交流会（25分）
-20:25-　閉会
-20:30 　解散
-
-### **参加人数**
-〜30名
-※開場の関係上、人数制限を設けております
-※先着順で参加申し込みを締め切らせていただきます
-### **諸注意**
-- 受付や名札、懇親会などにて名刺が必要となります。2枚以上の名刺をご持参いただきますよう、お願いいたします。
-- お荷物を預かるクロークを準備しております。(無料)
-- 服装自由です。
-- 他の参加者のご迷惑になる勧誘行為等はお控えください。
-- 本イベントの様子をSNSやWeb上に掲載する可能性があります。客席を含む会場内の写真が使用されることがありますので、予めご了承ください。
-- やむを得ない事情によりイベントの開催を見合わせる場合もございます。その際は事前にご案内いたしますので、ご不明な点がございましたらお問い合わせください。
-
-:::button
-
-:::</description><pubDate>Wed, 08 Nov 2023 04:47:03 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Tue, 07 Nov 2023 13:54:32 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
