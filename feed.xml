@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 Nov 2023 05:08:10 +0000</lastBuildDate><item><title>「AIピカソ」「AIいらすとや」を提供するAI Picassoの舞台裏　サービス理念や「GPU問題」について代表にインタビュー</title><link>https://ledge.ai/articles/conoha-1</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 Nov 2023 05:15:37 +0000</lastBuildDate><item><title>「AIピカソ」「AIいらすとや」を提供するAI Picassoの舞台裏　サービス理念や「GPU問題」について代表にインタビュー</title><link>https://ledge.ai/articles/conoha-1</link><description>:::box
 **膨大なデータ量の学習を行うAI（人工知能）の開発においては、GPUは必要不可欠と言える。しかし、「GPUサーバーに適したデータセンターが少ない」「生成AIブームによる世界的な需要の高まりで、GPUが調達できない場合がある」など、乗り越えなければならない課題もいくつかある。では、AIサービス事業者は、どのようにGPUを利用しているのだろうか？**
 **今回、GMOインターネットグループ株式会社が8月より提供を行ったGPUホスティングサービス『ConoHa byGMO』のトライアル版を利用した各社へインタビューを行った。全3回の連載でお届けする。本稿は1回目。**
 :::
@@ -2299,7 +2299,31 @@ AIは住友電気工業らが開発した。2022年度から渋滞予測活用�
 
 
 
-</description><pubDate>Mon, 16 Oct 2023 00:50:50 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
+</description><pubDate>Mon, 16 Oct 2023 00:50:50 +0000</pubDate></item><item><title>渡辺謙氏「ようやくお知らせすることができます」ハリウッドストが終結し宣伝活動も解禁</title><link>https://ledge.ai/articles/hollywood_strike_comes_to_an_end</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+俳優の渡辺謙氏が2023年11月9日、自身のXやInstagramなどの公式SNSアカウントで、アメリカ俳優組合のスト終結に伴い、出演作品の宣伝がようやくできると{target=“_blank”}した。
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+このストライキは、同年7月14日、全米の俳優ら16万人が加入する映画俳優組合（SAG-AFTRA）によって決行され、映画やドラマの製作現場に多大な影響を与えた。
+
+{target=“_blank”}は11月10日、2023年TV/映画契約の仮合意を承認し、組合員への承認投票を呼びかけた。この内容は、映画・テレビプロデューサー連盟（AMPTP）との間で11月8日に暫定合意に達したもの。組合の全国理事会は賛成多数でこの合意を承認し、組合員にも「yes」と投票することを推奨した。
+
+主な合意内容は、新たな賃金と福利厚生制度の資金として総額10億ドル以上に相当する契約、AIの使用に関する意味ある保護（合意と報酬に関する情報の提供を含む）、そして初めての史上最大の賃金増加（2024年7月に11.28%、2025年7月に3.5%の増加）が含まれているという。
+
+AMPTPは、この暫定合意について「新しいパラダイムを代表するものであり、SAG-AFTRAにとって史上最大の契約上の利益をもたらすものである。これには、過去40年間で最大の最低賃金の増加、ストリーミングプログラムのための新たな残業代、AI使用に関する広範な同意と報酬の保護、そして全面的な契約項目の大幅な増加が含まれている」と{target=“_blank”}いる。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 15 Nov 2023 05:15:37 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
 画像の出典：Adobe
 :::
 
@@ -2568,28 +2592,4 @@ Redditでは9月25日、SteamがChatGPTで翻訳したゲームをリジェク�
 :::
 :::box
 
-:::</description><pubDate>Fri, 22 Sep 2023 08:50:04 +0000</pubDate></item><item><title>ChatGPT 画像も生成可能に 新AI「DALL-E 3」導入--著名人のフェイク画像など安全性にも配慮</title><link>https://ledge.ai/articles/openai_dall-e3</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国OpenAIは現地時刻の2023年9月20日、画像生成AI「DALL-E3」を{target=“_blank”}した。10月初旬には有料版「ChatGPT Plus」および法人版「ChatGPT Enterprise」の顧客に提供予定。
-
-2021年に発表された「DALL-E」は、文章と画像のペアのデータセットを使用して、文章による説明から画像を生成するようトレーニングされたモデル。2022年にはその4倍の解像度で画像を生成する「DALL-E2」が発表された。
-
-このたび公開された「DALL-E3」は、OpenAIの対話型AI（チャットボット）「ChatGPT」と完全に連携し、高度なニュアンスや詳細な情報を理解し、文章による指示（プロンプト）により忠実な画像を生成する。有料版と法人版ChatGPTのサービスとして提供され、ユーザーはChatGPTとの文章のやりとりを介し画像を生成できる。生成した画像はユーザーのものとしてOpenAIの許可なく転載・販売等の商用利用が可能とされている。
-
-DALL-E3は安全性へ配慮し、暴力的、成人向け、あるいはヘイトを生むコンテンツの生成を制限できるという。公人や著名人の名前による画像生成の要求を拒否する緩和策も備えた。
-
-また、現存するアーティストの作風の要求を拒否する設計となっているという。クリエイター自身でも、自分の作品がモデルの訓練に使われないよう除外する要求（オプトアウト申請）できる。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 22 Sep 2023 06:24:44 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 22 Sep 2023 08:50:04 +0000</pubDate></item></channel></rss>
