@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 Nov 2023 06:40:52 +0000</lastBuildDate><item><title>人口3,200人の村から世界初のデジタル活用事例を｜ CEATEC2023講演レポート</title><link>https://ledge.ai/articles/ceatec2023_lecture_report</link><description>IT技術とエレクトロニクスの展示会「CEATEC 2023」が2023年10月17日から20日にかけて幕張メッセで開催された。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 Nov 2023 00:54:22 +0000</lastBuildDate><item><title>手のひらに投映するウェアラブル端末「Ai Pin」発表 Apple出身のエンジニア、デザイナーが設立のヒューメイン
+</title><link>https://ledge.ai/articles/humane_ai_pin</link><description>:::small
+画像の出典：
+:::
+
+ヒューメイン社は2023年11月9日、ピンマイクのように胸元に装着するウエアラブル端末を{target=“_blank”}した。スマートフォンのような画面はなく、声や手の動きで通話や情報検索、翻訳ができる。同社は米国アップル出身のエンジニアやデザイナーらが設立した企業。
+
+
+!
+:::small
+画像の出典：ヒューメイン
+:::
+
+
+Ai Pinは手のひらに投影するレーザーインクディスプレイを搭載したウェアラブルデバイスだ。タッチパッド、ジェスチャー、音声で操作する。検索機能「Ai Mic」、多言語通訳、音楽配信サービス「TIDAL」との連携、健康管理機能、メッセージ作成、カメラ機能などAI機能を多数搭載している。
+
+OSは独自の「Cosmos」を採用。AIソフトウェアフレームワーク「Ai Bus」により、アプリのダウンロードや起動などの操作が不要となる。
+
+構成はメインユニットとバッテリーの2ピース。Qualcomm AI Engineを搭載したSnapdragonプロセッサ、RGBカメラ、深度センサー、モーションセンサー、スピーカーを装備している。メモリは4GB、ストレージは32GB eMMCだ。
+
+プライバシー保護のため「ウェイクワード」なしでユーザーの関与時のみ起動する設計で、「Trust Light」で起動状態を点灯表示する。
+
+本体サイズ/重量はメインユニットが44.5×14.98×47.5mm/34.2g、バッテリーが45.2×8.25×47.16mm/20.5g。
+
+Ai Pinの注文は、11月16日から受け付ける。価格は699ドル（約10万5000円）から。サブスクリプションは専用の電話番号、無制限の通話、テキスト、データが提供され、月額24ドルだ。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 16 Nov 2023 00:54:22 +0000</pubDate></item><item><title>人口3,200人の村から世界初のデジタル活用事例を｜ CEATEC2023講演レポート</title><link>https://ledge.ai/articles/ceatec2023_lecture_report</link><description>IT技術とエレクトロニクスの展示会「CEATEC 2023」が2023年10月17日から20日にかけて幕張メッセで開催された。
 CEATEC 2023には684社・団体が出展し、前年の562社・団体を大きく上回った。10万人を見込んでいた会期4日間の登録来場者数は 89,047人となった（前年比 9.1%増）。
 
 :::box
@@ -356,27 +390,7 @@ YouTubeはこれらを小規模から開始し、フィードバックを収集�
 :::
 :::box
 
-:::</description><pubDate>Fri, 10 Nov 2023 20:31:59 +0000</pubDate></item><item><title>ライカ　生成AIなどのフェイク画像から写真の真正性を保証　世界初の「コンテンツクレデンシャル機能」搭載</title><link>https://ledge.ai/articles/contentcredentials_leica</link><description>:::small
-画像の出典：Nick Rains Explains - Leica Content Credentials in the M11-P
-:::
-
-ライカは「コンテンツクレデンシャル機能」を内蔵した世界初のカメラ{target=“_blank”}を2023年10月26日に発表した。
-
-@
-
-コンテンツクレデンシャル機能は、撮影した写真の真正性を担保するために、撮影者の名前や撮影日時、編集に使用したツール、変更点などの情報を電子透かしとして添付できる認証機能だ。誤報や偽情報の増加や生成AIなどに対して、デジタルエコシステムの信頼性を確保するために開発された。
-
-M11-Pはこの機能を備えた世界初のカメラだ。M11シリーズの第3作目で、内蔵メモリは256GB。メタデータ自動付与機能を備えており、写真撮影時にカメラの情報、撮影者、撮影日時、撮影方法が画像データに記録される。記録情報は{target=“_blank”}またはLeica FOTOSアプリで確認可能だ。
-
-コンテンツクレデンシャル機能によりデータの元情報が確認できるが、メタデータが除去される可能性も指摘されている。M11-Pの価格は税込147万4000円。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 10 Nov 2023 09:45:54 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 10 Nov 2023 20:31:59 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
