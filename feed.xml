@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 Nov 2023 00:54:22 +0000</lastBuildDate><item><title>手のひらに投映するウェアラブル端末「Ai Pin」発表 Apple出身のエンジニア、デザイナーが設立のヒューメイン
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 Nov 2023 08:50:24 +0000</lastBuildDate><item><title>NTT、サカナ AI と連携を発表「AIコンステレーション研究」でサステナブルな社会を目指す</title><link>https://ledge.ai/articles/ntt_sakanaai_collaborate</link><description>:::small
+画像の出典：sakana.ai
+:::
+
+NTTとSakana AI は2023年11月13日、サステナブルな社会を目指し、小型で多様なAI同士が協力するアーキテクチャの研究開発に関する連携協定を締結したと{target=“_blank”}した。この取り組みは「AIコンステレーション」と名付けられ、複雑な社会課題の解決を目指すという。
+
+大規模言語モデル（LLM）などの生成AIが、業務効率化や新事業創出に寄与する一方で、開発には大量の計算資源が必要となる。NTTの自然言語処理技術とIOWN先端技術の研究開発と、Sakana AIの持つAIアーキテクチャ設計スキルが連携し、この課題に取り組む。
+
+この連携では、小型AIを分散配置し、効率的に連携させることで、単一のAIモデルの省電力化を図るとともに、AIコンステレーションにより新たな集合知の創出を期待するという。また、環境負荷の低減と複雑な社会課題解決への寄与を目指すとした。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 16 Nov 2023 08:50:24 +0000</pubDate></item><item><title>手のひらに投映するウェアラブル端末「Ai Pin」発表 Apple出身のエンジニア、デザイナーが設立のヒューメイン
 </title><link>https://ledge.ai/articles/humane_ai_pin</link><description>:::small
 画像の出典：
 :::
@@ -368,29 +383,7 @@ YouTubeはこれらを小規模から開始し、フィードバックを収集�
 
 :::
 
-</description><pubDate>Fri, 10 Nov 2023 09:57:46 +0000</pubDate></item><item><title>サイバーエージェント　日本語LLMバージョン２を公開ーー商用利用可能・32,000トークン対応のチャットモデル</title><link>https://ledge.ai/articles/cyberagent_japanese_llm_ver2</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-サイバーエージェントは2023年11月2日、70億パラメータ・32,000トークン対応の日本語大規模言語モデル（LLM）を公開したことを{target=“_blank”}した。
-
-同社は2023年5月には国内の自然言語処理技術の発展への寄与を目的とし「CyberAgentLM」を一般公開しており、その後もLLMに関する研究開発を続けていた。様々なモデルを開発するとともに、「極予測AI」をはじめとするサービスにおいて活用を進めているという。
-
-今回公開したモデルは、日本語および英語データで事前学習を行った70億パラメータのベースモデルであるCyberAgentLM2-7Bと、チャット形式でのチューニングを行ったCyberAgentLM2-7B-Chatの2種類。CyberAgentLM2-7B-Chatは入出力の長さとして32,000トークンに対応しており、日本語の文章であれば一度に約50,000文字を処理できるとのこと。
-
-モデルは、AIの開発プラットフォームHuggingFace Hubにて公開され、商用利用も可能なApache License 2.0で提供されている。
-公開URL：{target=“_blank”}
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 10 Nov 2023 20:31:59 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 10 Nov 2023 09:57:46 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
