@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 Nov 2023 08:50:24 +0000</lastBuildDate><item><title>NTT、サカナ AI と連携を発表「AIコンステレーション研究」でサステナブルな社会を目指す</title><link>https://ledge.ai/articles/ntt_sakanaai_collaborate</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 Nov 2023 08:50:24 +0000</lastBuildDate><item><title>米メタ、政治広告での生成AIツール使用を禁止</title><link>https://ledge.ai/articles/meta_bans_political_campaigns_from_using_its_new_aipowereda_ad_tools</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+米国メタが、2023年11月6日、AIを搭載した新たな広告ツールを政治広告に使用することを禁止すると発表した。この情報は{target=“_blank”}を含む複数のメディアが報じている。この発表は、大統領選や地方選を控えた米国では、選挙に関する誤情報の拡散を助長する可能性があると議員らが警告したためとされている。
+
+同社は「住宅、雇用、信用、社会問題、選挙、政治、健康、製薬、金融サービスに関連するキャンペーンを実施する広告主は、現在これらの生成AI機能を使用することが許可されていない」と述べている。メタは約1か月前に、AIを活用した広告ツールへのアクセスを広告主に拡大することを{target=“_blank”}していた。これらのツールは一部の広告主にのみ提供されており、来年には全世界の広告主にリリース予定だったという。
+
+また11月8日には、FacebookやInstagram上の社会問題、選挙、または政治広告がデジタルで作成または変更された場合、特にAIの使用を含む場合にそれを明示する新しい方針を{target=“_blank”}した。この新しいポリシーは、AIやデジタルツールを使用したコンテンツの透明性を高め、誤情報の拡散を防ぐことを目的としている。
+
+この方針は来年より全世界で実施され、広告主はフォトリアリスティックな画像やビデオ、リアルなオーディオが含まれる政治広告において、デジタルで作成または変更されたことを明示する必要がある。メタは広告作成フローでこの情報を広告に追加し、Ad Libraryにも表示する。必要な明示を怠った広告主にはペナルティが科される予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 16 Nov 2023 08:39:03 +0000</pubDate></item><item><title>NTT、サカナ AI と連携を発表「AIコンステレーション研究」でサステナブルな社会を目指す</title><link>https://ledge.ai/articles/ntt_sakanaai_collaborate</link><description>:::small
 画像の出典：sakana.ai
 :::
 
@@ -363,27 +380,7 @@ Galaxy AIの機能例として、リアルタイム音声・テキスト翻訳�
 :::
 :::box
 
-:::</description><pubDate>Mon, 13 Nov 2023 02:26:06 +0000</pubDate></item><item><title>YouTube、コメント要約と対話型AIツールの新機能テストを開始</title><link>https://ledge.ai/articles/youtube_test_ai</link><description>:::small
-画像の出典：
-:::
-
-
-米国Google傘下のYouTubeは2023年11月6日、視聴者向けの2つの生成AIツールのテストを開始したと{target=“_blank”}した。
-
-1つ目は、AIが公開コメントをトピックごとに要約する新機能だ。英語の動画が多いコメントに対してテストを実施している。モバイル版でコメント欄を開くと、トピック別のソートオプションが表示される。YouTube Premiumメンバーは、{target=“_blank”}でベータ版の新機能を試せる。
-
-2つ目は、動画視聴中に使用できる対話型AIツールだ。内容の質問や関連コンテンツの推薦が可能。特定の学術的な動画でクイズ提供するなどの、理解を深めるための機能もテストしている。少数のユーザーによるテストが行われており、米国内のYouTube PremiumメンバーがAndroidデバイスで数週間以内にテスト可能になる予定だ。
-
-YouTubeはこれらを小規模から開始し、フィードバックを収集するとしている。
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 10 Nov 2023 09:57:46 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Mon, 13 Nov 2023 02:26:06 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
