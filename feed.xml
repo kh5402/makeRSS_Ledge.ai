@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 Nov 2023 08:50:24 +0000</lastBuildDate><item><title>生成AIによる業務プロセス革新事例を紹介！　DX推進に役立つ無料セッションが多数｜ HULFT Technology</title><link>https://ledge.ai/articles/hulft_technology_days2023</link><description>株式会社セゾン情報システムズは2023年11月7日、「HULFT Technology Days 2023」と冠したイベントを開催した。同イベントの歴史は2011年に遡り、開始当初は「HULFT DAY」、昨年まで「HULFT DAYS」の名称で開催していたが、同社が2024年4月1日からセゾンテクノロジーへと社名変更をするにあたりイベント名もリニューアルした。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 06:01:43 +0000</lastBuildDate><item><title>世界スパコン計算速度ランキングで「富岳」4位に後退、米国「フロンティア」首位維持
+</title><link>https://ledge.ai/articles/fugaku_ranking_down</link><description>:::small
+画像の出典：写真AC
+:::
+
+
+世界のスーパーコンピューターの計算速度を競う最新のランキングを{target=“_blank”}が発表し、日本の「富岳」が前回の2位から4位に後退したことが明らかになった。米国の「フロンティア」は4期連続で首位だった。
+
+スパコンは先端技術研究のインフラの役割を担っており、各国の科学技術力を示す象徴として注目を集めている。
+
+今回のランキングでは、上位3位までを米国が占めた。オークリッジ国立研究所が運営するフロンティアの計算性能は、1秒間に119京回だ。アルゴンヌ国立研究所の「オーロラ」が新たに2位に入り、完成すればフロンティアを上回る計算能力が見込まれる。3位にはマイクロソフトの「イーグル」がランクインした。
+
+4位の富岳について日本は後継機開発を進めており、稼働開始は20年代後半以降の見通し。また5位は、フィンランドのEuroHPCセンターのHPE Cray EXシステムだった。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 17 Nov 2023 06:01:43 +0000</pubDate></item><item><title>生成AIによる業務プロセス革新事例を紹介！　DX推進に役立つ無料セッションが多数｜ HULFT Technology</title><link>https://ledge.ai/articles/hulft_technology_days2023</link><description>株式会社セゾン情報システムズは2023年11月7日、「HULFT Technology Days 2023」と冠したイベントを開催した。同イベントの歴史は2011年に遡り、開始当初は「HULFT DAY」、昨年まで「HULFT DAYS」の名称で開催していたが、同社が2024年4月1日からセゾンテクノロジーへと社名変更をするにあたりイベント名もリニューアルした。
 
 イベントは日本橋でのオフライン開催と、11月21日〜22日のオンライン開催の構成。オフライン会場では6つの講演とネットワーキングパーティーが行われた。
 
@@ -424,30 +445,7 @@ Galaxy AIの機能例として、リアルタイム音声・テキスト翻訳�
 
 :::
 
-</description><pubDate>Mon, 13 Nov 2023 10:12:52 +0000</pubDate></item><item><title>名鉄　踏切監視カメラにAI画像解析装置を導入　踏切事故を未然に防ぐ監視システム運用を開始</title><link>https://ledge.ai/articles/meitetsu_predicting_leve_crossing_accidents</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年11月6日、名古屋鉄道、名鉄EIエンジニア、トヨタシステムズ、東邦電機工業の4社は、踏切監視システムにAI画像解析装置を導入し、本格運用を開始すると{target=“_blank”}した。
-
-踏切事故の未然防止と保安度の向上を目指し、4社は2022年12月5日より、踏切道を通行する人や車をAI画像解析で判別し、列車が接近中に人や自動車の滞留など危険な状況が確認された際に、異常を検知するシステムの実証実験を行っていた。このたび同システムを既存の踏切監視カメラと連動させる仕組みを構築し、11月10日の初列車より本格運用を開始した。
-
-新しい監視システムは、踏切内だけでなく周囲も含めて人や自動車の動きを解析し、従来よりも異常検知の精度を高める。危険と判断した際には、表示装置と連動して列車乗務員に異常を知らせる信号を表示し、事故予兆の検知と事故発生の防止を図るものだ。
-
-設置場所は、愛知県瀬戸市西追分町にある瀬戸線新瀬戸2号踏切で、2023年度中に10箇所の踏切への設置を予定している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 10 Nov 2023 20:53:44 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 13 Nov 2023 10:12:52 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
