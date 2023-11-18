@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 06:01:43 +0000</lastBuildDate><item><title>世界スパコン計算速度ランキングで「富岳」4位に後退、米国「フロンティア」首位維持
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 07:18:49 +0000</lastBuildDate><item><title>世界スパコン計算速度ランキングで「富岳」4位に後退、米国「フロンティア」首位維持
 </title><link>https://ledge.ai/articles/fugaku_ranking_down</link><description>:::small
 画像の出典：写真AC
 :::
@@ -2400,7 +2400,29 @@ AIは住友電気工業らが開発した。2022年度から渋滞予測活用�
 
 
 
-</description><pubDate>Mon, 16 Oct 2023 00:50:50 +0000</pubDate></item><item><title>渡辺謙氏「ようやくお知らせすることができます」ハリウッドストが終結し宣伝活動も解禁</title><link>https://ledge.ai/articles/hollywood_strike_comes_to_an_end</link><description>:::small
+</description><pubDate>Mon, 16 Oct 2023 00:50:50 +0000</pubDate></item><item><title>AIが、ジョン・レノンの声だけ採り出し完成　ビートルズ最後の新曲『Now and Then』ミュージックビデオ公開</title><link>https://ledge.ai/articles/beatles_ai_nowandthen</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ビートルズ最後の新曲「Now and Then」が2023年11月2日にリリースされた。YouTubeの TheBeatles 公式チャンネルでは、オフィシャルの音源と共にミュージックビデオとドキュメンタリー・ショートフィルム『The Beatles - Now And Then - The Last Beatles Song』を{target=“_blank”}した。ドキュメンタリーでは、どのようにこのプロジェクトが進められたかを追っている。
+
+@
+
+今年の6月、元メンバー、ポール・マッカートニー氏がBBCのインタビューで、AIを使用して制作されたビートルズの最後の楽曲が年内にリリースされることをし話題となった。
+
+「Now and Then」は、1995年にビートルズ・アンソロジー・プロジェクトの一環としてポール、ジョージ、リンゴによって始められたが、70年代にジョンが録音したボーカルとピアノの音を分離させる技術的な課題が乗り越えられず、一旦お蔵入りとなっていた。しかし、2022年、ミュージックビデオの監督ピーター・ジャクソン氏と彼のチームが開発したAIを活用したシステムが、ドキュメンタリーシリーズ「Get Back」の製作を通じて使用され、ジョンのボーカルをピアノパートから分離する道を開いた。
+
+ドキュメンタリーの中でリンゴとポールが、ジャクソン氏の「MAL」と呼ばれるシステムがなんでも取り出してくれるため、ジョンのデモテープを渡して、彼の声を取り出してもらうことにした、と語っている。
+
+@
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 17 Nov 2023 07:18:49 +0000</pubDate></item><item><title>渡辺謙氏「ようやくお知らせすることができます」ハリウッドストが終結し宣伝活動も解禁</title><link>https://ledge.ai/articles/hollywood_strike_comes_to_an_end</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2655,42 +2677,4 @@ Redditでは9月25日、SteamがChatGPTで翻訳したゲームをリジェク�
 :::
 :::box
 
-</description><pubDate>Fri, 29 Sep 2023 04:37:08 +0000</pubDate></item><item><title>アニメ業界「生成AI規制すべき」7割超 学習データの権利問題懸念 効率化に期待も</title><link>https://ledge.ai/articles/survey_on_generative_ai_animation_industry</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本アニメフィルム文化連盟は2023年9月12日、アニメ業界を対象とした生成 AI に関する意識調査の結果を{target=“_blank”}した。
-
-同連盟によると、アニメ業界におけるAIの使用について、7割以上が「一部または全面的に規制すべき」と回答している。生成 AI を使用することで制作現場が効率化することを希望する声も多い一方、学習元データの権利等あやふやな状況のまま早急にAIを制作現場に投入することまでは想定していないという意見も多く見られたという。
-
-**「AI の使用に関する規制についてあなたはどのように考えますか？」**
-!
-全体としては「規制を強めるべきと」の見方が優勢だが、非アニメ業界従事者の 75.5%が「全面的に／例外を除いて規制すべき」と答えた一方で、アニメ業界従事者は 57%にとどまっている。同連盟では、新しい技術への期待や、常に人手不足、長時間労働といった環境に置かれている業界だからこその結果との見解を述べている。
-
-**「AI の使用に関する規制について、あなたはどのように考えますか？」アニメ業界従事者／非アニメ業界従事者の比較**
-!
-
-
-具体的にどのような規制を望むかを問うと「学習元として利用することに了承した著作物のみを使用し、無断学習に罰則を設ける」および「AI 生成物であることを明示する」との回答を約 80％の人が選択した。
-
-**「もしも AI 利用を規制するとしたらどのような規制が望ましいと思いますか？（複数回答可）」**
-!
-
-
-調査の詳細なレポートは[「アニメ業界とAI(人工知能技術)に関する意識調査 調査結果詳細」
-](https://drive.google.com/file/d/184X0N4kqw8iEmILgejvSk2Pih7NVAsAk/view){target=“_blank”}で確認できる。
-
-
-【調査概要】
-・調査期間 ：2023年6月9日〜6月30日
-・調査主体： 一般社団法人日本アニメフィルム文化連盟（NAFCA）
-・調査対象：NAFCA会員およびSNS利用者
-・有効回答数：3,854件
-・調査方法：Webアンケートツールを用いたオンライン調査
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 22 Sep 2023 08:50:04 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 29 Sep 2023 04:37:08 +0000</pubDate></item></channel></rss>
