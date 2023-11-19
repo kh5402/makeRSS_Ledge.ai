@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 07:26:41 +0000</lastBuildDate><item><title>DeNA、スマートフォン対応のリアルタイムのボイスチェンジャーをAIで開発　ジェンダーバイアスを超えたコミュニケーションの場の提供に期待</title><link>https://ledge.ai/articles/dena_realtime_voice_changer_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 10:11:58 +0000</lastBuildDate><item><title>Amazon BedrockがMeta「Llama 2」に対応、 チャット用130億パラメーターモデルで</title><link>https://ledge.ai/articles/amazon_bedrock_llama2</link><description>:::small
+画像の出典：Amazon Web Services
+:::
+
+米国Amazon Web Services（AWS）は2023年11月13日、大規模言語モデル（LLM)などをAPI経由で使えるサービス「Amazon Bedrock」が、MetaのLLM「Llama 2」に対応したと{target=“_blank”}した。
+
+今回対応したのはチャット向けに追加学習した130億パラメーターモデル「Llama 2 Chat 13B」だ。東京リージョンなど全リージョンでの使用が可能。モデル推論には料金がかかり、前払い料金や定期料金なしの従量課金制でも利用できる。
+
+Llama 2はMetaが7月に発表したもので、70億、130億、700億パラメーターのモデルが存在する。700億パラメーターのモデルは、ChatGPTと互角の性能を持つとされる。
+
+これに先立ちAWSは10月18日にIBMとの連携拡大を発表し、AIプラットフォーム「watsonx」の機能をAWS上で提供するとしていた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 17 Nov 2023 10:11:58 +0000</pubDate></item><item><title>DeNA、スマートフォン対応のリアルタイムのボイスチェンジャーをAIで開発　ジェンダーバイアスを超えたコミュニケーションの場の提供に期待</title><link>https://ledge.ai/articles/dena_realtime_voice_changer_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 ディー・エヌ・エー（DeNA）は2023年11月10日、スマートフォンで動作する「リアルタイム音声変換AI」を{target=“_blank”}。「自分の声が別人になる」音声変換技術の開発を2019年から進めてきたDeNAは、新しい技術により、リアルタイムでの動作を可能にした。
@@ -421,31 +444,7 @@ OpenAIのGPT-4モデルは1兆個のパラメータを持つとされ、現在�
 
 
 
-</description><pubDate>Tue, 14 Nov 2023 08:14:24 +0000</pubDate></item><item><title>OpenAI　DDoS攻撃によりChatGPT等の断続的なサービス停止</title><link>https://ledge.ai/articles/openai_suffers_ddos_attack</link><description>:::small
-画像の出典：[DALL-E3によりLedge.aiが生成]
-:::
-
-米国OpenAIは現地時間の2023年11月8日、ChatGPTおよびAPIの断続的な停止を確認したとステータスページで{target=“_blank”}した。11月9日の13時（日本時間の10日6時）過ぎ、サービスの正常な状態への復旧が発表された。このインシデントは、API、ChatGPT、Labs、Playgroundに影響を及ぼした。同社は、これがDDoS攻撃による異常なトラフィックパターンが原因であると{target=“_blank”}で述べた。
-
-DDoS攻撃は、複数のコンピューターやデバイスを利用してターゲットとなるサーバーまたはネットワークに大量のデータ通信を送り込むことによって、正常なサービスを妨害する。今回の攻撃は、OpenAI初の開発者会議「OpenAI Dev Day」での発表前後に大きく影響を受けている。
-
-攻撃の詳細は明らかにされていないが、Anonymous Sudanを名乗るハクティビスト集団がTelegramで犯行声明を投稿し、ChatGPTがイスラエルとパレスチナに偏見を持っておりそれを修正する目的だと主張している​と複数メディアで報じられている。
-
-!
-:::small
-画像の出典：[Anonymous Sudan のTelegram投稿より]
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 14 Nov 2023 03:14:53 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 14 Nov 2023 08:14:24 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
