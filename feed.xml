@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 07:18:49 +0000</lastBuildDate><item><title>世界スパコン計算速度ランキングで「富岳」4位に後退、米国「フロンティア」首位維持
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 07:26:41 +0000</lastBuildDate><item><title>DeNA、スマートフォン対応のリアルタイムのボイスチェンジャーをAIで開発　ジェンダーバイアスを超えたコミュニケーションの場の提供に期待</title><link>https://ledge.ai/articles/dena_realtime_voice_changer_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+ディー・エヌ・エー（DeNA）は2023年11月10日、スマートフォンで動作する「リアルタイム音声変換AI」を{target=“_blank”}。「自分の声が別人になる」音声変換技術の開発を2019年から進めてきたDeNAは、新しい技術により、リアルタイムでの動作を可能にした。
+
+これまでエッジデバイスと称されるスマートフォン上ではAIを動かすための計算量を担保できず、特にリアルタイムで動かすことが困難とされていた。しかし、このたび計算量を小さくする技術を独自開発することで、高品質かつ遅延100ミリ秒未満のリアルタイム性を維持しながらスマートフォン上で動作可能となった。
+
+リアルタイム音声変換は、入力音声と出力音声のタイムラグを小さくし、多様な応用が可能になる。従来は高価なGPUを必要としていたが、新技術ではスマートフォンでの低遅延、高品質動作が可能で、オフライン環境での運用も実現している​​。
+
+この音声変換技術は、社会的な意義も大きい。入力話者情報の秘匿機能により個人情報の保護や防犯、ジェンダーバイアスを超えたコミュニケーションの場の提供が可能となる。また、エンターテインメント領域では、VTuberなどが希望の声を通じてキャラクター性を獲得することが可能になる。
+
+高品質・低コストの技術であることから、幅広いシーンでの活用の可能性を見込んでおり、DeNAは協業先の募集を開始したとのこと。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 17 Nov 2023 07:26:41 +0000</pubDate></item><item><title>世界スパコン計算速度ランキングで「富岳」4位に後退、米国「フロンティア」首位維持
 </title><link>https://ledge.ai/articles/fugaku_ranking_down</link><description>:::small
 画像の出典：写真AC
 :::
@@ -427,25 +445,7 @@ DDoS攻撃は、複数のコンピューターやデバイスを利用してタ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 14 Nov 2023 03:14:53 +0000</pubDate></item><item><title>サムスンが「Galaxy AI」を2024年初頭リリース、オンデバイスAIとクラウドベースAIどちらも活用</title><link>https://ledge.ai/articles/samsung_galaxy_ai</link><description>:::small
-画像の出典：Samsung Electronics
-:::
-
-
-韓国Samsung Electronicsは2023年11月9日、スマートフォン「Galaxy AI」を2024年初頭にリリースすると{target=“_blank”}した。
-
-SamsungはGalaxy AIを通じて「バリアフリーのコミュニケーションから生産性の簡素化、無限の創造性まで、あらゆる場で可能性を解き放つ」と説明。オンデバイスAIとクラウドベースAIの両方を活用する。
-
-Galaxy AIの機能例として、リアルタイム音声・テキスト翻訳機能「AI Live Translate Call」を紹介。翻訳はクラウドではなく、デバイス上で行われる。
-
-これに先立ち、同社は2023年11月8日にSamsung Researchが開発した生成AIモデル「Samsung Gauss」を発表している。Gaussは従業員の生産性向上に使用され、今後はSamsung製品に拡張予定という。
-
-
-:::box
-
-:::
-
-</description><pubDate>Mon, 13 Nov 2023 10:12:52 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Tue, 14 Nov 2023 03:14:53 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
