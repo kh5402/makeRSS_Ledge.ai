@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 10:16:50 +0000</lastBuildDate><item><title>MicrosoftがAIサービスに独自設計チップ「Maia 100」とArm CPU「Cobalt 100」の採用を発表</title><link>https://ledge.ai/articles/microsoft_maia100_cobalt100</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 10:24:50 +0000</lastBuildDate><item><title>YouTubeがAI生成動画の明示義務付け、 新ガイドライン発表</title><link>https://ledge.ai/articles/youtube_new_guideline</link><description>:::small
+画像の出典：YouTube
+:::
+
+
+米国Google傘下のYouTubeは2023年11月14日、生成AI関連の新たなガイドラインを{target=“_blank”}した。「視聴者に誤解を与え、重大な危害をもたらす可能性がある」として、AIを使用して作られた動画の明示を義務付ける。
+
+!
+:::small
+画像の出典：YouTube
+:::
+
+今後は動画プレイヤーや説明欄に、AI生成であることが表示される。これは視聴者に誤解を招く可能性のあるAI生成コンテンツに対処するための措置だ。
+
+具体的には、AI生成コンテンツに関する新しい選択肢が動画アップロード時に追加される。
+情報を開示しない場合、動画削除やYouTubeパートナープログラム停止などの罰則の対象になる可能性がある。コミュニティガイドライン違反のコンテンツは、ラベルの有無に関わらず削除されるという。
+
+また、顔や声を模倣したAI生成動画の削除依頼システムも導入される。削除依頼があった動画についてはさまざまな観点でチェックが行われ、すべてが削除されるわけではない。さらにYouTubeは音楽レーベルと協議し、アーティストの声を使用した動画の削除依頼機能も準備中だ。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 17 Nov 2023 10:24:50 +0000</pubDate></item><item><title>MicrosoftがAIサービスに独自設計チップ「Maia 100」とArm CPU「Cobalt 100」の採用を発表</title><link>https://ledge.ai/articles/microsoft_maia100_cobalt100</link><description>:::small
 画像の出典：Microsoft
 :::
 
@@ -422,29 +449,7 @@ GPUの調達方法としては、購入／リース、レンタル、クラウ�
 Ledge.aiでは、国内の画像生成AIサービスをけん引するAI Picasso株式会社に今後も注目していきたい。
 また、GMOインターネットグループ株式会社は『ConoHa VPS』においてNVIDIA H100/NVIDIA L4を搭載したGPUサーバーを{target=“_blank”}した。AI開発を進める企業・個人事業主は、『ConoHa VPS』GPUサーバーもGPU調達の選択肢に加えてはいかがだろうか。
 
-{target=“_blank”}</description><pubDate>Tue, 14 Nov 2023 06:03:05 +0000</pubDate></item><item><title>Amazon、GPT-4超の2兆パラメータの大規模言語モデル「Olympus」開発中か</title><link>https://ledge.ai/articles/amazon_olympus</link><description>:::small
-画像の出典：
-:::
-
-
-Amazonがコードネーム「Olympus（オリンパス）」と呼ばれる大規模言語モデル（LLM）を開発中であると{target=“_blank”}が2023年11月8日に報じた。
-
-OpenAIのGPT-4モデルは1兆個のパラメータを持つとされ、現在入手可能なモデルの中で最高のひとつだ。関係者によるとOlympusには約2兆個のパラメータがあり、これは訓練対象のモデルとして最大級の可能性がある。
-
-プロジェクトの責任者はAlexaの元責任者Rohit Prasad氏。Amazonはすでに小規模なモデル「Titan」をトレーニングしており、AnthropicやAI21 Labsなどの企業と提携している。AWS上で自社製モデルを導入し、企業顧客に最高性能のモデルへのアクセスを提供することを目指しているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 14 Nov 2023 08:18:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+{target=“_blank”}</description><pubDate>Tue, 14 Nov 2023 06:03:05 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
