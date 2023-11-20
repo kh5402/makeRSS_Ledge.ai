@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 10:11:58 +0000</lastBuildDate><item><title>Amazon BedrockがMeta「Llama 2」に対応、 チャット用130億パラメーターモデルで</title><link>https://ledge.ai/articles/amazon_bedrock_llama2</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 Nov 2023 10:16:50 +0000</lastBuildDate><item><title>MicrosoftがAIサービスに独自設計チップ「Maia 100」とArm CPU「Cobalt 100」の採用を発表</title><link>https://ledge.ai/articles/microsoft_maia100_cobalt100</link><description>:::small
+画像の出典：Microsoft
+:::
+
+
+米国Microsoftが独自設計のAI特化型チップ「Maia 100」と、Armアーキテクチャ採用CPU「Cobalt 100」を2023年11月15日に{target=“_blank”}した。これらは2024年中にMicrosoftデータセンターへ配備され、Microsoft CopilotやAzure OpenAI Serviceの機能強化に役立てられる予定。
+
+Maia 100はMicrosoftのクラウドサービス「Azure」向けのAI特化型チップだ。チップはAzureのハードウェアに最適化され、性能と効率の最大化を目指している。OpenAIからのフィードバックを受けており、大規模言語モデル（LLM）などの用途における性能の高さが特徴だ。
+
+AI特化型チップの効率的な動作には特別なサーバーラックが必要で、Microsoftが独自に設計したものを使用する。また消費電力が大きく空冷では対応できないため、液体冷却方式を採用している。チップ上部にキューブ状の部品が設置されており、キューブに冷たい液体が流れ込むことでチップを冷却する仕組みだ。
+!
+:::small
+画像の出典：Microsoft
+:::
+
+Cobalt 100はArmアーキテクチャを採用したCPUで、クラウドネイティブプロダクトに適している。電力効率を最適化し、Azureデータセンターに配備されることでMicrosoftに利益をもたらすという。なおMicrosoftは、MaiaおよびCobaltシリーズの第2世代の開発を進めている。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 17 Nov 2023 10:16:50 +0000</pubDate></item><item><title>Amazon BedrockがMeta「Llama 2」に対応、 チャット用130億パラメーターモデルで</title><link>https://ledge.ai/articles/amazon_bedrock_llama2</link><description>:::small
 画像の出典：Amazon Web Services
 :::
 
@@ -420,31 +444,7 @@ OpenAIのGPT-4モデルは1兆個のパラメータを持つとされ、現在�
 
 :::
 
-</description><pubDate>Tue, 14 Nov 2023 08:18:12 +0000</pubDate></item><item><title>ポケトークが「ポケトーク for BUSINESS 同時通訳」のWebブラウザ版を発表</title><link>https://ledge.ai/articles/poketalk_for_business_browser</link><description>:::small
-画像の出典：ポケトーク
-:::
-
-
-ポケトークは2023年11月9日に「ポケトーク for BUSINESS 同時通訳」のWebブラウザ版の提供を開始したと{target=“_blank”}した。
-
-@
-
-
-「ポケトーク for BUSINESS 同時通訳」（2023年3月発表）は、10言語の音声と字幕をリアルタイムで74言語に翻訳するサービスだ。これまではインストール版だったが、今回の製品はWebブラウザ上で利用可能で、インターネット接続があればスマートフォン、PC、タブレットで使用できる。ブラウザ上で使用できるため、セキュリティの観点でソフトウェアのダウンロードが困難な法人でも導入が容易になる。
-
-オンライン会議だけでなく、対面の場でも使用可能。サービスは英語、日本語、韓国語、中国語、スペイン語、ドイツ語、フランス語、イタリア語、ポルトガル語、ロシア語に対応している。利用料は月額3,300円または年額39,600円。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Tue, 14 Nov 2023 08:14:24 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 14 Nov 2023 08:18:12 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
