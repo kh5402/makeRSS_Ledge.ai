@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 Nov 2023 11:45:55 +0000</lastBuildDate><item><title>デル、Hugging Faceと協働で生成AIモデルの展開をシンプルに</title><link>https://ledge.ai/articles/dell_huggingface_collaboration</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 Nov 2023 11:45:55 +0000</lastBuildDate><item><title>羽田空港隣接「HANEDA INNOVATION CITY」グランドオープン、 日本初のスマートエアポートシティ
+</title><link>https://ledge.ai/articles/haneda_innovation_city_open</link><description>:::small
+画像の出典：羽田みらい開発
+:::
+
+羽田みらい開発（9社が出資）は、羽田空港に隣接する羽田空港跡地第1ゾーン整備事業（第一期事業）において、大田区と官民連携で開発を進める大規模複合施設「HANEDA INNOVATION CITY（HICity）」が2023年11月16日にグランドオープンしたことを{target=“_blank”}した。
+
+
+
+HICityは「先端」と「文化」の境界を越えた交流を誘発し、新たな価値創造を実現する日本初のスマートエアポートシティだ。8つの先端産業分野の機能と5つの文化産業分野の機能が共存し、国内外へ発信するショーケースの役割も担う。商業施設にはロボットが調理・配膳を行う飲食店や、イベント関連店舗などが入居する。
+
+※スマートエアポートシティ：空港近接地における大規模複合開発であり、実証実験の取り組みを行うスマートシティの意
+
+またHICityは、人々の活動や交流を促進する独特の空間も提供する。実証実験やイベントの展開を通じて価値創造を促進。羽田空港エリアに隣接し、スマートシティとしてのテストベッドを形成する。さらに自動運転バスやロボットを活用した実証実験、デジタル基盤の構築などを行う。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Mon, 20 Nov 2023 08:00:57 +0000</pubDate></item><item><title>デル、Hugging Faceと協働で生成AIモデルの展開をシンプルに</title><link>https://ledge.ai/articles/dell_huggingface_collaboration</link><description>:::small
 画像の出典：Dell Technologies
 :::
 
@@ -303,22 +329,7 @@ HULFT Technology Days 2023は、11月21日〜22日にオンラインでも開催
 :::
 :::box
 
-:::</description><pubDate>Thu, 16 Nov 2023 08:39:03 +0000</pubDate></item><item><title>NTT、サカナ AI と連携を発表「AIコンステレーション研究」でサステナブルな社会を目指す</title><link>https://ledge.ai/articles/ntt_sakanaai_collaborate</link><description>:::small
-画像の出典：sakana.ai
-:::
-
-NTTとSakana AI は2023年11月13日、サステナブルな社会を目指し、小型で多様なAI同士が協力するアーキテクチャの研究開発に関する連携協定を締結したと{target=“_blank”}した。この取り組みは「AIコンステレーション」と名付けられ、複雑な社会課題の解決を目指すという。
-
-大規模言語モデル（LLM）などの生成AIが、業務効率化や新事業創出に寄与する一方で、開発には大量の計算資源が必要となる。NTTの自然言語処理技術とIOWN先端技術の研究開発と、Sakana AIの持つAIアーキテクチャ設計スキルが連携し、この課題に取り組む。
-
-この連携では、小型AIを分散配置し、効率的に連携させることで、単一のAIモデルの省電力化を図るとともに、AIコンステレーションにより新たな集合知の創出を期待するという。また、環境負荷の低減と複雑な社会課題解決への寄与を目指すとした。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 16 Nov 2023 08:50:24 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Thu, 16 Nov 2023 08:39:03 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
