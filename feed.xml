@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 Nov 2023 11:45:55 +0000</lastBuildDate><item><title>NVIDIA、新GPU「NVIDIA HGX H200」を発表　生成AIやLLMの高速化を促進</title><link>https://ledge.ai/articles/nvidia_hgx_h200</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 Nov 2023 11:45:55 +0000</lastBuildDate><item><title>デル、Hugging Faceと協働で生成AIモデルの展開をシンプルに</title><link>https://ledge.ai/articles/dell_huggingface_collaboration</link><description>:::small
+画像の出典：Dell Technologies
+:::
+
+米国Dell Technologies（デル）は2023年11月14日、米国Hugging Faceとの協働を{target=“_blank”}した。これによりデルのインフラストラクチャー製品とサービスを基盤に、Hugging Faceコミュニティーで独自のオープンソース生成AIモデルを簡単に作成、調整、実装できるとしている。
+
+両社は共同で、Hugging Faceプラットフォーム上に新しいデル・テクノロジーズポータルを構築する。このポータルは大規模言語モデル（LLM）のオンプレミス展開を簡素化。専用のカスタムコンテナとスクリプトが含まれ、AIモデルの展開を容易にする。ポータルはデルのインフラストラクチャーに最適化されている。
+
+デル・テクノロジーズのAPJプレジデントPeter Marrs氏は「生成AIはアジア太平洋地域と日本で急速に戦略的焦点となりつつあり、多くの企業が新しいモデルの導入と拡張に投資している。生成AIソリューションの導入は一部の企業にとって複雑になる可能性があるが、生成AIの使用を簡素化し拡張性を持たせることで、両社の新たなコラボレーションが顧客に前例のない保証と柔軟性を提供し、生成AIに対する信頼を築き、この地域でのイノベーションを促進する」と述べている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 20 Nov 2023 07:58:01 +0000</pubDate></item><item><title>NVIDIA、新GPU「NVIDIA HGX H200」を発表　生成AIやLLMの高速化を促進</title><link>https://ledge.ai/articles/nvidia_hgx_h200</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -301,41 +318,7 @@ NTTとSakana AI は2023年11月13日、サステナブルな社会を目指し�
 :::
 :::box
 
-:::</description><pubDate>Thu, 16 Nov 2023 08:50:24 +0000</pubDate></item><item><title>手のひらに投映するウェアラブル端末「Ai Pin」発表 Apple出身のエンジニア、デザイナーが設立のヒューメイン
-</title><link>https://ledge.ai/articles/humane_ai_pin</link><description>:::small
-画像の出典：
-:::
-
-ヒューメイン社は2023年11月9日、ピンマイクのように胸元に装着するウエアラブル端末を{target=“_blank”}した。スマートフォンのような画面はなく、声や手の動きで通話や情報検索、翻訳ができる。同社は米国アップル出身のエンジニアやデザイナーらが設立した企業。
-
-
-!
-:::small
-画像の出典：ヒューメイン
-:::
-
-
-Ai Pinは手のひらに投影するレーザーインクディスプレイを搭載したウェアラブルデバイスだ。タッチパッド、ジェスチャー、音声で操作する。検索機能「Ai Mic」、多言語通訳、音楽配信サービス「TIDAL」との連携、健康管理機能、メッセージ作成、カメラ機能などAI機能を多数搭載している。
-
-OSは独自の「Cosmos」を採用。AIソフトウェアフレームワーク「Ai Bus」により、アプリのダウンロードや起動などの操作が不要となる。
-
-構成はメインユニットとバッテリーの2ピース。Qualcomm AI Engineを搭載したSnapdragonプロセッサ、RGBカメラ、深度センサー、モーションセンサー、スピーカーを装備している。メモリは4GB、ストレージは32GB eMMCだ。
-
-プライバシー保護のため「ウェイクワード」なしでユーザーの関与時のみ起動する設計で、「Trust Light」で起動状態を点灯表示する。
-
-本体サイズ/重量はメインユニットが44.5×14.98×47.5mm/34.2g、バッテリーが45.2×8.25×47.16mm/20.5g。
-
-Ai Pinの注文は、11月16日から受け付ける。価格は699ドル（約10万5000円）から。サブスクリプションは専用の電話番号、無制限の通話、テキスト、データが提供され、月額24ドルだ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 16 Nov 2023 00:54:22 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Thu, 16 Nov 2023 08:50:24 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
