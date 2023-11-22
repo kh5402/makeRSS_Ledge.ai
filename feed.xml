@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 Nov 2023 11:45:55 +0000</lastBuildDate><item><title>羽田空港隣接「HANEDA INNOVATION CITY」グランドオープン、 日本初のスマートエアポートシティ
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 21 Nov 2023 01:08:16 +0000</lastBuildDate><item><title>羽田空港隣接「HANEDA INNOVATION CITY」グランドオープン、 日本初のスマートエアポートシティ
 </title><link>https://ledge.ai/articles/haneda_innovation_city_open</link><description>:::small
 画像の出典：羽田みらい開発
 :::
@@ -1790,7 +1790,36 @@ OpenAIは過去にも色のついた点を集めて3Dモデルを生成する「
 
 :::box
 
-:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>LLMにおけるハルシネーションの包括的調査を発表ーーハルビン工業大学とHuawei研究チーム</title><link>https://ledge.ai/articles/a_survey_on_hallucination_in_llm</link><description>:::small
+:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>Google DeepMindの気象予測AI「GraphCast」従来型を上回る精度で10日先までの天気を1分未満で予測</title><link>https://ledge.ai/articles/google_deepmind_graphcast</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Google DeepMindは2023年11月14日、従来の天気予報システムよりも高速かつ精密な中期天気予報を実現する最新のAIモデル「GraphCast」を{target=“_blank”}した。
+
+同日「Sience」に掲載された{target=“_blank”}によると、このモデルは、10日先までの天気を1分未満で予測し、業界の標準である欧州中期天気予報センター（ECMWF）の高解像度予報（HRES）よりも優れた精度を誇るという。
+
+GraphCastは、データ駆動型の深層学習を用いて、地球の天候がどのように進化するかの因果関係のモデルを学習する。これにより、サイクロンの進路予測や洪水リスクに関連する大気河の特定、極端な気温の発生予測が可能となり、これらは災害への備えとして重要な役割を果たす。
+
+また、GraphCastは機械学習とグラフニューラルネットワーク（GNN）を基に構築されており、空間的に構造化されたデータの処理に特に適している。このシステムは、GoogleのTPU v4マシン1台で10日間の予報を1分未満で行うことが可能で、従来の手法と比べて大幅な効率化を実現している。
+@
+:::small
+Google DeepMindチャンネル「10 日間にわたる GraphCast の予測の抜粋」
+:::
+
+DeepMind によるとGraphCastは、従来の他の予報モデルと比較して、1380のテスト変数と予報期間のうち90％以上でより正確な予測を提供。特に、地球表面に最も近い大気圏である対流圏において、99.7%のテスト変数でHRESモデルを上回っているという。
+
+同社はGraphCastのモデルコードを{target=“_blank”}し、世界中の科学者や予報者が利用できるようになっている。すでにECMWF を含む気象機関によって使用されており、 Web サイトではモデルの{target=“_blank”}を実行している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 21 Nov 2023 01:08:16 +0000</pubDate></item><item><title>LLMにおけるハルシネーションの包括的調査を発表ーーハルビン工業大学とHuawei研究チーム</title><link>https://ledge.ai/articles/a_survey_on_hallucination_in_llm</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2023,28 +2052,7 @@ AIが人間の代わりにiPhoneなど向けのアプリケーションをApp St
 :::box
 
 :::
-</description><pubDate>Fri, 15 Sep 2023 02:34:09 +0000</pubDate></item><item><title>ドローンレースでAI「Swift」が人間の世界王者に勝利
-</title><link>https://ledge.ai/articles/drone_racing_swift</link><description>:::small
-画像出典：Champion-level drone racing using deep reinforcement learning
-:::
-
-スイスのチューリッヒ大学と米国Intelの研究チームが、自動操縦AI「Swift」でドローンレースの世界チャンピオン3人と対戦し勝利したと2023年8月30日にネイチャーで{target=“_blank”}した。研究チームは、自律移動ロボットが現実世界の競技スポーツにおいて世界チャンピオンレベルの能力を達成した初めてのこととしている。
-
-一人称視点（FPV）ドローンレースの人気は高まっている。競技者はヘッドセットを装着し、障害物があるコースを通過。障害物が設置された複雑なコースを、いかに速く通過できるかを競う。またレース中にドローン同士がぶつからないことも重要だ。ドローンの速度は、時速80マイル（約128km）にも達する。
-
-@
-
-今回のレースは「FPVドローンレース」で、独自のカメラとゴーグルを使用。Swiftはリアルタイムでカメラデータを解析し、速度や位置を調整する。独自の慣性計測装置（IMU）、視覚慣性移動量計測装置（VIO）、飛行中にくぐるべき関門の検出装置（Gate Detector）などで環境との相互作用を高度に管理し、ニューラルネットワークと強化学習を用いて性能を高めた。
-
-Swiftはスタート時から0.25秒早く、そのリードを維持。Swiftは25回のレースで15回勝利し、ラップタイムでも全体の最速である17.47秒を記録した。このラップタイムは、人間の記録よりも約0.5秒速かった。
-
-研究者たちは、人間チャンピオン3人とSwiftでコースにアプローチする方法に違いがあることを指摘。Swiftのシステムは周回を重ねるごとにより安定し、コースを回る際により小回りがきいているように見えたという。ラップタイムをコンマ数秒ずつ繰り返し短縮し、最終的にドローンがレースで優位になった。
-
-今回のレースは2022年6月5日から13日まで、スイスのチューリッヒ近郊で開催された。
-
-:::box
-
-:::</description><pubDate>Thu, 14 Sep 2023 04:02:18 +0000</pubDate></item><item><title>「人間中心」を最優先、政府がAI事業者向けのガイドライン原案提示
+</description><pubDate>Fri, 15 Sep 2023 02:34:09 +0000</pubDate></item><item><title>「人間中心」を最優先、政府がAI事業者向けのガイドライン原案提示
 </title><link>https://ledge.ai/articles/human_centered_guideline_japan</link><description>:::small
 画像の出典：写真AC
 :::
