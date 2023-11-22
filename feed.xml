@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 21 Nov 2023 01:08:16 +0000</lastBuildDate><item><title>羽田空港隣接「HANEDA INNOVATION CITY」グランドオープン、 日本初のスマートエアポートシティ
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 21 Nov 2023 01:25:29 +0000</lastBuildDate><item><title>Notion、新AI機能「Q&amp;A」をベータ版で公開</title><link>https://ledge.ai/articles/notion_qanda</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Notionは2023年11月14日、新AI機能である「Q&amp;A」をベータ版でリリースしたことを{target=“_blank”}した。この機能は、知識、ドキュメント、プロジェクト、会議ノートなどから即座に任意の質問に回答する方法を提供する。Q&amp;Aは、Notion内のページやデータベースに保存されている情報にアクセスし、AIを用いてそれらをユーザーに提示する。
+
+@
+
+
+新機能は、AnthropicおよびOpenAIの協力のもとに開発されている。顧客のデータはAIモデルのトレーニングには使用されず、Q&amp;Aで回答を受け取る際には、閲覧権限のあるページの情報のみを参照する​​という。
+
+Notion AIアドオンにより、Q&amp;Aの無制限使用、ライティングアシスタント、データベースの自動入力機能が提供される。有料プランには月額8ドル（年間課金）または10ドル（月額課金および無料プラン）で追加可能。Q&amp;Aは英語以外の言語にも対応。ベータ版提供中に他の言語での応答品質の向上を目指すとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 21 Nov 2023 01:25:29 +0000</pubDate></item><item><title>羽田空港隣接「HANEDA INNOVATION CITY」グランドオープン、 日本初のスマートエアポートシティ
 </title><link>https://ledge.ai/articles/haneda_innovation_city_open</link><description>:::small
 画像の出典：羽田みらい開発
 :::
@@ -312,24 +332,7 @@ Llama 2はMetaが7月に発表したもので、70億、130億、700億パラメ
 
 HULFT Technology Days 2023は、11月21日〜22日にオンラインでも開催を予定している。また、本記事冒頭で紹介したオフライン開催のセッションについてもアーカイブで配信されており、オンラインで視聴が可能となっている。詳しくは特設サイトより。
 {target=“_blank”}
-</description><pubDate>Thu, 16 Nov 2023 07:44:49 +0000</pubDate></item><item><title>米メタ、政治広告での生成AIツール使用を禁止</title><link>https://ledge.ai/articles/meta_bans_political_campaigns_from_using_its_new_aipowereda_ad_tools</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-米国メタが、2023年11月6日、AIを搭載した新たな広告ツールを政治広告に使用することを禁止すると発表した。この情報は{target=“_blank”}を含む複数のメディアが報じている。この発表は、大統領選や地方選を控えた米国では、選挙に関する誤情報の拡散を助長する可能性があると議員らが警告したためとされている。
-
-同社は「住宅、雇用、信用、社会問題、選挙、政治、健康、製薬、金融サービスに関連するキャンペーンを実施する広告主は、現在これらの生成AI機能を使用することが許可されていない」と述べている。メタは約1か月前に、AIを活用した広告ツールへのアクセスを広告主に拡大することを{target=“_blank”}していた。これらのツールは一部の広告主にのみ提供されており、来年には全世界の広告主にリリース予定だったという。
-
-また11月8日には、FacebookやInstagram上の社会問題、選挙、または政治広告がデジタルで作成または変更された場合、特にAIの使用を含む場合にそれを明示する新しい方針を{target=“_blank”}した。この新しいポリシーは、AIやデジタルツールを使用したコンテンツの透明性を高め、誤情報の拡散を防ぐことを目的としている。
-
-この方針は来年より全世界で実施され、広告主はフォトリアリスティックな画像やビデオ、リアルなオーディオが含まれる政治広告において、デジタルで作成または変更されたことを明示する必要がある。メタは広告作成フローでこの情報を広告に追加し、Ad Libraryにも表示する。必要な明示を怠った広告主にはペナルティが科される予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 16 Nov 2023 08:39:03 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Thu, 16 Nov 2023 07:44:49 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
