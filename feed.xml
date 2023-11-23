@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 Nov 2023 03:10:48 +0000</lastBuildDate><item><title>沖縄海邦銀行、大部分を生成AIで制作した企業CMを公開　国内金融機関では初の試み</title><link>https://ledge.ai/articles/kaiho_bank_ai_cm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 Nov 2023 06:19:29 +0000</lastBuildDate><item><title>百度が華為からAI半導体を発注　米国の対中規制強化に対応し、NVIDIA依存から脱却</title><link>https://ledge.ai/articles/baidu_huawei_tip</link><description>:::small
+画像の出典：写真AC
+:::
+
+中国の百度（バイドゥ）が華為技術（ファーウェイ）にAI半導体を発注していたと{target=“_blank”}が2023年11月8日に報じた。
+
+関係者によると、百度は8月、バイデン米政権の対中規制強化による輸出規制に先駆けてファーウェイからチップを発注。ファーウェイの910BアセンドAIチップは、NVIDIAのA100チップの代替品として開発されたという。
+
+ファーウェイは百度からサーバー200台分に1,600個のチップを受注し、10月までに約600台を納入。受注総額は約4億5000万元（6183万ドル）で、年末までにすべてのチップを納入する予定という。百度がファーウェイのAIチップの顧客であることは、これまで知られていなかった。
+
+ファーウェイのアセンドチップはNVIDIAのチップに比べ性能が劣るが、中国で入手可能な最も高性能の国内オプションという。百度は独自のKunlun AIチップも開発しているが、LLMトレーニングにはNVIDIAのA100チップに依存している。
+
+「彼らはNVIDIAから購入できなくなるかもしれない将来に備えて910Bチップを注文していた」と情報筋は語った。百度とファーウェイはコメント要請に応じていない。NVIDIAはコメントを控えた。
+(1ドル = 7.2782 中国人民元)
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Wed, 22 Nov 2023 06:19:29 +0000</pubDate></item><item><title>沖縄海邦銀行、大部分を生成AIで制作した企業CMを公開　国内金融機関では初の試み</title><link>https://ledge.ai/articles/kaiho_bank_ai_cm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -246,28 +270,7 @@ Llama 2はMetaが7月に発表したもので、70億、130億、700億パラメ
 :::
 :::box
 
-:::</description><pubDate>Fri, 17 Nov 2023 07:26:41 +0000</pubDate></item><item><title>世界スパコン計算速度ランキングで「富岳」4位に後退、米国「フロンティア」首位維持
-</title><link>https://ledge.ai/articles/fugaku_ranking_down</link><description>:::small
-画像の出典：写真AC
-:::
-
-
-世界のスーパーコンピューターの計算速度を競う最新のランキングを{target=“_blank”}が発表し、日本の「富岳」が前回の2位から4位に後退したことが明らかになった。米国の「フロンティア」は4期連続で首位だった。
-
-スパコンは先端技術研究のインフラの役割を担っており、各国の科学技術力を示す象徴として注目を集めている。
-
-今回のランキングでは、上位3位までを米国が占めた。オークリッジ国立研究所が運営するフロンティアの計算性能は、1秒間に119京回だ。アルゴンヌ国立研究所の「オーロラ」が新たに2位に入り、完成すればフロンティアを上回る計算能力が見込まれる。3位にはマイクロソフトの「イーグル」がランクインした。
-
-4位の富岳について日本は後継機開発を進めており、稼働開始は20年代後半以降の見通し。また5位は、フィンランドのEuroHPCセンターのHPE Cray EXシステムだった。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 17 Nov 2023 06:01:43 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 17 Nov 2023 07:26:41 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
