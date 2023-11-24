@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 Nov 2023 06:43:46 +0000</lastBuildDate><item><title>MicrosoftがAIサービス全体を「Microsoft Copilot」で統一、OpenAI GPTs相当のCopilot Studioも発表
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 Nov 2023 06:43:46 +0000</lastBuildDate><item><title>画像とテキストから数秒で3Dモデルを作成する「Atlas」登場</title><link>https://ledge.ai/articles/atlas_3dmodel</link><description>:::small
+画像の出典：Atlas
+:::
+
+オーストリアを拠点とするAtlasは2023年11月15日、AI活用で画像とテキストから3Dモデルを作成するサービス「Atlas」を{target=“_blank”}した。同サービスの利用により、数秒で3Dアセットを生成できる。
+
+ワークフロー全体を支援するAIツールを備えており、3Dコンセプトからランタイム生成までをサポートしている。クローズドIPループ内で知的財産(IP)が外部に漏れないようにし、利用者のスタイルやテーマに特化したAIを構築して、専用のゲーム用アセットを作成する。
+
+同社の技術は、欧州連合の「信頼できる人工知能のための倫理ガイドライン」に従って構築されている。現在はエンタープライズおよび商業用途でのみ利用可能だが、パブリックプラットフォームのアルファテストを今後数か月以内に開始するという。
+
+
+:::box
+
+:::
+
+
+</description><pubDate>Wed, 22 Nov 2023 06:30:28 +0000</pubDate></item><item><title>MicrosoftがAIサービス全体を「Microsoft Copilot」で統一、OpenAI GPTs相当のCopilot Studioも発表
 </title><link>https://ledge.ai/articles/microsoft_copilot_studio</link><description>:::small
 画像の出典：Microsoft
 :::
@@ -269,30 +285,7 @@ Cobalt 100はArmアーキテクチャを採用したCPUで、クラウドネイ�
 
 :::
 
-</description><pubDate>Fri, 17 Nov 2023 10:16:50 +0000</pubDate></item><item><title>Amazon BedrockがMeta「Llama 2」に対応、 チャット用130億パラメーターモデルで</title><link>https://ledge.ai/articles/amazon_bedrock_llama2</link><description>:::small
-画像の出典：Amazon Web Services
-:::
-
-米国Amazon Web Services（AWS）は2023年11月13日、大規模言語モデル（LLM)などをAPI経由で使えるサービス「Amazon Bedrock」が、MetaのLLM「Llama 2」に対応したと{target=“_blank”}した。
-
-今回対応したのはチャット向けに追加学習した130億パラメーターモデル「Llama 2 Chat 13B」だ。東京リージョンなど全リージョンでの使用が可能。モデル推論には料金がかかり、前払い料金や定期料金なしの従量課金制でも利用できる。
-
-Llama 2はMetaが7月に発表したもので、70億、130億、700億パラメーターのモデルが存在する。700億パラメーターのモデルは、ChatGPTと互角の性能を持つとされる。
-
-これに先立ちAWSは10月18日にIBMとの連携拡大を発表し、AIプラットフォーム「watsonx」の機能をAWS上で提供するとしていた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 17 Nov 2023 10:11:58 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 17 Nov 2023 10:16:50 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
