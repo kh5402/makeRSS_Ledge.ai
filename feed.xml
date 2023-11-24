@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 Nov 2023 06:25:08 +0000</lastBuildDate><item><title>MicrosoftがAIサービス全体を「Microsoft Copilot」で統一、OpenAI GPTs相当のCopilot Studioも発表
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 Nov 2023 06:43:46 +0000</lastBuildDate><item><title>MicrosoftがAIサービス全体を「Microsoft Copilot」で統一、OpenAI GPTs相当のCopilot Studioも発表
 </title><link>https://ledge.ai/articles/microsoft_copilot_studio</link><description>:::small
 画像の出典：Microsoft
 :::
@@ -2015,7 +2015,37 @@ AIが人間の代わりにiPhoneなど向けのアプリケーションをApp St
 :::box
 
 :::
-</description><pubDate>Fri, 15 Sep 2023 02:34:09 +0000</pubDate></item><item><title>「人間中心」を最優先、政府がAI事業者向けのガイドライン原案提示
+</description><pubDate>Fri, 15 Sep 2023 02:34:09 +0000</pubDate></item><item><title>ドローン規制緩和案「レベル3.5」新設で無人地帯の物流促す「年内にも事業化をスタート」河野デジタル大臣</title><link>https://ledge.ai/articles/drone_level3-5</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+デジタル庁の河野大臣は2023年11月20日の定例記者会見で、ドローン規制の緩和について今後の方針を{target=“_blank”}。これは、17日に開かれた規制改革推進会議の{target=“_blank”}で、政府の示した山間地など無人地帯でのドローン利用の規制緩和案に基づくものだ。
+
+新たに「レベル3.5」を設定し、飛行経路下に人がいない場合の補助員の配置を不要とする。これにより道路や鉄道上を飛ぶことが容易になり、迅速な配達が期待されるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ドローン飛行の難易度に応じて、国はレベル4までの分類を設けている。レベル3は目視外飛行を人がいない川や森林で許可しているのに対し、レベル4では住宅地など人口密集地域でも飛行可能となる。現行のレベル3では、人が立ち入る可能性のある鉄道や道路、船の航路などを飛行する際には補助者の配置や案内板の設置が必要とされる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+新たに導入されるレベル3.5案では、ドローンに搭載されたカメラで歩行者を確認する、保険へ加入する、人を確認した場合は迂回する、などの条件を設定するという。
+
+河野大臣は、各地でドローンを使った実証実験を行っているにも関わらず、実験にとどまり事業化に至らないケースが多い。しかし、無駄な規制を廃することでドローンによる配送の事業化が全国各地で進むようにしたい。また、年内にも事業化をスタートできるようスピード感を持ってやっていきたいと述べた。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 22 Nov 2023 06:43:46 +0000</pubDate></item><item><title>「人間中心」を最優先、政府がAI事業者向けのガイドライン原案提示
 </title><link>https://ledge.ai/articles/human_centered_guideline_japan</link><description>:::small
 画像の出典：写真AC
 :::
@@ -2243,29 +2273,7 @@ AIは住友電気工業らが開発した。2022年度から渋滞予測活用�
 
 :::
 
-</description><pubDate>Wed, 25 Oct 2023 05:04:41 +0000</pubDate></item><item><title>経済産業省、マイクロンテクノロジー広島工場に最大1920億円補助</title><link>https://ledge.ai/articles/ministry_of_Economy_micron_technology</link><description>:::small
-画像出典：写真AC
-:::
-
-経済産業省は2023年10月3日、米国半導体メモリー大手マイクロンテクノロジーの広島工場の設備投資や研究開発に、最大1920億円を補助すると{target=“_blank”}した。国内で最先端メモリーの量産を目指す。
-
-西村康稔経産相は閣議後記者会見で、マイクロンメモリジャパンとマイクロンテクノロジーの広島での次世代メモリの開発・生産計画を承認したと発表。開発に最大250億円、生産計画に最大1,670億円の支援を決定し、先端半導体の安定供給と地域の雇用・若者定着、半導体関連の人材育成への期待を述べた。
-
-マイクロン社は露光装置「EUV」を使用し、生成AIやデータセンター、自動運転に必要な先端メモリ半導体の開発や生産を行う。経産相は日本の経済安全保障上、先端半導体の安定供給が必要であり、地域経済の波及効果や少子化対策にもつながると語った。
-
-また他の半導体関連企業（TSMC、ラピダス、キオクシア、ウエスタンデジタルなど）との連携も示唆し、プロジェクトは日米連携の象徴と述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Mon, 16 Oct 2023 00:50:50 +0000</pubDate></item><item><title>AIが、ジョン・レノンの声だけ採り出し完成　ビートルズ最後の新曲『Now and Then』ミュージックビデオ公開</title><link>https://ledge.ai/articles/beatles_ai_nowandthen</link><description>:::small
+</description><pubDate>Wed, 25 Oct 2023 05:04:41 +0000</pubDate></item><item><title>AIが、ジョン・レノンの声だけ採り出し完成　ビートルズ最後の新曲『Now and Then』ミュージックビデオ公開</title><link>https://ledge.ai/articles/beatles_ai_nowandthen</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
