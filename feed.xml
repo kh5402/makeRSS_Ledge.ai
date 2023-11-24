@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 Nov 2023 06:19:29 +0000</lastBuildDate><item><title>百度が華為からAI半導体を発注　米国の対中規制強化に対応し、NVIDIA依存から脱却</title><link>https://ledge.ai/articles/baidu_huawei_tip</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 Nov 2023 06:25:08 +0000</lastBuildDate><item><title>MicrosoftがAIサービス全体を「Microsoft Copilot」で統一、OpenAI GPTs相当のCopilot Studioも発表
+</title><link>https://ledge.ai/articles/microsoft_copilot_studio</link><description>:::small
+画像の出典：Microsoft
+:::
+
+米国Microsoftは2023年11月15日、開発者向けイベント「Microsoft Ignite」を開催し、「Bing Chat」および法人向けの「Bing Chat Enterprise」を「Copilot」にリブランドすることを{target=“_blank”}した。同時にユーザーが独自のCopilotを簡単に構築できる「Copilot Studio」も発表した。
+
+
+同社は「Microsoft 365 Copilot」を「Copilot for Microsoft 365」に、「Microsoft Sales Copilot」を「Copilot for Sales」にそれぞれ改称。またAIサービス全体を「Microsoft Copilot」で統一する。
+
+Copilotの公式Webサイト「{target=“_blank”}」が公開されており、ChromeやSafariなど、Edge以外のブラウザからも利用できる。モバイルアプリもまもなく公開されるとのこと。
+
+Entra ID（旧Azure Active Directory）でCopilotにサインインすると、無料で商用データ保護を受けられる。チャットデータは保存されず、Microsoftの監視下に置かれない。またモデルのトレーニングにデータが使用されることもない。
+
+
+!
+:::small
+画像の出典：Microsoft
+:::
+
+Copilot Studioは、ユーザーが独自のCopilotを簡単に構築できるツールスイートだ。これはOpenAIの「GPTs」に相当するとみられる。コーディングの必要はなく、自然言語で指示してオリジナルのCopilotを作成できる。さらに、企業独自のニーズに合わせてカスタマイズしたCopilotを公開することも可能だ。
+
+!
+:::small
+画像の出典：Microsoft
+:::
+
+また「Bing」の検索結果に生成AIによる要約を表示する機能「Generative AI Captions」も{target=“_blank”}。これは検索した人に関連性が高く、わかりやすい概要を生成する機能だ。概要は検索時のキーワードに合わせて調整され、異なるキーワードで検索した場合には異なる概要が表示されることがある。Webサイトの管理者は「noarchive」「maxsnippet」「nosnippet」などのメタタグを使用して、概要の生成を制御できるという。
+
+:::box
+
+:::
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 22 Nov 2023 06:25:08 +0000</pubDate></item><item><title>百度が華為からAI半導体を発注　米国の対中規制強化に対応し、NVIDIA依存から脱却</title><link>https://ledge.ai/articles/baidu_huawei_tip</link><description>:::small
 画像の出典：写真AC
 :::
 
@@ -252,25 +292,7 @@ Llama 2はMetaが7月に発表したもので、70億、130億、700億パラメ
 
 :::
 
-</description><pubDate>Fri, 17 Nov 2023 10:11:58 +0000</pubDate></item><item><title>DeNA、スマートフォン対応のリアルタイムのボイスチェンジャーをAIで開発　ジェンダーバイアスを超えたコミュニケーションの場の提供に期待</title><link>https://ledge.ai/articles/dena_realtime_voice_changer_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-ディー・エヌ・エー（DeNA）は2023年11月10日、スマートフォンで動作する「リアルタイム音声変換AI」を{target=“_blank”}。「自分の声が別人になる」音声変換技術の開発を2019年から進めてきたDeNAは、新しい技術により、リアルタイムでの動作を可能にした。
-
-これまでエッジデバイスと称されるスマートフォン上ではAIを動かすための計算量を担保できず、特にリアルタイムで動かすことが困難とされていた。しかし、このたび計算量を小さくする技術を独自開発することで、高品質かつ遅延100ミリ秒未満のリアルタイム性を維持しながらスマートフォン上で動作可能となった。
-
-リアルタイム音声変換は、入力音声と出力音声のタイムラグを小さくし、多様な応用が可能になる。従来は高価なGPUを必要としていたが、新技術ではスマートフォンでの低遅延、高品質動作が可能で、オフライン環境での運用も実現している​​。
-
-この音声変換技術は、社会的な意義も大きい。入力話者情報の秘匿機能により個人情報の保護や防犯、ジェンダーバイアスを超えたコミュニケーションの場の提供が可能となる。また、エンターテインメント領域では、VTuberなどが希望の声を通じてキャラクター性を獲得することが可能になる。
-
-高品質・低コストの技術であることから、幅広いシーンでの活用の可能性を見込んでおり、DeNAは協業先の募集を開始したとのこと。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 17 Nov 2023 07:26:41 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Fri, 17 Nov 2023 10:11:58 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
