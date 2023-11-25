@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>音声対応ChatGPTが無料ユーザーも利用可能に　開始直後はサーバダウンも現在は復旧済</title><link>https://ledge.ai/articles/gpt_with_voice_is_available_to_free_users</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>カメラのエッジAIを活用した店舗運営支援の実証実験、ローソンにて実施</title><link>https://ledge.ai/articles/edgeai_lawson</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ヘッドウォータース、ソニーセミコンダクタソリューションズ、AWL株式会社は2023年11月16日、ローソンの店舗におけるエッジAI技術（端末側での高速データ処理技術）を活用した店舗運営支援のための実証実験を実施したと{target=“_blank”}した。同年3月から8月まで、東京都・神奈川県内の7店舗で行った。商品棚の自動検知と顧客行動の分析が目的だという。
+
+商品棚の状況の自動検知：エッジAI技術とMicrosoft Azureを使用し、商品棚の状況を効率的に自動検知し可視化する
+顧客行動の分析： NVIDIA Jetson AGX Orinベースのカメラシステムを利用して、顧客の店内動線や滞留時間を分析し、販売促進施策との関連性を可視化する
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 24 Nov 2023 05:39:40 +0000</pubDate></item><item><title>音声対応ChatGPTが無料ユーザーも利用可能に　開始直後はサーバダウンも現在は復旧済</title><link>https://ledge.ai/articles/gpt_with_voice_is_available_to_free_users</link><description>:::small
 画像の出典：){target=“_blank”}
 :::
 
@@ -249,39 +269,7 @@ H200はHPC向けの、より高速で大容量のメモリ「HBM3e」を採用�
 
 :::box
 
-:::</description><pubDate>Mon, 20 Nov 2023 11:45:55 +0000</pubDate></item><item><title>サム・アルトマン氏CEO解任　週末のシリコンバレー騒然</title><link>https://ledge.ai/articles/openai_dismissal_of_altman</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-“first and last time i ever wear one of these”
-
-「これを着けるのは最初で最後」
-
-米国OpenAIの創設者サム・アルトマン氏は2023年11月20、自らが創設した会社のゲスト用入館カードの写真を自撮りして、X（旧Twitter）公式アカウントに{target=“_blank”}した。
-
-週末のITメディアは、米国OpenAIが11月17日に{target=“_blank”}したサム・アルトマン氏解任のニュースで持ちきりとなった。
-
-同社の発表によると、アルトマン氏の退任は、彼が取締役会とのコミュニケーションにおいて一貫性を欠いたことにより、同取締役会の責任行使を妨げたと述べている。後任にはCTOのミラ・ムラティ氏が暫定的にCEOに就任している。初の開発者会議「OpenAI DevDay」での新機能の数々が世間を賑わせたわずか11日後の出来事に、シリコンバレーが騒然となった。
-
-同社の共同創始者グレッグ・ブロックマン氏は、OpenAIの取締役を解任され、CEO直属の役職で留まるよう取締役会から告げられていた。しかし、同氏はその座を辞してOpenAIを去ったことを自身のXアカウントで公表した。以下は同氏が取締役会とOpenAIメンバーに宛てて送ったメールだという。ニュースを知った数人の主任研究者たちは、ブロックマン氏に続き同社を去ったという。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-OpenAIの最大の投資家であるMicrosoftや他の投資家が、突然のこの決定に対し、サム・アルトマン氏をCEOに再任するよう同社に圧力をかけていると、関係者が明らかにしたと{target=“_blank”}をはじめ各種メディアが報じている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIの発表を受け、同日Microsoft会長兼CEOのサティア・ナデラ氏は、OpenAIとの継続的なパートナーシップを強調する声名を{target=“_blank”}している。
-
-:::box
-
-:::</description><pubDate>Mon, 20 Nov 2023 02:37:19 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Mon, 20 Nov 2023 11:45:55 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
