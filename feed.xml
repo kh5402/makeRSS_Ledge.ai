@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>OpenAI  サム・アルトマン氏CEOに復帰　取締役会は刷新  5日間の「お家騒動」終結か </title><link>https://ledge.ai/articles/openai_we_are_so_back</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>音声対応ChatGPTが無料ユーザーも利用可能に　開始直後はサーバダウンも現在は復旧済</title><link>https://ledge.ai/articles/gpt_with_voice_is_available_to_free_users</link><description>:::small
+画像の出典：){target=“_blank”}
+:::
+
+OpenAIは2023年11月21日、ChatGPTのモバイルアプリの音声機能を無料ユーザーにも提供するとX（旧Twitter）公式アカウントで{target=“_blank”}した。モバイルアプリをダウンロードし、ヘッドフォンアイコンをタップすることで{target=“_blank”}となる。このサービスは有料会員向けにはすでに9月には提供開始しており、日本語での会話にも対応している。
+
+このアップデートにより、ユーザーはChatGPTと音声会話が可能となる。テキストベースのみのやりとりから、より幅広いユーザーにアクセスしやすく、インタラクティブにするという。
+
+!
+:::small
+画像の出展：{target=“_blank”}
+:::
+
+発表直後にサーバトラブルが発生し、一時サービスがダウンしたが、同日（日本時間）午前10時頃に{target=“_blank”}。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 24 Nov 2023 05:15:28 +0000</pubDate></item><item><title>OpenAI  サム・アルトマン氏CEOに復帰　取締役会は刷新  5日間の「お家騒動」終結か </title><link>https://ledge.ai/articles/openai_we_are_so_back</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -260,34 +281,7 @@ OpenAIの発表を受け、同日Microsoft会長兼CEOのサティア・ナデ�
 
 :::box
 
-:::</description><pubDate>Mon, 20 Nov 2023 02:37:19 +0000</pubDate></item><item><title>YouTubeがAI生成動画の明示義務付け、 新ガイドライン発表</title><link>https://ledge.ai/articles/youtube_new_guideline</link><description>:::small
-画像の出典：YouTube
-:::
-
-
-米国Google傘下のYouTubeは2023年11月14日、生成AI関連の新たなガイドラインを{target=“_blank”}した。「視聴者に誤解を与え、重大な危害をもたらす可能性がある」として、AIを使用して作られた動画の明示を義務付ける。
-
-!
-:::small
-画像の出典：YouTube
-:::
-
-今後は動画プレイヤーや説明欄に、AI生成であることが表示される。これは視聴者に誤解を招く可能性のあるAI生成コンテンツに対処するための措置だ。
-
-具体的には、AI生成コンテンツに関する新しい選択肢が動画アップロード時に追加される。
-情報を開示しない場合、動画削除やYouTubeパートナープログラム停止などの罰則の対象になる可能性がある。コミュニティガイドライン違反のコンテンツは、ラベルの有無に関わらず削除されるという。
-
-また、顔や声を模倣したAI生成動画の削除依頼システムも導入される。削除依頼があった動画についてはさまざまな観点でチェックが行われ、すべてが削除されるわけではない。さらにYouTubeは音楽レーベルと協議し、アーティストの声を使用した動画の削除依頼機能も準備中だ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 17 Nov 2023 10:24:50 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Mon, 20 Nov 2023 02:37:19 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
