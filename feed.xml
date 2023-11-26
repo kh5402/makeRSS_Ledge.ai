@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>カメラのエッジAIを活用した店舗運営支援の実証実験、ローソンにて実施</title><link>https://ledge.ai/articles/edgeai_lawson</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>AIアナウンサー「iina」、テレビ北海道の情報番組に登場 </title><link>https://ledge.ai/articles/iina_ai_digital_human</link><description>:::small
+画像の出典：ニュウジア
+:::
+
+ニュウジア社はテレビ北海道（TVh）と共同で、AI技術を駆使した「AIデジタルヒューマン」を、地上波テレビ放送におけるアナウンサーとして起用すると{target=“_blank”}した。AIデジタルヒューマンは、毎週土曜日に放送の情報番組「スイッチン！」に11月18日から登場している。
+
+具体的には、AIアナウンサー「iina」が番組のお天気コーナーに登場。最新の天気予報を読み上げ、番組MCと対話する。人間のアナウンサーが出社できない災害時でも、AIアナウンサーは地理的な制約なく24時間365日、情報を提供することが可能だ。この技術により、TVhは天候や災害に左右されずに視聴者に安定した情報供給を目指すという。
+
+この取り組みは、テレビ業界におけるAI技術の可能性を探る実証実験として位置づけられる。AIデジタルアナウンサーは、人間の温かみと親しみやすさと、AIの正確な情報伝達能力を兼ね備えるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 24 Nov 2023 05:47:14 +0000</pubDate></item><item><title>カメラのエッジAIを活用した店舗運営支援の実証実験、ローソンにて実施</title><link>https://ledge.ai/articles/edgeai_lawson</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -246,30 +264,7 @@ H200はHPC向けの、より高速で大容量のメモリ「HBM3e」を採用�
 :::
 :::box
 
-:::</description><pubDate>Fri, 17 Nov 2023 09:38:33 +0000</pubDate></item><item><title>OpenAI「元」CEO サム・アルトマン氏とグレッグ・ブロックマン氏がMicrosoftへ入社</title><link>https://ledge.ai/articles/microsoft_hires_altman_and_blockman</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-様々な憶測を呼ぶニュースが飛び交った米国時間の2023年11月19日夜、Microsoft会長兼CEOのサティア・ナデラ氏が自身のX（旧Twitter）公式アカウントで、OpenAIのCEOを解任されたサム・アルトマン氏と同社元幹部のグレッグ・ブロックマン氏がMicrosoftに入社することを{target=“_blank”}。
-
-この投稿にアルトマン氏が「the mission continues.（ミッションは続く）」と続けると、これに対し、ナデラ氏は「あなたがこの新しいグループのCEOとして加わり、イノベーションの新しいペースを作ってくれることをとても楽しみにしています」と返信した。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-この発表後、OpenAIの従業員たちが「OpenAI is nothing without its people（OpenAIは人材なしには成り立たない）」と同じ文言を次々と投稿しており、何らかの団結の意を表明している模様。騒動はまだしばらく収まる様子を見せない。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-
-:::box
-
-:::</description><pubDate>Mon, 20 Nov 2023 11:45:55 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+:::</description><pubDate>Fri, 17 Nov 2023 09:38:33 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
