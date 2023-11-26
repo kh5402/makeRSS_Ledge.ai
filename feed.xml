@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>AIアナウンサー「iina」、テレビ北海道の情報番組に登場 </title><link>https://ledge.ai/articles/iina_ai_digital_human</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>Meta、テキストからの動画・画像生成モデル「Emu Video」＆マルチタスク画像編集ツール「Emu Edit」発表</title><link>https://ledge.ai/articles/meta_emu_video_emu_edit</link><description>:::small
+画像の出典：Meta
+:::
+
+米国Metaは2023年11月16日、拡散モデルに基づいてテキストから動画を生成するモデル「Emu Video」と、マルチタスク画像編集ツール「Emu Edit」を{target=“_blank”}した。これらは同社がMeta Connectで発表した画像生成基盤モデル「Emu」（Expressive Media Universe）に基づいて構築したものだ。
+
+!
+:::small
+画像の出典：Meta
+:::
+
+「Emu Video」はテキストプロンプトを用いてまず画像を生成し、続いてその画像と新たなテキストに基づき動画を生成する2段階プロセスを採用している。生成される動画は512×512ピクセルの解像度で、1秒あたり16フレーム、全長は4秒。専用サイト（{target=“_blank”}）でEmu Videoのサンプル動画を試すことができる。
+
+!
+
+:::small
+画像の出典：Meta
+:::
+
+「Emu Edit」は、テキストプロンプトを使って画像のローカル／グローバル編集、背景の削除／追加、色やジオメトリの変換、検出とセグメンテーションなどを行える画像編集ツールだ。Emu Editのトレーニングには、1,000万個の合成サンプルを含むデータセットが開発された。この種のデータセットとしては最大規模という。具体的な例として、グラスにオレンジジュースを注ぐ画像に対して、さまざまなテキストプロンプトを使って変更していく様子が紹介されている。これも専用サイト（{target=“_blank”}）で試すことが可能だ。
+
+Metaはこれらのモデルがまだ研究途中であるとし、FacebookやInstagramでの公開予定についての詳細はまだ発表していない。Metaは「プロのアーティストやアニメーターに代わるものではないが、人間が自分自身を表現するのに役立つ可能性はある」としている。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 24 Nov 2023 05:52:31 +0000</pubDate></item><item><title>AIアナウンサー「iina」、テレビ北海道の情報番組に登場 </title><link>https://ledge.ai/articles/iina_ai_digital_human</link><description>:::small
 画像の出典：ニュウジア
 :::
 
@@ -247,24 +276,7 @@ HICityは「先端」と「文化」の境界を越えた交流を誘発し、�
 :::box
 
 :::
-</description><pubDate>Mon, 20 Nov 2023 07:58:01 +0000</pubDate></item><item><title>NVIDIA、新GPU「NVIDIA HGX H200」を発表　生成AIやLLMの高速化を促進</title><link>https://ledge.ai/articles/nvidia_hgx_h200</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国NVIDIAは現地時間の2023年11月13日、「NVIDIA HGX H200」を{target=“_blank”}した。これは同社のサーバー向け最新のGPUで、「NVIDIA Hopper」アーキテクチャを使用し、生成AIやLLMなどの高度なタスクを処理するハイパフォーマンスコンピューティング（HPC）を強化するという。
-
-H200はHPC向けの、より高速で大容量のメモリ「HBM3e」を採用した初のGPUで、生成 AI と大規模言語モデル（LLM）の高速化を促進する。毎秒4.8TBで 141GB のメモリを提供し、前世代の NVIDIA A100 に比べ、ほぼ 2 倍の容量と、2.4 倍増加した帯域幅を実現。これにより、生成AIやHPCの処理速度が大幅に向上し、700億パラメータのLLM「Llama 2」の推論速度はH100の約2倍になるという。
-
-フォームファクターは、4ウェイ構成あるいは8ウェイ構成のNVIDIA HGX H200サーバーボードで提供され、NVIDIA HGX H100システムのハードウェアおよびソフトウェアどちらとも互換性がある。あらゆるタイプのデータセンターに導入でき、各パートナーサーバーメーカーは、既存のシステムを H200で更新可能だという。
-
-来年よりH200 ベースのインスタンスを導入する最初のクラウド サービス プロバイダーとして、Amazon Web Services、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructureが加わるとのことだ。H200搭載システムの提供は、2024年第2四半期より、世界の主要サーバーメーカーとクラウドサービスプロバイダーから開始予定。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 17 Nov 2023 09:38:33 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 20 Nov 2023 07:58:01 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
