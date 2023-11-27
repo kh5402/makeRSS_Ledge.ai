@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 01:48:15 +0000</lastBuildDate><item><title>Google、AIバーチャル試着機能をメンズトップスに拡張</title><link>https://ledge.ai/articles/google_vertual_tryon_for_men</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 03:06:40 +0000</lastBuildDate><item><title>Google、AIバーチャル試着機能をメンズトップスに拡張</title><link>https://ledge.ai/articles/google_vertual_tryon_for_men</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -268,7 +268,31 @@ Notion AIアドオンにより、Q&amp;Aの無制限使用、ライティング�
 :::box
 
 :::
-</description><pubDate>Tue, 21 Nov 2023 01:25:29 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 21 Nov 2023 01:25:29 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ノーコード推進協会は2023年11月27日、ノーコード人材育成と適切な理解の普及を目的とした「NCPA認定ノーコードパスポート」の提供開始を{target=“_blank”}した。
+
+同協会は2023年11月1日に一般社団法人化し、ノーコードツールの活用に必要な知識やスキルを証明するこの認定制度を導入している。これにより、IT未経験者も段階的にノーコードスキルを身に付けることが可能となる。
+
+ノーコードパスポートは、ノーコードスキル要素とレベルを設定し、3段階の資格で構成されている。2024年1月より、最初の段階である「NCPA認定ノーコードパスポート サファイア」を開始する予定。試験運営はデータミックス社の「Excert」システムを採用し、初年度の目標受験者数は1,000名とのこと。
+詳細ページ：{target=“_blank”}
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+ 試験詳細は、2024年1月にNCPAのWebサイトにて公開予定
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 27 Nov 2023 03:06:40 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
@@ -1447,62 +1471,7 @@ URL：{target:_blank}
 開催期間：2023年7月3日〜7月31日
 開催形式：オンライン（特設サイト上）とオフライン（28日の1日限定）
 掲載コンテンツ：キーノート（動画）、ウェビナー動画、ソリューション紹介ページ（動画、記事）、生成AI系記事
-想定参加者数：500人</description><pubDate>Mon, 12 Jun 2023 10:00:57 +0000</pubDate></item><item><title>生成AI活用の知識を測る「JDLA Generative AI Test 2023」6/24開催</title><link>https://ledge.ai/articles/jdla_generative_ai_test_2023</link><description>日本ディープラーニング協会（JDLA）は、2023年6月24日に生成AIの能力と知識を測る新たな試験「Generative AI Test 2023」の開催を発表した。この試験は、生成AIの進化とともに現れた法的課題や情報漏洩問題など、新たなリスクを抑えつつ効果的に活用するための道標になるという。
-
-生成AIは自然な文章生成、高品質な画像や音声の生成など、人間の会話と似たような結果を出し、専門知識がない人でも最先端のAIを活用できるようになった。しかし、その活用は様々なリスクを伴う。このテストは、生成AIの仕組みとリスクを正しく理解し、適切に活用する能力や知識を持つことの重要性を踏まえて開催するとのこと。
-
-## 試験内容
-試験内容（シラバス）は、大きく3つの領域に分かれる
-**①生成AIの技術：** テキスト、画像、音声等の生成モデルに共通する技術的な特徴や動向を俯瞰した理解
-・大規模言語モデルの基本構造や、モデルの学習方法について、アラインメント、生成の仕組みなど。
-・大規模言語モデルのオープン化、性能を決める要素、外部ツール・リソースの利用など。
-**②生成AIの活用**
-・生成AIに何ができるか、その活用事例、プロンプトエンジニアリング等性能を拡張する使い方など
-・新たな活用方法を生み出すためのアプローチ、生成AIの活用を制限する要因、特定の業界での活用方法について
-**③生成AIのリスク**
-・生成AIが抱える技術的、倫理的、法的、社会的なリスクについて
-・生成AIの入力（データ）と出力（生成物）について注意すべき事項、新たなリスクの出現とそれに伴う規制化の可能性、活用に伴うリスクを自主的に低減するための方法について
-
-## 試験詳細
-正式名称：「JDLA Generative AI Test 2023」
-受験資格：どなたでも
-実施形式：オンライン(PC/スマホ)
-試験時間：15分
-問題数：約20問、択一式/多肢選択式
-開催日時：2023年6月24日（土）10:00 〜 23:59
-受験申込期間：2023年6月7日（水）13:00 〜 2023年6月20日（火）23:59
-出題範囲：シラバスより出題
-受験費用：2,200円 (税込)
-
-**試験で確認できる観点**
-・生成AIについて、大まかな構造や仕組みが理解できていること
-・生成AIを活用する上で、知っておくべきことが理解できていること
-・生成AIを活用する上で、注意すべきことが理解できていること
-・生成AIの活用法がイメージできていること
-
-**試験をおすすめする人**
-試験は生成AIに興味がある人、活用したいと考えている人、企業や組織における導入・活用を検討している人にとって、有益な内容となっている。
-
-## 多様な専門家による検討から生まれた試験
-同試験は生成AIの活用における技術面、活用面、リスク面の多様な特徴を踏まえた内容で、多様な専門家による検討を経て制作されている。
-
-**検討プロジェクトメンバー**
-・河原 大輔氏：早稲田大学 理工学術院 教授
-・佐々木 雄一氏：Spiral.AI株式会社 代表取締役社長
-・シバタ アキラ氏：Weights &amp; Biases Japan カントリーマネージャー
-・深津 貴之氏：THE GUILD 代表、インタラクションデザイナー
-・山本 優樹氏：デロイト トーマツ グループ　シニアマネジャー
-・勝山 翔紀氏：アシスタント
-
-試験申込方法などはこちら：{target:_blank}」
-
-:::box
-
-:::
-
-:::box
-
-:::</description><pubDate>Mon, 12 Jun 2023 01:01:46 +0000</pubDate></item><item><title>GTP-4を利用した「GitHub Copilot Chat」一般提供12月より「GitHub Universe 2023」で発表</title><link>https://ledge.ai/articles/github_universe2023</link><description>:::small
+想定参加者数：500人</description><pubDate>Mon, 12 Jun 2023 10:00:57 +0000</pubDate></item><item><title>GTP-4を利用した「GitHub Copilot Chat」一般提供12月より「GitHub Universe 2023」で発表</title><link>https://ledge.ai/articles/github_universe2023</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
