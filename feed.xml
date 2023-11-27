@@ -1739,7 +1739,31 @@ OpenAIは過去にも色のついた点を集めて3Dモデルを生成する「
 
 :::box
 
-:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>Google DeepMindの気象予測AI「GraphCast」従来型を上回る精度で10日先までの天気を1分未満で予測</title><link>https://ledge.ai/articles/google_deepmind_graphcast</link><description>:::small
+:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>テキストから動画を生成「Stable Video Diffusion」GitHubで公開ーーStability AI</title><link>https://ledge.ai/articles/stable_video_diffusion</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Sability AIは2023年11月22日、Stable Diffusionを基にした最初の動画生成用基盤モデル「Stable Video Diffusion」を{target=“_blank”}した。現在は研究プレビューとして、コードは{target=“_blank”}で公開され、ローカルでのモデルの実行に必要なウェイトは{target=“_blank”}のページで確認可能だ。
+
+Stable Video Diffusionは、14フレームおよび25フレームを生成できる2種類の画像からビデオへのモデルとしてリリースされ、3～30フレーム/秒のカスタマイズ可能なフレームレートでの生成が可能だ。このモデルは、単一画像からのマルチビュー合成など様々なタスクに適応可能で、広告、教育、エンターテイメントなど多数のセクターでの実用的な応用が示されている。
+
+@
+:::small
+{target=“_blank”}
+:::
+
+現段階では研究専用であり、実世界や商用アプリケーションでの使用は意図されていないとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 24 Nov 2023 05:44:50 +0000</pubDate></item><item><title>Google DeepMindの気象予測AI「GraphCast」従来型を上回る精度で10日先までの天気を1分未満で予測</title><link>https://ledge.ai/articles/google_deepmind_graphcast</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1975,33 +1999,7 @@ KDDIは2021年からStarlinkの国内導入のためSpaceXと提携し、商用�
 
 :::box
 
-:::</description><pubDate>Fri, 15 Sep 2023 03:45:33 +0000</pubDate></item><item><title>UI改善に人手は不要 AIがiPhoneアプリを検索・ダウンロード・データ収集する「終わりなき学習者」
-</title><link>https://ledge.ai/articles/never_ending_learning_ai</link><description>:::small
-画像出典：Never-ending Learning of User Interfaces
-:::
-
-AIが人間の代わりにiPhoneなど向けのアプリケーションをApp Storeから検索、ダウンロード、インストール、操作までしてデータを収集し、別のAIが学習できるよう整える。こんな取り組みを、米国のカーネギーメロン大学やAppleなどに所属する研究者らが論文「{target=“_blank”}」として2023年8月17日に発表した。
-
-論文によると、この研究はAIがiOS向けアプリなどの操作画面（UI）を分析し、より使いやすく改良するための手助けをする。
-
-従来、AIがアプリの分析に利用するためのデータセットはいちいち人間がアプリを操作して収集、注釈付けして作成していた。しかしコストがかかるうえ、特定の分野では手違いが生じやすい。
-
-例えばアプリの操作画面の各部分がタップ可能かどうかは、スクリーンショットや信頼性に欠けるビュー階層などのメタデータから推測することもできるが、確実に知る方法はプログラム的にタップして効果を観察することだ。
-
-研究者らは今回「Never-ending UI Learner（終わりなきUI学習者）」と呼ぶAIを開発。初期の学習データ以外はすべて自動で収集、注釈付けなどを行ってくれる。。それどころかApp  Storeからアプリを探してインストールもする。
-
-終わりなきUI学習者は5000時間以上にわたって稼働し、約6,000種類のアプリに対して50万回以上の操作を行った。結果、作成できたデータセットは、人手による既存のよるものより10倍以上大きかったとする。研究者らはこの新たなデータセットを利用してアプリの「タップ可能性」「ドラッグ可能性」「画面の類似性」についてコンピュータビジョン（CV）による画像認識を行うAIを訓練して検証した。
-
-結果、新たなデータセットで訓練したAIは従来の人手によるものよりもアプリの操作画面分析について正確になる可能性があり、さらに継続して改善してゆけることがわかったという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 15 Sep 2023 02:34:09 +0000</pubDate></item><item><title>ドローン規制緩和案「レベル3.5」新設で無人地帯の物流促す「年内にも事業化をスタート」河野デジタル大臣</title><link>https://ledge.ai/articles/drone_level3-5</link><description>:::small
+:::</description><pubDate>Fri, 15 Sep 2023 03:45:33 +0000</pubDate></item><item><title>ドローン規制緩和案「レベル3.5」新設で無人地帯の物流促す「年内にも事業化をスタート」河野デジタル大臣</title><link>https://ledge.ai/articles/drone_level3-5</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
