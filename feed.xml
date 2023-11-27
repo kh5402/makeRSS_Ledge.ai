@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>Meta、テキストからの動画・画像生成モデル「Emu Video」＆マルチタスク画像編集ツール「Emu Edit」発表</title><link>https://ledge.ai/articles/meta_emu_video_emu_edit</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>LINEヤフーとAdobe、画像生成AIを活用した広告制作で連携
+</title><link>https://ledge.ai/articles/lineyahoo_adobe</link><description>:::small
+画像の出典：Adobe
+:::
+
+米国Adobeは2023年11月16日、LINEヤフーと画像生成AIの広告分野における活用で連携すると{target=“_blank”}した。LINE上で広告を配信する企業や団体は、2024年2月から画像の作成や編集にAdobeの生成AI機能が無料で使えるようになる。
+
+「Adobe Express」と「LINE Creative Lab」が連携することにより、広告制作のクリエイティブ工程の効率化とコンテンツの質向上を目指す。LINEのプラットフォームから「Adobe Express」を開き、専用テンプレートからコンテンツを作成・編集する。その後はLINEのプラットフォームから配信可能だ。
+
+また2024年3月以降、クリエイター支援のためのセミナーやコンテストを順次実施予定。
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Fri, 24 Nov 2023 05:59:09 +0000</pubDate></item><item><title>Meta、テキストからの動画・画像生成モデル「Emu Video」＆マルチタスク画像編集ツール「Emu Edit」発表</title><link>https://ledge.ai/articles/meta_emu_video_emu_edit</link><description>:::small
 画像の出典：Meta
 :::
 
@@ -259,24 +278,7 @@ HICityは「先端」と「文化」の境界を越えた交流を誘発し、�
 
 
 
-</description><pubDate>Mon, 20 Nov 2023 08:00:57 +0000</pubDate></item><item><title>デル、Hugging Faceと協働で生成AIモデルの展開をシンプルに</title><link>https://ledge.ai/articles/dell_huggingface_collaboration</link><description>:::small
-画像の出典：Dell Technologies
-:::
-
-米国Dell Technologies（デル）は2023年11月14日、米国Hugging Faceとの協働を{target=“_blank”}した。これによりデルのインフラストラクチャー製品とサービスを基盤に、Hugging Faceコミュニティーで独自のオープンソース生成AIモデルを簡単に作成、調整、実装できるとしている。
-
-両社は共同で、Hugging Faceプラットフォーム上に新しいデル・テクノロジーズポータルを構築する。このポータルは大規模言語モデル（LLM）のオンプレミス展開を簡素化。専用のカスタムコンテナとスクリプトが含まれ、AIモデルの展開を容易にする。ポータルはデルのインフラストラクチャーに最適化されている。
-
-デル・テクノロジーズのAPJプレジデントPeter Marrs氏は「生成AIはアジア太平洋地域と日本で急速に戦略的焦点となりつつあり、多くの企業が新しいモデルの導入と拡張に投資している。生成AIソリューションの導入は一部の企業にとって複雑になる可能性があるが、生成AIの使用を簡素化し拡張性を持たせることで、両社の新たなコラボレーションが顧客に前例のない保証と柔軟性を提供し、生成AIに対する信頼を築き、この地域でのイノベーションを促進する」と述べている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 20 Nov 2023 07:58:01 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Mon, 20 Nov 2023 08:00:57 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
