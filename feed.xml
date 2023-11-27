@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 Nov 2023 12:05:28 +0000</lastBuildDate><item><title>LINEヤフーとAdobe、画像生成AIを活用した広告制作で連携
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 01:48:15 +0000</lastBuildDate><item><title>Google、AIバーチャル試着機能をメンズトップスに拡張</title><link>https://ledge.ai/articles/google_vertual_tryon_for_men</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2023年11月16日、AIを活用したバーチャル試着ツールの範囲を拡張し、レディース向けトップスに加え、メンズトップスにも対応を開始したと{target=“_blank”}した。今年の6月から、女性向けにこのバーチャル試着ツールが公開されている。
+
+この機能は、ユーザーがGoogleアプリやモバイルブラウザを通じて「メンズトップス」と検索すると、AbercrombieやBanana Republic、J.Crew、Under Armourなど数百のブランドから選択可能な「試着」アイコン付きの結果を表示する。ユーザーは、肌の色合い、体型、身長、サイズなど40種類のモデルから選択し、より自信を持って服を選ぶことができる。
+
+この新機能は、12月から米国のモバイルで展開され、すでに SGE にオプトインしているユーザーは誰でもこのツールを使用できるとのこと。Google アプリ ( AndroidおよびiOS ) のSearch Labsにアクセスし、オプトインできる。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 27 Nov 2023 01:48:15 +0000</pubDate></item><item><title>LINEヤフーとAdobe、画像生成AIを活用した広告制作で連携
 </title><link>https://ledge.ai/articles/lineyahoo_adobe</link><description>:::small
 画像の出典：Adobe
 :::
@@ -252,33 +268,7 @@ Notion AIアドオンにより、Q&amp;Aの無制限使用、ライティング�
 :::box
 
 :::
-</description><pubDate>Tue, 21 Nov 2023 01:25:29 +0000</pubDate></item><item><title>羽田空港隣接「HANEDA INNOVATION CITY」グランドオープン、 日本初のスマートエアポートシティ
-</title><link>https://ledge.ai/articles/haneda_innovation_city_open</link><description>:::small
-画像の出典：羽田みらい開発
-:::
-
-羽田みらい開発（9社が出資）は、羽田空港に隣接する羽田空港跡地第1ゾーン整備事業（第一期事業）において、大田区と官民連携で開発を進める大規模複合施設「HANEDA INNOVATION CITY（HICity）」が2023年11月16日にグランドオープンしたことを{target=“_blank”}した。
-
-
-
-HICityは「先端」と「文化」の境界を越えた交流を誘発し、新たな価値創造を実現する日本初のスマートエアポートシティだ。8つの先端産業分野の機能と5つの文化産業分野の機能が共存し、国内外へ発信するショーケースの役割も担う。商業施設にはロボットが調理・配膳を行う飲食店や、イベント関連店舗などが入居する。
-
-※スマートエアポートシティ：空港近接地における大規模複合開発であり、実証実験の取り組みを行うスマートシティの意
-
-またHICityは、人々の活動や交流を促進する独特の空間も提供する。実証実験やイベントの展開を通じて価値創造を促進。羽田空港エリアに隣接し、スマートシティとしてのテストベッドを形成する。さらに自動運転バスやロボットを活用した実証実験、デジタル基盤の構築などを行う。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Mon, 20 Nov 2023 08:00:57 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
+</description><pubDate>Tue, 21 Nov 2023 01:25:29 +0000</pubDate></item><item><title>無料で機械学習が学べるコンテンツ＋α 特集 2023年・秋版</title><link>https://ledge.ai/articles/free-learning-Autumn</link><description>:::small
 画像の出典：Adobe Fireflyでプロンプト[秋にプログラムの勉強をする猫]で生成
 :::
 
