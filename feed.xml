@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 06:34:38 +0000</lastBuildDate><item><title>Anthropicが「Claude 2.1」発表、20万トークン処理が可能な大規模言語モデル</title><link>https://ledge.ai/articles/anthropic_claude</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 06:39:02 +0000</lastBuildDate><item><title>Google DeepMind、AI音楽モデル「Lyria」と音楽制作ツールセット発表　YouTubeと提携し実験</title><link>https://ledge.ai/articles/google_deepmind_youtube_lyria</link><description>:::small
+画像の出典：An Early Look at the Possibilities as we Experiment with AI and Music
+:::
+
+
+Google傘下のAI関連企業Google DeepMindは2023年11月16日、音楽生成に特化したAIモデル「Lyria」と、Lyriaで音楽制作ができる2つのツールセット「Dream Track」「Music AI Tools」を[発表](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/
+{target=“_blank”}した。YouTubeと{target=“_blank”}し、AI関連の音楽実験を行う。
+
+@
+
+
+Dream Trackは、YouTube ShortsでLyriaを使う実験だ。選ばれたクリエイターは、アレック・ベンジャミンやチャーリー・プースなど提携アーティストのAI生成音楽を動画に使用できる。実験参加者はトピックを入力し、アーティストを選択することで、ショート動画に30秒のサウンドトラックを生成可能。Lyriaは選んだアーティストのスタイルで歌詞、バッキングトラック、音声を一度に生成する。
+
+@
+
+またMusic AI Toolsを使うと、ユーザーは新曲の作曲や曲のスタイル変更ができる。さらにAI生成オーディオにSynthIDを使用して、電子すかしを埋め込むことも明らかになった。このすかしは人間の耳には聞こえないため、視聴体験に影響を与えないという。
+
+
+:::box
+[関連記事：GoogleがAI開発組織を統合、「Google DeepMind」へ
+](https://ledge.ai/articles/google-deepmind)
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 27 Nov 2023 06:39:02 +0000</pubDate></item><item><title>Anthropicが「Claude 2.1」発表、20万トークン処理が可能な大規模言語モデル</title><link>https://ledge.ai/articles/anthropic_claude</link><description>:::small
 画像の出典：Anthropic
 :::
 
@@ -254,27 +279,7 @@ Copilot Studioは、ユーザーが独自のCopilotを簡単に構築できる�
 :::
 
 
-</description><pubDate>Wed, 22 Nov 2023 06:19:29 +0000</pubDate></item><item><title>沖縄海邦銀行、大部分を生成AIで制作した企業CMを公開　国内金融機関では初の試み</title><link>https://ledge.ai/articles/kaiho_bank_ai_cm</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-沖縄海邦銀行は、生成AIを活用した企業CMを制作し、2023年11月14日に{target=“_blank”}した。
-
-映像、BGM、ナレーションの大部分をAIが生成するCMは、国内金融機関としては初の試みだという。同行は、AIの可能性を最大限活用し、県民に魅力的なメッセージを届けると同時に、中小企業客にAI活用を後押しすることを目指す。
-
-!
-:::small
-画像の出典：
-:::
-
-制作過程では、クリエーターたちはAIの使用方法を探りながら、映像、BGM、ナレーションを生成。試行錯誤を重ね、数万通りのデータを生み出し、最終的に3本のCMが完成した。{target=“_blank”}によると、編集作業だけに人の手が加わっており、制作は同行のホームページ運営やキャラクターデザインを担う東京のデザイン会社が請け負うスタイルのため、制作費用はタレントを起用する従来と比べ「半分以下」（同行総合企画部）とのことだ。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 22 Nov 2023 03:10:48 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Wed, 22 Nov 2023 06:19:29 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
