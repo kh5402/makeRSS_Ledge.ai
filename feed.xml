@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 06:39:02 +0000</lastBuildDate><item><title>Google DeepMind、AI音楽モデル「Lyria」と音楽制作ツールセット発表　YouTubeと提携し実験</title><link>https://ledge.ai/articles/google_deepmind_youtube_lyria</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 06:39:02 +0000</lastBuildDate><item><title>Amazon Fire タブレット「アレクサを視線で操作」機能リリース　Fire Max 11ーー言語障害・運動障害のあるユーザーも支援</title><link>https://ledge.ai/articles/eye_gaze_on_alexa</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Amazonは2023年11月16日、Fireタブレットの最新モデル「Fire Max 11」において、目の動きでAlexaを操作できる新機能「Alexaを視線で操作（Eye Gaze on Alexa）」を日本で{target=“_blank”}した。
+
+この機能は、特に音声やタッチ操作が難しいユーザーのために設計されており、Amazonが今年9月に米国本社で開催した新製品発表会で初めて紹介された。
+
+「Eye Gaze on Alexa」は、ユーザーの視線を追跡し、リアルタイムでその視線が向かっている対象を認識する。この機能は、既存の機能と連携し、音楽の再生、通話、スマートホーム環境の制御などの事前設定されたAlexaアクションを実行することが可能だ。{target=“_blank”}によるとAmazonは、日常業務の支援、例えば照明のオン・オフや介護者とのコミュニケーションのために、速記言語病理学者と協力してこの機能を開発したという。
+
+:::box
+
+:::</description><pubDate>Mon, 27 Nov 2023 01:50:47 +0000</pubDate></item><item><title>Google DeepMind、AI音楽モデル「Lyria」と音楽制作ツールセット発表　YouTubeと提携し実験</title><link>https://ledge.ai/articles/google_deepmind_youtube_lyria</link><description>:::small
 画像の出典：An Early Look at the Possibilities as we Experiment with AI and Music
 :::
 
@@ -255,31 +267,7 @@ Copilot Studioは、ユーザーが独自のCopilotを簡単に構築できる�
 
 :::
 
-</description><pubDate>Wed, 22 Nov 2023 06:25:08 +0000</pubDate></item><item><title>百度が華為からAI半導体を発注　米国の対中規制強化に対応し、NVIDIA依存から脱却</title><link>https://ledge.ai/articles/baidu_huawei_tip</link><description>:::small
-画像の出典：写真AC
-:::
-
-中国の百度（バイドゥ）が華為技術（ファーウェイ）にAI半導体を発注していたと{target=“_blank”}が2023年11月8日に報じた。
-
-関係者によると、百度は8月、バイデン米政権の対中規制強化による輸出規制に先駆けてファーウェイからチップを発注。ファーウェイの910BアセンドAIチップは、NVIDIAのA100チップの代替品として開発されたという。
-
-ファーウェイは百度からサーバー200台分に1,600個のチップを受注し、10月までに約600台を納入。受注総額は約4億5000万元（6183万ドル）で、年末までにすべてのチップを納入する予定という。百度がファーウェイのAIチップの顧客であることは、これまで知られていなかった。
-
-ファーウェイのアセンドチップはNVIDIAのチップに比べ性能が劣るが、中国で入手可能な最も高性能の国内オプションという。百度は独自のKunlun AIチップも開発しているが、LLMトレーニングにはNVIDIAのA100チップに依存している。
-
-「彼らはNVIDIAから購入できなくなるかもしれない将来に備えて910Bチップを注文していた」と情報筋は語った。百度とファーウェイはコメント要請に応じていない。NVIDIAはコメントを控えた。
-(1ドル = 7.2782 中国人民元)
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Wed, 22 Nov 2023 06:19:29 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Wed, 22 Nov 2023 06:25:08 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
