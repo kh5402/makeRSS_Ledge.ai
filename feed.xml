@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 03:06:40 +0000</lastBuildDate><item><title>Google、AIバーチャル試着機能をメンズトップスに拡張</title><link>https://ledge.ai/articles/google_vertual_tryon_for_men</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 06:34:38 +0000</lastBuildDate><item><title>Anthropicが「Claude 2.1」発表、20万トークン処理が可能な大規模言語モデル</title><link>https://ledge.ai/articles/anthropic_claude</link><description>:::small
+画像の出典：Anthropic
+:::
+
+米国Anthropicは2023年11月21日、大規模言語モデル「Claude 2.1」を{target=“_blank”}した。同社は元OpenAIエンジニアが創業したAIスタートアップだ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Claude 2.1は、20万トークンを処理可能だ。OpenAIのGPT-4は約3万2000トークンの処理能力を持っているが、これを大幅に上回るという。英単語で約15万ワード、500ページ以上の資料に相当するという。Anthropicはこの大規模言語モデルを「業界初」と表現している。
+
+Claude 2.1では、先代モデル「Claude 2.0」に比べてハルシネーション（不正確な情報の生成）の発生が半減している。弱点を探るテストを行ったところ、不正確な情報を提供するより、降参することが多いという結果が出たという。
+
+Claude 2.1の公開に伴い、Anthropicはベータ版の新機能としてデータベース検索やWeb検索APIなどのツールを提供開始。これらのツールは開発初期の段階にあり、開発者向け機能やガイドラインが作成中とのこと。
+
+Claude 2.1はAPIを通じて利用可能で、claude.aiのチャットサービスでは無料版とプロ版の両方からアクセスできる。ただし、最大20万トークンの処理能力はClaude Proユーザーに限定されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 27 Nov 2023 06:34:38 +0000</pubDate></item><item><title>Google、AIバーチャル試着機能をメンズトップスに拡張</title><link>https://ledge.ai/articles/google_vertual_tryon_for_men</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -248,27 +274,7 @@ Copilot Studioは、ユーザーが独自のCopilotを簡単に構築できる�
 :::
 :::box
 
-:::</description><pubDate>Wed, 22 Nov 2023 03:10:48 +0000</pubDate></item><item><title>Notion、新AI機能「Q&amp;A」をベータ版で公開</title><link>https://ledge.ai/articles/notion_qanda</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Notionは2023年11月14日、新AI機能である「Q&amp;A」をベータ版でリリースしたことを{target=“_blank”}した。この機能は、知識、ドキュメント、プロジェクト、会議ノートなどから即座に任意の質問に回答する方法を提供する。Q&amp;Aは、Notion内のページやデータベースに保存されている情報にアクセスし、AIを用いてそれらをユーザーに提示する。
-
-@
-
-
-新機能は、AnthropicおよびOpenAIの協力のもとに開発されている。顧客のデータはAIモデルのトレーニングには使用されず、Q&amp;Aで回答を受け取る際には、閲覧権限のあるページの情報のみを参照する​​という。
-
-Notion AIアドオンにより、Q&amp;Aの無制限使用、ライティングアシスタント、データベースの自動入力機能が提供される。有料プランには月額8ドル（年間課金）または10ドル（月額課金および無料プラン）で追加可能。Q&amp;Aは英語以外の言語にも対応。ベータ版提供中に他の言語での応答品質の向上を目指すとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 21 Nov 2023 01:25:29 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Wed, 22 Nov 2023 03:10:48 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
