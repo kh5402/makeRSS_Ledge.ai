@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 Nov 2023 06:39:02 +0000</lastBuildDate><item><title>Amazon Fire タブレット「アレクサを視線で操作」機能リリース　Fire Max 11ーー言語障害・運動障害のあるユーザーも支援</title><link>https://ledge.ai/articles/eye_gaze_on_alexa</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 28 Nov 2023 07:04:04 +0000</lastBuildDate><item><title>北海道知事「心から歓迎します」ソフトバンク、苫小牧市にAIデータセンター「Core Brain」構築へ</title><link>https://ledge.ai/articles/softbank_dataenter_hokkaido</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+北海道の鈴木直道知事は2023年11月24日の定例記者会見で、ソフトバンク社長の宮川潤一氏との面談について{target=“_blank”}した。
+
+知事は、ソフトバンクが北海道苫小牧市でデータセンターを建設する計画を歓迎し、道として最大限のサポートをしていく意思を伝えたという。宮川社長からは、データセンターを活用しながら、北海道のDXを進めたいとの考えが示され、包括連携協定の締結に向けて協議していくことで一致した。今後、両者でデジタルインフラの整備やデジタル産業の集積を進め、北海道の経済と地域の活性化を図っていく方針だ。
+
+同月7日に、ソフトバンクとその子会社であるIDCフロンティアが苫小牧市に大規模な計算基盤を備えたデータセンター「Core Brain」の建設を{target=“_blank”}している。このプロジェクトは、経済産業省が支援する「データセンター地方拠点整備事業費補助金」により推進される。
+
+ソフトバンクとIDCフロンティアは、AIの普及に伴うデータ処理および電力需要の急増に対応し、データセンターのレジリエンス強化と電力負荷の分散を図る目的で、この新たな拠点を設立する。
+
+:::box
+
+:::</description><pubDate>Tue, 28 Nov 2023 07:04:04 +0000</pubDate></item><item><title>Amazon Fire タブレット「アレクサを視線で操作」機能リリース　Fire Max 11ーー言語障害・運動障害のあるユーザーも支援</title><link>https://ledge.ai/articles/eye_gaze_on_alexa</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -226,47 +240,7 @@ OpenAIは同日のX公式アカウントに「サム・アルトマン氏がCEO�
 :::
 
 
-</description><pubDate>Wed, 22 Nov 2023 06:30:28 +0000</pubDate></item><item><title>MicrosoftがAIサービス全体を「Microsoft Copilot」で統一、OpenAI GPTs相当のCopilot Studioも発表
-</title><link>https://ledge.ai/articles/microsoft_copilot_studio</link><description>:::small
-画像の出典：Microsoft
-:::
-
-米国Microsoftは2023年11月15日、開発者向けイベント「Microsoft Ignite」を開催し、「Bing Chat」および法人向けの「Bing Chat Enterprise」を「Copilot」にリブランドすることを{target=“_blank”}した。同時にユーザーが独自のCopilotを簡単に構築できる「Copilot Studio」も発表した。
-
-
-同社は「Microsoft 365 Copilot」を「Copilot for Microsoft 365」に、「Microsoft Sales Copilot」を「Copilot for Sales」にそれぞれ改称。またAIサービス全体を「Microsoft Copilot」で統一する。
-
-Copilotの公式Webサイト「{target=“_blank”}」が公開されており、ChromeやSafariなど、Edge以外のブラウザからも利用できる。モバイルアプリもまもなく公開されるとのこと。
-
-Entra ID（旧Azure Active Directory）でCopilotにサインインすると、無料で商用データ保護を受けられる。チャットデータは保存されず、Microsoftの監視下に置かれない。またモデルのトレーニングにデータが使用されることもない。
-
-
-!
-:::small
-画像の出典：Microsoft
-:::
-
-Copilot Studioは、ユーザーが独自のCopilotを簡単に構築できるツールスイートだ。これはOpenAIの「GPTs」に相当するとみられる。コーディングの必要はなく、自然言語で指示してオリジナルのCopilotを作成できる。さらに、企業独自のニーズに合わせてカスタマイズしたCopilotを公開することも可能だ。
-
-!
-:::small
-画像の出典：Microsoft
-:::
-
-また「Bing」の検索結果に生成AIによる要約を表示する機能「Generative AI Captions」も{target=“_blank”}。これは検索した人に関連性が高く、わかりやすい概要を生成する機能だ。概要は検索時のキーワードに合わせて調整され、異なるキーワードで検索した場合には異なる概要が表示されることがある。Webサイトの管理者は「noarchive」「maxsnippet」「nosnippet」などのメタタグを使用して、概要の生成を制御できるという。
-
-:::box
-
-:::
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 22 Nov 2023 06:25:08 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Wed, 22 Nov 2023 06:30:28 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
