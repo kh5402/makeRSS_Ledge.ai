@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 28 Nov 2023 07:08:55 +0000</lastBuildDate><item><title>Tesla Model 3のオートパイロット事故、フロリダ州裁判所「マスク氏はシステム欠陥知っていた」</title><link>https://ledge.ai/articles/tesla_florida_court</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 29 Nov 2023 03:48:19 +0000</lastBuildDate><item><title>Tesla Model 3のオートパイロット事故、フロリダ州裁判所「マスク氏はシステム欠陥知っていた」</title><link>https://ledge.ai/articles/tesla_florida_court</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1934,7 +1934,24 @@ KDDIは2021年からStarlinkの国内導入のためSpaceXと提携し、商用�
 
 :::box
 
-:::</description><pubDate>Fri, 15 Sep 2023 03:45:33 +0000</pubDate></item><item><title> 物流ドローンが越佐海峡を横断するラストワンマイル配送 -国土交通省の実証事業を公開</title><link>https://ledge.ai/articles/sado_drone_last_one_mile</link><description>:::small
+:::</description><pubDate>Fri, 15 Sep 2023 03:45:33 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
+画像の出典：神戸市
+:::
+
+神戸市は2023年11月24日、業務でAIを利用する際のルールを条例化すると{target=“_blank”}した。「（仮称）神戸市における AI の活用等に関する条例」の制定を予定しており、本条例の制定に向けた有識者会議の設置及び意見募集手続きを実施する。
+
+
+神戸市は、全国に先駆けてChatGPTを含む生成AIに関する「神戸市情報通信技術を活用した行政の推進等に関する条例」を5月に改正した。今後さらにAI技術の幅広い活用が見込まれるため新たな条例を制定し、AIを安全かつ効果的に活用する社会を目指す。
+
+条例（案）には基本指針の策定、リスクアセスメントの実施、AIチャットボット、市民・事業者のAI活用施策、学校教育でのAI適正使用教育、AI活用アドバイザーなどが含まれる。条例は神戸市および市の業務を請負・受託する事業者が対象であり、市民や一般事業者のAI活用を制限するものではない。
+
+条例制定にあたり、市民・事業者からの意見募集を2023年11月24日から12月25日まで実施する。AI条例案に対する意見聴取のための有識者会議を設け、第1回は2023年11月30日に開催予定。
+
+
+:::box
+
+:::
+</description><pubDate>Wed, 29 Nov 2023 03:48:19 +0000</pubDate></item><item><title> 物流ドローンが越佐海峡を横断するラストワンマイル配送 -国土交通省の実証事業を公開</title><link>https://ledge.ai/articles/sado_drone_last_one_mile</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2181,25 +2198,7 @@ NECは2023年10月20日、自治体業務における生成AIの活用に向け�
 :::
 :::box
 
-:::</description><pubDate>Mon, 30 Oct 2023 08:47:30 +0000</pubDate></item><item><title>警視庁、都内の渋滞緩和にAI活用の信号機制御を開始</title><link>https://ledge.ai/articles/metropolitan_police_department_traffic_light_ai</link><description>:::small
-画像の出典：写真AC
-:::
-
-警視庁が都内の渋滞対策として、AIによる信号機制御の取り組みを開始すると2023年10月19日に{target=“_blank”}が報じた。全国の警察における、信号制御へのAIの本格導入は初という。
-
-都内一般道路の平日平均の渋滞は123キロにおよぶ。都内には約1万6千基の信号機があり、うち約8千基が交通管制センターで制御されている。現在は交通量を感知し、職員が手動で青信号の長さを調整している。
-
-AIは過去の交通データを基に渋滞状況を予測し、青信号の長さを自動調整する。具体的には30分後の渋滞を、40メートル以下の誤差で予測する。
-
-AIは住友電気工業らが開発した。2022年度から渋滞予測活用を開始し、数交差点でAI制御に切り替え、効果を検証した。信号機のシステム障害は混乱を招くリスクがあるが、サイバー攻撃の危険性は低い。警視庁は24時間体制で保守点検を実施する。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 26 Oct 2023 00:37:25 +0000</pubDate></item><item><title>AIが、ジョン・レノンの声だけ採り出し完成　ビートルズ最後の新曲『Now and Then』ミュージックビデオ公開</title><link>https://ledge.ai/articles/beatles_ai_nowandthen</link><description>:::small
+:::</description><pubDate>Mon, 30 Oct 2023 08:47:30 +0000</pubDate></item><item><title>AIが、ジョン・レノンの声だけ採り出し完成　ビートルズ最後の新曲『Now and Then』ミュージックビデオ公開</title><link>https://ledge.ai/articles/beatles_ai_nowandthen</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
