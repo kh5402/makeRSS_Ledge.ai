@@ -1666,7 +1666,37 @@ OpenAIは過去にも色のついた点を集めて3Dモデルを生成する「
 
 :::box
 
-:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>テキストから動画を生成「Stable Video Diffusion」GitHubで公開ーーStability AI</title><link>https://ledge.ai/articles/stable_video_diffusion</link><description>:::small
+:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>任意の文章のLLM事前学習を検出する新ツール発表　ワシントン大学とプリンストン大学
+</title><link>https://ledge.ai/articles/detecting_pretraining_data_llm</link><description>:::small
+画像の出典：Detecting Pretraining Data from Large Language Models
+:::
+
+
+米国ワシントン大学と米国プリンストン大学に所属する研究者らが2023年11月3日に発表した論文{target=“_blank”}は、任意の文章が大規模言語モデル（LLM）で事前学習されているかを検出するツールを提案したものだ。
+
+大規模言語モデル（LLM）の訓練には、非公開で問題を引き起こす可能性があるテキスト（著作権で保護された文書、個人識別情報、ベンチマークのテストデータなど）が含まれることがある。過去の研究で、LLMが著作権で保護された書籍の一部や個人のメールを生成した事例がある。しかし現在、LLMの訓練データに何がどれだけ含まれているかを知る方法はない。
+
+この研究は、どの事前学習データが使用されたか不明な状況で、特定のテキストが言語モデルの事前学習データに含有されているかを判断できるかを評価するものだ。ベンチマークとして「WIKIMIA」、検出手法として「MIN-K% PROB」が提案されている。
+
+WIKIMIAは、モデル訓練前後のWikipediaデータを利用している。MIN-K% PROBは、外れ値トークンの平均確率を計算するものだ。実験では従来の方法よりも高い性能を示し、特にWIKIMIAでのAUCスコアが7.4%向上した。また「著作権のある書籍の検出」「プライバシー監査」「データセットの汚染検出」で優れた性能を発揮した。
+
+!
+
+:::small
+画像の出典：Detecting Pretraining Data from Large Language Models
+:::
+
+著作権のある書籍の検出に関する実験では、GPT-3がBooks3データセットに含まれる著作権で保護された書籍を使用して事前学習された可能性が高いことを示す証拠が見つかった。またプライバシー監査の実験では、著作権で保護された書籍の情報を忘れさせるように訓練されたLLMを再検証した。その結果、依然として著作権で保護されたコンテンツを生成する可能性があることを示唆した。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 29 Nov 2023 03:55:50 +0000</pubDate></item><item><title>テキストから動画を生成「Stable Video Diffusion」GitHubで公開ーーStability AI</title><link>https://ledge.ai/articles/stable_video_diffusion</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1908,25 +1938,7 @@ Prompt2Modelの利点は、従来手間のかかっていた作業を自動化�
 :::
 :::box
 
-:::</description><pubDate>Thu, 21 Sep 2023 03:56:24 +0000</pubDate></item><item><title>西表島で「Starlink」とAI使い外来種調査 KDDIとスタートアップがタッグ</title><link>https://ledge.ai/articles/biome_reserch_iriomote</link><description>:::small
-画像出典：KDDI
-:::
-
-沖縄セルラー電話、KDDI、AIスタートアップのバイオームの3社は、2023年9月7日～8日に沖縄県西表島で{target=“_blank”}を実施した。スマートフォンで撮影した生物をAIが判定するアプリケーション「Biome（バイオーム）」と、イーロン・マスク氏率いる米国Space Exploration Technologies（SpaceX）の衛星通信サービス「Starlink」を活用した国内初の取り組み。
-
-西表島には絶滅危惧種であるイリオモテヤマネコなどの固有種が多く生息しており、侵略的外来種の影響について懸念があるため調査が必要となっている。
-
-KDDIは2021年からStarlinkの国内導入のためSpaceXと提携し、商用向けに「Starlink Business」のブランドで展開しており、今回は西表島の携帯電話回線が不安定な地域にStarlink Businessでインターネット回線を構築。Biomeを使って外来種の分布データを収集した。Biomeは日本国内のほぼ全種（約10万種）の動植物を収録しており、専門家でなくても高精度な調査が可能だ。
-
-この調査は沖縄セルラーが2021年から進める「おきなわ自然保護プロジェクト」の一環として、環境省沖縄奄美自然保護事務所、沖縄県環境部自然保護課、竹富町の協力で実施。収集したデータは各組織に共有し、生物多様性保全に活用する。
-
-調査の背景として、2022年末の生物多様性条約第15回締約国会議（COP15）が生物多様性保全の世界目標を採択し、自然資本の重要性が高まっていることがある。奄美・沖縄も生物多様性保全に重要地域となっている。
-
-沖縄セルラーは従来、インターネット接続機能を備えた機器、いわゆるIoTのカメラで動物の分布を調査しているがこれまで収集できたデータ量が十分でないことや、自然が豊かな地域では通信が不安定な場合があるなどの課題があった。
-
-:::box
-
-:::</description><pubDate>Fri, 15 Sep 2023 03:45:33 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
+:::</description><pubDate>Thu, 21 Sep 2023 03:56:24 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
 画像の出典：神戸市
 :::
 
