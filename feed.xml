@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 30 Nov 2023 10:28:01 +0000</lastBuildDate><item><title>『ConoHa byGMO』を用いた美容師向け生成AIアプリ開発への挑戦 元美容師の異色の経歴を持つ代表にインタビュー</title><link>https://ledge.ai/articles/conoha-3</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 09:37:25 +0000</lastBuildDate><item><title>『ConoHa byGMO』を用いた美容師向け生成AIアプリ開発への挑戦 元美容師の異色の経歴を持つ代表にインタビュー</title><link>https://ledge.ai/articles/conoha-3</link><description>:::box
 **膨大なデータ量の学習を行うAI（人工知能）の開発においては、GPUは必要不可欠と言える。しかし、「GPUサーバーに適したデータセンターが少ない」「生成AIブームによる世界的な需要の高まりで、GPUが調達できない場合がある」など、乗り越えなければならない課題もいくつかある。では、AIサービス事業者は、どのようにGPUを利用しているのだろうか？**
 **今回、GMOインターネットグループ株式会社が8月より提供を行ったGPUホスティングサービス『ConoHa byGMO』のトライアル版を利用した各社へインタビューを行った。全3回の連載でお届けする。本稿は3回目。**
 :::
@@ -1765,7 +1765,24 @@ OpenAIは過去にも色のついた点を集めて3Dモデルを生成する「
 
 :::box
 
-:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>任意の文章のLLM事前学習を検出する新ツール発表　ワシントン大学とプリンストン大学
+:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>AI「電子舌」を開発。人間の感覚と情動を統合し食行動を模倣するーーペンシルベニア州立大学研究チーム</title><link>https://ledge.ai/articles/an_electronic_tongue</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ペンシルベニア州立大学の研究チームが2023年9月27日、人間の食行動を模倣するための全2Dバイオインスパイアード回路を開発したと{target=“_blank”}した。このシステムは、食事における生物学的な味覚経路を簡略化し、食べ物の化学的な構成を感知するための「電子舌」として機能するグラフェン化学トランジスターを含む。また、食行動を制御する「飢餓ニューロン」と「食欲ニューロン」を含む電子回路が、人間の味覚皮質を模倣するという。
+
+動物の行動は体の機能と心の働きの複雑な組み合わせによって成り立っているが、現在のAIではこの結びつきが十分に理解されておらず、心理学的な側面が考慮されにくい傾向にあるという。例えば、空腹状態だけが食事という行為に即つながるわけではなく「おいしそう」と感じる心の状態が影響することなどは理解されにくいといったことだ。
+
+近年、脳の画像技術や遺伝学の進展により、例えば食事などの行動をコントロールする特定の神経回路が明らかになってきた。この研究では、人間の食行動を模倣する新しいシステムが提案されている。このシステムは、人間が食事をする際の体の状態（例えば空腹）や心の状態（例えば食欲）を考慮する。
+
+研究チームは、この技術が人間の健康への応用や、感情を持つヒューマノイドAIの開発にも影響を与え、人間の味覚のみならず他の感覚システムへの応用が期待できると述べている。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 01 Dec 2023 09:37:25 +0000</pubDate></item><item><title>任意の文章のLLM事前学習を検出する新ツール発表　ワシントン大学とプリンストン大学
 </title><link>https://ledge.ai/articles/detecting_pretraining_data_llm</link><description>:::small
 画像の出典：Detecting Pretraining Data from Large Language Models
 :::
@@ -2022,22 +2039,7 @@ Prompt2Modelの利点は、従来手間のかかっていた作業を自動化�
 
 :::
 
-</description><pubDate>Thu, 21 Sep 2023 04:33:55 +0000</pubDate></item><item><title>豪雨もたらす「線状降水帯」画像AIで観測精度改善 気象庁と理研</title><link>https://ledge.ai/articles/jma_riken_senjoukousuitai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-気象庁は、理化学研究所 革新知能統合研究センターの共同研究で、AI技術を用いた降水量予測の精度改善や全国の気温実況値を推定する技術の開発などにおいて一定の成果を得たと2023年6月30日に{target=“_blank”}した。研究期間は2019年1月23日から2023年3月31日の約3年間。 気象庁と理化学研究所がそれぞれ、気象現象とAI技術に関する知見を相互に持ち寄り研究開発を進めた。
-
-研究成果のひとつに、AIを使った新たな観測データの処理方法が挙げられる。高精度センサーで得た大気中の水蒸気観測データから、AIを使ってデータのノイズを取り除くというものだ。 気象庁では、この技術を、大雨を降らせる「線状降水帯」のメカニズム解明研究で用い、今後気象レーダーや衛星の観測データなどに対しての応用可能性を検討するという。
-
-気象庁は、次々と発生する発達した雨雲が列をなし組織化した積乱雲群を「線状降水帯」と呼び、予測が難しいとされる「顕著な大雨に関する気象情報」を伝える{target=“_blank”}している。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 21 Sep 2023 03:56:24 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
+</description><pubDate>Thu, 21 Sep 2023 04:33:55 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
 画像の出典：神戸市
 :::
 
