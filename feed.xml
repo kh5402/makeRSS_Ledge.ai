@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 09:37:25 +0000</lastBuildDate><item><title>『ConoHa byGMO』を用いた美容師向け生成AIアプリ開発への挑戦 元美容師の異色の経歴を持つ代表にインタビュー</title><link>https://ledge.ai/articles/conoha-3</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 09:40:35 +0000</lastBuildDate><item><title>『ConoHa byGMO』を用いた美容師向け生成AIアプリ開発への挑戦 元美容師の異色の経歴を持つ代表にインタビュー</title><link>https://ledge.ai/articles/conoha-3</link><description>:::box
 **膨大なデータ量の学習を行うAI（人工知能）の開発においては、GPUは必要不可欠と言える。しかし、「GPUサーバーに適したデータセンターが少ない」「生成AIブームによる世界的な需要の高まりで、GPUが調達できない場合がある」など、乗り越えなければならない課題もいくつかある。では、AIサービス事業者は、どのようにGPUを利用しているのだろうか？**
 **今回、GMOインターネットグループ株式会社が8月より提供を行ったGPUホスティングサービス『ConoHa byGMO』のトライアル版を利用した各社へインタビューを行った。全3回の連載でお届けする。本稿は3回目。**
 :::
@@ -2303,7 +2303,37 @@ NECは2023年10月20日、自治体業務における生成AIの活用に向け�
 :::
 :::box
 
-:::</description><pubDate>Mon, 30 Oct 2023 08:47:30 +0000</pubDate></item><item><title>AIと人間の共同創作「ブラック・ジャック」新作完成『TEZUKA2023プロジェクト』週刊少年チャンピオンで公開</title><link>https://ledge.ai/articles/tezuka2023_blackjack_heartbeat_markII</link><description>:::small
+:::</description><pubDate>Mon, 30 Oct 2023 08:47:30 +0000</pubDate></item><item><title>独自のAI活用アニメーション構築フローで制作の工程を効率化‐‐KaKa Creation1.6億円の資金調達完了</title><link>https://ledge.ai/articles/hinahima_kakacreation</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+KaKa Creationは2023年11月22日、約1.6億円の資金調達を完了し、AIアニメ制作事業をはじめとする制作・プロデュース事業を開始したことを{target=“_blank”}した。
+
+「AIの力で、創造する人に力を。もっと、世界をつなぐクリエイションを」というミッションのもと、同社は独自のAIアニメーション構築フローを開発し、様々なアニメコンテンツを世界に向けて展開する。AIで作業工数を削減させ、人間のクリエイターは創造的な作業に尽力できる世界を目指す。
+
+アニメ制作においては、主にTikTokやYouTube Short などのプラットフォームを中心に縦型ショートアニメの制作を行う。第一弾として、TikToker「ひなひま」という双子のアニメキャラクターを登場させた。
+
+このキャラクターは主に、CGソフトとAIソフトの2つを使用してアニメ制作を行っている。3DアニメをStable Diffusionでセルアニメに変換するというアイディアをベースにした独自のワークフローを構築。
+
+Stable Diffusion単体でのアニメ制作が難しい仕様であったため、サブツールとしてMaya（Autodesk社）、Unreal Engine5（Epic Games社）などで作成したCG映像を、AIがアニメ生成をする際の参照元データと設定。最終的にStable Diffusionでアニメを制作したという。
+
+
+@
+:::small
+{target=“_blank”}
+:::
+
+KaKa Creationは、AIの活用を「工程の効率化」と捉え、人を感動させられるのは人間の創造力と意志であると考えている。AIをサポートツールとして用いる「サポーティブAI」という概念を採用し、アニメ業界の課題解決を目指す。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 01 Dec 2023 09:40:35 +0000</pubDate></item><item><title>AIと人間の共同創作「ブラック・ジャック」新作完成『TEZUKA2023プロジェクト』週刊少年チャンピオンで公開</title><link>https://ledge.ai/articles/tezuka2023_blackjack_heartbeat_markII</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2551,38 +2581,4 @@ Web版ではPhotoshopユーザーでなくても、共有されたリンクか�
 :::box
 
 :::
-</description><pubDate>Mon, 02 Oct 2023 04:24:32 +0000</pubDate></item><item><title>生成AI に揺れるゲーム業界「Steam：AIを組み込めばBAN」 「Epic：うちで配信すれば？」</title><link>https://ledge.ai/articles/steam_rejects_ai_and_epic_allows_it</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Valveの運営するゲームプラットフォーム「Steam」で2023年9月3日、開発したゲームのオプションとしてユーザーがChatGPTのModを組み込めるプログラムを追加したところ、Steamからそのゲームを永久にBAN（禁止）された。Steamは「your game contains AI（あなたのゲームにはAIが組み込まれている）」と回答したが、ゲームそのものに、ChatGPTを利用した生成要素が実装されているわけではないという。
-
-プレイヤーがMod（modification：ゲームの改造データ）機能を使うと、遊び方に広がりができる。これはプレイヤー側で任意に活用するもので、たとえば「ChatGPT Mod」を使うと、ゲームに登場するモンスターなどのキャラクターとChatGPTを使った会話などが楽しめる。
-
-騒動になった「Heard of the Story?」は、村を建設しながらコミュニティを育てるシミュレーションゲームで、プレイヤー側でこのModを設定すると、登場する村人と会話ができるようになるという。これは必須機能ではなくそのままプレイすることもできる。開発者は、ユーザーが自身でChatGPT Modを導入する際にサポートするオプションを用意しただけだったという。
-
-ゲーム配信前の審査期間に、SteamからAIに関する詳細を求められたため、開発者は、本作自体にはAIによって生成されるコンテンツが含まれないことを説明し、念のため同オプションを削除したものも用意していたが、一方的に配信拒否と再申請不可を通告されたとのこと。
-
-開発者はこのことをインターネットの掲示板「Reddit」や、X（旧Twitter）に投稿し、話題となった。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-このニュースを受けたエピック ゲームズの創設者兼CEOのTim Sweeney氏は「Epicで配信したらいい。新しいテクノロジーをBANしたりしないから」と述べ、同日にはEpicGameストアでゲームが公開された。
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-
-開発者は9月15日、Steamが以前の決定を覆し、ChatGPT Modのオプションを排除したプログラムを承認したと投稿した。
-
-Redditでは9月25日、SteamがChatGPTで翻訳したゲームをリジェクトしたという新たなケースが{target=“_blank”}されている。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 28 Sep 2023 07:41:48 +0000</pubDate></item></channel></rss>
+</description><pubDate>Mon, 02 Oct 2023 04:24:32 +0000</pubDate></item></channel></rss>
