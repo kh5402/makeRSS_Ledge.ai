@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 09:40:35 +0000</lastBuildDate><item><title>『ConoHa byGMO』を用いた美容師向け生成AIアプリ開発への挑戦 元美容師の異色の経歴を持つ代表にインタビュー</title><link>https://ledge.ai/articles/conoha-3</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 09:56:54 +0000</lastBuildDate><item><title>Microsoftが小型言語モデル「Orca 2」発表、大規模言語モデルに匹敵する推論機能</title><link>https://ledge.ai/articles/microsoft_orca2</link><description>:::small
+画像の出典：Microsoft
+:::
+
+米国Microsoftは2023年11月20日、Orca 2の発売を{target=“_blank”}した。Orca 2は約100億個以下のパラメータを含む、より小規模な言語モデル (LM) 。
+
+2023年6月発表のOrcaは130億パラメータの言語モデルで、段階的な推論トレースを模倣して強力な推論能力を実証するものだ。今回のOrca 2は小型モデルの機能を探求するプロジェクトの一環として発表された。
+
+!
+:::small
+画像の出典：Microsoft
+:::
+
+Orca 2は70億パラメータと130億パラメータの2つのバージョンがあり、LLAMA 2ベースモデルを微調整して作成する。拡張された合成データセットを使用してトレーニングされ、さまざまな推論技術を学ぶ。評価には15の多様なベンチマークを使用し、ゼロショット設定で約100のタスクと36,000以上の固有のテストケースに対応した。
+
+Orca 2は大規模モデルに匹敵する推論機能を備え、特にゼロショット推論タスクで大規模モデルを上回るパフォーマンスを達成したとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 01 Dec 2023 09:56:54 +0000</pubDate></item><item><title>『ConoHa byGMO』を用いた美容師向け生成AIアプリ開発への挑戦 元美容師の異色の経歴を持つ代表にインタビュー</title><link>https://ledge.ai/articles/conoha-3</link><description>:::box
 **膨大なデータ量の学習を行うAI（人工知能）の開発においては、GPUは必要不可欠と言える。しかし、「GPUサーバーに適したデータセンターが少ない」「生成AIブームによる世界的な需要の高まりで、GPUが調達できない場合がある」など、乗り越えなければならない課題もいくつかある。では、AIサービス事業者は、どのようにGPUを利用しているのだろうか？**
 **今回、GMOインターネットグループ株式会社が8月より提供を行ったGPUホスティングサービス『ConoHa byGMO』のトライアル版を利用した各社へインタビューを行った。全3回の連載でお届けする。本稿は3回目。**
 :::
@@ -316,26 +339,7 @@ Claude 2.1はAPIを通じて利用可能で、claude.aiのチャットサービ�
 :::
 :::box
 
-:::</description><pubDate>Mon, 27 Nov 2023 01:48:15 +0000</pubDate></item><item><title>LINEヤフーとAdobe、画像生成AIを活用した広告制作で連携
-</title><link>https://ledge.ai/articles/lineyahoo_adobe</link><description>:::small
-画像の出典：Adobe
-:::
-
-米国Adobeは2023年11月16日、LINEヤフーと画像生成AIの広告分野における活用で連携すると{target=“_blank”}した。LINE上で広告を配信する企業や団体は、2024年2月から画像の作成や編集にAdobeの生成AI機能が無料で使えるようになる。
-
-「Adobe Express」と「LINE Creative Lab」が連携することにより、広告制作のクリエイティブ工程の効率化とコンテンツの質向上を目指す。LINEのプラットフォームから「Adobe Express」を開き、専用テンプレートからコンテンツを作成・編集する。その後はLINEのプラットフォームから配信可能だ。
-
-また2024年3月以降、クリエイター支援のためのセミナーやコンテストを順次実施予定。
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 24 Nov 2023 05:59:09 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Mon, 27 Nov 2023 01:48:15 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
