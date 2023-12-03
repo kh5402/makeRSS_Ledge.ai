@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 09:56:54 +0000</lastBuildDate><item><title>Microsoftが小型言語モデル「Orca 2」発表、大規模言語モデルに匹敵する推論機能</title><link>https://ledge.ai/articles/microsoft_orca2</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 10:03:00 +0000</lastBuildDate><item><title>Microsoftが小型言語モデル「Orca 2」発表、大規模言語モデルに匹敵する推論機能</title><link>https://ledge.ai/articles/microsoft_orca2</link><description>:::small
 画像の出典：Microsoft
 :::
 
@@ -2307,7 +2307,23 @@ NECは2023年10月20日、自治体業務における生成AIの活用に向け�
 :::
 :::box
 
-:::</description><pubDate>Mon, 30 Oct 2023 08:47:30 +0000</pubDate></item><item><title>独自のAI活用アニメーション構築フローで制作の工程を効率化‐‐KaKa Creation1.6億円の資金調達完了</title><link>https://ledge.ai/articles/hinahima_kakacreation</link><description>:::small
+:::</description><pubDate>Mon, 30 Oct 2023 08:47:30 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
+画像の出典：FIA
+:::
+
+国際自動車連盟（FIA）は2023年11月23日、F1第23戦アブダビGPで、AIとコンピュータービジョンを走路外走行の検出に導入したと{target=“_blank”}した。
+
+F1レースではドライバーがギリギリのラインを攻めるため、車両の全輪が白線外に出る走路外走行が発生することがある。2023年7月のF1第10戦オーストリアGPでは、20人のドライバーのうち走路外走行をしなかったのは2人だけで、走路外走行の可能性が指摘された件数は1200件以上に上ったという。
+
+FIAによると走路外走行かどうかをチェックする人員は4人で、83件が違反と認められたが、すべての違反の可能性を検証することはできなかった。参加チームからは、レース中の指摘に対する不満の声が上がっていた。
+
+実際に第18戦カタールGPから、チェック人員を8人に増員。第23戦アブダビGPでは、コンピュータービジョンとAIを用いた走路外走行の検出が導入された。
+
+FIAはAIシステムを導入しても、最終的な判断は人間が行い、AIは明らかに走路外走行ではないものを除外する役割を担当するとしている。AIシステム導入により、1レースあたりの手動審査件数を約50件に減らしたいとのこと。
+
+:::box
+
+:::</description><pubDate>Fri, 01 Dec 2023 10:03:00 +0000</pubDate></item><item><title>独自のAI活用アニメーション構築フローで制作の工程を効率化‐‐KaKa Creation1.6億円の資金調達完了</title><link>https://ledge.ai/articles/hinahima_kakacreation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2564,25 +2580,4 @@ AI、メタバース、ビッグデータなどのデジタルテクノロジー
 :::
 
 
-</description><pubDate>Tue, 03 Oct 2023 03:51:38 +0000</pubDate></item><item><title>「Adobe Photoshop Web」正式版リリース ブラウザ上で生成塗りつぶし可能に</title><link>https://ledge.ai/articles/adobe_photoshop_web</link><description>:::small
-画像出典：Adobe
-:::
-
-米国Adobeは2023年9月27日、β版として提供していた「Adobe Photoshop Web」の正式版リリースを{target=“_blank”}した。インストール不要でブラウザからPhotoshopの機能にアクセスでき、同社の生成AI「Firefly」などの機能も利用できる。無料版はないが、Photoshopを含む全てのCreative Cloudプランで使える。
-
-
-Web版Photoshopでは、ブラウザ上でPhotoshopの機能をインストールなしで利用可能だ。
-ファイルの作成や編集、デスクトップ版への移行がスムーズに行える。デスクトップ版と全ての機能が同一というわけではないが、よく使われる主要な機能はWeb版に搭載している。なおパッチツール、ペンツール、スマートオブジェクトのサポート、多角形なげなわなどが今後追加される予定だ。
-
-Web版ではPhotoshopユーザーでなくても、共有されたリンクからWeb版Photoshopを起動し、ファイルの閲覧やコメントが可能だ。共同作業の招待や、ブラウザ上でのデータチェックもできる。
-
-さらに生成AI「Firefly」を使用した「生成塗りつぶし」「生成拡張」機能を搭載し、生成AIを利用して、画像の欠けた部分の補完やオブジェクトの追加・削除が可能だ。プロンプトは日本語を含む100以上の言語に対応している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 02 Oct 2023 04:24:32 +0000</pubDate></item></channel></rss>
+</description><pubDate>Tue, 03 Oct 2023 03:51:38 +0000</pubDate></item></channel></rss>
