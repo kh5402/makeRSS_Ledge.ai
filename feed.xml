@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 10:58:23 +0000</lastBuildDate><item><title>OpenAI　サム・アルトマンCEO下の新体制発表　Microsoftはオブザーバーに。有益なAGI（汎用人工知能）構築へ再加速</title><link>https://ledge.ai/articles/building_this_together</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Dec 2023 07:09:40 +0000</lastBuildDate><item><title>流行語大賞「生成AI」トップ10入り。落合陽一氏が受賞</title><link>https://ledge.ai/articles/ucan_singo2023_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ユーキャンは2023年12月1日『「現代用語の基礎知識」選 2023ユーキャン新語・流行語大賞』の表彰式が行い、今年の新語・流行語大賞 年間大賞＆トップ10を{target=“_blank”}した。
+
+トップ10には「生成AI」が選ばれ、メディアアーティストの落合陽一氏が受賞した。生成AIが社会に与えた影響の大きさと、今後の発展可能性が評価されている。ChatGPTも流行語にノミネートされていたが、大賞・トップテン入りは逃した。
+
+落合氏は自身の{target=“_blank”}で、受賞の通知に最初は「受賞対象者はサムアルトマンじゃないのか？」と思い、担当者に確認をしたことから始まる受賞までのいきさつを書き綴っている。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 04 Dec 2023 07:09:40 +0000</pubDate></item><item><title>OpenAI　サム・アルトマンCEO下の新体制発表　Microsoftはオブザーバーに。有益なAGI（汎用人工知能）構築へ再加速</title><link>https://ledge.ai/articles/building_this_together</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -316,33 +334,7 @@ Dream Trackは、YouTube ShortsでLyriaを使う実験だ。選ばれたクリ�
 :::box
 
 :::
-</description><pubDate>Mon, 27 Nov 2023 06:39:02 +0000</pubDate></item><item><title>Anthropicが「Claude 2.1」発表、20万トークン処理が可能な大規模言語モデル</title><link>https://ledge.ai/articles/anthropic_claude</link><description>:::small
-画像の出典：Anthropic
-:::
-
-米国Anthropicは2023年11月21日、大規模言語モデル「Claude 2.1」を{target=“_blank”}した。同社は元OpenAIエンジニアが創業したAIスタートアップだ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Claude 2.1は、20万トークンを処理可能だ。OpenAIのGPT-4は約3万2000トークンの処理能力を持っているが、これを大幅に上回るという。英単語で約15万ワード、500ページ以上の資料に相当するという。Anthropicはこの大規模言語モデルを「業界初」と表現している。
-
-Claude 2.1では、先代モデル「Claude 2.0」に比べてハルシネーション（不正確な情報の生成）の発生が半減している。弱点を探るテストを行ったところ、不正確な情報を提供するより、降参することが多いという結果が出たという。
-
-Claude 2.1の公開に伴い、Anthropicはベータ版の新機能としてデータベース検索やWeb検索APIなどのツールを提供開始。これらのツールは開発初期の段階にあり、開発者向け機能やガイドラインが作成中とのこと。
-
-Claude 2.1はAPIを通じて利用可能で、claude.aiのチャットサービスでは無料版とプロ版の両方からアクセスできる。ただし、最大20万トークンの処理能力はClaude Proユーザーに限定されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 27 Nov 2023 06:34:38 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Mon, 27 Nov 2023 06:39:02 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
