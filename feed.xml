@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 10:03:00 +0000</lastBuildDate><item><title>Microsoftが小型言語モデル「Orca 2」発表、大規模言語モデルに匹敵する推論機能</title><link>https://ledge.ai/articles/microsoft_orca2</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 10:06:21 +0000</lastBuildDate><item><title>Microsoftが小型言語モデル「Orca 2」発表、大規模言語モデルに匹敵する推論機能</title><link>https://ledge.ai/articles/microsoft_orca2</link><description>:::small
 画像の出典：Microsoft
 :::
 
@@ -1769,7 +1769,31 @@ OpenAIは過去にも色のついた点を集めて3Dモデルを生成する「
 
 :::box
 
-:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>AI「電子舌」を開発。人間の感覚と情動を統合し食行動を模倣するーーペンシルベニア州立大学研究チーム</title><link>https://ledge.ai/articles/an_electronic_tongue</link><description>:::small
+:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>1枚の写真から人間の３D画像を生成「Human-SGD」クウェート大・メタ研究チーム</title><link>https://ledge.ai/articles/human_sgd</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+クウェート大学とメタ社の研究者らが、単一画像から人間の3Dデジタル画像化に関する技術「Human-SGD」を2023年11月15日に{target=“_blank”}した。これは、1枚の写真から、人物を全方位から見たかのような、クリアでリアルな3D画像を作り出す技術だ。形状ガイド付きの拡散モデルを使用し、その姿を360度どの角度からでも見たときの姿を、高解像度でつなぎ合わせて表示することが可能だという。
+
+
+@
+:::small
+{target=“_blank”}
+:::
+
+
+NeRFなど従来の方法では、複数の視点からの画像や3Dスキャンが必要であったが、新しい技術では1枚の画像のみを用いる。このアプローチでは、一般的な画像合成タスク用に事前訓練された大容量2D拡散モデルを人間の外観の先行として活用することがポイントだという。複数の視点の画像を合成し、これらを逆レンダリング（通常のレンダリングで光源、形状、色の情報が既知の状態で計算するのとは逆に、描画結果に相当する画像から入力情報を得ようとする手法）融合することで、対象人物の完全なテクスチャ3Dメッシュを生成する。
+
+研究チームは、この技術が従来の方法を上回り、単一画像から多様な衣服のテクスチャを持つ人間をフォトリアリスティックに360度合成できることを実証。これにより、ファッション、エンターテインメント、スポーツ、AR/VRなどの様々な分野での応用が期待されるという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 01 Dec 2023 10:06:21 +0000</pubDate></item><item><title>AI「電子舌」を開発。人間の感覚と情動を統合し食行動を模倣するーーペンシルベニア州立大学研究チーム</title><link>https://ledge.ai/articles/an_electronic_tongue</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2024,26 +2048,7 @@ Z世代の23％が、生成AIの導入に全面的に賛成。また50％が生�
 
 :::
 
-</description><pubDate>Fri, 22 Sep 2023 06:56:27 +0000</pubDate></item><item><title>テキスト指示だけでAIがAIを作成する「Prompt2Model」米大学などが開発</title><link>https://ledge.ai/articles/prompt2model</link><description>:::small
-画像出典：Prompt2Model: Generating Deployable Models from Natural Language Instructions
-:::
-
-米国カーネギーメロン大学や中国の清華大学の研究者らは、2023年8月23日に論文{target=“_blank”}を発表した。短い文章による指示「プロンプト」から、自然言語処理（NLP）モデルを自動で作り出すフレームワークを提案している。簡単な操作でAIがAIを作り出せる。
-
-従来のNLPモデルの構築は煩雑で、多くの手続きを必要としていた。また米国OpenAIの開発した「GPT-3」などの大規模言語モデル（LLM）の登場で、短時間での試作モデル作成が可能になったが膨大な計算リソースや、商用アプリケーション・プログラミング・インターフェイス（API）へのアクセスが必要。入力プロンプトの品質に依存し、不安定でプライバシーの懸念もある。
-
-Prompt2Modelフレームワークは、これらの課題解決を図るもの。プロンプトを入力すると関連するデータを収集。LLMを用いて疑似ラベル付きの新しいデータセットを生成する。そして事前に訓練された適切なモデルをプロンプトに基づいて選び、そのモデルをファインチューニング（微調整）・評価する。
-
-Prompt2Modelの利点は、従来手間のかかっていた作業を自動化できることだ。短時間かつ少ない労力で、特定用途に適したNLPモデルを作成できる。フレームワークは拡張性が高く、新しい研究アプローチにも利用できる。なおPrompt2Model は{target=“_blank”}できる。
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 21 Sep 2023 04:33:55 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:56:27 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
 画像の出典：神戸市
 :::
 
