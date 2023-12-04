@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 10:06:21 +0000</lastBuildDate><item><title>Microsoftが小型言語モデル「Orca 2」発表、大規模言語モデルに匹敵する推論機能</title><link>https://ledge.ai/articles/microsoft_orca2</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Dec 2023 10:13:48 +0000</lastBuildDate><item><title>Microsoftが小型言語モデル「Orca 2」発表、大規模言語モデルに匹敵する推論機能</title><link>https://ledge.ai/articles/microsoft_orca2</link><description>:::small
 画像の出典：Microsoft
 :::
 
@@ -2048,7 +2048,25 @@ Z世代の23％が、生成AIの導入に全面的に賛成。また50％が生�
 
 :::
 
-</description><pubDate>Fri, 22 Sep 2023 06:56:27 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:56:27 +0000</pubDate></item><item><title>日米英などG7含む計18か国が参加、国際AIセキュリティガイドラインに共同署名</title><link>https://ledge.ai/articles/guidelines_for_secure_ai_system_development</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+内閣府科学技術・イノベーション推進事務局と内閣サイバーセキュリティセンターは2023年11月28日、英国国家サイバーセキュリティセンター（NCSC）と米国サイバーセキュリティ・インフラストラクチャー安全保障庁（CISA）等が作成した「セキュアAIシステム開発ガイドライン」に共同署名したと{target=“_blank”}した。日本のほかG7各国含む計18か国が参加した。
+
+この文書は「セキュアバイデザイン」（特にソフトウェアなどのIT製品について、セキュリティを確保した設計を行うこと）の観点から、AIシステムの構築を支援する指針となっているという。このガイドラインは、G7広島AIプロセスを補完するものであり、高度なAIシステム開発組織向けの国際行動規範も記載されている。
+
+内閣府は、この文書がAIのセキュリティ強化に貢献し、国際連携の基礎となるとして共同署名に加わった。今後も、技術の進歩を踏まえ、産業界との対話を継続し、AI及びサイバーセキュリティ分野での国際連携を強化していく予定だ。
+
+参考：{target=“_blank”}
+{target=“_blank”}
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 01 Dec 2023 10:13:48 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
 画像の出典：神戸市
 :::
 
@@ -2298,21 +2316,7 @@ NECは2023年10月20日、自治体業務における生成AIの活用に向け�
 :::
 :::box
 
-:::</description><pubDate>Mon, 30 Oct 2023 14:51:00 +0000</pubDate></item><item><title>文科省「生成AIの利用に関するオンライン研修会」アーカイブ動画を公開</title><link>https://ledge.ai/articles/mext_genai_workshop_for_teachers</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-文部科学省は、2023年9月に学校教育関係者を対象とした生成AIの利用に関する{target=“_blank”}を行った。この研修は同年7月4日に発表された「初等中等教育段階における生成AIの利用に関する暫定的なガイドライン」に沿った内容となっている。生成AIの活用の方向性や活用事例等を5回にわたるオンライン講義形式で行っており、同省のYouTubeチャンネルにて（10月30日現在、第4回目の講義まで）視聴可能。
-
-第1回「生成AIの基礎と教育における活用可能性」
-@
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 30 Oct 2023 08:47:30 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
+:::</description><pubDate>Mon, 30 Oct 2023 14:51:00 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
 画像の出典：FIA
 :::
 
