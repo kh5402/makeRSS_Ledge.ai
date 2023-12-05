@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Dec 2023 07:09:40 +0000</lastBuildDate><item><title>流行語大賞「生成AI」トップ10入り。落合陽一氏が受賞</title><link>https://ledge.ai/articles/ucan_singo2023_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Dec 2023 07:42:18 +0000</lastBuildDate><item><title>CEOの声を生成AIで偽装しパスワード代わりに使用　ESETの実験で、わずか16分で250ポンドを個人口座へ不正に送金</title><link>https://ledge.ai/articles/eset_your_voie_is_my_password</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+ESETは2023年11月22日、AIによる音声クローン作成技術を利用したサイバー攻撃の実験を{target=“_blank”}した。
+
+この実験は、ESETの社員が事前にCEOをターゲットとする許可を得て行っている。犯罪者役の社員がAIを利用してCEOの声をクローン化し、企業から不正に金銭を詐取するシナリオだ。実験ではまず、CEO（Harryと呼ばれる人物）のYouTubeチャンネルから彼の声を集め、AIを使って声をクローン化する。その声を使用して彼のWhatsAppアカウントをSIMスワップ攻撃で乗っ取った。次に、彼のアカウントから会社の財務責任者に送金を要求し、250ポンドを個人口座に不正送金させることに成功した。その間わずか16分。
+
+SIMスワップ攻撃とは、犯罪者が携帯電話のカスタマーサービスに偽の身元情報を提供し、ターゲットの携帯電話番号を新しいSIMカードにリンクさせる手法である。これにより、犯罪者はターゲットの番号を制御し、その人物になりすまして通信を行うことができる。この攻撃は特に、SMSを使用した二段階認証が設定されているアカウントに対して効果的であり、重要なセキュリティ上の脅威となるという。
+
+同社はWhatsAppビジネスアカウントの偽造について触れ、AI音声クローニングと組み合わせることで、新世代のソーシャルエンジニアリングが可能になることを示した。そして、この種の攻撃を回避するための基本的な予防策を提案している。ビジネスポリシーの簡素化を避け、人々やプロセスを検証すること、最新の技術トレンドに常に注意を払うこと、全スタッフに対して臨時の認識トレーニングを実施すること、多層的なセキュリティソフトウェアを使用することなどを挙げた。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 04 Dec 2023 07:42:18 +0000</pubDate></item><item><title>流行語大賞「生成AI」トップ10入り。落合陽一氏が受賞</title><link>https://ledge.ai/articles/ucan_singo2023_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -310,31 +327,7 @@ Amazonは2023年11月16日、Fireタブレットの最新モデル「Fire Max 11
 
 :::box
 
-:::</description><pubDate>Mon, 27 Nov 2023 01:50:47 +0000</pubDate></item><item><title>Google DeepMind、AI音楽モデル「Lyria」と音楽制作ツールセット発表　YouTubeと提携し実験</title><link>https://ledge.ai/articles/google_deepmind_youtube_lyria</link><description>:::small
-画像の出典：An Early Look at the Possibilities as we Experiment with AI and Music
-:::
-
-
-Google傘下のAI関連企業Google DeepMindは2023年11月16日、音楽生成に特化したAIモデル「Lyria」と、Lyriaで音楽制作ができる2つのツールセット「Dream Track」「Music AI Tools」を{target=“_blank”}した。YouTubeと{target=“_blank”}し、AI関連の音楽実験を行う。
-
-@
-
-
-Dream Trackは、YouTube ShortsでLyriaを使う実験だ。選ばれたクリエイターは、アレック・ベンジャミンやチャーリー・プースなど提携アーティストのAI生成音楽を動画に使用できる。実験参加者はトピックを入力し、アーティストを選択することで、ショート動画に30秒のサウンドトラックを生成可能。Lyriaは選んだアーティストのスタイルで歌詞、バッキングトラック、音声を一度に生成する。
-
-@
-
-またMusic AI Toolsを使うと、ユーザーは新曲の作曲や曲のスタイル変更ができる。さらにAI生成オーディオにSynthIDを使用して、電子すかしを埋め込むことも明らかになった。このすかしは人間の耳には聞こえないため、視聴体験に影響を与えないという。
-
-
-:::box
-[関連記事：GoogleがAI開発組織を統合、「Google DeepMind」へ
-](https://ledge.ai/articles/google-deepmind)
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 27 Nov 2023 06:39:02 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Mon, 27 Nov 2023 01:50:47 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
