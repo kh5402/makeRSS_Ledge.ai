@@ -2036,7 +2036,24 @@ Z世代の23％が、生成AIの導入に全面的に賛成。また50％が生�
 
 :::
 
-</description><pubDate>Fri, 22 Sep 2023 06:56:27 +0000</pubDate></item><item><title>日米英などG7含む計18か国が参加、国際AIセキュリティガイドラインに共同署名</title><link>https://ledge.ai/articles/guidelines_for_secure_ai_system_development</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:56:27 +0000</pubDate></item><item><title>JAXA、夏頃からサイバー攻撃を受けていたーーネットワークにはロケットや衛星などの機微情報なし</title><link>https://ledge.ai/articles/unauthorised_access_to_jaxa</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+宇宙航空研究開発機構（JAXA）が2023年夏ごろにサイバー攻撃を受け、内部ネットワークに不正アクセスされていたと11月29日に各メディアが報じた。この攻撃は外部機関の通報により発覚し、役職員5000件余りの個人情報などが内部のサーバーから漏えいした可能性があるという。JAXAおよび文部科学省は、攻撃されたネットワークがロケットや衛星の運用に関するものではないため、機密性の高い情報の漏えいは低いとしている。
+
+JAXAは現在、関係機関と連携し、被害範囲や攻撃方法の詳細調査を進めている。同機構はセキュリティ関連の事案のため、詳細については回答を控え、引き続き調査と対策を行っていくとしている。
+
+この日の内閣定例記者会見では、松野官房長官が、JAXAの内部調査結果を踏まえ、不正アクセスの可能性を確認し、早急な調査と対策を進めるよう指示したことを{target=“_blank”}。JAXAは影響調査を直ちに開始し、関連ネットワークの遮断などの対応を実施している。
+
+同日参議院の{target=“_blank”}でも、この件が質問に挙がり、自民党の赤松議員がJAXAに対し、報道からJAXAがサイバー攻撃を受け機微な情報が漏洩した可能性があるのではと指摘した。JAXA理事長の山川氏は、攻撃を受けたことは事実だが、機微な情報は別のネットワークで管理しており、漏洩していないと説明。JAXAは情報セキュリティを重視しており、本件も含め対策を講じていると述べ、議員は引き続き調査するよう求めた。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 01 Dec 2023 11:04:55 +0000</pubDate></item><item><title>日米英などG7含む計18か国が参加、国際AIセキュリティガイドラインに共同署名</title><link>https://ledge.ai/articles/guidelines_for_secure_ai_system_development</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2291,20 +2308,7 @@ NECは2023年10月20日、自治体業務における生成AIの活用に向け�
 
 :::
 
-</description><pubDate>Tue, 31 Oct 2023 00:41:18 +0000</pubDate></item><item><title>TSMC熊本事業拡大に向け　半導体工場周辺の渋滞対策にAIを活用　工業連合会提言</title><link>https://ledge.ai/articles/kumamoto_kenkoren_tsmc_policy_advocacy</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-熊本県工業連合会の田中稔彦会長（金剛社長）らは2023年10月26日、行政へ対する工業会からの提言を取りまとめ、熊本県の蒲島郁夫知事、熊本市大西市長にそれぞれ地元産業の振興に向けた施策提言を行ったと{target=“_blank”}した。
-
-同提言では、台湾の半導体世界最大手TSMCの熊本進出を契機とした、大規模な先端企業の立地が、多くのものづくり企業にとって人材不足の課題が深刻化すること、また、渋滞等交通問題の悪化が懸念されるとしている。これに伴い、渋滞対策としてAIを使った予測システムの開発や、国内外からの呼び込みによる人材確保などを提案した。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 30 Oct 2023 14:51:00 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
+</description><pubDate>Tue, 31 Oct 2023 00:41:18 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
 画像の出典：FIA
 :::
 
