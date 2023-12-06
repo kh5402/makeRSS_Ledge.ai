@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Dec 2023 12:49:36 +0000</lastBuildDate><item><title>アイリスオーヤマ、DX清掃ロボット「BROIT」を発売 - 自社工場製造で新たな時代へ</title><link>https://ledge.ai/articles/irisohyama_broit</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Dec 2023 14:15:27 +0000</lastBuildDate><item><title>Amazon ２つの画像生成AIを発表　電子透かしで誤情報拡散を防ぐ</title><link>https://ledge.ai/articles/amazon_bedrock_titan_image_generator</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Amazon.com傘下のAmazon Web Services（AWS）は2023年11月29日、ラスベガスで開催中の年次イベント「AWS re:Invent」にて、Amazon Titan Image Generator と Amazon Titan Multimodal Embeddings という 2 つの新しいマルチモーダル基盤モデルを{target=“_blank”}した。
+
+「Amazon Titan Image Generator」は、英語の自然言語プロンプトを使って迅速に画像を生成・改良することが可能で、広告、電子商取引、メディア・エンターテインメント分野の企業がスタジオ品質のリアルな画像を大量かつ低コストで作成できる。画像の自動編集や、画像マスクを用いたインペイント、背景の拡張・変更などの機能も備えている​​。
+
+Amazon Titan Image Generatorは、見えない電子透かしをすべての画像に追加している。この透かしは、AIによって生成された画像を識別するための手段の1つとし、誤情報の拡散を防ぐことで、Amazonの責任あるAI使用への取り組みを強調している。また、この電子透かしには、改ざん耐性があるとされており、AIによって生成された誤情報の拡散を緩和するための試みとして機能するとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「Amazon Titan Multimodal Embeddings」は、テキストと画像の組み合わせを入力として受け入れ、意味的意味とデータ間の関係を捉えるエンベディングを生成する。つまり、データの深い意味合いや、それらがどのように関連しているかを理解して、それを数値のベクトルとして表現する。
+
+このモデルは検索やおすすめのシステムの精度とスピードを向上させるためなどに役立てられる。例えば「What works well with my sofa?（私のソファに合うものは？）」と問うと、ソファの周辺に置くためのお勧めの小物が表示される。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Titan Image Generatorは現在パブリックプレビュー版として提供されており、AWSのアメリカ東部（バージニア北部）およびアメリカ西部（オレゴン）のリージョンで利用可能。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 05 Dec 2023 14:15:27 +0000</pubDate></item><item><title>アイリスオーヤマ、DX清掃ロボット「BROIT」を発売 - 自社工場製造で新たな時代へ</title><link>https://ledge.ai/articles/irisohyama_broit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -322,21 +354,7 @@ Teslaのオートパイロット使用時の事故に関する訴訟では、こ
 :::box
 
 :::
-</description><pubDate>Tue, 28 Nov 2023 06:50:01 +0000</pubDate></item><item><title>北海道知事「心から歓迎します」ソフトバンク、苫小牧市にAIデータセンター「Core Brain」構築へ</title><link>https://ledge.ai/articles/softbank_dataenter_hokkaido</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-北海道の鈴木直道知事は2023年11月24日の定例記者会見で、ソフトバンク社長の宮川潤一氏との面談について{target=“_blank”}した。
-
-知事は、ソフトバンクが北海道苫小牧市でデータセンターを建設する計画を歓迎し、道として最大限のサポートをしていく意思を伝えたという。宮川社長からは、データセンターを活用しながら、北海道のDXを進めたいとの考えが示され、包括連携協定の締結に向けて協議していくことで一致した。今後、両者でデジタルインフラの整備やデジタル産業の集積を進め、北海道の経済と地域の活性化を図っていく方針だ。
-
-同月7日に、ソフトバンクとその子会社であるIDCフロンティアが苫小牧市に大規模な計算基盤を備えたデータセンター「Core Brain」の建設を{target=“_blank”}している。このプロジェクトは、経済産業省が支援する「データセンター地方拠点整備事業費補助金」により推進される。
-
-ソフトバンクとIDCフロンティアは、AIの普及に伴うデータ処理および電力需要の急増に対応し、データセンターのレジリエンス強化と電力負荷の分散を図る目的で、この新たな拠点を設立する。
-
-:::box
-
-:::</description><pubDate>Tue, 28 Nov 2023 07:04:04 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Tue, 28 Nov 2023 06:50:01 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
