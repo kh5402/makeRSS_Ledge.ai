@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Dec 2023 07:42:18 +0000</lastBuildDate><item><title>アイリスオーヤマ、DX清掃ロボット「BROIT」を発売 - 自社工場製造で新たな時代へ</title><link>https://ledge.ai/articles/irisohyama_broit</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Dec 2023 12:49:36 +0000</lastBuildDate><item><title>アイリスオーヤマ、DX清掃ロボット「BROIT」を発売 - 自社工場製造で新たな時代へ</title><link>https://ledge.ai/articles/irisohyama_broit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1766,7 +1766,33 @@ OpenAIは過去にも色のついた点を集めて3Dモデルを生成する「
 
 :::box
 
-:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>1枚の写真から人間の３D画像を生成「Human-SGD」クウェート大・メタ研究チーム</title><link>https://ledge.ai/articles/human_sgd</link><description>:::small
+:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>さらに進化する動画生成AI　1枚の静止画からアニメーションを生成「Animate Anyone」アリババグループ</title><link>https://ledge.ai/articles/alibaba_anime_anyone</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+アリババグループのインテリジェントコンピューティング研究所は2023年11月28日、「Animate Anyone」という新しいキャラクターアニメーション技術を{target=“_blank”}した。拡散モデルを利用して、1枚の静止画像からキャラクターアニメーションを生成する技術だという。
+
+@
+:::small
+研究者のチャンネル：{target=“_blank”}
+:::
+
+拡散モデルはその強力な生成機能により、現在視覚生成研究の主流となっているが、画像からビデオへの変換の領域、特にキャラクター アニメーションでは、キャラクターからの詳細情報との時間的な一貫性を維持することが依然として大きな問題となっているという。この技術では、参照イメージからの複雑な外観特徴を保持するために、ReferenceNetを設計し、空間的注意を介して詳細特徴を統合する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+また、キャラクターの動きを制御し、ビデオフレーム間の滑らかな遷移を保証するために、効率的なポーズガイダーと効果的な時間モデリングアプローチを導入した。訓練データを拡大することにより、任意のキャラクターをアニメーション化し、他のイメージ・トゥ・ビデオ手法と比較して優れた結果をもたらすことができる。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 04 Dec 2023 12:49:36 +0000</pubDate></item><item><title>1枚の写真から人間の３D画像を生成「Human-SGD」クウェート大・メタ研究チーム</title><link>https://ledge.ai/articles/human_sgd</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2023,29 +2049,7 @@ Z世代の23％が、生成AIの導入に全面的に賛成。また50％が生�
 
 :::
 
-</description><pubDate>Fri, 06 Oct 2023 05:53:51 +0000</pubDate></item><item><title>生成AI「Z世代」7割が利用 「X世代」「ベビーブーマー」とギャップ Salseforce調査</title><link>https://ledge.ai/articles/ai_generation_gap</link><description>:::small
-画像出典：Salesforce
-:::
-
-
-生成AIの利用者は世代差が顕著で、非利用者との間には技術や影響力への理解度にも差がある。米国Salesforce（セールスフォース）が2023年9月7日こんな{target=“_blank”}をまとめた。
-
-調査によると、生成AI利用者の65％が、ミレニアル世代（おおむね1980年代～1990年代前半生まれ）またはZ世代（おおむね1990年代後半から2010年代前半生まれ）。特にZ世代では70％が生成AIを利用しており、52％が意思決定に役立つと信じている。
-
-一方で生成AIの非利用者の68%は、X世代（おおむね1960年代から1970年代生まれ）やベビーブーマー世代（おおむね1940年代後半～1950年代前半生まれ）で、世代間の分断があるという。
-
-調査によると、生成AI利用者の3分の1が頻度を毎日と回答した。利用者の大半は仕事で活かし、3分の1は楽しみや学習のために使用。一方、非利用者の88%が生成AIの影響を理解しておらず、40%はこの技術に詳しくない。
-
-「Generative AI Snapshot Research: The AI Divide」と題するこのレポートは、米国、英国、オーストラリア、インドの4,041人を対象に2023年8月16～22日に調査したもの。
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 22 Sep 2023 06:56:27 +0000</pubDate></item><item><title>JAXA、夏頃からサイバー攻撃を受けていたーーネットワークにはロケットや衛星などの機微情報なし</title><link>https://ledge.ai/articles/unauthorised_access_to_jaxa</link><description>:::small
+</description><pubDate>Fri, 06 Oct 2023 05:53:51 +0000</pubDate></item><item><title>JAXA、夏頃からサイバー攻撃を受けていたーーネットワークにはロケットや衛星などの機微情報なし</title><link>https://ledge.ai/articles/unauthorised_access_to_jaxa</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
