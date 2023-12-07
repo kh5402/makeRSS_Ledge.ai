@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Dec 2023 03:15:55 +0000</lastBuildDate><item><title>AWSのビジネス向けAIアシスタント「Amazon Q」公開　ユーザーあたり月額20ドルから</title><link>https://ledge.ai/articles/amazon_bedrock_amazonq</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Dec 2023 03:19:20 +0000</lastBuildDate><item><title>AWSのビジネス向けAIアシスタント「Amazon Q」公開　ユーザーあたり月額20ドルから</title><link>https://ledge.ai/articles/amazon_bedrock_amazonq</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1787,7 +1787,35 @@ OpenAIは過去にも色のついた点を集めて3Dモデルを生成する「
 
 :::box
 
-:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>さらに進化する動画生成AI　1枚の静止画からアニメーションを生成「Animate Anyone」アリババグループ</title><link>https://ledge.ai/articles/alibaba_anime_anyone</link><description>:::small
+:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>Meta マルチモーダルAIの新機能を公開　料理・スポーツ・音楽など、AIが名人のスキルを学び人間のコーチをする「Ego-Exo4D」</title><link>https://ledge.ai/articles/ego-exo4d</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Metaは2023年11月30日、ビデオ学習とマルチモーダル知覚に関する研究をサポートするための基礎的なデータセットおよびベンチマーク スイート「Ego-Exo4D」を{target=“_blank”}した。Ego-Exo4Dプロジェクトは、AIが人間のスキルを理解するための新たな取り組みだという。
+
+このプロジェクトは、日常的なタスクから高度な技能まで、様々な状況での人間の能力を観察・研究することを目的としている。Ego-Exo4Dは、同種初のビデオデータセットおよびベンチマークスイートを構築することで、AIの人間技能理解を進展させることを目指している。
+
+プロジェクトには、MetaのFAIR (基礎人工知能研究)、Meta のProject Aria 、および世界の15 の大学が協力しており「Ego 4Dコンソーシアム」と称される。日本からは東京大学が参加しており、12月5日にEgo-Exo4Dについて{target=“_blank”}している。
+
+世界中の800人以上から収集した1,400時間以上のビデオデータは、料理からボルダリングまで、8つの物理的および手続き的スキルを示す。参加者や専門家がカメラを装着し、様々な活動を行いながら自身のスキルを撮影。同時に多様な固定視点から三人称視点のビデオも録画される。マルチモーダルデータシーケンスには、カメラのポーズ、高精度な視線ベクトル、3Dポイントクラウド、空間オーディオが含まれている。
+
+人間のスキルを完全に理解するためには、専門家の視点も必要なため、Ego-Exo4Dには、専門家が提供する洞察やヒントが各ビデオに直接リンクされた、同種初の自然言語付随が含まれている。Ego-Exo4Dのベンチマークタスクは、熟練した活動の重要なステップを認識すること、習熟度を推測すること、一人称と三人称視点の間のオブジェクトを関連付けること、手と体の動きを推定することに焦点を当て、一人称ビデオ理解を進展させることを意図している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+AIがビデオ内の熟練した人間活動を理解できるようになれば、スマートグラスを装着し、バーチャルAIコーチと共に学ぶことが可能になる。また、ロボットが新しいスキルを観察し、ほとんど物理的な経験なしに実行することも想像できるとMetaは述べる。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 06 Dec 2023 03:19:20 +0000</pubDate></item><item><title>さらに進化する動画生成AI　1枚の静止画からアニメーションを生成「Animate Anyone」アリババグループ</title><link>https://ledge.ai/articles/alibaba_anime_anyone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2044,33 +2072,7 @@ STSフォーラムは2004年に創設され、今回が20回目の節目とな�
 
 :::
 
-</description><pubDate>Fri, 13 Oct 2023 05:34:56 +0000</pubDate></item><item><title>Z世代の多く「仕事がAIに置き換わること脅威に感じない」 Adobe未来の労働力調査</title><link>https://ledge.ai/articles/adbe_reserch_ai_z</link><description>:::small
-画像出典：Adobe
-:::
-
-
-米国Adobeが2023年9月27日、調査結果{target=“_blank”}を公開した。Z世代（1997〜2012年生まれ）の従業員は、生成AIが労働市場にもたらす影響にそれほど不安を抱いていないことがわかった。
-
-パンデミック後にベビーブーマー世代が労働市場から退いており、Z世代がキャリアをスタートさせた。多くの人に生成AIの導入による労働市場への影響に懸念があるが、Z世代の多く（59％）は自らの仕事がAIに置き換わることを脅威に感じていない。
-
-また生成AIが組織内での日常の業務に導入されることに対して、準備ができていると感じるのは48％だった。
-
-Z世代の23％が、生成AIの導入に全面的に賛成。また50％が生成AIを業務で利用した経験があり、70％はAIツールを使用している。職場で生成AI使用のガイドラインが提供されていると答えたのは35％だった。
-
-この調査は、米国で従業員数750人以上の企業で3年以下の職務経験を持つZ世代の従業員1011人からの回答をまとめたもの。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 06 Oct 2023 05:53:51 +0000</pubDate></item><item><title>JAXA、夏頃からサイバー攻撃を受けていたーーネットワークにはロケットや衛星などの機微情報なし</title><link>https://ledge.ai/articles/unauthorised_access_to_jaxa</link><description>:::small
+</description><pubDate>Fri, 13 Oct 2023 05:34:56 +0000</pubDate></item><item><title>JAXA、夏頃からサイバー攻撃を受けていたーーネットワークにはロケットや衛星などの機微情報なし</title><link>https://ledge.ai/articles/unauthorised_access_to_jaxa</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
