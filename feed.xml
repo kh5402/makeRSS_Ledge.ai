@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Dec 2023 09:04:41 +0000</lastBuildDate><item><title>Google、最新マルチモーダル生成AIモデル「Gemini」ついに発表　Bard、Google検索、Pixel 8 Proなどへ続々展開</title><link>https://ledge.ai/articles/google_deepmind_gemini_release</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Dec 2023 09:10:33 +0000</lastBuildDate><item><title>Google、最新マルチモーダル生成AIモデル「Gemini」ついに発表　Bard、Google検索、Pixel 8 Proなどへ続々展開</title><link>https://ledge.ai/articles/google_deepmind_gemini_release</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1763,7 +1763,49 @@ OpenAIは過去にも色のついた点を集めて3Dモデルを生成する「
 
 :::box
 
-:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>Meta マルチモーダルAIの新機能を公開　料理・スポーツ・音楽など、AIが名人のスキルを学び人間のコーチをする「Ego-Exo4D」</title><link>https://ledge.ai/articles/ego-exo4d</link><description>:::small
+:::</description><pubDate>Tue, 30 May 2023 16:14:41 +0000</pubDate></item><item><title>新たな3Dメッシュ生成法「MeshGPT」発表　トランスフォーマーモデルによる高品質な三角形メッシュ生成</title><link>https://ledge.ai/articles/meshgpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ミュンヘン工科大学、トリノ工科大学、アウディの研究チームは2023年11月27日、新しい3Dメッシュ生成法「MeshGPT」を{target=“_blank”}した。
+
+MeshGPTは、大規模言語モデル（LLM）の進歩に触発されて開発されている。3Dオブジェクトメッシュの大規模なコレクションから得られた幾何学的埋め込みの語彙を学習し、トランスフォーマーモデルを用いてこれらの埋め込みから三角形メッシュを自動的に生成する。このメッシュは、人間が作成したメッシュの効率的な三角形パターンをより密接に模倣し、鮮明なエッジと高い忠実度を持ちつつコンパクトに生成される。
+
+
+@
+
+:::small
+{target=“_blank”}
+:::
+
+
+MeshGPTでは、GPTに「メッシュを話す」ことを教え、トランスフォーマーを使用して直接シーケンスとしてメッシュを生成モデリングする。これを実現するために、まず三角形メッシュの語彙を学習し、それを使用してメッシュの自己回帰生成を行う。広範な形状のコレクションから幾何学的埋め込みの語彙を学習するため、エンコーダー・デコーダーネットワークを用いる。
+
+次に、訓練されたエンコーダーと学習した語彙を使用して、GPTのようなトランスフォーマーを訓練する。訓練が完了すると、この語彙から直接シーケンスとしてメッシュをサンプリングできるようになる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+MeshGPTは、ポリゴンメッシュ生成のPolygen、凸分解に基づくBSPNet、複数の2D平面からの3Dメッシュを表現するAtlasNet、3D符号付き距離フィールド（SDF）からメッシュを抽出するGET3Dなど、既存の主要なメッシュ生成方法と比較して優れた結果を示した。特に、MeshGPTは、形状カバレッジで9%の増加と、様々なカテゴリーでのFIDスコアで30ポイントの向上を達成したという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+MeshGPTが、3Dコンテンツ作成の現状を高めるだけでなく、直接的なメッシュ生成に関する研究の促進を目指すと研究チームは述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 07 Dec 2023 09:10:33 +0000</pubDate></item><item><title>Meta マルチモーダルAIの新機能を公開　料理・スポーツ・音楽など、AIが名人のスキルを学び人間のコーチをする「Ego-Exo4D」</title><link>https://ledge.ai/articles/ego-exo4d</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2029,26 +2071,7 @@ NVIDIAの発表した{target=“_blank”}によると、Eurekaは、タスク�
 :::
 :::box
 
-:::</description><pubDate>Mon, 16 Oct 2023 02:19:15 +0000</pubDate></item><item><title>岸田首相がノーベル賞受賞者多数参加のSTSフォーラム登壇、AI課題「偽情報の拡散、プライバシーや著作権侵害」</title><link>https://ledge.ai/articles/sts_forum_kishida</link><description>:::small
-画像の出典：首相官邸
-:::
-
-岸田文雄首相は2023年10月1日、京都市で国内外の有識者が科学技術や社会問題を議論する「科学技術と人類の未来に関する国際フォーラム（STSフォーラム）」の開会式に{target=“_blank”}した。科学には「光と影の側面がある」と指摘し、持続可能な発展に向けた議論を呼びかけた。
-
-首相は、イノベーション推進と社会への負の影響や倫理的問題への対応が重要と強調。生成AIの取り組みについて触れ、大衆化と便利な世界の実現への期待を表明した。
-
-AIに関する問題点として、偽情報の拡散、プライバシーや著作権の侵害の懸念を指摘。「広島AIプロセス」を紹介し、日本が主導するAIのガバナンスや透明性確保のための国際ルール作りを強調した。
-
-STSフォーラムは2004年に創設され、今回が20回目の節目となる。生成AIなど最先端の科学技術の活用について、その功罪や課題解決を巡る議論が交わされた。期間中には80を超える国・地域・国際機関から、14人のノーベル賞受賞者を含む計約1500人が参加した。
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 13 Oct 2023 05:34:56 +0000</pubDate></item><item><title>MetaとIBMが新団体「AI Alliance」立ち上げ。産業界、政府機関、学界にわたる主要組織と共にオープンで責任あるAIを目指す
+:::</description><pubDate>Mon, 16 Oct 2023 02:19:15 +0000</pubDate></item><item><title>MetaとIBMが新団体「AI Alliance」立ち上げ。産業界、政府機関、学界にわたる主要組織と共にオープンで責任あるAIを目指す
 </title><link>https://ledge.ai/articles/the_ai_alliance</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
