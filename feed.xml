@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Dec 2023 11:37:06 +0000</lastBuildDate><item><title>AWS、Amazon Bedrockの新機能発表。基盤モデルのファインチューニング、ガードレール機能など</title><link>https://ledge.ai/articles/amazon_bedrock_finetuning_guardrail</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Dec 2023 09:04:41 +0000</lastBuildDate><item><title>Google、最新マルチモーダル生成AIモデル「Gemini」ついに発表　Bard、Google検索、Pixel 8 Proなどへ続々展開</title><link>https://ledge.ai/articles/google_deepmind_gemini_release</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2023年12月6日、新たなAIモデル「Gemini」を{target=“_blank”}した。
+
+5月にGoogleが開催した開発者会議「Google I/O」でその存在が明らかにされた「Gemini」は、ChatGPT超えの生成AIとして今秋には公開されるだろうと噂されていた。このモデルは、同社がこれまでに取り組んだ最大規模の科学技術プロジェクトの一環として開発された。
+
+「Gemini 1.0」は、「Ultra」「Pro」「Nano」の異なるサイズで最適化されており、多様なベンチマークで最先端のパフォーマンスを実現している。テキスト、コード、オーディオ、画像、ビデオなど、異なるタイプの情報を一般化し、シームレスに理解・操作するマルチモーダルなモデルだ。以下の動画では、Geminiが音声と動画のコンテキストを理解することが分かる。
+
+@
+
+Geminiは、データセンターからモバイルデバイスまで、幅広いプラットフォームで効率的に動作する柔軟性を備えている。大規模言語モデル（LLM）研究開発で使用される32の学術ベンチマークのうち30において、人間の専門家を上回る90.0%のスコアを達成しており、マルチモーダルタスクを含むさまざまな分野で最先端の成果を上げている。
+
+また、Geminiはより安全で包括的なAIモデルとなることを目指している。開発ではバイアスや有害性に関する徹底した安全評価が行われており、コンテンツの安全性を確認するために、Real Toxicity Promptsなどのベンチマークが使用されている​。
+
+今後同社はGeminiをさまざまな製品やプラットフォームでの展開を予定している。BardにはGemini Proのアップグレード版が導入され、Google検索エンジンではGeminiの効果を検証するテストが実施されている。さらに、Pixel 8 Proのスマートフォンでは、Gemini Nanoが新機能として組み込まれる予定。開発者や企業向けには、Google AI StudioやGoogle Cloud Vertex AIを通じてGemini Proが提供される計画だ。
+
+BardはGemini Proの改良版を使用し、Googleの検索エンジンではGeminiのテストが進行中である。また、Gemini NanoはPixel 8 Proでの新機能に利用され、開発者や企業向けにはGoogle AI StudioやGoogle Cloud Vertex AIを通じてGemini Proが提供される。現在は英語のみ対応。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 07 Dec 2023 09:04:41 +0000</pubDate></item><item><title>AWS、Amazon Bedrockの新機能発表。基盤モデルのファインチューニング、ガードレール機能など</title><link>https://ledge.ai/articles/amazon_bedrock_finetuning_guardrail</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -307,20 +333,7 @@ note AI creativeは「AIによる創作のバリューチェーンの革新」�
 
 :::box
 
-:::</description><pubDate>Thu, 30 Nov 2023 10:28:01 +0000</pubDate></item><item><title>約3か月間のごみ焼却炉完全自動運転を実現、JFEエンジニアリング</title><link>https://ledge.ai/articles/jfe_engineering_automated_refuse_incineration</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-JFEエンジニアリング株式会社は2023年11月20日、ごみ焼却炉の操業において、自動運転のさらなる実証を進めた結果、延べ92日間の完全自動運転を達成したと{target=“_blank”}した。これは、2019年に実証した2週間の連続自動運転記録を大幅に更新するもの。
-
-同社は、廃棄物処理施設におけるプラント全体の自動運転を目指し、自動燃焼制御装置（ACC）の高度化や自動運転AIシステム「{target=“_blank”}」の開発を進めている。今回の実証は岩国市の清掃工場「サンライズクリーンセンター」で行われ、計画通りのごみ量を処理しながら安定した燃焼状態を実現したとのこと。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 29 Nov 2023 05:59:41 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Thu, 30 Nov 2023 10:28:01 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
