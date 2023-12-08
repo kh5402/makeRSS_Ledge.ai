@@ -2048,7 +2048,25 @@ STSフォーラムは2004年に創設され、今回が20回目の節目とな�
 
 :::
 
-</description><pubDate>Fri, 13 Oct 2023 05:34:56 +0000</pubDate></item><item><title>JAXA、夏頃からサイバー攻撃を受けていたーーネットワークにはロケットや衛星などの機微情報なし</title><link>https://ledge.ai/articles/unauthorised_access_to_jaxa</link><description>:::small
+</description><pubDate>Fri, 13 Oct 2023 05:34:56 +0000</pubDate></item><item><title>MetaとIBMが新団体「AI Alliance」立ち上げ。産業界、政府機関、学界にわたる主要組織と共にオープンで責任あるAIを目指す
+</title><link>https://ledge.ai/articles/the_ai_alliance</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国MetaとIBMは2023年12月5日、共同で新団体「AIアライアンス」を立ち上げたことを{target=“_blank”}した。この国際的なコミュニティは、50以上の創設メンバーおよびコラボレーターと共に、オープンで安全かつ責任あるAIの進展を目指している。
+
+参加施設は、AMD、Anyscale、CERN、Cerebras、Cleveland Clinic、コーネル大学、Dartmouth、デルテクノロジーs、EPFL、ETH、Hugging Face、ロンドン王立大学、インテル、INSAIT、Linux Foundation、MLCommons、NASA、NSF、Oracle、Partnership on AI、Red Hat、Roadzen、SakanaAI、ServiceNow、ソニーグループ、Stability AI、カリフォルニアバークレー大学、イリノイ大学、ノートルダム大学、東京大学、イエール大学など。
+
+安全性、多様性、経済的機会を優先しながらAIのイノベーションを取り入れるためには、研究者、開発者、採用者に情報とツールを提供することが不可欠。そのため、業界、スタートアップ、学術界、研究機関、政府などが協力し、オープンイノベーションとオープンサイエンスをサポートするAIアライアンスを立ち上げたという。
+
+AIアライアンスは、オープンなコミュニティの育成と、AIにおける責任あるイノベーションの加速を目指しており、科学的厳密さ、信頼性、安全性、セキュリティ、多様性、経済競争力を確保するために、主要な開発者、科学者、学術機関、企業、その他のイノベーターと協力して、安全性の懸念に対処し、世界中の研究者、開発者、採用者のニーズに合ったソリューションを共有し開発するプラットフォームを提供する​​。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 07 Dec 2023 07:14:39 +0000</pubDate></item><item><title>JAXA、夏頃からサイバー攻撃を受けていたーーネットワークにはロケットや衛星などの機微情報なし</title><link>https://ledge.ai/articles/unauthorised_access_to_jaxa</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2302,25 +2320,7 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 
 :::
 
-</description><pubDate>Fri, 03 Nov 2023 00:53:11 +0000</pubDate></item><item><title>国内自治体初　国産生成AI導入へ　NECと相模原市が協定締結</title><link>https://ledge.ai/articles/nec_sagamihara_ai</link><description>:::small
-画像の出典：NEC
-:::
-
-NECは2023年10月20日、自治体業務における生成AIの活用に向けて相模原市と協定を締結し、11月から相模原市役所の一部の部門での活用検証を行うと{target=“_blank”}した。
-
-汎用的な大規模言語モデル (LLM)には、正確性や信頼性の課題が存在している。自治体業務に特化した相模原市での取り組みは、NECにとって初めての事例という。
-
-検証ではNECの開発したLLMを用いて、自治体業務に特化したモデルを構築し、有用性をテストする。職員の業務プロセス改善や問題解決に焦点を当て、例規や庁内QAの探索の効率化など、具体的なユースケースの検証を行う。また今後の本格導入に向けて、自治体業務におけるセキュリティポリシーを踏まえた職員の利便性や、機密情報などの安全性の確保のための最適なアーキテクチャ検討を実施する。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 31 Oct 2023 00:41:18 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
+</description><pubDate>Fri, 03 Nov 2023 00:53:11 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
 画像の出典：FIA
 :::
 
