@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Dec 2023 15:03:58 +0000</lastBuildDate><item><title>Google、最新マルチモーダル生成AIモデル「Gemini」ついに発表　Bard、Google検索、Pixel 8 Proなどへ続々展開</title><link>https://ledge.ai/articles/google_deepmind_gemini_release</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Dec 2023 15:07:34 +0000</lastBuildDate><item><title>Google、最新マルチモーダル生成AIモデル「Gemini」ついに発表　Bard、Google検索、Pixel 8 Proなどへ続々展開</title><link>https://ledge.ai/articles/google_deepmind_gemini_release</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2349,7 +2349,28 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 
 :::
 
-</description><pubDate>Fri, 03 Nov 2023 00:53:11 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
+</description><pubDate>Fri, 03 Nov 2023 00:53:11 +0000</pubDate></item><item><title>AIで蘇る伝説のレーサーたちがリアルF1ドライバーとバーチャル対決「Lap of Legends」米で24年春テレビ公開予定</title><link>https://ledge.ai/articles/lap_of_legends</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国ビールメーカーAnheuser-Busch のビールブランド Michelob ULTRA は2023年11月17日、 Williams Racingとのパートナーシップを祝い、45年にわたるレースの歴史を振り返る「Lap of Legends」テレビスペシャルを公開すると{target=“_blank”}した。
+
+この番組はAIとARを利用し、実在のF1ドライバーが Williams Racingの伝説的なドライバーたちのバーチャルアバターと対決するという、リアル対バーチャルのレースを特徴としている。
+
+Michelob ULTRAとWilliams Racingが、数千時間のレース映像と歴史的データを分析し、AIを用いてF1の伝説のドライバーたちのスピード、レーシングスタイル、技術、戦略を模倣してバーチャルドライバーを作り上げた。ジェンソン・バトン、ジャック・ヴィルヌーヴ、マリオ・アンドレッティなど、F1の異なる世代のドライバーが特集される。
+
+@
+
+
+番組は、2024年春にAMC、BBCアメリカ、The Roku Channelで放映されたのち、世界28カ国で配信の予定。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 08 Dec 2023 15:07:34 +0000</pubDate></item><item><title>FIAが走路外走行の検出にAIとコンピュータービジョンを導入、F1アブダビGPから</title><link>https://ledge.ai/articles/fia_insights_computer_vision</link><description>:::small
 画像の出典：FIA
 :::
 
@@ -2602,24 +2623,4 @@ AI、メタバース、ビッグデータなどのデジタルテクノロジー
 
 :::box
 　
-:::</description><pubDate>Tue, 03 Oct 2023 05:31:56 +0000</pubDate></item><item><title>Getty Images、商用利用可能なAI画像生成ツール公開</title><link>https://ledge.ai/articles/getty_images_generative_ai</link><description>:::small
-画像出典：Getty Images
-:::
-
-米国Getty Imagesは2023年9月25日、AI画像生成ツール「Generative AI by Getty Images」を{target=“_blank”}した。同社の約5億点のストックコンテンツライブラリの一部を、米国NVIDIAの生成AIモデルライブラリ「Picasso」の「Edify」モデルで学習したもので、安全に商業利用できる。
-
-@
-
-
-このツールは、プロンプトに説明文を入力することで画像を生成できる。コンテンツを生成して商用利用するユーザーは、同社の標準ロイヤリティフリーライセンスを取得し、著作権訴訟から保護される。生成コンテンツは、既存のGetty ImagesおよびiStockのライブラリに追加されない。また学習に含まれたコンテンツの制作者には、別途報酬が支払われる。
-
-ツールはAPIでも提供され、ユーザーはカスタマイズして独自アプリとしても公開可能だ。
-なお価格情報については公表されていない。
-
-
-:::box
-
-:::
-
-
-</description><pubDate>Tue, 03 Oct 2023 03:51:38 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Tue, 03 Oct 2023 05:31:56 +0000</pubDate></item></channel></rss>
