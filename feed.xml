@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Dec 2023 15:11:12 +0000</lastBuildDate><item><title>オルツ　AIクローンの活躍に応じて社員に給与を追加支給、世界初の試み</title><link>https://ledge.ai/articles/alts_ai_clone</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Dec 2023 15:15:07 +0000</lastBuildDate><item><title>オルツ　AIクローンの活躍に応じて社員に給与を追加支給、世界初の試み</title><link>https://ledge.ai/articles/alts_ai_clone</link><description>:::small
 画像の出典：alt](https://alt.ai/news/news-2408/){target=“_blank”}
 :::
 
@@ -2362,7 +2362,23 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 
 :::
 
-</description><pubDate>Fri, 03 Nov 2023 00:53:11 +0000</pubDate></item><item><title>AIで蘇る伝説のレーサーたちがリアルF1ドライバーとバーチャル対決「Lap of Legends」米で24年春テレビ公開予定</title><link>https://ledge.ai/articles/lap_of_legends</link><description>:::small
+</description><pubDate>Fri, 03 Nov 2023 00:53:11 +0000</pubDate></item><item><title>ディープニューラルネットワーク（DNN）で自然な歌声を合成『Synthesizer V AI Megpoid（メグッポイド）』12月20日発売</title><link>https://ledge.ai/articles/synthesizer_v_ai_megpoid</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年11月21日、株式会社インターネットが歌声合成データベース『Synthesizer V AI Megpoid（メグッポイド）』を12月20日に発売することを{target=“_blank”}した。
+
+「Synthesizer V AI Megpoid」は、同社と株式会社AHSが共同で開発したDNN（ディープニューラルネットワーク）を搭載した歌声合成技術による人間らしい歌唱が可能な歌声データベースだ。Synthesizer V Studio Proを使用することで、多言語歌唱、様々なボーカルスタイル、AIリテイク機能が利用できる。特に、ラップ歌唱機能は、日本語、英語、中国語のラップに対応し、リアルなラップフローの再現が可能だという。
+
+@
+
+「Synthesizer V」は、Dreamtonics株式会社が開発する強力な音声処理エンジンと直感的に操作可能なUIを併せ持つボーカルシンセサイザーで、メロディーと歌詞を入力することでオリジナルソングを作成できる。歌声合成ソフトウェア「Synthesizer V Studio Basic」が付属している。
+
+『Megpoid(GUMI)』は、声優・歌手の中島愛の声を元に制作され、2009年にVOCALOID2で登場した。VOCALOID6対応のボイスバンク「VOCALOID6 Voicebank AI Megpoid」が2022年10月に発売されている。
+
+:::box
+
+:::</description><pubDate>Fri, 08 Dec 2023 15:15:07 +0000</pubDate></item><item><title>AIで蘇る伝説のレーサーたちがリアルF1ドライバーとバーチャル対決「Lap of Legends」米で24年春テレビ公開予定</title><link>https://ledge.ai/articles/lap_of_legends</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2622,18 +2638,4 @@ AI、メタバース、ビッグデータなどのデジタルテクノロジー
 :::
 :::box
 
-:::</description><pubDate>Wed, 04 Oct 2023 07:33:00 +0000</pubDate></item><item><title>DL数3.4億超えのアイビスペイント 新バージョンをリリース「人工知能」フィルターカテゴリに「背景透過」を追加</title><link>https://ledge.ai/articles/ibispaint11</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-アイビスは2023年9月14日、お絵描きアプリ「ibisPaint（アイビスペイント）」ver.11.0.0のリリースを{target=“_blank”}した。
-
-アップデートにより7つの新しい機能が追加された。
-ユーザーの作成したイラストをパラパラ漫画のように連続で再生して動いているように見せることが簡単にできる「アニメーション機能」のほか、フィルター機能に「(人工知能)：背景透過」が追加されている。AIを用いて、対象物と背景を切り分けることで、背景を簡単に透過できる。
-@
-
-アイビスペイントは、スマートフォンやタブレットで使用できる無料のペイントアプリケーション。指一本でイラストが描けるほか、取り込んだ写真やイラストの色付けや編集も可能だ。また、作品は同社の運営するサイトに投稿でき、SNSの機能も有する。19言語に対応し、2023年8月末時点で累計ダウンロード数が3億4000万回を達成するなど、世界中に利用者を持つ。
-
-:::box
-　
-:::</description><pubDate>Tue, 03 Oct 2023 05:31:56 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 04 Oct 2023 07:33:00 +0000</pubDate></item></channel></rss>
