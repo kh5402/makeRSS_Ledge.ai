@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 08 Dec 2023 16:17:11 +0000</lastBuildDate><item><title>NVIDIA、対中輸出規制に準拠対した中国向け GPU「GeForce RTX 4090 D」を開発中か</title><link>https://ledge.ai/articles/nvidia_gpu_rtx4090_d</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 11 Dec 2023 02:43:04 +0000</lastBuildDate><item><title>OpenAI「GPTs Store」開始延期、2024年初旬へ。「予期せぬ出来事あって遅れてしまった」</title><link>https://ledge.ai/articles/gpts_store_delayed_to_2024</link><description>:::small
+画像の出典：OpenAIからのメール
+:::
+
+OpenAIは2023年12月2日、有料の顧客に宛てたメールで「GPTs Store」の開始を2024年初旬に延期すると発表した。
+
+GPTs Storeは、ユーザーが特定の目的のためにカスタマイズされたChatGPTバージョンを作成し、公開することができる新しいプラットフォームだ。ユーザーは、ChatGPTとの会話を通して、作りたいGPTを作成でき、新たな指示や追加知識を与え、組み込むことができる。GPTs Storeは、当初2023年後半の公開を予定していたが、OpenAIのリーダーシップの変更など予期せぬ事項の対応により延期されたと述べている。
+
+延期により現在ユーザーは、GPTを直接作成し共有することはできるものの、公開リストに掲載されたり、収益分配スキームに参加したりすることはできない。さらに、OpenAIは、アクションの設定インターフェースの更新やワンクリックテストの有効化など、GPTの利便性向上のための改善を実施した。また、Code Interpreterを使用する際のセキュリティ対策として、アップロードされたファイルがダウンロード可能になる問題に対応し、標準でこの機能をオフに設定することを決定。
+同社は、GPT開発にかける時間と労力に感謝するとともに、さらなるフィードバックを求める姿勢を示している。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 11 Dec 2023 02:43:04 +0000</pubDate></item><item><title>NVIDIA、対中輸出規制に準拠対した中国向け GPU「GeForce RTX 4090 D」を開発中か</title><link>https://ledge.ai/articles/nvidia_gpu_rtx4090_d</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 NVIDIAは、中国市場専用となる新しいゲーム用GPU「GeForce RTX 4090 D」の開発を進めていると{target=“_blank”}が2023年11月29日に報じている。
@@ -252,30 +269,7 @@ CEOとして復帰したサム・アルトマン氏の元に、ミラ・ムラ�
 :::
 :::box
 
-:::</description><pubDate>Fri, 01 Dec 2023 10:58:23 +0000</pubDate></item><item><title>Microsoftが小型言語モデル「Orca 2」発表、大規模言語モデルに匹敵する推論機能</title><link>https://ledge.ai/articles/microsoft_orca2</link><description>:::small
-画像の出典：Microsoft
-:::
-
-米国Microsoftは2023年11月20日、Orca 2の発売を{target=“_blank”}した。Orca 2は約100億個以下のパラメータを含む、より小規模な言語モデル (LM) 。
-
-2023年6月発表のOrcaは130億パラメータの言語モデルで、段階的な推論トレースを模倣して強力な推論能力を実証するものだ。今回のOrca 2は小型モデルの機能を探求するプロジェクトの一環として発表された。
-
-!
-:::small
-画像の出典：Microsoft
-:::
-
-Orca 2は70億パラメータと130億パラメータの2つのバージョンがあり、LLAMA 2ベースモデルを微調整して作成する。拡張された合成データセットを使用してトレーニングされ、さまざまな推論技術を学ぶ。評価には15の多様なベンチマークを使用し、ゼロショット設定で約100のタスクと36,000以上の固有のテストケースに対応した。
-
-Orca 2は大規模モデルに匹敵する推論機能を備え、特にゼロショット推論タスクで大規模モデルを上回るパフォーマンスを達成したとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 01 Dec 2023 09:56:54 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Fri, 01 Dec 2023 10:58:23 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
