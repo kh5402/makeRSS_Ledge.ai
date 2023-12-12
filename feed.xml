@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 11 Dec 2023 02:43:04 +0000</lastBuildDate><item><title>OpenAI「GPTs Store」開始延期、2024年初旬へ。「予期せぬ出来事あって遅れてしまった」</title><link>https://ledge.ai/articles/gpts_store_delayed_to_2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 11 Dec 2023 02:57:17 +0000</lastBuildDate><item><title>Google独自開発のAI特化型チップ「Cloud TPU v5p」発表　LLMトレーニング速度は前世代の2.8倍　Geminiにも使用</title><link>https://ledge.ai/articles/google_cloud_tpu_v5p</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Googleは2023年12月6日、最新のAIアクセラレータ「Cloud TPU v5p」を{target=“_blank”}した。YouTube、Gmail、Google Maps、Google Play、AndroidなどのAI駆動製品の基盤となっていた従来のTPU技術が更に進化し、新型TPUはこれまでで最も強力でスケーラブル、柔軟性に富むという。同じ日に発表された、Googleの最新マルチモーダル生成AIモデル「Gemini」のトレーニングにも使用されていると同社は述べている。
+
+Cloud TPU v5eの後継として登場したこの新型TPU v5pは、前世代のTPU v4に比べて、2倍以上のFLOPS（浮動小数点演算能力）と3倍の高帯域幅メモリ（HBM）を備えている。大規模言語モデル（LLM）のトレーニング速度はTPU v4の2.8倍、埋め込み密度の高いモデルのトレーニングは1.9倍の速さを実現するという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+TPU v5pはTPU v4の4倍のスケーラビリティを持ち、シングルポッド内のチップ数も倍増しており、トレーニング速度の相対的なパフォーマンスが大幅に向上しているとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 11 Dec 2023 02:57:17 +0000</pubDate></item><item><title>OpenAI「GPTs Store」開始延期、2024年初旬へ。「予期せぬ出来事あって遅れてしまった」</title><link>https://ledge.ai/articles/gpts_store_delayed_to_2024</link><description>:::small
 画像の出典：OpenAIからのメール
 :::
 
@@ -250,26 +278,7 @@ SIMスワップ攻撃とは、犯罪者が携帯電話のカスタマーサー�
 :::
 :::box
 
-:::</description><pubDate>Mon, 04 Dec 2023 07:09:40 +0000</pubDate></item><item><title>OpenAI　サム・アルトマンCEO下の新体制発表　Microsoftはオブザーバーに。有益なAGI（汎用人工知能）構築へ再加速</title><link>https://ledge.ai/articles/building_this_together</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2023年11月29日、組織変更に伴う新体制を{target=“_blank”}した。
-
-CEOとして復帰したサム・アルトマン氏の元に、ミラ・ムラティ氏がCTO、グレッグ・ブロックマン氏が社長として復帰する。新設された初期取締役会には、前取締役から1人留任となったQuoraの共同創業者兼CEOアダム・ダンジェロ氏、取締役会長に元Salesforce共同CEOのブレット・テイラー氏、そして元米国財務長官でハーバード大学学長のラリー・サマーズ氏が名を連ねる。
-
-取締役を外れた元チーフサイエンティストのイリヤ・サツケバー氏のポストは未定。アルトマン氏は「イリヤが大好きだし、尊敬している。彼はこの分野を導く光であり、人類の宝だ」とサツケバー氏に対する親愛と尊敬の念と、今後の継続的な協力関係を望む旨を表明した。
-
-この組織変更は、OpenAIのミッションを推進するための新たなステップだという。取締役会は、OpenAIのガバナンスを強化し、多様な専門家で構成された資質ある取締役会を築くことを目指す。Microsoftは議決権のないオブザーバーとして迎えられた。
-
-アルトマン氏は「世界最高のチームである皆さんと一緒に有益なAGIを構築するという世界最高のミッションを達成することをとても楽しみにしている」と全社に向けてメッセージを送った。この発表の後、ブロックマン氏は、自身のX（旧Twitter）公式アカウントに「building this together （共に築いていきます）」と{target=“_blank”}した。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 01 Dec 2023 10:58:23 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Mon, 04 Dec 2023 07:09:40 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
