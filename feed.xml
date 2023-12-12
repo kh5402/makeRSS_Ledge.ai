@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 11 Dec 2023 05:51:20 +0000</lastBuildDate><item><title>Google独自開発のAI特化型チップ「Cloud TPU v5p」発表　LLMトレーニング速度は前世代の2.8倍　Geminiにも使用</title><link>https://ledge.ai/articles/google_cloud_tpu_v5p</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 11 Dec 2023 05:55:46 +0000</lastBuildDate><item><title>Google独自開発のAI特化型チップ「Cloud TPU v5p」発表　LLMトレーニング速度は前世代の2.8倍　Geminiにも使用</title><link>https://ledge.ai/articles/google_cloud_tpu_v5p</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2029,7 +2029,40 @@ NVIDIAの発表した{target=“_blank”}によると、Eurekaは、タスク�
 :::
 :::box
 
-:::</description><pubDate>Thu, 26 Oct 2023 07:01:23 +0000</pubDate></item><item><title>G7首脳、生成AIの国際ルールを承認　「広島AIプロセス」で合意</title><link>https://ledge.ai/articles/g7_hiroshima_ai_process_approval</link><description>:::small
+:::</description><pubDate>Thu, 26 Oct 2023 07:01:23 +0000</pubDate></item><item><title>EUがAI規制の包括的規範を示す世界初の「AI法」に合意　重大な違反には罰則規定も</title><link>https://ledge.ai/articles/eu_aiact</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月9日、欧州議会は理事会と共に、AIの安全性、基本的人権の尊重、民主主義の保護、ビジネスの繁栄と拡大を目的としたAI法案（AI Act）についておおむね政治的合意に至ったことを{target=“_blank”}した。この規制は、高リスクAIによる基本的人権、民主主義、法の支配、環境持続性の保護を目的とし、革新を促進し、欧州をこの分野のリーダーにすることを目指している。規則は、AIの潜在的リスクと影響レベルに基づいて義務を設定する。
+
+欧州委員会委員長のウルズラ・フォン・デア・ライエン氏は、自身のX（旧Twitter）に「The EU AI Act is a global first.（ AI Actは世界初のものです）」と{target=“_blank”}している。
+
+
+この法案では、市民の権利と民主主義に対する特定のAIアプリケーションの潜在的な脅威を認識し、以下のアプリケーションを禁止することに合意した：
+
+- 政治的、宗教的、哲学的信念、性的指向、人種などの敏感な特性を使用するバイオメトリック分類システム
+- 顔認識データベースを作成するためのインターネットや監視カメラ映像からの顔画像の無差別スクレイピング
+- 職場や教育機関での感情認識
+- 社会的行動や個人的特性に基づく社会的評価
+- 人間の行動を操作して自由意志を回避するAIシステム
+- 年齢、障害、社会的または経済的状況による人々の脆弱性を悪用するAI
+
+さらに、一般的なAI（GPAI）システムと、それらに基づくGPAIモデルには、当初議会が提案した透明性要件が適用されることが合意された。これには、技術文書の作成、EU著作権法の遵守、トレーニングに使用されたコンテンツに関する詳細な要約の普及が含まれる。
+
+システムリスクの高いGPAIモデルには、より厳格な義務が課せられる。これらのモデルが特定の基準を満たす場合、モデル評価の実施、システムリスクの評価と軽減、敵対的テストの実施、重大なインシデントに関する欧州委員会への報告、サイバーセキュリティの確保、エネルギー効率に関する報告が必要とされる。議会交渉者は、調和されたEU規格が公開されるまで、システムリスクを有するGPAIは、規制に適合するための実践コードに依存することができるよう主張した​​。
+
+ルールに従わない場合の制裁も定められている。違反の程度と企業の規模に応じて、最大3500万ユーロまたはグローバル売上の7％、または750万ユーロまたは売上の1.5％の罰金が課される可能性がある​​という。
+
+合意文書は正式に欧州議会と理事会によって採択される必要があり、その後EU法となる。欧州議会の内部市場および市民の自由委員会は、今後の会合でこの合意について投票が予定されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 11 Dec 2023 05:55:46 +0000</pubDate></item><item><title>G7首脳、生成AIの国際ルールを承認　「広島AIプロセス」で合意</title><link>https://ledge.ai/articles/g7_hiroshima_ai_process_approval</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2279,25 +2312,7 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 :::
 :::box
 
-:::</description><pubDate>Tue, 07 Nov 2023 13:41:09 +0000</pubDate></item><item><title>全国初のレベル4自動運転サービスで事故、永平寺町で自転車に接触</title><link>https://ledge.ai/articles/eiheiji_level4_traffic_accident</link><description>:::small
-永平寺町の町民の方々による乗車（2023年5月21日）
-画像の出典：経済産業省
-:::
-
-福井県永平寺町志比の町道で、「レベル4」の自動運転による車両が道路脇に停車中の自転車と接触したと2023年10月29日に{target=“_blank”}が報じた。永平寺町では5月から全国で初めてレベル4車両の移動サービスを開始しており、事故は初めて。乗っていた県内在住の男性4人にけがはなかった。
-
-レベル4では、限定された条件下においてすべての運転操作がシステムによって自動化される。今回の車両は7人乗りで、最高時速は12キロ。自転車・歩行者専用道路を定められたルートで走行していた。車載カメラによる遠隔監視システムにより、障害物検知時に自動で停止する機能を備えている。事故前の点検では、システム異常はなかったという。
-
-事故車両の前部に擦り傷があり、県警福井署が原因を調査している。永平寺町は運行を一時中止すると発表した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 06 Nov 2023 06:28:40 +0000</pubDate></item><item><title>ディープニューラルネットワーク（DNN）で自然な歌声を合成『Synthesizer V AI Megpoid（メグッポイド）』12月20日発売</title><link>https://ledge.ai/articles/synthesizer_v_ai_megpoid</link><description>:::small
+:::</description><pubDate>Tue, 07 Nov 2023 13:41:09 +0000</pubDate></item><item><title>ディープニューラルネットワーク（DNN）で自然な歌声を合成『Synthesizer V AI Megpoid（メグッポイド）』12月20日発売</title><link>https://ledge.ai/articles/synthesizer_v_ai_megpoid</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
