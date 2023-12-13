@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 11 Dec 2023 05:55:46 +0000</lastBuildDate><item><title>Google独自開発のAI特化型チップ「Cloud TPU v5p」発表　LLMトレーニング速度は前世代の2.8倍　Geminiにも使用</title><link>https://ledge.ai/articles/google_cloud_tpu_v5p</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 12 Dec 2023 07:18:58 +0000</lastBuildDate><item><title>Google独自開発のAI特化型チップ「Cloud TPU v5p」発表　LLMトレーニング速度は前世代の2.8倍　Geminiにも使用</title><link>https://ledge.ai/articles/google_cloud_tpu_v5p</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2029,7 +2029,25 @@ NVIDIAの発表した{target=“_blank”}によると、Eurekaは、タスク�
 :::
 :::box
 
-:::</description><pubDate>Thu, 26 Oct 2023 07:01:23 +0000</pubDate></item><item><title>EUがAI規制の包括的規範を示す世界初の「AI法」に合意　重大な違反には罰則規定も</title><link>https://ledge.ai/articles/eu_aiact</link><description>:::small
+:::</description><pubDate>Thu, 26 Oct 2023 07:01:23 +0000</pubDate></item><item><title>国税庁、企業の税務調査にAI本格活用　追徴課税3500億越え　過去10年で最多に</title><link>https://ledge.ai/articles/national_tax_agency_uses_aI_for_tax_audits</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+国税庁は法人税の税務調査などへAI技術を活用し始めている。2023年11月、令和4事務年度の税務調査成果を{target=“_blank”}した。日経新聞では11月29日、同年度の法人税、消費税、源泉所得税の追徴税額が3563億円に達し、前年度比では40.5%増加しており、10事務年度で最高額と[報じて](https://www.nikkei.com/article/DGXZQOUE277TW0X21C23A1000000/
+){target=“_blank”}いる。
+
+6月に改訂された国税庁の「{target=“_blank”}」によると、AI技術は、大量のデータを分析し、異常を特定し、税逃れの可能性があるケースをフラグ付けするために利用されている。このアプローチにより、税務申告の不整合をより効率的かつ正確に検出することが可能になり、税務調査の効果が向上する。また、AIの使用は、税務管理に関わる膨大なデータを扱う際のプロセスを効率化し、税金徴収をより効果的にすることを支援する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+国税局ではこのほか、e-Taxのユーザーインターフェースとユーザーエクスペリエンスの改善、自動入力システムの導入、オンライン手続きの拡充など、AIやデータ分析を含むデジタルツールの活用を通じ、納税者の利便性を高め、課税・徴収事務の効率化及び高度化を図る。
+
+:::box
+
+:::</description><pubDate>Tue, 12 Dec 2023 07:18:58 +0000</pubDate></item><item><title>EUがAI規制の包括的規範を示す世界初の「AI法」に合意　重大な違反には罰則規定も</title><link>https://ledge.ai/articles/eu_aiact</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2282,37 +2300,7 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 :::
 :::box
 
-:::</description><pubDate>Tue, 07 Nov 2023 13:48:18 +0000</pubDate></item><item><title>米国　初のAI規制大統領令「開発者は公開前にテストし事前に米国政府と共有すること」安全で信頼性あるAI開発管理方針示す</title><link>https://ledge.ai/articles/executive_order_on_the_safe_secure_ai</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-米国バイデン大統領は2023年10月30日、AIの安全で信頼性のある開発と使用に関する{target=“_blank”}した。これはAIの持つリスクを軽減し、その利益を最大化するため、AIシステムが堅牢かつ安全であることを要求し、他国を先んじてリーダーシップを取り、新たな職種や業界が生まれる過程で米国の労働者を守り支援することを目的としている。
-
-大統領令では、8 つの基本原則と優先事項に従いAIの開発と使用を推進し、管理する方針を示した。
-１．AIは安全かつセキュリティが確保されていなければならない。
-２．責任ある革新、競争、協力を促進する。
-３．AIの責任ある開発と使用には、アメリカの労働者を支援することへのコミットメントが必要である。
-４．AIは公正かつ公平に利用されるべきである。
-５．AIは民主的な価値観、人権、および自由と両立するように機能しなければならない。
-６．アメリカのリーダーシップと国際的な協力を進める。
-７．AIの開発と使用において透明性を確保する。
-８．AIは包括的で公平な方法で全てのアメリカ人に利益をもたらすべきである​。
-
-政府は同日、この大統領令に基づいた{target=“_blank”}し、大統領令がAIの安全性とセキュリティのための新しい基準として以下の行動を指示した。
-
-・強力なAIシステムの開発者は、安全試験の結果や他の重要情報を公開前に米国政府と共有する。
-・国家安全保障や公衆衛生に重大なリスクをもたらすAIモデルの開発企業は、訓練段階での政府への通知とレッドチームによる安全試験の結果を共有する。
-・AIシステムの安全性を保証するための新しい基準、ツール、テストの開発。
-・危険な生物学的物質の製造やAIによる詐欺、欺瞞からアメリカ人を守るための基準とベストプラクティスの確立。
-・ソフトウェアとネットワークのセキュリティを強化するためのAIツールの開発。
-・軍事や情報コミュニティがAIを安全かつ効果的に使用するための国家安全保障覚書の作成​​。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 07 Nov 2023 13:41:09 +0000</pubDate></item><item><title>ディープニューラルネットワーク（DNN）で自然な歌声を合成『Synthesizer V AI Megpoid（メグッポイド）』12月20日発売</title><link>https://ledge.ai/articles/synthesizer_v_ai_megpoid</link><description>:::small
+:::</description><pubDate>Tue, 07 Nov 2023 13:48:18 +0000</pubDate></item><item><title>ディープニューラルネットワーク（DNN）で自然な歌声を合成『Synthesizer V AI Megpoid（メグッポイド）』12月20日発売</title><link>https://ledge.ai/articles/synthesizer_v_ai_megpoid</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
