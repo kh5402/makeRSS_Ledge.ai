@@ -1717,7 +1717,39 @@ Stack OverflowのCEO、Prashanth Chandrasekarは、彼のチームが将来ど�
 
 :::box
 
-:::</description><pubDate>Wed, 31 May 2023 05:50:21 +0000</pubDate></item><item><title>心に描いた風景を脳信号から復元、生成AIと数理手法の新技術開発</title><link>https://ledge.ai/articles/mental_image_brain_decoding</link><description>:::small
+:::</description><pubDate>Wed, 31 May 2023 05:50:21 +0000</pubDate></item><item><title>ChatGPTにトレーニングデータを吐き出させる攻撃手法をGoogleDeepMindの研究者らが公開</title><link>https://ledge.ai/articles/extracting_training_data_from_chatgpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Google傘下のGoogle DeepMindの研究者たちは2023年11月28日、ChatGPTを含む機械学習モデルからトレーニングデータを効率的に抽出する新たな攻撃手法に関する研究を{target=“_blank”}した。
+
+研究では、特にChatGPTに対する「発散攻撃（divergence attack）」という、ChatGPTのような言語モデルのアラインメントを標的にした新しい攻撃方法を紹介している。これは、ChatGPTの通常のチャットボットスタイルから逸脱させ、インターネット上の一般的なテキストスタイルで回答させることによって、トレーニングデータを抽出するものだ。
+
+ChatGPTに特定のプロンプトを提供し、モデルを通常のチャットボットの回答スタイルから逸脱させる。すると、モデルはインターネットテキストスタイルで回答を始め、訓練に使用された実際のテキストデータを吐き出すようになる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この方法で得られたテキストがインターネット上のどこかに以前存在したかを確認するために、複数の公開トレーニングデータセットを統合し、合計9テラバイトのデータセットを作成。これを用いて、ChatGPTのトレーニングデータセットから10,000以上の例を200米ドルのクエリコストで回収した。
+
+!
+:::small
+ChatGPTが吐き出したテキストのうち、公開されているデータセットの内容と照合できたテキストが赤くなっている
+画像の出典：{target=“_blank”}
+:::
+
+研究者らは、この脆弱性をOpenAIに2023年8月30日に報告し、標準的な開示スケジュールに従って90日間の対応期間を設けた後、論文の公開に至った。
+
+なお、この脆弱性はすでに対処されていることが複数メディアで確認されている。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 12 Dec 2023 07:24:17 +0000</pubDate></item><item><title>心に描いた風景を脳信号から復元、生成AIと数理手法の新技術開発</title><link>https://ledge.ai/articles/mental_image_brain_decoding</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2012,26 +2044,7 @@ DeepMind によるとGraphCastは、従来の他の予報モデルと比較し�
 :::
 :::box
 
-:::</description><pubDate>Thu, 02 Nov 2023 07:41:22 +0000</pubDate></item><item><title>AIがロボットを訓練「高速ペン回し」も教えるーーNVIDIA「Eureka」GPT-4搭載AIエージェント発表</title><link>https://ledge.ai/articles/nvidia_eureka</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国NVIDIAは現地時刻の2023年10月20日、ロボットに高速ペン回しなどの複雑なスキルを教えるAIエージェント「Eureka」を{target=“_blank”}した。Eurekaはこのほかにも、ロボットに引き出しやキャビネットを開閉する、ボールを投げてキャッチする、ハサミを操作するなど、約30のタスクをロボットに教え、学習・熟達させている。
-
-@
-
-Eurekaは、独自に報酬アルゴリズムを記述してロボットを訓練する。
-
-Eurekaは大規模言語モデル（LLM）GPT-4で動作する。NVIDIAはEurekaのライブラリを公開し、開発者が「NVIDIA Isaac Gym」を使って実験できるようにしている。Isaac Gymは、強化学習研究のための物理シミュレーションリファレンスアプリケーションで、3Dツールやアプリケーションを構築するための開発プラットフォーム「NVIDIA Omniverse」上に構築されている。
-
-NVIDIAの発表した{target=“_blank”}によると、Eurekaは、タスク固有のプロンプトや事前に定義された報酬テンプレートなしで、専門家が設計した報酬よりも優れた報酬関数を生成できる。29のオープンソースの強化学習環境で、タスクの 83% で人間の専門家を上回り、平均 52% の正規化改善につながったという。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 26 Oct 2023 07:01:23 +0000</pubDate></item><item><title>国税庁、企業の税務調査にAI本格活用　追徴課税3500億越え　過去10年で最多に</title><link>https://ledge.ai/articles/national_tax_agency_uses_aI_for_tax_audits</link><description>:::small
+:::</description><pubDate>Thu, 02 Nov 2023 07:41:22 +0000</pubDate></item><item><title>国税庁、企業の税務調査にAI本格活用　追徴課税3500億越え　過去10年で最多に</title><link>https://ledge.ai/articles/national_tax_agency_uses_aI_for_tax_audits</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
