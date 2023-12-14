@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 12 Dec 2023 07:29:42 +0000</lastBuildDate><item><title>イーロン・マスクのAI「GrokAI（ベータ版）」が、Xプレミアムプラス米国会員向けに順次リリース　英語の次は日本語に対応予定
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Dec 2023 06:18:25 +0000</lastBuildDate><item><title> KDDI社員1万人が利用できる「KDDI AI-Chat for Teams」を発表--Microsoft Teamsなどの既存プロダクトに生成AIを導入</title><link>https://ledge.ai/articles/kddi_ai_chat_for_teams</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+KDDIアジャイル開発センター（KAG）は2023年12月6日、同社が利用する「Microsoft Teams」とスクラム開発のふりかえりサポートプロダクト「anycommu」の2つの既存プロダクトに生成AIを導入し、その価値を検証したと{target=“_blank”}した。
+
+
+「KDDI AI-Chat for Teams」は、2023年5月にKDDI情報システム本部とKAG Generative AI Labが共同で開発した生成AIチャットサービスで、社員1万人規模での日常的な利用が可能とされている。このサービスは、Microsoft Teams上で安全に利用でき、アジャイル開発の知見を活かし短期間での開発が実現したという。
+
+生成AIの導入により、KAG内部でMicrosoft Azureの実装知見を蓄積し、ブラウザ版アプリ用リソースの分離やセキュリティの強化など、開発のコツや後続の開発ノウハウを得られたとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+「anycommu」には「AIスクラムマスター」機能が実装され、チーム内コミュニケーションの深化や思考促進を目的としている。この機能により、新たな視点からのフィードバックや問いかけが可能となり、チームメンバーの理解を深める助けとなっているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+現状ではコメントの的確性にムラがあり、精度向上のための開発が続けられている​​。
+AIスクラムマスターの導入後、anycommuの利用チーム数は最大約3倍に増加し、サービスの活発な利用に貢献しているとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 13 Dec 2023 06:18:25 +0000</pubDate></item><item><title>イーロン・マスクのAI「GrokAI（ベータ版）」が、Xプレミアムプラス米国会員向けに順次リリース　英語の次は日本語に対応予定
 </title><link>https://ledge.ai/articles/grok_ai_for_x</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -263,24 +298,7 @@ Titan Image Generatorは現在パブリックプレビュー版として提供�
 :::
 :::box
 
-:::</description><pubDate>Fri, 01 Dec 2023 11:02:05 +0000</pubDate></item><item><title>CEOの声を生成AIで偽装しパスワード代わりに使用　ESETの実験で、わずか16分で250ポンドを個人口座へ不正に送金</title><link>https://ledge.ai/articles/eset_your_voie_is_my_password</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-ESETは2023年11月22日、AIによる音声クローン作成技術を利用したサイバー攻撃の実験を{target=“_blank”}した。
-
-この実験は、ESETの社員が事前にCEOをターゲットとする許可を得て行っている。犯罪者役の社員がAIを利用してCEOの声をクローン化し、企業から不正に金銭を詐取するシナリオだ。実験ではまず、CEO（Harryと呼ばれる人物）のYouTubeチャンネルから彼の声を集め、AIを使って声をクローン化する。その声を使用して彼のWhatsAppアカウントをSIMスワップ攻撃で乗っ取った。次に、彼のアカウントから会社の財務責任者に送金を要求し、250ポンドを個人口座に不正送金させることに成功した。その間わずか16分。
-
-SIMスワップ攻撃とは、犯罪者が携帯電話のカスタマーサービスに偽の身元情報を提供し、ターゲットの携帯電話番号を新しいSIMカードにリンクさせる手法である。これにより、犯罪者はターゲットの番号を制御し、その人物になりすまして通信を行うことができる。この攻撃は特に、SMSを使用した二段階認証が設定されているアカウントに対して効果的であり、重要なセキュリティ上の脅威となるという。
-
-同社はWhatsAppビジネスアカウントの偽造について触れ、AI音声クローニングと組み合わせることで、新世代のソーシャルエンジニアリングが可能になることを示した。そして、この種の攻撃を回避するための基本的な予防策を提案している。ビジネスポリシーの簡素化を避け、人々やプロセスを検証すること、最新の技術トレンドに常に注意を払うこと、全スタッフに対して臨時の認識トレーニングを実施すること、多層的なセキュリティソフトウェアを使用することなどを挙げた。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 04 Dec 2023 07:42:18 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Fri, 01 Dec 2023 11:02:05 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
