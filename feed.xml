@@ -1735,7 +1735,33 @@ Stack OverflowのCEO、Prashanth Chandrasekarは、彼のチームが将来ど�
 
 :::box
 
-:::</description><pubDate>Wed, 31 May 2023 05:50:21 +0000</pubDate></item><item><title>ChatGPTにトレーニングデータを吐き出させる攻撃手法をGoogleDeepMindの研究者らが公開</title><link>https://ledge.ai/articles/extracting_training_data_from_chatgpt</link><description>:::small
+:::</description><pubDate>Wed, 31 May 2023 05:50:21 +0000</pubDate></item><item><title>ふつうの機械学習モデルと汎用生成AIモデル、CO2排出量を比較検証</title><link>https://ledge.ai/articles/power_hungry_processing</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+Hugging Faceとカーネギーメロン大学の研究者らが2023年11月28日、一般的なマシンラーニング（ML）モデルと汎用の生成AIモデルの継続的な推論コストを体系的に比較する研究を{target=“_blank”}し、環境への影響を明らかにした。
+
+この研究では、特定のタスクに特化したモデルと、複数のタスクに対応する「汎用」モデルの両方を対象にしており、1000回の推論を行うのに必要なエネルギーと二酸化炭素排出量を測定した。
+
+研究結果によると、汎用的な生成アーキテクチャは、タスク固有のシステムよりもはるかに高いコストを伴い、特にエネルギーと炭素排出量の面で顕著であった。画像やテキストの分類タスクは比較的排出量が低い一方で、テキスト生成や要約などの生成タスクは10倍以上のエネルギーを使用し、特に画像キャプショニングや画像生成などのマルチモーダルタスクは最も高いエネルギー使用量を示した。
+
+!
+:::small
+画像の出典：
+:::
+
+
+さらに、多目的モデルを使って差別化タスクを実行することが、特定のタスク用のモデルを使用する場合と比べてより多くのエネルギーを消費することも明らかになった。これは、テキスト分類や質問応答などのタスクで特に顕著であり、出力の長さが長くなるにつれて、多目的モデルとタスク固有のモデル間の差が広がることが示された。
+
+この研究は、特定のタスクに特化した小型モデルから、複数のタスクを同時に実行し、リアルタイムでユーザーの問い合わせに応答するために展開されるモデルへのパラダイムシフトを示している。この移行は、ML研究だけでなく、消費者設定においても起こっており、ウェブ検索、メール、ナビゲーションなどのユーザー向け製品に展開される大規模な言語モデルの例が挙げられる。この研究は、新しい技術の採用に際して、エネルギーと炭素排出量の観点からの責任あるアプローチを強調している。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 13 Dec 2023 06:12:43 +0000</pubDate></item><item><title>ChatGPTにトレーニングデータを吐き出させる攻撃手法をGoogleDeepMindの研究者らが公開</title><link>https://ledge.ai/articles/extracting_training_data_from_chatgpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2045,27 +2071,7 @@ DeepMind によるとGraphCastは、従来の他の予報モデルと比較し�
 :::
 :::box
 
-:::</description><pubDate>Mon, 20 Nov 2023 02:43:45 +0000</pubDate></item><item><title>GPT-4は研究論文を査読できるか？スタンフォード大らNature等論文約4,800本で検証「LLMは査読にも有用」</title><link>https://ledge.ai/articles/llm_can_provide_useful_feedback</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2023年10月3日、大規模言語モデル（LLM）が研究論文の査読プロセスにどの程度有用であるかを示す研究結果が{target=“_blank”}された。この研究は、スタンフォード大学を始めとする研究チームによって行われた。Nature系列の論文3,096本とICLRの論文1,709本、合計4,805本の論文を対象に、GPT-4を使用して生成されたフィードバックと人間による査読フィードバックの有用性を比較した。その結果、LLMが科学的フィードバックの生成に有用であり、人間の査読プロセスに役立つことが示された。
-
-この研究の背景には、科学的フィードバックの提供プロセスが、従来の査読や会議ディスカッションなどの手段によって提供される場合に、時間などのリソースや専門知識の制約に直面しているという課題がある。特に、学術論文の急速な増加と科学知識の専門化が進む中、高品質なフィードバックを提供できる査読者の確保が困難になっている。この課題に対応するため、LLMのような技術を活用して科学的フィードバックを効率的に提供する方法が求められている。
-
-研究結果によれば、GPT-4によるフィードバックの品質は、Nature系列の論文で平均30.85%、ICLRで39.23%の一致率を示し、これは2人の人間による査読者間の一致率（Nature系列で28.58%、ICLRで35.25%）と比較しても高いことが判明した。また、研究者308名からのフィードバックによれば、57.4%の研究者がGPT-4によるフィードバックを有用と感じ、82.4%が一部の人間の査読者よりもGPT-4のフィードバックの方が有益だと感じたとのこと。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 02 Nov 2023 07:41:22 +0000</pubDate></item><item><title>国税庁、企業の税務調査にAI本格活用　追徴課税3500億越え　過去10年で最多に</title><link>https://ledge.ai/articles/national_tax_agency_uses_aI_for_tax_audits</link><description>:::small
+:::</description><pubDate>Mon, 20 Nov 2023 02:43:45 +0000</pubDate></item><item><title>国税庁、企業の税務調査にAI本格活用　追徴課税3500億越え　過去10年で最多に</title><link>https://ledge.ai/articles/national_tax_agency_uses_aI_for_tax_audits</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
