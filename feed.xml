@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Dec 2023 10:12:05 +0000</lastBuildDate><item><title>日立が主要3部門にCAXO?「Chief AI Transformation Officer」を新設、全社的なAIトランスフォーメーションを加速</title><link>https://ledge.ai/articles/hitachi_chief_ai_transformation_officer</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Dec 2023 10:12:05 +0000</lastBuildDate><item><title>AMD「Advancing AI」開発イベントでNVIDIA超えのスループット「Instinct MI300」とモバイルプロセッサ「Ryzen 8040」シリーズを発表</title><link>https://ledge.ai/articles/amd_advancing_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国AMDは2023年12月6日、AI技術の最前線における新製品とソリューションの発表イベント「Advancing AI」を{target=“_blank”}した。
+
+会長兼最高経営責任者（CEO）のLisa Su氏は冒頭のスピーチで、過去1年間にわたるAI技術の急速な進化と、AMDがこの分野で果たす役割について強調した。そして、AMDのAI戦略に基づき、次世代のAMD Instinct™ MI300データセンター用GPUアクセラレータ シリーズと、モバイルPC向けのRyzen 8040シリーズを発表した。
+
+## 新型GPUアクセラレータ「Instinct MI300シリーズ」
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+{target=“_blank”}は、AIとHPCワークロード用に特化した高性能アクセラレータである。
+
+MI300Xは新しいAMD CDNA 3アーキテクチャを採用し、前世代のMI250Xに比べて40%多いコンピューティングユニット、1.5倍のメモリ容量、1.7倍のメモリ帯域幅を提供する。また、192GBのHBM3メモリと5.3TB/sのピークメモリ帯域幅を備え、Nvidia H100 HGXと比較して最大1.6倍のスループット向上を実現する。MI300A APUsは、AMD CDNA 3 GPUコアと"Zen 4" CPUコア、128GBのHBM3メモリを組み合わせ、世界初のデータセンター向けAPUとして高い性能を提供する。
+
+## AI特化チップを備えたモバイルプロセッサ「Ryzen 8040」シリーズ
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+{target=“_blank”}は、従来のAMDモデルより最大1.6倍のAI処理性能を持つ最新のモバイルプロセッサーである。
+
+特に、Ryzen 9 8945HSプロセッサーは、競合製品に比べてビデオ編集が最大64％、3Dレンダリングが最大37％高速化され、ゲーマーは最大77％の高速ゲームパフォーマンスを楽しめる​​という。
+
+また、最新のRyzenプロセッサーは、革新的な電力管理機能により、超薄型PCラップトップで最高のパフォーマンスと長いバッテリー寿命を提供する。これにより、現代のプロフェッショナルやゲーム愛好家、クリエイターが高速かつ電力効率の良いコンピューティングを求めるニーズに応える​​。
+
+AMD Ryzen 8040プロセッサーは、Windows 11エコシステムの全範囲を活用し、最適化されたパフォーマンスを提供する。特定のシステムでは、Window Studio Effects Packを利用したAI機能により、自宅や移動中のプライバシーを確保できる​​。
+
+Ryzen AIソフトウェアは、開発者がPyTorchやTensorFlowなどのフレームワークで訓練された機械学習モデルを構築し、Ryzen AIを搭載したラップトップで展開できるようになっている。このソフトウェアにより、開発者はジェスチャー認識、生体認証、その他のアクセシビリティ機能を備えたAIアプリケーションを構築できる​​とのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 14 Dec 2023 07:42:53 +0000</pubDate></item><item><title>日立が主要3部門にCAXO?「Chief AI Transformation Officer」を新設、全社的なAIトランスフォーメーションを加速</title><link>https://ledge.ai/articles/hitachi_chief_ai_transformation_officer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -263,39 +304,7 @@ AWS上でのアプリケーションとワークロードの構築、展開、�
 :::
 :::box
 
-:::</description><pubDate>Wed, 06 Dec 2023 03:15:55 +0000</pubDate></item><item><title>Amazon ２つの画像生成AIを発表　電子透かしで誤情報拡散を防ぐ</title><link>https://ledge.ai/articles/amazon_bedrock_titan_image_generator</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Amazon.com傘下のAmazon Web Services（AWS）は2023年11月29日、ラスベガスで開催中の年次イベント「AWS re:Invent」にて、Amazon Titan Image Generator と Amazon Titan Multimodal Embeddings という 2 つの新しいマルチモーダル基盤モデルを{target=“_blank”}した。
-
-「Amazon Titan Image Generator」は、英語の自然言語プロンプトを使って迅速に画像を生成・改良することが可能で、広告、電子商取引、メディア・エンターテインメント分野の企業がスタジオ品質のリアルな画像を大量かつ低コストで作成できる。画像の自動編集や、画像マスクを用いたインペイント、背景の拡張・変更などの機能も備えている​​。
-
-Amazon Titan Image Generatorは、見えない電子透かしをすべての画像に追加している。この透かしは、AIによって生成された画像を識別するための手段の1つとし、誤情報の拡散を防ぐことで、Amazonの責任あるAI使用への取り組みを強調している。また、この電子透かしには、改ざん耐性があるとされており、AIによって生成された誤情報の拡散を緩和するための試みとして機能するとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「Amazon Titan Multimodal Embeddings」は、テキストと画像の組み合わせを入力として受け入れ、意味的意味とデータ間の関係を捉えるエンベディングを生成する。つまり、データの深い意味合いや、それらがどのように関連しているかを理解して、それを数値のベクトルとして表現する。
-
-このモデルは検索やおすすめのシステムの精度とスピードを向上させるためなどに役立てられる。例えば「What works well with my sofa?（私のソファに合うものは？）」と問うと、ソファの周辺に置くためのお勧めの小物が表示される。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Titan Image Generatorは現在パブリックプレビュー版として提供されており、AWSのアメリカ東部（バージニア北部）およびアメリカ西部（オレゴン）のリージョンで利用可能。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 05 Dec 2023 14:15:27 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Wed, 06 Dec 2023 03:15:55 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
