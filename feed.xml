@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Dec 2023 10:12:05 +0000</lastBuildDate><item><title>AMD「Advancing AI」開発イベントでNVIDIA超えのスループット「Instinct MI300」とモバイルプロセッサ「Ryzen 8040」シリーズを発表</title><link>https://ledge.ai/articles/amd_advancing_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Dec 2023 10:22:07 +0000</lastBuildDate><item><title>NECが世界初の開発　動画から説明文章を映像認識AI×LLMで自動生成</title><link>https://ledge.ai/articles/nec_video_recgnition_ai_and_llm_generate_explanatory_text_from_video</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NECは2023年12月5日、大規模言語モデル（LLM）と映像認識AIを組み合わせ、長時間の動画から利用者の目的に応じた短縮動画と説明文章を自動生成する技術を世界で初めて開発したと{target=“_blank”}した。
+
+この技術はドライブレコーダーの動画分析に応用し、事故発生時の状況や経緯を説明する文章と短縮動画を自動で生成する。また、損害保険金請求や交通安全指導などに用いる事故調査報告書の自動作成も可能であり、従来の手作業による報告書作成時間を半減できる。同社は2024年3月にこの技術の試用版を提供する予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 14 Dec 2023 10:22:07 +0000</pubDate></item><item><title>AMD「Advancing AI」開発イベントでNVIDIA超えのスループット「Instinct MI300」とモバイルプロセッサ「Ryzen 8040」シリーズを発表</title><link>https://ledge.ai/articles/amd_advancing_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -281,30 +295,7 @@ Amazon Bedrockのガードレールを使用して、アプリケーションの
 :::
 :::box
 
-:::</description><pubDate>Wed, 06 Dec 2023 08:37:26 +0000</pubDate></item><item><title>AWSのビジネス向けAIアシスタント「Amazon Q」公開　ユーザーあたり月額20ドルから</title><link>https://ledge.ai/articles/amazon_bedrock_amazonq</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Amazon.com傘下のAmazon Web Services（AWS）は2023年11月28日、ラスベガスで開催中の年次イベント「AWS re:Invent」にて、ビジネス向けAIアシスタント「Amazon Q」を{target=“_blank”}{target=“_blank”}した。
-
-Amazon Qは、企業のニーズに応じて設計されたAIアシスタントで、企業のシステム、データリポジトリ、運用への理解に基づき、自然言語インタラクションを通じて迅速に質問に答え、タスクの効率化、意思決定の迅速化をサポートする​​。セキュリティとプライバシーを重視し、企業顧客の既存のアイデンティティ、役割、権限を尊重し、Amazon Qは企業顧客のコンテンツをモデルトレーニングに使用しない。
-
-AWS上でのアプリケーションとワークロードの構築、展開、運用に関するAWSの知識と経験を基にトレーニングされており、開発者とIT専門家がAWSの機能を最大限に活用し、アプリケーションのアーキテクチャ、トラブルシューティング、最適化を支援するという。
-
-また、Amazon Qは、40以上の一般的な企業システムに接続でき、従業員が役割に応じた詳細かつ正確な回答を得ることができるという。マーケターやプロジェクトマネージャー、セールス担当者などが、問題解決、コンテンツ生成、アクションの実行などに使用できる​​。
-
-このシステムは、開発者が新機能を迅速に開発し、アプリケーションの保守とアップグレードを簡素化するための強力な機能を提供します。Amazon Qは、Amazon QuickSight、Amazon Connect、AWS Supply Chainなど、多くのサービスとアプリケーションで利用できます。
-
-
-プレビュー版が{target=“_blank”}で公開中。ユーザーあたり月額20ドルからの提供となる。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 06 Dec 2023 03:15:55 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Wed, 06 Dec 2023 08:37:26 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
