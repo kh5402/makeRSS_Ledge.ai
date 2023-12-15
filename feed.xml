@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Dec 2023 06:23:58 +0000</lastBuildDate><item><title>日立が主要3部門にCAXO?「Chief AI Transformation Officer」を新設、全社的なAIトランスフォーメーションを加速</title><link>https://ledge.ai/articles/hitachi_chief_ai_transformation_officer</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Dec 2023 10:12:05 +0000</lastBuildDate><item><title>日立が主要3部門にCAXO?「Chief AI Transformation Officer」を新設、全社的なAIトランスフォーメーションを加速</title><link>https://ledge.ai/articles/hitachi_chief_ai_transformation_officer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2190,7 +2190,26 @@ DeepMind によるとGraphCastは、従来の他の予報モデルと比較し�
 :::
 :::box
 
-:::</description><pubDate>Mon, 20 Nov 2023 02:43:45 +0000</pubDate></item><item><title>国税庁、企業の税務調査にAI本格活用　追徴課税3500億越え　過去10年で最多に</title><link>https://ledge.ai/articles/national_tax_agency_uses_aI_for_tax_audits</link><description>:::small
+:::</description><pubDate>Mon, 20 Nov 2023 02:43:45 +0000</pubDate></item><item><title>英国CMA、MicrosoftとOpenAI提携の競争法的影響を調査</title><link>https://ledge.ai/articles/cma_seeks_views_on_microsofts_partnership_with_openai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+英国の競争・市場庁(Competition and Markets Authority, CMA)は2023年12月8日、MicrosoftとOpenAIの提携に関する{target=“_blank”}した。両社の提携が、競争法上の関連合併状況となり、それが英国内の競争に影響を与える可能性があるかどうかを検討することが目的とされている。
+
+CMAは、AIの急速な発展と、強力な基盤モデル（FMs）の進歩が競争および消費者保護にとって重要な時期であることを指摘。提携や戦略的合意、特に、MicrosoftとOpenAI間の提携は、FMsの開発または使用における競争の弱体化を引き起こす可能性があるため、この分野のパートナーシップの影響を継続的に監視してきたという。
+
+同庁は、提携が一方の当事者が他の当事者に対して実質的な影響力、事実上のコントロール、または50%以上の投票権を持つような支配の取得、あるいは支配の性質の変化をもたらしたかどうかをレビューする。これは情報収集プロセスの初期段階であり、フェーズ1調査の開始前に行われるものである。
+
+このことに関して{target=“_blank”}は、情報筋によると、MicrosoftはOpenAIの営利事業を手がける企業の49％の株式を所有していると報じている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 14 Dec 2023 10:12:05 +0000</pubDate></item><item><title>国税庁、企業の税務調査にAI本格活用　追徴課税3500億越え　過去10年で最多に</title><link>https://ledge.ai/articles/national_tax_agency_uses_aI_for_tax_audits</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2431,37 +2450,7 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 :::
 :::box
 
-:::</description><pubDate>Thu, 09 Nov 2023 01:24:18 +0000</pubDate></item><item><title>岸田首相のフェイク動画拡散「政府の情勢を偽り発信することは民主主義の基盤傷付ける」内閣官房長官が懸念示す</title><link>https://ledge.ai/articles/the_prime_ministes_fake_video_spread_on_x</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2023年11月6日、内閣官房長官の{target=“_blank”}で、11月2日に、岸田首相の画像や音声を使ったフェイク動画がSNSに投稿された件について記者が質問をした。これに対し松野官房長官は、岸田総理の偽動画の広まりについて懸念を表明しつつ、SNS上の個別の投稿についてはコメントを控えると前置きした。その上で、政府の情勢を偽って発信することは、場合によっては民主主義の基盤を傷つけかねないため行われるべきではないと一般論として指摘した。
-
-!
-:::small
-画像の出典：
-:::
-
-また海外でのフェイク動画問題を踏まえ、政府は関係省庁と連携し対策を検討していく考えを表明した。
-広島AIプロセスにおいて議長国である日本は、国際的な指針や行動規範、偽情報対策に関するプロジェクトベースの取り組みを提案しており、偽情報対策の中では、コンテンツの出所を特定する技術についても議論しているという。
-
-!
-:::small
-画像の出典：
-:::
-
-問題となった動画は、日テレNEWSのロゴを使用し、ニュース番組の画面に見せかけたフェイク動画で、首相の声を生成AIに学習させて作られたものと考えられている。今年の8月にニコニコ動画に投稿されていたものが一部切り取られ、11月2日再度X（旧Twitter）に投稿された。11月3日放送の「news zero」で日本テレビは「放送、番組ロゴをこのようなフェイク動画に悪用されたことは、到底許すことはできません。フェイク動画について今後も必要に応じて然るべき対応をして参ります」と{target=“_blank”}した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 07 Nov 2023 13:48:18 +0000</pubDate></item><item><title>ディープニューラルネットワーク（DNN）で自然な歌声を合成『Synthesizer V AI Megpoid（メグッポイド）』12月20日発売</title><link>https://ledge.ai/articles/synthesizer_v_ai_megpoid</link><description>:::small
+:::</description><pubDate>Thu, 09 Nov 2023 01:24:18 +0000</pubDate></item><item><title>ディープニューラルネットワーク（DNN）で自然な歌声を合成『Synthesizer V AI Megpoid（メグッポイド）』12月20日発売</title><link>https://ledge.ai/articles/synthesizer_v_ai_megpoid</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
