@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Dec 2023 05:39:14 +0000</lastBuildDate><item><title>NECが世界初の開発　動画から説明文章を映像認識AI×LLMで自動生成</title><link>https://ledge.ai/articles/nec_video_recgnition_ai_and_llm_generate_explanatory_text_from_video</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Dec 2023 05:44:48 +0000</lastBuildDate><item><title>NECが世界初の開発　動画から説明文章を映像認識AI×LLMで自動生成</title><link>https://ledge.ai/articles/nec_video_recgnition_ai_and_llm_generate_explanatory_text_from_video</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1854,7 +1854,34 @@ Stack OverflowのCEO、Prashanth Chandrasekarは、彼のチームが将来ど�
 
 :::box
 
-:::</description><pubDate>Wed, 31 May 2023 05:50:21 +0000</pubDate></item><item><title>ふつうの機械学習モデルと汎用生成AIモデル、CO2排出量を比較検証</title><link>https://ledge.ai/articles/power_hungry_processing</link><description>:::small
+:::</description><pubDate>Wed, 31 May 2023 05:50:21 +0000</pubDate></item><item><title>AIの遅れ取り返せるか　Appleが開発者向けフレームワーク「MXL」Geminiの裏でひっそりと公開</title><link>https://ledge.ai/articles/apple_released_mlx</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+Appleは2023年12月、AI分野での新たな取り組みとして、開発者向けのオープンソース機械学習フレームワーク「MLX」を{target=“_blank”}した。GoogleのAIモデル「Gemini」の発表と同時であったと各メディアで報じている。
+
+MLXはAppleのチップ上で動作し、開発者が機械学習アルゴリズムの開発や実装を容易にするためのライブラリやツールを提供する​​​​​​。
+
+Appleの機械学習研究者であるAwni Hannun 氏は、自身のX（旧Twitter）アカウントで、
+「ちょうどホリデーシーズンに間に合うよう、本日、Apple 機械学習研究からいくつかの新しいソフトウェアをリリースします。
+MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に設計された効率的な機械学習フレームワークです」
+と{target=“_blank”}した。
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+{target=“_blank”}は10月に、Appleの経営陣は業界の突然のAIブームに驚かされ、昨年末から急いで対応を図っていたと報じており、MLXの発表は、AI分野での急速な進展に対応しようとするAppleの努力の一環との見方もある。
+
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>ふつうの機械学習モデルと汎用生成AIモデル、CO2排出量を比較検証</title><link>https://ledge.ai/articles/power_hungry_processing</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2164,33 +2191,7 @@ DeepMind によるとGraphCastは、従来の他の予報モデルと比較し�
 :::
 :::box
 
-:::</description><pubDate>Tue, 21 Nov 2023 01:08:16 +0000</pubDate></item><item><title>LLMにおけるハルシネーションの包括的調査を発表ーーハルビン工業大学とHuawei研究チーム</title><link>https://ledge.ai/articles/a_survey_on_hallucination_in_llm</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2023年11月、中国のハルビン工業大学とHuaweiの研究チームは、大規模言語モデル（LLM）内で発生する「ハルシネーション（幻覚）」に関する包括的な調査結果を{target=“_blank”}した。
-
-研究チームは、幻覚を「実際性幻覚（factuality hallucination）」と「忠実性幻覚（faithfulness hallucination）」の2つのカテゴリーに分類。実際性幻覚は、生成された内容が実際の事実と矛盾する場合を指し、忠実性幻覚は、提供されたコンテキストに対して不一致な内容を生成する場合を指す。
-
-論文では、これらの幻覚が発生する原因を深く探究し、訓練データの質の問題や学習アルゴリズムの不備、モデルの推論プロセスに関連する課題が主要な原因であることを明らかにしている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-また、研究チームは、幻覚の問題を特定し対処するための具体的な戦略を提示している。これには、データの質の向上、訓練プロセスの改善、推論戦略の最適化が含まれる。これらの対策は、LLMがより正確で信頼性の高い生成内容を提供するための鍵となる。
-
-未解決の課題と将来の研究方向性についても、幻覚のさらなる理解、新たな検出および対処方法の開発、実際のアプリケーションにおける影響の評価などを今後の研究の重点として提案した。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 20 Nov 2023 02:43:45 +0000</pubDate></item><item><title>英国CMA、MicrosoftとOpenAI提携の競争法的影響を調査</title><link>https://ledge.ai/articles/cma_seeks_views_on_microsofts_partnership_with_openai</link><description>:::small
+:::</description><pubDate>Tue, 21 Nov 2023 01:08:16 +0000</pubDate></item><item><title>英国CMA、MicrosoftとOpenAI提携の競争法的影響を調査</title><link>https://ledge.ai/articles/cma_seeks_views_on_microsofts_partnership_with_openai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
