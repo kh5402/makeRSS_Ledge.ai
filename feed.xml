@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 16 Dec 2023 14:50:57 +0000</lastBuildDate><item><title>NECが世界初の開発　動画から説明文章を映像認識AI×LLMで自動生成</title><link>https://ledge.ai/articles/nec_video_recgnition_ai_and_llm_generate_explanatory_text_from_video</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 18 Dec 2023 02:35:52 +0000</lastBuildDate><item><title>NECが世界初の開発　動画から説明文章を映像認識AI×LLMで自動生成</title><link>https://ledge.ai/articles/nec_video_recgnition_ai_and_llm_generate_explanatory_text_from_video</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2207,7 +2207,24 @@ DeepMind によるとGraphCastは、従来の他の予報モデルと比較し�
 :::
 :::box
 
-:::</description><pubDate>Tue, 21 Nov 2023 01:08:16 +0000</pubDate></item><item><title>国土交通省、ドローン「レベル3.5飛行」を初承認  北海道上士幌町で初飛行を実施
+:::</description><pubDate>Tue, 21 Nov 2023 01:08:16 +0000</pubDate></item><item><title>「中国に半導体を渡すわけにはいかない」米商務長官がNVIDIAを名指しで批判</title><link>https://ledge.ai/articles/ai_chip_export_controls_china-nvidia-raimondo</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月2日、米商務長官のジーナ・レイモンド氏が、レーガン国防フォーラムで「中国に半導体チップを渡すわけにはいかない。最先端の技術を渡さない」と語ったと{target=“_blank”}等のメディアが報じている。
+
+バイデン政権は2022年10月、中国などの「懸念国」への先進半導体輸出の原則禁止措置を講じた。軍事用途でのAIや先進的なコンピュータ技術の急進を可能にする半導体へのアクセスを制限する目的だ。これを受けNVIDIAは、輸出禁止ラインを下回る性能のチップを開発し、この措置に対抗した。翌2023年10月には前年の穴をふさぐ形で、米政府はNVIDIAなどが設計した高度なAI用半導体の中国などへの輸出規制措置を{target=“_blank”}。
+
+レイモンド長官は、NVIDIAが規制措置を更新するたびに基準性能を下回るチップを開発して、輸出禁止の措置を免れていることを指摘し、「もし（NVIDIAが）規制を下回るラインでAI向けのチップを再設計したら、翌日に、即刻それを規制してみせる」と述べたという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 18 Dec 2023 02:35:52 +0000</pubDate></item><item><title>国土交通省、ドローン「レベル3.5飛行」を初承認  北海道上士幌町で初飛行を実施
 </title><link>https://ledge.ai/articles/first_drone_level3-5_approval</link><description>:::small
 画像の出典：{target=“_blank”}
 
@@ -2439,31 +2456,7 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 :::box
 
 :::
-</description><pubDate>Wed, 22 Nov 2023 06:43:46 +0000</pubDate></item><item><title>「人間中心」を最優先、政府がAI事業者向けのガイドライン原案提示
-</title><link>https://ledge.ai/articles/human_centered_guideline_japan</link><description>:::small
-画像の出典：写真AC
-:::
-
-日本政府がAI関連の国内事業者向けに策定を進めるガイドライン（指針）の原案が判明したと、2023年11月8日に{target=“_blank”}が報じた。全ての事業者が共通して考慮すべき指針として「公平性」「透明性」などの10原則を掲げており、有識者による「AI戦略会議」での議論を経て年末までに決定する方針。
-
-原案は、11月7日の同会議で非公式に提示された。対象は省庁や公的機関も含む、全てのAI事業利用者だ。10原則の中で「人間中心」を最優先とし「個人の尊厳を尊重し、生じうる不利益に慎重に留意する」「人間の意思決定や感情を不当に操作することを目的としたAIの開発・提供は行わない」ことなどを求めた。
-
-偽情報対策については、社会を混乱させるリスクを認識した上で「必要な対策を講じる」とした。公平性の原則では、AIのバイアス（偏り）を防ぐために人間の判断が介在することを強調。
-
-透明性の原則では、データ収集の方法に関する情報提供を、また説明責任の原則ではデータの出所追跡を要求した。具体的な著作権侵害などの課題には触れなかった。
-
-開発事業者には第三者が検証可能な文書化を留意事項とし、提供事業者と利用事業者にもそれぞれ留意事項を記した。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 10 Nov 2023 09:49:28 +0000</pubDate></item><item><title>NTTのデジタルツイン技術「Another Me®」による「獅童ツイン」の進化 - 超歌舞伎2023</title><link>https://ledge.ai/articles/cho-kabuki2023_nakamura-shido-twin</link><description>:::small
+</description><pubDate>Wed, 22 Nov 2023 06:43:46 +0000</pubDate></item><item><title>NTTのデジタルツイン技術「Another Me®」による「獅童ツイン」の進化 - 超歌舞伎2023</title><link>https://ledge.ai/articles/cho-kabuki2023_nakamura-shido-twin</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
