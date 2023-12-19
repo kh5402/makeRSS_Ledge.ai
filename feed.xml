@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 18 Dec 2023 02:35:52 +0000</lastBuildDate><item><title>NECが世界初の開発　動画から説明文章を映像認識AI×LLMで自動生成</title><link>https://ledge.ai/articles/nec_video_recgnition_ai_and_llm_generate_explanatory_text_from_video</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 18 Dec 2023 02:39:26 +0000</lastBuildDate><item><title>Google Cloud、Geminiを世界中の組織に展開　Microsoft Azureに対抗</title><link>https://ledge.ai/articles/bringing_gemini_to_organizations_everywhere</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+米国Googleは2023年12月13日、1週間前に公開した新たなAIモデル「Gemini」を世界中のあらゆる組織に提供することを{target=“_blank”}した。
+
+Gemini はデータセンターからモバイルデバイスまであらゆる場所で効率的に実行可能で、開発者や企業がAIを使用してアプリケーションを構築、スケールする方法を強化できる。「Ultra」「Pro」「Nano」の異なるサイズで最適化されており、多様なベンチマークで最先端のパフォーマンスを実現している。テキスト、コード、オーディオ、画像、ビデオなど、異なるタイプの情報を一般化し、シームレスに理解・操作するマルチモーダルなモデルだ。
+
+同社はこの日、「Gemini Pro」のAPIを通じたアクセス、「Google AI Studio」および「Vertex AIプラットフォーム」での利用、画像モデルの最新版「Imagen 2」、「MedLM」という医療業界向けの基盤モデル群、Duet AI for Developersの一般公開、そしてDuet AI in Security Operationsの導入についても発表している。
+
+これらの新機能により、開発者と組織はGeminiを活用し、さまざまなアプリケーションを柔軟に構築し、デプロイすることができる​という。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 18 Dec 2023 02:39:26 +0000</pubDate></item><item><title>NECが世界初の開発　動画から説明文章を映像認識AI×LLMで自動生成</title><link>https://ledge.ai/articles/nec_video_recgnition_ai_and_llm_generate_explanatory_text_from_video</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -272,30 +290,7 @@ Amazon Bedrockのガードレールを使用して、アプリケーションの
 :::
 :::box
 
-:::</description><pubDate>Wed, 06 Dec 2023 11:37:06 +0000</pubDate></item><item><title>オンラインゲームやミーティング中に食べてもバレない？「DORITOS SILENT」咀嚼音をAIが狙って消音</title><link>https://ledge.ai/articles/pepsico_doritos_silent</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-米国ペプシコは2023年11月1日、同社のお菓子ブランド「フリトレー」の商品にちなんだソフトウエア「Doritos Silent」を{target=“_blank”}した。
-
-@
-:::small
-{target=“_blank”}
-:::
-
-「Doritos Silent」は、PCゲーマーが他のプレイヤーを邪魔せずにお気に入りのチップスを楽しむことを可能にする画期的な「クランチ（咀嚼音）キャンセル」技術だ。開発に6ヶ月を費やし、AIは5,000種類以上の異なるクランチ音でトレーニングを受けた。
-
-調査によると、85%のゲーマーがドリトスをスナックとして選んでいるが、ゲーミング中のクランチ音を消す革新的な解決策に対する需要が世界中で高まっているという​​。ドリトスのクランチは消費者が愛する重要な理由であり、この新技術により、他のプレイヤーのパフォーマンスを妨げることなくクランチを楽しむことができる。
-
-同社のグローバルマーケティングヘッド、フェルナンド・カハネ氏は「ドリトスのファンとゲーミングコミュニティとの繋がりは否定できない。両者は大胆かつ堂々と自分たちの個性を披露している。Doritos Silentはこの絆を認識し、ドリトスを選ぶゲーマーの体験を向上させるためのブランドの継続的な革新へのコミットメントを示している」と語った。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 06 Dec 2023 08:37:26 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Wed, 06 Dec 2023 11:37:06 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
