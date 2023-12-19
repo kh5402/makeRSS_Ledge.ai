@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 18 Dec 2023 02:46:10 +0000</lastBuildDate><item><title>旭化成、DX戦略説明会で生成AIの本格導入を発表　社内コミュニティ発足・作業効率化で増益期待</title><link>https://ledge.ai/articles/asahi-kasei_full-scale_introduction_of_gen-ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 00:54:28 +0000</lastBuildDate><item><title>インテル、最新モバイルプロセッサ「Core Ultra」発表  「AI PCは、2028年までにPC市場の80%」</title><link>https://ledge.ai/articles/intel_core_ultra</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月14日、Intelは「AI Everywhere」イベントにおいて、新しいIntel® Core™ Ultraモバイルプロセッサを{target=“_blank”}した。このプロセッサは、再考された電力効率、世界クラスの計算とグラフィックス性能、および最高のAI PC体験をモバイルプラットフォームやエッジに提供するという。
+
+Intel Core Ultraは、Intelの歴史上最もAI能力が高く、前世代より2.5倍の電力効率を実現したクライアントプロセッサだ。専用AIアクセラレーション機能を備え、CPU、GPU、NPUアーキテクチャ全体にわたりAI機能を最大限に活用する。
+
+競合他社との比較では、Intel Core Ultraは300以上のAI加速機能を備え、これは3倍以上のAIアプリとフレームワークを提供する。また、新しいP-coreアーキテクチャと最大16コアにより、競合他社より11％高いマルチスレッドパフォーマンスを提供する。これはRyzenの 7 7840Uなどと比較された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Intelの主席副社長Michelle Johnston Holthaus氏は
+「Intel Core Ultraの発売は、PC上でAIを活用するIntelのスケールとスピードを示す。2028年までにAI PCはPC市場の80%を占め、次世代コンピューティングをリードする」と述べた。
+
+新しいIntel Core Ultraモバイルプロセッサは、Acer、ASUS、Dell、Dynabook、Gigabyte、Google Chromebook、HP、Lenovo、LG、Microsoft Surface、MSI、Samsungを含むパートナーからの世界初のAI PC 230台以上を動力源とする。
+
+
+:::box
+
+:::
+</description><pubDate>Tue, 19 Dec 2023 00:54:28 +0000</pubDate></item><item><title>旭化成、DX戦略説明会で生成AIの本格導入を発表　社内コミュニティ発足・作業効率化で増益期待</title><link>https://ledge.ai/articles/asahi-kasei_full-scale_introduction_of_gen-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -259,33 +283,7 @@ NVIDIAは、中国市場専用となる新しいゲーム用GPU「GeForce RTX 40
 
 :::
 :::box
-</description><pubDate>Fri, 08 Dec 2023 15:11:12 +0000</pubDate></item><item><title>Google、最新マルチモーダル生成AIモデル「Gemini」ついに発表　Bard、Google検索、Pixel 8 Proなどへ続々展開</title><link>https://ledge.ai/articles/google_deepmind_gemini_release</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleは2023年12月6日、新たなAIモデル「Gemini」を{target=“_blank”}した。
-
-5月にGoogleが開催した開発者会議「Google I/O」でその存在が明らかにされた「Gemini」は、ChatGPT超えの生成AIとして今秋には公開されるだろうと噂されていた。このモデルは、同社がこれまでに取り組んだ最大規模の科学技術プロジェクトの一環として開発された。
-
-「Gemini 1.0」は、「Ultra」「Pro」「Nano」の異なるサイズで最適化されており、多様なベンチマークで最先端のパフォーマンスを実現している。テキスト、コード、オーディオ、画像、ビデオなど、異なるタイプの情報を一般化し、シームレスに理解・操作するマルチモーダルなモデルだ。以下の動画では、Geminiが音声と動画のコンテキストを理解することが分かる。
-
-@
-
-Geminiは、データセンターからモバイルデバイスまで、幅広いプラットフォームで効率的に動作する柔軟性を備えている。大規模言語モデル（LLM）研究開発で使用される32の学術ベンチマークのうち30において、人間の専門家を上回る90.0%のスコアを達成しており、マルチモーダルタスクを含むさまざまな分野で最先端の成果を上げている。
-
-また、Geminiはより安全で包括的なAIモデルとなることを目指している。開発ではバイアスや有害性に関する徹底した安全評価が行われており、コンテンツの安全性を確認するために、Real Toxicity Promptsなどのベンチマークが使用されている​。
-
-今後同社はGeminiをさまざまな製品やプラットフォームでの展開を予定している。BardにはGemini Proのアップグレード版が導入され、Google検索エンジンではGeminiの効果を検証するテストが実施されている。さらに、Pixel 8 Proのスマートフォンでは、Gemini Nanoが新機能として組み込まれる予定。開発者や企業向けには、Google AI StudioやGoogle Cloud Vertex AIを通じてGemini Proが提供される計画だ。
-
-BardはGemini Proの改良版を使用し、Googleの検索エンジンではGeminiのテストが進行中である。また、Gemini NanoはPixel 8 Proでの新機能に利用され、開発者や企業向けにはGoogle AI StudioやGoogle Cloud Vertex AIを通じてGemini Proが提供される。現在は英語のみ対応。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 07 Dec 2023 09:04:41 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Fri, 08 Dec 2023 15:11:12 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
