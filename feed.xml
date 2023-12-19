@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 18 Dec 2023 02:39:26 +0000</lastBuildDate><item><title>Google Cloud、Geminiを世界中の組織に展開　Microsoft Azureに対抗</title><link>https://ledge.ai/articles/bringing_gemini_to_organizations_everywhere</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 18 Dec 2023 02:46:10 +0000</lastBuildDate><item><title>旭化成、DX戦略説明会で生成AIの本格導入を発表　社内コミュニティ発足・作業効率化で増益期待</title><link>https://ledge.ai/articles/asahi-kasei_full-scale_introduction_of_gen-ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+旭化成は2023年12月7日、DX戦略説明会を開催し、生成AIを本格導入することを{target=“_blank”}し、生成AIの活用により、デジタル基盤の強化とビジネス変革を目指すと述べた。
+
+同社は、全従業員向けに独自の生成AI活用ガイドラインを制定し、グループ全体での生成AIの積極的な活用を促進している。生成AIの活用コミュニティを発足させ、専任組織「生成AI／言語解析ユニット」が主導することで、システムの実装や人材育成を加速させているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+また、書面監査における生成AIの活用により、既存の監査プロセスが効率化され、大幅な時間短縮が見込まれている。WEB上の最新情報に加えて、社内データと連携し、さらにファインチューニングによる自社特化の回答を実現している。これにより、特許作成など専門性の高い業務への対応が可能となっているという。
+
+社内でのトライアル事例や技術情報の共有、セミナーの開講が行われており、従業員全員が利用可能な生成AIシステムを導入している。さらに、社内データと連携した生成AIシステムの活用も開始されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 18 Dec 2023 02:46:10 +0000</pubDate></item><item><title>Google Cloud、Geminiを世界中の組織に展開　Microsoft Azureに対抗</title><link>https://ledge.ai/articles/bringing_gemini_to_organizations_everywhere</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -255,42 +285,7 @@ BardはGemini Proの改良版を使用し、Googleの検索エンジンではGem
 :::
 :::box
 
-:::</description><pubDate>Thu, 07 Dec 2023 09:04:41 +0000</pubDate></item><item><title>AWS、Amazon Bedrockの新機能発表。基盤モデルのファインチューニング、ガードレール機能など</title><link>https://ledge.ai/articles/amazon_bedrock_finetuning_guardrail</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Amazon.com傘下のAmazon Web Services（AWS）は2023年11月28日、ラスベガスで開催中の年次イベント「AWS re:Invent」にて、開発プラットフォーム「Amazon Bedrock」の新機能を{target=“_blank”}した。
-
-## 「Llama 2」「Cohere Command Light」などのAIモデルがファインチューニング可能に
-
-Amazon Bedrockが、Meta Llama 2、Cohere Command Light、Amazon Titan Text Lite、Amazon Titan Text Expressなどの基盤モデル（FM）の{target=“_blank”}をサポートするようになった。ユーザーが、自身のラベル付けされたデータセットを使用して特定のタスクのためにモデルの精度を向上できる。
-
-このプロセスでは、モデルのパラメーターを調整して、特定のビジネスに合わせた出力を生成する。これらのパラメーターはモデルがトレーニング中に学んだ内容を表し、それを調整することで、組織のコンテキスト内での意思決定をより洗練させることができる。
-
-Amazon S3に少量のラベル付き例を使用することで、大量のデータを注釈することなくモデルのファインチューニングが可能。Bedrockは基盤モデルの別のコピーを作成し、このプライベートなコピーをトレーニングする。ユーザーのコンテンツは元の基盤モデルのトレーニングには使用されない。
-
-これらのモデルは現在、米国東部（ノースバージニア）および米国西部（オレゴン）のAWSリージョンでAmazon Bedrock上でファインチューニングが可能だ。
-
-## ガードレール機能「Guardrails for Amazon Bedrock」を公開
-発表ではまた、責任あるAIポリシーに基づいたセーフガードを実装する{target=“_blank”}についても触れた。
-
-これは、アプリケーション要件と責任あるAIポリシーにカスタマイズされたセーフガードを実装し、すべてのアプリケーションでAIの安全性を一貫して提供する。Anthropic Claude、Meta Llama 2、Cohere Command、AI21 Labs Jurassic、Amazon Titan Text などの 基盤モデル（FM） やファインチューニングされたモデルに適用できる。
-
-ユーザーは、それぞれが異なるコントロールの組み合わせで構成された複数のガードレールを作成し 、これらのガードレールをさまざまなアプリケーションやユースケースで使用可能だ。ガードレールを Agents for Amazon Bedrock と統合して、責任ある AI ポリシーに合わせた生成 AI アプリケーションを構築することもできるとのこと。
-
-Amazon Bedrockのガードレールを使用して、アプリケーションの文脈で避けるべきトピックのセットを自然言語の説明で定義することができる。例えば、銀行アシスタントは、投資アドバイスに関連するトピックを避けるように設計できる​​。
-
-さらに、責任あるAIポリシーに基づき、有害なコンテンツをフィルタリングが可能。憎悪、侮辱、性的、暴力などのカテゴリにわたるコンテンツフィルターが含まれ、これらのカテゴリにわたって有害なインタラクションをフィルタリングするための閾値を設定できる。例えば、eコマースサイトは、オンラインアシスタントが憎悪表現や侮辱などの不適切な言葉を使わないように設計できる​​。
-
-近日公開の機能として、Guardrails for Amazon Bedrock を使用すると、ユーザー入力および FM 応答内の個人識別情報 (PII) の検出ができるようになるという。ユースケースに基づいて、PII を含む入力を選択的に拒否したり、FM 応答内の PII を編集したりが可能。たとえば、コールセンターで顧客とエージェントの会話記録から概要を生成する際に、ユーザーの個人情報を編集できるとのことだ。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 06 Dec 2023 11:37:06 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Thu, 07 Dec 2023 09:04:41 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
