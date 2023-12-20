@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 00:54:28 +0000</lastBuildDate><item><title>インテル、最新モバイルプロセッサ「Core Ultra」発表  「AI PCは、2028年までにPC市場の80%」</title><link>https://ledge.ai/articles/intel_core_ultra</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 07:21:49 +0000</lastBuildDate><item><title>rinna、大規模言語モデルGPTを活用した日本語音声認識モデル「Nue ASR」を公開</title><link>https://ledge.ai/articles/rinna_nue_asr</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+rinnaは2023年12月7日、大規模言語モデルGPTを活用した日本語音声認識モデル「Nue ASR」を開発し、商用利用可能なライセンスで公開したことを{target=“_blank”}した。
+
+Nue ASRは、事前学習済みの{target=“_blank”} と、{target=“_blank”} の間に畳み込み層を挟んで統合したモデルだ。名前は妖怪の「鵺（ぬえ）」に由来するという。
+
+事前学習済みの基盤モデルを活用することで、音声認識モデルの学習コストを軽減している。音声認識モデルの学習データには、約19,000時間からなる日本語音声コーパスコーパスを用いた。学習した音声認識モデルは、Hugging Faceに商用利用可能なApache-2.0 Licenseで公開（{target=“_blank”} ）している。
+
+
+{target=“_blank”}によると、音声認識の分野において、事前学習済みの音声表現モデルと大規模言語モデル（LLM）を統合することで、エンドツーエンド（E2E）の音声認識システムを実現している。このシステムでは、音声表現をスピーチプロンプトとして使用し、LLMの広範な知識を利用することで、自動回帰的にテキストトークンを生成する。Nue ASR は、利用条件によってはOpenAの WhisperシリーズやReazonSpeechモデルに匹敵する性能を達成するという。
+
+!
+:::small
+画像の出展{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Tue, 19 Dec 2023 07:21:49 +0000</pubDate></item><item><title>インテル、最新モバイルプロセッサ「Core Ultra」発表  「AI PCは、2028年までにPC市場の80%」</title><link>https://ledge.ai/articles/intel_core_ultra</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -258,32 +286,7 @@ NVIDIAは、中国市場専用となる新しいゲーム用GPU「GeForce RTX 40
 :::
 :::box
 
-:::</description><pubDate>Fri, 08 Dec 2023 16:17:11 +0000</pubDate></item><item><title>オルツ　AIクローンの活躍に応じて社員に給与を追加支給、世界初の試み</title><link>https://ledge.ai/articles/alts_ai_clone</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-オルツは2023年12月7日、社員のAIクローンに対して給与を支給するシステムを導入したことを{target=“_blank”}した。
-
-同社はP.A.I.®️（パーソナル人工知能）とAIクローン技術の開発を行っており、社員一人ひとりが自己のAIクローンを生成している。このクローンは、日々の業務や情報共有をAIに代替させることで、業務の持続性や生産性を向上させ、人間にしかできない仕事に社員が集中できるようになる。
-
-クローンの活動量に応じた給与システムを導入し、社員一人ひとりが能力を最大限に発揮できる環境を整備することで、社会に新しい価値を提供することを目指している​と同社は述べる。
-
-!
-:::small
-画像の出典：alt](https://alt.ai/news/news-2408/){target=“_blank”}
-:::
-
-
-@
-:::small
-{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-</description><pubDate>Fri, 08 Dec 2023 15:11:12 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Fri, 08 Dec 2023 16:17:11 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
