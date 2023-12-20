@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 07:21:49 +0000</lastBuildDate><item><title>rinna、大規模言語モデルGPTを活用した日本語音声認識モデル「Nue ASR」を公開</title><link>https://ledge.ai/articles/rinna_nue_asr</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 07:26:51 +0000</lastBuildDate><item><title>Microsoft が小規模言語モデル「Phi-2」を発表　サイズ25倍のモデルと同等以上の性能を達成</title><link>https://ledge.ai/articles/microsoft_slm_phi-2_release</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Microsoft は2023年12月12日、小規模言語モデル（SLM）のスイート「Phi」の最新版「Phi-2」を{target=“_blank”}した。
+
+2.7億パラメーターのモデルは、13億パラメーター未満の基本言語モデルの中で、最先端の推論能力と言語理解能力を示している。Phi-2は、複雑なベンチマークにおいて、最大25倍の大きさを持つLlama-2-70Bモデルと同等かそれ以上の性能を達成した。
+
+Phi-2の性能の高さは、高品質のトレーニングデータがポイントとなる。特に「教科書品質」のデータに焦点を当て、合成データセットと厳選されたウェブデータを用いた。このデータは、モデルに一般的な知識や常識推論を教えるために特別に作成された。Phi-2は、トランスフォーマーベースのモデルで、1.4兆トークンの合成データセットとウェブデータでトレーニングされている。トレーニングには14日間を要し、96台のA100 GPUを使用した。開発プラットフォーム「Azure AI Studio」からアクセス可能で、研究目的にのみ使用できるという。
+
+
+また、Phi-2は人間のフィードバックによる強化学習（RLHF）やファインチューニングを行っていないが、既存のオープンソースモデルと比較して有害性やバイアスに関するより良い振る舞いを示しているという。
+
+!
+:::small
+画像の出典：
+:::
+
+
+
+Phi-2の性能は、複数の学術的ベンチマークで評価され、その中で7Bおよび13BパラメーターのMistralおよびLlama-2モデルを上回っている。特に、25倍大きいLlama-2-70Bモデルに対して、多段階推論タスク（例えば、コーディングや数学）でより優れた性能を示している。また、サイズが小さいにも関わらず、最近発表されたGoogleのGemini Nano 2と同等かそれ以上の性能を達成している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 19 Dec 2023 07:26:51 +0000</pubDate></item><item><title>rinna、大規模言語モデルGPTを活用した日本語音声認識モデル「Nue ASR」を公開</title><link>https://ledge.ai/articles/rinna_nue_asr</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -272,21 +307,7 @@ GPTs Storeは、ユーザーが特定の目的のためにカスタマイズさ�
 :::
 :::box
 
-:::</description><pubDate>Mon, 11 Dec 2023 02:43:04 +0000</pubDate></item><item><title>NVIDIA、対中輸出規制に準拠対した中国向け GPU「GeForce RTX 4090 D」を開発中か</title><link>https://ledge.ai/articles/nvidia_gpu_rtx4090_d</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-NVIDIAは、中国市場専用となる新しいゲーム用GPU「GeForce RTX 4090 D」の開発を進めていると{target=“_blank”}が2023年11月29日に報じている。
-
-米国の輸出ポリシーに完全に準拠するため、TPP（Total Processing Performance）レーティングが低めに設定されており、中国で輸出禁止となった既存のGeForce RTX 4090の代替品として提供される予定だという（製品名の「D」は恐らく来年の干支「辰年（Dragon）」が由来）。
-
-新しいRTX 4090Dは、ゲームパフォーマンスとAI向けの能力が標準の「GeForce RTX 4090」と比べやや劣るが、AI機能に関するソフトウェア機能レベルのサポートは維持される見込み。NVIDIAは、中国のAICパートナーを通じてRTX 4090 Dを提供予定。また、2024年初頭に中国向けのAI特化GPUの発表が予定されているとのこと。​
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 08 Dec 2023 16:17:11 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Mon, 11 Dec 2023 02:43:04 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
