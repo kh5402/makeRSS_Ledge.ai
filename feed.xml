@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 07:26:51 +0000</lastBuildDate><item><title>Microsoft が小規模言語モデル「Phi-2」を発表　サイズ25倍のモデルと同等以上の性能を達成</title><link>https://ledge.ai/articles/microsoft_slm_phi-2_release</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 07:31:33 +0000</lastBuildDate><item><title>Microsoft と米国労働組合「AIと労働力の未来のため」新しい技術・労働パートナーシップを発表--初の労組とテック企業との連携</title><link>https://ledge.ai/articles/microsoft_afl-cio_partnership_on_ai-and-the-future-of-the-workforce</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国 Microsoft とアメリカ労働組合連盟（AFL-CIO）は2023年12月11日、AIの開発と実装において労働者のニーズを予測し、彼らの声を取り入れることを目的とした新しいパートナーシップの形成を{target=“_blank”}した。
+
+このパートナーシップは、労働組織と技術企業間の初の取り組みだという。「AI技術の動向に関する情報の共有」「労働者の見解と専門知識の取り入れ」「最前線の労働者の技術スキルとニーズをサポートする公共政策の形成」の3点を目標としている。
+
+AFL-CIO会長リズ・シュラー氏は、「このパートナーシップは、労働者がAIおよび関連技術の開発、導入、規制において果たす重要な役割を認識している」と述べた。また「労働者中心のデザイン、労働力トレーニング、信頼できるAI実践の創造においてMicrosoftとのパートナーシップを楽しみにしている」と語り、Microsoft の中立フレームワークと労働者の専門知識を受け入れる姿勢を示した。
+
+Microsoftの副会長兼社長ブラッド・スミス氏は、「組合のリーダーと直接協力することで、AIが国の労働者に奉仕することを確実にすることができる。労働者の権利を尊重し、技術開発における労働リーダーのアドバイスから学び、新しいAI時代に不可欠となるスキルを人々に提供するのに役立つ」と語った。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 19 Dec 2023 07:31:33 +0000</pubDate></item><item><title>Microsoft が小規模言語モデル「Phi-2」を発表　サイズ25倍のモデルと同等以上の性能を達成</title><link>https://ledge.ai/articles/microsoft_slm_phi-2_release</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -290,24 +309,7 @@ TPU v5pはTPU v4の4倍のスケーラビリティを持ち、シングルポッ
 :::box
 
 :::
-</description><pubDate>Mon, 11 Dec 2023 02:57:17 +0000</pubDate></item><item><title>OpenAI「GPTs Store」開始延期、2024年初旬へ。「予期せぬ出来事あって遅れてしまった」</title><link>https://ledge.ai/articles/gpts_store_delayed_to_2024</link><description>:::small
-画像の出典：OpenAIからのメール
-:::
-
-OpenAIは2023年12月2日、有料の顧客に宛てたメールで「GPTs Store」の開始を2024年初旬に延期すると発表した。
-
-GPTs Storeは、ユーザーが特定の目的のためにカスタマイズされたChatGPTバージョンを作成し、公開することができる新しいプラットフォームだ。ユーザーは、ChatGPTとの会話を通して、作りたいGPTを作成でき、新たな指示や追加知識を与え、組み込むことができる。GPTs Storeは、当初2023年後半の公開を予定していたが、OpenAIのリーダーシップの変更など予期せぬ事項の対応により延期されたと述べている。
-
-延期により現在ユーザーは、GPTを直接作成し共有することはできるものの、公開リストに掲載されたり、収益分配スキームに参加したりすることはできない。さらに、OpenAIは、アクションの設定インターフェースの更新やワンクリックテストの有効化など、GPTの利便性向上のための改善を実施した。また、Code Interpreterを使用する際のセキュリティ対策として、アップロードされたファイルがダウンロード可能になる問題に対応し、標準でこの機能をオフに設定することを決定。
-同社は、GPT開発にかける時間と労力に感謝するとともに、さらなるフィードバックを求める姿勢を示している。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 11 Dec 2023 02:43:04 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Mon, 11 Dec 2023 02:57:17 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
