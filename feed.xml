@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 07:31:33 +0000</lastBuildDate><item><title>Microsoft と米国労働組合「AIと労働力の未来のため」新しい技術・労働パートナーシップを発表--初の労組とテック企業との連携</title><link>https://ledge.ai/articles/microsoft_afl-cio_partnership_on_ai-and-the-future-of-the-workforce</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 07:40:15 +0000</lastBuildDate><item><title>Microsoft と米国労働組合「AIと労働力の未来のため」新しい技術・労働パートナーシップを発表--初の労組とテック企業との連携</title><link>https://ledge.ai/articles/microsoft_afl-cio_partnership_on_ai-and-the-future-of-the-workforce</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2221,7 +2221,29 @@ DeepMind によるとGraphCastは、従来の他の予報モデルと比較し�
 :::
 :::box
 
-:::</description><pubDate>Tue, 21 Nov 2023 01:08:16 +0000</pubDate></item><item><title>「中国に半導体を渡すわけにはいかない」米商務長官がNVIDIAを名指しで批判</title><link>https://ledge.ai/articles/ai_chip_export_controls_china-nvidia-raimondo</link><description>:::small
+:::</description><pubDate>Tue, 21 Nov 2023 01:08:16 +0000</pubDate></item><item><title>愛知県が国内初、制限速度60キロの一般道でレベル２自動運転の実証実験　</title><link>https://ledge.ai/articles/aichi_automated_driving_demonstration_on_main_roads</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+愛知県は2023年12月12日、名古屋市内の幹線道にて、自動運転の社会実装に向けた実証実験を行った。愛知県の11月28日の{target=“_blank”}によると、実証実験は、幹線道路での高速走行や右左折、車線変更などの自動化を検証することを目的としている。一般道の制限速度での自動運転の実験は国内で初となる。
+
+幹線道路の車速に対応した走行を行うため、同実証実験では、名古屋市内の幹線道路を、自動運転車両により周囲の車速に対応したレベル2（ハンズオフ）の自動走行ができることを検証した。
+
+実験に使用する車両は、インテルの子会社モービルアイが提供する電気自動車。自動運転用地図データ、カメラ（11台）による周辺認識、GNSSで位置把握をする。車両は、日本の走行環境に合わせてチューニングした。
+
+この日、自動運転車両に乗車し実験に参加した愛知県知事の大村秀章氏は、乗車後に取材を受け
+「自動運転の実用化がすぐそこまで来てると感じた。自動運転の普及で日本は海外に遅れを取っているが、愛知は国内ではトップランナーを目指したい」と語ったと各メディアが報じた。
+
+実験は、2023年12月12日から22日、および2024年1月22日から2月2日の計19日間行われる。参加企業にはWILLER株式会社をはじめ、株式会社モービルアイジャパン、名鉄バス株式会社、イオンタウン株式会社、名古屋工業大学が名を連ねている。この実験により、自動運転車両が名古屋市内の幹線道路を安全に走行できるかを検証する。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 19 Dec 2023 07:40:15 +0000</pubDate></item><item><title>「中国に半導体を渡すわけにはいかない」米商務長官がNVIDIAを名指しで批判</title><link>https://ledge.ai/articles/ai_chip_export_controls_china-nvidia-raimondo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2440,37 +2462,7 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 :::
 :::box
 
-:::</description><pubDate>Tue, 28 Nov 2023 07:08:55 +0000</pubDate></item><item><title>ドローン規制緩和案「レベル3.5」新設で無人地帯の物流促す「年内にも事業化をスタート」河野デジタル大臣</title><link>https://ledge.ai/articles/drone_level3-5</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-デジタル庁の河野大臣は2023年11月20日の定例記者会見で、ドローン規制の緩和について今後の方針を{target=“_blank”}。これは、17日に開かれた規制改革推進会議の{target=“_blank”}で、政府の示した山間地など無人地帯でのドローン利用の規制緩和案に基づくものだ。
-
-新たに「レベル3.5」を設定し、飛行経路下に人がいない場合の補助員の配置を不要とする。これにより道路や鉄道上を飛ぶことが容易になり、迅速な配達が期待されるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ドローン飛行の難易度に応じて、国はレベル4までの分類を設けている。レベル3は目視外飛行を人がいない川や森林で許可しているのに対し、レベル4では住宅地など人口密集地域でも飛行可能となる。現行のレベル3では、人が立ち入る可能性のある鉄道や道路、船の航路などを飛行する際には補助者の配置や案内板の設置が必要とされる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-新たに導入されるレベル3.5案では、ドローンに搭載されたカメラで歩行者を確認する、保険へ加入する、人を確認した場合は迂回する、などの条件を設定するという。
-
-河野大臣は、各地でドローンを使った実証実験を行っているにも関わらず、実験にとどまり事業化に至らないケースが多い。しかし、無駄な規制を廃することでドローンによる配送の事業化が全国各地で進むようにしたい。また、年内にも事業化をスタートできるようスピード感を持ってやっていきたいと述べた。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 22 Nov 2023 06:43:46 +0000</pubDate></item><item><title>NTTのデジタルツイン技術「Another Me®」による「獅童ツイン」の進化 - 超歌舞伎2023</title><link>https://ledge.ai/articles/cho-kabuki2023_nakamura-shido-twin</link><description>:::small
+:::</description><pubDate>Tue, 28 Nov 2023 07:08:55 +0000</pubDate></item><item><title>NTTのデジタルツイン技術「Another Me®」による「獅童ツイン」の進化 - 超歌舞伎2023</title><link>https://ledge.ai/articles/cho-kabuki2023_nakamura-shido-twin</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
