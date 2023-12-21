@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Dec 2023 07:40:15 +0000</lastBuildDate><item><title>Microsoft と米国労働組合「AIと労働力の未来のため」新しい技術・労働パートナーシップを発表--初の労組とテック企業との連携</title><link>https://ledge.ai/articles/microsoft_afl-cio_partnership_on_ai-and-the-future-of-the-workforce</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 20 Dec 2023 13:18:12 +0000</lastBuildDate><item><title>テスラ、米国で200万台超の車両をリコール ― 全オートパイロットシステム搭載車が対象</title><link>https://ledge.ai/articles/tesla_autopilot_recall_driver_monitoring_system</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月13日、テスラは米国で販売されたほぼ全ての車両、200万台以上をリコールすることを{target=“_blank”}など各種メディアが報じた。
+
+同社は、テスラの車両に標準装備されている自動運転支援システム「オートパイロット」のドライバーの注意を確保するためのシステムに発生した不具合を修正するため、回収と無償修理をテスラが米運輸省高速道路交通安全局（NHTSA）に12日付で届け出たという。リコールは、{target=“_blank”}が行った2年間の調査の結果に基づいており、オートパイロットを使用中に発生した一連の事故（死亡事故含む）に対処するために行われる。
+
+対象となるのは、2012年10月5日から2023年12月7日に生産されたモデルY、S、3、X。システムのアップデートは、ドライバーへの警告とアラートを強化し、基本バージョンのオートパイロットが操作可能なエリアを制限する内容を含む。テスラはオートパイロットが作動中の際、ドライバーの誤用を防ぐためのコントロールが不十分である可能性があると報告したとのこと。
+
+オートパイロットは、自動車が車線内でステアリング、加速、ブレーキを自動的に行うドライバーアシストシステムだが、その名にもかかわらず自動運転車ではない。独立したテストでは、このモニタリングシステムに関しても様々な課題が見つかっている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 20 Dec 2023 13:18:12 +0000</pubDate></item><item><title>Microsoft と米国労働組合「AIと労働力の未来のため」新しい技術・労働パートナーシップを発表--初の労組とテック企業との連携</title><link>https://ledge.ai/articles/microsoft_afl-cio_partnership_on_ai-and-the-future-of-the-workforce</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -281,35 +301,7 @@ AIスクラムマスターの導入後、anycommuの利用チーム数は最大�
 :::box
 
 :::
-</description><pubDate>Tue, 12 Dec 2023 07:29:42 +0000</pubDate></item><item><title>Google独自開発のAI特化型チップ「Cloud TPU v5p」発表　LLMトレーニング速度は前世代の2.8倍　Geminiにも使用</title><link>https://ledge.ai/articles/google_cloud_tpu_v5p</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleは2023年12月6日、最新のAIアクセラレータ「Cloud TPU v5p」を{target=“_blank”}した。YouTube、Gmail、Google Maps、Google Play、AndroidなどのAI駆動製品の基盤となっていた従来のTPU技術が更に進化し、新型TPUはこれまでで最も強力でスケーラブル、柔軟性に富むという。同じ日に発表された、Googleの最新マルチモーダル生成AIモデル「Gemini」のトレーニングにも使用されていると同社は述べている。
-
-Cloud TPU v5eの後継として登場したこの新型TPU v5pは、前世代のTPU v4に比べて、2倍以上のFLOPS（浮動小数点演算能力）と3倍の高帯域幅メモリ（HBM）を備えている。大規模言語モデル（LLM）のトレーニング速度はTPU v4の2.8倍、埋め込み密度の高いモデルのトレーニングは1.9倍の速さを実現するという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-TPU v5pはTPU v4の4倍のスケーラビリティを持ち、シングルポッド内のチップ数も倍増しており、トレーニング速度の相対的なパフォーマンスが大幅に向上しているとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 11 Dec 2023 02:57:17 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Tue, 12 Dec 2023 07:29:42 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
