@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Dec 2023 11:28:52 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Dec 2023 11:35:39 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1873,7 +1873,42 @@ OpenAIはこれに加えLLM「GPT-3.5 Turbo」、画像生成モデル「DALL-E�
 :::
 :::box
 
-:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>Meta「Seamless Communifation」一般公開　話者のトーンを保ちつつ、リアルタイムで多言語音声翻訳</title><link>https://ledge.ai/articles/meta_seamless_communication</link><description>:::small
+:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>LLM活用のAIシステム「FunSearch」が数学の未解決問題への新アプローチ　Google DeepMindが発表</title><link>https://ledge.ai/articles/google_deepmind_funserch</link><description>:::small
+画像の出典：[DALL-E3によりLedge.aiが生成]
+:::
+
+2023年12月14日、GoogleDeepMindの研究グループは、大規模言語モデル（LLM）を使用した数理科学の未解決問題の新たな発見を{target=“_blank”}した。
+
+この研究では、LLMとシステマチックな評価器を組み合わせた「FunSearch（searching in the function space）」という手法を用いている。LLMは複雑なタスクを解決する能力を持ちながら、時に誤った情報を生成することが障害となっていた。FunSearchは、これらの課題に対処し、新しい知識を発見することに成功している。
+
+FunSearchは、創造的な解決策を提供する事前トレーニング済みのLLMと、誤ったアイデアを防ぐ評価器を組み合わせて機能する。このシステムは、初期の低スコアのプログラムを高スコアのものに進化させることで、新しい知識を発見している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+研究では、FunSearchが、組み合わせ論の基本的な問題である「キャップセット問題」に取り組んだ。この問題では、有限体上のベクトルの集合から、特定の条件を満たす最大の集合（キャップセット）を見つけることが求められる。取り組みの結果、FunSearchはプログラムの形式で解決策を生成し、一部の設定において過去20年間で最も大きなキャップセットを発見した。
+
+また「オンラインビンパッキング問題」への取り組みも紹介され、FunSearchが新しいアルゴリズムを発見している。オンラインビンパッキング問題は、与えられたアイテムを最小限の数のビンに効率的に詰める方法を求める問題であり、FunSearchによるこの発見は、効率的なリソース管理と最適化に関する研究に貢献する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+この手法の有効性は、構造化された問題において、解決策を直接出力する従来のコンピュータ検索技術とは異なり、解決策を生成するプログラムを生み出す点にある。これにより、ドメインの専門家との対話が容易になり、大規模なインスタンスにもスケールすることが可能となる。また、標準的なプログラミング言語で記述された意思決定手順は、他のタイプの記述と比較して、実装が容易であるとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 21 Dec 2023 11:35:39 +0000</pubDate></item><item><title>Meta「Seamless Communifation」一般公開　話者のトーンを保ちつつ、リアルタイムで多言語音声翻訳</title><link>https://ledge.ai/articles/meta_seamless_communication</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2197,36 +2232,7 @@ Stable Video Diffusionは、14フレームおよび25フレームを生成でき
 :::
 :::box
 
-:::</description><pubDate>Fri, 24 Nov 2023 05:44:50 +0000</pubDate></item><item><title>Google DeepMindの気象予測AI「GraphCast」従来型を上回る精度で10日先までの天気を1分未満で予測</title><link>https://ledge.ai/articles/google_deepmind_graphcast</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Google DeepMindは2023年11月14日、従来の天気予報システムよりも高速かつ精密な中期天気予報を実現する最新のAIモデル「GraphCast」を{target=“_blank”}した。
-
-同日「Sience」に掲載された{target=“_blank”}によると、このモデルは、10日先までの天気を1分未満で予測し、業界の標準である欧州中期天気予報センター（ECMWF）の高解像度予報（HRES）よりも優れた精度を誇るという。
-
-GraphCastは、データ駆動型の深層学習を用いて、地球の天候がどのように進化するかの因果関係のモデルを学習する。これにより、サイクロンの進路予測や洪水リスクに関連する大気河の特定、極端な気温の発生予測が可能となり、これらは災害への備えとして重要な役割を果たす。
-
-また、GraphCastは機械学習とグラフニューラルネットワーク（GNN）を基に構築されており、空間的に構造化されたデータの処理に特に適している。このシステムは、GoogleのTPU v4マシン1台で10日間の予報を1分未満で行うことが可能で、従来の手法と比べて大幅な効率化を実現している。
-@
-:::small
-Google DeepMindチャンネル「10 日間にわたる GraphCast の予測の抜粋」
-:::
-
-DeepMind によるとGraphCastは、従来の他の予報モデルと比較して、1380のテスト変数と予報期間のうち90％以上でより正確な予測を提供。特に、地球表面に最も近い大気圏である対流圏において、99.7%のテスト変数でHRESモデルを上回っているという。
-
-同社はGraphCastのモデルコードを{target=“_blank”}し、世界中の科学者や予報者が利用できるようになっている。すでにECMWF を含む気象機関によって使用されており、 Web サイトではモデルの{target=“_blank”}を実行している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 21 Nov 2023 01:08:16 +0000</pubDate></item><item><title>愛知県が国内初、制限速度60キロの一般道でレベル２自動運転の実証実験　</title><link>https://ledge.ai/articles/aichi_automated_driving_demonstration_on_main_roads</link><description>:::small
+:::</description><pubDate>Fri, 24 Nov 2023 05:44:50 +0000</pubDate></item><item><title>愛知県が国内初、制限速度60キロの一般道でレベル２自動運転の実証実験　</title><link>https://ledge.ai/articles/aichi_automated_driving_demonstration_on_main_roads</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
