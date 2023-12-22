@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Dec 2023 11:24:02 +0000</lastBuildDate><item><title>OpenAI　フロンティアモデルのもたらす壊滅的なリスクを防御するための プロセスを発表　取締役会に拒否権</title><link>https://ledge.ai/articles/openai_preparedness_safety-advisory-group</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Dec 2023 11:28:52 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+## 単一画像から３Dオブジェクトを生成「Stable Zero123」
+StableAIは2022年12月14日、単一の画像から高品質な3Dオブジェクトを生成するAIモデル「Stable Zero123」を{target=“_blank”}した。
+
+Stable Zero123は、従来の「Zero1-to-3」「Zero123-XL」を上回る品質の向上を実現するという。同モデルはStable Diffusion 1.5に基づいており、1つのノベルビューを生成するのにSD1.5と同じ量のVRAMを消費する。
+
+その他の特徴は以下の通り
+- 高品質の3Dオブジェクトのみを保持するため、改善されたトレーニングデータセットが用いられている。
+- 学習と推論の間、モデルは推定されたカメラアングルを提供し、より情報に基づいた高品質の予測が可能となる。
+- 事前に計算されたデータセットと改良されたデータローダーを組み合わせることで、学習効率が40倍に高速化された。
+
+現在は、研究者や非商用ユーザーがダウンロードして実験できるように、{target=“_blank”}で公開中。
+
+
+
+## 「Stability AIメンバーシップ」を導入
+同社は「Stability AIメンバーシップ」を15日から新たに{target=“_blank”}。このメンバーシップは、商業的権利を標準化し、最先端のコアモデルのセルフホストデプロイメントを簡素化することを目的としている。
+
+メンバーシップには、非商用、プロフェッショナル、エンタープライズの3つのカテゴリがあり、それぞれ異なるニーズに対応している。非商用カテゴリでは、個人や研究用にコアモデル一式を無料で利用できる。プロフェッショナルカテゴリでは、月額20ドルで商用利用が可能で、エンタープライズカテゴリでは大企業向けのカスタム価格設定で追加のサポートが提供される。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stability AIの理念に基づき、このメンバーシップは生成AI技術をオープンでアクセス可能なものにすることを強調しており、AIソリューションのリリースと商業権の付与方法を再定義することで、AI技術の競争力の育成とオープン性の維持を目指すという。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 21 Dec 2023 11:28:52 +0000</pubDate></item><item><title>OpenAI　フロンティアモデルのもたらす壊滅的なリスクを防御するための プロセスを発表　取締役会に拒否権</title><link>https://ledge.ai/articles/openai_preparedness_safety-advisory-group</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -271,25 +314,7 @@ Ryzen AIソフトウェアは、開発者がPyTorchやTensorFlowなどのフレ�
 :::
 :::box
 
-:::</description><pubDate>Thu, 14 Dec 2023 07:42:53 +0000</pubDate></item><item><title>日立が主要3部門にCAXO?「Chief AI Transformation Officer」を新設、全社的なAIトランスフォーメーションを加速</title><link>https://ledge.ai/articles/hitachi_chief_ai_transformation_officer</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日立製作所は2023年12月7日、急速に進化する生成AIを全社的な成長エンジンとして積極的に活用し、業務の生産性向上と新たな事業機会創出を目指すAIトランスフォーメーションを推進するため、各事業領域におけるAIトランスフォーメーションの推進責任者として「Chief AI Transformation Officer」の新設を{target=“_blank”}した。
-
-「グリーンエナジー&amp;モビリティセクター」「コネクティブインダスリーズセクター」「デジタルシステム&amp;サービスセクター」の3セクターに就任。これらの責任者は、それぞれの事業領域においてAIトランスフォーメーションの全社戦略を推進し、各セクター内での成果の刈り取りをリードする​​。
-
-日立は顧客や社会への価値提供とグループ全体の業務プロセス変革の両軸で、生成AIの利活用を推進している。日立グループ全社では、全世界で約32万人がトライアルを実施し、その経験や技術を顧客との協創活動にも活かし、サステナブルな社会実現に向けたAIトランスフォーメーションを加速させている​​。
-
-新設されたChief AI Transformation Officerは、AIトランスフォーメーションの全社戦略を各セクター内で連携し、浸透させる役割を担う。また、セクター間でのハブとして、業務での実証結果や技術・ノウハウを共有し、ベストプラクティスの蓄積やシナジー創出を促進する。さらに、生成AIを活用したイノベーション創出のために、社員の創造的な思考・スキルの醸成やマインドシフト、組織文化の改革にも取り組んでいく​​。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 13 Dec 2023 06:23:58 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Thu, 14 Dec 2023 07:42:53 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
