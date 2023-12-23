@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Dec 2023 13:22:14 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Dec 2023 13:32:11 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2473,7 +2473,39 @@ JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新�
 :::
 :::box
 
-:::</description><pubDate>Tue, 28 Nov 2023 07:08:55 +0000</pubDate></item><item><title>「Suno AI」が Microsoft Copilot のプラグインに。文章で指示すると、作詞作曲して歌い上げてくれるAI</title><link>https://ledge.ai/articles/suno-ai_microsoft_copilot</link><description>:::small
+:::</description><pubDate>Tue, 28 Nov 2023 07:08:55 +0000</pubDate></item><item><title>「イナズマイレブン」ゲーム開発の異様に興味深い生成AI活用事例を公開「AI時代の知的財産権検討会」関係者ヒアリングがきっかけ</title><link>https://ledge.ai/articles/level5_ai-kentoukai_kantei</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+政府は2023年12月11日、{target=“_blank”}を開催し、主に関係者からのヒアリングが行われた。
+
+関係者として出席した{target=“_blank”}より、ゲーム開発やプロモーション業務において、生成AIの活用が進んでいることが明らかになった。
+
+同社は「イナズマイレブン」「レイトン教授」シリーズなどで知られるゲームメーカー。ゲームを原作としたアニメや漫画への展開も行っている。資料によると、制作の現場では主に「基礎データの作成」「アイディア（案）出し」「クオリティアップ」を目的として生成AIを活用しているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+
+画像に関わるタスク以外にも、音声合成による仮ボイスの生成や、WEBサイト制作のコーディング補助など、生成AIの多岐にわたる分野での事例が紹介された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 22 Dec 2023 13:32:11 +0000</pubDate></item><item><title>「Suno AI」が Microsoft Copilot のプラグインに。文章で指示すると、作詞作曲して歌い上げてくれるAI</title><link>https://ledge.ai/articles/suno-ai_microsoft_copilot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2715,26 +2747,4 @@ AMPTPは、この暫定合意について「新しいパラダイムを代表す
 :::
 :::box
 
-:::</description><pubDate>Wed, 15 Nov 2023 05:15:37 +0000</pubDate></item><item><title>「テキストからベクター生成」Adobe Illustratorが生成AI「Adobe Firefly」を搭載し進化</title><link>https://ledge.ai/articles/adobe_firefly_text_vector</link><description>:::small
-画像の出典：Adobe
-:::
-
-米国Adobeは2023年10月10日、年次イベント{target=“_blank”}において「Illustrator」のアップデートを発表した。生成AI「Adobe Firefly」を使った新機能として{target=“_blank”}を披露。プロンプトを入力するだけで、ベクターイメージを生成できる。
-
-Adoobe Illustratorデスクトップ版に導入されたこの新機能は、シンプルなテキストプロンプトからベクターグラフィックが生成可能だ。Adobe Fireflyを搭載し、さまざまな用途に対応できる。
-
-生成したベクターアートは瞬時にアードボード上に表示され、編集や拡大縮小が可能だ。
-生成AIモデルは商用利用を想定し、Adobe Stockやパブリックドメインのコンテンツで学習している。
-
-新しい機能には、グラデーションの作成、整理された出力、シームレスなパターン、正確なジオメトリなどが含まれる。また他の生成AIツールとも併用可能だ。デザインにはコンテンツクレデンシャル機能が自動追加され、生成技術と作成ツールの情報を付与。新しいコンテンツは新規レイヤーに作成され、オリジナルのアートワークは保持される。
-
-また「テキストからベクター生成」と同時に、Retype （ベータ版）、モックアップ（ベータ版）、Adobe Illustrator web版（ベータ版）も発表した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 18 Oct 2023 06:30:09 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 15 Nov 2023 05:15:37 +0000</pubDate></item></channel></rss>
