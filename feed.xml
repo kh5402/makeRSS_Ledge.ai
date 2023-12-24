@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 23 Dec 2023 05:29:20 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 23 Dec 2023 06:05:54 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2242,7 +2242,33 @@ WIKIMIAは、モデル訓練前後のWikipediaデータを利用している。M
 :::box
 
 :::
-</description><pubDate>Wed, 29 Nov 2023 03:55:50 +0000</pubDate></item><item><title>愛知県が国内初、制限速度60キロの一般道でレベル２自動運転の実証実験　</title><link>https://ledge.ai/articles/aichi_automated_driving_demonstration_on_main_roads</link><description>:::small
+</description><pubDate>Wed, 29 Nov 2023 03:55:50 +0000</pubDate></item><item><title>東京都、AIによる婚活マッチングサービス「TOKYOふたりSTORY」無料提供開始</title><link>https://ledge.ai/articles/tokyo_futari_story</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2023年12月7日、東京都は新しいAIマッチングシステムを用いた婚活支援を{target=“_blank”}した。
+
+結婚に関心はあるがアプリ利用に不安を感じる人々を対象としたこのシステムは、価値観診断テストに基づき、AIが相性の良いパートナーを紹介する。安全性確保のため、独身証明や収入証明などの本人確認を徹底し、専門スタッフによるオンライン相談対応も提供される。対象は、18歳以上の独身男女で、特にTOKYOふたりSTORY交流イベントの参加者が優先される。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+入会申し込みをすると、オンラインで入会面談が行われる。プロフィール登録、必要書類のアップロード、価値観診断テスト受検（任意）を経て、AIによるお相手紹介・お見合いへ。双方OKならばお友達交際へ進むという流れだ。
+
+今年度は交流イベント参加者などの先行利用者に限定され、本格稼働は令和6年度の早い時期を予定している。東京都は、このシステムを通じて収集した意見を反映し、来年度に向けてサービスの充実を図る。現在はweb今後はスマートフォン向けアプリも配信予定とのこと。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 23 Dec 2023 06:05:54 +0000</pubDate></item><item><title>愛知県が国内初、制限速度60キロの一般道でレベル２自動運転の実証実験　</title><link>https://ledge.ai/articles/aichi_automated_driving_demonstration_on_main_roads</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2457,33 +2483,7 @@ JAXAは現在、関係機関と連携し、被害範囲や攻撃方法の詳細�
 :::box
 
 :::
-</description><pubDate>Wed, 29 Nov 2023 03:48:19 +0000</pubDate></item><item><title> 物流ドローンが越佐海峡を横断するラストワンマイル配送 -国土交通省の実証事業を公開</title><link>https://ledge.ai/articles/sado_drone_last_one_mile</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-JR東日本新潟シティクリエイトとAIR WINGSは2023年11月16日、新潟市、佐渡市と協力し、国土交通省が支援するラストワンマイル配送実証事業の一環として、過疎地域でのレベル4飛行に対応するドローン物流の実現を目指す事業を開始したことを{target=“_blank”}した。この事業は、越佐海峡を初めて物流ドローンが横断し、新たな物流動線を開拓する目的を持つ。実証実験のとりまとめとドローン運航責任者であるAIR WINGSは、同月21日と22日に、検証のためのドローン飛行を{target=“_blank”}した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-実証事業では、同社の列車荷物輸送サービス「はこビュン」と連携し、佐渡の新鮮な海産品（南蛮エビ・メガニ）を東京都内の飲食店にスピーディーに運ぶことを予定している。今回の実証事業では佐渡で獲れる人気の南蛮エビ、メガニが東京のレストランまで配送された。
-
-さらに、復路便では医療物資の輸送も検討されており、ドローンポートを利用した自動受け取り機能と輸送品質の担保に関する検証が実施される。これには、伊藤忠商事株式会社が機材の一部や測定機器を提供し、AIR WINGS合同会社が運航を担当する。この取り組みは、離島医療物流が抱える課題を解決するための有効な手段となることが期待されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 28 Nov 2023 07:08:55 +0000</pubDate></item><item><title>「イナズマイレブン」ゲーム開発の異様に興味深い生成AI活用事例を公開「AI時代の知的財産権検討会」関係者ヒアリングがきっかけ</title><link>https://ledge.ai/articles/level5_ai-kentoukai_kantei</link><description>:::small
+</description><pubDate>Wed, 29 Nov 2023 03:48:19 +0000</pubDate></item><item><title>「イナズマイレブン」ゲーム開発の異様に興味深い生成AI活用事例を公開「AI時代の知的財産権検討会」関係者ヒアリングがきっかけ</title><link>https://ledge.ai/articles/level5_ai-kentoukai_kantei</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
