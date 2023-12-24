@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Dec 2023 13:32:11 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 23 Dec 2023 05:29:20 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1873,7 +1873,39 @@ OpenAIはこれに加えLLM「GPT-3.5 Turbo」、画像生成モデル「DALL-E�
 :::
 :::box
 
-:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>LLM活用のAIシステム「FunSearch」が数学の未解決問題への新アプローチ　Google DeepMindが発表</title><link>https://ledge.ai/articles/google_deepmind_funserch</link><description>:::small
+:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>人間よりも賢い「超知能」を制御するにはーーOpenAI「弱いモデルが強いモデルを監督する」研究を公開</title><link>https://ledge.ai/articles/openai_weak-to-strong_generalization</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月14日、OpenAIは「Weak-to-strong generalization（弱い-強い汎化へ）」と題する研究結果を{target=“_blank”}した。この研究では、小型の（弱い）モデルが生成したラベルを用いて、大型の（強い）モデルをファインチューニングし、その一般化能力を向上させる可能性を探った。具体的には、GPT-2とGPT-4のモデルを用いた実験で、GPT-2 レベルのモデルがGPT-4 の高度な機能を引き出し、単独では解決できない困難な問題に対しても正確に一般化できることが示された。
+
+同社は7月に、AIが人間にとって安全であり続けるための「スーパーアライメントチーム」を立ち上げ、AIによるAIの監視を目指す計画を{target=“_blank”}した。このとき、発表者のイリア・サツキバー氏は、10年以内に「超知能（Superinteligence）」AIが出現する可能性を指摘し、「巨大な力は非常に危険で、人類を無力化するか、あるいは絶滅させる可能性さえある」と述べ、技術改善の必要を説いた。
+
+既存のAIをチューニングするといった技術は、人間の能力に完全に依存している。したがって人間よりはるかに賢い超知能AIが登場してしまえば、確実に制御して暴走を防げるような解決策は今のところない、というのが、スーパーアライメントチームの見解であり課題である。
+
+研究チームは、チェスパズルや常識的推論などのタスクを用いて、弱いモデルが生成したラベルを通じて強いモデルが効果的に一般化することを確認した。ただし、単純なファインチューニングのみでは、完全な一般化能力を回復するには不十分であり、RLHF（人間によるフィードバックからの強化学習）などの既存の人間による監視手法も、超人的モデルに対しては限界があることを示唆した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+しかし、強いモデルを有効に活用するための方法は、自信を持った予測を促す補助的な損失関数の使用や、中間モデルを活用した監督のブートストラップ、および教師なしのファインチューニングにより改善されることがわかったという。これらの方法は、弱いモデルから強いモデルへの一般化能力を大幅に向上させる可能性を示している​​。
+
+この研究は、超人的AIモデルの監督と調整に関する新たな道筋を示しているが、その方法はまだ概念的な段階にあり、実際の応用にはさらなる研究が必要とし、ソースコードをGitHub上に{target=“_blank”}。
+
+さらに、この研究に取り組む学生や研究者に対して1000万ドルの{target=“_blank”}を開始するという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 23 Dec 2023 05:29:20 +0000</pubDate></item><item><title>LLM活用のAIシステム「FunSearch」が数学の未解決問題への新アプローチ　Google DeepMindが発表</title><link>https://ledge.ai/articles/google_deepmind_funserch</link><description>:::small
 画像の出典：[DALL-E3によりLedge.aiが生成]
 :::
 
@@ -2208,31 +2240,7 @@ WIKIMIAは、モデル訓練前後のWikipediaデータを利用している。M
 :::box
 
 :::
-</description><pubDate>Wed, 29 Nov 2023 03:55:50 +0000</pubDate></item><item><title>テキストから動画を生成「Stable Video Diffusion」GitHubで公開ーーStability AI</title><link>https://ledge.ai/articles/stable_video_diffusion</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Sability AIは2023年11月22日、Stable Diffusionを基にした最初の動画生成用基盤モデル「Stable Video Diffusion」を{target=“_blank”}した。現在は研究プレビューとして、コードは{target=“_blank”}で公開され、ローカルでのモデルの実行に必要なウェイトは{target=“_blank”}のページで確認可能だ。
-
-Stable Video Diffusionは、14フレームおよび25フレームを生成できる2種類の画像からビデオへのモデルとしてリリースされ、3～30フレーム/秒のカスタマイズ可能なフレームレートでの生成が可能だ。このモデルは、単一画像からのマルチビュー合成など様々なタスクに適応可能で、広告、教育、エンターテイメントなど多数のセクターでの実用的な応用が示されている。
-
-@
-:::small
-{target=“_blank”}
-:::
-
-現段階では研究専用であり、実世界や商用アプリケーションでの使用は意図されていないとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 24 Nov 2023 05:44:50 +0000</pubDate></item><item><title>愛知県が国内初、制限速度60キロの一般道でレベル２自動運転の実証実験　</title><link>https://ledge.ai/articles/aichi_automated_driving_demonstration_on_main_roads</link><description>:::small
+</description><pubDate>Wed, 29 Nov 2023 03:55:50 +0000</pubDate></item><item><title>愛知県が国内初、制限速度60キロの一般道でレベル２自動運転の実証実験　</title><link>https://ledge.ai/articles/aichi_automated_driving_demonstration_on_main_roads</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
