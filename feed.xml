@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 23 Dec 2023 06:05:54 +0000</lastBuildDate><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Dec 2023 05:51:36 +0000</lastBuildDate><item><title>テスラ 人型２足歩行ロボット「Optimus 第２世代」公開 ーー卵をつまめる指先など、より人間に近くなめらかな動き</title><link>https://ledge.ai/articles/tesla_optimus_gen2</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+米国Teslaは2023年12月12日、新型二足歩行ロボット「Optimus Gen 2」を{target=“_blank”}した。
+
+この発表は公式Xアカウント（旧Twitter）を通じて行われ、デモ動画も投稿された。Optimus Gen 1からの主な改善点は、指の触覚センサーの搭載、軽量化、移動速度の向上である。新型ロボットは、黒と白のボディカラーを採用し、2021年に発表された「Tesla bot」のコンセプトに近づいている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+注目されるのは、デザインの変更だ。より丸みを帯びたフォルムが特徴で、人間らしい外観を実現している。Teslaの自社設計アクチュエータとセンサーを用いたことで、ロボット全身のバランスが向上し、歩行速度は30％速くなり、体重も10kg軽量化された。また、マニピュレーター（手）の改良により、11自由度の速い動きが可能となり、全指先に触覚センサーが内蔵されている。デモ動画では、繊細な指の動きで卵をつまみ、移し替える様子が披露された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+発売時期や価格についてはまだ明らかにされていないが、「Optimusの今後の活躍にご期待ください」というメッセージが動画で伝えられている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 24 Dec 2023 05:51:36 +0000</pubDate></item><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -273,48 +301,7 @@ NECは2023年12月5日、大規模言語モデル（LLM）と映像認識AIを�
 :::
 :::box
 
-:::</description><pubDate>Thu, 14 Dec 2023 10:22:07 +0000</pubDate></item><item><title>AMD「Advancing AI」開発イベントでNVIDIA超えのスループット「Instinct MI300」とモバイルプロセッサ「Ryzen 8040」シリーズを発表</title><link>https://ledge.ai/articles/amd_advancing_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国AMDは2023年12月6日、AI技術の最前線における新製品とソリューションの発表イベント「Advancing AI」を{target=“_blank”}した。
-
-会長兼最高経営責任者（CEO）のLisa Su氏は冒頭のスピーチで、過去1年間にわたるAI技術の急速な進化と、AMDがこの分野で果たす役割について強調した。そして、AMDのAI戦略に基づき、次世代のAMD Instinct™ MI300データセンター用GPUアクセラレータ シリーズと、モバイルPC向けのRyzen 8040シリーズを発表した。
-
-## 新型GPUアクセラレータ「Instinct MI300シリーズ」
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-{target=“_blank”}は、AIとHPCワークロード用に特化した高性能アクセラレータである。
-
-MI300Xは新しいAMD CDNA 3アーキテクチャを採用し、前世代のMI250Xに比べて40%多いコンピューティングユニット、1.5倍のメモリ容量、1.7倍のメモリ帯域幅を提供する。また、192GBのHBM3メモリと5.3TB/sのピークメモリ帯域幅を備え、Nvidia H100 HGXと比較して最大1.6倍のスループット向上を実現する。MI300A APUsは、AMD CDNA 3 GPUコアと"Zen 4" CPUコア、128GBのHBM3メモリを組み合わせ、世界初のデータセンター向けAPUとして高い性能を提供する。
-
-## AI特化チップを備えたモバイルプロセッサ「Ryzen 8040」シリーズ
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-{target=“_blank”}は、従来のAMDモデルより最大1.6倍のAI処理性能を持つ最新のモバイルプロセッサーである。
-
-特に、Ryzen 9 8945HSプロセッサーは、競合製品に比べてビデオ編集が最大64％、3Dレンダリングが最大37％高速化され、ゲーマーは最大77％の高速ゲームパフォーマンスを楽しめる​​という。
-
-また、最新のRyzenプロセッサーは、革新的な電力管理機能により、超薄型PCラップトップで最高のパフォーマンスと長いバッテリー寿命を提供する。これにより、現代のプロフェッショナルやゲーム愛好家、クリエイターが高速かつ電力効率の良いコンピューティングを求めるニーズに応える​​。
-
-AMD Ryzen 8040プロセッサーは、Windows 11エコシステムの全範囲を活用し、最適化されたパフォーマンスを提供する。特定のシステムでは、Window Studio Effects Packを利用したAI機能により、自宅や移動中のプライバシーを確保できる​​。
-
-Ryzen AIソフトウェアは、開発者がPyTorchやTensorFlowなどのフレームワークで訓練された機械学習モデルを構築し、Ryzen AIを搭載したラップトップで展開できるようになっている。このソフトウェアにより、開発者はジェスチャー認識、生体認証、その他のアクセシビリティ機能を備えたAIアプリケーションを構築できる​​とのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 14 Dec 2023 07:42:53 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Thu, 14 Dec 2023 10:22:07 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
