@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Dec 2023 06:35:57 +0000</lastBuildDate><item><title>テスラ 人型２足歩行ロボット「Optimus 第２世代」公開 ーー卵をつまめる指先など、より人間に近くなめらかな動き</title><link>https://ledge.ai/articles/tesla_optimus_gen2</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Dec 2023 02:57:07 +0000</lastBuildDate><item><title>テスラ 人型２足歩行ロボット「Optimus 第２世代」公開 ーー卵をつまめる指先など、より人間に近くなめらかな動き</title><link>https://ledge.ai/articles/tesla_optimus_gen2</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 米国Teslaは2023年12月12日、新型二足歩行ロボット「Optimus Gen 2」を{target=“_blank”}した。
@@ -2475,7 +2475,47 @@ JAXAは現在、関係機関と連携し、被害範囲や攻撃方法の詳細�
 :::box
 
 :::
-</description><pubDate>Wed, 29 Nov 2023 03:48:19 +0000</pubDate></item><item><title>「イナズマイレブン」ゲーム開発の異様に興味深い生成AI活用事例を公開「AI時代の知的財産権検討会」関係者ヒアリングがきっかけ</title><link>https://ledge.ai/articles/level5_ai-kentoukai_kantei</link><description>:::small
+</description><pubDate>Wed, 29 Nov 2023 03:48:19 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社Ememeは2023年12月14日、生成AIでキャラクターの行動とライフストーリーをシミュレーションするAI-NPCサンドボックスゲーム「Ememe」を開発していることを{target=“_blank”}した。2024年夏よりSteamとEpic Games Storeにてアーリーアクセス版を無料配信予定。
+
+「Ememe」は、生成AIを搭載したNPC（Non-Player Character）たちが自由に行動し、会話し、それぞれの物語を紡ぐ街として設計されている。このゲームは、AIとRPG、オープンワールドの要素を融合させ、次の開発段階ではマルチプレイヤーイベントの開発ツールを提供し、実時間で友達やNPCと共に生活する街を提供する予定だという。
+
+プレイヤーは、この街の住民であるAIキャラクターたちの日常生活を観察し、時には彼らの行動に干渉することが可能だ。開発元はこのゲームを「映画『トゥルーマンショー』のような世界を造れるゲーム」と称しており、リアルな人間の社会行動を模倣したAIキャラクターたちが、プレイヤーに新しいエンターテインメント体験を提供するとしている。プレイヤーは観察者であると同時に、キャラクターたちの生活に影響を与える存在となる。
+
+
+@
+
+
+NPCの会話やスケジュールに応じて、適切な表情や身体のアニメーションを予測して出力する機能も備えている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+VRMファイルに対応し、お気に入りの3Dモデルをアップロードして、街にAI-NPCとして召喚可能だ。NPCの個性を設定し、好みの外観と感覚をゲーム内で再現することができるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 25 Dec 2023 02:57:07 +0000</pubDate></item><item><title>「イナズマイレブン」ゲーム開発の異様に興味深い生成AI活用事例を公開「AI時代の知的財産権検討会」関係者ヒアリングがきっかけ</title><link>https://ledge.ai/articles/level5_ai-kentoukai_kantei</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2725,28 +2765,4 @@ KaKa Creationは、AIの活用を「工程の効率化」と捉え、人を感�
 :::
 :::box
 
-:::</description><pubDate>Fri, 17 Nov 2023 07:18:49 +0000</pubDate></item><item><title>渡辺謙氏「ようやくお知らせすることができます」ハリウッドストが終結し宣伝活動も解禁</title><link>https://ledge.ai/articles/hollywood_strike_comes_to_an_end</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-俳優の渡辺謙氏が2023年11月9日、自身のXやInstagramなどの公式SNSアカウントで、アメリカ俳優組合のスト終結に伴い、出演作品の宣伝がようやくできると{target=“_blank”}した。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-このストライキは、同年7月14日、全米の俳優ら16万人が加入する映画俳優組合（SAG-AFTRA）によって決行され、映画やドラマの製作現場に多大な影響を与えた。
-
-{target=“_blank”}は11月10日、2023年TV/映画契約の仮合意を承認し、組合員への承認投票を呼びかけた。この内容は、映画・テレビプロデューサー連盟（AMPTP）との間で11月8日に暫定合意に達したもの。組合の全国理事会は賛成多数でこの合意を承認し、組合員にも「yes」と投票することを推奨した。
-
-主な合意内容は、新たな賃金と福利厚生制度の資金として総額10億ドル以上に相当する契約、AIの使用に関する意味ある保護（合意と報酬に関する情報の提供を含む）、そして初めての史上最大の賃金増加（2024年7月に11.28%、2025年7月に3.5%の増加）が含まれているという。
-
-AMPTPは、この暫定合意について「新しいパラダイムを代表するものであり、SAG-AFTRAにとって史上最大の契約上の利益をもたらすものである。これには、過去40年間で最大の最低賃金の増加、ストリーミングプログラムのための新たな残業代、AI使用に関する広範な同意と報酬の保護、そして全面的な契約項目の大幅な増加が含まれている」と{target=“_blank”}いる。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 15 Nov 2023 05:15:37 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 17 Nov 2023 07:18:49 +0000</pubDate></item></channel></rss>
