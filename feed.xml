@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Dec 2023 05:51:36 +0000</lastBuildDate><item><title>テスラ 人型２足歩行ロボット「Optimus 第２世代」公開 ーー卵をつまめる指先など、より人間に近くなめらかな動き</title><link>https://ledge.ai/articles/tesla_optimus_gen2</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Dec 2023 06:35:57 +0000</lastBuildDate><item><title>テスラ 人型２足歩行ロボット「Optimus 第２世代」公開 ーー卵をつまめる指先など、より人間に近くなめらかな動き</title><link>https://ledge.ai/articles/tesla_optimus_gen2</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 米国Teslaは2023年12月12日、新型二足歩行ロボット「Optimus Gen 2」を{target=“_blank”}した。
@@ -1860,7 +1860,42 @@ OpenAIはこれに加えLLM「GPT-3.5 Turbo」、画像生成モデル「DALL-E�
 :::
 :::box
 
-:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>人間よりも賢い「超知能」を制御するにはーーOpenAI「弱いモデルが強いモデルを監督する」研究を公開</title><link>https://ledge.ai/articles/openai_weak-to-strong_generalization</link><description>:::small
+:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>家事用ロボットにマジックハンドとiPhoneをマウントして学習させるフレームワーク「Dobb·E」発表ーーMetaとニューヨーク大学の共同開発</title><link>https://ledge.ai/articles/dobb-e</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ニューヨーク大学とMetaの共同研究チームは2023年11月27日に、家庭内で多様なタスクを学習できるロボット操作フレームワーク「Dobb·E」を{target=“_blank”}した。このシステムは、安価で多様な汎用性を持ち、ユーザーが示したタスクをわずか20分で学習する能力を有するという。
+
+Dobb·Eの主なインターフェースは「The Stick」と呼ばれるデモンストレーション収集ツールで、手頃な価格のリーチャーグラバー（マジックハンド）、3Dプリント部品、およびiPhoneを組み合わせて作られている。このツールは、ユーザーによるタスクのデモンストレーションを収集し、それを学習データとしてロボットに提供する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ニューヨーク市内の22軒の家庭で収集された13時間にわたるデータを使用し、「Home Pretrained Representations（HPR）」モデルをトレーニングした。このHPRモデルは、自己教師あり学習（SSL）技術を採用し、家庭環境でのタスクを効果的に学習する。
+
+約30日間にわたるニューヨーク市と周辺地域の10軒の家庭での実験では、異なる環境で計109のタスクに取り組み、そのうち102のタスクで成功を収めた。Dobb·Eは、視覚模倣学習において単純な行動クローニングのレシピを採用し、視覚表現の抽出にはResNetモデル、行動予測には2層ニューラルネットワークを使用している。このシステムは、家庭での平均成功率が81％に達した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+しかし、ロボットの力、到達範囲、バッテリー寿命などのハードウェアの制約や、曖昧なセンシング、より複雑で時間的に延長されるタスクでのポリシーフレームワークの問題など、未解決の課題も存在する。
+
+研究チームは、今後の家庭用ロボティクスの研究を促進し支援するため、コード、データ、モデル、ハードウェア設計をオープンソース化し、結果の再現を支援している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 24 Dec 2023 06:35:57 +0000</pubDate></item><item><title>人間よりも賢い「超知能」を制御するにはーーOpenAI「弱いモデルが強いモデルを監督する」研究を公開</title><link>https://ledge.ai/articles/openai_weak-to-strong_generalization</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2199,37 +2234,7 @@ NeRFなど従来の方法では、複数の視点からの画像や3Dスキャ�
 :::
 :::box
 
-:::</description><pubDate>Fri, 01 Dec 2023 09:37:25 +0000</pubDate></item><item><title>任意の文章のLLM事前学習を検出する新ツール発表　ワシントン大学とプリンストン大学
-</title><link>https://ledge.ai/articles/detecting_pretraining_data_llm</link><description>:::small
-画像の出典：Detecting Pretraining Data from Large Language Models
-:::
-
-
-米国ワシントン大学と米国プリンストン大学に所属する研究者らが2023年11月3日に発表した論文{target=“_blank”}は、任意の文章が大規模言語モデル（LLM）で事前学習されているかを検出するツールを提案したものだ。
-
-大規模言語モデル（LLM）の訓練には、非公開で問題を引き起こす可能性があるテキスト（著作権で保護された文書、個人識別情報、ベンチマークのテストデータなど）が含まれることがある。過去の研究で、LLMが著作権で保護された書籍の一部や個人のメールを生成した事例がある。しかし現在、LLMの訓練データに何がどれだけ含まれているかを知る方法はない。
-
-この研究は、どの事前学習データが使用されたか不明な状況で、特定のテキストが言語モデルの事前学習データに含有されているかを判断できるかを評価するものだ。ベンチマークとして「WIKIMIA」、検出手法として「MIN-K% PROB」が提案されている。
-
-WIKIMIAは、モデル訓練前後のWikipediaデータを利用している。MIN-K% PROBは、外れ値トークンの平均確率を計算するものだ。実験では従来の方法よりも高い性能を示し、特にWIKIMIAでのAUCスコアが7.4%向上した。また「著作権のある書籍の検出」「プライバシー監査」「データセットの汚染検出」で優れた性能を発揮した。
-
-!
-
-:::small
-画像の出典：Detecting Pretraining Data from Large Language Models
-:::
-
-著作権のある書籍の検出に関する実験では、GPT-3がBooks3データセットに含まれる著作権で保護された書籍を使用して事前学習された可能性が高いことを示す証拠が見つかった。またプライバシー監査の実験では、著作権で保護された書籍の情報を忘れさせるように訓練されたLLMを再検証した。その結果、依然として著作権で保護されたコンテンツを生成する可能性があることを示唆した。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 29 Nov 2023 03:55:50 +0000</pubDate></item><item><title>東京都、AIによる婚活マッチングサービス「TOKYOふたりSTORY」無料提供開始</title><link>https://ledge.ai/articles/tokyo_futari_story</link><description>:::small
+:::</description><pubDate>Fri, 01 Dec 2023 09:37:25 +0000</pubDate></item><item><title>東京都、AIによる婚活マッチングサービス「TOKYOふたりSTORY」無料提供開始</title><link>https://ledge.ai/articles/tokyo_futari_story</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
