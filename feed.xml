@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Dec 2023 11:47:00 +0000</lastBuildDate><item><title>ホワイトボードツールMiro、生成AI機能「Miro アシスト（ベータ版）」を含む新機能を発表</title><link>https://ledge.ai/articles/miro_assist</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Dec 2023 11:50:07 +0000</lastBuildDate><item><title>アルトマン氏の年末ブログ「誰かに言ってほしかったこと--17項目」2024年、新しく何かを始める人に</title><link>https://ledge.ai/articles/sama_what_i_wish_someone_had_told_me</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIのCEO サム・アルトマン氏が2023年12月22日、「誰かに言ってほしかったこと（What I Wish Someone Had Told Me）」と題し、同氏が「もっと前に知りたかった」ビジネスや人生において重要だと考える17の教訓をブログで{target=“_blank”}した。
+
+ひさびさのブログ投稿で同氏は「楽観主義、執着心、自己信念、生身のパワー、人脈が物事を始めるうえで重要だ」と1つめの項目で述べた。この投稿についてX（旧Twitter）公式アカウントでは「2024年に取り組むべきことを考える人々に役立つことを願っている。これはいつも私のお気に入りの時期だ」と{target=“_blank”}いる。
+
+17の項目には抽象的な表現も多いため「たぶん、あのことだろう」「詳細は語れないが、何か大変なことを乗り越えたのだろう」と読み手に想像を巡らせる内容となっており、Xでの反応も様々であった。
+
+社長謙共同創設者のグレッグ・ブロックマン氏は、17項目の中の「チームにとって、あまり重要でない簡単なことをするよりも、本当に重要な難しいことをする方が簡単だ。大胆なアイデアは人々のモチベーションを高める」という1項目を取り上げ、「極めて直観に反するが、極めて真実だ（Extremely counterintuitive and extremely true）」とXで{target=“_blank”}した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 25 Dec 2023 11:50:07 +0000</pubDate></item><item><title>ホワイトボードツールMiro、生成AI機能「Miro アシスト（ベータ版）」を含む新機能を発表</title><link>https://ledge.ai/articles/miro_assist</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -297,25 +316,7 @@ Intelの主席副社長Michelle Johnston Holthaus氏は
 :::
 :::box
 
-:::</description><pubDate>Mon, 18 Dec 2023 02:46:10 +0000</pubDate></item><item><title>Google Cloud、Geminiを世界中の組織に展開　Microsoft Azureに対抗</title><link>https://ledge.ai/articles/bringing_gemini_to_organizations_everywhere</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-米国Googleは2023年12月13日、1週間前に公開した新たなAIモデル「Gemini」を世界中のあらゆる組織に提供することを{target=“_blank”}した。
-
-Gemini はデータセンターからモバイルデバイスまであらゆる場所で効率的に実行可能で、開発者や企業がAIを使用してアプリケーションを構築、スケールする方法を強化できる。「Ultra」「Pro」「Nano」の異なるサイズで最適化されており、多様なベンチマークで最先端のパフォーマンスを実現している。テキスト、コード、オーディオ、画像、ビデオなど、異なるタイプの情報を一般化し、シームレスに理解・操作するマルチモーダルなモデルだ。
-
-同社はこの日、「Gemini Pro」のAPIを通じたアクセス、「Google AI Studio」および「Vertex AIプラットフォーム」での利用、画像モデルの最新版「Imagen 2」、「MedLM」という医療業界向けの基盤モデル群、Duet AI for Developersの一般公開、そしてDuet AI in Security Operationsの導入についても発表している。
-
-これらの新機能により、開発者と組織はGeminiを活用し、さまざまなアプリケーションを柔軟に構築し、デプロイすることができる​という。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 18 Dec 2023 02:39:26 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Mon, 18 Dec 2023 02:46:10 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
