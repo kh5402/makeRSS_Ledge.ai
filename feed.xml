@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Dec 2023 02:57:07 +0000</lastBuildDate><item><title>テスラ 人型２足歩行ロボット「Optimus 第２世代」公開 ーー卵をつまめる指先など、より人間に近くなめらかな動き</title><link>https://ledge.ai/articles/tesla_optimus_gen2</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Dec 2023 11:44:07 +0000</lastBuildDate><item><title>ホワイトボードツールMiro、生成AI機能「Miro アシスト（ベータ版）」を含む新機能を発表</title><link>https://ledge.ai/articles/miro_assist</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Miroは2023年12月20日、ユーザーのイノベーションを加速するための新機能と機能のアップデートを複数{target=“_blank”}した。
+
+Miroは、あらゆる規模の分散されたチームが、次の大きなビジネスを作り上げるためのビジュアルワークスペースを提供するプラットフォームだ。ユーザーは、キャンバスを用いて、ユーザーがワークショップやミーティング、製品設計、ブレインストーミングなどを実施する。
+
+今回発表された主要なアップデートは、生成AIを活用した「Miro アシスト（ベータ版）」の導入だ。これによりイノベーション支援機能が利用可能になり、高度なダイアグラム作成やAzure DevOpsとの統合も強化された。
+
+Miro アシストは、文章の文脈を理解し、新たな製品やアイデアの迅速な創出をサポートする。ユーザーはMiro アシストを通じて、調査やブレインストーミングからインサイトを得たり、チーム内の偏った意見を取り除き、ヒューマンエラーのリスクを軽減できるという。提供される機能は、AIを活用したマインドマッピングやダイアグラムの自動生成や、付箋の要約機能など。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 25 Dec 2023 11:44:07 +0000</pubDate></item><item><title>テスラ 人型２足歩行ロボット「Optimus 第２世代」公開 ーー卵をつまめる指先など、より人間に近くなめらかな動き</title><link>https://ledge.ai/articles/tesla_optimus_gen2</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 米国Teslaは2023年12月12日、新型二足歩行ロボット「Optimus Gen 2」を{target=“_blank”}した。
@@ -287,21 +315,7 @@ Gemini はデータセンターからモバイルデバイスまであらゆる�
 :::
 :::box
 
-:::</description><pubDate>Mon, 18 Dec 2023 02:39:26 +0000</pubDate></item><item><title>NECが世界初の開発　動画から説明文章を映像認識AI×LLMで自動生成</title><link>https://ledge.ai/articles/nec_video_recgnition_ai_and_llm_generate_explanatory_text_from_video</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NECは2023年12月5日、大規模言語モデル（LLM）と映像認識AIを組み合わせ、長時間の動画から利用者の目的に応じた短縮動画と説明文章を自動生成する技術を世界で初めて開発したと{target=“_blank”}した。
-
-この技術はドライブレコーダーの動画分析に応用し、事故発生時の状況や経緯を説明する文章と短縮動画を自動で生成する。また、損害保険金請求や交通安全指導などに用いる事故調査報告書の自動作成も可能であり、従来の手作業による報告書作成時間を半減できる。同社は2024年3月にこの技術の試用版を提供する予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 14 Dec 2023 10:22:07 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Mon, 18 Dec 2023 02:39:26 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
