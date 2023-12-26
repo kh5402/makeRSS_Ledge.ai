@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Dec 2023 11:44:07 +0000</lastBuildDate><item><title>ホワイトボードツールMiro、生成AI機能「Miro アシスト（ベータ版）」を含む新機能を発表</title><link>https://ledge.ai/articles/miro_assist</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Dec 2023 11:47:00 +0000</lastBuildDate><item><title>ホワイトボードツールMiro、生成AI機能「Miro アシスト（ベータ版）」を含む新機能を発表</title><link>https://ledge.ai/articles/miro_assist</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2248,7 +2248,27 @@ NeRFなど従来の方法では、複数の視点からの画像や3Dスキャ�
 :::
 :::box
 
-:::</description><pubDate>Fri, 01 Dec 2023 09:37:25 +0000</pubDate></item><item><title>東京都、AIによる婚活マッチングサービス「TOKYOふたりSTORY」無料提供開始</title><link>https://ledge.ai/articles/tokyo_futari_story</link><description>:::small
+:::</description><pubDate>Fri, 01 Dec 2023 09:37:25 +0000</pubDate></item><item><title>三豊市、ChatGPTを用いた「ゴミ出し案内」正答率99%に届かず本格導入を見送りーー松尾研の実証実験、62.5％→94.1％に改善していたが</title><link>https://ledge.ai/articles/mitoyo_chatgpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+香川県三豊市は2023年10月23日、ChatGPTを用いた「ゴミ出し案内」システムの本格導入を見送ったことを{target=“_blank”}した。
+
+このシステムは、市民からのゴミ出しに関する質問に対してAIが回答するもので、東京大学大学院工学系研究科松尾研究室の協力のもと6月より実証実験が行われていた。実証実験は6月から実施。開始当初の正答率は62.5%で、本格導入には正答率99％が求められていた。
+
+松尾研究室では、 GPT-3.5からGPT-4.0へのアップグレード、1問1答形式から対話形式へ変更、推測機能の追加、返答をリアルタイムに表示などの改善を試みたが、2回目の実証実験では、正答率が94.1％に留まった。この結果を受け、同市は本市における「ごみ出し案内」業務にChatGPTの活用を見送る決定を下した。
+
+ChatGPTを活用した自治体の試みは注目されていたが、今回の結果はAI技術の現状と限界を示している。三豊市は今後も技術の進歩を見守りながら、市民サービスの向上を図る方針である。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 25 Dec 2023 11:47:00 +0000</pubDate></item><item><title>東京都、AIによる婚活マッチングサービス「TOKYOふたりSTORY」無料提供開始</title><link>https://ledge.ai/articles/tokyo_futari_story</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2472,24 +2492,7 @@ JAXAは現在、関係機関と連携し、被害範囲や攻撃方法の詳細�
 :::
 :::box
 
-:::</description><pubDate>Fri, 01 Dec 2023 10:13:48 +0000</pubDate></item><item><title>神戸市、業務でAIを利用する際のルールを条例化へ</title><link>https://ledge.ai/articles/kobe_new_ordinance_ai</link><description>:::small
-画像の出典：神戸市
-:::
-
-神戸市は2023年11月24日、業務でAIを利用する際のルールを条例化すると{target=“_blank”}した。「（仮称）神戸市における AI の活用等に関する条例」の制定を予定しており、本条例の制定に向けた有識者会議の設置及び意見募集手続きを実施する。
-
-
-神戸市は、全国に先駆けてChatGPTを含む生成AIに関する「神戸市情報通信技術を活用した行政の推進等に関する条例」を5月に改正した。今後さらにAI技術の幅広い活用が見込まれるため新たな条例を制定し、AIを安全かつ効果的に活用する社会を目指す。
-
-条例（案）には基本指針の策定、リスクアセスメントの実施、AIチャットボット、市民・事業者のAI活用施策、学校教育でのAI適正使用教育、AI活用アドバイザーなどが含まれる。条例は神戸市および市の業務を請負・受託する事業者が対象であり、市民や一般事業者のAI活用を制限するものではない。
-
-条例制定にあたり、市民・事業者からの意見募集を2023年11月24日から12月25日まで実施する。AI条例案に対する意見聴取のための有識者会議を設け、第1回は2023年11月30日に開催予定。
-
-
-:::box
-
-:::
-</description><pubDate>Wed, 29 Nov 2023 03:48:19 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
+:::</description><pubDate>Fri, 01 Dec 2023 10:13:48 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
