@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Dec 2023 05:14:14 +0000</lastBuildDate><item><title>アルトマン氏の年末ブログ「誰かに言ってほしかったこと--17項目」2024年、新しく何かを始める人に</title><link>https://ledge.ai/articles/sama_what_i_wish_someone_had_told_me</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Dec 2023 05:23:22 +0000</lastBuildDate><item><title>話す声は本人のままで翻訳される。ニッポン放送の多言語変換ツール「リングイイネ！」β版開発</title><link>https://ledge.ai/articles/nippon_broadcasting_lingiine</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ニッポン放送は2023年12月14日、日本語の音声コンテンツを多言語に変換可能なツール「リングイイネ！」のβ版を開発したことを{target=“_blank”}した。
+
+AIを利用したこのツールは、話者の言語や声の特徴を保持したまま他言語への翻訳・音声変換を実現する。現在、英語、中国語、スペイン語を含む28の言語に対応しており、国際特許出願中だという。
+
+アナウンサーの話す日本語を英語に翻訳・音声変換したデモ動画が公開されている。
+
+
+@
+
+@
+
+
+音声認識や機械翻訳技術の進展に伴って、従来の技術では実現できなかった話者の声の特徴を反映した音声変換を可能にしたと同社は述べる。同ツールを活用し、日本語コンテンツを多言語に変換し、海外のポッドキャストマーケットへの展開を図る予定とのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 26 Dec 2023 05:23:22 +0000</pubDate></item><item><title>アルトマン氏の年末ブログ「誰かに言ってほしかったこと--17項目」2024年、新しく何かを始める人に</title><link>https://ledge.ai/articles/sama_what_i_wish_someone_had_told_me</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -286,37 +311,7 @@ Intelの主席副社長Michelle Johnston Holthaus氏は
 :::box
 
 :::
-</description><pubDate>Tue, 19 Dec 2023 00:54:28 +0000</pubDate></item><item><title>旭化成、DX戦略説明会で生成AIの本格導入を発表　社内コミュニティ発足・作業効率化で増益期待</title><link>https://ledge.ai/articles/asahi-kasei_full-scale_introduction_of_gen-ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-旭化成は2023年12月7日、DX戦略説明会を開催し、生成AIを本格導入することを{target=“_blank”}し、生成AIの活用により、デジタル基盤の強化とビジネス変革を目指すと述べた。
-
-同社は、全従業員向けに独自の生成AI活用ガイドラインを制定し、グループ全体での生成AIの積極的な活用を促進している。生成AIの活用コミュニティを発足させ、専任組織「生成AI／言語解析ユニット」が主導することで、システムの実装や人材育成を加速させているという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-また、書面監査における生成AIの活用により、既存の監査プロセスが効率化され、大幅な時間短縮が見込まれている。WEB上の最新情報に加えて、社内データと連携し、さらにファインチューニングによる自社特化の回答を実現している。これにより、特許作成など専門性の高い業務への対応が可能となっているという。
-
-社内でのトライアル事例や技術情報の共有、セミナーの開講が行われており、従業員全員が利用可能な生成AIシステムを導入している。さらに、社内データと連携した生成AIシステムの活用も開始されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 18 Dec 2023 02:46:10 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+</description><pubDate>Tue, 19 Dec 2023 00:54:28 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
