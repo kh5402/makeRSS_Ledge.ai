@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Dec 2023 05:23:22 +0000</lastBuildDate><item><title>話す声は本人のままで翻訳される。ニッポン放送の多言語変換ツール「リングイイネ！」β版開発</title><link>https://ledge.ai/articles/nippon_broadcasting_lingiine</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Dec 2023 06:16:05 +0000</lastBuildDate><item><title>話す声は本人のままで翻訳される。ニッポン放送の多言語変換ツール「リングイイネ！」β版開発</title><link>https://ledge.ai/articles/nippon_broadcasting_lingiine</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2270,7 +2270,38 @@ NeRFなど従来の方法では、複数の視点からの画像や3Dスキャ�
 :::box
 
 :::
-</description><pubDate>Fri, 01 Dec 2023 10:06:21 +0000</pubDate></item><item><title>三豊市、ChatGPTを用いた「ゴミ出し案内」正答率99%に届かず本格導入を見送りーー松尾研の実証実験、62.5％→94.1％に改善していたが</title><link>https://ledge.ai/articles/mitoyo_chatgpt</link><description>:::small
+</description><pubDate>Fri, 01 Dec 2023 10:06:21 +0000</pubDate></item><item><title>AIでこどもの不登校を予測ーー戸田市✕内田洋行✕PKSHAのプロジェクト開始</title><link>https://ledge.ai/articles/toda-city_pksha_uchida</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+こどもの教育データをAIが分析し、不登校の予兆検知モデルの構築を目指す事業が動き始めた。
+
+PKSHA Technologyは2023年12月15日、グループ会社のアルゴノートが内田洋行と共に、こども家庭庁の「こどもデータ連携実証事業」に参画することを{target=“_blank”}した。
+
+このプロジェクトは、埼玉県戸田市内の18の小中学校で実施され、2023年11月にパイロット校での試行が始まった。PKSHAは、ビジネス領域で培ったAI技術を社会課題の解決に応用し、共同プロジェクトを進めることで、より良い社会の実現を目指している。
+
+この実証研究では、内田洋行と協力し、不登校の予兆を予測するためのAIモデルを構築する。このモデルは、出席状況、保健室利用状況などの学校データに加え、埼玉県の学力・学習状況調査や健康診断結果などの情報を分析に利用する。
+
+リスクスコアとその根拠となるデータ項目を表示することで、教職員が具体的な支援活動を行えるようサポートする計画だ。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+プロジェクトの主要なフェーズには、データ項目の選定、モデルの構築、モデルの検証が含まれる。個人情報保護法に基づき、様々なデータを集約し分析することで、リスクと根拠となる項目を重要度順に可視化する。AIの予測結果に説明性を持たせることにより、教職員がより効果的に判断し行動できると期待される。
+
+この取り組みは、児童虐待、いじめ、不登校、ヤングケアラーなど、こどもを取り巻く問題の予兆を検知し、能動的に支援する「プッシュ型支援」の実現を目指している。長期的な予測を通じて、不登校の予兆検知モデルの精度を向上させ、いじめなどのSOS検知にも取り組む予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Tue, 26 Dec 2023 06:16:05 +0000</pubDate></item><item><title>三豊市、ChatGPTを用いた「ゴミ出し案内」正答率99%に届かず本格導入を見送りーー松尾研の実証実験、62.5％→94.1％に改善していたが</title><link>https://ledge.ai/articles/mitoyo_chatgpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2496,25 +2527,7 @@ JAXAは現在、関係機関と連携し、被害範囲や攻撃方法の詳細�
 :::
 :::box
 
-:::</description><pubDate>Fri, 01 Dec 2023 11:04:55 +0000</pubDate></item><item><title>日米英などG7含む計18か国が参加、国際AIセキュリティガイドラインに共同署名</title><link>https://ledge.ai/articles/guidelines_for_secure_ai_system_development</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-内閣府科学技術・イノベーション推進事務局と内閣サイバーセキュリティセンターは2023年11月28日、英国国家サイバーセキュリティセンター（NCSC）と米国サイバーセキュリティ・インフラストラクチャー安全保障庁（CISA）等が作成した「セキュアAIシステム開発ガイドライン」に共同署名したと{target=“_blank”}した。日本のほかG7各国含む計18か国が参加した。
-
-この文書は「セキュアバイデザイン」（特にソフトウェアなどのIT製品について、セキュリティを確保した設計を行うこと）の観点から、AIシステムの構築を支援する指針となっているという。このガイドラインは、G7広島AIプロセスを補完するものであり、高度なAIシステム開発組織向けの国際行動規範も記載されている。
-
-内閣府は、この文書がAIのセキュリティ強化に貢献し、国際連携の基礎となるとして共同署名に加わった。今後も、技術の進歩を踏まえ、産業界との対話を継続し、AI及びサイバーセキュリティ分野での国際連携を強化していく予定だ。
-
-参考：{target=“_blank”}
-{target=“_blank”}
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 01 Dec 2023 10:13:48 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
+:::</description><pubDate>Fri, 01 Dec 2023 11:04:55 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
