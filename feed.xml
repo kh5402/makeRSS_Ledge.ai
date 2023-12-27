@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Dec 2023 11:50:07 +0000</lastBuildDate><item><title>アルトマン氏の年末ブログ「誰かに言ってほしかったこと--17項目」2024年、新しく何かを始める人に</title><link>https://ledge.ai/articles/sama_what_i_wish_someone_had_told_me</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Dec 2023 05:14:14 +0000</lastBuildDate><item><title>アルトマン氏の年末ブログ「誰かに言ってほしかったこと--17項目」2024年、新しく何かを始める人に</title><link>https://ledge.ai/articles/sama_what_i_wish_someone_had_told_me</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1875,7 +1875,50 @@ OpenAIはこれに加えLLM「GPT-3.5 Turbo」、画像生成モデル「DALL-E�
 :::
 :::box
 
-:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>家事用ロボットにマジックハンドとiPhoneをマウントして学習させるフレームワーク「Dobb·E」発表ーーMetaとニューヨーク大学の共同開発</title><link>https://ledge.ai/articles/dobb-e</link><description>:::small
+:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>Googleが新たな動画生成技術「VideoPoet」を発表ーー拡散モデルではなくLLMを活用</title><link>https://ledge.ai/articles/google_reserch_videopoet</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleの研究機関 Google Researchは2023年12月19日、大規模言語モデル（LLM）に基づく新たな動画生成技術「VideoPoet」を{target=“_blank”}した。
+
+VideoPoetは、テキストから動画生成、画像から動画生成、動画のスタイル化、動画のインペインティングやアウトペインティング、さらには動画から音声への変換など、幅広い動画生成タスクに対応する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+動画生成モデルの多くは「拡散モデル（Diffusion Model）」が主流であるのに対し、VideoPoetは、複数のモダリティにまたがる学習能力を持つLLMを利用している点が特徴だ。モデルの訓練には、動画や音声のトークナイザーを利用して、これらを離散トークンのシーケンスとしてエンコードし、後で元の表現に戻すことが可能となる。
+
+!
+:::small
+画像の出典：[Google Reserch Blog「VideoPoet タスク設計の詳細な説明。さまざまなタスクのトレーニングと推論の入出力を示す」
+](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html){target=“_blank”}
+:::
+
+モデルはテキスト入力を受け取り、それに基づいて動画を生成する。例えば、「タイムズスクエアで踊るアライグマ」や「ゴッホの『星月夜』を駆け抜ける馬」といったテキスト入力に基づいて、さまざまな動きやスタイルの動画が生成される。
+
+また、テキスト プロンプトに応じて、入力画像にモーションを適用して、その内容を望ましい状態に向けて編集も可能だ。
+
+左：「カメラを振り向く女性」右：「あくびをする女性」
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+VideoPoet モデルはビデオを縦向きで生成し、その出力を短編コンテンツに合わせて調整する。以下はその機能を紹介するために作成されたショートムービーだ。脚本はBardが書いている。シーンごとの内訳と付随するプロンプトのリストを備え、旅するアライグマについての短編小説を指示。生成された各プロンプトのビデオ クリップをつなぎ合わせ最終ビデオを作成したという。
+
+@
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 26 Dec 2023 05:14:14 +0000</pubDate></item><item><title>家事用ロボットにマジックハンドとiPhoneをマウントして学習させるフレームワーク「Dobb·E」発表ーーMetaとニューヨーク大学の共同開発</title><link>https://ledge.ai/articles/dobb-e</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2232,24 +2275,7 @@ NeRFなど従来の方法では、複数の視点からの画像や3Dスキャ�
 :::box
 
 :::
-</description><pubDate>Fri, 01 Dec 2023 10:06:21 +0000</pubDate></item><item><title>AI「電子舌」を開発。人間の感覚と情動を統合し食行動を模倣するーーペンシルベニア州立大学研究チーム</title><link>https://ledge.ai/articles/an_electronic_tongue</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ペンシルベニア州立大学の研究チームが2023年9月27日、人間の食行動を模倣するための全2Dバイオインスパイアード回路を開発したと{target=“_blank”}した。このシステムは、食事における生物学的な味覚経路を簡略化し、食べ物の化学的な構成を感知するための「電子舌」として機能するグラフェン化学トランジスターを含む。また、食行動を制御する「飢餓ニューロン」と「食欲ニューロン」を含む電子回路が、人間の味覚皮質を模倣するという。
-
-動物の行動は体の機能と心の働きの複雑な組み合わせによって成り立っているが、現在のAIではこの結びつきが十分に理解されておらず、心理学的な側面が考慮されにくい傾向にあるという。例えば、空腹状態だけが食事という行為に即つながるわけではなく「おいしそう」と感じる心の状態が影響することなどは理解されにくいといったことだ。
-
-近年、脳の画像技術や遺伝学の進展により、例えば食事などの行動をコントロールする特定の神経回路が明らかになってきた。この研究では、人間の食行動を模倣する新しいシステムが提案されている。このシステムは、人間が食事をする際の体の状態（例えば空腹）や心の状態（例えば食欲）を考慮する。
-
-研究チームは、この技術が人間の健康への応用や、感情を持つヒューマノイドAIの開発にも影響を与え、人間の味覚のみならず他の感覚システムへの応用が期待できると述べている。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 01 Dec 2023 09:37:25 +0000</pubDate></item><item><title>三豊市、ChatGPTを用いた「ゴミ出し案内」正答率99%に届かず本格導入を見送りーー松尾研の実証実験、62.5％→94.1％に改善していたが</title><link>https://ledge.ai/articles/mitoyo_chatgpt</link><description>:::small
+</description><pubDate>Fri, 01 Dec 2023 10:06:21 +0000</pubDate></item><item><title>三豊市、ChatGPTを用いた「ゴミ出し案内」正答率99%に届かず本格導入を見送りーー松尾研の実証実験、62.5％→94.1％に改善していたが</title><link>https://ledge.ai/articles/mitoyo_chatgpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
