@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Dec 2023 06:56:55 +0000</lastBuildDate><item><title>話す声は本人のままで翻訳される。ニッポン放送の多言語変換ツール「リングイイネ！」β版開発</title><link>https://ledge.ai/articles/nippon_broadcasting_lingiine</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Dec 2023 07:03:51 +0000</lastBuildDate><item><title>NECの生成AI「cotomi（コトミ）」性能強化と事業戦略を発表</title><link>https://ledge.ai/articles/nec_llm_cotomi</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NECは2023年12月15日、大規模言語モデル（LLM）「cotomi（コトミ）」の性能強化と「NEC Digital Platform」事業戦略を{target=“_blank”}した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+この計画では、2024年春から同社の持つ業種・業務ノウハウをもとにした特化モデルを中核に、さまざまな業種のビジネス向け最適な生成AI利用環境を提供するという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+品質の高い学習データ量を増やし、日本語対話能力を向上させた「cotomi」は、長文処理能力で他社を大幅に上回るという。新しいアーキテクチャの開発も進行中で、これによりモデルサイズの拡大や機能拡張が可能になる。NECはこれらの取り組みを通じ、生成AI事業で3年間で約500億円の売上を目指すとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 27 Dec 2023 07:03:51 +0000</pubDate></item><item><title>話す声は本人のままで翻訳される。ニッポン放送の多言語変換ツール「リングイイネ！」β版開発</title><link>https://ledge.ai/articles/nippon_broadcasting_lingiine</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -287,31 +315,7 @@ Nue ASRは、事前学習済みの{target=“_blank”} と、{target=“_blank�
 :::
 :::box
 
-:::</description><pubDate>Tue, 19 Dec 2023 07:21:49 +0000</pubDate></item><item><title>インテル、最新モバイルプロセッサ「Core Ultra」発表  「AI PCは、2028年までにPC市場の80%」</title><link>https://ledge.ai/articles/intel_core_ultra</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月14日、Intelは「AI Everywhere」イベントにおいて、新しいIntel® Core™ Ultraモバイルプロセッサを{target=“_blank”}した。このプロセッサは、再考された電力効率、世界クラスの計算とグラフィックス性能、および最高のAI PC体験をモバイルプラットフォームやエッジに提供するという。
-
-Intel Core Ultraは、Intelの歴史上最もAI能力が高く、前世代より2.5倍の電力効率を実現したクライアントプロセッサだ。専用AIアクセラレーション機能を備え、CPU、GPU、NPUアーキテクチャ全体にわたりAI機能を最大限に活用する。
-
-競合他社との比較では、Intel Core Ultraは300以上のAI加速機能を備え、これは3倍以上のAIアプリとフレームワークを提供する。また、新しいP-coreアーキテクチャと最大16コアにより、競合他社より11％高いマルチスレッドパフォーマンスを提供する。これはRyzenの 7 7840Uなどと比較された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Intelの主席副社長Michelle Johnston Holthaus氏は
-「Intel Core Ultraの発売は、PC上でAIを活用するIntelのスケールとスピードを示す。2028年までにAI PCはPC市場の80%を占め、次世代コンピューティングをリードする」と述べた。
-
-新しいIntel Core Ultraモバイルプロセッサは、Acer、ASUS、Dell、Dynabook、Gigabyte、Google Chromebook、HP、Lenovo、LG、Microsoft Surface、MSI、Samsungを含むパートナーからの世界初のAI PC 230台以上を動力源とする。
-
-
-:::box
-
-:::
-</description><pubDate>Tue, 19 Dec 2023 00:54:28 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
+:::</description><pubDate>Tue, 19 Dec 2023 07:21:49 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
