@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Dec 2023 06:16:05 +0000</lastBuildDate><item><title>話す声は本人のままで翻訳される。ニッポン放送の多言語変換ツール「リングイイネ！」β版開発</title><link>https://ledge.ai/articles/nippon_broadcasting_lingiine</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Dec 2023 06:56:55 +0000</lastBuildDate><item><title>話す声は本人のままで翻訳される。ニッポン放送の多言語変換ツール「リングイイネ！」β版開発</title><link>https://ledge.ai/articles/nippon_broadcasting_lingiine</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1870,7 +1870,29 @@ OpenAIはこれに加えLLM「GPT-3.5 Turbo」、画像生成モデル「DALL-E�
 :::
 :::box
 
-:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>Googleが新たな動画生成技術「VideoPoet」を発表ーー拡散モデルではなくLLMを活用</title><link>https://ledge.ai/articles/google_reserch_videopoet</link><description>:::small
+:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>中学生が開発した「お薬管理ロボット」が実用新案権を取得ーー昨年の国際ロボットコンテストで世界一に</title><link>https://ledge.ai/articles/medication_management_robot_developed_by_secondary_school_students</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月12日、追手門学院大手前中・高等学校（大阪市中央区）の中学生チームが開発した「お薬管理ロボット」が実用新案権を取得したと{target=“_blank”}した。このロボットは昨年開発され、国際ロボットコンテスト「WRO（World Robot Olympiad）2022」で世界一となった。
+
+ロボット「Pal」は、医師が処方した薬を画像で認識・分別し、必要な量と種類を患者に提供する機能を有する。12月18日には、日本弁理士会の担当者が同校を訪れ、古本美月さんと水谷風花さん（現在、いずれも高校1年生）に実用新案登録証を授与。
+
+実用新案権として認められたのは「錠剤を取り出す装置」のアイデア。包装された錠剤を斜めからアームで押し出すアイデアが特に評価された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 27 Dec 2023 06:56:55 +0000</pubDate></item><item><title>Googleが新たな動画生成技術「VideoPoet」を発表ーー拡散モデルではなくLLMを活用</title><link>https://ledge.ai/articles/google_reserch_videopoet</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2246,31 +2268,7 @@ AIがビデオ内の熟練した人間活動を理解できるようになれば
 :::
 :::box
 
-:::</description><pubDate>Mon, 04 Dec 2023 12:49:36 +0000</pubDate></item><item><title>1枚の写真から人間の３D画像を生成「Human-SGD」クウェート大・メタ研究チーム</title><link>https://ledge.ai/articles/human_sgd</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-クウェート大学とメタ社の研究者らが、単一画像から人間の3Dデジタル画像化に関する技術「Human-SGD」を2023年11月15日に{target=“_blank”}した。これは、1枚の写真から、人物を全方位から見たかのような、クリアでリアルな3D画像を作り出す技術だ。形状ガイド付きの拡散モデルを使用し、その姿を360度どの角度からでも見たときの姿を、高解像度でつなぎ合わせて表示することが可能だという。
-
-
-@
-:::small
-{target=“_blank”}
-:::
-
-
-NeRFなど従来の方法では、複数の視点からの画像や3Dスキャンが必要であったが、新しい技術では1枚の画像のみを用いる。このアプローチでは、一般的な画像合成タスク用に事前訓練された大容量2D拡散モデルを人間の外観の先行として活用することがポイントだという。複数の視点の画像を合成し、これらを逆レンダリング（通常のレンダリングで光源、形状、色の情報が既知の状態で計算するのとは逆に、描画結果に相当する画像から入力情報を得ようとする手法）融合することで、対象人物の完全なテクスチャ3Dメッシュを生成する。
-
-研究チームは、この技術が従来の方法を上回り、単一画像から多様な衣服のテクスチャを持つ人間をフォトリアリスティックに360度合成できることを実証。これにより、ファッション、エンターテインメント、スポーツ、AR/VRなどの様々な分野での応用が期待されるという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 01 Dec 2023 10:06:21 +0000</pubDate></item><item><title>AIでこどもの不登校を予測ーー戸田市✕内田洋行✕PKSHAのプロジェクト開始</title><link>https://ledge.ai/articles/toda-city_pksha_uchida</link><description>:::small
+:::</description><pubDate>Mon, 04 Dec 2023 12:49:36 +0000</pubDate></item><item><title>AIでこどもの不登校を予測ーー戸田市✕内田洋行✕PKSHAのプロジェクト開始</title><link>https://ledge.ai/articles/toda-city_pksha_uchida</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
