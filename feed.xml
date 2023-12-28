@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Dec 2023 07:03:51 +0000</lastBuildDate><item><title>NECの生成AI「cotomi（コトミ）」性能強化と事業戦略を発表</title><link>https://ledge.ai/articles/nec_llm_cotomi</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Dec 2023 07:15:41 +0000</lastBuildDate><item><title>NECの生成AI「cotomi（コトミ）」性能強化と事業戦略を発表</title><link>https://ledge.ai/articles/nec_llm_cotomi</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -62,7 +62,7 @@ OpenAIのCEO サム・アルトマン氏が2023年12月22日、「誰かに言�
 
 17の項目には抽象的な表現も多いため「たぶん、あのことだろう」「詳細は語れないが、何か大変なことを乗り越えたのだろう」と読み手に想像を巡らせる内容となっており、Xでの反応も様々であった。
 
-社長謙共同創設者のグレッグ・ブロックマン氏は、17項目の中の「チームにとって、あまり重要でない簡単なことをするよりも、本当に重要な難しいことをする方が簡単だ。大胆なアイデアは人々のモチベーションを高める」という1項目を取り上げ、「極めて直観に反するが、極めて真実だ（Extremely counterintuitive and extremely true）」とXで{target=“_blank”}した。
+社長兼共同創設者のグレッグ・ブロックマン氏は、17項目の中の「チームにとって、あまり重要でない簡単なことをするよりも、本当に重要な難しいことをする方が簡単だ。大胆なアイデアは人々のモチベーションを高める」という1項目を取り上げ、「極めて直観に反するが、極めて真実だ（Extremely counterintuitive and extremely true）」とXで{target=“_blank”}した。
 
 
 :::box
@@ -1874,7 +1874,35 @@ OpenAIはこれに加えLLM「GPT-3.5 Turbo」、画像生成モデル「DALL-E�
 :::
 :::box
 
-:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>中学生が開発した「お薬管理ロボット」が実用新案権を取得ーー昨年の国際ロボットコンテストで世界一に</title><link>https://ledge.ai/articles/medication_management_robot_developed_by_secondary_school_students</link><description>:::small
+:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>ストリートビューの静止画を使い街角のアニメーションを生成する　ワシントン大研究チーム</title><link>https://ledge.ai/articles/animating_street_view</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月15日、ワシントン大学の研究チームが、静止したストリートビューの画像に自然に振る舞うアニメーションの歩行者と車両を追加するシステムを{target=“_blank”}した。
+
+このシステムでは、Googleストリートビューなどの静止画に映り込んでいる既存の人々や車両を画像から削除し、適切なスケール、角度、動き、外見を持つ動くオブジェクトを挿入して、経路と交通行動を計画し、現実的な閉塞と影の効果でシーンをレンダリングする。
+
+このプロセスは、ジオメトリの再構築、群衆のシミュレーション、そしてオリジナルのフレームに一貫した照明、影、閉塞を重ね合わせてリアルなビデオを合成する3つの主要な段階に分けられる。このシステムは、一つの画像またはパノラマを入力として取り、任意の長さのビデオを生成する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+研究チームは、156枚のストリートシーン画像（iPhone 12 miniのメインカメラやインターネットからの写真）でこのシステムを適用し、高い解像度での成功例を示した。
+
+ただし、このシステムは曲がった車線や坂、カメラの視界外の完全な影、自動交通方向検出などの特定のシナリオに対応していない。また、プレトレーニングされたモデルの精度に依存しているため、非ストリートレベルのカメラアングルや難しい照明条件下での画像には対応できない場合があるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 27 Dec 2023 07:15:41 +0000</pubDate></item><item><title>中学生が開発した「お薬管理ロボット」が実用新案権を取得ーー昨年の国際ロボットコンテストで世界一に</title><link>https://ledge.ai/articles/medication_management_robot_developed_by_secondary_school_students</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2246,33 +2274,7 @@ AIがビデオ内の熟練した人間活動を理解できるようになれば
 :::
 :::box
 
-:::</description><pubDate>Wed, 06 Dec 2023 03:19:20 +0000</pubDate></item><item><title>さらに進化する動画生成AI　1枚の静止画からアニメーションを生成「Animate Anyone」アリババグループ</title><link>https://ledge.ai/articles/alibaba_anime_anyone</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-アリババグループのインテリジェントコンピューティング研究所は2023年11月28日、「Animate Anyone」という新しいキャラクターアニメーション技術を{target=“_blank”}した。拡散モデルを利用して、1枚の静止画像からキャラクターアニメーションを生成する技術だという。
-
-@
-:::small
-研究者のチャンネル：{target=“_blank”}
-:::
-
-拡散モデルはその強力な生成機能により、現在視覚生成研究の主流となっているが、画像からビデオへの変換の領域、特にキャラクター アニメーションでは、キャラクターからの詳細情報との時間的な一貫性を維持することが依然として大きな問題となっているという。この技術では、参照イメージからの複雑な外観特徴を保持するために、ReferenceNetを設計し、空間的注意を介して詳細特徴を統合する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-また、キャラクターの動きを制御し、ビデオフレーム間の滑らかな遷移を保証するために、効率的なポーズガイダーと効果的な時間モデリングアプローチを導入した。訓練データを拡大することにより、任意のキャラクターをアニメーション化し、他のイメージ・トゥ・ビデオ手法と比較して優れた結果をもたらすことができる。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 04 Dec 2023 12:49:36 +0000</pubDate></item><item><title>AIでこどもの不登校を予測ーー戸田市✕内田洋行✕PKSHAのプロジェクト開始</title><link>https://ledge.ai/articles/toda-city_pksha_uchida</link><description>:::small
+:::</description><pubDate>Wed, 06 Dec 2023 03:19:20 +0000</pubDate></item><item><title>AIでこどもの不登校を予測ーー戸田市✕内田洋行✕PKSHAのプロジェクト開始</title><link>https://ledge.ai/articles/toda-city_pksha_uchida</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
