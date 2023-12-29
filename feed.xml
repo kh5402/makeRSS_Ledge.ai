@@ -417,7 +417,7 @@ Ledge.ai編集部作成
 
 転移学習では、事前学習済みのモデルのうち、出力層以外のパラメーターは固定されている一方、ファインチューニングは出力層以外の層のパラメーターも調整される仕組みとなっている。
 
-!!
+!
 :::small
 Ledge.ai編集部作成
 :::
@@ -2306,7 +2306,7 @@ Dobb·Eの主なインターフェースは「The Stick」と呼ばれるデモ�
 
 :::
 :::box
-特集：
+
 :::</description><pubDate>Sat, 23 Dec 2023 05:29:20 +0000</pubDate></item><item><title>LLM活用のAIシステム「FunSearch」が数学の未解決問題への新アプローチ　Google DeepMindが発表</title><link>https://ledge.ai/articles/google_deepmind_funserch</link><description>:::small
 画像の出典：[DALL-E3によりLedge.aiが生成]
 :::
