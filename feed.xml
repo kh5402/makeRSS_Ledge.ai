@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Dec 2023 08:49:07 +0000</lastBuildDate><item><title>福井県高浜町とQuantum Mesh株式会社がAI・IoT時代の街づくりを目指した包括連携協定締結に向けた協議を開始</title><link>https://ledge.ai/articles/takahama-quantummesh</link><description>12/28、福井県高浜町とQuantum Mesh株式会社が『**AI・IoT 時代に対応する計算能力特化型データセンター開設および最先端DXによる街づくりの包括連携協定締結に向けた協議を開始**』と発表した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Dec 2023 08:57:14 +0000</lastBuildDate><item><title>福井県高浜町とQuantum Mesh株式会社がAI・IoT時代の街づくりを目指した包括連携協定締結に向けた協議を開始</title><link>https://ledge.ai/articles/takahama-quantummesh</link><description>12/28、福井県高浜町とQuantum Mesh株式会社が『**AI・IoT 時代に対応する計算能力特化型データセンター開設および最先端DXによる街づくりの包括連携協定締結に向けた協議を開始**』と発表した。
 
 リリースによると、今回の取り組みにおいては高度なAI、IoTサービスの実現に向けて分散型データセンターの構築及び活用を行うと発表された。近年自治体と企業の提携においては住民や自治体職員が触れるアプリの提供など、主にスマートフォンやPCを活用したアナログ業務をデジタルインターフェースに変革する、といった取組が多く見受けられる。
 しかしながらまだ多くの自治体が地域課題の解決やDXという大きな流れについて明確な答えを見出せているとは言い難い。その中で今回の発表にある地方のDXを『データセンター』で解決しようとするアプローチについてはまだあまり事例も少なく、物珍しいのではないだろうか。
@@ -334,7 +334,67 @@ Phi-2の性能は、複数の学術的ベンチマークで評価され、その
 :::box
 
 :::
-</description><pubDate>Tue, 19 Dec 2023 07:26:51 +0000</pubDate></item><item><title>GPTs(GPT Builder)とは｜ChatGPT新機能の特徴・料金</title><link>https://ledge.ai/articles/gpts</link><description>:::box
+</description><pubDate>Tue, 19 Dec 2023 07:26:51 +0000</pubDate></item><item><title>年末年始こそAIのリスキリング　2023-24年のおすすめ無料講座を一挙紹介！ー松尾研LLM講座・Google認定資格プログラム・プロンプトエンジニアリングなど</title><link>https://ledge.ai/articles/free_courses_in_winter2023-24</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+生成AIに追われ、慌ただしく過ぎ去った2023年。リスキリングの波に乗り、休暇をじっくりと学び、新しい年を迎える自分をエンパワーする時間に充てる人も増えているという。まとまった時間を興味ある分野の一歩に。
+
+## 東大松尾研 LLM講座
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京大学松尾研究室は12月27日、東京大学サマースクールで2023年9~10月に開催された「大規模言語モデル講座」のコンテンツを{target=“_blank”}。この講座には約2,000名が参加し、全7回の講義とGPUを使ったコンペティションが実施された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+## Google認定資格プログラム
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Googleは現在、新規会員に先着2万名限定で「Google Career Certificates」を{target=“_blank”}。このプログラムは、サイバーセキュリティとデータアナリティクスのコースを含み、キャリアアップに有効なGoogleの認定資格を取得できる。受講には学位や事前知識が不要で、オンラインで約6ヶ月間で完了可能だ。
+
+## OpenAI「ChatGPTのプロンプトの書き方」
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIが大規模言語モデルGPT-4を活用するためのプロンプトエンジニアリングの基本テキストを{target=“_blank”}。このテキストでは、GPT-4の効果的な使用方法として、6つの主要戦略とそれに関連する具体的なテクニックを紹介している。例えば質問の詳細化、ペルソナの採用、入力の区切りの明確化、必要な手順の指定など。
+
+また、効果的なプロンプトの例も提供されており、コピー＆ペーストで利用できる。OpenAIのサイトでは、これらの戦略に基づいた多数のプロンプト例も紹介されており、利用者はすぐにこれらを活用可能だ。
+
+## IBM SkillsBuild「AIの基礎」
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+{target=“_blank”}は、技術分野でのスキルアップを目指す人々に焦点を当てた無料の教育プログラムだ。IBMは、2026年末までに200万人の学習者にAIに関する学習機会を提供するコミットメントを発表し、この目標の達成のためにIBM SkillsBuildを通じて新しい生成AIのコースを提供開始した。
+
+{target=“_blank”}講座では、次の６つのコースで構成される。「人工知能の概要」「自然言語処理とコンピュータビジョン」「機械学習と深層学習」「IBM Watson Studio で AI モデルを実行する」「AI倫理」「 AIとの未来、仕事の展望」
+
+※IBM Skill Build を利用するには、まずアカウントの作成が必要となる。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 28 Dec 2023 08:57:14 +0000</pubDate></item><item><title>GPTs(GPT Builder)とは｜ChatGPT新機能の特徴・料金</title><link>https://ledge.ai/articles/gpts</link><description>:::box
 **目次**
 - GPTs(GPT Builder)とは？
 - GPTsの基本｜特徴とメリット
@@ -1791,39 +1851,7 @@ Dataiku Japan株式会社　セールスエンジニア
 
 :::button
 {target=“_blank”}
-:::</description><pubDate>Fri, 30 Jun 2023 08:07:39 +0000</pubDate></item><item><title>【新刊情報】「大規模言語モデルは新たな知能か――ChatGPTが変えた世界」</title><link>https://ledge.ai/articles/Is_lmm_new_intelligence</link><description>「大規模言語モデルは新たな知能か――ChatGPTが変えた世界（岩波科学ライブラリー）」（著：岡野原大輔、岩波書店）が6月20日に刊行された。大規模言語モデルの可能性と課題、仕組みを数式を用いず一般向けに解説し、最新の研究成果に基づき現時点でわかっている知見や将来の展望もまとめている。
-
-著者は1982年生まれ。東京大学大学院情報理工学系研究科博士課程を修了し、2006年Preferred Infrastructurを共同で創業、2014年Preferred Networks（PFN）を共同で設立。PFN代表取締役最高研究責任者およびPreferred Computational Chemistry代表取締役社長を務めている。
-
-本書では大規模言語モデルのもつ大きな可能性とともに、人類社会を脅かす可能性のあるリスクについても述べる。また後半では、これまで機械はなぜ人のように話せなかったのか、どのように言語モデルと機械学習が発展してきたか、そして、ChatGPTを実現した大規模言語モデルはどのような仕組みかを数式を用いず解説する。
-
-目次
-・序章 チャットGPTがもたらした衝撃
-・1 大規模言語モデルはどんなことを可能にするだろうか
-・2 巨大なリスクと課題
-・3 機械はなぜ人のように話せないのか
-・4 シャノンの情報理論から大規模言語モデル登場前夜まで
-・5 大規模言語モデルの登場
-・6 大規模言語モデルはどのように動いているのか
-・終章 人は人以外の知能とどのように付き合うのか
-・あとがき
-
-書誌情報
-:::box
-著者：岡野原 大輔
-出版社：岩波書店
-刊行日：2023/06/20
-ISBN：9784000297196
-体裁：B6・並製・136ページ
-定価：1,540円
-:::
-
-Ledge.ai編集部では「大規模言語モデルは新たな知能か――ChatGPTが変えた世界（岩波科学ライブラリー）」のレビューを掲載予定。
-
-:::button
-[ChatGPT(チャットGPT)とは｜今からでも遅くない、使い方の基本と知っておくべきこと
-](https://ledge-ai.the-ai.jp/articles/chatgpt)
-:::</description><pubDate>Thu, 22 Jun 2023 04:48:14 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
+:::</description><pubDate>Fri, 30 Jun 2023 08:07:39 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
