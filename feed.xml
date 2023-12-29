@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Dec 2023 08:42:14 +0000</lastBuildDate><item><title>福井県高浜町とQuantum Mesh株式会社がAI・IoT時代の街づくりを目指した包括連携協定締結に向けた協議を開始</title><link>https://ledge.ai/articles/takahama-quantummesh</link><description>12/28、福井県高浜町とQuantum Mesh株式会社が『**AI・IoT 時代に対応する計算能力特化型データセンター開設および最先端DXによる街づくりの包括連携協定締結に向けた協議を開始**』と発表した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Dec 2023 08:49:07 +0000</lastBuildDate><item><title>福井県高浜町とQuantum Mesh株式会社がAI・IoT時代の街づくりを目指した包括連携協定締結に向けた協議を開始</title><link>https://ledge.ai/articles/takahama-quantummesh</link><description>12/28、福井県高浜町とQuantum Mesh株式会社が『**AI・IoT 時代に対応する計算能力特化型データセンター開設および最先端DXによる街づくりの包括連携協定締結に向けた協議を開始**』と発表した。
 
 リリースによると、今回の取り組みにおいては高度なAI、IoTサービスの実現に向けて分散型データセンターの構築及び活用を行うと発表された。近年自治体と企業の提携においては住民や自治体職員が触れるアプリの提供など、主にスマートフォンやPCを活用したアナログ業務をデジタルインターフェースに変革する、といった取組が多く見受けられる。
 しかしながらまだ多くの自治体が地域課題の解決やDXという大きな流れについて明確な答えを見出せているとは言い難い。その中で今回の発表にある地方のDXを『データセンター』で解決しようとするアプローチについてはまだあまり事例も少なく、物珍しいのではないだろうか。
@@ -1819,7 +1819,40 @@ Ledge.ai編集部では「大規模言語モデルは新たな知能か――Cha
 :::button
 [ChatGPT(チャットGPT)とは｜今からでも遅くない、使い方の基本と知っておくべきこと
 ](https://ledge-ai.the-ai.jp/articles/chatgpt)
-:::</description><pubDate>Thu, 22 Jun 2023 04:48:14 +0000</pubDate></item><item><title>AIの遅れ取り返せるか　Appleが開発者向けフレームワーク「MXL」Geminiの裏でひっそりと公開</title><link>https://ledge.ai/articles/apple_released_mlx</link><description>:::small
+:::</description><pubDate>Thu, 22 Jun 2023 04:48:14 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+GitHubは2023年11月8日、「オープンソースとAIの現状」に関する報告を{target=“_blank”}した。
+
+報告によると、開発者たちは大量の生成AIプロジェクトに取り組んでいる。特にOpenAIなどの基礎モデルを用いた開発が目立ち、生成AIプロジェクトは2023年のオープンソースプロジェクトのトップ10にランクインしたという。これらのプロジェクトには、全開発者の92%が使用または実験中であると報告されており、GitHub上での次世代AIイノベーションを牽引すると期待されている。
+
+また、2023年はオープンソースへの初参加者が最も多く、これまで商業的に支援されたプロジェクトが初参加者の大部分を占めていたが、今年は生成AIプロジェクトも初参加者向けのトップ10プロジェクトに登場した。GitHub上のプライベートプロジェクトの数は前年比38%増加し、全活動の80%以上を占めている。
+
+全世界で、GitHubを使用してソフトウェアを構築し、共同作業を行う開発者が増加している。アメリカは依然として最大の開発者コミュニティを持つが、他の地域も成長を見せている。
+
+次の5年間で最も成長が見込まれる開発者コミュニティに関する予測では、インドが2027年までにGitHub上で最大の開発者コミュニティになると予想されている。日本の開発者数は約280万人で、世界8位にランクされており、今後の成長が期待されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+さらに、生成AIは個々のコントリビューターの数において148%の年間成長率を達成し、生成AIプロジェクトの総数も248%増加している。この分野において、アメリカ、インド、そして日本が先導しており、他の地域も追随している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+報告は、2022年10月1日から2023年9月30日までに、GitHub から取得した匿名化されたユーザーおよび製品データに基づいて作成された。
+
+:::box
+
+:::
+</description><pubDate>Thu, 28 Dec 2023 08:49:07 +0000</pubDate></item><item><title>AIの遅れ取り返せるか　Appleが開発者向けフレームワーク「MXL」Geminiの裏でひっそりと公開</title><link>https://ledge.ai/articles/apple_released_mlx</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2034,26 +2067,7 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>GPT-4 APIの一般提供が開始 DALL-Eや音声テキスト変換「Whisper」のAPIも</title><link>https://ledge.ai/articles/gpt_4_api_general_availability</link><description>OpenAIは、最高性能を誇る大規模言語モデル（LLM）「GPT-4」の機能を外部の製品やサービスから利用できる「{target=“_blank”}」の一般提供を米国時間の2023年7月6日に開始した。有料APIの支払い実績があるすべての開発者に8,000トークンのアクセスを開放。7月末までに新規登録の開発者にも対象を広げる。また順次レート制限の引き上げも検討する。
-
-OpenAIはこれに加えLLM「GPT-3.5 Turbo」、画像生成モデル「DALL-E」、音声テキスト変換モデル「Whisper」のAPIも一般提供している。
-
-### 古いモデルを一部廃止
-一方で従来のCompletion APIを用いる古いモデルを6か月以内に一部廃止する計画も明らかにした。当面APIへのアクセスは可能にするが、開発者向けの文書には「レガシー」と表示する。
-
-2024年1月4日より古いモデルは別モデルに置き換わる。古いモデルを利用している開発者はAPIアクセス時のパラメータを変更して対応する必要がある。
-
-!
-開発者が古いモデルにファインチューニングを施して利用していた場合は、2023年後半以降、優先的に別モデルでのファインチューニングが可能になる見込み。このほか古い埋め込みモデルを使っている開発者も別モデルへの切り替えが必要となる。
-
-これらの移行には困難が伴うとの予想からOpenAIは開発者に連絡をとったり、必要なサポートを提供したりすると表明している。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 07 Jul 2023 02:54:50 +0000</pubDate></item><item><title>ストリートビューの静止画を使い街角のアニメーションを生成する　ワシントン大研究チーム</title><link>https://ledge.ai/articles/animating_street_view</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>ストリートビューの静止画を使い街角のアニメーションを生成する　ワシントン大研究チーム</title><link>https://ledge.ai/articles/animating_street_view</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
