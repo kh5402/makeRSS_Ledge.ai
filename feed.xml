@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Dec 2023 07:51:46 +0000</lastBuildDate><item><title>福井県高浜町とQuantum Mesh株式会社がAI・IoT時代の街づくりを目指した包括連携協定締結に向けた協議を開始</title><link>https://ledge.ai/articles/takahama-quantummesh</link><description>12/28、福井県高浜町とQuantum Mesh株式会社が『**AI・IoT 時代に対応する計算能力特化型データセンター開設および最先端DXによる街づくりの包括連携協定締結に向けた協議を開始**』と発表した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Dec 2023 08:42:14 +0000</lastBuildDate><item><title>福井県高浜町とQuantum Mesh株式会社がAI・IoT時代の街づくりを目指した包括連携協定締結に向けた協議を開始</title><link>https://ledge.ai/articles/takahama-quantummesh</link><description>12/28、福井県高浜町とQuantum Mesh株式会社が『**AI・IoT 時代に対応する計算能力特化型データセンター開設および最先端DXによる街づくりの包括連携協定締結に向けた協議を開始**』と発表した。
 
 リリースによると、今回の取り組みにおいては高度なAI、IoTサービスの実現に向けて分散型データセンターの構築及び活用を行うと発表された。近年自治体と企業の提携においては住民や自治体職員が触れるアプリの提供など、主にスマートフォンやPCを活用したアナログ業務をデジタルインターフェースに変革する、といった取組が多く見受けられる。
 しかしながらまだ多くの自治体が地域課題の解決やDXという大きな流れについて明確な答えを見出せているとは言い難い。その中で今回の発表にある地方のDXを『データセンター』で解決しようとするアプローチについてはまだあまり事例も少なく、物珍しいのではないだろうか。
@@ -2453,7 +2453,29 @@ AIがビデオ内の熟練した人間活動を理解できるようになれば
 :::
 :::box
 
-:::</description><pubDate>Wed, 06 Dec 2023 03:19:20 +0000</pubDate></item><item><title>AIでこどもの不登校を予測ーー戸田市✕内田洋行✕PKSHAのプロジェクト開始</title><link>https://ledge.ai/articles/toda-city_pksha_uchida</link><description>:::small
+:::</description><pubDate>Wed, 06 Dec 2023 03:19:20 +0000</pubDate></item><item><title>AI兵器への対応を急ぐ。LAWS（自律型致死平気システム）への国連総会決議　日米など152カ国賛成</title><link>https://ledge.ai/articles/un_general_assembly_resolution_to_laws</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2023年12月22日、国連総会は、自律型致死兵器システム（LAWS）に関する新たな決議案を日本や米国など152カ国の賛成で{target=“_blank”}した。
+
+ロシアやインドなど4か国が反対し、中国や北朝鮮、イスラエルなど11か国が棄権した。同決議は、11月1日、国連第一委員会（軍縮および国際安全保障）にオーストリアが提案し、先進7か国（G7）を含む164カ国の賛成で採択されていたもの。自律型致死兵器システムについて国連総会で決議が採択されるのは初めて。
+
+自律型致死兵器システム（LAWS： Lethal Autonomous Weapons Systems）とは、AI技術を利用して、ターゲットの選定や攻撃の実行など特定の軍事的決定を人間の関与なしに自律的に行うことができ、致死性を有する「完全自律型兵器」を指すが、現段階では定義が定まっていない。LAWSの開発と使用には、倫理的、法的、安全性に関する複数の重大な問題が含まれているとされ、国際社会において広範な議論を引き起こしている。
+
+各国の代表は、LAWSが国際安全保障、地域安定性、そして世界安全に及ぼす可能性のある否定的な影響や新たな軍備競争のリスク、紛争や拡散の閾値を下げることに懸念を示し、国際社会にこれらの兵器システムによって生じる課題と懸念に対処するよう強調し、加盟国やオブザーバー国からの意見を求めるよう国連に促した。国際機関、国際赤十字社、市民社会、科学界、産業界からの意見も求め、次期会期までにグテーレス国連事務総長が報告書を提出することが決定した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 28 Dec 2023 08:42:14 +0000</pubDate></item><item><title>AIでこどもの不登校を予測ーー戸田市✕内田洋行✕PKSHAのプロジェクト開始</title><link>https://ledge.ai/articles/toda-city_pksha_uchida</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2693,24 +2715,7 @@ AIアライアンスは、オープンなコミュニティの育成と、AIに�
 :::
 :::box
 
-:::</description><pubDate>Thu, 07 Dec 2023 07:14:39 +0000</pubDate></item><item><title>JAXA、夏頃からサイバー攻撃を受けていたーーネットワークにはロケットや衛星などの機微情報なし</title><link>https://ledge.ai/articles/unauthorised_access_to_jaxa</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-宇宙航空研究開発機構（JAXA）が2023年夏ごろにサイバー攻撃を受け、内部ネットワークに不正アクセスされていたと11月29日に各メディアが報じた。この攻撃は外部機関の通報により発覚し、役職員5000件余りの個人情報などが内部のサーバーから漏えいした可能性があるという。JAXAおよび文部科学省は、攻撃されたネットワークがロケットや衛星の運用に関するものではないため、機密性の高い情報の漏えいは低いとしている。
-
-JAXAは現在、関係機関と連携し、被害範囲や攻撃方法の詳細調査を進めている。同機構はセキュリティ関連の事案のため、詳細については回答を控え、引き続き調査と対策を行っていくとしている。
-
-この日の内閣定例記者会見では、松野官房長官が、JAXAの内部調査結果を踏まえ、不正アクセスの可能性を確認し、早急な調査と対策を進めるよう指示したことを{target=“_blank”}。JAXAは影響調査を直ちに開始し、関連ネットワークの遮断などの対応を実施している。
-
-同日参議院の{target=“_blank”}でも、この件が質問に挙がり、自民党の赤松議員がJAXAに対し、報道からJAXAがサイバー攻撃を受け機微な情報が漏洩した可能性があるのではと指摘した。JAXA理事長の山川氏は、攻撃を受けたことは事実だが、機微な情報は別のネットワークで管理しており、漏洩していないと説明。JAXAは情報セキュリティを重視しており、本件も含め対策を講じていると述べ、議員は引き続き調査するよう求めた。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 01 Dec 2023 11:04:55 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
+:::</description><pubDate>Thu, 07 Dec 2023 07:14:39 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
