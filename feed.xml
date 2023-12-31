@@ -1,48 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Dec 2023 07:24:24 +0000</lastBuildDate><item><title>Nature’s 10「今年の10人」にイリヤ・サツケバー氏　非人間部門にChatGPT</title><link>https://ledge.ai/articles/natures_10_2023</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Natureは2023年12月13日、年間を代表する科学関連の重要人物を紹介する「Nature’s 10」リストを{target=“_blank”}した。
-
-10名のリストには、OpenAIのイリヤ・サツケバー氏が、また、今年初めて追加された非人間カテゴリーで、ChatGPTが選出された。
-
-
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-サツケバー氏は、OpenAのチーフサイエンティストとして、ChatGPT開発を含む対話型AI開発の中心的な役割を担ったと紹介されている。同氏が、AIの将来に対しても深い関心を持ち、今年7月、OpenAIの4年間にわたる「スーパーアライメント」プロジェクトの共同指揮者に焦点を移したとしている。このときOpenAIは、このプロジェクトでコンピューティング能力の20％を「我々よりもはるかに賢いAIシステムを操縦し、制御する」方法を研究するために使用すると発表した。
-
-nature には、AIのゴッドファーザーとして知られるサツケバー氏の師、トロント大学のジェフリー・ヒントン氏が「彼は非常に強い道徳の指針を持っており、AIの安全性について非常に懸念してる」とコメントしている。また同誌は、OpenAIのCEOサム・アルトマン氏の解雇と再雇用にも関与したことにも触れた。
-
-
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「Nature's 10」リストでは初めて、ChatGPTが2023年の科学に大きな影響を与えた「非人間」として選出された。その理由として、ChatGPTは科学論文の共同執筆や、プレゼンテーション、助成金申請書、授業のアウトライン作成、コンピュータコードの生成、研究アイデアのブレーンストーミングに貢献したことが挙げられている。さらに、このAIは人々の想像力を駆り立て、様々な役割を果たしたと紹介されている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 29 Dec 2023 07:24:24 +0000</pubDate></item><item><title>「生成AI」流行語大賞トップ10入りも、認知率→利用率→課金率はそれぞれ63.6%→16.6%→5% ーーGMO調査</title><link>https://ledge.ai/articles/gmo_reserch_gen-ai</link><description>年末の流行語大賞でトップ10入りした「生成AI」。今年1年でその言葉の認知度は確かに上がったように見えるが、実際に利用するレベルではどの程度浸透しているのだろうか。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Dec 2023 07:24:24 +0000</lastBuildDate><item><title>「生成AI」流行語大賞トップ10入りも、認知率→利用率→課金率はそれぞれ63.6%→16.6%→5% ーーGMO調査</title><link>https://ledge.ai/articles/gmo_reserch_gen-ai</link><description>年末の流行語大賞でトップ10入りした「生成AI」。今年1年でその言葉の認知度は確かに上がったように見えるが、実際に利用するレベルではどの程度浸透しているのだろうか。
 
 2023年12月8日、GMOリサーチ株式会社とGMO AI &amp; Web3株式会社は、日本国内における生成AIのトレンドに関する調査結果を{target=“_blank”}した。この調査は、GMOリサーチが保有する「JAPAN Cloud Panel」の1,126人を対象に行われ、生成AIへの理解促進と社会の発展への貢献を目的としている。
 
@@ -378,7 +335,26 @@ Axel Springerは、米国の政治ニュースサイトPoliticoやビジネス�
 :::box
 
 :::
-</description><pubDate>Wed, 20 Dec 2023 13:18:12 +0000</pubDate></item><item><title>ファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Wed, 20 Dec 2023 13:18:12 +0000</pubDate></item><item><title>Microsoft と米国労働組合「AIと労働力の未来のため」新しい技術・労働パートナーシップを発表--初の労組とテック企業との連携</title><link>https://ledge.ai/articles/microsoft_afl-cio_partnership_on_ai-and-the-future-of-the-workforce</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国 Microsoft とアメリカ労働組合連盟（AFL-CIO）は2023年12月11日、AIの開発と実装において労働者のニーズを予測し、彼らの声を取り入れることを目的とした新しいパートナーシップの形成を{target=“_blank”}した。
+
+このパートナーシップは、労働組織と技術企業間の初の取り組みだという。「AI技術の動向に関する情報の共有」「労働者の見解と専門知識の取り入れ」「最前線の労働者の技術スキルとニーズをサポートする公共政策の形成」の3点を目標としている。
+
+AFL-CIO会長リズ・シュラー氏は、「このパートナーシップは、労働者がAIおよび関連技術の開発、導入、規制において果たす重要な役割を認識している」と述べた。また「労働者中心のデザイン、労働力トレーニング、信頼できるAI実践の創造においてMicrosoftとのパートナーシップを楽しみにしている」と語り、Microsoft の中立フレームワークと労働者の専門知識を受け入れる姿勢を示した。
+
+Microsoftの副会長兼社長ブラッド・スミス氏は、「組合のリーダーと直接協力することで、AIが国の労働者に奉仕することを確実にすることができる。労働者の権利を尊重し、技術開発における労働リーダーのアドバイスから学び、新しいAI時代に不可欠となるスキルを人々に提供するのに役立つ」と語った。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 19 Dec 2023 07:31:33 +0000</pubDate></item><item><title>ファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
@@ -2188,7 +2164,50 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>ストリートビューの静止画を使い街角のアニメーションを生成する　ワシントン大研究チーム</title><link>https://ledge.ai/articles/animating_street_view</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>Nature’s 10「今年の10人」にイリヤ・サツケバー氏　非人間部門にChatGPT</title><link>https://ledge.ai/articles/natures_10_2023</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Natureは2023年12月13日、年間を代表する科学関連の重要人物を紹介する「Nature’s 10」リストを{target=“_blank”}した。
+
+10名のリストには、OpenAIのイリヤ・サツケバー氏が、また、今年初めて追加された非人間カテゴリーで、ChatGPTが選出された。
+
+
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+サツケバー氏は、OpenAのチーフサイエンティストとして、ChatGPT開発を含む対話型AI開発の中心的な役割を担ったと紹介されている。同氏が、AIの将来に対しても深い関心を持ち、今年7月、OpenAIの4年間にわたる「スーパーアライメント」プロジェクトの共同指揮者に焦点を移したとしている。このときOpenAIは、このプロジェクトでコンピューティング能力の20％を「我々よりもはるかに賢いAIシステムを操縦し、制御する」方法を研究するために使用すると発表した。
+
+nature には、AIのゴッドファーザーとして知られるサツケバー氏の師、トロント大学のジェフリー・ヒントン氏が「彼は非常に強い道徳の指針を持っており、AIの安全性について非常に懸念してる」とコメントしている。また同誌は、OpenAIのCEOサム・アルトマン氏の解雇と再雇用にも関与したことにも触れた。
+
+
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「Nature's 10」リストでは初めて、ChatGPTが2023年の科学に大きな影響を与えた「非人間」として選出された。その理由として、ChatGPTは科学論文の共同執筆や、プレゼンテーション、助成金申請書、授業のアウトライン作成、コンピュータコードの生成、研究アイデアのブレーンストーミングに貢献したことが挙げられている。さらに、このAIは人々の想像力を駆り立て、様々な役割を果たしたと紹介されている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 29 Dec 2023 07:24:24 +0000</pubDate></item><item><title>ストリートビューの静止画を使い街角のアニメーションを生成する　ワシントン大研究チーム</title><link>https://ledge.ai/articles/animating_street_view</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2563,35 +2582,7 @@ MeshGPTが、3Dコンテンツ作成の現状を高めるだけでなく、直�
 :::
 :::box
 
-:::</description><pubDate>Thu, 07 Dec 2023 09:10:33 +0000</pubDate></item><item><title>Meta マルチモーダルAIの新機能を公開　料理・スポーツ・音楽など、AIが名人のスキルを学び人間のコーチをする「Ego-Exo4D」</title><link>https://ledge.ai/articles/ego-exo4d</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Metaは2023年11月30日、ビデオ学習とマルチモーダル知覚に関する研究をサポートするための基礎的なデータセットおよびベンチマーク スイート「Ego-Exo4D」を{target=“_blank”}した。Ego-Exo4Dプロジェクトは、AIが人間のスキルを理解するための新たな取り組みだという。
-
-このプロジェクトは、日常的なタスクから高度な技能まで、様々な状況での人間の能力を観察・研究することを目的としている。Ego-Exo4Dは、同種初のビデオデータセットおよびベンチマークスイートを構築することで、AIの人間技能理解を進展させることを目指している。
-
-プロジェクトには、MetaのFAIR (基礎人工知能研究)、Meta のProject Aria 、および世界の15 の大学が協力しており「Ego 4Dコンソーシアム」と称される。日本からは東京大学が参加しており、12月5日にEgo-Exo4Dについて{target=“_blank”}している。
-
-世界中の800人以上から収集した1,400時間以上のビデオデータは、料理からボルダリングまで、8つの物理的および手続き的スキルを示す。参加者や専門家がカメラを装着し、様々な活動を行いながら自身のスキルを撮影。同時に多様な固定視点から三人称視点のビデオも録画される。マルチモーダルデータシーケンスには、カメラのポーズ、高精度な視線ベクトル、3Dポイントクラウド、空間オーディオが含まれている。
-
-人間のスキルを完全に理解するためには、専門家の視点も必要なため、Ego-Exo4Dには、専門家が提供する洞察やヒントが各ビデオに直接リンクされた、同種初の自然言語付随が含まれている。Ego-Exo4Dのベンチマークタスクは、熟練した活動の重要なステップを認識すること、習熟度を推測すること、一人称と三人称視点の間のオブジェクトを関連付けること、手と体の動きを推定することに焦点を当て、一人称ビデオ理解を進展させることを意図している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-AIがビデオ内の熟練した人間活動を理解できるようになれば、スマートグラスを装着し、バーチャルAIコーチと共に学ぶことが可能になる。また、ロボットが新しいスキルを観察し、ほとんど物理的な経験なしに実行することも想像できるとMetaは述べる。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 06 Dec 2023 03:19:20 +0000</pubDate></item><item><title>AI兵器への対応を急ぐ。LAWS（自律型致死平気システム）への国連総会決議　日米など152カ国賛成</title><link>https://ledge.ai/articles/un_general_assembly_resolution_to_laws</link><description>:::small
+:::</description><pubDate>Thu, 07 Dec 2023 09:10:33 +0000</pubDate></item><item><title>AI兵器への対応を急ぐ。LAWS（自律型致死平気システム）への国連総会決議　日米など152カ国賛成</title><link>https://ledge.ai/articles/un_general_assembly_resolution_to_laws</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
