@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Dec 2023 07:24:24 +0000</lastBuildDate><item><title>「生成AI」流行語大賞トップ10入りも、認知率→利用率→課金率はそれぞれ63.6%→16.6%→5% ーーGMO調査</title><link>https://ledge.ai/articles/gmo_reserch_gen-ai</link><description>年末の流行語大賞でトップ10入りした「生成AI」。今年1年でその言葉の認知度は確かに上がったように見えるが、実際に利用するレベルではどの程度浸透しているのだろうか。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Dec 2023 11:10:30 +0000</lastBuildDate><item><title>鳥のように舞い上がるドローン「X-Fly」、Bionicbird社より登場</title><link>https://ledge.ai/articles/bionicbird_xfly</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Bionicbird社は2023年12月9日、鳥や昆虫の飛行パターンを模倣するドローン「X-Fly」をクラウドファンディングサイト「kickstarter」で{target=“_blank”}した。
+
+
+@
+
+X-Flyは、進化したエレクトロニクス、最先端センサー、前世代よりアップグレードした羽ばたき機構が特徴だ。また、バンパー機能を備えた弾力性のある脚と柔軟なネック、交換可能なバッテリーを搭載しており、翼幅を広げることで飛行性能と滑空性能を向上させている。
+
+センサーはフランス軍との提携により開発され、ジャイロセンサーとGセンサーを用いた滑らかで信頼性の高い飛行を実現する。軽量であるため、屋外・屋内を問わず、どんな空間でも簡単にナビゲートできる。尾を調整することにより速度の制御ができる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このドローンは、スマートフォンアプリを介したコントロール、OTAファームウェアのアップデート、フライトデータの記録が可能で、オプションのジョイスティック操作も可能。
+
+プロペラのないデザインは安全性を高め、LED照明などのハードウェアプラグインや障害物回避用の超音波センサー、GPSトラッキングの将来的なアップデートも可能だ。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 29 Dec 2023 11:10:30 +0000</pubDate></item><item><title>「生成AI」流行語大賞トップ10入りも、認知率→利用率→課金率はそれぞれ63.6%→16.6%→5% ーーGMO調査</title><link>https://ledge.ai/articles/gmo_reserch_gen-ai</link><description>年末の流行語大賞でトップ10入りした「生成AI」。今年1年でその言葉の認知度は確かに上がったように見えるが、実際に利用するレベルではどの程度浸透しているのだろうか。
 
 2023年12月8日、GMOリサーチ株式会社とGMO AI &amp; Web3株式会社は、日本国内における生成AIのトレンドに関する調査結果を{target=“_blank”}した。この調査は、GMOリサーチが保有する「JAPAN Cloud Panel」の1,126人を対象に行われ、生成AIへの理解促進と社会の発展への貢献を目的としている。
 
@@ -335,26 +365,7 @@ Axel Springerは、米国の政治ニュースサイトPoliticoやビジネス�
 :::box
 
 :::
-</description><pubDate>Wed, 20 Dec 2023 13:18:12 +0000</pubDate></item><item><title>Microsoft と米国労働組合「AIと労働力の未来のため」新しい技術・労働パートナーシップを発表--初の労組とテック企業との連携</title><link>https://ledge.ai/articles/microsoft_afl-cio_partnership_on_ai-and-the-future-of-the-workforce</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国 Microsoft とアメリカ労働組合連盟（AFL-CIO）は2023年12月11日、AIの開発と実装において労働者のニーズを予測し、彼らの声を取り入れることを目的とした新しいパートナーシップの形成を{target=“_blank”}した。
-
-このパートナーシップは、労働組織と技術企業間の初の取り組みだという。「AI技術の動向に関する情報の共有」「労働者の見解と専門知識の取り入れ」「最前線の労働者の技術スキルとニーズをサポートする公共政策の形成」の3点を目標としている。
-
-AFL-CIO会長リズ・シュラー氏は、「このパートナーシップは、労働者がAIおよび関連技術の開発、導入、規制において果たす重要な役割を認識している」と述べた。また「労働者中心のデザイン、労働力トレーニング、信頼できるAI実践の創造においてMicrosoftとのパートナーシップを楽しみにしている」と語り、Microsoft の中立フレームワークと労働者の専門知識を受け入れる姿勢を示した。
-
-Microsoftの副会長兼社長ブラッド・スミス氏は、「組合のリーダーと直接協力することで、AIが国の労働者に奉仕することを確実にすることができる。労働者の権利を尊重し、技術開発における労働リーダーのアドバイスから学び、新しいAI時代に不可欠となるスキルを人々に提供するのに役立つ」と語った。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 19 Dec 2023 07:31:33 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Wed, 20 Dec 2023 13:18:12 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
