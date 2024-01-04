@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 31 Dec 2023 02:14:59 +0000</lastBuildDate><item><title>鳥のように舞い上がるドローン「X-Fly」、Bionicbird社より登場</title><link>https://ledge.ai/articles/bionicbird_xfly</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 31 Dec 2023 02:14:59 +0000</lastBuildDate><item><title>ニューヨークタイムズ、OpenAIとマイクロソフトを著作権侵害で提訴</title><link>https://ledge.ai/articles/nyt_sues_openai_microsoft_for_infringing_copyrighted_works</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月27日、ニューヨークタイムズ（NYT）は、自社の記事を無断で使用し、AIのチャットボットトレーニングに用いたとして、OpenAIとマイクロソフトを著作権侵害で{target=“_blank”}。
+
+{target=“_blank”}によるとNYTは、OpenAIとMicrosoftが大規模言語モデル（LLM）を構築するためにNYTの著作権で保護されたコンテンツを無断で使用し、競合製品を構築したと主張している。特に、MicrosoftのBing Chat（現Copilot）とOpenAIのChatGPTを問題視。これらの製品はNYTのジャーナリズムに投じられた大規模な投資に乗じており、読者との関係を損ない、サブスクリプション、ライセンス、広告、アフィリエイト収益を奪っているという。
+
+NYTは、2012年に出版された特定の記事とGPT-4による出力の間での顕著な一致を挙げた。例えば、NYTがAppleとその他の技術会社によるグローバル経済への影響を調査した2012年の連載記事は、GPT-4によりほぼ逐語的に再現されるという。この連載は3大陸にまたがる膨大な努力の産物であり、多数のApple関係者からの情報を含む複雑な調査であった。にもかかわらず、GPT-4はこのコンテンツをコピーし、大部分を逐語的に再現できるというのだ。
+
+
+!
+:::small
+画僧の出典：訴状より：右が実際のNTYによる取材記事。赤い文字が両者の一致を示す。
+:::
+
+さらに、OpenAIはもともと非営利のAI研究会社として設立され、その研究は利益を生み出す目的からは自由だったが、2019年に営利ステータスを放棄し、OpenAI LPを設立したという変化に触れた。OpenAIがLLMの設計とトレーニングに関する情報を秘密にするきっかけとなったという。MicrosoftはOpenAIのGPT製品のトレーニング、開発、商業化に深く関与し、Azureクラウドコンピューティングプラットフォームを使用して、これらのモデルをトレーニングするために特別に設計されたスーパーコンピューターを構築したと主張した。
+
+この訴訟は、NYTの知的財産の保護とジャーナリズムの公益への貢献を守るための重要なステップであるとされている。また、NYTは、同社のコンテンツが商業目的で使用される場合、ライセンス契約に基づいて使用許可を求めるべきであり、被告たちの行為はこの原則に反すると主張している。
+
+NYTは、2社と交渉を試み、そのコンテンツの使用に対して公正な価値を受け取ること、健全なニュースエコシステムの継続を促進すること、そして責任ある方法で生成AIを開発することを目指していたが、これらの努力は解決に至っていないという。
+
+{target=“_blank”}によると、NYTは具体的な損害賠償額を求めていないが、損害賠償額は「数十億ドル」と推定されている。また、OpenAIとMicrosoftに対し、その素材を組み込んだチャットボットモデルとトレーニングセットを破壊するよう求めているとのこと。
+
+また、OpenAIとマイクロソフトは、AI製品のトレーニングに著作権で保護された作品を使用することは、著作権で保護されたマテリアルの無許可使用を管理する法原則である「フェアユース」に当たると述べたという。
+
+{target=“_blank”}は「変革的な」使用は「さらなる目的や性格を持った新しいもの」を追加し、「公正であるとみなされる可能性が高い」と述べている。変形的使用とは、さらなる目的または異なる性質を持って何か新しいものを追加するものであり、作品の元の使用に代わるものではないという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 29 Dec 2023 07:42:43 +0000</pubDate></item><item><title>鳥のように舞い上がるドローン「X-Fly」、Bionicbird社より登場</title><link>https://ledge.ai/articles/bionicbird_xfly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -345,27 +381,7 @@ Axel Springerは、米国の政治ニュースサイトPoliticoやビジネス�
 :::box
 
 :::
-</description><pubDate>Wed, 20 Dec 2023 13:23:06 +0000</pubDate></item><item><title>テスラ、米国で200万台超の車両をリコール ― 全オートパイロットシステム搭載車が対象</title><link>https://ledge.ai/articles/tesla_autopilot_recall_driver_monitoring_system</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月13日、テスラは米国で販売されたほぼ全ての車両、200万台以上をリコールすることを{target=“_blank”}など各種メディアが報じた。
-
-同社は、テスラの車両に標準装備されている自動運転支援システム「オートパイロット」のドライバーの注意を確保するためのシステムに発生した不具合を修正するため、回収と無償修理をテスラが米運輸省高速道路交通安全局（NHTSA）に12日付で届け出たという。リコールは、{target=“_blank”}が行った2年間の調査の結果に基づいており、オートパイロットを使用中に発生した一連の事故（死亡事故含む）に対処するために行われる。
-
-対象となるのは、2012年10月5日から2023年12月7日に生産されたモデルY、S、3、X。システムのアップデートは、ドライバーへの警告とアラートを強化し、基本バージョンのオートパイロットが操作可能なエリアを制限する内容を含む。テスラはオートパイロットが作動中の際、ドライバーの誤用を防ぐためのコントロールが不十分である可能性があると報告したとのこと。
-
-オートパイロットは、自動車が車線内でステアリング、加速、ブレーキを自動的に行うドライバーアシストシステムだが、その名にもかかわらず自動運転車ではない。独立したテストでは、このモニタリングシステムに関しても様々な課題が見つかっている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 20 Dec 2023 13:18:12 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Wed, 20 Dec 2023 13:23:06 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
