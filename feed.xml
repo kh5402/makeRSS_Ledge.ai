@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 31 Dec 2023 02:14:59 +0000</lastBuildDate><item><title>ニューヨークタイムズ、OpenAIとマイクロソフトを著作権侵害で提訴</title><link>https://ledge.ai/articles/nyt_sues_openai_microsoft_for_infringing_copyrighted_works</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 03 Jan 2024 15:39:11 +0000</lastBuildDate><item><title>AIに取って代わられる仕事ばかりではない。LLMが生み出す5つの新しい職種ーー世界経済フォーラムの報告</title><link>https://ledge.ai/articles/wef_reserch_jobs_of_tomorrow</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+世界経済フォーラム（WEF）は2023年9月、アクセンチュアと協力し、大規模言語モデル（LLM）がもたらす職業界の変化に関する総合的な分析「未来の仕事（Jobs of tomorrow）」を{target=“_blank”}した。
+
+この報告によると、全労働時間の62%が言語に基づくタスクで占められており、ChatGPTのようなLLMの広範な採用が多くの職種に顕著な影響を与えることが予想されるという。AI技術により自動化が進む職種では、クレジット承認者、管理アナリスト、テレマーケター、統計アシスタント、銀行窓口係などは、AIに取って代わられる可能性が高いとした。
+
+その一方で以下の5つの職種は、LLMによって新たに生じる可能性が高いという。
+
+## 1. AIモデル開発者およびプロンプトエンジニア: 
+LLMの開発とファインチューニングを行うエンジニアや科学者。プログラマー、電気技師、システム管理者、インフラおよび電力システムエンジニアなど。
+
+すでに一部は存在するスキルセットもあるが、AIシステムの進歩と同時に進化し続けると予測。
+例えば、より効率的なアルゴリズムを設計するプログラマー、モデルを訓練し実行するためのカスタムチップを設計する電気エンジニア、サーバーインフラを構築するシステム管理者、これらのシステムが長時間の稼働に必要な安定したエネルギー源を確保するインフラおよび電力システムエンジニアなど。
+
+また、プロンプト・エンジニアは、LLMがより最適な結果を得られるように、プロンプトや入力を開発、改良、リフレーミングするのに重要な役割を果たす。
+
+
+## 2. インターフェースおよびインタラクションデザイナー: 
+LLMを一般にアクセスしやすくするためのインターフェースの設計。ユーザーエクスペリエンス（UX）デザイナーとして、さまざまなユーザー入力や特定のタスクに適応するためのLLM設計を担う。
+
+例えば、LLMを特定の種類のユーザー入力（例えば、タイピングや音声）に適応させたり、パーソナライズされたAIアシスタントやチューター、コーチの開発など。人間のフィードバックによる強化学習（RHLF）の重要な段階が含まれる可能性がある。
+
+
+
+## 3. AIコンテンツクリエーター: 
+LLMの知識と理解を活用して、それぞれの分野に関する専門性の高いコンテンツを迅速に生成する。記事、書籍、教育・訓練資料、映画やテレビシリーズのストーリーライン、関連する視覚・音声メディアの自動生成など、さまざまなコンテンツの制作が含まれる。
+
+## 4. データキュレーターおよびトレーナー: 
+LLMのパフォーマンスを維持するために不可欠な大規模トレーニングデータセットの管理。高品質のデータを保証する専門化された労働力の開発など。
+
+## 5. 倫理およびガバナンス専門家: 
+トレーニングデータの偏見や不適切な言語の存在をチェックし、公開前にLLMシステムの厳密なテストを実施。AIセーフティオフィサーや倫理家、さらには政府レベルのドメイン固有の規制者や弁護士も含まれる。
+
+
+これらの新しい職種は、AIと人間の間の新しいコラボレーションのパラダイムを反映し、作業の実施方法と職務の性質を再定義するという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 03 Jan 2024 15:39:11 +0000</pubDate></item><item><title>ニューヨークタイムズ、OpenAIとマイクロソフトを著作権侵害で提訴</title><link>https://ledge.ai/articles/nyt_sues_openai_microsoft_for_infringing_copyrighted_works</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -367,25 +412,7 @@ Safety Advisory Groupは、AIモデルのリスクを評価するための高い
 :::box
 
 :::
-</description><pubDate>Thu, 21 Dec 2023 11:24:02 +0000</pubDate></item><item><title>OpenAI、「Business Insider」のAxel Springerとのパートナーシップを発表ーー独自のAI活用でジャーナリズム強化</title><link>https://ledge.ai/articles/openai_axel-springer_partnership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2023年12月13日、ドイツのメディア企業 Axel Springerとの提携を{target=“_blank”}した。
-
-Axel Springerは、米国の政治ニュースサイトPoliticoやビジネスニュースサイトBusiness Insiderを含むメディアブランドを保有しており、OpenAIとの提携は、AI技術におけるジャーナリズムの深い統合に関して、世界初の出版社となる。この提携は、チャットボットChatGPTの背後にある会社であるOpenAIとの間で、初めての類を見ない取り組みであるとされている。
-
-この戦略的提携は、OpenAIのAIモデルを強化し、チャットボットのレスポンスの精度と関連性を向上させることを目指すという。提携により、Axel Springerの高品質で最新の情報がOpenAIの知識に統合され、リアルタイムのニュースと情報をAIシステムに提供することが可能となる。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 20 Dec 2023 13:23:06 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Thu, 21 Dec 2023 11:24:02 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
