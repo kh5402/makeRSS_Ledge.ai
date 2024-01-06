@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Jan 2024 05:31:09 +0000</lastBuildDate><item><title>AIに取って代わられる仕事ばかりではない。LLMが生み出す5つの新しい職種ーー世界経済フォーラムの報告</title><link>https://ledge.ai/articles/wef_reserch_jobs_of_tomorrow</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Jan 2024 06:58:49 +0000</lastBuildDate><item><title>OpenAI、延期していたアプリストア「GPT Store」週明けからスタート</title><link>https://ledge.ai/articles/gpt_store_launch</link><description>:::small
+画像の出典：OpenAI
+:::
+
+OpenAIは2024年1月5日、「GPTs Store」を翌週（1月第2週）より開始するとGPTs利用者向けにメールで告知した。
+
+当初2023年後半の公開を予定していたこのアプリサービスは、OpenAIのリーダーシップ変更など予期せぬ事項の対応により延期され、同年12月に、有料の顧客に宛てたメールで2024年初旬の開始を{target=“_blank”}。
+
+GPTs Storeは、ユーザーが特定の目的のためにカスタマイズされたChatGPTバージョンを作成し、公開することができる新しいプラットフォームだ。ユーザーは、ChatGPTとの会話を通して、作りたいGPTを作成でき、新たな指示や追加知識を与え、組み込むことができる。
+
+ストアでGPTを共有する場合は、以下を確認して公開するようにとのこと。
+
+・更新された{target=“_blank”}と{target=“_blank”}を確認し、作成したGPTが準拠していることを確認する。
+・ビルダーのプロフィールを確認する（設定 &gt; ビルダープロフィール &gt; 自分の名前または確認済みのウェブサイトを有効にする） 
+・GPTを「Public（公開）」として公開する（「Anyone with a link（リンクを知っている人なら誰でも）」を選択した場合、そのGPTはストアに表示されない）
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 05 Jan 2024 06:58:49 +0000</pubDate></item><item><title>AIに取って代わられる仕事ばかりではない。LLMが生み出す5つの新しい職種ーー世界経済フォーラムの報告</title><link>https://ledge.ai/articles/wef_reserch_jobs_of_tomorrow</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -387,32 +414,7 @@ Stability AIの理念に基づき、このメンバーシップは生成AI技術
 :::box
 
 :::
-</description><pubDate>Thu, 21 Dec 2023 11:28:52 +0000</pubDate></item><item><title>OpenAI　フロンティアモデルのもたらす壊滅的なリスクを防御するための プロセスを発表　取締役会に拒否権</title><link>https://ledge.ai/articles/openai_preparedness_safety-advisory-group</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2023年12月18日、有害な AI の脅威を防ぐために最先端の技術や理論を活用して開発された「フロンティアモデル」がもたらす壊滅的なリスクを追跡、評価、予測し、防御するための内部の安全プロセスを拡張していると、ブログや文書で{target=“_blank”}した。
-
-この新しい取り組みの一環として、OpenAIは「Safety Advisory Group（安全諮問グループ）」を設立。このグループは、技術チームの上に位置し、AIモデルのリスク評価と報告を行う。レビューされた報告書は、OpenAIのリーダーシップと取締役会に同時に提出される。このプロセスにより、AIモデルに関連するリスクや「知られていない未知の」問題の特定への貢献が期待される。
-
-Safety Advisory Groupは、AIモデルのリスクを評価するための高い視点からの勧告を行い、OpenAIのリーダーシップ（CEO、CTOなど）と取締役会に対して重要な情報を提供する。リーダーシップは最終的な決定を行うが、取締役会はこれらの決定を覆す権限を持つ。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 21 Dec 2023 11:24:02 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Thu, 21 Dec 2023 11:28:52 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
