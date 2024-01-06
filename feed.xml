@@ -2224,7 +2224,48 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>2024年 年頭所感   日本ディープラーニング協会理事長 松尾 豊 氏 </title><link>https://ledge.ai/articles/jdla_matsuo_2024</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>言葉や音をオーディオ形式に変換するAI「Amphion」テイラー・スウィフトが歌う中国の歌を生成</title><link>https://ledge.ai/articles/amphion</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月15日、香港中文大学（深セン）のデータサイエンス学部を含む研究チームは、オーディオ音楽・音声生成のための包括的ツールキット「Amphion」の開発を{target=“_blank”}した。
+
+研究者がAmphionの作成した作品を動画「Amphionはテイラー・スウィフトに中国語の歌を歌わせる」と題して公開し、SNSを賑わせた。
+@
+
+このツールキットの公開は、研究の再現性をサポートし、初歩段階の研究者やエンジニアに対する音楽・音声生成分野へのハードルを下げることが目的だという。Amphionは、テキストから音声（TTS）、歌声変換（SVC）、テキストからオーディオ（TTA）などの機能を提供する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+独自の特徴として、古典モデルやアーキテクチャの視覚化を行い、その内部メカニズムの理解を助ける。これにより、音声合成技術や歌声変換技術の進化に貢献すると期待されている。
+
+下図は「Amphion」のシステムアーキテクチャの設計を示す。データ処理、共通モジュール、最適化アルゴリズムを統合した基盤の上に、特定の生成タスクごとにデータ使用、モデルフレームワーク、トレーニングパイプラインを構築し、各モデルの指示（レシピ）をユーザーに提供する。すべてのモデルのレシピ形式を統一し、できるだけ自己完結型で初心者にも優しいものとしている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+ツールキットはMITライセンスのもとでオープンソースとして公開されており、{target=“_blank”}だ。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 05 Jan 2024 06:48:01 +0000</pubDate></item><item><title>2024年 年頭所感   日本ディープラーニング協会理事長 松尾 豊 氏 </title><link>https://ledge.ai/articles/jdla_matsuo_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2595,42 +2636,7 @@ Hugging Faceとカーネギーメロン大学の研究者らが2023年11月28日
 :::
 :::box
 
-:::</description><pubDate>Wed, 13 Dec 2023 06:12:43 +0000</pubDate></item><item><title>ChatGPTにトレーニングデータを吐き出させる攻撃手法をGoogleDeepMindの研究者らが公開</title><link>https://ledge.ai/articles/extracting_training_data_from_chatgpt</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Google傘下のGoogle DeepMindの研究者たちは2023年11月28日、ChatGPTを含む機械学習モデルからトレーニングデータを効率的に抽出する新たな攻撃手法に関する研究を{target=“_blank”}した。
-
-研究では、特にChatGPTに対する「発散攻撃（divergence attack）」という、ChatGPTのような言語モデルのアラインメントを標的にした新しい攻撃方法を紹介している。これは、ChatGPTの通常のチャットボットスタイルから逸脱させ、インターネット上の一般的なテキストスタイルで回答させることによって、トレーニングデータを抽出するものだ。
-
-ChatGPTに特定のプロンプトを提供し、モデルを通常のチャットボットの回答スタイルから逸脱させる。すると、モデルはインターネットテキストスタイルで回答を始め、訓練に使用された実際のテキストデータを吐き出すようになる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この方法で得られたテキストがインターネット上のどこかに以前存在したかを確認するために、複数の公開トレーニングデータセットを統合し、合計9テラバイトのデータセットを作成。これを用いて、ChatGPTのトレーニングデータセットから10,000以上の例を200米ドルのクエリコストで回収した。
-
-!
-:::small
-ChatGPTが吐き出したテキストのうち、公開されているデータセットの内容と照合できたテキストが赤くなっている
-画像の出典：{target=“_blank”}
-:::
-
-研究者らは、この脆弱性をOpenAIに2023年8月30日に報告し、標準的な開示スケジュールに従って90日間の対応期間を設けた後、論文の公開に至った。
-
-なお、この脆弱性はすでに対処されていることが複数メディアで確認されている。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 12 Dec 2023 07:24:17 +0000</pubDate></item><item><title>ローマ教皇「世界平和デー」へのメッセージ、平和のためのAIのリスクを警告</title><link>https://ledge.ai/articles/pope_francis_warns_on_risks_of_ai_for_peace</link><description>:::small
+:::</description><pubDate>Wed, 13 Dec 2023 06:12:43 +0000</pubDate></item><item><title>ローマ教皇「世界平和デー」へのメッセージ、平和のためのAIのリスクを警告</title><link>https://ledge.ai/articles/pope_francis_warns_on_risks_of_ai_for_peace</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
