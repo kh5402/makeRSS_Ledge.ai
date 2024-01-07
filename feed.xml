@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jan 2024 05:15:43 +0000</lastBuildDate><item><title>Windowsパソコン　新たな「Copilotキー」搭載　押せばAIアシスタントが起動するAI PCの登場</title><link>https://ledge.ai/articles/microsoft_copilot-key_for_windows-pc</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jan 2024 05:56:41 +0000</lastBuildDate><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京大学松尾研究室発のスタートアップ ELYZAは2023年12月27日、130億パラメータを有する日本語対応の大規模言語モデル（LLM）「ELYZA-japanese-Llama-2-13b」シリーズを{target=“_blank”}した。
+
+Metaの「Llama 2」をベースにしており、ライセンスは Llama 2 Community License に準拠。研究および商業目的での利用が可能だ。
+
+同社の公開している日本語ベンチマーク「ELYZA Tasks 100」を用いたブラインド性能評価では、オープンな日本語LLMの中で最高性能を達成。数倍大きなパラメータを持つモデルよりも良い性能を達成していること、GPT-3.5（text-davinci-003）を超える性能を達成していることに注目したい。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+また、同社のブログでは、推論の高速化を実現したチャット型デモも{target=“_blank”}している。
+
+ELYZA社はさらに、約180億トークンの日本語テキストで追加事前学習を行った「ELYZA-japanese-Llama-2-13b-instruct」と、トークナイザーの改善を行った「ELYZA-japanese-Llama-2-13b-fast」も{target=“_blank”}している。今後も継続して日本語LLMの研究開発を進める予定だ​​​​という。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 06 Jan 2024 05:56:41 +0000</pubDate></item><item><title>Windowsパソコン　新たな「Copilotキー」搭載　押せばAIアシスタントが起動するAI PCの登場</title><link>https://ledge.ai/articles/microsoft_copilot-key_for_windows-pc</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -365,35 +393,7 @@ Miro アシストは、文章の文脈を理解し、新たな製品やアイデ
 :::box
 
 :::
-</description><pubDate>Mon, 25 Dec 2023 11:44:07 +0000</pubDate></item><item><title>テスラ 人型２足歩行ロボット「Optimus 第２世代」公開 ーー卵をつまめる指先など、より人間に近くなめらかな動き</title><link>https://ledge.ai/articles/tesla_optimus_gen2</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-米国Teslaは2023年12月12日、新型二足歩行ロボット「Optimus Gen 2」を{target=“_blank”}した。
-
-この発表は公式Xアカウント（旧Twitter）を通じて行われ、デモ動画も投稿された。Optimus Gen 1からの主な改善点は、指の触覚センサーの搭載、軽量化、移動速度の向上である。新型ロボットは、黒と白のボディカラーを採用し、2021年に発表された「Tesla bot」のコンセプトに近づいている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-注目されるのは、デザインの変更だ。より丸みを帯びたフォルムが特徴で、人間らしい外観を実現している。Teslaの自社設計アクチュエータとセンサーを用いたことで、ロボット全身のバランスが向上し、歩行速度は30％速くなり、体重も10kg軽量化された。また、マニピュレーター（手）の改良により、11自由度の速い動きが可能となり、全指先に触覚センサーが内蔵されている。デモ動画では、繊細な指の動きで卵をつまみ、移し替える様子が披露された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-発売時期や価格についてはまだ明らかにされていないが、「Optimusの今後の活躍にご期待ください」というメッセージが動画で伝えられている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 24 Dec 2023 05:51:36 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Mon, 25 Dec 2023 11:44:07 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
