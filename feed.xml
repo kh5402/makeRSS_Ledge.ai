@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Jan 2024 06:58:49 +0000</lastBuildDate><item><title>OpenAI、延期していたアプリストア「GPT Store」週明けからスタート</title><link>https://ledge.ai/articles/gpt_store_launch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jan 2024 05:15:43 +0000</lastBuildDate><item><title>Windowsパソコン　新たな「Copilotキー」搭載　押せばAIアシスタントが起動するAI PCの登場</title><link>https://ledge.ai/articles/microsoft_copilot-key_for_windows-pc</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Microsoftは2024年1月4日、Windows11搭載のPCに「Copilotキー」を新たに導入すると{target=“_blank”}した。Windowsキーボードへの大幅な変更は、「Windowsキー」の導入以来ほぼ30年ぶりのこと。
+
+@
+
+この新しいキーは「Windowsキー」と同様にPCキーボードの核となり、押すとWindows内のCopilot体験を呼び出し、日々の作業にAIを簡単に統合できるようになる。これにより、人々のコンピューティング体験が簡素化されるだけでなく、さらに拡大され、2024 年は AI PC の年となると執行副社長兼消費者最高マーケティング責任者のユスフ・メディ氏は述べた。
+
+1月9日から米国ラスベガスで開催されるテックイベント「CES2024」までの数日間とCESにて、パートナー企業の新しいWindows 11 PCの多くにCopilotキーが搭載されるようになるという。今月後半から春にかけて、パートナー企業のデバイスや今後発売されるSurfaceデバイスにも搭載される見込みだ。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 06 Jan 2024 05:15:43 +0000</pubDate></item><item><title>OpenAI、延期していたアプリストア「GPT Store」週明けからスタート</title><link>https://ledge.ai/articles/gpt_store_launch</link><description>:::small
 画像の出典：OpenAI
 :::
 
@@ -371,50 +393,7 @@ Miro アシストは、文章の文脈を理解し、新たな製品やアイデ
 :::box
 
 :::
-</description><pubDate>Sun, 24 Dec 2023 05:51:36 +0000</pubDate></item><item><title>Stability AI 年末の大きな発表2本！単一画像から3Dオブジェクトを生成する「Stable Zero123」、カテゴリ別「Stability AIメンバーシップ」</title><link>https://ledge.ai/articles/stable_zero123_membership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-## 単一画像から３Dオブジェクトを生成「Stable Zero123」
-StableAIは2022年12月14日、単一の画像から高品質な3Dオブジェクトを生成するAIモデル「Stable Zero123」を{target=“_blank”}した。
-
-Stable Zero123は、従来の「Zero1-to-3」「Zero123-XL」を上回る品質の向上を実現するという。同モデルはStable Diffusion 1.5に基づいており、1つのノベルビューを生成するのにSD1.5と同じ量のVRAMを消費する。
-
-その他の特徴は以下の通り
-- 高品質の3Dオブジェクトのみを保持するため、改善されたトレーニングデータセットが用いられている。
-- 学習と推論の間、モデルは推定されたカメラアングルを提供し、より情報に基づいた高品質の予測が可能となる。
-- 事前に計算されたデータセットと改良されたデータローダーを組み合わせることで、学習効率が40倍に高速化された。
-
-現在は、研究者や非商用ユーザーがダウンロードして実験できるように、{target=“_blank”}で公開中。
-
-
-
-## 「Stability AIメンバーシップ」を導入
-同社は「Stability AIメンバーシップ」を15日から新たに{target=“_blank”}。このメンバーシップは、商業的権利を標準化し、最先端のコアモデルのセルフホストデプロイメントを簡素化することを目的としている。
-
-メンバーシップには、非商用、プロフェッショナル、エンタープライズの3つのカテゴリがあり、それぞれ異なるニーズに対応している。非商用カテゴリでは、個人や研究用にコアモデル一式を無料で利用できる。プロフェッショナルカテゴリでは、月額20ドルで商用利用が可能で、エンタープライズカテゴリでは大企業向けのカスタム価格設定で追加のサポートが提供される。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stability AIの理念に基づき、このメンバーシップは生成AI技術をオープンでアクセス可能なものにすることを強調しており、AIソリューションのリリースと商業権の付与方法を再定義することで、AI技術の競争力の育成とオープン性の維持を目指すという。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 21 Dec 2023 11:28:52 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Sun, 24 Dec 2023 05:51:36 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
