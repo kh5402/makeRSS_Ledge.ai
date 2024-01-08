@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jan 2024 05:56:41 +0000</lastBuildDate><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 07 Jan 2024 06:05:43 +0000</lastBuildDate><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2203,7 +2203,44 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>自動運転AIの道徳的な判断に「トロッコ問題」は役に立たないーーノースカロライナ州立大学の研究</title><link>https://ledge.ai/articles/moral_judgment_in_realistic_trafc_scenarios</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>NVIDIAの「Align Your Gaussians」（AYG）：テキストから動的な4Dシーンを生成</title><link>https://ledge.ai/articles/nvidia_align_your_gaussians</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2024年1月3日、テキストから動的な3Dオブジェクトを生成し、それを4D画像として表現する新技術「Align Your Gaussians」（AYG）を{target=“_blank”}した。
+
+AYGは、テキストから動的な3Dオブジェクトを生成し、それを4D画像として表現する技術だ。動的な（時間の経過と共に変化する）3Dガウス表現を利用し、変形フィールドを組み合わせることにより、時間的次元を含む4Dコンテンツの作成を可能にする。結果として、テキスト入力から動的な4Dアセットやシーンの生成が実現するという。
+
+
+### 第1段階：静的3D合成
+StableDiffusion（Text-to-Image）と、MVDream（Text-to-Multiview-Image）の２つのモデルを使用し、3D静止画像を形成する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+### 第2段階：動的4Dの合成
+テキストから動画・テキストから静止画のモデルを組み合わせ、変形フィールドを最適化し時間的ダイナミクスを追加する。これにより、動いて変形する動的4Dアセットを生成する。アセットの{target=“_blank”}されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオブジェクトを{target=“_blank”}に組み合わせる能力を持つ。この技術の応用範囲は広く、特にゲーム、映画、アニメーション、VRなどでの活用が期待されている。NVIDIAは、AYGが将来的には画像から3Dオブジェクトを生成する技術と組み合わせてさらに発展する可能性があるとしている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 07 Jan 2024 06:05:43 +0000</pubDate></item><item><title>自動運転AIの道徳的な判断に「トロッコ問題」は役に立たないーーノースカロライナ州立大学の研究</title><link>https://ledge.ai/articles/moral_judgment_in_realistic_trafc_scenarios</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2574,50 +2611,7 @@ FunSearchは、創造的な解決策を提供する事前トレーニング済�
 :::box
 
 :::
-</description><pubDate>Thu, 21 Dec 2023 11:35:39 +0000</pubDate></item><item><title>Meta「Seamless Communifation」一般公開　話者のトーンを保ちつつ、リアルタイムで多言語音声翻訳</title><link>https://ledge.ai/articles/meta_seamless_communication</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Metaは2023年11月30日、言語間のコミュニケーション障壁を解消するためのAIモデル群「Seamless Communication」を{target=“_blank”}した。異なる言語間での表現豊かなコミュニケーションをリアルタイムで可能にする。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-このモデル群には以下の３つの特徴的なモデルが含まれる
-
-## SeamlessM4T v2
-音声とテキストを横断する翻訳とトランスクリプションを行う多言語・マルチタスクの基礎モデルで、8月にされた基盤モデル「SeamlessM4T」の改良版だ。
-「SeamlessM4T v2」は、SeamlessExpressiveおよびSeamlessStreamingモデルの基盤となっている。非自己回帰的なテキストからユニットへのデコーダを備えた新しいアーキテクチャを特徴としており、テキストと音声の出力間の一貫性を向上させている。
-
-
-## SeamlessExpressive
-翻訳は人間の表現のニュアンスを捉える必要がある。既存の翻訳ツールは会話の内容を捉えることに長けているが、一般的には単調なロボット型音声合成システムに依存している。一方で「SeamlessExpressive」は、話者のスタイルや感情的なトーンに加え、間や発話速度など、音声の複雑さを保持することを目指している。
-現在、英語・スペイン語・フランス語・ドイツ語のデモ動画視聴および{target=“_blank”}が体験できる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-SeamlessExpressiveは、電子透かしを含む初めての翻訳モデルだと同社は述べる。同モデルによって生成された出力音声であることが特定可能となる。
-## SeamlessStreaming
-約2秒の遅延で翻訳を提供し、オフラインモデルとほぼ同じ精度を持つ最初の大規模多言語モデル。SeamlessM4T v2に基づき、ほぼ100の入出力言語に対応した自動音声認識と音声からテキストへの翻訳、およびほぼ100の入力言語と36の出力言語に対応した音声から音声への翻訳をサポートする​​。
-
-
-そして、これらの３つのモデルの機能を統合したモデル「Seamless」が提供される。このモデルは、Seamless M4T v2の品質と多機能性、Seamless Streamingのリアルタイムの優位性、およびSeamless Expressiveの表現力の保持を兼ね備えているという。
-
-Metaは、オープンで安全かつ責任あるAIの進展を目指し、12月5日に新団体「AI Alliace」を立ち上げた。これらのモデルは、有害な言葉のハルシネーション（幻覚）を減らし、より安全なコミュニケーションを促進するように訓練されているという。
-また、Seamless は オープンモデルとして、Hugging Face と Github で一般公開されている。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Sat, 16 Dec 2023 14:45:15 +0000</pubDate></item><item><title>ローマ教皇「世界平和デー」へのメッセージ、平和のためのAIのリスクを警告</title><link>https://ledge.ai/articles/pope_francis_warns_on_risks_of_ai_for_peace</link><description>:::small
+</description><pubDate>Thu, 21 Dec 2023 11:35:39 +0000</pubDate></item><item><title>ローマ教皇「世界平和デー」へのメッセージ、平和のためのAIのリスクを警告</title><link>https://ledge.ai/articles/pope_francis_warns_on_risks_of_ai_for_peace</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
