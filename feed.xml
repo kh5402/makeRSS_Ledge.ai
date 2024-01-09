@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jan 2024 07:48:35 +0000</lastBuildDate><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jan 2024 07:53:42 +0000</lastBuildDate><item><title>OpenAI、メディア企業への提示額わずか100万ドル　AIモデル学習のための年間ライセンス料</title><link>https://ledge.ai/articles/openai_offers_publishers_1million_a_year</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+米国メディアのThe Information は現地時間の2024年1月4日、OpenAIは自社の大規模言語モデル（LLM）のトレーニングに使用するため、いくつかのメディア企業に年間100万ドルから500万ドルの間でニュース記事のライセンスを提供していると{target=“_blank”}同社と最近交渉したメディア企業の幹部社員より情報が提供されたという。
+
+昨年7月に{target=“_blank”}と、12月に「Business Insider」の{target=“_blank”}とのパートナーシップを発表したOpenAIは、最大で12の出版社と同様の取引を目指して話し合いを進めているとのこと。
+
+一方、昨年末には米国ニューヨークタイムズ（NYT）が、OpenAIとマイクロソフトを著作権侵害で提訴した。訴状によるとNYTは、2社と交渉を試み、そのコンテンツの使用に対して公正な価値を受け取ること、健全なニュースエコシステムの継続を促進すること、そして責任ある方法で生成AIを開発することを目指していたが、これらの努力は解決に至っていないという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 08 Jan 2024 07:53:42 +0000</pubDate></item><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -365,35 +383,7 @@ OpenAIのCEO サム・アルトマン氏が2023年12月22日、「誰かに言�
 :::box
 
 :::
-</description><pubDate>Mon, 25 Dec 2023 11:50:07 +0000</pubDate></item><item><title>ホワイトボードツールMiro、生成AI機能「Miro アシスト（ベータ版）」を含む新機能を発表</title><link>https://ledge.ai/articles/miro_assist</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Miroは2023年12月20日、ユーザーのイノベーションを加速するための新機能と機能のアップデートを複数{target=“_blank”}した。
-
-Miroは、あらゆる規模の分散されたチームが、次の大きなビジネスを作り上げるためのビジュアルワークスペースを提供するプラットフォームだ。ユーザーは、キャンバスを用いて、ユーザーがワークショップやミーティング、製品設計、ブレインストーミングなどを実施する。
-
-今回発表された主要なアップデートは、生成AIを活用した「Miro アシスト（ベータ版）」の導入だ。これによりイノベーション支援機能が利用可能になり、高度なダイアグラム作成やAzure DevOpsとの統合も強化された。
-
-Miro アシストは、文章の文脈を理解し、新たな製品やアイデアの迅速な創出をサポートする。ユーザーはMiro アシストを通じて、調査やブレインストーミングからインサイトを得たり、チーム内の偏った意見を取り除き、ヒューマンエラーのリスクを軽減できるという。提供される機能は、AIを活用したマインドマッピングやダイアグラムの自動生成や、付箋の要約機能など。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 25 Dec 2023 11:44:07 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Mon, 25 Dec 2023 11:50:07 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
