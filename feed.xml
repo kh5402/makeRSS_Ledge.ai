@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 07 Jan 2024 06:05:43 +0000</lastBuildDate><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jan 2024 07:48:35 +0000</lastBuildDate><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2882,7 +2882,35 @@ CMAは、AIの急速な発展と、強力な基盤モデル（FMs）の進歩が
 :::box
 
 :::
-</description><pubDate>Mon, 11 Dec 2023 05:51:20 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
+</description><pubDate>Mon, 11 Dec 2023 05:51:20 +0000</pubDate></item><item><title>Google「MusicFX」アイディアを数単語で指示するとAIが音楽を生成してくれるツール</title><link>https://ledge.ai/articles/google_music_fx</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2023年12月13日、独自のAI技術を駆使して音楽を生成する実験ツール「MusicFX」の{target=“_blank”}した。
+
+MusicFXは、テキストの説明を音楽に変換するAIだ。Google DeepMindの電子透かし技術「SynthID」を使用し、オリジナルのアーティストの声と作風を保護するため、特定のアーティストに言及するクエリやボーカルを含むクエリでは音楽を生成しないという。
+
+ツールは、Google lab の「AI Test Kitchen」プラットフォーム上にてで、現在、米国、ケニア、ニュージーランド、オーストラリアのユーザーがアクセスできる。日本からアクセスした場合、ツールの使用はできないが、サンプルの試聴やプロンプトの確認が可能だ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Mon, 08 Jan 2024 07:48:35 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -3150,26 +3178,4 @@ KaKa Creationは、AIの活用を「工程の効率化」と捉え、人を感�
 :::
 :::box
 
-:::</description><pubDate>Wed, 29 Nov 2023 05:41:26 +0000</pubDate></item><item><title>AIが、ジョン・レノンの声だけ採り出し完成　ビートルズ最後の新曲『Now and Then』ミュージックビデオ公開</title><link>https://ledge.ai/articles/beatles_ai_nowandthen</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ビートルズ最後の新曲「Now and Then」が2023年11月2日にリリースされた。YouTubeの TheBeatles 公式チャンネルでは、オフィシャルの音源と共にミュージックビデオとドキュメンタリー・ショートフィルム『The Beatles - Now And Then - The Last Beatles Song』を{target=“_blank”}した。ドキュメンタリーでは、どのようにこのプロジェクトが進められたかを追っている。
-
-@
-
-今年の6月、元メンバー、ポール・マッカートニー氏がBBCのインタビューで、AIを使用して制作されたビートルズの最後の楽曲が年内にリリースされることをし話題となった。
-
-「Now and Then」は、1995年にビートルズ・アンソロジー・プロジェクトの一環としてポール、ジョージ、リンゴによって始められたが、70年代にジョンが録音したボーカルとピアノの音を分離させる技術的な課題が乗り越えられず、一旦お蔵入りとなっていた。しかし、2022年、ミュージックビデオの監督ピーター・ジャクソン氏と彼のチームが開発したAIを活用したシステムが、ドキュメンタリーシリーズ「Get Back」の製作を通じて使用され、ジョンのボーカルをピアノパートから分離する道を開いた。
-
-ドキュメンタリーの中でリンゴとポールが、ジャクソン氏の「MAL」と呼ばれるシステムがなんでも取り出してくれるため、ジョンのデモテープを渡して、彼の声を取り出してもらうことにした、と語っている。
-
-@
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 17 Nov 2023 07:18:49 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 29 Nov 2023 05:41:26 +0000</pubDate></item></channel></rss>
