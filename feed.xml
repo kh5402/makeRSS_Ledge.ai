@@ -616,7 +616,7 @@ OpenAIが大規模言語モデルGPT-4を活用するためのプロンプトエ
      - 事例2  ピクトグラムメーカー  プレゼン用のアイコンを簡単作成
      - 事例3  論文要約GPTs  PDFを読み込んで論文を要約
      - 事例4  GPT Finder  GPTを検索するためのGPT
-- GPTs（GPT Builder）を使って実際にGPTを使ってみた
+- GPTs（GPT Builder）を使って実際にGPTを作ってみた
      - GPTを作成するためのSTEP
 - GPTsの今後
 :::
@@ -706,7 +706,7 @@ PDFファイルをアップロードすれば、英語論文を要約するこ�
 
 **GPT Finder**はKnowledge機能を活用し、GPTsに関する情報を与えてられており、ユーザーが望むGPTを検索することを可能にしている。GPTsを探すGPTや、GPTsを作るためのGPTが既に有志によって作成されていることが面白いところであり、GPTsの可能性を感じさせられる。
 ***
-## GPTs（GPT Builder）を使って実際にGPTを使ってみた
+## GPTs（GPT Builder）を使って実際にGPTを作ってみた
 
 ### **STEP1 GPT Builderの起動**
 
