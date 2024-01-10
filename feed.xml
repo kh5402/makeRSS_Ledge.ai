@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jan 2024 11:57:47 +0000</lastBuildDate><item><title>中国GPUメーカーMoore Threads、AI向け新GPU「MTT S4000」を発表</title><link>https://ledge.ai/articles/moore_threads_mtt_s4000</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jan 2024 12:01:29 +0000</lastBuildDate><item><title>国内初「UberプレミアムEV」日の丸交通と連携しサービス開始。テスラ車両をアプリから指定して配車依頼</title><link>https://ledge.ai/articles/uber-premium-ev_tesla_hinomaru</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+Uber Japanは2023年11月10日、日の丸交通と連携しハイヤー車両をアプリで配車できる「Uber プレミアム」の新メニューとして国内で初めて「Uber プレミアム EV」サービスを{target=“_blank”}した。このサービスにより、Uberアプリからテスラ車両の指定が可能となる。海外ではすでに、ハイヤー車両にEVを指定できるサービスが始まっているが、国内では初めての取り組みだという。
+
+Uberアプリで『Uber プレミアム EV』を選択してタクシーを呼ぶと、日の丸交通の電気自動車ハイヤー車両（Tesla Model Y）が配車される。初期段階で東京都内にTesla Model Y 30台が配備され、2024年には100台まで拡大予定。
+
+日の丸交通はTesla Japanの協力を得て、足立区の事業所にTeslaスーパーチャージャーを導入した。これらは「Uber プレミアム EV」専用の充電施設として活用されるほか、一般のTeslaオーナーにも開放される。Uber Japanは、この取り組みを通じて、電気自動車の活用を推進し、カーボンニュートラル社会実現への貢献を目指すとしている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 09 Jan 2024 12:01:29 +0000</pubDate></item><item><title>中国GPUメーカーMoore Threads、AI向け新GPU「MTT S4000」を発表</title><link>https://ledge.ai/articles/moore_threads_mtt_s4000</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -355,35 +372,7 @@ Quantum Meshでは次世代の街づくりに向けたDXのためのインフラ
 ## 編集後記
 今やベンチャー企業と地方自治体の提携は珍しいものではなくなったが、本取材ではデータセンターと地方創生について新たな可能性を感じるものであった。
 また短い時間でのインタビューであったが篠原氏は地方創生に向けて熱い姿勢を見せてくれた。
-今後高浜町という街がどのようにアップデートされていくのか、続報に期待したい。</description><pubDate>Tue, 26 Dec 2023 03:16:00 +0000</pubDate></item><item><title>NECの生成AI「cotomi（コトミ）」性能強化と事業戦略を発表</title><link>https://ledge.ai/articles/nec_llm_cotomi</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NECは2023年12月15日、大規模言語モデル（LLM）「cotomi（コトミ）」の性能強化と「NEC Digital Platform」事業戦略を{target=“_blank”}した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-この計画では、2024年春から同社の持つ業種・業務ノウハウをもとにした特化モデルを中核に、さまざまな業種のビジネス向け最適な生成AI利用環境を提供するという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-品質の高い学習データ量を増やし、日本語対話能力を向上させた「cotomi」は、長文処理能力で他社を大幅に上回るという。新しいアーキテクチャの開発も進行中で、これによりモデルサイズの拡大や機能拡張が可能になる。NECはこれらの取り組みを通じ、生成AI事業で3年間で約500億円の売上を目指すとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 27 Dec 2023 07:03:51 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+今後高浜町という街がどのようにアップデートされていくのか、続報に期待したい。</description><pubDate>Tue, 26 Dec 2023 03:16:00 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
