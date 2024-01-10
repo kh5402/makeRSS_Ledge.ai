@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jan 2024 08:14:33 +0000</lastBuildDate><item><title>OpenAI、メディア企業への提示額わずか100万ドル　AIモデル学習のための年間ライセンス料</title><link>https://ledge.ai/articles/openai_offers_publishers_1million_a_year</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jan 2024 11:52:50 +0000</lastBuildDate><item><title>アシックス、生成AIを活用して推し商品を強化 - 3月EC導入へ</title><link>https://ledge.ai/articles/asics_gen-ai_recomend_on_ec</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+アシックスが2024年3月にも生成AIを用いた商品推薦機能を電子商取引（EC）サイトに導入する予定だと2023年12月26日の日経新聞が{target=“_blank”}。
+
+国内外のグループ全体で生成AIの活用を進め、商品開発や販売、需要予測にも応用する計画だ。この取り組みは、利益率の高いEC事業の成長とブランド力の強化を目的としたデジタル化戦略の一部となる。3月ごろにはテストを完了し、自社ECサイトの全てのシューズコーナーでチャットボットを介した生成AIによるレコメンド機能開始の見込み。
+
+2023年11月にCIO直下の部門としてGIT戦略部、およびエンタープライズソリューション部を新設すると{target=“_blank”}した。グローバルIT戦略を全社横断的に実行するという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 09 Jan 2024 11:52:50 +0000</pubDate></item><item><title>OpenAI、メディア企業への提示額わずか100万ドル　AIモデル学習のための年間ライセンス料</title><link>https://ledge.ai/articles/openai_offers_publishers_1million_a_year</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -364,26 +381,7 @@ AIを利用したこのツールは、話者の言語や声の特徴を保持し
 :::box
 
 :::
-</description><pubDate>Tue, 26 Dec 2023 05:23:22 +0000</pubDate></item><item><title>アルトマン氏の年末ブログ「誰かに言ってほしかったこと--17項目」2024年、新しく何かを始める人に</title><link>https://ledge.ai/articles/sama_what_i_wish_someone_had_told_me</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIのCEO サム・アルトマン氏が2023年12月22日、「誰かに言ってほしかったこと（What I Wish Someone Had Told Me）」と題し、同氏が「もっと前に知りたかった」ビジネスや人生において重要だと考える17の教訓をブログで{target=“_blank”}した。
-
-ひさびさのブログ投稿で同氏は「楽観主義、執着心、自己信念、生身のパワー、人脈が物事を始めるうえで重要だ」と1つめの項目で述べた。この投稿についてX（旧Twitter）公式アカウントでは「2024年に取り組むべきことを考える人々に役立つことを願っている。これはいつも私のお気に入りの時期だ」と{target=“_blank”}いる。
-
-17の項目には抽象的な表現も多いため「たぶん、あのことだろう」「詳細は語れないが、何か大変なことを乗り越えたのだろう」と読み手に想像を巡らせる内容となっており、Xでの反応も様々であった。
-
-社長兼共同創設者のグレッグ・ブロックマン氏は、17項目の中の「チームにとって、あまり重要でない簡単なことをするよりも、本当に重要な難しいことをする方が簡単だ。大胆なアイデアは人々のモチベーションを高める」という1項目を取り上げ、「極めて直観に反するが、極めて真実だ（Extremely counterintuitive and extremely true）」とXで{target=“_blank”}した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 25 Dec 2023 11:50:07 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Tue, 26 Dec 2023 05:23:22 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
