@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jan 2024 11:52:50 +0000</lastBuildDate><item><title>アシックス、生成AIを活用して推し商品を強化 - 3月EC導入へ</title><link>https://ledge.ai/articles/asics_gen-ai_recomend_on_ec</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jan 2024 11:57:47 +0000</lastBuildDate><item><title>中国GPUメーカーMoore Threads、AI向け新GPU「MTT S4000」を発表</title><link>https://ledge.ai/articles/moore_threads_mtt_s4000</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月19日、中国のGPUメーカーMoore Threadsは、「KUAE Intelligent Computing Center」の除幕式を開催し、AIおよびデータセンター向けの新しいグラフィックスカード「MTT S4000」を{target=“_blank”}した。
+
+この最新フラグシップモデルは、同社の第三世代MUSA GPUアーキテクチャと768GB/sのメモリバンド幅を利用している。計算性能は、FP32で25テラフロップス、TF32では50テラフロップス、FP16/BF16では最大200テラフロップスに達する。また、このGPUはパッシブ冷却方式を採用し、AIモデルやフレームワークをサポートするソフトウェアインフラストラクチャが整備されている。
+
+また同社は、独自の開発ツールMUSIFYがNVIDIAのCUDAエコシステムとの互換性を持つという点が特徴であると述べる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+{target=“_blank”}のレポートによると、MTT S4000は、NVIDIAが2020年にリリースしたAmpereアーキテクチャや2022年のAda Lovelaceアーキテクチャの性能には及ばない。それでも、48GBのメモリ容量と毎秒768GBのメモリ帯域幅を備えているため、AIや大規模言語モデルのトレーニングには有用であると評価した。
+
+Moore ThreadsのCEO張建中氏は、NVIDIAのグローバル副社長および中国のジェネラルマネージャーを経て、同社の設立に至った。同氏は新製品と施設の開設が、AI技術の進展と産業の成長に大きく貢献すると述べた。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 09 Jan 2024 11:57:47 +0000</pubDate></item><item><title>アシックス、生成AIを活用して推し商品を強化 - 3月EC導入へ</title><link>https://ledge.ai/articles/asics_gen-ai_recomend_on_ec</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -356,32 +383,7 @@ NECは2023年12月15日、大規模言語モデル（LLM）「cotomi（コトミ
 :::box
 
 :::
-</description><pubDate>Wed, 27 Dec 2023 07:03:51 +0000</pubDate></item><item><title>話す声は本人のままで翻訳される。ニッポン放送の多言語変換ツール「リングイイネ！」β版開発</title><link>https://ledge.ai/articles/nippon_broadcasting_lingiine</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ニッポン放送は2023年12月14日、日本語の音声コンテンツを多言語に変換可能なツール「リングイイネ！」のβ版を開発したことを{target=“_blank”}した。
-
-AIを利用したこのツールは、話者の言語や声の特徴を保持したまま他言語への翻訳・音声変換を実現する。現在、英語、中国語、スペイン語を含む28の言語に対応しており、国際特許出願中だという。
-
-アナウンサーの話す日本語を英語に翻訳・音声変換したデモ動画が公開されている。
-
-
-@
-
-@
-
-
-音声認識や機械翻訳技術の進展に伴って、従来の技術では実現できなかった話者の声の特徴を反映した音声変換を可能にしたと同社は述べる。同ツールを活用し、日本語コンテンツを多言語に変換し、海外のポッドキャストマーケットへの展開を図る予定とのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 26 Dec 2023 05:23:22 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Wed, 27 Dec 2023 07:03:51 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
