@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Jan 2024 16:25:03 +0000</lastBuildDate><item><title>今年の主役は生成AI　世界最大級IT家電見本市「CES 2024」ラスベガスで開催中</title><link>https://ledge.ai/articles/ces2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jan 2024 05:41:21 +0000</lastBuildDate><item><title>今年の主役は生成AI　世界最大級IT家電見本市「CES 2024」ラスベガスで開催中</title><link>https://ledge.ai/articles/ces2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -322,7 +322,101 @@ X-Flyは、進化したエレクトロニクス、最先端センサー、前世
 :::box
 
 :::
-</description><pubDate>Fri, 29 Dec 2023 11:10:30 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Fri, 29 Dec 2023 11:10:30 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2023年12月の公開が予定されていたが、延期が発表されていたGPT Storeが2024年1月10日(現地時間)についに公開された。GPT Storeは、GPTsで構築されたオリジナルのGPTをユーザー全体と共有できる新しい機能だ。さらにGPT Storeは収益化が可能であり、新たなマーケットとして期待が高まっている。
+
+:::box
+**目次**
+- GPT Storeとは
+- GPT Storeの利用方法と料金
+- GPT Storeで自作のGPTを公開する方法
+- GPT StoreでGPTを公開して収益化する方法
+- GPT Storeの注意点
+:::
+
+## GPT Storeとは
+
+GPT Storeは、GPTsで構築されたGPTを全ユーザーが公開・共有・検索できるプラットフォームである。この機能により、ユーザーは特定のタスクに特化したGPTを容易に見つけることができる。例えば、Open AI公式のGPTとして、文章の添削やライティングスキルの向上に特化した「Creative Writing Coach」や冷蔵庫の中身の写真から料理を提案する「Sous Chef」が公開されている。
+
+:::box
+
+:::
+
+## GPT Storeの利用方法と料金
+
+GPT Storeは月額20ドルの「GPT Plus」に入会することで利用できる。
+さらに2024年1月10日(現地時間)に**新料金プラン**「**Team**」が追加された。
+
+新プラン「Team」の特徴は以下の通り
+
+料金は一人当たり年払いで月額25ドル (メンバー2人以上から利用可能)
+GPT-4使用時に制限があった送信できるメッセージ数の上限増加
+チーム内でのGPTsのワークスペース
+使用者のデータを学習しないこと
+
+画面左のサイドバーにある「Explore GPTs」をクリックすると以下のような画面が表示され、すぐに利用できる。有料プランに加入していなくても検索のみは可能。
+!
+左上の地球アイコンをクリックすると、Global ViewのOn・Offが切り替えられる。
+Onでは世界のランキング、Offでは日本のランキングが表示される。
+
+## GPT Storeで自作のGPTを公開する方法
+
+GPTsでオリジナルのGPTを構築後、保存する際に3つの選択肢から保存できる。
+
+- Only me (自分しかアクセスできない)
+- Anyone with a link (発行できるリンクを知っている人なら誰でも)
+- Everyone (全ての人に向けてGPT Storeで公開)
+
+Everyone に設定しGPT Storeで公開する場合、Buider ProfileのNameを有効にして、ユーザー名を公開する必要がある。また必ずを守ったGPTでなければならない。
+
+## GPT StoreでGPTを公開して収益化する方法
+
+現在GPT Storeの収益化についてOpen AIで以下のように発表されている。
+:::box
+**Builders can earn based on GPT usage**
+In Q1 we will launch a GPT builder revenue program. As a first step, US builders will be paid based on user engagement with their GPTs. We'll provide details on the criteria for payments as we get closer.
+
+第1四半期(1月~ 3月)には、GPTビルダー収益プログラムを開始します。第一段階として、米国のビルダーには、GPTへのユーザーのエンゲージメントに基づいて報酬が支払われます。支払い基準の詳細については、追ってお知らせします。
+:::
+
+第一段階は米国のビルダーと明記されているため、**日本のビルダーの収益化はまだ先**になりそうだ。またユーザーによるエンゲージメント数によって、収益が発生することが判明した。
+エンゲージメント数とはユーザーが「反応して行動した回数」である。
+
+## GPT Storeの注意点
+
+公式のガイドラインはとから確認できる。
+
+
+### 作成が禁止されているGPT(一部抜粋)
+- 違法行為のコンテンツ
+- 児童性的虐待 児童を搾取したり危害を加えたりする素材またはコンテンツ
+- 嫌がらせ、嫌がらせ、または暴力的なコンテンツの生成
+- マルウェアの生成
+- 兵器開発・軍事と戦争
+- エネルギー、交通、水の重要インフラの管理または運営
+- 自殺、切断、摂食障害などの自傷行為を促進、奨励、または描写するコンテンツ
+- ギャンブル
+- 詐欺
+- 盗作
+- 学術不正
+- アダルト コンテンツ、アダルト産業、出会い系アプリ
+
+以上のようなコンテンツが禁止されており、「競馬の予想ができるGPT」などの作成はガイドラインの禁止事項に該当する恐れがある。
+
+### GPTの名称に関して
+
+GPT の名称を「GPT」で終わらせることは推奨されていない。作成したアプリやサービスの内容に適した名称を与える必要がある。ただし、禁止されているわけではないため個人用に「〇〇GPT」という名称を与えることは問題ない。
+
+:::box
+
+:::
+
+
+
+</description><pubDate>Thu, 11 Jan 2024 05:41:21 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
@@ -1837,54 +1931,7 @@ PhotoshopやIllustlatorなどクリエイター向けのソフトウエアを開
 
 革命的とも破壊的ともいえるStable Diffusionは、きわめて便利である一方、社会に大きな反響、そして反発をも呼び起こしている。仕組みや使い方について理解を深めつつも、今後の動向には注視が必要といえそうだ。
 
-</description><pubDate>Wed, 12 Jul 2023 06:02:24 +0000</pubDate></item><item><title>7月27日【無料ウェビナー】生成AI時代における、エンタープライズAI開発の方法論とは？</title><link>https://ledge.ai/articles/webinar-vol56</link><description>## 生成AI時代のAI開発
-
-ChatGPTやBardなど、生成AI、大規模言語モデル（LLM）に関するニュースを見ない日はない昨今。生成AI関連のサービスが続々生まれ、企業においても生成AIを業務に活用する動きが見られます。
-
-生成AIの普及に伴い商用のLLMを利用したり、OSSのLLMを活用したり、自社モデルを作成したりとさまざまなアプローチがある中で、企業は自社に最適な活用方法を、ビジネスユースケースと照合しつつ、将来性やリスクを含めて検討していく必要があるでしょう。
-
-一方で、LLMのトレーニングやファインチューニングには技術・コスト的課題も少なくありません。比較的少ないデータセットを用いつつ、サービスプロバイダへの依存度や方針変動に左右されにくいOSSによるLLMのファインチューニングを選択する企業もいます。その場合、AI開発現場では、
-
-- 「学習に時間と手間がかかる」
-- 「複数のAI開発者がそれぞれの学習リソースを保有しており効率が悪い」
-- 「スケールしづらく、コラボレーションも発生しづらい」
-
-など複数のデメリットが発生する可能性もあり、AIエンジニアやデータサイエンティストを悩ませています。
-
-そこで本セッションでは、日本ヒューレット・パッカード合同会社 HPC Data&amp;AIソリューション事業統括本部AI BDM / プリセールスコンサルタント 山口 涼美氏をお招きし、生成AI時代におけるAI開発の勘所を語ります。
-日本ヒューレット・パッカードとエヌビディア社は、開発者が短期間でAIを構築してハイパフォーマンスデータ分析を行えるように最適化されたエンタープライズプラットフォームを提供し企業のAI活用をサポートしています。
-AIエンジニアやデータサイエンティスト、及びそのチームをリードしている立場の方々は、ぜひご参加ください。
-
-:::button
-[終了しました]
-:::
-
-## 登壇者
-### 日本ヒューレット・パッカード合同会社 山口 涼美氏
-
-!
-
-2018年に日本ヒューレット・パッカード合同会社へ新卒入社し運用保守業務を経験後、AIビジネス推進を目的としたBU横断組織を立ち上げリーダーを務める。現在はHPC・AI系の製品部でAIビジネスデベロップメントマネージャー兼プリセールスコンサルタントとして活動している。趣味はバスケットボール。
-
-### 株式会社レッジ 執行役員 箕部 和也(モデレーター)
-
-!
-
-インターネット広告代理店にてSNSを通じた企業と生活者のコミュニケーションデザインのプランニングに従事。その後オンラインのみではこれからのマーケティングに不十分であると感じIoT案件を多数手掛けるウフルに転籍。従来は取得できなかったフィジカル領域のビッグデータを活用したIoTビジネスのコンサルティングを行った。Ledge参画後は、AIをはじめとする先端技術を活用した自社内外の事業開発を推進している。
-
-:::button
-[終了しました]
-:::
-
-## 開催概要
-イベント名：Ledge.ai Webinar vol.56『生成AI時代における、エンタープライズAI開発の方法論とは？』
-開催形式：Zoom配信
-開催日時：2023年7月27日（木）15:00〜
-共催：日本ヒューレット・パッカード合同会社、エヌビディア合同会社
-登壇者：
-日本ヒューレット・パッカード合同会社 山口 涼美氏
-株式会社レッジ 執行役員 箕部 和也(モデレーター)
-参加費：無料</description><pubDate>Mon, 26 Jun 2023 05:34:35 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
+</description><pubDate>Wed, 12 Jul 2023 06:02:24 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2174,6 +2221,9 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 | 26.   | **サンプルに基づくテキスト作成**: 提供されたサンプルに似たエッセイや段落などのテキストを書くよう指示する。 |
 
 
+:::box
+
+:::
 :::box
 
 :::
