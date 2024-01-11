@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Jan 2024 14:27:15 +0000</lastBuildDate><item><title>インテルが生成AIで新会社　米デジタルブリッジと設立</title><link>https://ledge.ai/articles/intel_articl8</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Jan 2024 16:25:03 +0000</lastBuildDate><item><title>今年の主役は生成AI　世界最大級IT家電見本市「CES 2024」ラスベガスで開催中</title><link>https://ledge.ai/articles/ces2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+毎年1月にCTA（Consumer Technology Association：全米民生技術協会）が主催する世界最大級のIT家電見本市「CES2024」が、今年は2024年1月9日よりラスベガスで{target=“_blank”}されている。
+
+世界中から4000以上の企業が集まり、AI、持続可能性などの分野での革新的な技術やパートナーシップを披露している。約13万人の出席者とメディアが、これら企業のストーリーを目の当たりにしている。
+
+CTAの会長兼CEOのゲイリー・シャピロ氏は、「CES 2024では、出展者、出席者、メディアを一堂に集め、明日の技術と、今日の最大の課題を解決する革新を展示し夢見る場を提供している」と述べた。CESは、BtoBおよびBtoCの接続を構築するための絶好の場所となる。
+
+## EVに生成AI搭載　ソニー・ホンダモビリティ
+CES2024には、日本からも多数の企業が出展する。開幕日に先駆け、ソニー・ホンダモビリティ株式会社（以下、SHM）は1月8日、「AFEELA Prototype」を{target=“_blank”}した。同社の代表取締役社長兼COO川西泉氏は「人とモビリティの関係を再定義する」というテーマの下、AI活用のADAS開発進捗と創造的なエンタテインメント空間としてのモビリティの可能性について語った。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+同社はまた、マイクロソフトとの対話型パーソナルエージェント開発に関する連携を{target=“_blank”}した。SHMはMicrosoft Azure OpenAI Serviceを活用し、モビリティをインタラクティブな存在へと進化させることを目指す。人とモビリティの関係を再定義し、「感動体験」を高めることが目的だという。
+マイクロソフトの コーポレートバイスプレジデント、ジェシカ・ホーク氏は、AIがモビリティ業界の進化において重要な役割を果たすと強調し、SHMとの連携に誇りを持っていることを表明した。両社は、安全で責任あるAIの実現を最優先事項としている。
+そのほかSHMは、Epic Gamesとの協業による車内の新しいユーザーエクスペリエンスの創出、ポリフォニー・デジタルとの車両開発における協業など、多岐にわたる技術進化が進行中とのこと。
+
+## スマートホームのAIアシスタント「Ballie」サムスン電子 
+同じく1月8日、韓国のサムスン電子は、ラスベガスのマンダレイベイホテルで開催された記者会見にて、自宅用AIコンパニオンロボット「Ballie」の新バージョンを{target=“_blank”}した。
+
+かつてBallieはCES 2020でローリングAIロボットとして初めて紹介された。このたびAIコンパニオンとして紹介されたBallieは、ユーザーの生活を賢くナビゲートするために進化した新機能が追加されている。
+
+@
+
+Ballieは個人用ホームアシスタントとして機能し、家中を自律的に移動しながら様々なタスクを完了する。家電製品と接続し、管理することで、Ballieは様々な状況でユーザーを支援する。ユーザーのパターンや習慣から学習し、よりスマートで個人に合わせたサービスを提供する。
+
+
+:::box
+
+:::
+</description><pubDate>Wed, 10 Jan 2024 16:25:03 +0000</pubDate></item><item><title>インテルが生成AIで新会社　米デジタルブリッジと設立</title><link>https://ledge.ai/articles/intel_articl8</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -288,62 +322,7 @@ X-Flyは、進化したエレクトロニクス、最先端センサー、前世
 :::box
 
 :::
-</description><pubDate>Fri, 29 Dec 2023 11:10:30 +0000</pubDate></item><item><title>「生成AI」流行語大賞トップ10入りも、認知率→利用率→課金率はそれぞれ63.6%→16.6%→5% ーーGMO調査</title><link>https://ledge.ai/articles/gmo_reserch_gen-ai</link><description>年末の流行語大賞でトップ10入りした「生成AI」。今年1年でその言葉の認知度は確かに上がったように見えるが、実際に利用するレベルではどの程度浸透しているのだろうか。
-
-2023年12月8日、GMOリサーチ株式会社とGMO AI &amp; Web3株式会社は、日本国内における生成AIのトレンドに関する調査結果を{target=“_blank”}した。この調査は、GMOリサーチが保有する「JAPAN Cloud Panel」の1,126人を対象に行われ、生成AIへの理解促進と社会の発展への貢献を目的としている。
-
-
-
-## 「生成AI知っているが使ったことはない」利用率16.6％、有償版利用者は5%
-生成AIについての認知や利用率に関する問いに、有償版を利用している・無償版を利用している・知っているが利用したことがない・知らないの選択肢で回答を求めたところ、認知率は63.6％であるが、実際に利用しているのは16.6％に過ぎず、有料ツールの利用率はさらに低い5.0％にとどまっていることが分かった。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-## 生成AIへの信頼度、利用経験者は未利用者と比較して33.2ポイント高い
-
-生成AIへの信頼度を問う質問に、信頼すると答えた人が、利用経験者（57.0％）、未利用者（23.8％）で33.2ポイントの差があり、信頼しないと答えた人の合計は、未利用者（37.7％）と利用経験者（35.2％）で大きな差はない結果となった。さらに「わからない/意見がない」と回答した人は、利用経験者（7.8％）、未利用者（38.5％）と、30.7ポイントの差が開いたという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-## 「生成AI」と言えば「ChatGPT」
-「生成AI」という言葉から最も連想されるキーワードは「ChatGPT」で、その認知度は41.6％に達し、Google BardやMeta AIなど他の重要キーワードとの間に大きな差があることが示された。しかし、回答者の半数以上が具体的なAI関連キーワードを認識していないことも明らかになり、調査を行ったGMOグループは、AI教育の必要性を示唆するコメントを残した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-■調査概要
-・調査テーマ：AIトレンドに関する自主調査
-・調査地域　：日本国内
-・回答者数　：1,126名
-・調査対象　：15~93歳までの男女
-・調査期間　：2023年11月30日
-・調査方法　：オンライン調査
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 27 Dec 2023 07:31:32 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
+</description><pubDate>Fri, 29 Dec 2023 11:10:30 +0000</pubDate></item><item><title>AIのファインチューニングとは｜ビジネスパーソン向けの解説と転移学習・RAG・プロンプト埋め込みとの違い</title><link>https://ledge.ai/articles/fine-tuning</link><description>2023年は企業のAI活用も進み、{target=“_blank”}のような、OpenAIが提供するChatGPTなどの大規模言語モデル（以下、LLM）を使った、社内向けツールの開発事例が数多く発信された。
 
 ビジネスの分野で広がりを見せるLLMだが、オープンソースのLLMIは事前学習の内容を基本としているため、企業内部データなどの外部公開していない情報や、特定の専門分野に関する情報に対しては回答の精度に課題が残る。
 
