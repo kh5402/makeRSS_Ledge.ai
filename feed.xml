@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jan 2024 05:41:21 +0000</lastBuildDate><item><title>今年の主役は生成AI　世界最大級IT家電見本市「CES 2024」ラスベガスで開催中</title><link>https://ledge.ai/articles/ces2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jan 2024 13:00:43 +0000</lastBuildDate><item><title>AIのトレーニングや暗号通貨のマイニングで稼ぎながら部屋も温める「Heatbit Mini」シリコンチップをヒーターに活用</title><link>https://ledge.ai/articles/heatbit_mini</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国スタートアップ Heatbitが、AIモデルの訓練やビットコインのマイニングによって発生した熱を利用して部屋を暖める空気清浄機能付き電気ヒーター{target=“_blank”}を2023年4月に開発した。暖房に対して 50% のキャッシュバックを生成するとし2024年1月10日、「CES2024」のイノベーションアワードを{target=“_blank”}した。
+
+このヒーターは、360度の柔らかい空気の流れで部屋全体を暖める。古いコイル技術を使用せず、iPhoneやMacに搭載されている最先端のシリコンチップを利用しており、ビットコインのマイニングやAIの訓練といった計算処理を行う際に発生する熱を利用している。
+
+Heatbitの将来の{target=“_blank”}としては、コンピューティングを利用して暖房と冷房を提供するエアコンの開発も予定されており、ユーザーに一年中収益をもたらすことを目指すという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 11 Jan 2024 07:18:04 +0000</pubDate></item><item><title>OpenAI カスタムチャットボットのマーケットプレイス「GPTストア」ついに開店</title><link>https://ledge.ai/articles/openai_introduces_the_gpts_store</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年1月10日、GPTストアの開始を{target=“_blank”}した。ユーザーがChatGPTをベースにしたチャットボットをカスタマイズし、それを公開して収益化を可能にする。
+
+GPTストアには、OpenAIのパートナーやコミュニティによって開発された300万以上のカスタムGPTが含まれている。同社は2023年11月にGPTs（GPT Builder）を発表し、当初ストアも11月に開店予定だったが、OpenAI社内の調整などにより2024年初頭まで遅れた。その間、実に300万以上のカスタムGPTが作成された。
+
+同社はこの日「ChatGPT Team」という有料版の新しいプランを{target=“_blank”}した。GPTストアの利用は、このプラン含め、ChatGPT Plus、ChatGPT Enterpriseの３つの有料版会員を対象としている。
+
+2024年第1四半期には、GPTsの収益プログラムが開始される予定で、開発者は公開した自分たちのカスタムGPTから収益が得られるようになる。具体的な収益モデルの詳細はまだ明らかにされていないが、ユーザーのGPTへのエンゲージメントに基づいて、まずは米国のビルダーに支払いが行われる予定だという。
+
+GPTストアはApple App StoreやGoogle Playに類似した運営が予定されており、カテゴリ別にアプリを閲覧できる。カテゴリには、執筆、研究、プログラミング、教育、ライフスタイル、およびDall-Eなどが含まれる。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 11 Jan 2024 13:00:43 +0000</pubDate></item><item><title>今年の主役は生成AI　世界最大級IT家電見本市「CES 2024」ラスベガスで開催中</title><link>https://ledge.ai/articles/ces2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -252,77 +294,7 @@ LLMのパフォーマンスを維持するために不可欠な大規模トレ�
 :::box
 
 :::
-</description><pubDate>Wed, 03 Jan 2024 15:39:11 +0000</pubDate></item><item><title>ニューヨークタイムズ、OpenAIとマイクロソフトを著作権侵害で提訴</title><link>https://ledge.ai/articles/nyt_sues_openai_microsoft_for_infringing_copyrighted_works</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月27日、ニューヨークタイムズ（NYT）は、自社の記事を無断で使用し、AIのチャットボットトレーニングに用いたとして、OpenAIとマイクロソフトを著作権侵害で{target=“_blank”}。
-
-{target=“_blank”}によるとNYTは、OpenAIとMicrosoftが大規模言語モデル（LLM）を構築するためにNYTの著作権で保護されたコンテンツを無断で使用し、競合製品を構築したと主張している。特に、MicrosoftのBing Chat（現Copilot）とOpenAIのChatGPTを問題視。これらの製品はNYTのジャーナリズムに投じられた大規模な投資に乗じており、読者との関係を損ない、サブスクリプション、ライセンス、広告、アフィリエイト収益を奪っているという。
-
-NYTは、2012年に出版された特定の記事とGPT-4による出力の間での顕著な一致を挙げた。例えば、NYTがAppleとその他の技術会社によるグローバル経済への影響を調査した2012年の連載記事は、GPT-4によりほぼ逐語的に再現されるという。この連載は3大陸にまたがる膨大な努力の産物であり、多数のApple関係者からの情報を含む複雑な調査であった。にもかかわらず、GPT-4はこのコンテンツをコピーし、大部分を逐語的に再現できるというのだ。
-
-
-!
-:::small
-画僧の出典：訴状より：右が実際のNTYによる取材記事。赤い文字が両者の一致を示す。
-:::
-
-さらに、OpenAIはもともと非営利のAI研究会社として設立され、その研究は利益を生み出す目的からは自由だったが、2019年に営利ステータスを放棄し、OpenAI LPを設立したという変化に触れた。OpenAIがLLMの設計とトレーニングに関する情報を秘密にするきっかけとなったという。MicrosoftはOpenAIのGPT製品のトレーニング、開発、商業化に深く関与し、Azureクラウドコンピューティングプラットフォームを使用して、これらのモデルをトレーニングするために特別に設計されたスーパーコンピューターを構築したと主張した。
-
-この訴訟は、NYTの知的財産の保護とジャーナリズムの公益への貢献を守るための重要なステップであるとされている。また、NYTは、同社のコンテンツが商業目的で使用される場合、ライセンス契約に基づいて使用許可を求めるべきであり、被告たちの行為はこの原則に反すると主張している。
-
-NYTは、2社と交渉を試み、そのコンテンツの使用に対して公正な価値を受け取ること、健全なニュースエコシステムの継続を促進すること、そして責任ある方法で生成AIを開発することを目指していたが、これらの努力は解決に至っていないという。
-
-{target=“_blank”}によると、NYTは具体的な損害賠償額を求めていないが、損害賠償額は「数十億ドル」と推定されている。また、OpenAIとMicrosoftに対し、その素材を組み込んだチャットボットモデルとトレーニングセットを破壊するよう求めているとのこと。
-
-また、OpenAIとマイクロソフトは、AI製品のトレーニングに著作権で保護された作品を使用することは、著作権で保護されたマテリアルの無許可使用を管理する法原則である「フェアユース」に当たると述べたという。
-
-{target=“_blank”}は「変革的な」使用は「さらなる目的や性格を持った新しいもの」を追加し、「公正であるとみなされる可能性が高い」と述べている。変形的使用とは、さらなる目的または異なる性質を持って何か新しいものを追加するものであり、作品の元の使用に代わるものではないという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 29 Dec 2023 07:42:43 +0000</pubDate></item><item><title>鳥のように舞い上がるドローン「X-Fly」、Bionicbird社より登場</title><link>https://ledge.ai/articles/bionicbird_xfly</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Bionicbird社は2023年12月9日、鳥や昆虫の飛行パターンを模倣するドローン「X-Fly」をクラウドファンディングサイト「kickstarter」で{target=“_blank”}した。
-
-
-@
-
-X-Flyは、進化したエレクトロニクス、最先端センサー、前世代よりアップグレードした羽ばたき機構が特徴だ。また、バンパー機能を備えた弾力性のある脚と柔軟なネック、交換可能なバッテリーを搭載しており、翼幅を広げることで飛行性能と滑空性能を向上させている。
-
-センサーはフランス軍との提携により開発され、ジャイロセンサーとGセンサーを用いた滑らかで信頼性の高い飛行を実現する。軽量であるため、屋外・屋内を問わず、どんな空間でも簡単にナビゲートできる。尾を調整することにより速度の制御ができる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-このドローンは、スマートフォンアプリを介したコントロール、OTAファームウェアのアップデート、フライトデータの記録が可能で、オプションのジョイスティック操作も可能。
-
-プロペラのないデザインは安全性を高め、LED照明などのハードウェアプラグインや障害物回避用の超音波センサー、GPSトラッキングの将来的なアップデートも可能だ。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 29 Dec 2023 11:10:30 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
+</description><pubDate>Wed, 03 Jan 2024 15:39:11 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
