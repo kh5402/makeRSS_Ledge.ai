@@ -2151,7 +2151,36 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>GPT-4にお礼を言わなくても回答は向上する「プロンプト26の原則」アブダビの研究者グループが発表</title><link>https://ledge.ai/articles/principled_instructions</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>Apple iPhoneやPCでLLMを利用へ　外部フラッシュメモリを使用したLLMの効率的運用手法の研究を発表</title><link>https://ledge.ai/articles/apple_llm_in_a_flash</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+
+米国Appleは2023年12月12日、大規模言語モデル（LLM）のパラメータをSSDなどの外部フラッシュメモリに保存し、PCでの効率的なモデル運用を可能にする新たな手法「LLM in a flash」を{target=“_blank”}した。
+
+DRAMの限られた容量を超えるLLMを効率的に実行するために、モデルパラメータをフラッシュメモリに格納し、必要に応じてDRAMに読み込むという手法だ。この手法により、最大2倍のサイズのモデルを利用可能なDRAM容量で実行でき、CPUでは4-5倍、GPUでは20-25倍の推論速度向上を確認できたという。
+
+Appleの研究チームは、「windowing」と「row-column bundling」というデータをより効率的に処理するための手法を採用した。「windowing」データを小さな区分に分けて処理し、必要なデータのみを効率的に扱える技術。「row-column bundling」は、データを行と列に整理しグループ化する技術で、データの読み込みや転送がよりスムーズに行える。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+これらの技術の組み合わせにより、フラッシュメモリからのデータ転送量を削減し、一度に読み込むデータの量（読み込みチャンクサイズ）を増やすことができ、全体的な処理速度を改善した。これにより、モデルの推論速度を大幅に向上させ、メモリ使用効率を高めることが可能となった。
+
+この研究は、LLMの運用において、メモリ容量の制約が大きな課題であると考えられている現状において、重要な進歩を示していると研究チームは述べる。「LLM in a flash」は、パーソナルコンピューターや他のメモリ制限のあるデバイスで、LLMを効率的に利用するアプローチだが、その先には、iPhoneでのLLM運用が伺える。
+
+モバイル端末上でのLLMのローカル運用は、Google Geminiの最小サイズモデル「Gemini Nano」が2023年12月Pixel 8 Proに搭載、実用化されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 11 Jan 2024 07:21:43 +0000</pubDate></item><item><title>GPT-4にお礼を言わなくても回答は向上する「プロンプト26の原則」アブダビの研究者グループが発表</title><link>https://ledge.ai/articles/principled_instructions</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2538,44 +2567,7 @@ Dobb·Eの主なインターフェースは「The Stick」と呼ばれるデモ�
 :::box
 
 :::
-</description><pubDate>Sun, 24 Dec 2023 06:35:57 +0000</pubDate></item><item><title>人間よりも賢い「超知能」を制御するにはーーOpenAI「弱いモデルが強いモデルを監督する」研究を公開</title><link>https://ledge.ai/articles/openai_weak-to-strong_generalization</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月14日、OpenAIは「Weak-to-strong generalization（弱い-強い汎化へ）」と題する研究結果を{target=“_blank”}した。この研究では、小型の（弱い）モデルが生成したラベルを用いて、大型の（強い）モデルをファインチューニングし、その一般化能力を向上させる可能性を探った。具体的には、GPT-2とGPT-4のモデルを用いた実験で、GPT-2 レベルのモデルがGPT-4 の高度な機能を引き出し、単独では解決できない困難な問題に対しても正確に一般化できることが示された。
-
-同社は7月に、AIが人間にとって安全であり続けるための「スーパーアライメントチーム」を立ち上げ、AIによるAIの監視を目指す計画を{target=“_blank”}した。このとき、発表者のイリア・サツキバー氏は、10年以内に「超知能（Superinteligence）」AIが出現する可能性を指摘し、「巨大な力は非常に危険で、人類を無力化するか、あるいは絶滅させる可能性さえある」と述べ、技術改善の必要を説いた。
-
-既存のAIをチューニングするといった技術は、人間の能力に完全に依存している。したがって人間よりはるかに賢い超知能AIが登場してしまえば、確実に制御して暴走を防げるような解決策は今のところない、というのが、スーパーアライメントチームの見解であり課題である。
-
-研究チームは、チェスパズルや常識的推論などのタスクを用いて、弱いモデルが生成したラベルを通じて強いモデルが効果的に一般化することを確認した。ただし、単純なファインチューニングのみでは、完全な一般化能力を回復するには不十分であり、RLHF（人間によるフィードバックからの強化学習）などの既存の人間による監視手法も、超人的モデルに対しては限界があることを示唆した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-しかし、強いモデルを有効に活用するための方法は、自信を持った予測を促す補助的な損失関数の使用や、中間モデルを活用した監督のブートストラップ、および教師なしのファインチューニングにより改善されることがわかったという。これらの方法は、弱いモデルから強いモデルへの一般化能力を大幅に向上させる可能性を示している​​。
-
-この研究は、超人的AIモデルの監督と調整に関する新たな道筋を示しているが、その方法はまだ概念的な段階にあり、実際の応用にはさらなる研究が必要とし、ソースコードをGitHub上に{target=“_blank”}。
-
-さらに、この研究に取り組む学生や研究者に対して1000万ドルの{target=“_blank”}を開始するという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Sat, 23 Dec 2023 05:29:20 +0000</pubDate></item><item><title>三原市、生成AIを活用した「AI市長」が年頭挨拶を実施</title><link>https://ledge.ai/articles/mihara_city_ai-mayor</link><description>:::small
+</description><pubDate>Sun, 24 Dec 2023 06:35:57 +0000</pubDate></item><item><title>三原市、生成AIを活用した「AI市長」が年頭挨拶を実施</title><link>https://ledge.ai/articles/mihara_city_ai-mayor</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
