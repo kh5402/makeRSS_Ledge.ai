@@ -2567,7 +2567,27 @@ Dobb·Eの主なインターフェースは「The Stick」と呼ばれるデモ�
 :::box
 
 :::
-</description><pubDate>Sun, 24 Dec 2023 06:35:57 +0000</pubDate></item><item><title>三原市、生成AIを活用した「AI市長」が年頭挨拶を実施</title><link>https://ledge.ai/articles/mihara_city_ai-mayor</link><description>:::small
+</description><pubDate>Sun, 24 Dec 2023 06:35:57 +0000</pubDate></item><item><title>東京都教育委員会が生成AIのパイロット校に「exaBase 生成AI」導入</title><link>https://ledge.ai/articles/tokyo_metropolitan_board_of_education_adopts_exabase_gen-ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+エクサウィザーズのグループ会社 Exa Enterprise AI は2023年12月21日、東京都教育委員会が同社の「exaBase 生成AI」を都立高等学校、都立中等教育学校（後期課程）、特別支援学校（高等部）の9校で導入することを{target=“_blank”}した。同じ日に、都立学校生成AI研究校である都立小岩高等学校においてexaBase 生成AIを活用した授業が報道各社に{target=“_blank”}。
+
+
+東京都では2023年9月に生成AIのパイロットプロジェクトを開始し、同年12月には各校に「exaBase 生成AI」を導入。生徒と教員に個別のIDを発行し、AIリテラシーの指導や各教科の授業での生成AIの活用を始めているとのこと。
+
+同社のAIは、セキュリティや利用状況の管理機能を強化し、マイクロソフトの「Azure OpenAI Service 東日本リージョン」を利用することで、データを全て日本国内で処理しているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 11 Jan 2024 07:32:14 +0000</pubDate></item><item><title>三原市、生成AIを活用した「AI市長」が年頭挨拶を実施</title><link>https://ledge.ai/articles/mihara_city_ai-mayor</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2805,40 +2825,7 @@ CMAは、AIの急速な発展と、強力な基盤モデル（FMs）の進歩が
 
 :::box
 
-:::</description><pubDate>Tue, 12 Dec 2023 07:18:58 +0000</pubDate></item><item><title>EUがAI規制の包括的規範を示す世界初の「AI法」に合意　重大な違反には罰則規定も</title><link>https://ledge.ai/articles/eu_aiact</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月9日、欧州議会は理事会と共に、AIの安全性、基本的人権の尊重、民主主義の保護、ビジネスの繁栄と拡大を目的としたAI法案（AI Act）についておおむね政治的合意に至ったことを{target=“_blank”}した。この規制は、高リスクAIによる基本的人権、民主主義、法の支配、環境持続性の保護を目的とし、革新を促進し、欧州をこの分野のリーダーにすることを目指している。規則は、AIの潜在的リスクと影響レベルに基づいて義務を設定する。
-
-欧州委員会委員長のウルズラ・フォン・デア・ライエン氏は、自身のX（旧Twitter）に「The EU AI Act is a global first.（ AI Actは世界初のものです）」と{target=“_blank”}している。
-
-
-この法案では、市民の権利と民主主義に対する特定のAIアプリケーションの潜在的な脅威を認識し、以下のアプリケーションを禁止することに合意した：
-
-- 政治的、宗教的、哲学的信念、性的指向、人種などの敏感な特性を使用するバイオメトリック分類システム
-- 顔認識データベースを作成するためのインターネットや監視カメラ映像からの顔画像の無差別スクレイピング
-- 職場や教育機関での感情認識
-- 社会的行動や個人的特性に基づく社会的評価
-- 人間の行動を操作して自由意志を回避するAIシステム
-- 年齢、障害、社会的または経済的状況による人々の脆弱性を悪用するAI
-
-さらに、一般的なAI（GPAI）システムと、それらに基づくGPAIモデルには、当初議会が提案した透明性要件が適用されることが合意された。これには、技術文書の作成、EU著作権法の遵守、トレーニングに使用されたコンテンツに関する詳細な要約の普及が含まれる。
-
-システムリスクの高いGPAIモデルには、より厳格な義務が課せられる。これらのモデルが特定の基準を満たす場合、モデル評価の実施、システムリスクの評価と軽減、敵対的テストの実施、重大なインシデントに関する欧州委員会への報告、サイバーセキュリティの確保、エネルギー効率に関する報告が必要とされる。議会交渉者は、調和されたEU規格が公開されるまで、システムリスクを有するGPAIは、規制に適合するための実践コードに依存することができるよう主張した​​。
-
-ルールに従わない場合の制裁も定められている。違反の程度と企業の規模に応じて、最大3500万ユーロまたはグローバル売上の7％、または750万ユーロまたは売上の1.5％の罰金が課される可能性がある​​という。
-
-合意文書は正式に欧州議会と理事会によって採択される必要があり、その後EU法となる。欧州議会の内部市場および市民の自由委員会は、今後の会合でこの合意について投票が予定されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 11 Dec 2023 05:55:46 +0000</pubDate></item><item><title>Google「MusicFX」アイディアを数単語で指示するとAIが音楽を生成してくれるツール</title><link>https://ledge.ai/articles/google_music_fx</link><description>:::small
+:::</description><pubDate>Tue, 12 Dec 2023 07:18:58 +0000</pubDate></item><item><title>Google「MusicFX」アイディアを数単語で指示するとAIが音楽を生成してくれるツール</title><link>https://ledge.ai/articles/google_music_fx</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
