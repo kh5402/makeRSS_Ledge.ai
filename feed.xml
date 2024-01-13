@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jan 2024 13:00:43 +0000</lastBuildDate><item><title>AIのトレーニングや暗号通貨のマイニングで稼ぎながら部屋も温める「Heatbit Mini」シリコンチップをヒーターに活用</title><link>https://ledge.ai/articles/heatbit_mini</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 12 Jan 2024 14:44:24 +0000</lastBuildDate><item><title>AIのトレーニングや暗号通貨のマイニングで稼ぎながら部屋も温める「Heatbit Mini」シリコンチップをヒーターに活用</title><link>https://ledge.ai/articles/heatbit_mini</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2151,7 +2151,41 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>Apple iPhoneやPCでLLMを利用へ　外部フラッシュメモリを使用したLLMの効率的運用手法の研究を発表</title><link>https://ledge.ai/articles/apple_llm_in_a_flash</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>人気の画像生成AIモデルが子どもの虐待画像でトレーニングされていたことが判明　スタンフォード大学調査</title><link>https://ledge.ai/articles/ai_image_generation_models_trained_on_child_abuse</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2023年12月20日、スタンフォード大インターネット観測所（SIO：Stanford Internet Observatory）の{target=“_blank”}、Stability AIなどの人気の画像生成モデルが、子供の性的虐待画像（CSAM）を含む公開データセットでトレーニングされていたことが明らかになった。
+
+このデータセットは「LAION-5B」と呼ばれ、何十億もの画像が収録されている。これには、主要なソーシャルメディアサイトや大手アダルトビデオサイトからスクレイプされた、既知のCSAMも含まれていた。オープンデータセットの拡散が広範囲に渡っているため、クリーニングや配布の停止が難しいとのこと。
+
+研究者たちは、画像のURLを米国の国立行方不明・被搾取児童センター（NCMEC）とカナダの児童保護センター（C3P）に報告し、削除作業が進行中だという。児童ポルノやその他の違法コンテンツを検出するために使われる画像識別ツール（PhotoDNAなど）を使用して行われたこの研究では、研究者は虐待コンテンツを直接閲覧せず、NCMECとC3Pで可能な限り確認した。
+
+AIモデルのトレーニングに使用されるデータセットからCSAMを最小化する方法はあるものの、中央管理機関がないオープンデータセットのクリーニングや配布の停止は困難が伴う。
+
+報告書では、データセットの収集、モデルのトレーニング、スクレイプされたデータセットでトレーニングされたモデルのホスティングに関する安全性の推奨事項が概説されている。将来のデータセットで収集される画像は、MicrosoftのPhotoDNAなどの検出ツールを使用して既知のCSAMリストと照合するか、NCMECやC3Pなどの児童安全機関と提携する必要があるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この研究報告に対しLAIONは、同データセットに関連する懸念について{target=“_blank”}した。
+
+非営利組織のLAIONは、機械学習研究の進展を目的にデータセット、ツール、モデルを提供している。データセット（58.5億以上のエントリー）は、無料で利用できるCommon Crawlの公開Webインデックスから取得し、公開されたWebコンテンツへのリンクのみを提供している。公開前には自社で開発した厳格なフィルターで違法コンテンツを検出し削除するための取り組みを行っているという。
+
+大学、研究者、NGO と協力してこれらのフィルターを改善し、現在、Internet Watch Foundation (IWF)と協力し法律違反の疑いのあるコンテンツの特定と削除に取り組んでいる。更なるデータセットの改善と、有害なコンテンツを検出するための効率的なフィルターの開発を目指し、このコミュニティにスタンフォード大学の研究者を招待しているとのこと。
+
+現在LAIONは、違法コンテンツに対するゼロトレランスポリシーを表明し、安全性を確保するため、データセットの配布を停止しているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>Apple iPhoneやPCでLLMを利用へ　外部フラッシュメモリを使用したLLMの効率的運用手法の研究を発表</title><link>https://ledge.ai/articles/apple_llm_in_a_flash</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2532,42 +2566,7 @@ VideoPoet モデルはビデオを縦向きで生成し、その出力を短編�
 :::box
 
 :::
-</description><pubDate>Tue, 26 Dec 2023 05:14:14 +0000</pubDate></item><item><title>家事用ロボットにマジックハンドとiPhoneをマウントして学習させるフレームワーク「Dobb·E」発表ーーMetaとニューヨーク大学の共同開発</title><link>https://ledge.ai/articles/dobb-e</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ニューヨーク大学とMetaの共同研究チームは2023年11月27日に、家庭内で多様なタスクを学習できるロボット操作フレームワーク「Dobb·E」を{target=“_blank”}した。このシステムは、安価で多様な汎用性を持ち、ユーザーが示したタスクをわずか20分で学習する能力を有するという。
-
-Dobb·Eの主なインターフェースは「The Stick」と呼ばれるデモンストレーション収集ツールで、手頃な価格のリーチャーグラバー（マジックハンド）、3Dプリント部品、およびiPhoneを組み合わせて作られている。このツールは、ユーザーによるタスクのデモンストレーションを収集し、それを学習データとしてロボットに提供する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ニューヨーク市内の22軒の家庭で収集された13時間にわたるデータを使用し、「Home Pretrained Representations（HPR）」モデルをトレーニングした。このHPRモデルは、自己教師あり学習（SSL）技術を採用し、家庭環境でのタスクを効果的に学習する。
-
-約30日間にわたるニューヨーク市と周辺地域の10軒の家庭での実験では、異なる環境で計109のタスクに取り組み、そのうち102のタスクで成功を収めた。Dobb·Eは、視覚模倣学習において単純な行動クローニングのレシピを採用し、視覚表現の抽出にはResNetモデル、行動予測には2層ニューラルネットワークを使用している。このシステムは、家庭での平均成功率が81％に達した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-しかし、ロボットの力、到達範囲、バッテリー寿命などのハードウェアの制約や、曖昧なセンシング、より複雑で時間的に延長されるタスクでのポリシーフレームワークの問題など、未解決の課題も存在する。
-
-研究チームは、今後の家庭用ロボティクスの研究を促進し支援するため、コード、データ、モデル、ハードウェア設計をオープンソース化し、結果の再現を支援している。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 24 Dec 2023 06:35:57 +0000</pubDate></item><item><title>東京都教育委員会が生成AIのパイロット校に「exaBase 生成AI」導入</title><link>https://ledge.ai/articles/tokyo_metropolitan_board_of_education_adopts_exabase_gen-ai</link><description>:::small
+</description><pubDate>Tue, 26 Dec 2023 05:14:14 +0000</pubDate></item><item><title>東京都教育委員会が生成AIのパイロット校に「exaBase 生成AI」導入</title><link>https://ledge.ai/articles/tokyo_metropolitan_board_of_education_adopts_exabase_gen-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
