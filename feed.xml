@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 12 Jan 2024 14:44:24 +0000</lastBuildDate><item><title>AIのトレーニングや暗号通貨のマイニングで稼ぎながら部屋も温める「Heatbit Mini」シリコンチップをヒーターに活用</title><link>https://ledge.ai/articles/heatbit_mini</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 12 Jan 2024 14:52:55 +0000</lastBuildDate><item><title>AIのトレーニングや暗号通貨のマイニングで稼ぎながら部屋も温める「Heatbit Mini」シリコンチップをヒーターに活用</title><link>https://ledge.ai/articles/heatbit_mini</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2824,7 +2824,28 @@ CMAは、AIの急速な発展と、強力な基盤モデル（FMs）の進歩が
 
 :::box
 
-:::</description><pubDate>Tue, 12 Dec 2023 07:18:58 +0000</pubDate></item><item><title>Google「MusicFX」アイディアを数単語で指示するとAIが音楽を生成してくれるツール</title><link>https://ledge.ai/articles/google_music_fx</link><description>:::small
+:::</description><pubDate>Tue, 12 Dec 2023 07:18:58 +0000</pubDate></item><item><title>家庭向けAI囲碁ロボット「SenseRobot Go」、囲碁の日（1月５日）から日本で発売中</title><link>https://ledge.ai/articles/sense_robot_go</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+SenseRobot Japan は2023年12月20日、家庭向け囲碁ロボット「SenseRobot Go」の{target=“_blank”}を開いた。日本では2024年1月5日「囲碁の日」に高島屋などで発売開始した。価格は16万5000円。
+
+親会社である中国のAI開発会社SenseTime（商湯集団）では、Sense Robotファミリーとして、2023年6月に囲碁ロボットを{target=“_blank”}していた。
+
+SenseRobot Goは、盤面を認識するカメラ、碁石を保持できるロボットアーム、碁を打つAIを備え、人間との対戦が可能。囲碁の練習とプレイを実際のボード上で行えるように設計されており、SenseTimeの最先端技術とロボットアーム技術を活用している。
+
+プロAI囲碁エクササイズライブラリ、人間対ロボット、人間対人間（オンライン）などのゲームプレイ機能を含み、視覚、聴覚、触覚の相互作用を通じた没入型で魅力的なゲーム体験を提供する。
+
+製品は、オリンピック金メダリストの郭晶晶氏や中国囲棋協会副会長の聶衛平氏から推薦され、SenseTime会長兼CEOの徐立氏は「AIをデータセンターから家庭へと持ち込むことで、コンピューティングパワー、手と目の協調、工学的な偉業を革新する」と述べている。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 12 Jan 2024 14:52:55 +0000</pubDate></item><item><title>Google「MusicFX」アイディアを数単語で指示するとAIが音楽を生成してくれるツール</title><link>https://ledge.ai/articles/google_music_fx</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -3100,24 +3121,4 @@ KaKa Creationは、AIの活用を「工程の効率化」と捉え、人を感�
 :::
 :::box
 
-:::</description><pubDate>Fri, 01 Dec 2023 09:40:35 +0000</pubDate></item><item><title>AIと人間の共同創作「ブラック・ジャック」新作完成『TEZUKA2023プロジェクト』週刊少年チャンピオンで公開</title><link>https://ledge.ai/articles/tezuka2023_blackjack_heartbeat_markII</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-「TEZUKA2023」プロジェクトの一環として、AIと人間の協力により制作された「ブラック・ジャック」の新作『TEZUKA2023 ブラック・ジャック 機械の心臓―Heartbeat Mark II』が、2023年11月22日に「週刊少年チャンピオン」52号（秋田書店）に{target=“_blank”}。
-
-この企画は、クリエイターと「ブラック・ジャック」を学習したAI のインタラクティブなやりとりにより、「ブラック・ジャック」の新作を制作するもの。「TEZUKA2020」として2019年にスタート。
-
-2020 年7月「インタラクティブなストーリー型コンテンツ創作支援基盤の開発」として国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）「人と共に進化する次世代人工知能に関する技術開発事業」に採択され、に慶應義塾大学 栗原教授はじめ、手塚プロらが中心となるチームにて研究が継続された。
-
-2023年6月に手塚プロダクションが「TEZUKA2023」プロジェクトとして誕生50周年を迎える名作漫画「ブラック・ジャック」の完全新作の制作開始を{target=“_blank”}し、完成が待たれていた。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 29 Nov 2023 05:41:26 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 01 Dec 2023 09:40:35 +0000</pubDate></item></channel></rss>
