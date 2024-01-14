@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 12 Jan 2024 14:52:55 +0000</lastBuildDate><item><title>AIのトレーニングや暗号通貨のマイニングで稼ぎながら部屋も温める「Heatbit Mini」シリコンチップをヒーターに活用</title><link>https://ledge.ai/articles/heatbit_mini</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 12 Jan 2024 15:19:52 +0000</lastBuildDate><item><title>AIのトレーニングや暗号通貨のマイニングで稼ぎながら部屋も温める「Heatbit Mini」シリコンチップをヒーターに活用</title><link>https://ledge.ai/articles/heatbit_mini</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2151,7 +2151,36 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>人気の画像生成AIモデルが子どもの虐待画像でトレーニングされていたことが判明　スタンフォード大学調査</title><link>https://ledge.ai/articles/ai_image_generation_models_trained_on_child_abuse</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>AGI（汎用人工知能）の試金石　新しいAIベンチマーク「GAIA」をMeta等が発表　人間は92％、GPT-4は15％の正解率</title><link>https://ledge.ai/articles/meta_a_benchmark_for_genai_assistants</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2023年11月23日、MetaとHuggingFaceが共同で、新たなAIのベンチマーク「GAIA」を{target=“_blank”}した。
+
+GAIAは、AIアシスタントの性能を測定するために設計されたもので、推論、マルチモダリティ処理、Webブラウジング、一般的なツール使用のスキルなど、汎用的な力を必要とする実世界の質問を提供する。このベンチマークは、人間にとっては概念的に単純なものの、最先端のAIにとっては難易度が高いとされる。
+
+GAIAでは例えば以下のように質問される
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+質問：この1パイント容器いっぱいにアイスクリームが詰められている場合、2020年にWikipediaで報告された基準を使用したとき、アメリカ連邦基準のバターファット含有量と比較して、どれくらいの割合で上回っているか、または下回っているか？
+答えは + または - の数値で、小数点第一位までで回答してください。
+正確な答え：+4.6
+
+人間の回答者は92％の正解率を示したのに対し、プラグインを装備したGPT-4は15％に留まったという。
+この顕著な性能差は、法律や化学などの専門スキルを必要とするタスクで人間を上回る大規模言語モデル（LLM）の最近の傾向とは対照的だといえる。
+
+GAIA の哲学は、人間にとってこれまで以上に困難なタスクをターゲットにすることを提案する AI ベンチマークの現在のトレンドとは異なるという。汎用人工知能 （AGI） の出現は、そのような質問に対して平均的な人間と同様の堅牢性を示すシステムの能力にかかっていると仮定すると研究グループは述べた。
+
+GAIAは3段階の難易度に仕分けられた466の質問とその回答の組み合わせで構成されている。そのうち300の回答を非公開にしてリーダーボードに提供する。
+
+
+:::box
+
+:::
+</description><pubDate>Fri, 12 Jan 2024 15:19:52 +0000</pubDate></item><item><title>人気の画像生成AIモデルが子どもの虐待画像でトレーニングされていたことが判明　スタンフォード大学調査</title><link>https://ledge.ai/articles/ai_image_generation_models_trained_on_child_abuse</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2523,50 +2552,7 @@ nature には、AIのゴッドファーザーとして知られるサツケバ�
 :::box
 
 :::
-</description><pubDate>Wed, 27 Dec 2023 06:56:55 +0000</pubDate></item><item><title>Googleが新たな動画生成技術「VideoPoet」を発表ーー拡散モデルではなくLLMを活用</title><link>https://ledge.ai/articles/google_reserch_videopoet</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleの研究機関 Google Researchは2023年12月19日、大規模言語モデル（LLM）に基づく新たな動画生成技術「VideoPoet」を{target=“_blank”}した。
-
-VideoPoetは、テキストから動画生成、画像から動画生成、動画のスタイル化、動画のインペインティングやアウトペインティング、さらには動画から音声への変換など、幅広い動画生成タスクに対応する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-動画生成モデルの多くは「拡散モデル（Diffusion Model）」が主流であるのに対し、VideoPoetは、複数のモダリティにまたがる学習能力を持つLLMを利用している点が特徴だ。モデルの訓練には、動画や音声のトークナイザーを利用して、これらを離散トークンのシーケンスとしてエンコードし、後で元の表現に戻すことが可能となる。
-
-!
-:::small
-画像の出典：[Google Reserch Blog「VideoPoet タスク設計の詳細な説明。さまざまなタスクのトレーニングと推論の入出力を示す」
-](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html){target=“_blank”}
-:::
-
-モデルはテキスト入力を受け取り、それに基づいて動画を生成する。例えば、「タイムズスクエアで踊るアライグマ」や「ゴッホの『星月夜』を駆け抜ける馬」といったテキスト入力に基づいて、さまざまな動きやスタイルの動画が生成される。
-
-また、テキスト プロンプトに応じて、入力画像にモーションを適用して、その内容を望ましい状態に向けて編集も可能だ。
-
-左：「カメラを振り向く女性」右：「あくびをする女性」
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-VideoPoet モデルはビデオを縦向きで生成し、その出力を短編コンテンツに合わせて調整する。以下はその機能を紹介するために作成されたショートムービーだ。脚本はBardが書いている。シーンごとの内訳と付随するプロンプトのリストを備え、旅するアライグマについての短編小説を指示。生成された各プロンプトのビデオ クリップをつなぎ合わせ最終ビデオを作成したという。
-
-@
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 26 Dec 2023 05:14:14 +0000</pubDate></item><item><title>東京都教育委員会が生成AIのパイロット校に「exaBase 生成AI」導入</title><link>https://ledge.ai/articles/tokyo_metropolitan_board_of_education_adopts_exabase_gen-ai</link><description>:::small
+</description><pubDate>Wed, 27 Dec 2023 06:56:55 +0000</pubDate></item><item><title>東京都教育委員会が生成AIのパイロット校に「exaBase 生成AI」導入</title><link>https://ledge.ai/articles/tokyo_metropolitan_board_of_education_adopts_exabase_gen-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
