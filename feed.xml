@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jan 2024 11:56:13 +0000</lastBuildDate><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jan 2024 09:13:02 +0000</lastBuildDate><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2141,7 +2141,31 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>AGI（汎用人工知能）の試金石　新しいAIベンチマーク「GAIA」をMeta等が発表　人間は92％、GPT-4は15％の正解率</title><link>https://ledge.ai/articles/meta_a_benchmark_for_genai_assistants</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>日越外交樹立50周年記念活動- ズイタン大学　サイバーセキュリティラボを開設</title><link>https://ledge.ai/articles/duytan-security-lab</link><description>ズイタン大学はSUGANUMA GROUPと株式会社フォアーと共にサイバーセキュリティにおける教育および研究協力の覚書に基づいて、2023年12月11日に{target=“_blank”}を行った。
+
+このイベントは日越外交樹立50周年記念活動の一つとして認められた。
+サイバーセキュリティラボではハイスペックPCや専用サーバーやネットワークデバイスの設置等、サイバーセキュリティの教育環境において重要となる現代的かつ実践的な環境を提供することが目的となる。
+またスポンサーが提供するのは教育環境だけではなく、本プログラムに参加の優秀な学生に総額288,000USDの奨学金を授与した。
+
+開設式には学長や在ダナン日本総領事、関係各社を中心に、VTVをはじめとするベトナムの各メディアも取材に訪れていた。
+!
+:::small
+レ・グエン・バオ学長
+:::
+レ・グエン・バオ学長は、今後の大学教育・研究活動の発展においては企業の協力が非常に重要であると強調する。
+
+!
+:::small
+在ダナン日本総領事の矢ヶ部氏
+:::
+在ダナン日本総領事の矢ヶ部氏は、国境を越えベトナムと日本のサイバーセキュリティ強化に繋がるプロジェクトとなって欲しいと喜びのコメントを述べた。
+
+本プログラムが開始されて4ヶ月となるが、関係者は学生の大きな変化を感じていると言う。スキルはもちろんのこと、積極性などメンタル部分でも成長が見られているようだ。
+
+今後はより実践的な教育プログラムが開始されるといい、その成果をお土産として日本での雇用機会創出、またさらに将来的にはズイタン大学から世界へ羽ばたく人材の創出に意欲的だ。
+
+IT業界での日越外交はオフショア、いわゆる日本企業がベトナム企業へのアウトソーシングが近年親しまれてきたが、今後はサイバーセキュリティ領域での人材交流、または日本の学生がズイタン大学で学ぶなど、従来とは違う外交モデル、新しい常識がこのプロジェクトから生まれるかもしれない。
+</description><pubDate>Mon, 15 Jan 2024 09:13:02 +0000</pubDate></item><item><title>AGI（汎用人工知能）の試金石　新しいAIベンチマーク「GAIA」をMeta等が発表　人間は92％、GPT-4は15％の正解率</title><link>https://ledge.ai/articles/meta_a_benchmark_for_genai_assistants</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2520,29 +2544,7 @@ nature には、AIのゴッドファーザーとして知られるサツケバ�
 :::box
 
 :::
-</description><pubDate>Wed, 27 Dec 2023 07:15:41 +0000</pubDate></item><item><title>中学生が開発した「お薬管理ロボット」が実用新案権を取得ーー昨年の国際ロボットコンテストで世界一に</title><link>https://ledge.ai/articles/medication_management_robot_developed_by_secondary_school_students</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月12日、追手門学院大手前中・高等学校（大阪市中央区）の中学生チームが開発した「お薬管理ロボット」が実用新案権を取得したと{target=“_blank”}した。このロボットは昨年開発され、国際ロボットコンテスト「WRO（World Robot Olympiad）2022」で世界一となった。
-
-ロボット「Pal」は、医師が処方した薬を画像で認識・分別し、必要な量と種類を患者に提供する機能を有する。12月18日には、日本弁理士会の担当者が同校を訪れ、古本美月さんと水谷風花さん（現在、いずれも高校1年生）に実用新案登録証を授与。
-
-実用新案権として認められたのは「錠剤を取り出す装置」のアイデア。包装された錠剤を斜めからアームで押し出すアイデアが特に評価された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 27 Dec 2023 06:56:55 +0000</pubDate></item><item><title>東京都教育委員会が生成AIのパイロット校に「exaBase 生成AI」導入</title><link>https://ledge.ai/articles/tokyo_metropolitan_board_of_education_adopts_exabase_gen-ai</link><description>:::small
+</description><pubDate>Wed, 27 Dec 2023 07:15:41 +0000</pubDate></item><item><title>東京都教育委員会が生成AIのパイロット校に「exaBase 生成AI」導入</title><link>https://ledge.ai/articles/tokyo_metropolitan_board_of_education_adopts_exabase_gen-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
