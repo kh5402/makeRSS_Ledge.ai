@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 13 Jan 2024 07:29:23 +0000</lastBuildDate><item><title>AIの顔認識アルゴリズム、生後100日で誘拐された息子と25年ぶりの再会に貢献　年齢的変化✕遺伝的要素から現在の顔を推定</title><link>https://ledge.ai/articles/deepglint_face_recognition_algorithm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jan 2024 07:42:48 +0000</lastBuildDate><item><title>米ワコム、AIイラスト使用疑惑の指摘に説明。クリエイター「ペンタブレットの会社がAIイラストを使うとは」</title><link>https://ledge.ai/articles/wacom_purchased_ai_illustration</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ワコムは2024年1月10日、同社の米国支店公式アカウントが投稿した広告画像について、AI生成の疑いが指摘された件に関して見解を{target=“_blank”}した。
+　
+問題となった広告は、米国公式アカウントにより1月6日に投稿されたもので、龍（ドラゴン）のイラストが使用されていた。このイラストがAI生成物ではないかとの指摘がSNSユーザーからなされ、話題となった。
+
+ワコムは1984年に世界初のコードレス・ペンタブレットを発表し設立された企業で、イラスト制作用のペンタブレットなどを製造している。ペンタブレットを製造販売する同社が、クリエイターの作品ではなくAIイラストを購入したのではとSNSはクリエイターたちからの批判の声であふれた。
+
+これに対し同社は、このイラストは他社から購入したもので、AI生成物でないことを確認していたと述べた。
+しかしユーザーからは、画像がAdobe Stock から購入されていたことが指摘された。ドラゴンを公開していたクリエイターのページは、明らかにAIが生成したであろう画像で埋め尽くされていたという。該当のページはすでに削除されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+同社は、AI検出ツールによるチェックでもAIの使用は確認されなかったと説明。しかし、ユーザーからの意見を踏まえ、イラストの利用を取りやめたと発表した。この件を受け、ワコムは今後イラスト使用プロセスを見直し、更新する方針だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 14 Jan 2024 07:42:48 +0000</pubDate></item><item><title>AIの顔認識アルゴリズム、生後100日で誘拐された息子と25年ぶりの再会に貢献　年齢的変化✕遺伝的要素から現在の顔を推定</title><link>https://ledge.ai/articles/deepglint_face_recognition_algorithm</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -251,34 +279,7 @@ ELYZA社はさらに、約180億トークンの日本語テキストで追加事
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jan 2024 05:15:43 +0000</pubDate></item><item><title>OpenAI、延期していたアプリストア「GPT Store」週明けからスタート</title><link>https://ledge.ai/articles/gpt_store_launch</link><description>:::small
-画像の出典：OpenAI
-:::
-
-OpenAIは2024年1月5日、「GPTs Store」を翌週（1月第2週）より開始するとGPTs利用者向けにメールで告知した。
-
-当初2023年後半の公開を予定していたこのアプリサービスは、OpenAIのリーダーシップ変更など予期せぬ事項の対応により延期され、同年12月に、有料の顧客に宛てたメールで2024年初旬の開始を{target=“_blank”}。
-
-GPTs Storeは、ユーザーが特定の目的のためにカスタマイズされたChatGPTバージョンを作成し、公開することができる新しいプラットフォームだ。ユーザーは、ChatGPTとの会話を通して、作りたいGPTを作成でき、新たな指示や追加知識を与え、組み込むことができる。
-
-ストアでGPTを共有する場合は、以下を確認して公開するようにとのこと。
-
-・更新された{target=“_blank”}と{target=“_blank”}を確認し、作成したGPTが準拠していることを確認する。
-・ビルダーのプロフィールを確認する（設定 &gt; ビルダープロフィール &gt; 自分の名前または確認済みのウェブサイトを有効にする） 
-・GPTを「Public（公開）」として公開する（「Anyone with a link（リンクを知っている人なら誰でも）」を選択した場合、そのGPTはストアに表示されない）
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 05 Jan 2024 06:58:49 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
+</description><pubDate>Sat, 06 Jan 2024 05:15:43 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
