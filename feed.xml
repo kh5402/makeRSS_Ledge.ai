@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jan 2024 07:42:48 +0000</lastBuildDate><item><title>米ワコム、AIイラスト使用疑惑の指摘に説明。クリエイター「ペンタブレットの会社がAIイラストを使うとは」</title><link>https://ledge.ai/articles/wacom_purchased_ai_illustration</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jan 2024 11:51:42 +0000</lastBuildDate><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+大日本印刷（DNP）は2023年12月14日、生成AIの誤回答を約90%削減する新たなデータ整形技術を開発したと{target=“_blank”}した。この技術は、PDFやWordなどの異なる形式のドキュメントを生成AIが学習しやすいデータ形式に変換するものである。
+
+DNPは2023年5月に社内で生成AIを活用する環境を構築し、社内規定や品質マニュアル、決算短信などのドキュメントをこの新技術を用いて整形し、生成AIに学習させる実証実験を実施した。その結果、整形したデータを用いた生成AIは、従来の生成AIと比較して、誤回答を大幅に削減することに成功したという。
+
+以下は整形データを学習した生成AI（左下）と学習していない生成AI（右下）との回答例の比較だ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+DNPが開発したこの技術は、テキスト、画像、表組などが混在するドキュメントから、必要な要素をAIモデルを用いて分割し、生成AIが学習しやすい形に整形する。これにより、審査やコンタクトセンターなど、膨大なマニュアルやドキュメントを参照する必要がある業務での問い合わせ対応の精度と速度が向上する。
+
+2024年1月より、生成AIの導入や活用に課題を持つ企業や団体に向け、同社はこの技術の提供を開始予定とのこと。また、自治体や金融機関などドキュメントを多く扱う業界において、生成AIを活用した業務のDX促進サービスの開発も目指す。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 14 Jan 2024 11:51:42 +0000</pubDate></item><item><title>米ワコム、AIイラスト使用疑惑の指摘に説明。クリエイター「ペンタブレットの会社がAIイラストを使うとは」</title><link>https://ledge.ai/articles/wacom_purchased_ai_illustration</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -257,29 +284,7 @@ ELYZA社はさらに、約180億トークンの日本語テキストで追加事
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jan 2024 05:56:41 +0000</pubDate></item><item><title>Windowsパソコン　新たな「Copilotキー」搭載　押せばAIアシスタントが起動するAI PCの登場</title><link>https://ledge.ai/articles/microsoft_copilot-key_for_windows-pc</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Microsoftは2024年1月4日、Windows11搭載のPCに「Copilotキー」を新たに導入すると{target=“_blank”}した。Windowsキーボードへの大幅な変更は、「Windowsキー」の導入以来ほぼ30年ぶりのこと。
-
-@
-
-この新しいキーは「Windowsキー」と同様にPCキーボードの核となり、押すとWindows内のCopilot体験を呼び出し、日々の作業にAIを簡単に統合できるようになる。これにより、人々のコンピューティング体験が簡素化されるだけでなく、さらに拡大され、2024 年は AI PC の年となると執行副社長兼消費者最高マーケティング責任者のユスフ・メディ氏は述べた。
-
-1月9日から米国ラスベガスで開催されるテックイベント「CES2024」までの数日間とCESにて、パートナー企業の新しいWindows 11 PCの多くにCopilotキーが搭載されるようになるという。今月後半から春にかけて、パートナー企業のデバイスや今後発売されるSurfaceデバイスにも搭載される見込みだ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 06 Jan 2024 05:15:43 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
+</description><pubDate>Sat, 06 Jan 2024 05:56:41 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
