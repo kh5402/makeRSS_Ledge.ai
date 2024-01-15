@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jan 2024 11:51:42 +0000</lastBuildDate><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jan 2024 11:56:13 +0000</lastBuildDate><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2800,7 +2800,44 @@ CMAは、AIの急速な発展と、強力な基盤モデル（FMs）の進歩が
 
 :::box
 
-:::</description><pubDate>Tue, 12 Dec 2023 07:18:58 +0000</pubDate></item><item><title>家庭向けAI囲碁ロボット「SenseRobot Go」、囲碁の日（1月５日）から日本で発売中</title><link>https://ledge.ai/articles/sense_robot_go</link><description>:::small
+:::</description><pubDate>Tue, 12 Dec 2023 07:18:58 +0000</pubDate></item><item><title>会話するAI、運転するAI、作業するAI、創造するAI、友達になるAIの今を知る『AIのアイ』展　明日1/16からSKIPシティ映像ミュージアムで開催</title><link>https://ledge.ai/articles/ai_no_eye</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年1月16日より、SKIPシティ彩の国ビジュアルプラザ映像ミュージアム（川口市）にて、企画展「AIのアイ」が{target=“_blank”}する。ディープラーニングなどの機械学習技術を活用したAIの進化に焦点を当て、「AIのアイ（目）」つまり画像認識技術が、いかに世界を捉えているかを探求する展覧会だ。
+
+AIと画像認識技術の進化がもたらす、各分野における革新と最新のAI活用事例が紹介される。見どころは、５つのテーマでAIを知り、体験できる企画展だという。
+
+**1.会話する AI：**『ChatGPT』との会話、コミュニケーションロボット『ユニボ 』
+**2.運転する AI：**最先端の『自動運転システム 』の解説、自動運転する模型自動車『AIカー 』
+**3.作業する AI：**『AIロボット 』や 『HPR-5Pヒューマノイドロボット 』の解説、『サイバネティックヒューマン HRP-４４C』展示
+**4.創造する AI：**『DALL-E』 『Phenaki』体験、AIの『映像カラー化システム 』や描いた絵をAIが認識する 『クイックドロー 』の紹介
+**5.友だちになる AI：**パートナー ロボット 『LOVOT』
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+タイトル「AIのアイ」には、「EYE（目）」、「I（自分）」、「愛」の複数の意味が込められており、人間の能力を超えるAIの可能性と、将来的に自我や心を持つかもしれないAIの姿を示唆している。AIと人間が共に創る未来に思いを巡らすきっかけとなる企画展だという。
+
+会期：2024年1月16日（火）～2024年6月30日（日）
+開館時間：9:30～17:00（入館は16:30まで）、月曜日休館（祝日の場合は翌平日）
+会場：SKIPシティ 彩の国ビジュアルプラザ 映像ミュージアム
+入館料：大人520円／小人260円／未就学児無料（常設展示も入場可）
+問い合わせ：映像ミュージアム 048-265-2500
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 14 Jan 2024 11:56:13 +0000</pubDate></item><item><title>家庭向けAI囲碁ロボット「SenseRobot Go」、囲碁の日（1月５日）から日本で発売中</title><link>https://ledge.ai/articles/sense_robot_go</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -3067,34 +3104,4 @@ FIAはAIシステムを導入しても、最終的な判断は人間が行い、
 
 :::box
 
-:::</description><pubDate>Fri, 01 Dec 2023 10:03:00 +0000</pubDate></item><item><title>独自のAI活用アニメーション構築フローで制作の工程を効率化‐‐KaKa Creation1.6億円の資金調達完了</title><link>https://ledge.ai/articles/hinahima_kakacreation</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-KaKa Creationは2023年11月22日、約1.6億円の資金調達を完了し、AIアニメ制作事業をはじめとする制作・プロデュース事業を開始したことを{target=“_blank”}した。
-
-「AIの力で、創造する人に力を。もっと、世界をつなぐクリエイションを」というミッションのもと、同社は独自のAIアニメーション構築フローを開発し、様々なアニメコンテンツを世界に向けて展開する。AIで作業工数を削減させ、人間のクリエイターは創造的な作業に尽力できる世界を目指す。
-
-アニメ制作においては、主にTikTokやYouTube Short などのプラットフォームを中心に縦型ショートアニメの制作を行う。第一弾として、TikToker「ひなひま」という双子のアニメキャラクターを登場させた。
-
-このキャラクターは主に、CGソフトとAIソフトの2つを使用してアニメ制作を行っている。3DアニメをStable Diffusionでセルアニメに変換するというアイディアをベースにした独自のワークフローを構築。
-
-Stable Diffusion単体でのアニメ制作が難しい仕様であったため、サブツールとしてMaya（Autodesk社）、Unreal Engine5（Epic Games社）などで作成したCG映像を、AIがアニメ生成をする際の参照元データと設定。最終的にStable Diffusionでアニメを制作したという。
-
-
-@
-:::small
-{target=“_blank”}
-:::
-
-KaKa Creationは、AIの活用を「工程の効率化」と捉え、人を感動させられるのは人間の創造力と意志であると考えている。AIをサポートツールとして用いる「サポーティブAI」という概念を採用し、アニメ業界の課題解決を目指す。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 01 Dec 2023 09:40:35 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 01 Dec 2023 10:03:00 +0000</pubDate></item></channel></rss>
