@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jan 2024 11:23:25 +0000</lastBuildDate><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月26日、学校法人駿河台学園（駿台）は、エスエイティーティー（SATT）との共同開発により、記述式問題対策のAI学習教材「スルメ」で特許を取得したことを{target=“_blank”}した。
-
-この教材は、難関国公私立大入試の記述式問題対策として開発され、学習者の理解度に応じた最適な「ヒント」をAIが自動で提示する仕組みが特徴とされる。
-
-**ヒント画面（解答に行き詰った際、段階的に与えられるヒントを確認する）**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-**解答画面（タブレット上で解く。解答は手書きで、自動採点される。メモやノートを取ることも可能）**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-「スルメ」を特許取得に導いたのは、個別の学習状況及び科目特性に応じた最適な予測正答率を分析し、それに基づいて難易度調整を行うシステムの新規性と、それを裏付けるデータによるものだという。特に、電気通信大学植野真臣教授の研究を基にした予測正答率の最適化がこの特許の核心とされている。
-
-今後、駿台は「スルメ」を使用する学習者のデータに基づいて得られた分析結果を活用し、学習効果を最大化する予定だという。現在は「物理」「化学」に加えて「数学」の記述式問題に対してもこのシステムを適用し、さらに「英語」のリスニングや文法問題への適用も検討しているとのことだ。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 15 Jan 2024 02:44:39 +0000</pubDate></item><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jan 2024 11:23:25 +0000</lastBuildDate><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -292,7 +256,71 @@ Moore ThreadsのCEO張建中氏は、NVIDIAのグローバル副社長および�
 :::box
 
 :::
-</description><pubDate>Mon, 08 Jan 2024 07:53:42 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
+</description><pubDate>Mon, 08 Jan 2024 07:53:42 +0000</pubDate></item><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京大学松尾研究室発のスタートアップ ELYZAは2023年12月27日、130億パラメータを有する日本語対応の大規模言語モデル（LLM）「ELYZA-japanese-Llama-2-13b」シリーズを{target=“_blank”}した。
+
+Metaの「Llama 2」をベースにしており、ライセンスは Llama 2 Community License に準拠。研究および商業目的での利用が可能だ。
+
+同社の公開している日本語ベンチマーク「ELYZA Tasks 100」を用いたブラインド性能評価では、オープンな日本語LLMの中で最高性能を達成。数倍大きなパラメータを持つモデルよりも良い性能を達成していること、GPT-3.5（text-davinci-003）を超える性能を達成していることに注目したい。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+また、同社のブログでは、推論の高速化を実現したチャット型デモも{target=“_blank”}している。
+
+ELYZA社はさらに、約180億トークンの日本語テキストで追加事前学習を行った「ELYZA-japanese-Llama-2-13b-instruct」と、トークナイザーの改善を行った「ELYZA-japanese-Llama-2-13b-fast」も{target=“_blank”}している。今後も継続して日本語LLMの研究開発を進める予定だ​​​​という。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 06 Jan 2024 05:56:41 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月26日、学校法人駿河台学園（駿台）は、エスエイティーティー（SATT）との共同開発により、記述式問題対策のAI学習教材「スルメ」で特許を取得したことを{target=“_blank”}した。
+
+この教材は、難関国公私立大入試の記述式問題対策として開発され、学習者の理解度に応じた最適な「ヒント」をAIが自動で提示する仕組みが特徴とされる。
+
+**ヒント画面（解答に行き詰った際、段階的に与えられるヒントを確認する）**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+**解答画面（タブレット上で解く。解答は手書きで、自動採点される。メモやノートを取ることも可能）**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+「スルメ」を特許取得に導いたのは、個別の学習状況及び科目特性に応じた最適な予測正答率を分析し、それに基づいて難易度調整を行うシステムの新規性と、それを裏付けるデータによるものだという。特に、電気通信大学植野真臣教授の研究を基にした予測正答率の最適化がこの特許の核心とされている。
+
+今後、駿台は「スルメ」を使用する学習者のデータに基づいて得られた分析結果を活用し、学習効果を最大化する予定だという。現在は「物理」「化学」に加えて「数学」の記述式問題に対してもこのシステムを適用し、さらに「英語」のリスニングや文法問題への適用も検討しているとのことだ。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 15 Jan 2024 02:44:39 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1403,505 +1431,7 @@ AIエンジニアやデータサイエンティスト、及びそのチームを
 株式会社レッジ 執行役員 箕部 和也(モデレーター)
 参加費：無料
 
-!</description><pubDate>Mon, 31 Jul 2023 08:08:30 +0000</pubDate></item><item><title>【2023年12月更新】Stable Diffusionとは｜今からでも遅くない、使い方の基本と知っておくべきこと</title><link>https://ledge.ai/articles/stable_diffusion</link><description>:::small
-出典：Stablity AI
-:::
-
-最終更新日：2023年12月14日
-
-短い文で簡単な指示をするだけで魔法のように美しい風景や、写実的な人物、かわいらしい動物を描き出す「画像生成AI」。その中でも代表的なもののひとつ「Stable Diffusion（ステーブルディフュージョン）」は急速な進歩を続け、2023年も注目を浴び続けている。
-
-画像生成AIが学術研究の領域を超え、広告や娯楽などの産業分野で利用が進むなか、これから新たに学び始めたいという人も増えている。
-
-この記事ではStable Diffusionの成り立ちから、使い方の基本、さらには意図通りの画像を生成する際に役立つ便利な「プロンプト（呪文）」まで紹介してゆく。また画像生成AIの著作権問題についても取り上げる。
-
-:::box
-**目次**
-- Stable Diffusion（ステーブルディフュージョン）とは何か
-- Stable Diffusionの利用方法・どのサービスが使いやすいか
-  + 【超初心者向け】無料ですぐにStable Diffusion Onlineを使う方法
-  + 【初心者向け】DreamStudioの使い方　
-  + 【中級者向け】クラウド環境でStable Diffusion を使用する方法
-- Stable DiffusionモデルをCivitaiで商用利用可能か確認する方法
-- Stable Diffusionで使える便利なプロンプト・呪文集
-- Stable Diffusionの著作権問題
-- Stable Diffusionは今後どうなる？
-:::
-
-## Stable Diffusion（ステーブルディフュージョン）とは何か
-
-!
-:::small
-Stable Diffusionで生成したスーツを着た女性 
-:::
-
-上記の図はStable Diffusionに「プロンプト」と呼ばれる短いテキストで指示を出すことで生成した、スーツを着た男性の画像だ。
-
-Stable Diffusion、それに「Midjourney」「DALL·E2」といった最近話題の画像生成AIの多くが、テキストによる指示から意図通りの画像を生成できる「t2i（text to image）」という機能を備えている。
-
-このt2i機能によって、「Adobe Photoshop」「Adobe Illustator」などの画像編集アプリケーションを使いこなせるクリエイターでなくとも、高品質の画像を手軽に作り出せるようになった。
-
-驚異の技術を実現したのが、2020年にカリフォルニア大学バークレー校の研究者らが発表した論文「Denoising Diffusion Probabilistic Models」にもとづく「拡散モデル（Diffusion Model）」と呼ばれる仕組み。あらゆる画像はノイズが加わってゆくといずれ完全なノイズになるが、逆にノイズを取り除いてゆけば画像があらわれるという発想から、ノイズを取り除く過程をAIに学習させ、その過程をテキストなどで制御し新たに画像を生成できるようにした。
-
-!
-:::small
-出典：Denoising Diffusion Probabilistic Models
-:::
-
-Stable Diffusionは、Diffusion Modelの最も成功した応用例のひとつだ。ドイツのルートヴィヒ・マクシミリアン大学ミュンヘン（Munich University）の研究グループ「CompVis」が2021年に発表した論文「High-Resolution Image Synthesis with Latent Diffusion Models」などをもとに、英国Stability AIらが開発し、2022年にオープンソースで公開した。
-
-以降、さまざまな企業がStable Diffusionを利用したサービスを立ち上げ、今やパソコンやインターネット環境さえあれば、誰にでも手が届くものとなった。
-
-## Stable Diffusionの利用方法・どのサービスが使いやすい？
-
-Stable Diffusionの使用方法は大きく分けて以下の3種類がある。
-
-- 【初心者向け】Stable Diffusionを搭載したWebサイトを利用する方法
-- 【中級者向け】Stable Diffusionをクラウド環境で稼働させる方法
-- 【上級者向け】Stable Diffusionをローカル環境で稼働させる方法
-!
-
-Stable Diffusionを使ってローカル環境で画像を生成するにはGPUを搭載した高性能パソコンが必須である。本記事では高性能パソコンを必要としない方法を解説していく。
-
-まずはカンタンなStable Diffusionを搭載したWebサイトを紹介する。
-
-**Stable Diffusionが初心者でも使えるＷebサイト**
-|  サービス  |  価格  | 生成の自由度 | 使いやすさ | ログイン |
-| ---- | ---- | ---- | ---- | ---- |
-|  {target=“_blank”}  |  無料 |  △ |  ◯ | 不要 |
-|  {target=“_blank”}  |  無料 |  ◯ |  ◯ | 不要 |
-|  {target=“_blank”}  |  課金あり |  ◎ |  ◯ | 不要 |
-|  {target=“_blank”}  |  課金あり |  ◎ |  ◎ | 必須 |
-
-
-早速「超初心者向け」といえる「Stable Diffusion Online」で画像を生成してみよう。
-
-## 【超初心者向け】Stable Diffusion Onlineを使う方法
-{target=“_blank”}は、とにかく早くStable Diffusionを試してみたい場合に手ごろなサービス。アカウント登録は不要で、Webサイトにアクセスし画面をスクロールすると以下のようなテキストボックスがあらわれる。
-
-!
-
-テキストボックスにある[ Enter your prompt ]の部分に簡単なプロンプトを英語に翻訳して入力し、[Generate image]をクリックし10~30秒ほど待つと画像を生成できる。
-
-:::box
-プロンプト : 生成AIを使用する際に入力するテキストによる指示のこと。Stable Diffusionは、この指示の内容によって生成する画像の内容を変化させる。
-:::
-
-[雨が降る東京 東京タワー 美しい景色]→[Raining Tokyo Tokyo Tower Beautiful View]
-
-!
-:::small
-[Prompt : Raining Tokyo Tokyo Tower Beautiful View]
-:::
-
-プロンプトの通り、雨が降る夜の東京タワーの美しい景色が描かれた高品質な画像を簡単に生成できた。注意点として、 再度 [Generate image] をクリックしても同じ画像は生成できず、別の画像を生成する。
-
-なお、Stable Diffusion Onlineは手軽だが機能には制限がある。例えば生成する画像のサイズを指示したり、画像の中に出現させたくない特徴を指示するネガティブプロンプトなどを使用したりはできない。
-
-そこで次節の「初心者向け」では、より多様な機能を備えたサービス「DreamStudio」を紹介する。
-
-### 【初心者向け】DreamStudioの使い方　
-{target=“_blank”}は、Stability AIが運営するサービス。アカウントを登録すると無料で25クレジットが配布され、それらを消費することで最大125枚程度の画像が生成できる。より多くの画像を生成したい場合は有料のクレジットを購入する必要がある。
-
-!
-
-使用を始めるにはまずGoogleアカウント、またはコミュニケーションアプリケーション「Discord」のアカウントで登録、ログインする。続いてテキストボックスにプロンプトを入力し、[Dream]ボタンをクリックすれば生成が始まる。
-
-DreamStudioでは画像のサイズやStyle（画風）などさまざまな要素を指示できる。例として「夕焼け、富士山、海の美しい景色」を生成してみよう。プロンプトは英語で、「best high quality landscape, 4K, beautiful sunset, Fuji and the sea」と入力する。4Kと入力するだけで、4K画質のような画像が生成されるのが面白いところだ。
-
-:::box
-景色を生成するプロンプトのコツ：プロンプトは単語ごとにカンマ( , )と半角スペースで区切る。また上記のプロンプトでは構図の指示をしておらず、単語の並び順も不規則だが、実際は[品質]→[構図]→[被写体の種類]の順番で単語を入力する方がよい。
-:::
-!
-
-:::small
-Style Photographic シード値 4109001454 モデル SDXL Beta
-Prompt: best high quality landscape, 4K, beautiful sunset, Fuji and the sea
-画像のサイズは横長(3:2)に設定。
-:::
-
-### **Styleの変更**
-同じプロンプトで、Styleを変更してみよう。Enhance、AnimeといったStyleごとに、生成できる画像の雰囲気ががらりと変わる。
-
-!
-
-### **ネガティブプロンプトの追加**
-ネガティブプロンプトは、通常のプロンプトとは逆に、画像の中に出現させたくない特徴を指示するために用いる。
-
-例えば左下の画像は前述のプロンプトでStyleをNeon pinkにして生成した画像だが、富士山にはそぐわないヤシの木が生えている。そこでネガティブプロンプトにヤシの木（palm tree）を追加し、通常のプロンプトに松の木（pine tree）を追加して、右下の画像を生成してみる。
-
-!
-
-この通りヤシの木が消えて、富士山に似合う松の木が生えている。
-
-DreamStudioにはStyle、ネガティブプロンプトをはじめとして次のような機能がある。
-
-!
-
-:::box
-### **Basic**
-|  名称  | 説明  |
-| ---- | ---- |
-| Style | 生成する画像の画風を16種類から選択できる。 |
-| Prompt | 生成したい画像のプロンプトを入力する。 |
-| Negative prompt  | 生成したい画像に入ってほしくない要素を入力する。例えば景色だけの画像を生成したい場合「human」と入力すると画像から人物を排除する。 |
-| Upload image | 画像を入力すると画像を元にした新たな画像を生成する。また画像の入力後にあらわれる [Image Strength] という項目では、入力した画像が生成する画像に与える影響を0~100％の範囲で変更できる。 |
-| Settings | 画像の比率を変更できる。画像サイズが大きくなると使用するクレジットも増加する。 |
-| Image count | 生成する画像の数を変更できる。 |
-:::
-
-:::box
-### **Advanced**
-|  名称  | 説明  |
-| ---- | ---- |
-| Prompt strength | 入力したプロンプトへの忠実度を設定できる。 |
-| Generation steps | 画像生成のStep数を設定できる。Step数を増やすとノイズの除去回数が多くなり、生成の質が上がるが時間がかかる。生成したい画像（イラスト、景色、人物等）に合わせて調整する。 |
-| Seed  | シード値を設定できる。標準はランダム。シード値を固定すると同じ画像を生成できる。 |
-| Model | 使用するStable Diffusionのバージョンを選択できる。それぞれ消費するクレジットが異なる。Stable Diffusion v2.1 (1枚当たり0.33クレジット）／Stable Diffusion v2.1-768 (1枚当たり1.51クレジット）／SDXL（StableDiffusion XL）（1枚当たり0.83クレジット） |
-:::
-
-DreamStudioのようなWebサイトは便利だが、画像を生成しているうちにクレジットを使い切ってしまう場合がある。そこで次節「中級者向け」ではクラウド環境でStable Diffusionを使用する方法を紹介する。
-
-## 【中級者向け】クラウド環境でStable Diffusion を使用する方法   
-!
-:::small
-Stable Diffusionで生成したスーツを着た男性
-:::
-
-超初心者向けや初心者向けのWebサイトを使用しない場合、ローカル環境にGPUを搭載した高性能パソコンを用意し、Stable Diffusionを動作させるか、インターネットを通じてGPUを搭載したサーバーを使えるクラウド環境の活用が考えられる。
-
-超初心者向け、初心者向けで紹介したWebサイトを使用しない場合、ローカル環境にGPUを搭載したパソコンを用意し、Stable Diffusionを動作させるか、またはインターネットを通じてGPUを搭載したサーバーを使えるクラウド環境を活かす方法がある。
-
-ここではクラウド環境を活かす方法を取り上げる。Webブラウザ上からPythonプログラムを実行できるサービス「Google Colaboratory（Google Colab）」が手ごろだ。無料で約10時間程度までGPUを搭載したサーバーを使用できる。より自由度の高い有料版も選べる。
-
-※2023年12月12日追記
-現在は生成AIブームによるサーバーの圧迫で無料版での生成は推奨されていません。月額9.99ドルのColab Proへのアップグレードが必須です。
-
-Stable DiffusionはHugging Faceなどからダウンロードでき、すぐに画像を生成することが可能である。しかし、プロンプトの変更や画像サイズの調整、拡張機能の追加には都度プログラムの修正が必要だ。この問題を解決するために、Stable DiffusionをGUIで操作できるプログラムが有志によってオープンソースで開発されている。
-
-使い勝手の良いオープンソースのGUIプログラムとして、AUTOMATIC1111による「stable-diffusion-webui」を紹介する。さらに、stable-diffusion-webuiと拡張機能を簡単に扱うことができるGoogle Colabのノートブックも紹介する。
-
-のGitHubで「stable-diffusion-webui」とモデル、拡張機能を扱いやすくしたGoogle Colabのノートブックが紹介されている。
-今回はのノートブックを使用する。
-
-### ノートブックをコピーして保存する
-まずはAutomatic1111 WebUIのMaintained by TheLastBenを開く。
-ノートブックを開くと以下のような画面が展開される。
-!
-続いて「ファイル」→「ドライブにコピーを保存」を選択し、ノートブックをコピーする。
-!
-コピーすると、ファイル名は〇〇のコピーとなる。必要であればファイル名は変更しておく。
-!
-
-### モデルのダウンロード
-
-※Google Driveにアップロードせず、Google Colabで直接ダウンロードする方法も紹介している。
-
-:::box
-モデル: 
-Stable Diffusion、DALL-E、Midjourneyなどはいずれもプロンプトという入力データに対し画像を生成するという結果を導き出せるモデルだ。
-
-またStable Diffusionなどをもとにさらに画像を学習させ、ファインチューニング（微調整）を施したChilloutMixのようなモデルも存在する。このようなモデルは、それぞれ特定の分野の画像生成を得意とすることが多い。たとえば風景、2次元の美少女、写実的なアジア人などだ。
-:::
-
-まずはモデルをダウンロードし、Google Driveにモデルを保存する。
-モデルの検索はやで行える。
-特にCivitaiは画像生成専用のコミュニティであり、以下のようにどのようなスタイルの画像が生成できるか一目でわかるようになっているため非常に便利である。
-!
-
-
-今回は写実的な人物の生成が得意なをダウンロードして、Google Driveにアップロードする。ファイルの容量が大きいため、Google Driveへのアップロードに数十分かかる場合がある。本記事の場合、アップロード時のファイル名は「Models」で作成したが、各自がわかりやすいファイル名で保存しておこう。
-!
-
-### ノートブックを実行する
-
-次にColabolatoryにGoogle Driveを接続する。赤い枠内の実行アイコンをクリックする。Googleアカウントに接続する許可を求められるため、Googleアカウントにログインし承認する。
-これでGoogle DriveのファイルにColabolatoryからアクセスできるようになった。
-!
-
-接続後に左のファイルアイコンをクリックする。
-!
-
-ファイルアイコンをクリックし、「gdrive」から各々がモデルを保存したファイルのディレクトリを選択しパスをコピーする。
-!
-
-コピーしたパスを以下のようにPATH_to_MODELに貼り付ける。
-またパスを貼り付けなかった場合もオリジナルのStable Diffusionが実行できる。
-!
-
-### Google Driveに保存せず直接ダウンロードする方法
-CivitaiのモデルのダウンロードリンクをMODELl_LINKに貼り付けることでも実行できる。
-
-:::box
-MODEL_LINKhttps://civitai.com/api/download/models/225450?type=Model&amp;format=SafeTensor&amp;size=pruned&amp;fp=fp16
-:::
-!
-
-リンクの取得はCivitaiのダウンロードアイコンをクリックした際に表示されるモデルを右クリックし、アドレスをコピーすることで取得できる。
-
-
-最後に全ての実行アイコンを上から順にクリックしていく。
-最も下部にあるセルを実行すると約3分(モデルの容量によって異なる)でWebUIのURLが表示される。
-!
-
-
-URLをクリックし以下のような画面が展開されると実行成功である。
-あとはプロンプトを入力し「Generate」をクリックすれば画像が生成される。
-!
-
-### 画像を生成する
-
-Real Dreamで、ビジネスパーソンの画像を生成すると次のようになる。
-!
-
-スーツの広告に使用されていても気がつかないようなできばえではないだろうか。使用したプロンプトは以下の通りだ。
-
-:::box
-|   |  |
-| ---- | ---- |
-| プロンプト | professional, masterpiece, 8k, (((upper body))) ,business suit, hyperrealistic portrait of a 20yo boy, freckles, detailed face, detailed skin, photography, hq, photorealistic, street snap  |
-| ネガティブプロンプト | ※Real Dreamの作例より引用Negative prompt: make-up, big tits, public hair, maleformed limbs, low quality, drawing, painting, cartoon, 3d, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly, blurry, overexposed |
-|  設定 |  Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed:1067869139, Size: 1980x1080, Model hash: 2ab7fa3211, Model: realDream_8Legendary, Version: v1.6.1 |
-:::
-
-
-上記のプロンプトの服装や髪型、表情に当たる単語を変更すれば簡単に画像のバリエーションも作り出せる。プロンプトを工夫してうまく画像を生成するためのコツは、次節の「Stable Diffusionで使える便利なプロンプト・呪文集」で紹介している。
-
-なお、操作画面に登場するそのほかの項目の説明は以下の通りとなっている。
-
-:::box
-|  項目  | 内容  |
-| ---- | ---- |
-| Sampling method | ノイズ除去のためのアルゴリズムを変更できる。 |
-| Sampling steps | 画像生成のStep数を設定する。Step数を増やすと、ノイズの除去回数が多くなり、生成の質が上がりますが時間がかかる。出力したい画像のタイプ(イラスト、景色、人物など）に合わせて調整することで快適に画像生成できる。 | 
-| 　 | !|
-| Restore faces | 被写体の人物の顔が崩れて生成された場合に、補正できる。 | 
-| Hires.fix(Hires steps) | 画像解像度を上げる。 | 
-| 　 |  ! |
-| Batch count | 生成を何段階に分けて行うかを決定できる。 | 
-| Batch size | 1回の生成で同時に演算を行う画像の数。Batch count × Bath size = 生成する画像の数
-| CFG Scale | 入力したプロンプトへの忠実度を設定できる |
-| 　 |  ! |
-:::
-
-## Stable DiffusionモデルをCivitaiで商用利用可能か確認する方法
-
-作成した画像をSNSやブログへアップロード、又は販売したい場合はモデルの利用規約の確認が必須である。
-
-以下のようなModelsの検索結果の画面で右下に表示されているショッピングカートのアイコンをクリックする。
-
-!
-
-
-クリックすると利用規約が表示される。このモデル「」は商用利用可能であるが、このモデル自体を販売することや、このモデルをマージして新たなモデルを作成し販売することは禁じられていることがわかる。
-!
-
-
-まれに、ショッピングカートのアイコンがない場合があるが、その場合は基本的に商用利用可能である。しかし、念の為にModelsのページの説明文やLicenseも確認しておくべきだ。
-
-
-### 作例
-
-
-モデル : 
-!
-
-:::box
-|   |   | 
-| ---- | ---- |
-|  プロンプト |  professional, masterpiece, 8k, beautiful sunset, Fuji and the sea, pine tree | 
-|  ネガティブプロンプト |  Negative prompt: character, person, human ,people, hands , worst quality , low quality , normal quality , lowres , sketchs , painting  | 
-|  設定 |  Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 471629241, Size: 960x540, Model hash: 2ab7fa3211, Model: realDream_8Legendary, Version: v1.6.1| 
-
-:::
-
-モデル :
-!
-
-:::box
-|   |   | 
-| ---- | ---- |
-|  プロンプト |1girl,hair with bangs,black long dress,orange background | 
-|  ネガティブプロンプト |  1girl,hair with bangs,black long dress,orange background | 
-|  設定 |  Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3725142556, Size: 960x540, Model hash: 7c819b6d13, Model: majicmixRealistic_v7, Version: v1.6.1| 
-
-:::
-
-
-モデル :
-!
-:::box
-|   |   | 
-| ---- | ---- |
-|  プロンプト |Create an ultra-high-definition HDR 32K POV selfie, capturing an Australopithecus politician dressed in a suit, aboard a spaceship. This unique composition combines prehistoric and futuristic elements, showcasing the Australopithecus in a sophisticated suit, symbolizing a blend of the ancient and the modern. This photograph is really vivid and realistic.The setting inside the spaceship should be meticulously detailed, reflecting advanced technology and sleek design, typical of a futuristic spacecraft. The background through the window should be a breathtaking view of the sun and Earth, rendered in stunning clarity and beauty. The sunlight should bathe the interior in a warm, natural glow, highlighting the contrasts and textures of the Australopithecus' suit and the spaceship's interior.The angle of the selfie should be dynamic, giving a sense of immediacy and presence, as if the viewer is in the moment with this unusual politician. The reflection of the sun and Earth in the Australopithecus' eyes, along with the detailed expression, adds depth and character to the image.This illustration should not only capture an imaginative scene but also tell a story that juxtaposes the primitive past with a technologically advanced future, all captured in a single, powerful image. | 
-|  設定 |　Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1807778604, Size: 960x540, Model hash: a40d817f46, Model: albedobaseXL_v13, Version: v1.6.1| 
-
-:::
-
-## Stable Diffusionで使える便利なプロンプト・呪文集
-Stable Diffusionのような画像生成AIでは、プロンプトを直観的に入力した場合でも、ある程度まで意図に沿った画像を生成できる。
-
-しかし自分の頭の中で想像している構図をより適切に反映させたり、写実的で高品質な画像を生成したりしたいとなると、プロンプトの構文や単語の組み合わせに独特のコツが必要で、それが「呪文」とも呼ばれる所以になっている。現在進行形で試行錯誤が進む分野で、いまだ完璧な正解はないが、以下に基本的な例を示す。
-
-#### **プロンプトの構文の基本**
-
-**被写体が人物の場合**
-[品質]→[構図]→[モデルの数]→[モデルの外見]→[モデルのポーズ]→[背景]　の順番で構成するのが望ましい。
-
-**被写体が景色(自然や建物)の場合**
-[品質]→[構図]→[被写体の種類]の順番で構成するのが望ましい。
-
-#### **単語への注目度の変更**
-
-|  プロンプト  | 期待する効果 |
-| ---- | ---- |
-| (word) | 単語への注目度1.1倍 |
-|  ((word)) | 単語への注目度1.1倍×1.1倍 |
-|  (word:数字) |  (word:0.5)なら単語への注目度0.5倍 |
-
-#### **品質**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| 4k(8k) | 4K（8K）画質 | 4K（8K）画質になる |
-| masterpiece | 傑作・名作 | 品質が向上する |
-| best quality | 最高品質 | 品質が向上する |
-| ultra high res | 超高解像度 | 品質が向上する |
-
-#### **画風**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| photo | 写真 | 写真のような画像になる |
-| painting | 絵 | 絵のような画像になる |
-| psketches | スケッチ | スケッチのような画像になる |
-| watercolor painting | 水彩画 | 水彩画のような画像になる |
-| oil painting | 油絵 | 油絵のような画像になる |
-
-#### **構図**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| low angle shot | 低い角度から撮影 | 下から見上げた画像になる |
-| high angle shot | 高い角度から撮影 | 上から見下ろした画像になる |
-| full body shot | 全身撮影 | 被写体の全身が写る |
-| upper body| 上半身 | 被写体の上半身が写る |
-| close up of face shot | 顔に注目した撮影 | 顔がアップの写真になるる |
-
-#### **モデルの数**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| 1girl | 女性が1人 | 被写体の女性が1人になる |
-| 2girl | 女性が2人 | 被写体の女性が2人になる |
-| 1boy | 男性が1人 | 被写体の男性が1人になる |
-| 2boy | 男性が2人 | 被写体の男性が2人になる |
-
-#### **髪の長さ**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| very long hair | ベリーロングヘアー | 膝までの髪 |
-| long hair | ロングヘアー | 腰までの髪 |
-| medium hair | ミディアムヘアー | 肩までの髪 |
-| short hair | ショートヘアー | 首上までの髪 |
-| bold | 坊主 | 坊主になる |
-
-#### **髪型**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| pony tail | ポニーテール | ポニーテールになる |
-| hair bun | お団子ヘア | お団子ヘアになる |
-| twintails | ツインテール | ツインテールになる |
-
-#### **髪色**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| black hair | 黒髪 | 黒髪になる |
-| blond hair | 金髪 | 金髪になる |
-| light brown hair | 茶髪 | 茶髪になる |
-
-#### **表情**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| smile | 笑顔 | 笑顔になる |
-| evil smile | 悪い笑顔 | 笑顔になる（嘲笑） |
-| angry | 怒り | 怒った表情になる |
-
-#### **服装**
-|  プロンプト  |  日本語訳  | 期待する効果 |
-| ---- | ---- | ---- |
-| business suit | ビジネススーツ | 服装がスーツになる |
-| t-shirt | Tシャツ | 服装がTシャツになる |
-| hooded sweatshirt | パーカー | 服装がパーカーになる |
-| coat | コート | 服装がコートになる |
-
-これらの構文や単語を組み合わせることで、より意図に沿った画像を生成できる。生成の結果を見ると、まさしく呪文、魔法のように感じられるが、果たして使用する側にとってリスクはないのだろうか。次節では画像生成AIと著作権の問題について触れる。
-
-## Stable Diffusionと著作権問題
-!
-:::small
-出典：文化庁
-:::
-
-画像生成AIは急激に普及しつつあり、また専門家の予想さえ越える速さで進歩している。これまでAIに仕事を奪われるのは遠い未来の話だと考えられていたが、今や画家、イラストレーター、写真家を脅かすほどの高品質な画像が登場し始めた、という意見もある。
-
-AIに高品質な画像が生成できるようになると当然のように商業利用も始まる。重要になるのが著作権の問題だ。この分野もまだ手探りが続いており、国や地域によって法律やその解釈も異なる。
-
-ここでは文化庁の{target=“_blank”}の見解を紹介する。日本において、AIに関する著作権は「AI開発・学習段階」と「生成・利用段階」で著作物の利用行為が異なり、関係する著作権法の条文が異なるため、両者は分けて考えるべきだとされている。
-
-#### **AI開発・学習段階での著作物の利用**
-
-AI開発・学習段階とは
-
-- 著作物を学習用データとして収集・複製し、学習用データセットを作成する
-- データセットを学習に利用してAIを開発する
-
-ことを意味する。開発・学習段階の著作権は以下のように考えられている。
-
-:::box
-AI開発のための情報解析のように、著作物に表現された思想又は感情の享受を目的としない利用行為は、原則として著作権者の許諾なく行うことが可能です。(文化庁 AIと著作権 p37) 
-:::
-
-「享受」とは、著作物を通して利用者等の知的・精神的欲求を満たす効用を得ること、とされている。また享受を目的としない場合でも、「著作権者の利益を不当に害する場合」は著作権侵害に当たるとされ、著作者が明確に学習への利用を禁止している場合も該当する。
-
-「著作権者の利益を不当に害する場合」に該当するか否かについては、最終的に司法の場で個別具体的に判断される。
-
-学習が著作権侵害にあたるかどうかについて世間の注目度は高い。すでに自身の著作物が無断利用されることを危惧したイラストレーターが、イラストSNS「pixiv」上に掲載していた作品を削除・非公開にする動きが出ている。
-
-:::box
-
-:::
-
-##### **生成・利用段階での著作物の利用**
-
-生成・利用段階とは
-
-- AIを利用し画像等を生成する
-- 生成した画像等を公表、販売する
-
-ことを意味する。生成・利用段階の著作権は以下のように考えられている。
-
-:::box
-AIを利用して画像等を生成した場合でも、著作権侵害となるか否かは、人がAIを利用せず絵を描いた場合などの、通常の場合と同様に判断されます。（文化庁 AIと著作権 p43）
-:::
-
-この判断は「類似性」と、画像が既存の著作物を利用して作出されたものであるかの「依拠性」により行われる。「依拠性」をどのように考えるかについては精力的に議論が行われている。「著作物が生成AIの学習に使用されている場合は必ずその著作物への依拠性が認められる」という見解さえある。
-
-なお、私的に鑑賞するための画像を生成する等の行為は「権利制限規定」に該当し、著作者の許諾なく行うことが可能とされている。一方で生成した画像等をアップロードして公表する、販売する行為は権利制限規定に該当しない場合があり、著作者の利用許諾なく行った場合は著作権侵害となる恐れがある。こちらも最終的に司法の場で個別具体的に判断される。
-
-## Stable Diffusionは今後どうなる？
-!
-Stability AIは2023年6月に「Stable Diffusion XL（SDXL）」の最新バージョン「SDXL 0.9」を発表。併せて「SDXL1.0」を7月中旬にオープンリリースする予定も明らかにした。性能はますます向上し、より高解像度（1,024×1,024）での生成が可能になったほか、従来画像生成AIが苦手としてきた人間の手の表現などに大幅な改善が見られ、本物の写真と見分けがつかない画像をより容易に生成できるようになっている。
-
-Stable Diffusionの進歩は目を引くが、振り返ってみるとその周囲を取り巻く環境は安定しているとはいえない。著作権の問題では、写真素材（ストックフォト）大手の米国Getty Images（ゲッティイメージズ）が、Stable Diffusionの開発元Stability AIを2月に提訴した件も記憶に新しい。また本物の写真と見分けのつかない偽情報の氾濫をもたらす危惧から、米国マサチューセッツ工科大学（MIT）の研究者等は同月に「Raising the Cost of Malicious AI-Powered Image Editing」と題した論文でその機能に制限をかけるべきと主張している。これに加え欧州連合（EU）を中心に広範な法規制を望む声も高まりつつある。
-
-PhotoshopやIllustlatorなどクリエイター向けのソフトウエアを開発してきた米国Adobe Systemsは3月、Stable Diffusionに対抗するかのように独自の画像生成AI「Firefly」を公開。著作権の切れた画像とオープンライセンス画像のデータベースで学習したことを特徴として打ち出し関心を呼んでいる。
-
-:::box
-
-:::
-
-もしStable Diffusionが著作権侵害や偽情報などの問題に適切に対処できなければ、性能は向上を続けてもいずれ法規制にぶつかり、開発そのものに暗雲が垂れ込める可能性がある。そうなればFireflyをはじめ、より法的、倫理的な対応を重視する競合プロジェクトに台頭の機会を与えるだろう。
-
-革命的とも破壊的ともいえるStable Diffusionは、きわめて便利である一方、社会に大きな反響、そして反発をも呼び起こしている。仕組みや使い方について理解を深めつつも、今後の動向には注視が必要といえそうだ。
-
-</description><pubDate>Wed, 12 Jul 2023 06:02:24 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
+!</description><pubDate>Mon, 31 Jul 2023 08:08:30 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
