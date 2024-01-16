@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jan 2024 09:13:02 +0000</lastBuildDate><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jan 2024 09:13:02 +0000</lastBuildDate><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年12月26日、学校法人駿河台学園（駿台）は、エスエイティーティー（SATT）との共同開発により、記述式問題対策のAI学習教材「スルメ」で特許を取得したことを{target=“_blank”}した。
+
+この教材は、難関国公私立大入試の記述式問題対策として開発され、学習者の理解度に応じた最適な「ヒント」をAIが自動で提示する仕組みが特徴とされる。
+
+**ヒント画面（解答に行き詰った際、段階的に与えられるヒントを確認する）**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+**解答画面（タブレット上で解く。解答は手書きで、自動採点される。メモやノートを取ることも可能）**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+「スルメ」を特許取得に導いたのは、個別の学習状況及び科目特性に応じた最適な予測正答率を分析し、それに基づいて難易度調整を行うシステムの新規性と、それを裏付けるデータによるものだという。特に、電気通信大学植野真臣教授の研究を基にした予測正答率の最適化がこの特許の核心とされている。
+
+今後、駿台は「スルメ」を使用する学習者のデータに基づいて得られた分析結果を活用し、学習効果を最大化する予定だという。現在は「物理」「化学」に加えて「数学」の記述式問題に対してもこのシステムを適用し、さらに「英語」のリスニングや文法問題への適用も検討しているとのことだ。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 15 Jan 2024 02:44:39 +0000</pubDate></item><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -256,35 +292,7 @@ Moore ThreadsのCEO張建中氏は、NVIDIAのグローバル副社長および�
 :::box
 
 :::
-</description><pubDate>Mon, 08 Jan 2024 07:53:42 +0000</pubDate></item><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-東京大学松尾研究室発のスタートアップ ELYZAは2023年12月27日、130億パラメータを有する日本語対応の大規模言語モデル（LLM）「ELYZA-japanese-Llama-2-13b」シリーズを{target=“_blank”}した。
-
-Metaの「Llama 2」をベースにしており、ライセンスは Llama 2 Community License に準拠。研究および商業目的での利用が可能だ。
-
-同社の公開している日本語ベンチマーク「ELYZA Tasks 100」を用いたブラインド性能評価では、オープンな日本語LLMの中で最高性能を達成。数倍大きなパラメータを持つモデルよりも良い性能を達成していること、GPT-3.5（text-davinci-003）を超える性能を達成していることに注目したい。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-また、同社のブログでは、推論の高速化を実現したチャット型デモも{target=“_blank”}している。
-
-ELYZA社はさらに、約180億トークンの日本語テキストで追加事前学習を行った「ELYZA-japanese-Llama-2-13b-instruct」と、トークナイザーの改善を行った「ELYZA-japanese-Llama-2-13b-fast」も{target=“_blank”}している。今後も継続して日本語LLMの研究開発を進める予定だ​​​​という。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 06 Jan 2024 05:56:41 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
+</description><pubDate>Mon, 08 Jan 2024 07:53:42 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
