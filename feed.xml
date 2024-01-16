@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jan 2024 09:13:02 +0000</lastBuildDate><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jan 2024 11:23:25 +0000</lastBuildDate><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2149,7 +2149,43 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>日越外交樹立50周年記念活動- ズイタン大学　サイバーセキュリティラボを開設</title><link>https://ledge.ai/articles/duytan-security-lab</link><description>ズイタン大学はSUGANUMA GROUPと株式会社フォアーと共にサイバーセキュリティにおける教育および研究協力の覚書に基づいて、2023年12月11日に{target=“_blank”}を行った。
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>Science誌「掲載前の論文はすべてAIツールで不正画像の検出チェックする」</title><link>https://ledge.ai/articles/science_genuine_images_in_2024</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年1月4日、学術誌Scienceは、研究論文における画像の操作に関連する問題に対処するため、AI駆動の画像分析ツール「Proofig」を採用し、Science系列の全てのジャーナル6誌で不正画像チェックを行うと{target=“_blank”}した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同誌編集部は、近年の科学論文内の画像操作に対する研究コミュニティでの懸念について述べている。不注意により誤った実験画像を使用してしまう場合もあるが、意図的な誤導を目的とした改ざんも稀に発生しており、このような事件は科学に対する国民の信頼を損ない、加工画像を見逃した査読者のキャリアにも影響を及ぼすという。
+
+{target=“_blank”}は画像の複製やその他の操作をスクリーニングし、公開前の問題ある図表の検出が可能だと証明されているという。このツールは論文の査読プロセスを強化し、人間の目によるチェックの限界を補完する。
+
+研究論文が著者によって改訂された後にProofigを適用すると、ツールは画像を分析した後、重複や回転、スケールの歪み、接合などのその他の異常を示すレポートを生成する。論文の編集者はその結果を検討し、AIが検出した箇所に問題の可能性があるかどうかを判断するという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+今後、不十分な回答や追加の懸念が生じた場合は、さらに調査を行い、論文の取り下げなどの措置を取る可能性がある。また、Scienceが既に公開した論文に画像の整合性に関する懸念が生じた場合は、Proofigを用いて疑わしい画像を慎重に検証し、その後の措置（例えば訂正や撤回）に役立てるという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>日越外交樹立50周年記念活動- ズイタン大学　サイバーセキュリティラボを開設</title><link>https://ledge.ai/articles/duytan-security-lab</link><description>ズイタン大学はSUGANUMA GROUPと株式会社フォアーと共にサイバーセキュリティにおける教育および研究協力の覚書に基づいて、2023年12月11日に{target=“_blank”}を行った。
 
 このイベントは日越外交樹立50周年記念活動の一つとして認められた。
 サイバーセキュリティラボではハイスペックPCや専用サーバーやネットワークデバイスの設置等、サイバーセキュリティの教育環境において重要となる現代的かつ実践的な環境を提供することが目的となる。
@@ -2524,35 +2560,7 @@ nature には、AIのゴッドファーザーとして知られるサツケバ�
 :::
 :::box
 
-:::</description><pubDate>Fri, 29 Dec 2023 07:24:24 +0000</pubDate></item><item><title>ストリートビューの静止画を使い街角のアニメーションを生成する　ワシントン大研究チーム</title><link>https://ledge.ai/articles/animating_street_view</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月15日、ワシントン大学の研究チームが、静止したストリートビューの画像に自然に振る舞うアニメーションの歩行者と車両を追加するシステムを{target=“_blank”}した。
-
-このシステムでは、Googleストリートビューなどの静止画に映り込んでいる既存の人々や車両を画像から削除し、適切なスケール、角度、動き、外見を持つ動くオブジェクトを挿入して、経路と交通行動を計画し、現実的な閉塞と影の効果でシーンをレンダリングする。
-
-このプロセスは、ジオメトリの再構築、群衆のシミュレーション、そしてオリジナルのフレームに一貫した照明、影、閉塞を重ね合わせてリアルなビデオを合成する3つの主要な段階に分けられる。このシステムは、一つの画像またはパノラマを入力として取り、任意の長さのビデオを生成する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-研究チームは、156枚のストリートシーン画像（iPhone 12 miniのメインカメラやインターネットからの写真）でこのシステムを適用し、高い解像度での成功例を示した。
-
-ただし、このシステムは曲がった車線や坂、カメラの視界外の完全な影、自動交通方向検出などの特定のシナリオに対応していない。また、プレトレーニングされたモデルの精度に依存しているため、非ストリートレベルのカメラアングルや難しい照明条件下での画像には対応できない場合があるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 27 Dec 2023 07:15:41 +0000</pubDate></item><item><title>能登半島地震で国内初のドローンによる被災地への支援物資配送・行方不明者捜索などを実施　ブルーイノベーションなどが協力</title><link>https://ledge.ai/articles/juida_supporting_disaster-affected_areas_by_drones</link><description>:::small
+:::</description><pubDate>Fri, 29 Dec 2023 07:24:24 +0000</pubDate></item><item><title>能登半島地震で国内初のドローンによる被災地への支援物資配送・行方不明者捜索などを実施　ブルーイノベーションなどが協力</title><link>https://ledge.ai/articles/juida_supporting_disaster-affected_areas_by_drones</link><description>:::small
 画像の出典：[JUIDAのFacebookページより]
 :::
 
