@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jan 2024 11:23:25 +0000</lastBuildDate><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Jan 2024 08:26:22 +0000</lastBuildDate><item><title>Reddit 「人間の本物の会話を収録した最大規模のコーパス。無料で学習データ提供あり得ない」CEOスティーブ・ハフマン氏が強調</title><link>https://ledge.ai/articles/reddit_data_for_ai_learning_should_be_paid_for</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Redditの共同創設者であり、現在は経営者として同社を率いるSteve Huffman氏が2024年1月10日、ラスベガスで開催されたCESのVariety Entertainment Summitにて、Variety Intelligence PlatformのAndrew Wallenstein氏と{target=“_blank”}した。Redditが広告収入を得るための独自性、そしてRedditのデータをAI学習目的で利用するための方針について語った。
+
+Huffman氏は、Redditのビジネスが順調に成長していること、またRedditがソーシャルメディアではなく「コミュニティ」であると強調。Redditでは、ブランドがそのブランドを愛する人々のコミュニティと異なる方法でつながることが可能だと述べた。
+
+Redditは、ユーザーがレコメンドやアドバイスを求める場であるという性質を持つ。人生へのアドバイスを求める場合もあるが、多くは商品のレコメンドが求められる。平均で1秒に2人が商品のレコメンデーションを求め、平均19件の回答を得ているという。これは他のプラットフォームにはない特別で貴重な特徴だと同氏はいう。
+
+同氏は、Redditが「人間の本物の会話を収録した最大規模のコーパス」と表現し、所有するデータがAI学習において、非常に価値があると強調した。そして、非商用利用に関しては申請によりアクセス可能であるが、商用利用の場合は何らかの取引や合意が必要だと述べた。これは、最大の企業に無料でデータを提供して補助することを避けるためだという。また、ユーザーのプライバシーと自己のアイデンティティの管理を重視する姿勢を強調した。
+
+同氏はNew York Times対OpenAIの訴訟について言及し、Redditとしては自社のデータが無料でAIモデルのトレーニングに利用されることはないとし、IP（知的財産）所有者として、情報を無償で他者の利益のために使わせる意図はないとの立場を明らかにした。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 16 Jan 2024 08:26:22 +0000</pubDate></item><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -256,35 +277,7 @@ Moore ThreadsのCEO張建中氏は、NVIDIAのグローバル副社長および�
 :::box
 
 :::
-</description><pubDate>Mon, 08 Jan 2024 07:53:42 +0000</pubDate></item><item><title>ELYZA 商用利用可能な日本語LLM「ELYZA-japanese-Llama-2-13b」を公開</title><link>https://ledge.ai/articles/elyza_japanese_llama_2_13b</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-東京大学松尾研究室発のスタートアップ ELYZAは2023年12月27日、130億パラメータを有する日本語対応の大規模言語モデル（LLM）「ELYZA-japanese-Llama-2-13b」シリーズを{target=“_blank”}した。
-
-Metaの「Llama 2」をベースにしており、ライセンスは Llama 2 Community License に準拠。研究および商業目的での利用が可能だ。
-
-同社の公開している日本語ベンチマーク「ELYZA Tasks 100」を用いたブラインド性能評価では、オープンな日本語LLMの中で最高性能を達成。数倍大きなパラメータを持つモデルよりも良い性能を達成していること、GPT-3.5（text-davinci-003）を超える性能を達成していることに注目したい。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-また、同社のブログでは、推論の高速化を実現したチャット型デモも{target=“_blank”}している。
-
-ELYZA社はさらに、約180億トークンの日本語テキストで追加事前学習を行った「ELYZA-japanese-Llama-2-13b-instruct」と、トークナイザーの改善を行った「ELYZA-japanese-Llama-2-13b-fast」も{target=“_blank”}している。今後も継続して日本語LLMの研究開発を進める予定だ​​​​という。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 06 Jan 2024 05:56:41 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Mon, 08 Jan 2024 07:53:42 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
