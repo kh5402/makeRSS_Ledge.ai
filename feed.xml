@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Jan 2024 08:26:22 +0000</lastBuildDate><item><title>Reddit 「人間の本物の会話を収録した最大規模のコーパス。無料で学習データ提供あり得ない」CEOスティーブ・ハフマン氏が強調</title><link>https://ledge.ai/articles/reddit_data_for_ai_learning_should_be_paid_for</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Jan 2024 08:35:30 +0000</lastBuildDate><item><title>ウォルマート、Microsoftとの連携で生成AI活用。顧客向けの新しいショッピング体験ツールや従業員向けAIアシスタントツール発表</title><link>https://ledge.ai/articles/walmart_collaborates_with_microsoft_on_ai-based_product_suggestions</link><description>同社は、検索機能に生成AIを組み込むことで、利用者に有用で直感的なブラウジング体験を提供する。ウォルマート独自のデータと技術、Microsoft Azure OpenAI Serviceに含まれる大規模言語モデル、および小売り特有のモデルを組み合わせ、、顧客の要望に応じたパーソナライズされた商品セレクションを提供する。
+
+例えば、ユニコーンをテーマにした子供の誕生日パーティーを計画している親が、ユニコーンの風船、ナプキン、ストリーマーなどを個別に検索する代わりに、親は「娘のためにユニコーンをテーマにしたパーティーを計画するのを手伝って」と質問するだけで済むという。
+
+
+**例：ツールに「フットボールの試合観戦」というテーマを与えると、商品を提案される**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+ウォルマートはまた、非店舗従業員5万人に「My Assistant」という新しいアプリを導入した。このアプリは、長い文書の要約から新しいコンテンツの作成支援まで、幅広いタスクで従業員を支援する。
+
+ウォルマートとMicrosoftは、2018年に戦略的パートナーシップを確立して以来、長年の協力関係のもとデジタル変革を推進するさまざまなクラウドプロジェクトを打ち立ててきている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 16 Jan 2024 08:35:30 +0000</pubDate></item><item><title>Reddit 「人間の本物の会話を収録した最大規模のコーパス。無料で学習データ提供あり得ない」CEOスティーブ・ハフマン氏が強調</title><link>https://ledge.ai/articles/reddit_data_for_ai_learning_should_be_paid_for</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -259,25 +284,7 @@ Moore ThreadsのCEO張建中氏は、NVIDIAのグローバル副社長および�
 :::box
 
 :::
-</description><pubDate>Tue, 09 Jan 2024 11:52:50 +0000</pubDate></item><item><title>OpenAI、メディア企業への提示額わずか100万ドル　AIモデル学習のための年間ライセンス料</title><link>https://ledge.ai/articles/openai_offers_publishers_1million_a_year</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-米国メディアのThe Information は現地時間の2024年1月4日、OpenAIは自社の大規模言語モデル（LLM）のトレーニングに使用するため、いくつかのメディア企業に年間100万ドルから500万ドルの間でニュース記事のライセンスを提供していると{target=“_blank”}同社と最近交渉したメディア企業の幹部社員より情報が提供されたという。
-
-昨年7月に{target=“_blank”}と、12月に「Business Insider」の{target=“_blank”}とのパートナーシップを発表したOpenAIは、最大で12の出版社と同様の取引を目指して話し合いを進めているとのこと。
-
-一方、昨年末には米国ニューヨークタイムズ（NYT）が、OpenAIとマイクロソフトを著作権侵害で提訴した。訴状によるとNYTは、2社と交渉を試み、そのコンテンツの使用に対して公正な価値を受け取ること、健全なニュースエコシステムの継続を促進すること、そして責任ある方法で生成AIを開発することを目指していたが、これらの努力は解決に至っていないという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 08 Jan 2024 07:53:42 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Tue, 09 Jan 2024 11:52:50 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
