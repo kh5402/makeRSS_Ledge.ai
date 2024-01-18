@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Jan 2024 08:42:26 +0000</lastBuildDate><item><title>GPT Storeのオープン直後はどんなアプリが人気？　仕事のコスパ系が上位、AI彼女系は許可されず</title><link>https://ledge.ai/articles/todays_gpts_top10</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Jan 2024 08:42:26 +0000</lastBuildDate><item><title>2024年のダボス会議はAI一色　グローバルの政財界リーダーがAIが世界に与える影響を議論</title><link>https://ledge.ai/articles/wef_davos2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年1月15日、世界経済フォーラム（WEF）の年次総会であるダボス会議が{target=“_blank”}した。会期は19日まで。
+
+今年の会議では、AIが世界に与える重要な影響と、その急速な発展がクローズアップされている。AIは、生活や仕事での生産性とエンゲージメントの向上、創造性の強化など、様々な面で世界を変革する力を持っている一方で、技術の誤用、セキュリティ侵害、雇用の置き換え、経済の混乱など、未知の領域への進出に伴う潜在的な課題も存在するという。
+
+WEFの「{target=“_blank”}」によると、AIは多くの仕事を置き換える可能性がある一方で、新たな職業を生み出すことも予測されている。AIの安全で責任ある使用を確保するために、複数の試みが行われている。
+
+過去数年間、暗号通貨が会議の主要なトピックとなっていたが、2024年ダボス会議ではAIがスポットライトを浴びている。特に、2022年11月にOpenAIが発表したChatGPTの人気により、AIの台頭が顕著になった。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 17 Jan 2024 05:24:26 +0000</pubDate></item><item><title>GPT Storeのオープン直後はどんなアプリが人気？　仕事のコスパ系が上位、AI彼女系は許可されず</title><link>https://ledge.ai/articles/todays_gpts_top10</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -379,34 +398,7 @@ Uberアプリで『Uber プレミアム EV』を選択してタクシーを呼�
 :::box
 
 :::
-</description><pubDate>Tue, 09 Jan 2024 12:01:29 +0000</pubDate></item><item><title>中国GPUメーカーMoore Threads、AI向け新GPU「MTT S4000」を発表</title><link>https://ledge.ai/articles/moore_threads_mtt_s4000</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月19日、中国のGPUメーカーMoore Threadsは、「KUAE Intelligent Computing Center」の除幕式を開催し、AIおよびデータセンター向けの新しいグラフィックスカード「MTT S4000」を{target=“_blank”}した。
-
-この最新フラグシップモデルは、同社の第三世代MUSA GPUアーキテクチャと768GB/sのメモリバンド幅を利用している。計算性能は、FP32で25テラフロップス、TF32では50テラフロップス、FP16/BF16では最大200テラフロップスに達する。また、このGPUはパッシブ冷却方式を採用し、AIモデルやフレームワークをサポートするソフトウェアインフラストラクチャが整備されている。
-
-また同社は、独自の開発ツールMUSIFYがNVIDIAのCUDAエコシステムとの互換性を持つという点が特徴であると述べる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-{target=“_blank”}のレポートによると、MTT S4000は、NVIDIAが2020年にリリースしたAmpereアーキテクチャや2022年のAda Lovelaceアーキテクチャの性能には及ばない。それでも、48GBのメモリ容量と毎秒768GBのメモリ帯域幅を備えているため、AIや大規模言語モデルのトレーニングには有用であると評価した。
-
-Moore ThreadsのCEO張建中氏は、NVIDIAのグローバル副社長および中国のジェネラルマネージャーを経て、同社の設立に至った。同氏は新製品と施設の開設が、AI技術の進展と産業の成長に大きく貢献すると述べた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 09 Jan 2024 11:57:47 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Tue, 09 Jan 2024 12:01:29 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
