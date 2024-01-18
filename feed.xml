@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Jan 2024 08:42:26 +0000</lastBuildDate><item><title>2024年のダボス会議はAI一色　グローバルの政財界リーダーがAIが世界に与える影響を議論</title><link>https://ledge.ai/articles/wef_davos2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jan 2024 00:38:19 +0000</lastBuildDate><item><title>Microsoft「Copilot Pro」個人ユーザー向けのサブスク月額3200円で提供開始</title><link>https://ledge.ai/articles/microsoft_copilot_pro</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Microsoftは2024年1月15日、大企業向けに部分的に提供していたMicrosoft 365の生成AI機能拡張「Copilot for Microsoft 365」の個人向けバージョン「Copilot Pro」を{target=“_blank”}した。ユーザー1人あたり月額20ドル、日本では月額税込み3200円で利用可能となる。
+
+「Copilot Pro」は、Microsoft 365 PersonalまたはFamilyを契約しているユーザーが追加で利用できるサブスクリプションで、Word、Excel、PowerPoint、Outlook、OneNoteなどのOfficeアプリケーションで生成AI機能を使用できるようになる。
+
+無料版「Copilot」との違いは、OpenAIのGPT-4 TurboとDALL・E 3を利用した高度な画像生成機能が含まれ、ユーザーはより高いパフォーマンスの生成AI機能を活用できる点だ。また、ローコードでCopilotをカスタマイズ可能な「Copilot GPT Builder」も近々利用可能になる予定とのこと。
+
+一般法人向け Microsoft 365 サブスクリプションユーザーは、Copilot Pro では Microsoft 365 アプリで Copilot を利用できないため、注意が必要だ。一般法人向け Microsoft 365 Business サブスクリプションで Copilot を利用するには、Copilot for Microsoft 365 の購入が必要となる。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 18 Jan 2024 00:38:19 +0000</pubDate></item><item><title>2024年のダボス会議はAI一色　グローバルの政財界リーダーがAIが世界に与える影響を議論</title><link>https://ledge.ai/articles/wef_davos2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -381,24 +401,7 @@ Articul8は、大手エンタープライズ顧客がAIを運用およびスケ�
 :::box
 
 :::
-</description><pubDate>Wed, 10 Jan 2024 14:17:12 +0000</pubDate></item><item><title>国内初「UberプレミアムEV」日の丸交通と連携しサービス開始。テスラ車両をアプリから指定して配車依頼</title><link>https://ledge.ai/articles/uber-premium-ev_tesla_hinomaru</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-Uber Japanは2023年11月10日、日の丸交通と連携しハイヤー車両をアプリで配車できる「Uber プレミアム」の新メニューとして国内で初めて「Uber プレミアム EV」サービスを{target=“_blank”}した。このサービスにより、Uberアプリからテスラ車両の指定が可能となる。海外ではすでに、ハイヤー車両にEVを指定できるサービスが始まっているが、国内では初めての取り組みだという。
-
-Uberアプリで『Uber プレミアム EV』を選択してタクシーを呼ぶと、日の丸交通の電気自動車ハイヤー車両（Tesla Model Y）が配車される。初期段階で東京都内にTesla Model Y 30台が配備され、2024年には100台まで拡大予定。
-
-日の丸交通はTesla Japanの協力を得て、足立区の事業所にTeslaスーパーチャージャーを導入した。これらは「Uber プレミアム EV」専用の充電施設として活用されるほか、一般のTeslaオーナーにも開放される。Uber Japanは、この取り組みを通じて、電気自動車の活用を推進し、カーボンニュートラル社会実現への貢献を目指すとしている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 09 Jan 2024 12:01:29 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Wed, 10 Jan 2024 14:17:12 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
