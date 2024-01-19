@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jan 2024 00:38:19 +0000</lastBuildDate><item><title>Microsoft「Copilot Pro」個人ユーザー向けのサブスク月額3200円で提供開始</title><link>https://ledge.ai/articles/microsoft_copilot_pro</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jan 2024 00:42:22 +0000</lastBuildDate><item><title>Microsoft「Copilot Pro」個人ユーザー向けのサブスク月額3200円で提供開始</title><link>https://ledge.ai/articles/microsoft_copilot_pro</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2476,7 +2476,26 @@ ChatGPTを活用した自治体の試みは注目されていたが、今回の�
 :::
 :::box
 
-:::</description><pubDate>Sat, 16 Dec 2023 14:50:57 +0000</pubDate></item><item><title>Steam「AIを使用したゲームのBANは辞める」生成AI技術を使用したゲームの新たな取り扱い方法を発表</title><link>https://ledge.ai/articles/steam_will_not_reject_ai</link><description>:::small
+:::</description><pubDate>Sat, 16 Dec 2023 14:50:57 +0000</pubDate></item><item><title>「アニメチェーン構想」発表、生成AIの著作権と倫理問題に対処</title><link>https://ledge.ai/articles/anime_chain</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年1月9日、国内のAI／ブロックチェーン有識者らによる「アニメチェーン」準備委員会が、生成AIに関連する著作権や倫理的問題の解決を目指す「アニメチェーン構想」を{target=“_blank”}した。
+
+この構想は、基盤モデルを含むすべての学習をブロックチェーン技術で保証されたオプトインデータセットのみを用いることで、生成AIの透明性と正当性を確保し、コンテンツ・エコシステムのさらなる拡大を目指すものだ。
+
+構想には、クリエイターや企業が著作権や倫理的問題を懸念せずに生成AIを安心・安全に活用できる制作環境の整備を含む。さらに、アニメ制作現場の「人手不足」問題の解決にも取り組むという。
+
+「アニメチェーン構想」は、グローバルな展開を視野に入れ、欧米・アジアに加えて中東・アフリカなどもカバーする予定。最新情報は{target=“_blank”}
+を通じて公開する。今後は、クリエイターコミュニティや業界関係者との協力体制構築、ガイドライン制定、基盤モデルの試作、生成AIツールの提供などが計画されている。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 18 Jan 2024 00:42:22 +0000</pubDate></item><item><title>Steam「AIを使用したゲームのBANは辞める」生成AI技術を使用したゲームの新たな取り扱い方法を発表</title><link>https://ledge.ai/articles/steam_will_not_reject_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2764,25 +2783,4 @@ KISSのデジタルアバターの創造には、広範なモーションキャ�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Dec 2023 15:15:07 +0000</pubDate></item><item><title>AIで蘇る伝説のレーサーたちがリアルF1ドライバーとバーチャル対決「Lap of Legends」米で24年春テレビ公開予定</title><link>https://ledge.ai/articles/lap_of_legends</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国ビールメーカーAnheuser-Busch のビールブランド Michelob ULTRA は2023年11月17日、 Williams Racingとのパートナーシップを祝い、45年にわたるレースの歴史を振り返る「Lap of Legends」テレビスペシャルを公開すると{target=“_blank”}した。
-
-この番組はAIとARを利用し、実在のF1ドライバーが Williams Racingの伝説的なドライバーたちのバーチャルアバターと対決するという、リアル対バーチャルのレースを特徴としている。
-
-Michelob ULTRAとWilliams Racingが、数千時間のレース映像と歴史的データを分析し、AIを用いてF1の伝説のドライバーたちのスピード、レーシングスタイル、技術、戦略を模倣してバーチャルドライバーを作り上げた。ジェンソン・バトン、ジャック・ヴィルヌーヴ、マリオ・アンドレッティなど、F1の異なる世代のドライバーが特集される。
-
-@
-
-
-番組は、2024年春にAMC、BBCアメリカ、The Roku Channelで放映されたのち、世界28カ国で配信の予定。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 08 Dec 2023 15:07:34 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 08 Dec 2023 15:15:07 +0000</pubDate></item></channel></rss>
