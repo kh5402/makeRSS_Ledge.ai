@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jan 2024 00:45:01 +0000</lastBuildDate><item><title>米国禁止措置にもかかわらず、中国の軍事・AI研究機関がNVIDIAチップを購入していた</title><link>https://ledge.ai/articles/chinas_military_government_acquire_nvidia_chips</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jan 2024 10:12:38 +0000</lastBuildDate><item><title>米国禁止措置にもかかわらず、中国の軍事・AI研究機関がNVIDIAチップを購入していた</title><link>https://ledge.ai/articles/chinas_military_government_acquire_nvidia_chips</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2480,7 +2480,43 @@ ChatGPTを活用した自治体の試みは注目されていたが、今回の�
 :::
 :::box
 
-:::</description><pubDate>Sat, 16 Dec 2023 14:50:57 +0000</pubDate></item><item><title>「アニメチェーン構想」発表、生成AIの著作権と倫理問題に対処</title><link>https://ledge.ai/articles/anime_chain</link><description>:::small
+:::</description><pubDate>Sat, 16 Dec 2023 14:50:57 +0000</pubDate></item><item><title>アイビスペイント、生成AI利用した「AIお手本機能」を取り下げ。規約も改正「機械学習モデルの学習にユーザ創作物を利用しない」</title><link>https://ledge.ai/articles/ibispaint_has_withdrawn_ai_example_window</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年1月10日、アイビスペイントは9日にリリースしたバージョン11.2.0（App Store版、Google Play版、Microsoft Store版）に追加した「AIお手本機能」の取り下げを{target=“_blank”}した。
+
+取り下げられた「AIお手本機能」は、画像生成AIを活用し、描いている絵をもとにリアルタイムで「お手本」を生成し表示する機能。「既存のキャラクターが表示された」「アイビスペイントを使って描いたらAIで生成したと思われるのでは」といったユーザーからの反響を受けとめ、実装の中止を決定したという。現在、この機能の提供は停止されており、今後のアプリアップデートでユーザーインターフェースから削除される予定だという。
+
+!
+:::small
+画像の出典：利用者のSNSより。ibis paintのページからはすでに削除済
+:::
+
+
+
+新機能は有料のプレミアム会員（Windows版はプロアドオン）の購入が必要だったため、新機能のためにプレミアム会員またはプロアドオンを購入したユーザーには、App Store、Google Play、Microsoft Storeで返金を受け付けるとのこと。
+
+同社はこの日、1週間後の1月17日を施行日として、ibisPaintサービス利用規約の改定を行うことを{target=“_blank”}した。
+改定内容は、利用者の創作物を無断でAIモデルの学習に無断で使用しないと明記したことと、創作物のライセンスについて分かりやすく加筆修正したという2点だ。
+
+
+同社は11月20日、{target=“_blank”}を行う中で、生成AIについての考えを問われた。代表取締役社長の神谷栄治氏が回答し、同社がAI自体には取り組みたい意向を示した。すでにいくつかAI機能の追加を進めており、その内容やマーケティングには慎重を期すべきと述べた。
+
+同氏はまた「既存ユーザーは、絵を描くこと自体を楽しむ人がほとんどで、画像生成AIを歓迎しない傾向にある。しかし、仕事で使う場合の生産性の高さを求める声もあり、今後はそのようなユーザー層の利用も増えていく。双方のバランスを取りつつ、既存ユーザーが納得し、仕事にも使用できるサービスを作っていきたい」と述べていた。
+
+アイビスペイントは、スマートフォンやタブレットで使用できる無料のペイントアプリケーション。指一本でイラストが描けるほか、取り込んだ写真やイラストの色付けや編集も可能だ。また、作品は同社の運営するサイトに投稿でき、SNSの機能も有する。19言語に対応し、2023年8月末時点で累計ダウンロード数が3億4000万回を達成するなど、世界中に利用者を持つ。
+
+9月14日には、11.0.0バージョンをリリースし、AIを用いて、対象物と背景を切り分けることで、背景を簡単に透過できるフィルター機能「(人工知能)：背景透過」を追加していた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 18 Jan 2024 10:12:38 +0000</pubDate></item><item><title>「アニメチェーン構想」発表、生成AIの著作権と倫理問題に対処</title><link>https://ledge.ai/articles/anime_chain</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2771,20 +2807,4 @@ KISSのデジタルアバターの創造には、広範なモーションキャ�
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:32:42 +0000</pubDate></item><item><title>ディープニューラルネットワーク（DNN）で自然な歌声を合成『Synthesizer V AI Megpoid（メグッポイド）』12月20日発売</title><link>https://ledge.ai/articles/synthesizer_v_ai_megpoid</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年11月21日、株式会社インターネットが歌声合成データベース『Synthesizer V AI Megpoid（メグッポイド）』を12月20日に発売することを{target=“_blank”}した。
-
-「Synthesizer V AI Megpoid」は、同社と株式会社AHSが共同で開発したDNN（ディープニューラルネットワーク）を搭載した歌声合成技術による人間らしい歌唱が可能な歌声データベースだ。Synthesizer V Studio Proを使用することで、多言語歌唱、様々なボーカルスタイル、AIリテイク機能が利用できる。特に、ラップ歌唱機能は、日本語、英語、中国語のラップに対応し、リアルなラップフローの再現が可能だという。
-
-@
-
-「Synthesizer V」は、Dreamtonics株式会社が開発する強力な音声処理エンジンと直感的に操作可能なUIを併せ持つボーカルシンセサイザーで、メロディーと歌詞を入力することでオリジナルソングを作成できる。歌声合成ソフトウェア「Synthesizer V Studio Basic」が付属している。
-
-『Megpoid(GUMI)』は、声優・歌手の中島愛の声を元に制作され、2009年にVOCALOID2で登場した。VOCALOID6対応のボイスバンク「VOCALOID6 Voicebank AI Megpoid」が2022年10月に発売されている。
-
-:::box
-
-:::</description><pubDate>Fri, 08 Dec 2023 15:15:07 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 15 Dec 2023 05:32:42 +0000</pubDate></item></channel></rss>
