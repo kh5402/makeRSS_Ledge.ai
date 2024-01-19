@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jan 2024 00:42:22 +0000</lastBuildDate><item><title>Microsoft「Copilot Pro」個人ユーザー向けのサブスク月額3200円で提供開始</title><link>https://ledge.ai/articles/microsoft_copilot_pro</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jan 2024 00:45:01 +0000</lastBuildDate><item><title>米国禁止措置にもかかわらず、中国の軍事・AI研究機関がNVIDIAチップを購入していた</title><link>https://ledge.ai/articles/chinas_military_government_acquire_nvidia_chips</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年1月14日、中国の軍事機関、国営の人工知能研究機関、大学が過去1年間に米国からの輸出が禁じられているNVIDIAの半導体を小規模ながら購入していたことが、{target=“_blank”}により明らかになった。
+
+これには、米国が2022年9月に中国及び香港への輸出を禁止した高性能な「A100」および「H100」チップ、そしてそれらの禁止後に中国市場向けに開発された性能が劣るとされる「A800」および「H800」チップも含まれる。これらのチップは、特にAIモデルの訓練などにおいて競合製品よりも優れた処理能力を持つと広く認識されている。
+
+購入者には、軍事機関への関与が疑われているハルビン工業大学と電子科技大学のほか、清華大学、重慶大学、山東省人工知能研究所、無名の人民解放軍組織など、米国の輸出制限対象の機関も含まれている。ハルビン工業大学は2022年5月に深層学習モデルの訓練のために6つのA100チップを購入し、電子科学技術大学は2022年12月に1つのA100を購入している。これらの購入目的は明らかにされていない。
+
+ロイター通信の調査によると、NVIDIA自体や同社が認可した小売業者は、これらの供給業者には含まれておらず、どのようにしてこれらのチップが入手されたかは不明。米国の制限によって、中国ではこれらのチップの地下市場が出現しているという。中国の業者は以前から、NVIDIAが米国の大手企業に大量に出荷した余剰在庫を市場で入手するか、インド、台湾、シンガポールなどに設立された企業を通じて輸入しているとのこと。
+
+一方NVIDIAは、すべての適用される輸出管理法を遵守し、顧客にも同様の遵守を要求しているとロイターの取材に答えている。もし顧客が第三者への不法な再販を行っていたことが判明した場合、同社は即座に適切な措置を取るという。米国商務省はコメントを拒否した。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 18 Jan 2024 00:45:01 +0000</pubDate></item><item><title>Microsoft「Copilot Pro」個人ユーザー向けのサブスク月額3200円で提供開始</title><link>https://ledge.ai/articles/microsoft_copilot_pro</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -383,25 +405,7 @@ Ballieは個人用ホームアシスタントとして機能し、家中を自�
 :::box
 
 :::
-</description><pubDate>Wed, 10 Jan 2024 16:25:03 +0000</pubDate></item><item><title>インテルが生成AIで新会社　米デジタルブリッジと設立</title><link>https://ledge.ai/articles/intel_articl8</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国インテルとデジタルブリッジ・グループは2024年1月3日、エンタープライズ顧客向けに全面的に最適化されたセキュアな生成AIソフトウェアプラットフォームを提供する独立企業「Articul8 AI, Inc.（Articul8：アーティキュレイト）」の設立を{target=“_blank”}した。
-このプラットフォームは、顧客のデータ、トレーニング、推論を企業のセキュリティ境界内に保持し、クラウド、オンプレミス、ハイブリッドのデプロイメントを選択できる​​。
-
-Articul8は、インテルで開発された知的財産（IP）と技術を基に作られ、両社は市場へのアプローチと生成AIのエンタープライズ導入を推進するために戦略的に連携を続ける。アーティキュレイトのCEOには、インテルのデータセンター・AIグループで副社長兼ゼネラルマネージャーだったアルン・サブラマニアンが就任した​​。
-
-同氏は、Articul8のデザイン哲学の柱となる「4つのS」を「Speed (of deployment)」「 Scalability（規模の拡張性）」「Security」「Sustainable Cost（持続可能なコスト）」と{target=“_blank”}している。
-
-インテルのCEOパット・ゲルシンガー氏は「深いAIとHPCの専門知識、およびエンタープライズグレードの生成AIデプロイメントを持つArticul8は、インテルおよび広範な顧客とパートナーのエコシステムに実質的なビジネス成果を提供する立場にある」と述べ、今後もArticul8との連携に期待を見せた。
-
-Articul8は、大手エンタープライズ顧客がAIを運用およびスケールアップするためのスピード、セキュリティ、コスト効率を提供するGenAIソフトウェアプラットフォームを提供。このプラットフォームは、インテル® Xeon® スケーラブルプロセッサーやインテル® Gaudi® アクセラレーターを含むインテルのハードウェアアーキテクチャ上で最適化されて発売され、さまざまなハイブリッドインフラストラクチャをサポートする​。
-
-:::box
-
-:::
-</description><pubDate>Wed, 10 Jan 2024 14:17:12 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Wed, 10 Jan 2024 16:25:03 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
