@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jan 2024 10:12:38 +0000</lastBuildDate><item><title>米国禁止措置にもかかわらず、中国の軍事・AI研究機関がNVIDIAチップを購入していた</title><link>https://ledge.ai/articles/chinas_military_government_acquire_nvidia_chips</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jan 2024 10:31:20 +0000</lastBuildDate><item><title>AI inside、生成AI搭載「DX Suite」の大型アップデート。ファイル転記など新機能を実装しデータ化の後もワンストップで自動化</title><link>https://ledge.ai/articles/ai-inside_dxs-majour-update</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+AI inside株式会社は2024年1月17日、AI-OCRサービス「DX Suite」に生成AIを実装した大型アップデートを行い、AI-OCR市場を再定義する技術革新を実現したと{target=“_blank”}した。このアップデートにより、学習不要であらゆるフォーマットの書類の読み取り、後続業務のデータ処理の自動化が可能になるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+「DX Suite」の最新バージョンは、従来のAI-OCR機能を大幅に強化し、定型・非定型に関わらずあらゆる書類を読み取る。これまで技術的に難易度が高くデジタル化が遅れていた非定型書類もAI-OCR市場として本格的に包含し、業務のデジタル化を推進する。
+
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+読み取った書類データをExcelファイルに自動転記する新機能や、要約機能、クレーム有無の判定機能など、生成AIを活用した多様な新機能の追加を予定している。
+
+AI-OCR後のデータ処理の自動化だけでなく、業務で利用頻度の高いOfficeファイル・音声ファイルへの対応も計画しており、取り扱えるデータの種類を増やすという。これら生成AIを活用した新機能群を「Extensions」とし、「DX Suite」の適用業務のさらなる拡張を目指す。
+
+処理スピードは従来比で60%向上し、ユーザーインターフェースも改善。加えて、ユーザー専用のスケーラブルなクラウド環境を即座に提供可能となり、大量の書類を読み取るユーザーにはコスト削減にもつながるとのこと。
+
+DX Suiteユーザーは「Extensions」を2024年3月31日まで無料で利用できる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Jan 2024 10:31:20 +0000</pubDate></item><item><title>米国禁止措置にもかかわらず、中国の軍事・AI研究機関がNVIDIAチップを購入していた</title><link>https://ledge.ai/articles/chinas_military_government_acquire_nvidia_chips</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -371,41 +407,7 @@ GPTストアはApple App StoreやGoogle Playに類似した運営が予定され
 :::box
 
 :::
-</description><pubDate>Thu, 11 Jan 2024 13:00:43 +0000</pubDate></item><item><title>今年の主役は生成AI　世界最大級IT家電見本市「CES 2024」ラスベガスで開催中</title><link>https://ledge.ai/articles/ces2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-毎年1月にCTA（Consumer Technology Association：全米民生技術協会）が主催する世界最大級のIT家電見本市「CES2024」が、今年は2024年1月9日よりラスベガスで{target=“_blank”}されている。
-
-世界中から4000以上の企業が集まり、AI、持続可能性などの分野での革新的な技術やパートナーシップを披露している。約13万人の出席者とメディアが、これら企業のストーリーを目の当たりにしている。
-
-CTAの会長兼CEOのゲイリー・シャピロ氏は、「CES 2024では、出展者、出席者、メディアを一堂に集め、明日の技術と、今日の最大の課題を解決する革新を展示し夢見る場を提供している」と述べた。CESは、BtoBおよびBtoCの接続を構築するための絶好の場所となる。
-
-## EVに生成AI搭載　ソニー・ホンダモビリティ
-CES2024には、日本からも多数の企業が出展する。開幕日に先駆け、ソニー・ホンダモビリティ株式会社（以下、SHM）は1月8日、「AFEELA Prototype」を{target=“_blank”}した。同社の代表取締役社長兼COO川西泉氏は「人とモビリティの関係を再定義する」というテーマの下、AI活用のADAS開発進捗と創造的なエンタテインメント空間としてのモビリティの可能性について語った。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-同社はまた、マイクロソフトとの対話型パーソナルエージェント開発に関する連携を{target=“_blank”}した。SHMはMicrosoft Azure OpenAI Serviceを活用し、モビリティをインタラクティブな存在へと進化させることを目指す。人とモビリティの関係を再定義し、「感動体験」を高めることが目的だという。
-マイクロソフトの コーポレートバイスプレジデント、ジェシカ・ホーク氏は、AIがモビリティ業界の進化において重要な役割を果たすと強調し、SHMとの連携に誇りを持っていることを表明した。両社は、安全で責任あるAIの実現を最優先事項としている。
-そのほかSHMは、Epic Gamesとの協業による車内の新しいユーザーエクスペリエンスの創出、ポリフォニー・デジタルとの車両開発における協業など、多岐にわたる技術進化が進行中とのこと。
-
-## スマートホームのAIアシスタント「Ballie」サムスン電子 
-同じく1月8日、韓国のサムスン電子は、ラスベガスのマンダレイベイホテルで開催された記者会見にて、自宅用AIコンパニオンロボット「Ballie」の新バージョンを{target=“_blank”}した。
-
-かつてBallieはCES 2020でローリングAIロボットとして初めて紹介された。このたびAIコンパニオンとして紹介されたBallieは、ユーザーの生活を賢くナビゲートするために進化した新機能が追加されている。
-
-@
-
-Ballieは個人用ホームアシスタントとして機能し、家中を自律的に移動しながら様々なタスクを完了する。家電製品と接続し、管理することで、Ballieは様々な状況でユーザーを支援する。ユーザーのパターンや習慣から学習し、よりスマートで個人に合わせたサービスを提供する。
-
-
-:::box
-
-:::
-</description><pubDate>Wed, 10 Jan 2024 16:25:03 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Thu, 11 Jan 2024 13:00:43 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
