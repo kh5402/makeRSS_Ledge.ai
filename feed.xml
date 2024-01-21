@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jan 2024 10:31:20 +0000</lastBuildDate><item><title>AI inside、生成AI搭載「DX Suite」の大型アップデート。ファイル転記など新機能を実装しデータ化の後もワンストップで自動化</title><link>https://ledge.ai/articles/ai-inside_dxs-majour-update</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jan 2024 12:30:24 +0000</lastBuildDate><item><title>AI inside、生成AI搭載「DX Suite」の大型アップデート。ファイル転記など新機能を実装しデータ化の後もワンストップで自動化</title><link>https://ledge.ai/articles/ai-inside_dxs-majour-update</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1802,7 +1802,50 @@ AI関連の新機能として「Suggested Reviewers」「Explain This Code」「
 :::
 :::box
 
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>Google DeepMindの「ロボット憲法」 アシモフのロボット三原則の拡張が生成AI時代を支える</title><link>https://ledge.ai/articles/googledeepmaind_robot-constitution</link><description>:::small
+:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>LLMを最新の大学入試共通テストで比較　GPT-4がTOPも医師国家試験合格の実力にしては若干物足りない？</title><link>https://ledge.ai/articles/llms_took_the_common_test_2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社LifePromptは2024年1月16日、複数の大規模言語モデル（LLM）に大学入試共通テストを受けさせた結果を同社のnoteで{target=“_blank”}した。受験したのはGPT-4、Google Bard、Claude2の３つのモデルで、それらの性能比較が行われた。
+
+GPT-4は他の２つのモデルをすべての科目で上回り、数学以外の科目では実際の受験者平均点（河合塾予想）を大きく上回った。しかし、数学はどのAIもほとんど得点できず、共通テスト特有の解答形式への対応が課題とされた。また、AI全体として、複数の処理を同時に求められる問題に苦戦している様子が見受けられたという。
+
+GPT-4が他を上回る点について同社は
+・GPT-4の生成AIとしての性能がシンプルに高い
+・他のAIに比べてプロンプトや効果的な活用方法が研究されているため、ポテンシャル発揮率が高かった
+と分析している。
+
+また、数学科目に関してはどのAIもほとんど得点できなかった理由を
+・生成AIの計算スキルが高校数学の範囲を簡単に解けるレベルまで進化していなかった
+・共通テスト数学の特殊な解答形式に対応できなかった
+と説明している。
+
+GPT-4は高い精度で明確な根拠を示して回答し、質問に対して時間をかけて考える傾向があった。一方、Google Bardは会話形式の長文や一部の単語に拒否反応を示す傾向があり、Claude2は自分の見解を強く押し出して回答する特徴があったという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+この試験結果から、現行AIの得意不得意が明確になった。単純な知識問題や読解問題はAIが高い得点を記録したが、複数の処理を同時に求められる問題ではパフォーマンスが低下したとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+それにしても、2023年5月の発表では、GPT-4は過去5年分の医師国家試験に合格する実力があるはずだ。それより簡単なはずの共通テストでこの水準では、正直期待を裏切られた感は否めない。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Jan 2024 12:30:24 +0000</pubDate></item><item><title>Google DeepMindの「ロボット憲法」 アシモフのロボット三原則の拡張が生成AI時代を支える</title><link>https://ledge.ai/articles/googledeepmaind_robot-constitution</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2160,46 +2203,7 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::
 :::box
 
-:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>心を読むAI「DeWave」脳波を読み文字に起こすフレームワークを発表　シドニー工科大学</title><link>https://ledge.ai/articles/uts_dewave_brain-gpt</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-シドニー工科大学の研究者は2023年12月12日、心を読むAI「DeWave」を{target=“_blank”}した。これは、無言で思考する人の脳波をデコードしてテキストに変換できる​非侵襲的かつ携帯可能なシステムだという​​​。
-
-この技術は、病気や怪我（脳卒中や麻痺など）により話すことができない人々のコミュニケーション支援の可能性を広げるという。また、バイオニックアームやロボットなどの機械とのシームレスなコミュニケーションを可能にすることもできる。
-
-この研究は、12月10日から16日に米国ニューオーリンズで開催されたAIと機械学習の研究を紹介する学会「NeurIPS会議」の注目論文に選ばれた。
-
-研究への参加者は帽子状の脳波計（脳の電気的活動を頭皮から記録する計測器・EEG）を装着して、テキストの一節を静かに読むという実験に参加した。この様子は動画でも公開されている。
-
-@
-
-脳波は、特定の特徴やパターンをキャプチャするために個別のユニットに分割される。これは、研究者たちによって開発されたDeWaveというAIモデルが行う。DeWaveは、大量のEEGデータから学習し、EEG信号を単語や文に翻訳する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-これまで、脳信号を言語に変換するためには、脳に電極を埋め込む手術や、大きくて高価なMRIを使用する必要があった。その場合は、視線追跡などの追加の支援も必要であった。しかしこの新しい技術では、視線追跡も不要で使用可能だという。
-
-研究は29人を対象に行われている。EEG波は個人によって異なることから、これまでの技術よりも堅牢で適応可能であることを示すとのこと。EEG信号は帽子を通して受信するため、信号にノイズは乗るがEEG翻訳の性能は最新の基準を上回っているという。
-
-
-研究者は、モデルが名詞よりも動詞のマッチングに優れていると述べる。名詞は「著者」の代わりに「その人」など、正確な翻訳ではなく同義語のペアを使用する傾向が見られたという。このことから、脳が意味的に類似した単語が同様の脳波パターンを生成する可能性を示唆した。このモデルは、キーワードを整理し、類似の文構造を形成することで、意味のある結果をもたらしているという。
-
-翻訳の精度スコアは現在BLEU-1で約40%であるが、研究者たちはこれが伝統的な言語翻訳や音声認識プログラムに匹敵するレベル、つまり約90%に改善可能だと考えているとのことだ。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 31 Dec 2023 02:14:59 +0000</pubDate></item><item><title>生成AIの進展と社会への影響促進を目指す「一般社団法人Generative AI Japan」設立ーー日本全体の産業競争力を高める</title><link>https://ledge.ai/articles/generative_ai_japan</link><description>:::small
+:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>生成AIの進展と社会への影響促進を目指す「一般社団法人Generative AI Japan」設立ーー日本全体の産業競争力を高める</title><link>https://ledge.ai/articles/generative_ai_japan</link><description>:::small
 画像の出典：一般社団法人　Generative AI Japan
 :::
 
