@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jan 2024 12:30:24 +0000</lastBuildDate><item><title>AI inside、生成AI搭載「DX Suite」の大型アップデート。ファイル転記など新機能を実装しデータ化の後もワンストップで自動化</title><link>https://ledge.ai/articles/ai-inside_dxs-majour-update</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jan 2024 12:30:24 +0000</lastBuildDate><item><title>Meta CEOザッカーバーグ氏、汎用人工知能（AGI）とオープンソースを語る。次世代AIモデル「Llama 3」とスマートグラスの進捗も</title><link>https://ledge.ai/articles/meta_keen_to_develop_agi</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+MetaのCEOマーク・ザッカーバーグ氏は現地時間の2024年1月18日、同社のAIに関する最新情報をInstagramで{target=“_blank”}した。
+
+同氏によると、Metaの長期的なビジョンは、汎用人工知能（AGI）を構築し、それを責任を持ってオープンソース化し、広く利用可能にすることだという。この目的を支援するため、同社は2つの主要なAI研究プロジェクト（FAIRとGenAI）をより密接に連携させている。
+
+現在、Metaは次世代モデル「Llama 3」のトレーニングを行っており、将来のロードマップを支えるための大規模なコンピューティングインフラを構築中で、今年中には35万個のNVIDIAのGPU「H100」を35万枚投入するとのこと。同社の保有する他のGPUを含めると約60万個のH100相当のリソースになるという。
+
+さらに、AGIを活用するための新しいAI中心のコンピューティングデバイスの必要性に触れ「これにより、AIとメタバースが結びつく」と語った。Ray Ban Metaスマートグラスなどの開発進捗についても触れ、「もっと多くのことが近々発表される予定だ」と語り、MetaのAI技術の進化に対する強い意欲を示した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Jan 2024 12:15:48 +0000</pubDate></item><item><title>AI inside、生成AI搭載「DX Suite」の大型アップデート。ファイル転記など新機能を実装しデータ化の後もワンストップで自動化</title><link>https://ledge.ai/articles/ai-inside_dxs-majour-update</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -382,32 +402,7 @@ Heatbitの将来の{target=“_blank”}としては、コンピューティン�
 :::box
 
 :::
-</description><pubDate>Thu, 11 Jan 2024 07:18:04 +0000</pubDate></item><item><title>OpenAI カスタムチャットボットのマーケットプレイス「GPTストア」ついに開店</title><link>https://ledge.ai/articles/openai_introduces_the_gpts_store</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年1月10日、GPTストアの開始を{target=“_blank”}した。ユーザーがChatGPTをベースにしたチャットボットをカスタマイズし、それを公開して収益化を可能にする。
-
-GPTストアには、OpenAIのパートナーやコミュニティによって開発された300万以上のカスタムGPTが含まれている。同社は2023年11月にGPTs（GPT Builder）を発表し、当初ストアも11月に開店予定だったが、OpenAI社内の調整などにより2024年初頭まで遅れた。その間、実に300万以上のカスタムGPTが作成された。
-
-同社はこの日「ChatGPT Team」という有料版の新しいプランを{target=“_blank”}した。GPTストアの利用は、このプラン含め、ChatGPT Plus、ChatGPT Enterpriseの３つの有料版会員を対象としている。
-
-2024年第1四半期には、GPTsの収益プログラムが開始される予定で、開発者は公開した自分たちのカスタムGPTから収益が得られるようになる。具体的な収益モデルの詳細はまだ明らかにされていないが、ユーザーのGPTへのエンゲージメントに基づいて、まずは米国のビルダーに支払いが行われる予定だという。
-
-GPTストアはApple App StoreやGoogle Playに類似した運営が予定されており、カテゴリ別にアプリを閲覧できる。カテゴリには、執筆、研究、プログラミング、教育、ライフスタイル、およびDall-Eなどが含まれる。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 11 Jan 2024 13:00:43 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Thu, 11 Jan 2024 07:18:04 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
