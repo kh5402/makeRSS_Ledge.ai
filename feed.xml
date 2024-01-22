@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 20 Jan 2024 14:55:33 +0000</lastBuildDate><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jan 2024 02:46:45 +0000</lastBuildDate><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2471,7 +2471,28 @@ ChatGPTを活用した自治体の試みは注目されていたが、今回の�
 :::
 :::box
 
-:::</description><pubDate>Sat, 16 Dec 2023 14:50:57 +0000</pubDate></item><item><title>芥川賞受賞作品『東京都同情塔』、内容にも手法にも生成AIの影響 九段理江氏「5％は生成AIの文章そのまま」「利用しながらも自分の創造性を発揮できるように」</title><link>https://ledge.ai/articles/akutagawa_prize-winning_works_use_genai</link><description>:::small
+:::</description><pubDate>Sat, 16 Dec 2023 14:50:57 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+2024年1月15日、AI Picasso株式会社は、AIお絵描きアプリ「AIピカソ」内で、1枚の全身画像からダンス動画を生成する「AIダンス」機能を{target=“_blank”}した。
+
+@
+
+AIダンスは、ユーザーがアプリ内に写真をアップロードするだけで、様々なタイプのダンス動画を自動生成する。特に全身写真を使用すると、高品質の動画が得られる。同社によれば、2023年12月時点で、AIダンス機能を入れた一般ユーザーが楽しめるモバイルアプリとしては世界初のリリースだという。
+
+2022年に設立されたAI Picasso株式会社は、画像生成AIサービス「AIピカソ」「AI素材.com」を運営している。AIダンスを通じて新しいコミュニケーションの形成に貢献し、今後もダンスパターンの拡大や精度向上を目指すとしている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 22 Jan 2024 02:46:45 +0000</pubDate></item><item><title>芥川賞受賞作品『東京都同情塔』、内容にも手法にも生成AIの影響 九段理江氏「5％は生成AIの文章そのまま」「利用しながらも自分の創造性を発揮できるように」</title><link>https://ledge.ai/articles/akutagawa_prize-winning_works_use_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2793,25 +2814,4 @@ Microsoftのサービスは今後数週間で拡大していく予定だとい�
 :::box
 
 :::
-</description><pubDate>Fri, 22 Dec 2023 13:22:14 +0000</pubDate></item><item><title>NTTのデジタルツイン技術「Another Me®」による「獅童ツイン」の進化 - 超歌舞伎2023</title><link>https://ledge.ai/articles/cho-kabuki2023_nakamura-shido-twin</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-伝統芸術の歌舞伎とNTTの最先端技術を用いた演出が融合する「{target=“_blank”}」が2023年12月3日、東京・歌舞伎座で初日を迎えた。NTTが提供するデジタルツイン技術「Another Me®」を活用した、中村獅童氏のデジタルツイン「獅童ツイン」が昨年に続き獅童氏本人の演出をサポート。今回の公演では、獅童ツインが同時通訳を務めるという。
-
-@
-:::small
-松竹チャンネル：{target=“_blank”}
-:::
-
-NTTは、IOWN（アイオン：Innovative Optical &amp; Wireless Network）構想の柱の一つとして、現実世界（リアル）のツイン（双子）をデジタル上に構築するデジタルツインコンピューティング（DTC）構想を提唱し、その実現に向けた研究開発を推進している。「超歌舞伎2022」から{target=“_blank”}された「獅童ツイン」は、中村獅童氏本人の動作や特徴を学習し、声も身振りもAIで生成したデジタル空間上に再現される。
-
-Another Me®の目標は、時間・空間やハンディキャップなどの制約を越え、自己実現や成長の機会を拡張することにある。そのための要件として「本人性」「自律性」「一体性」が設定され、これらが獅童ツイン開発において重要視された。特に、本人性の実現に注力し、中村獅童氏の外面的特徴や身振り手振り、音声を再現するため、約半日間のスタジオ収録を行い、3D CGモデルと機械学習モデルが構築された。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 15 Dec 2023 05:48:06 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 22 Dec 2023 13:22:14 +0000</pubDate></item></channel></rss>
