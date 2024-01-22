@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jan 2024 12:30:24 +0000</lastBuildDate><item><title>Meta CEOザッカーバーグ氏、汎用人工知能（AGI）とオープンソースを語る。次世代AIモデル「Llama 3」とスマートグラスの進捗も</title><link>https://ledge.ai/articles/meta_keen_to_develop_agi</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 20 Jan 2024 14:55:33 +0000</lastBuildDate><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+サムスン電子とGoogle Cloudは米国時間の2024年1月17日、新しい複数年にわたるパートナーシップを{target=“_blank”}した。
+
+サムスンは、カリフォルニア州サンノゼで開催した新製品発表会「Galaxy Unpacked」で、最新スマートフォン「Galaxy S24 シリーズ」を発表した。このシリーズを皮切りに、サムスンはクラウド経由で Vertex AI の「Gemini Pro」と「Imagen 2」をスマートフォン端末に展開する初の Google Cloud パートナーとなる。
+
+マルチモーダルAIの Gemini は、テキスト、コード、画像、動画など、さまざまな種類の情報を一般化してシームレスに理解、操作し、組み合わせることができる。ユーザーは、サムスン純正のアプリをはじめ、ノート、ボイスレコーダー、キーボードで要約機能を利用可能。また、Vertex AI の Gemini Pro は、セキュリティ、安全性、プライバシー、データ コンプライアンスを含む Google Cloud の重要な機能をサムスンに提供するという。
+
+また、Galaxy S24シリーズのユーザーは、Google DeepMindの最先端のテキストから画像への変換技術であるImagen 2からも直ちに恩恵を受ける。Imagen 2 on Vertex AIを使用することで、サムスンは安全かつ直感的な写真編集機能をユーザーの手に届ける。
+
+このパートナーシップの一環として、サムスンは、複雑なタスクに対応する最も優れたモデルであるGemini Ultraのテストを行う最初の顧客の一つでもある。S24シリーズはまた、Android 14オペレーティングシステムの一部として提供されるオンデバイスLLMであるGemini Nanoも使用予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 20 Jan 2024 14:55:33 +0000</pubDate></item><item><title>Meta CEOザッカーバーグ氏、汎用人工知能（AGI）とオープンソースを語る。次世代AIモデル「Llama 3」とスマートグラスの進捗も</title><link>https://ledge.ai/articles/meta_keen_to_develop_agi</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -385,24 +406,7 @@ DeepGlintは、この技術を用いて、AIによる家族捜索プロジェク
 
 :::
 
-</description><pubDate>Sat, 13 Jan 2024 07:29:23 +0000</pubDate></item><item><title>AIのトレーニングや暗号通貨のマイニングで稼ぎながら部屋も温める「Heatbit Mini」シリコンチップをヒーターに活用</title><link>https://ledge.ai/articles/heatbit_mini</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国スタートアップ Heatbitが、AIモデルの訓練やビットコインのマイニングによって発生した熱を利用して部屋を暖める空気清浄機能付き電気ヒーター{target=“_blank”}を2023年4月に開発した。暖房に対して 50% のキャッシュバックを生成するとし2024年1月10日、「CES2024」のイノベーションアワードを{target=“_blank”}した。
-
-このヒーターは、360度の柔らかい空気の流れで部屋全体を暖める。古いコイル技術を使用せず、iPhoneやMacに搭載されている最先端のシリコンチップを利用しており、ビットコインのマイニングやAIの訓練といった計算処理を行う際に発生する熱を利用している。
-
-Heatbitの将来の{target=“_blank”}としては、コンピューティングを利用して暖房と冷房を提供するエアコンの開発も予定されており、ユーザーに一年中収益をもたらすことを目指すという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 11 Jan 2024 07:18:04 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Sat, 13 Jan 2024 07:29:23 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
