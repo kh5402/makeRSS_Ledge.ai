@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jan 2024 02:46:45 +0000</lastBuildDate><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jan 2024 02:51:40 +0000</lastBuildDate><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2202,7 +2202,35 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::
 :::box
 
-:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>生成AIの進展と社会への影響促進を目指す「一般社団法人Generative AI Japan」設立ーー日本全体の産業競争力を高める</title><link>https://ledge.ai/articles/generative_ai_japan</link><description>:::small
+:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>OpenAI、2024年の世界的な選挙に向けた取り組みを発表</title><link>https://ledge.ai/articles/how_openai_is_approaching_2024worldwide_elections</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国OpenAIは2024年1月15日、世界中の選挙におけるAIの乱用防止、AI生成コンテンツの透明性向上、正確な投票情報へのアクセス改善に向けた取り組みを{target=“_blank”}した。選挙の整合性を保護し、AIが民主的プロセスを損なうことを防ぐことに重点を置いているという。
+
+### １．乱用の防止:AI技術を利用した選挙プロセスの損害を防ぐための戦略
+・ディープフェイクやチャットボットのなりすましに対抗する措置
+・ChatGPTやAPIの利用ポリシーを更新し、選挙妨害行為への利用を制限
+
+### ２．AI生成コンテンツの透明性向上:AIによって生成されたコンテンツの透明性強化に取り組む
+・画像の出典を示すデジタル認証の導入
+{target=“_blank”}のデジタル認証情報 (暗号化を使用してコンテンツの出所に関する詳細をエンコードするアプローチ) を実装する予定。
+・DALL·E生成画像を特定するための分類器の実装を予定
+### ３．権威ある投票情報へのアクセス改善
+米国の国務長官協会と連携し、正確な投票情報を提供する。
+国内最古の超党派の公務員専門職組織である全米国務長官協会（NASS）との協力を明示。ChatGPT は、どこに投票するかなど、選挙手続きに関連する特定の質問をされると、米国の投票情報に関する権威ある Web サイトである {target=“_blank”}にユーザーを誘導する。
+
+
+今年の世界選挙に向けて、パートナー企業と協力し、今後数か月間、さらに多くの情報を共有する予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 22 Jan 2024 02:51:40 +0000</pubDate></item><item><title>生成AIの進展と社会への影響促進を目指す「一般社団法人Generative AI Japan」設立ーー日本全体の産業競争力を高める</title><link>https://ledge.ai/articles/generative_ai_japan</link><description>:::small
 画像の出典：一般社団法人　Generative AI Japan
 :::
 
@@ -2453,25 +2481,7 @@ ChatGPTを活用した自治体の試みは注目されていたが、今回の�
 :::box
 
 :::
-</description><pubDate>Mon, 18 Dec 2023 02:35:52 +0000</pubDate></item><item><title>国土交通省、ドローン「レベル3.5飛行」を初承認  北海道上士幌町で初飛行を実施
-</title><link>https://ledge.ai/articles/first_drone_level3-5_approval</link><description>:::small
-画像の出典：{target=“_blank”}
-
-:::
-
-2023年12月8日、国土交通省は無人航空機（ドローン）の飛行条件緩和を目的とした新設飛行レベル「レベル3.5飛行」を初めて{target=“_blank”}した。「レベル3.5飛行」では、操縦ライセンス保有、保険加入、機上カメラでの歩行者検出が必要であり、従来のレベル3で要求されていた補助者の配置や立入管理措置が不要となる。これにより道路や鉄道を横断する飛行が容易になる。
-
-承認を受けた株式会社NEXT DELIVERY、株式会社エアロネクスト、セイノーホールディングス株式会社、および北海道上士幌町は、12月11日に北海道上士幌町でレベル3.5飛行による初のドローン配送をを{target=“_blank”}した。
-
-国土交通省はこの取り組みに併せて、「無人航空機の事業化に向けたアドバイザリーボード」を設置し、今後の無人航空機の制度見直しに進む予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Sat, 16 Dec 2023 14:50:57 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
+</description><pubDate>Mon, 18 Dec 2023 02:35:52 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
