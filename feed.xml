@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jan 2024 02:51:40 +0000</lastBuildDate><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jan 2024 02:53:56 +0000</lastBuildDate><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2202,7 +2202,32 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::
 :::box
 
-:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>OpenAI、2024年の世界的な選挙に向けた取り組みを発表</title><link>https://ledge.ai/articles/how_openai_is_approaching_2024worldwide_elections</link><description>:::small
+:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>OpenAI ChatGPTのポリシーから「軍事・戦争目的への使用禁止」削除は国防総省とのサイバーセキュリティ連携のためと表明</title><link>https://ledge.ai/articles/openai_is_working_with_us_military_on_cybersecurity_tools</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+OpenAIは2024年1月10日、同社が{target=“_blank”}を改訂した。{target=“_blank”}には、同社モデルの使用禁止目的に「身体的危害のリスクが高い活動」の一部として、兵器開発、軍事と戦争が掲げられていたが、その一文が削除されていると複数メディアが報じた。
+
+これに対し、1月16日Bloombergの{target=“_blank”}で、同社のグローバル担当バイスプレジデントであるアンナ・マカンジュ氏は、同社が米国防総省との間で進めているオープンソースサイバーセキュリティソフトウェアの開発について{target=“_blank”}。
+
+
+OpenAIが汎用人工一般（AGI）の軍事プロジェクトや武器開発での使用に関する制限を緩和しているのでは、というインタビュアーの問いかけに対し、マカンジュ氏は、これらの政策はOpenAIのツールがどのように使用されるかを知る前に策定されたものであり、軍事利用に限らず、より明確なガイドラインを提供するための調整が必要だったと述べた。特に、同社は引き続き武器の開発、財産の破壊、個人への害を禁じており、よりニュアンスを伝わりやすくするために文言を変更したと述べている。
+
+同社は国防総省との協力の一環として、重要インフラのセキュリティを強化するためオープンソースのサイバーセキュリティツールを開発しているとのこと。マカンジュ氏は、これまでの一律的な軍事利用禁止方針が、これらの用途を制限しているとの懸念があったが、これらの取り組みがOpenAIの目指す世界観と一致していると説明した。
+
+OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加している。これは、政府の国防高等研究計画局（DARPA）が主導する2年間のコンペティションで、技術専門家たちが最先端のサイバーセキュリティツールを創出することを目的としている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 22 Jan 2024 02:53:56 +0000</pubDate></item><item><title>OpenAI、2024年の世界的な選挙に向けた取り組みを発表</title><link>https://ledge.ai/articles/how_openai_is_approaching_2024worldwide_elections</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2230,7 +2255,9 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::box
 
 :::
-</description><pubDate>Mon, 22 Jan 2024 02:51:40 +0000</pubDate></item><item><title>生成AIの進展と社会への影響促進を目指す「一般社団法人Generative AI Japan」設立ーー日本全体の産業競争力を高める</title><link>https://ledge.ai/articles/generative_ai_japan</link><description>:::small
+:::box
+
+:::</description><pubDate>Mon, 22 Jan 2024 02:51:40 +0000</pubDate></item><item><title>生成AIの進展と社会への影響促進を目指す「一般社団法人Generative AI Japan」設立ーー日本全体の産業競争力を高める</title><link>https://ledge.ai/articles/generative_ai_japan</link><description>:::small
 画像の出典：一般社団法人　Generative AI Japan
 :::
 
@@ -2464,24 +2491,7 @@ ChatGPTを活用した自治体の試みは注目されていたが、今回の�
 :::box
 
 :::
-</description><pubDate>Tue, 19 Dec 2023 07:40:15 +0000</pubDate></item><item><title>「中国に半導体を渡すわけにはいかない」米商務長官がNVIDIAを名指しで批判</title><link>https://ledge.ai/articles/ai_chip_export_controls_china-nvidia-raimondo</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月2日、米商務長官のジーナ・レイモンド氏が、レーガン国防フォーラムで「中国に半導体チップを渡すわけにはいかない。最先端の技術を渡さない」と語ったと{target=“_blank”}等のメディアが報じている。
-
-バイデン政権は2022年10月、中国などの「懸念国」への先進半導体輸出の原則禁止措置を講じた。軍事用途でのAIや先進的なコンピュータ技術の急進を可能にする半導体へのアクセスを制限する目的だ。これを受けNVIDIAは、輸出禁止ラインを下回る性能のチップを開発し、この措置に対抗した。翌2023年10月には前年の穴をふさぐ形で、米政府はNVIDIAなどが設計した高度なAI用半導体の中国などへの輸出規制措置を{target=“_blank”}。
-
-レイモンド長官は、NVIDIAが規制措置を更新するたびに基準性能を下回るチップを開発して、輸出禁止の措置を免れていることを指摘し、「もし（NVIDIAが）規制を下回るラインでAI向けのチップを再設計したら、翌日に、即刻それを規制してみせる」と述べたという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 18 Dec 2023 02:35:52 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
+</description><pubDate>Tue, 19 Dec 2023 07:40:15 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2516,6 +2526,9 @@ AIダンスは、ユーザーがアプリ内に写真をアップロードする
 「この作品は、AI、つまりChatGPTのような生成AIを駆使して書いた小説で、おそらく全体の５％くらいは生成AIの文章をそのまま使っているところがある。これからも利用しながら、かつ利用しながらも自分の創造性を発揮できるように、うまく付き合っていきたいと考えている」と述べた。
 
 
+:::box
+
+:::
 :::box
 
 :::
