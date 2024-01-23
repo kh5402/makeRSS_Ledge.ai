@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jan 2024 02:53:56 +0000</lastBuildDate><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jan 2024 02:57:52 +0000</lastBuildDate><item><title>バイトル、新サービス「闇バイトチェックAI」を開始。「闇バイト相談窓口」同時開設</title><link>https://ledge.ai/articles/dark_part-time_job_check</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ディップ株式会社は2024年1月10日、生成AIを活用した新サービス「闇バイトチェックAI」を開始したことを{target=“_blank”}した。
+
+ユーザーからの不審な求人情報の申告を基に、AIが闇バイト検知を行う。同社が運営する求人情報サイト「バイトル」等では、従来から闇バイトの目視審査を実施しており、今回のAI導入により、審査時間が80％削減されると見込まれている。
+
+政府は2023年6月に「闇バイト強盗」や特殊詐欺対策に関する緊急対策プランを発表し、特殊詐欺の認知件数が前年比約20％増加していることを背景に、同社はこの問題に対処するため「闇バイトチェックAI」の開発を行ったという。同サービスは、インターネットやSNS上の事例データを活用し、即時対応が可能。ただし、現在のAI技術では顕在的なものの検知に限られるため、潜在的な闇バイト検知にも対応する「闇バイト相談窓口」も設置される予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 22 Jan 2024 02:57:52 +0000</pubDate></item><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -377,36 +394,7 @@ DNPが開発したこの技術は、テキスト、画像、表組などが混�
 :::box
 
 :::
-</description><pubDate>Sun, 14 Jan 2024 07:42:48 +0000</pubDate></item><item><title>AIの顔認識アルゴリズム、生後100日で誘拐された息子と25年ぶりの再会に貢献　年齢的変化✕遺伝的要素から現在の顔を推定</title><link>https://ledge.ai/articles/deepglint_face_recognition_algorithm</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-中国のAI企業「Deep Glint（格霊深瞳）」は2023年10月16日、3歳で行方不明になり25年間捜索されていた子供と家族の再会を支援したことを{target=“_blank”}した。また同社が同じく支援した生後100日で誘拐され、25年ぶりに再会を果たした親子の様子は、12月1日に{target=“_blank”}など各種メディアが報じた。
-
-!
-:::small
-画像の出典：waibo
-:::
-
-
-これらの家族の捜索には、顔認識アルゴリズムを使用するAIが大きく貢献した。Deep Glintの開発したこの技術は、「年齢を越えた顔認識」と「親族間顔認識」アルゴリズムを組み合わせて使用している。この年齢を超えた親族顔認識アルゴリズム、遺伝的特徴を基に家族間の類似性を抽出し、長い年月を経ても変化した顔を特定可能にしたという。
-
-12月1日に再会したケースでは、両親と兄の写真を使って、国のデータベース写真から5人の候補者を絞り込み、最終的にDNAを照合して確認をしたとのこと。このAI技術により、過去6ヶ月で4件目の誘拐事件解決に貢献したという。
-
-DeepGlintは、この技術を用いて、AIによる家族捜索プロジェクトに取り組んでいる。同社のAI技術は10年にわたる実践・応用を経て業界をリードする顔識別モデルとなっており、NIST（米国国家標準技術研究所）が実施した人顔識別アルゴリズムテスト（FRVT）で{target=“_blank”}の実績を持つ。
-
-大量のサンプルでモデルをトレーニングすることで、異なる年齢層のサンプルからさまざまな年代の顔の画像を生成でき、年齢による変化を考慮した識別の精度を上げている。このほか、効率的な分散学習アルゴリズムを使って顔の識別モデルをトレーニングし、推定できる年齢の幅を広げているという。
-
-また同社は、捜索プロジェクトのほか、認知症・高齢者など行方不明になりやすい人々に特化したソリューションを提供する「見守りプラットフォーム」を構築している。
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sat, 13 Jan 2024 07:29:23 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
+</description><pubDate>Sun, 14 Jan 2024 07:42:48 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
