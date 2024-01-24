@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jan 2024 08:23:53 +0000</lastBuildDate><item><title>バイトル、新サービス「闇バイトチェックAI」を開始。「闇バイト相談窓口」同時開設</title><link>https://ledge.ai/articles/dark_part-time_job_check</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jan 2024 11:59:39 +0000</lastBuildDate><item><title>【2/28 オンライン開催】データセントリックなアプローチで生成AI時代を切り開く｜Macnica Data・AI Forum 2024冬</title><link>https://ledge.ai/articles/mdaf2024</link><description>株式会社マクニカは2024年2月28日、「{target=“_blank”}」（MDAF2024冬）をオンラインにて開催する。生成AIをきっかけにAIへの注目度がさらに高まる中、改めて「データの質」に焦点を当てビジネス価値を創出していくための知見を、各セッションを通して公開していく。
+
+イベント冒頭には、IT批評家の尾原和啓氏による特別講演が予定されている。生成AIが業務プロセスや事業設計の前提にもなりつつあり、"社会実装期"のフェーズにおいて重要となる考え方、活かし方、そして見落としがちな「データの質の重要性」について多角的に紹介する。
+また、世界最大級のIT家電見本市「CES2024」（2024年1月9日〜12日に米・ラスベガスで開催）での最新発表など海外事例を含めた解説も見どころとして予定されている。
+
+MDAF2024冬の開催概要は以下の通り。
+
+**名称**
+Macnica Data・AI Forum 2024冬（MDAF2024冬）
+**開催日**
+2024年 2月28日（水）9：00～15：00
+**開催場所**
+オンライン（特設サイト）
+**参加費**
+無料/事前登録制
+※フリーメールアドレスでのお申込み、学生の方、競合代理店や競合製品をお取り扱いの企業様、本セミナーへの参加がふさわしくないと当社が認める事情がある際は、参加をお断りさせていただく場合がございます。
+**主催**
+株式会社マクニカ
+**推奨視聴環境**
+＜PC＞
+Windows：Chrome、Edge（Chromium）
+Mac：Chrome、Safari
+※各最新版についての対応
+※Firefox、Internet Explorerなどには対応しておりません
+＜スマートフォン＞
+iPhone：Chrome、Safari
+Android：Chrome
+
+## 生成AI時代における「自社データの重要性」をどう捉えればよいか
+!
+基調講演は、本メディア「Ledge.ai」を運営する株式会社レッジ執行役員の箕部のモデレートの下、株式会社マクニカ ネットワークスカンパニーＡＩビジネス部 室長の大西功祐氏によって行われる予定だ。
+AI活用がより身近になってきた昨今の状況は、逆の見方をすれば一定レベルまでは誰もが同じように扱えるともいえる。企業で活用を進める中で、AI活用を競争力の源泉としていくためには、どのようなポイントを押さえれば良いのか。メディアとしての視点と、データ・AI領域における先端企業としてのマクニカの持つ視点を掛け合わせてディスカッションする。
+
+イベント参加は事前登録制となり、以下フォームから登録を行うことで、同イベント内で公開される全セッションを視聴できる。
+
+:::button
+{target=“_blank”}
+:::
+
+現時点でタイトルが判明しているセッション一覧は以下の通り。
+
+:::box
+**【特別講演】生成AI 社会実装期での考え方・活かし方、見落としがちな「データの質の重要性」**
+尾原和啓（IT批評家）
+:::
+
+:::box
+**【基調講演】AI専門メディア「Ledge.ai」と考える、AIビジネスのこれから**
+箕部和也（株式会社レッジ 執行役員）
+大西功祐（株式会社マクニカ ネットワークスカンパニー データ＆アプリケーション事業部 事業部長代理）
+:::
+
+:::box
+**Kaggleソロ金メダル獲得者が話す 獲得ストーリーと実践的ヒント～2024年コンテストでの最新情報のご紹介～**
+井ケ田一貴（株式会社マクニカ ネットワークスカンパニー ＡＩビジネス部第２課 主席）
+:::
+
+:::box
+**【AI TRiSM】AI特有のリスクに備えよ ～鍵を握るAI TRiSMとは～**
+柳井省吾（株式会社マクニカ ネットワークスカンパニーデータ＆アプリケーション事業部第１技術部第３課）
+:::
+
+:::box
+**【生成AI】生成AIの開発・運用を支える基盤の課題と選定のポイント～NVIDIAを例に最適なAIプラットフォームについて考える～**
+諸橋大地（株式会社マクニカ クラビス カンパニー 第１技術統括部技術第３部第３課）
+:::
+
+:::box 
+**【海外動向】海外のAI・生成AI最新動向 ～技術やユースケースから今後を考察～**
+王原聖雄（Macnica Networks USA, Inc. Vice President of Business Development）
+:::
+
+:::box
+**【事例講演】イチから始めるデータパイプライン構築 ～DevOpsチームの散らばるデータの悩みと基盤構築の軌跡～**
+藤原匠（横河電機株式会社 D-Sol HQシステム開発センター 開発DX推進部 部長）
+桑田芳則 （横河電機株式会社 D-Sol HQシステム開発センター 開発DX推進部）
+山本ありさ（株式会社マクニカ データ＆アプリケーション事業部第１営業部第１課）
+太田真衣（株式会社マクニカ データ＆アプリケーション事業部 第1技術部 第３課）
+:::
+
+:::box
+**【特別講演】生成AIとその懸念に対する対策**
+井尻善久（SB Intuitions株式会社 CRO兼R&amp;D本部長、LINEヤフー株式会社 データサイエンス統括本部4 本部長）
+:::
+</description><pubDate>Fri, 19 Jan 2024 03:41:36 +0000</pubDate></item><item><title>バイトル、新サービス「闇バイトチェックAI」を開始。「闇バイト相談窓口」同時開設</title><link>https://ledge.ai/articles/dark_part-time_job_check</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -366,35 +450,7 @@ DNPが開発したこの技術は、テキスト、画像、表組などが混�
 :::box
 
 :::
-</description><pubDate>Sun, 14 Jan 2024 11:51:42 +0000</pubDate></item><item><title>米ワコム、AIイラスト使用疑惑の指摘に説明。クリエイター「ペンタブレットの会社がAIイラストを使うとは」</title><link>https://ledge.ai/articles/wacom_purchased_ai_illustration</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ワコムは2024年1月10日、同社の米国支店公式アカウントが投稿した広告画像について、AI生成の疑いが指摘された件に関して見解を{target=“_blank”}した。
-　
-問題となった広告は、米国公式アカウントにより1月6日に投稿されたもので、龍（ドラゴン）のイラストが使用されていた。このイラストがAI生成物ではないかとの指摘がSNSユーザーからなされ、話題となった。
-
-ワコムは1984年に世界初のコードレス・ペンタブレットを発表し設立された企業で、イラスト制作用のペンタブレットなどを製造している。ペンタブレットを製造販売する同社が、クリエイターの作品ではなくAIイラストを購入したのではとSNSはクリエイターたちからの批判の声であふれた。
-
-これに対し同社は、このイラストは他社から購入したもので、AI生成物でないことを確認していたと述べた。
-しかしユーザーからは、画像がAdobe Stock から購入されていたことが指摘された。ドラゴンを公開していたクリエイターのページは、明らかにAIが生成したであろう画像で埋め尽くされていたという。該当のページはすでに削除されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-同社は、AI検出ツールによるチェックでもAIの使用は確認されなかったと説明。しかし、ユーザーからの意見を踏まえ、イラストの利用を取りやめたと発表した。この件を受け、ワコムは今後イラスト使用プロセスを見直し、更新する方針だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 14 Jan 2024 07:42:48 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Sun, 14 Jan 2024 11:51:42 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
@@ -1553,7 +1609,39 @@ Auto Trainはノーコードで機械学習のモデルを学習、評価、デ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 15 Aug 2023 04:59:26 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
+:::</description><pubDate>Tue, 15 Aug 2023 04:59:26 +0000</pubDate></item><item><title>NTTドコモ、NPCを自動生成するAIを開発ーー過疎バースに賑わいを創出。メタぼっちでもへっちゃら？</title><link>https://ledge.ai/articles/docomo_openhouse24_metaverse</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年1月16日、NTTドコモは、メタバース空間内のノンプレイヤーキャラクター（NPC）をテキスト入力のみで自動生成する生成AIを世界で初めて開発したと{target=“_blank”}した。また、この技術詳細は1月17日・18日開催の{target=“_blank”}に出展し紹介された。
+
+この技術は、プログラミングやアルゴリズムの専門知識がなくても、外見や行動、空間内での役割を備えたNPCを約20分で自動生成できる。この技術は「行動ロジック生成AI」、「アニメーション生成AI」、「外見生成AI」の3つの生成AIで構成され、これらが自動連携することにより、NPCの総合的な自動生成を実現する。
+
+!
+:::small
+画像の出典：){target=“_blank”}
+:::
+
+
+ドコモのこの技術開発は、メタバース空間内の賑わいを創出し、ユーザーを惹きつけるためのもの。従来、NPCの行動はビヘイビアツリーという手法を用いて規定されていたが、その作成には専門的なプログラミング技術が必要だった。しかし、本技術を用いることで、NPCの生成と行動ロジックの設定が大幅に簡略化される。
+
+メタバース空間内にNPCを10体配置する場合、ビヘイビアツリーの作成およびビヘイビアツリーとNPCのアニメーション・外見の連携におよそ42時間要するといわれているが、この技術を利用することで1時間程度に削減可能だという。
+
+!
+:::small
+画像の出典：){target=“_blank”}
+:::
+
+
+この技術は、2024年度中に株式会社NTTコノキューが提供する仮想空間プラットフォーム「DOOR」への実装を目指すほか、地方創生や地域活性化に貢献する新しい技術やサービスの開発にも活用する計画だという。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1784,24 +1872,7 @@ Googleは「Google検索」に英語文の文法ミスを見つける機能「{t
 
 
 　
-</description><pubDate>Thu, 17 Aug 2023 02:23:11 +0000</pubDate></item><item><title>「GitLab 16」登場 AIワークフロー機能搭載したDevSecOpsプラットフォーム新版</title><link>https://ledge.ai/articles/gitlab16_devsecops_platform</link><description>GitLabは2023年7月6 日、DevSecOpsプラットフォームの新版「GitLab 16」の提供開始を発表した。AIを活用したワークフロー機能が目玉だ。
-
-Development（開発）、Security（セキュリティ）、Operations（運用）の3つの要素をが統合した開発環境。ソフトウェア開発の計画からモニタリングまでを行い、課題管理、バージョン管理、コードレビュー、継続的インテグレーション／継続的デリバリ（CI/CD）、モニタリングをひとつのアプリケーションで完結する。
-
-新版「GitLab 16」は、生成AIの支援でコードを作成できる「Code Suggestions」や、AIを活かしたセキュリティテスト／分析、オブザーバビリティ、プロアクティブな脆弱性検出などの機能を備える。
-@
-Code Suggestion では、開発の途中でAIの生成するコードの提案を受けながら、効率的にコードが書ける。
-
-AI関連の新機能として「Suggested Reviewers」「Explain This Code」「Explain This Vulnerability」「Value Stream Forecasting」を追加した。これに加え次期機能として「Refactor This Code」および「Resolve This Vulnerability」を予定する。
-
-プライバシーを優先したアプローチにより、企業や規制の厳しい組織でも知的財産を安心してGitLabのインフラストラクチャー内に置くことが可能とのこと。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 19 Jul 2023 04:58:08 +0000</pubDate></item><item><title>LLMを最新の大学入試共通テストで比較　GPT-4がTOPも医師国家試験合格の実力にしては若干物足りない？</title><link>https://ledge.ai/articles/llms_took_the_common_test_2024</link><description>:::small
+</description><pubDate>Thu, 17 Aug 2023 02:23:11 +0000</pubDate></item><item><title>LLMを最新の大学入試共通テストで比較　GPT-4がTOPも医師国家試験合格の実力にしては若干物足りない？</title><link>https://ledge.ai/articles/llms_took_the_common_test_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
