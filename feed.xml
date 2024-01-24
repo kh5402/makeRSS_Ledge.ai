@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jan 2024 11:59:39 +0000</lastBuildDate><item><title>【2/28 オンライン開催】データセントリックなアプローチで生成AI時代を切り開く｜Macnica Data・AI Forum 2024冬</title><link>https://ledge.ai/articles/mdaf2024</link><description>株式会社マクニカは2024年2月28日、「{target=“_blank”}」（MDAF2024冬）をオンラインにて開催する。生成AIをきっかけにAIへの注目度がさらに高まる中、改めて「データの質」に焦点を当てビジネス価値を創出していくための知見を、各セッションを通して公開していく。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jan 2024 12:06:14 +0000</lastBuildDate><item><title>日本初、アバターで通える通信制高校「勇志国際高等学校メタバース生」今春入学・転入生募集開始</title><link>https://ledge.ai/articles/metaverse_highschoool</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+勇志国際高等学校は2024年1月9日、株式会社アオミネクストの協力の下「メタバース生」の募集を開始すると{target=“_blank”}した。
+
+日本初となるメタバースを用いた高校教育の形態で、生徒たちはアバターを通じて授業に参加する。単位制高等学校として文部科学省の認可を受けており、3年間のカリキュラムを経て、全日制高校と同じ資格を取得できる。
+
+メタバース生は、無償で貸与されるVR機器を使い、VR空間内で教育を受ける。ZoomやSlackのような従来のオンライン教育ツールに代わり、3D空間を活用してコミュニケーションを図るシステムだ。生徒たちは全国各地から参加し、多様な背景を持つ仲間と交流できる環境が提供される。教育内容には、メタバース空間の作成やプログラミングなども含まれている。
+
+勇志国際高等学校では、メタバース内での文化祭やeスポーツ大会など、豊富な年間行事を予定しており、教科学習だけでなく、企画力や協調性の育成も目指す。また、個別カリキュラムが提供され、中学レベルの復習から大学受験対策まで対応する。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Jan 2024 12:06:14 +0000</pubDate></item><item><title>【2/28 オンライン開催】データセントリックなアプローチで生成AI時代を切り開く｜Macnica Data・AI Forum 2024冬</title><link>https://ledge.ai/articles/mdaf2024</link><description>株式会社マクニカは2024年2月28日、「{target=“_blank”}」（MDAF2024冬）をオンラインにて開催する。生成AIをきっかけにAIへの注目度がさらに高まる中、改めて「データの質」に焦点を当てビジネス価値を創出していくための知見を、各セッションを通して公開していく。
 
 イベント冒頭には、IT批評家の尾原和啓氏による特別講演が予定されている。生成AIが業務プロセスや事業設計の前提にもなりつつあり、"社会実装期"のフェーズにおいて重要となる考え方、活かし方、そして見落としがちな「データの質の重要性」について多角的に紹介する。
 また、世界最大級のIT家電見本市「CES2024」（2024年1月9日〜12日に米・ラスベガスで開催）での最新発表など海外事例を含めた解説も見どころとして予定されている。
@@ -423,34 +443,7 @@ Redditは、ユーザーがレコメンドやアドバイスを求める場で�
 :::box
 
 :::
-</description><pubDate>Tue, 16 Jan 2024 08:26:22 +0000</pubDate></item><item><title>大日本印刷、生成AIのファインチューニングや転移学習の回答精度を高める独自のデータ整形技術を開発</title><link>https://ledge.ai/articles/dnp_developed_unique_data_shaping_technology</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-大日本印刷（DNP）は2023年12月14日、生成AIの誤回答を約90%削減する新たなデータ整形技術を開発したと{target=“_blank”}した。この技術は、PDFやWordなどの異なる形式のドキュメントを生成AIが学習しやすいデータ形式に変換するものである。
-
-DNPは2023年5月に社内で生成AIを活用する環境を構築し、社内規定や品質マニュアル、決算短信などのドキュメントをこの新技術を用いて整形し、生成AIに学習させる実証実験を実施した。その結果、整形したデータを用いた生成AIは、従来の生成AIと比較して、誤回答を大幅に削減することに成功したという。
-
-以下は整形データを学習した生成AI（左下）と学習していない生成AI（右下）との回答例の比較だ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-DNPが開発したこの技術は、テキスト、画像、表組などが混在するドキュメントから、必要な要素をAIモデルを用いて分割し、生成AIが学習しやすい形に整形する。これにより、審査やコンタクトセンターなど、膨大なマニュアルやドキュメントを参照する必要がある業務での問い合わせ対応の精度と速度が向上する。
-
-2024年1月より、生成AIの導入や活用に課題を持つ企業や団体に向け、同社はこの技術の提供を開始予定とのこと。また、自治体や金融機関などドキュメントを多く扱う業界において、生成AIを活用した業務のDX促進サービスの開発も目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 14 Jan 2024 11:51:42 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Tue, 16 Jan 2024 08:26:22 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
