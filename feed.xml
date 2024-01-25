@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jan 2024 07:05:27 +0000</lastBuildDate><item><title>トヨタ、READY Robotics とNVIDIAが生産工程のデジタルツインに向けて協業。産業ロボットにSim to Realワークフロー導入で効率と安全性を向上</title><link>https://ledge.ai/articles/ready-robotics_toyota_nvidia_sim-to-real</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jan 2024 07:36:15 +0000</lastBuildDate><item><title>Stability AI、コンパクトな16億パラメータ言語モデル「Stable LM 2 1.6B」をリリース。速度と性能のバランスを実現</title><link>https://ledge.ai/articles/stability_ai_stable-im-2_1point6b</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stability AI は2024年1月22日、Stable LM 2 シリーズより、最新の16億パラメータを持つ小型言語モデル「Stable LM 2 1.6B」をリリースしたと{target=“_blank”}した。
+
+モデルは、多言語データ（英語、スペイン語、ドイツ語、イタリア語、フランス語、ポルトガル語、オランダ語）でトレーニングされており、約2兆トークンを2エポック学習することで、言語モデリングの最近の進歩を活用し、速度と性能のバランスを実現した。
+
+Stable LM 2 1.6Bは、プリトレーニング済みおよびインストラクションチューニング済みのバージョンを提供し、収束前の最終チェックポイントと最適化関数の状態も公開する。これにより、開発者はより容易にファインチューニングや実験が行えるという。
+
+
+以下は、Stable LM 2 1.6B を、Microsoft の Phi-1.5（1.3B）、Phi-2（2.7B）、TinyLlama 1.1B、Falcon 1B など、他の一般的な小規模言語モデルと比較したもの。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このたび情報を公開したのは、開発者やモデル作成者が迅速に実験や反復を行えるよう、トレーニング詳細の透明性を提供することが主な目的だという。ただし、小型で低容量の言語モデルであるため、高いハルシネーション率や潜在的な毒性言語の問題に留意する必要があるとのことだ。Stability AIは、アプリケーションの開発において、責任ある開発を行うようコミュニティに呼びかけている。
+
+Stable LM 2 1.6Bは、Stability AIの{target=“_blank”}を通じて商用利用可能であり、{target=“_blank”}でのテストも提供されている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jan 2024 07:36:15 +0000</pubDate></item><item><title>トヨタ、READY Robotics とNVIDIAが生産工程のデジタルツインに向けて協業。産業ロボットにSim to Realワークフロー導入で効率と安全性を向上</title><link>https://ledge.ai/articles/ready-robotics_toyota_nvidia_sim-to-real</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -427,32 +462,7 @@ GPT FinderIへの{target=“_blank”}
 :::box
 
 :::
-</description><pubDate>Wed, 17 Jan 2024 04:02:37 +0000</pubDate></item><item><title>ウォルマート、Microsoftとの連携で生成AI活用。顧客向けの新しいショッピング体験ツールや従業員向けAIアシスタントツール発表</title><link>https://ledge.ai/articles/walmart_collaborates_with_microsoft_on_ai-based_product_suggestions</link><description>同社は、検索機能に生成AIを組み込むことで、利用者に有用で直感的なブラウジング体験を提供する。ウォルマート独自のデータと技術、Microsoft Azure OpenAI Serviceに含まれる大規模言語モデル、および小売り特有のモデルを組み合わせ、、顧客の要望に応じたパーソナライズされた商品セレクションを提供する。
-
-例えば、ユニコーンをテーマにした子供の誕生日パーティーを計画している親が、ユニコーンの風船、ナプキン、ストリーマーなどを個別に検索する代わりに、親は「娘のためにユニコーンをテーマにしたパーティーを計画するのを手伝って」と質問するだけで済むという。
-
-
-**例：ツールに「フットボールの試合観戦」というテーマを与えると、商品を提案される**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-ウォルマートはまた、非店舗従業員5万人に「My Assistant」という新しいアプリを導入した。このアプリは、長い文書の要約から新しいコンテンツの作成支援まで、幅広いタスクで従業員を支援する。
-
-ウォルマートとMicrosoftは、2018年に戦略的パートナーシップを確立して以来、長年の協力関係のもとデジタル変革を推進するさまざまなクラウドプロジェクトを打ち立ててきている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 16 Jan 2024 08:35:30 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Wed, 17 Jan 2024 04:02:37 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
