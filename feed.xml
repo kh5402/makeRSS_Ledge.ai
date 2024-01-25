@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jan 2024 07:36:15 +0000</lastBuildDate><item><title>Stability AI、コンパクトな16億パラメータ言語モデル「Stable LM 2 1.6B」をリリース。速度と性能のバランスを実現</title><link>https://ledge.ai/articles/stability_ai_stable-im-2_1point6b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jan 2024 07:39:25 +0000</lastBuildDate><item><title>Midjourney・ChatGPT・Stable Diffusion・DALL-E対象の「プロンプトマーケットβ版」が無料キャンペーン中ーーGTP Storeと同時期にオープン　</title><link>https://ledge.ai/articles/prompt_market_beta</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社プロンプトマーケットは2024年1月11日、生成AIツール用のプロンプトを売買できる「プロンプトマーケット」を開始したと{target=“_blank”}した。Midjourney、Chat-GPT、Stable Diffusion、DALL-Eなどの生成AIサービスに対応しており、ユーザーは簡単にプロンプトの販売・購入ができる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+プロンプトマーケットの目的は、出品者が自身のスキルをマネタイズできる機会を提供し、購入者には仕事の効率化や成果物の品質向上を支援することだという。
+
+今後は、Midjourney、Stable Diffusion、DALL·E 3などで活用できる画像生成向けの人気プロンプトや、Chat-GPTを活用した作業効率化など実用性のあるプロンプトなどを中心に取り揃えていく予定だ。
+
+ローンチを記念し、2月28日までの期間限定で無料キャンペーンを実施中。キャンペーン期間中は出品中のプロンプトを無料で購入可能となっている。また、このサービスのβ版リリースを記念し、Amazonギフト券2万円分のプレゼントキャンペーンも行っているとのこと。参加方法は、同社のSNSアカウントのいいねやリポスト、通知をONにすることで、当選発表はLINEで行われる。
+
+1月10日に開店したGTP Storeと同時期のオープンとなったプロンプトマーケット。プラットフォームとして定着するのだろうか。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jan 2024 07:39:25 +0000</pubDate></item><item><title>Stability AI、コンパクトな16億パラメータ言語モデル「Stable LM 2 1.6B」をリリース。速度と性能のバランスを実現</title><link>https://ledge.ai/articles/stability_ai_stable-im-2_1point6b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -323,146 +355,7 @@ WEFの「{target=“_blank”}」によると、AIは多くの仕事を置き換
 :::box
 
 :::
-</description><pubDate>Wed, 17 Jan 2024 05:24:26 +0000</pubDate></item><item><title>GPT Storeのオープン直後はどんなアプリが人気？　仕事のコスパ系が上位、AI彼女系は許可されず</title><link>https://ledge.ai/articles/todays_gpts_top10</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-OpenAIが2024年1月10日にGPTストアの開始を発表して1週間が経過した。GPTストアは、ユーザーが特定の目的のためにカスタマイズされたChatGPTバージョン（GPTs）を作成し、公開することができる新しいプラットフォームだ。2023年11月にGPTsを発表して2か月で300万以上のGPTsが作成されたという。
-
-GPTストアでは毎週「Featured（特集）」コーナーで厳選されたGPTsを特集するほか「Trending（トレンド）」では人気のGPTsを紹介していくという。
-
-以下は2024年1月17日時点での人気TOP10入りしたGPTだ。
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-### 1. Consensus（学術論文検索） 
-研究用AI検索エンジン「Consensus」が公開したGPT。Consensus内の2億件の学術論文を検索し、科学的根拠に基づいた回答を得たり、正確な引用を含むコンテンツを起草することができる。試しに「画期的ないびきの治療法」を訊ねてみたところ、4件の論文を紹介してもらえた。
-Consensusへの{target=“_blank”}
-
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-### 2. Ai PDF（PDFアップロード&amp;要約）
-「Ai PDF」は、v2kai の運営する 「Ai Drive」が公開したGPTで、1ファイルあたり2GBまでのPDFドキュメントを処理し、無料でmyai drive.comに1000ファイルのPDFをアップロード可能となる。そのため、何度もファイルをアップロードする必要がなくなる。PROバージョンでは、1000以上のPDFを検索し、OCR文書を検索し、AIを使用して著者、タイトルなどを抽出可能だという。
-
- Ai PDFへの{target=“_blank”}
-
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-### 3. Grimoire（WEBサイト作成）
-コードが書けなくても、 日本語でのやり取りでWebサイトなどの制作支援をしてくれるGPT。
-主にプログラミングやコーディングに関する質問や要求（例えば、特定の言語でのコードの書き方、アルゴリズムの解決方法、またはプロジェクトに関する相談など）を文章で伝え、制作に導いてもらえる。
-
- Grimoireへの{target=“_blank”}
-
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-
-### 4. Canva（デザイン作成）:
-デザインツールとして知られるCanvaが公開しているGPT。プレゼンテーション、ロゴ、SNS投稿などのデザインを作成してくれる。
-Canvaへの{target=“_blank”}
-
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-
-### 5. AskyourPDF Research Assistant（研究アシスタント）
-
-「AskYourPDF Research Assistant」は、PDF文書から情報を抽出するためのアシスタントとして機能する。
-・エッセイ作成支援：AIによって書かれたエッセイやテキストに対して、関連する学術論文を参照し、APAスタイルでの引用を追加する
-・参照・引用ツール：既存のテキストに対して、必要な部分を特定し、学術論文を参照してAPAスタイルでの引用を追加する
-・PDFドキュメントとの対話：URLまたはドキュメントIDを受け取り、PDF文書をデータベースにダウンロードして情報を抽出。また、ユーザーからの質問に対して、文書内の特定の情報を正確に提供する
-「AskYourPDF Research Assistant」への{target=“_blank”}
-
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-
-
-### 6. Logo Creator（ロゴ制作サポート）
-ロゴデザイナーとして機能するGPT。スタイル・シンプルさの度合い・色・提案数などがGPTから問われ、それに答えていくと、デザインが完成する。
-
-Logo Creatorへの{target=“_blank”}
-
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-### 7. WebPilot（情報収集サポート）
-Webサイト・PDFファイルの情報収集とコンテンツ制作支援をするGPT。
-・WebPageReaderとして、Webサイト、PDFファイル、またはデータへのアクセスを支援する。ユーザーはチャットやライティングを通じて、１つまたは複数のURLと対話が可能。
-・longContentWriterとして（ベータ版）：単純な説明だけで、製品ドキュメント、学術論文、レポートなどの長いコンテンツを作成するのに役立つ。また、リアルタイムでインターネットに接続して、コンテンツの正確性と関連性を確保する。
-
-WebPilotrへの{target=“_blank”}
-
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-### 8. DesignerGPT（WEBサイト作成）
- 簡単な日本語指示で美しいサイト制作をするGPT。ユーザーからのサイトデザインのリクエストに応じて、HTMLコンテンツを生成するように特化したGPTモデル。
-
-リクエストを受け取ると、特定のガイドラインに従って必要なHTMLを即座に作成する。そのHTMLは、特定のAPIを通じてWebページとしてホストされ、ユーザーにリアルタイムで共有される。サイトの要件やデザインの好みを伝え、それに基づいたHTMLコードを生成し、実際のWebページを作成する。
-
-DesignerGPTへの{target=“_blank”}
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-
-### 9. ScholarAI（科学的分析サポート）
-科学的なデータベースを効率的に検索し、研究参照を提供するGPT。論文の要約、関連研究の探索、PDF文書の詳細分析、特定の論文についての質問への回答などが可能。提供される情報には、簡単にアクセスできるようにリンクが付けられている。
-
-ScholarAIへの{target=“_blank”}
-
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-### 10. GPT Finder（GPT技術紹介）
-最新のGPTテクノロジーに特化したGPTで、ユーザーに、最新の10種類のGPT技術を紹介する。それぞれの簡単な説明とリンクを提供し、ユーザーの好みに基づいてパーソナライズされたレコメンドを行う。データベースを定期的に更新し、新しいGPT情報を追加。Webサイトの合法性とセキュリティを確認し、効率的でユーザーフレンドリーなインターフェースを維持する。
-
-GPT FinderIへの{target=“_blank”}
-!
-:::small
-画像の出典：GPT Store より
-:::
-
-なお、OpenAIは1月10日にGPTストア公開に伴い「ストア内のGPTがすべてのユーザーにとって適切であることを確認したい」と利用ポリシーを{target=“_blank”}している。たとえば、名前に冒涜的な言葉が含まれている GPT、または生々しい暴力を描写または促進するGPTは、ストアでは許可しないと明示した。また、いわゆる「AI彼女」のような「ロマンチックな交際を促進したり、規制された活動を行ったりすることに専念するGPT」も許可されないという。
-
-これらのポリシーは、提出時に自動的に適用されるか、あるいは過去に遡って適用されるケースも想定されるとのことだ。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 17 Jan 2024 04:02:37 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Wed, 17 Jan 2024 05:24:26 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
