@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jan 2024 12:12:14 +0000</lastBuildDate><item><title>名鉄商店×デンソー共同開催、AIロボットによる未来型販売員のデモイベント</title><link>https://ledge.ai/articles/meitetsushouten_denso_airobot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jan 2024 07:05:27 +0000</lastBuildDate><item><title>トヨタ、READY Robotics とNVIDIAが生産工程のデジタルツインに向けて協業。産業ロボットにSim to Realワークフロー導入で効率と安全性を向上</title><link>https://ledge.ai/articles/ready-robotics_toyota_nvidia_sim-to-real</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+自動化やロボティクスOSを推進するREADY Roboticsは2024年1月17日、トヨタとNVIDIAとの協業を{target=“_blank”}した。トヨタは、アルミニウム熱間鍛造生産ラインの最先端シミュレートロボティックプログラミング環境構築のために、READY Roboticsの「ForgeOS」とNVIDIAのロボティクスシミュレーター「Isaac Sim」を「NVIDIA Omniverse」上で使用する。この協力により、トヨタの製造プロセスの安全・効率の向上を目指す。
+
+鍛造用ロボットシステムのプログラミングには通常、金属部品を熱く保つ必要があり、これが安全上の大きな課題となる。しかし「NVIDIA Isaac Sim」と「ForgeOS」の統合で、シミュレーション環境でのプログラミングが可能となる。これにより熱い部品に関連するリスクを排除するという。
+
+ロボットと自動化のための産業用OS「ForgeOS」は、プログラミングプロセスを簡素化し、ロボットシステムの典型的な複雑さを減少させ、あらゆる産業用ロボットマニピュレーターに使いやすい体験を提供する。
+
+「ForgeOS」と「NVIDIA Isaac Sim」が組み合わさることで、ロボットシミュレーションが格段にリアルになり、視覚的にも物理的な動きも現実に近いレベルで再現できるようになる。ForgeOSの直感的なプログラミングとNVIDIAのリアルなシミュレーション環境により、トヨタは複雑な熱間鍛造ルーチンをシミュレーションで迅速にプログラムし、最適化できる。これらのプログラムは、シミュレート環境で実証されると、物理的なインストール自体でのプログラミングが不要となり、熱い部品の周りの安全性への懸念を軽減する。
+
+この「Sim to Real」ワークフローは、ForgeOSが工場の現場のセルからリアルタイムの生産データを収集し、元のNVIDIA Isaac Simシミュレーションにフィードバックする。これにより、ライブセルのデジタルツインが形成され、現場の状況を可視化可能にする。
+
+トヨタ自動車 素材材料技術部グループマネージャー 鈴木一広氏は「ForgeOSのユニークなアーキテクチャは、NVIDIA Isaac Simのシミュレーション機能と物理システムの制御を橋渡しするため、この生産ラインに必要なシムからリアルへのワークフローを可能にする」「私たちは機械学習とAIによって製造プロセスの進歩が可能になる未来を目指しているが、すべては現在のプロセスを改善することから始まり、同時に工場からデータを抽出して有用なシミュレーションを行う」と述べた。
+
+NVIDIAの埋め込みおよびエッジコンピューティングのバイスプレジデント、Deepu Talla 氏は「産業プロセスを高い忠実度でシミュレートし、それらを現実の世界で展開する前に大幅に生産性と安全性を向上させ、コストを削減できる」と述べている。また、「トヨタとREADYロボティクスの協力は、NVIDIA Isaac Simのような技術を使用して、製造業における産業デジタル化の可能性を開く先駆者的な例である」と付け加えた。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jan 2024 07:05:27 +0000</pubDate></item><item><title>名鉄商店×デンソー共同開催、AIロボットによる未来型販売員のデモイベント</title><link>https://ledge.ai/articles/meitetsushouten_denso_airobot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -426,28 +452,7 @@ GPT FinderIへの{target=“_blank”}
 :::box
 
 :::
-</description><pubDate>Tue, 16 Jan 2024 08:35:30 +0000</pubDate></item><item><title>Reddit 「人間の本物の会話を収録した最大規模のコーパス。無料で学習データ提供あり得ない」CEOスティーブ・ハフマン氏が強調</title><link>https://ledge.ai/articles/reddit_data_for_ai_learning_should_be_paid_for</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Redditの共同創設者であり、現在は経営者として同社を率いるSteve Huffman氏が2024年1月10日、ラスベガスで開催されたCESのVariety Entertainment Summitにて、Variety Intelligence PlatformのAndrew Wallenstein氏と{target=“_blank”}した。Redditが広告収入を得るための独自性、そしてRedditのデータをAI学習目的で利用するための方針について語った。
-
-Huffman氏は、Redditのビジネスが順調に成長していること、またRedditがソーシャルメディアではなく「コミュニティ」であると強調。Redditでは、ブランドがそのブランドを愛する人々のコミュニティと異なる方法でつながることが可能だと述べた。
-
-Redditは、ユーザーがレコメンドやアドバイスを求める場であるという性質を持つ。人生へのアドバイスを求める場合もあるが、多くは商品のレコメンドが求められる。平均で1秒に2人が商品のレコメンデーションを求め、平均19件の回答を得ているという。これは他のプラットフォームにはない特別で貴重な特徴だと同氏はいう。
-
-同氏は、Redditが「人間の本物の会話を収録した最大規模のコーパス」と表現し、所有するデータがAI学習において、非常に価値があると強調した。そして、非商用利用に関しては申請によりアクセス可能であるが、商用利用の場合は何らかの取引や合意が必要だと述べた。これは、最大の企業に無料でデータを提供して補助することを避けるためだという。また、ユーザーのプライバシーと自己のアイデンティティの管理を重視する姿勢を強調した。
-
-同氏はNew York Times対OpenAIの訴訟について言及し、Redditとしては自社のデータが無料でAIモデルのトレーニングに利用されることはないとし、IP（知的財産）所有者として、情報を無償で他者の利益のために使わせる意図はないとの立場を明らかにした。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 16 Jan 2024 08:26:22 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Tue, 16 Jan 2024 08:35:30 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
