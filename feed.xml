@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Jan 2024 12:49:46 +0000</lastBuildDate><item><title>【無料ウェビナー公開中】―顧客企業の生の声から学ぶ―「つなげる」で成長を加速する、アステリアのプロダクト戦略</title><link>https://ledge.ai/articles/webinar-vol57</link><description>## アステリアのノーコードツールを活用した企業事例を紹介
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Jan 2024 03:05:20 +0000</lastBuildDate><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIのCEOサム・アルトマン氏は2024年1月16日、ダボス会議中のBloombergの{target=“_blank”}で、現代社会の重要な通貨である「計算能力とエネルギー」について言及した。AIの発展にはエネルギーの大幅な増加が必要であり、それには核融合や安価な太陽光発電と蓄電システム、またはそれに匹敵する「ブレークスルー」が不可欠だと強調した。
+
+同氏は、AIのエネルギー需要が今まで考えられていたよりもはるかに大きいと指摘。AIは多くのエネルギーを必要とするが、これが炭素を燃やすエネルギー源以外の技術への投資を促進すると述べ、核融合技術の可能性について肯定的に語った。
+
+OpenAIのパートナーであるMicrosoftは、2023年5月に核融合発電の米スタートアップであるヘリオン・エナジーと2028年からの電力購入契約を締結したと{target=“_blank”}しているが、同企業へはアルトマン氏個人も投資をしている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 26 Jan 2024 03:05:20 +0000</pubDate></item><item><title>【無料ウェビナー公開中】―顧客企業の生の声から学ぶ―「つなげる」で成長を加速する、アステリアのプロダクト戦略</title><link>https://ledge.ai/articles/webinar-vol57</link><description>## アステリアのノーコードツールを活用した企業事例を紹介
 現代のビジネス環境は、技術革新の速度が加速し、企業はシステムやプロセス、人々を効果的に結び付け、迅速な対応を求められている。
 プログラミング知識がなくても、直感的な操作でアプリケーションやシステムの開発を可能にするノーコードツールは、企業は開発のスピードを大幅に加速させ、市場や顧客のニーズに迅速に応えることを可能にするだけでなく、従業員が自らの業務改善のためにツールを開発・適用していくことで、組織全体の変革にも貢献する。
 このような背景のもと、ノーコードツールは、企業のデジタルトランスフォーメーション（DX）を加速し、イノベーションを生み出すために必要不可欠な存在となりつつあるといえる。
@@ -374,29 +397,7 @@ DX Suiteユーザーは「Extensions」を2024年3月31日まで無料で利用�
 :::box
 
 :::
-</description><pubDate>Fri, 19 Jan 2024 10:31:20 +0000</pubDate></item><item><title>米国禁止措置にもかかわらず、中国の軍事・AI研究機関がNVIDIAチップを購入していた</title><link>https://ledge.ai/articles/chinas_military_government_acquire_nvidia_chips</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年1月14日、中国の軍事機関、国営の人工知能研究機関、大学が過去1年間に米国からの輸出が禁じられているNVIDIAの半導体を小規模ながら購入していたことが、{target=“_blank”}により明らかになった。
-
-これには、米国が2022年9月に中国及び香港への輸出を禁止した高性能な「A100」および「H100」チップ、そしてそれらの禁止後に中国市場向けに開発された性能が劣るとされる「A800」および「H800」チップも含まれる。これらのチップは、特にAIモデルの訓練などにおいて競合製品よりも優れた処理能力を持つと広く認識されている。
-
-購入者には、軍事機関への関与が疑われているハルビン工業大学と電子科技大学のほか、清華大学、重慶大学、山東省人工知能研究所、無名の人民解放軍組織など、米国の輸出制限対象の機関も含まれている。ハルビン工業大学は2022年5月に深層学習モデルの訓練のために6つのA100チップを購入し、電子科学技術大学は2022年12月に1つのA100を購入している。これらの購入目的は明らかにされていない。
-
-ロイター通信の調査によると、NVIDIA自体や同社が認可した小売業者は、これらの供給業者には含まれておらず、どのようにしてこれらのチップが入手されたかは不明。米国の制限によって、中国ではこれらのチップの地下市場が出現しているという。中国の業者は以前から、NVIDIAが米国の大手企業に大量に出荷した余剰在庫を市場で入手するか、インド、台湾、シンガポールなどに設立された企業を通じて輸入しているとのこと。
-
-一方NVIDIAは、すべての適用される輸出管理法を遵守し、顧客にも同様の遵守を要求しているとロイターの取材に答えている。もし顧客が第三者への不法な再販を行っていたことが判明した場合、同社は即座に適切な措置を取るという。米国商務省はコメントを拒否した。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 18 Jan 2024 00:45:01 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Fri, 19 Jan 2024 10:31:20 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
