@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Jan 2024 09:20:04 +0000</lastBuildDate><item><title>OpenAIが支援するロボット開発スタートアップ「1X」が1億ドルの資金調達、二足歩行ヒューマノイド「NEO」を市場投入へ</title><link>https://ledge.ai/articles/1x_neo_raises_usd_100million_in_funding</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Jan 2024 09:25:34 +0000</lastBuildDate><item><title>OpenAIが支援するロボット開発スタートアップ「1X」が1億ドルの資金調達、二足歩行ヒューマノイド「NEO」を市場投入へ</title><link>https://ledge.ai/articles/1x_neo_raises_usd_100million_in_funding</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2185,7 +2185,30 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::
 :::box
 
-:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>日本初、アバターで通える通信制高校「勇志国際高等学校メタバース生」今春入学・転入生募集開始</title><link>https://ledge.ai/articles/metaverse_highschoool</link><description>:::small
+:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>米大統領選へのAI悪影響、偽バイデンのロボコールが「次の予備選挙に投票すればトランプが再選する」と電話口で告げる</title><link>https://ledge.ai/articles/fake_biden_robocall_tells_new_hampshire_democrats_not_vote_tuesday</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年1月22日、バイデン大統領を模したロボコール（自動音声電話）が、ニューハンプシャー州の民主党支持者に対し、州の大統領予備選で投票しないよう促していたことがNBCニュースの報道で{target=“_blank”}
+
+このロボコールのメッセージでは、翌23日（火曜日）の投票が「共和党のドナルド・トランプ再選を支援するだけだ」と示唆。「11月にのみ差が出るため、この火曜日には意味がない」と述べ、元ニューハンプシャー民主党委員長キャシー・サリバン氏の電話番号が告げられたという。同氏は現在、ニューハンプシャー民主党に予備選でバイデンの名前を書くよう促すキャンペーンを支援するスーパーPACを運営している。
+
+サリバン氏は、この攻撃の背後にいる人物は「明らかにジョー・バイデンに害を与えたい人物である」と述べ、これが民主主義に対する攻撃であるため州の司法長官に苦情を提出するとNBCニュースのインタビューで語った。
+
+一方、トランプ陣営のスポークスパーソンは、このロボコールが「自分たちには関係ない」と述べ、バイデンの民主党大統領候補の一人であるミネソタ州代表のディーン・フィリップス氏のスポークスパーソンも、これらの呼びかけを非難し、「非常に懸念される」とコメントしている。
+
+この事件は、ニューハンプシャー州民を抑圧し、州の大統領予備選に干渉しようとする「不法な試み」であると同州司法長官事務所が[発表}(https://www.doj.nh.gov/news/2024/20240122-voter-robocall.html){target=“_blank”}。このロボコールのメッセージ内容を完全に無視するよう州民に呼びかけている。当局は、このロボコールがニューハンプシャー州民の投票を妨げる目的で行われた可能性が高いとして、調査を開始した。
+
+ロボコールの発信源は不明だが、州の選挙委員会はAIの使用が選挙キャンペーンに与える影響について懸念を表明。また、民主党のジュリー・チャベス・ロドリゲス選挙運動管理者は、即時行動を取ることを検討中であると述べた。この事件は民主主義への攻撃とみなされ、関与者の特定と法的措置が求められている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 25 Jan 2024 09:25:34 +0000</pubDate></item><item><title>日本初、アバターで通える通信制高校「勇志国際高等学校メタバース生」今春入学・転入生募集開始</title><link>https://ledge.ai/articles/metaverse_highschoool</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2446,33 +2469,7 @@ ChatGPTを活用した自治体の試みは注目されていたが、今回の�
 :::box
 
 :::
-</description><pubDate>Mon, 25 Dec 2023 11:47:00 +0000</pubDate></item><item><title>東京都、AIによる婚活マッチングサービス「TOKYOふたりSTORY」無料提供開始</title><link>https://ledge.ai/articles/tokyo_futari_story</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2023年12月7日、東京都は新しいAIマッチングシステムを用いた婚活支援を{target=“_blank”}した。
-
-結婚に関心はあるがアプリ利用に不安を感じる人々を対象としたこのシステムは、価値観診断テストに基づき、AIが相性の良いパートナーを紹介する。安全性確保のため、独身証明や収入証明などの本人確認を徹底し、専門スタッフによるオンライン相談対応も提供される。対象は、18歳以上の独身男女で、特にTOKYOふたりSTORY交流イベントの参加者が優先される。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-入会申し込みをすると、オンラインで入会面談が行われる。プロフィール登録、必要書類のアップロード、価値観診断テスト受検（任意）を経て、AIによるお相手紹介・お見合いへ。双方OKならばお友達交際へ進むという流れだ。
-
-今年度は交流イベント参加者などの先行利用者に限定され、本格稼働は令和6年度の早い時期を予定している。東京都は、このシステムを通じて収集した意見を反映し、来年度に向けてサービスの充実を図る。現在はweb今後はスマートフォン向けアプリも配信予定とのこと。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 23 Dec 2023 06:05:54 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
+</description><pubDate>Mon, 25 Dec 2023 11:47:00 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
