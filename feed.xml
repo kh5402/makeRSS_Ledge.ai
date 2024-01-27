@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Jan 2024 03:05:20 +0000</lastBuildDate><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Jan 2024 11:07:12 +0000</lastBuildDate><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2504,7 +2504,28 @@ ChatGPTを活用した自治体の試みは注目されていたが、今回の�
 :::box
 
 :::
-</description><pubDate>Mon, 25 Dec 2023 11:47:00 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
+</description><pubDate>Mon, 25 Dec 2023 11:47:00 +0000</pubDate></item><item><title>AIゴッホと対話できる「Bonjour Vincent（ボンジュール・ヴィンセント）」学術機関との共同研究の成果が仏オルセー美術館で開催中　2024年2月4日まで！</title><link>https://ledge.ai/articles/bonjour_vinzent_musee-orsay</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ゴッホ生誕170周年となる2023年、パリのオルセー美術館では同年10月より「ヴァン・ゴッホ展」を開催している。「”Van Gogh à Auvers-sur-Oise, les derniers mois”）～オーヴェルシュルオワーズ最後の数か月（Van Gogh in Auvers-sur-Oise）」という、画家ゴッホが生涯で最も多くの作品を残したされる最後の70日間にフォーカスした展示だ。
+
+この企画に合わせ、フランスのスタートアップJumbo Manaが開発した生成AI「Bonjour Vincent（ボンジュール・ヴィンセント）」アプリケーションで、訪問者がゴッホと対話できるコーナーを{target=“_blank”}している。
+
+この生成AIアプリケーションは、ゴッホのやり取りした約900通の手紙をコーパスとして学習しており、彼の人生や作品について語る「AIゴッホ」との対話を可能にする。来場者は、インタラクティブ端末に接続されたマイクを使用して、有名な「カラスのいる麦わら畑」を描いている最中のAIゴッホに話しかけ、一対一での会話を楽しめるという。
+
+このプロジェクトは、BPI FranceとGrand-Est地域、パリ大学サクレー校、科学計算資源開発研究所(IDRIS)の支援を受け、Jumbo Manaとゴッホの専門家であるWouter van der Veen博士との共同研究によって実現した。オルセー美術館とのパートナーシップにより、学術研究から来訪者との直接的な相互作用を伴う応用研究へと移行し、来訪者が質問すればするほど、AIは学習し向上していく。
+
+展示は2024年2月4日まで。「Bonjour Vincen」コーナーは、オルセー美術館の展示会出口で無料で利用可能。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 26 Jan 2024 11:07:12 +0000</pubDate></item><item><title>AIお絵描きアプリ「AIピカソ」、1枚の全身画像からダンス動画を生成する「AIダンス」機能をリリース</title><link>https://ledge.ai/articles/ai_picasso_ai_dance</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2819,35 +2840,4 @@ VRMファイルに対応し、お気に入りの3Dモデルをアップロード
 :::box
 
 :::
-</description><pubDate>Fri, 22 Dec 2023 13:32:11 +0000</pubDate></item><item><title>「Suno AI」が Microsoft Copilot のプラグインに。文章で指示すると、作詞作曲して歌い上げてくれるAI</title><link>https://ledge.ai/articles/suno-ai_microsoft_copilot</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-連日テキストから画像や動画を生成するAIのニュースで目白押しだが、音楽生成も負けていない。ホリデーシーズンを目前に、X（旧Twitter）を賑わせたのは、音楽生成AI「Suno」だ。Sunoは、作曲や演奏技術などの音楽的なバックグラウンドを持たない人も、気軽に高品質な音楽を作って楽しめる音楽生成AIで、あらゆるレベルの音楽愛好家に音楽制作の機会を提供することを目指すサービスだという。
-
-2023年12月19日、Microsoft CopilotはSunoとのパートナーシップを{target=“_blank”}した。
-
-ユーザーは、Microsoft Edgeを開き、copilot.microsoft.comにアクセス。Microsoftアカウントでサインイン後、Sunoプラグインを有効にするだけでセットアップは完了。「家族との冒険についてのポップソングを作成して」といったようにCopilotに曲を依頼することで、音楽制作をスタートできる。自作した歌詞に合う曲を制作するように指示することも可能だ。
-
-!
-:::small
-ledge編集部でも楽曲リクエスト。SunoのプラグインをONにしてプロンプトを入力。
-:::
-
-
-!
-:::small
-ものの数分でオリジナルのクリスマスソングが完成。20秒～30秒程度の曲が生成されるようだ。
-:::
-
-Sunoを手がけるのは、マサチューセッツ州ケンブリッジに拠点を置くミュージシャンやAIの専門家から成るチームだ。Meta、TikTok、Kenshoなどの先進的なテック企業の出身者などが集まって創業したとのこと。
-
-Microsoftのサービスは今後数週間で拡大していく予定だという。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 22 Dec 2023 13:22:14 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 22 Dec 2023 13:32:11 +0000</pubDate></item></channel></rss>
