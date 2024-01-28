@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Jan 2024 11:12:26 +0000</lastBuildDate><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 27 Jan 2024 12:46:16 +0000</lastBuildDate><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1819,7 +1819,61 @@ Googleは「Google検索」に英語文の文法ミスを見つける機能「{t
 
 
 　
-</description><pubDate>Thu, 17 Aug 2023 02:23:11 +0000</pubDate></item><item><title>LLMを最新の大学入試共通テストで比較　GPT-4がTOPも医師国家試験合格の実力にしては若干物足りない？</title><link>https://ledge.ai/articles/llms_took_the_common_test_2024</link><description>:::small
+</description><pubDate>Thu, 17 Aug 2023 02:23:11 +0000</pubDate></item><item><title>LLMの「ハルシネーション（幻覚）」対策に32の体系的テクニック　AmazonAIとイスラム工科大などの研究チームが発表</title><link>https://ledge.ai/articles/32_techniques_for_hallucination_mitigation_in_llms</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年1月8日、イスラム工科大学、サウスカロライナ大学AI研究所、スタンフォード大学、AmazonAIの研究者チームは、大規模言語モデル（LLM）における「ハルシネーション（幻覚）」の問題を軽減するための32の技術を{target=“_blank”}した。
+
+幻覚とは、LLMが事実に基づかない内容や誤った情報を生成する現象を指す。これは、教育、医療、金融分析、法務アドバイスなどの繊細さが求められる応用分野において特に問題となる。小さなエラーでも大きな影響を及ぼす可能性があり、LLMの安全な実用化に向けて、幻覚の軽減は極めて重要とされている。論文では、特に情報取得強化生成（RAG）やプロンプトエンジニアリングなど、一般的によく知られている方法を含む幅広いテクニックが紹介されている。
+
+研究者たちは、幻覚の問題に対処するための多様なアプローチを体系的に分類した。これには、生成前、生成中、生成後の各段階での情報取得の最適化や、フィードバックに基づく自己改善、教師ありファインチューニングなどが含まれる。これらのテクニックは、LLMがより信頼性の高い情報を生成するために役立つと期待される。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 27 Jan 2024 05:18:51 +0000</pubDate></item><item><title>Nature論文：Google DeepMind「AlphaGeometry」数学オリンピックレベルの幾何学問題を解く</title><link>https://ledge.ai/articles/google_deepmind_alpha-geometry</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+Google DeepMindは2024年1月17日、数学オリンピックレベルの高度な幾何学問題を解くAIシステム「AlphaGeometry」をNature誌の論文で{target=“_blank”}した。
+
+このAIシステムは、人間の思考に近い方法で複雑な問題を解析する。現在の機械学習アプローチは、人間による証明を機械が検証可能な形式に変換するコストが高く、特に幾何学分野ではその課題が顕著であった。しかし、AlphaGeometryは数百万の定理と証明を自動生成することで、これらの問題を克服している。
+
+AlphaGeometryは、ニューラル言語モデルと記号的推論エンジンを組み合わせた神経記号システムとして構築されている。これにより、無限の枝分かれを持つ難問を解決する過程で、人間に読める形式の証明を生成することができる。30問の国際数学オリンピック（IMO）レベルの最新問題テストセットにおいて、AlphaGeometryは25問を解決し、以前の最高記録である10問を上回り、平均的なIMO金メダリストの成績に近づいた。
+
+!
+:::small
+画像の出典：target=“_blank”}
+:::
+
+研究では、AlphaGeometryが2000年と2015年の国際数学オリンピックのすべての幾何学問題を人間の専門家の評価の下で解き、2004 年に翻訳された IMO 定理の一般化バージョンを発見したことに注目した。また、この成果が、人間レベルの自動推論における顕著なマイルストーンとされ、AI研究における定理証明の能力向上への長期的な取り組みを反映していると述べている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 27 Jan 2024 12:46:16 +0000</pubDate></item><item><title>LLMを最新の大学入試共通テストで比較　GPT-4がTOPも医師国家試験合格の実力にしては若干物足りない？</title><link>https://ledge.ai/articles/llms_took_the_common_test_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2159,68 +2213,7 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jan 2024 05:30:58 +0000</pubDate></item><item><title>言葉や音をオーディオ形式に変換するAI「Amphion」テイラー・スウィフトが歌う中国の歌を生成</title><link>https://ledge.ai/articles/amphion</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月15日、香港中文大学（深セン）のデータサイエンス学部を含む研究チームは、オーディオ音楽・音声生成のための包括的ツールキット「Amphion」の開発を{target=“_blank”}した。
-
-研究者がAmphionの作成した作品を動画「Amphionはテイラー・スウィフトに中国語の歌を歌わせる」と題して公開し、SNSを賑わせた。
-@
-
-このツールキットの公開は、研究の再現性をサポートし、初歩段階の研究者やエンジニアに対する音楽・音声生成分野へのハードルを下げることが目的だという。Amphionは、テキストから音声（TTS）、歌声変換（SVC）、テキストからオーディオ（TTA）などの機能を提供する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-独自の特徴として、古典モデルやアーキテクチャの視覚化を行い、その内部メカニズムの理解を助ける。これにより、音声合成技術や歌声変換技術の進化に貢献すると期待されている。
-
-下図は「Amphion」のシステムアーキテクチャの設計を示す。データ処理、共通モジュール、最適化アルゴリズムを統合した基盤の上に、特定の生成タスクごとにデータ使用、モデルフレームワーク、トレーニングパイプラインを構築し、各モデルの指示（レシピ）をユーザーに提供する。すべてのモデルのレシピ形式を統一し、できるだけ自己完結型で初心者にも優しいものとしている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-ツールキットはMITライセンスのもとでオープンソースとして公開されており、{target=“_blank”}だ。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 05 Jan 2024 06:48:01 +0000</pubDate></item><item><title>2024年 年頭所感   日本ディープラーニング協会理事長 松尾 豊 氏 </title><link>https://ledge.ai/articles/jdla_matsuo_2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年1月4日、日本ディープラーニング協会（JDLA）の理事長松尾豊氏は、2024年の年頭所感を{target=“_blank”}した。
-
-同氏は、昨年はまさに生成AIに始まって生成AIに終わった年と言えるほど、生成AIの進展が目覚ましく、全世界を巻き込む大ブームとなったと述べる。OpenAIのGPT-4・MicrosoftのCopilot Studio・MetaのLLaMA 2・GoogleのGeminiなど、多くの発表が相次いだ。それと同時に、OpenAIのCEOサム・アルトマン氏のTIME誌の2023「CEO OF THE YEAR」受賞や、11月の解任劇に触れ、「映画のような展開」と表現した。
-
-また昨年は、世界的にAIに関する安全性の議論が活発化し、日本も同氏が座長として司会進行を務めるAI戦略会議を通じて、日本のA政策を進めた。JDLAは生成AIに関するセミナーやテストを実施し、G検定やE資格の合格者数が増加。5月には「生成AIの利用ガイドライン」を発表。高専生を支援する「高専DCON」活動も行い、会員数の拡大を推し進めた。
-
-最後に松尾氏は、ディープラーニングと生成AIの技術が日本と社会全体に新しい希望をもたらすことを願うと述べた。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 05 Jan 2024 05:31:09 +0000</pubDate></item><item><title>全世界の約40%の雇用がAIによって影響を受けると予測　IMF報告より</title><link>https://ledge.ai/articles/Imf_report_ai_will_transform_the_global_economy</link><description>:::small
+</description><pubDate>Sat, 06 Jan 2024 05:30:58 +0000</pubDate></item><item><title>全世界の約40%の雇用がAIによって影響を受けると予測　IMF報告より</title><link>https://ledge.ai/articles/Imf_report_ai_will_transform_the_global_economy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
