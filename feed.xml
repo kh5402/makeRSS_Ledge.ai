@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 27 Jan 2024 12:46:16 +0000</lastBuildDate><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Jan 2024 02:30:50 +0000</lastBuildDate><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2213,7 +2213,32 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jan 2024 05:30:58 +0000</pubDate></item><item><title>全世界の約40%の雇用がAIによって影響を受けると予測　IMF報告より</title><link>https://ledge.ai/articles/Imf_report_ai_will_transform_the_global_economy</link><description>:::small
+</description><pubDate>Sat, 06 Jan 2024 05:30:58 +0000</pubDate></item><item><title>OpenAI、大統領候補者なりすましAI「Dean.Bot」開発者のアカウント凍結</title><link>https://ledge.ai/articles/openai_suspends_developer_behind_dean-phillips-bot</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIが、米国大統領候補者である民主党のディーン・フィリップス議員を模倣したチャットボット「Dean.Bot」を開発したDelphi AIのアカウントを凍結したと2024年1月20日のワシントンポストが{target=“_blank”}。これは、OpenAIによるガイドライン違反に対する初のアカウント凍結措置だという。
+
+OpenAIは1月15日に、2024年の世界的な選挙に向けた取り組みを{target=“_blank”}しており、AI技術を利用した選挙プロセスの損害を防ぐための戦略として、ディープフェイクやチャットボットのなりすましに対抗する措置を執り行うとしていた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Dean.Botは、フィリップス議員を支援する政治資金管理団体「We Deserve Better」の依頼で、AIスタートアップのDelphiが作成したChatGPTボットだ。悪意あるなりすましではないものの、OpenAIの制限する政治活動やロビー活動を目的としたアプリケーションの構築にあてはまるため、措置の対象となったという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Jan 2024 02:30:50 +0000</pubDate></item><item><title>全世界の約40%の雇用がAIによって影響を受けると予測　IMF報告より</title><link>https://ledge.ai/articles/Imf_report_ai_will_transform_the_global_economy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2472,38 +2497,7 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 :::box
 
 :::
-</description><pubDate>Thu, 28 Dec 2023 08:42:14 +0000</pubDate></item><item><title>AIでこどもの不登校を予測ーー戸田市✕内田洋行✕PKSHAのプロジェクト開始</title><link>https://ledge.ai/articles/toda-city_pksha_uchida</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-こどもの教育データをAIが分析し、不登校の予兆検知モデルの構築を目指す事業が動き始めた。
-
-PKSHA Technologyは2023年12月15日、グループ会社のアルゴノートが内田洋行と共に、こども家庭庁の「こどもデータ連携実証事業」に参画することを{target=“_blank”}した。
-
-このプロジェクトは、埼玉県戸田市内の18の小中学校で実施され、2023年11月にパイロット校での試行が始まった。PKSHAは、ビジネス領域で培ったAI技術を社会課題の解決に応用し、共同プロジェクトを進めることで、より良い社会の実現を目指している。
-
-この実証研究では、内田洋行と協力し、不登校の予兆を予測するためのAIモデルを構築する。このモデルは、出席状況、保健室利用状況などの学校データに加え、埼玉県の学力・学習状況調査や健康診断結果などの情報を分析に利用する。
-
-リスクスコアとその根拠となるデータ項目を表示することで、教職員が具体的な支援活動を行えるようサポートする計画だ。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-プロジェクトの主要なフェーズには、データ項目の選定、モデルの構築、モデルの検証が含まれる。個人情報保護法に基づき、様々なデータを集約し分析することで、リスクと根拠となる項目を重要度順に可視化する。AIの予測結果に説明性を持たせることにより、教職員がより効果的に判断し行動できると期待される。
-
-この取り組みは、児童虐待、いじめ、不登校、ヤングケアラーなど、こどもを取り巻く問題の予兆を検知し、能動的に支援する「プッシュ型支援」の実現を目指している。長期的な予測を通じて、不登校の予兆検知モデルの精度を向上させ、いじめなどのSOS検知にも取り組む予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Tue, 26 Dec 2023 06:16:05 +0000</pubDate></item><item><title>AIゴッホと対話できる「Bonjour Vincent（ボンジュール・ヴィンセント）」学術機関との共同研究の成果が仏オルセー美術館で開催中　2024年2月4日まで！</title><link>https://ledge.ai/articles/bonjour_vinzent_musee-orsay</link><description>:::small
+</description><pubDate>Thu, 28 Dec 2023 08:42:14 +0000</pubDate></item><item><title>AIゴッホと対話できる「Bonjour Vincent（ボンジュール・ヴィンセント）」学術機関との共同研究の成果が仏オルセー美術館で開催中　2024年2月4日まで！</title><link>https://ledge.ai/articles/bonjour_vinzent_musee-orsay</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
