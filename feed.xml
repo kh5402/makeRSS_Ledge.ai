@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Jan 2024 02:30:50 +0000</lastBuildDate><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Jan 2024 13:46:56 +0000</lastBuildDate><item><title>Apple Car開発「完全自動運転」から「レベル２＋」に後退。テスラと足並み揃え基本性能を充実させるEVへ</title><link>https://ledge.ai/articles/apple_car_ev_set_to_debut_in_2028_with_limited_autonomous_driving</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+米国Appleは2024年1月24日、10年以上にわたる自動車開発プロジェクトで方針転換を行い、電気自動車（EV）の発売を2028年に延期すると発表したことをBloombergが{target=“_blank”}。
+
+報道によると、Appleは当初、完全な自動運転車の開発を目指していたが、現在は限定的な機能を持つEVを開発中とのこと。これにより、車の発売は以前の予測から2年遅れて2028年の見込みとなる。
+
+このプロジェクトは「Titan」および「T172」というコードネームで呼ばれ、責任者の交代、戦略の変更が相次ぎ、遅延が発生していたという。
+
+計画に詳しい関係者への取材によれば、当初目指していたレベル4クラスの車両は近い将来での完成が難しく、テスラ社の現在の能力に合わせてダウングレードし、いわゆるレベル2+システムを採用。より基本的な運転支援機能を開発しているという。レベル2+のEVをデビューさせた後、レベル4の自動運転システムとさらなる地域への対応を計画しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Jan 2024 13:46:56 +0000</pubDate></item><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -361,43 +383,7 @@ MetaのCEOマーク・ザッカーバーグ氏は現地時間の2024年1月18日
 :::box
 
 :::
-</description><pubDate>Fri, 19 Jan 2024 12:15:48 +0000</pubDate></item><item><title>AI inside、生成AI搭載「DX Suite」の大型アップデート。ファイル転記など新機能を実装しデータ化の後もワンストップで自動化</title><link>https://ledge.ai/articles/ai-inside_dxs-majour-update</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-AI inside株式会社は2024年1月17日、AI-OCRサービス「DX Suite」に生成AIを実装した大型アップデートを行い、AI-OCR市場を再定義する技術革新を実現したと{target=“_blank”}した。このアップデートにより、学習不要であらゆるフォーマットの書類の読み取り、後続業務のデータ処理の自動化が可能になるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-「DX Suite」の最新バージョンは、従来のAI-OCR機能を大幅に強化し、定型・非定型に関わらずあらゆる書類を読み取る。これまで技術的に難易度が高くデジタル化が遅れていた非定型書類もAI-OCR市場として本格的に包含し、業務のデジタル化を推進する。
-
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-読み取った書類データをExcelファイルに自動転記する新機能や、要約機能、クレーム有無の判定機能など、生成AIを活用した多様な新機能の追加を予定している。
-
-AI-OCR後のデータ処理の自動化だけでなく、業務で利用頻度の高いOfficeファイル・音声ファイルへの対応も計画しており、取り扱えるデータの種類を増やすという。これら生成AIを活用した新機能群を「Extensions」とし、「DX Suite」の適用業務のさらなる拡張を目指す。
-
-処理スピードは従来比で60%向上し、ユーザーインターフェースも改善。加えて、ユーザー専用のスケーラブルなクラウド環境を即座に提供可能となり、大量の書類を読み取るユーザーにはコスト削減にもつながるとのこと。
-
-DX Suiteユーザーは「Extensions」を2024年3月31日まで無料で利用できる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Jan 2024 10:31:20 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Fri, 19 Jan 2024 12:15:48 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
