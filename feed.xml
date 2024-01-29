@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Jan 2024 13:46:56 +0000</lastBuildDate><item><title>Apple Car開発「完全自動運転」から「レベル２＋」に後退。テスラと足並み揃え基本性能を充実させるEVへ</title><link>https://ledge.ai/articles/apple_car_ev_set_to_debut_in_2028_with_limited_autonomous_driving</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Jan 2024 13:51:00 +0000</lastBuildDate><item><title>Apple Car開発「完全自動運転」から「レベル２＋」に後退。テスラと足並み揃え基本性能を充実させるEVへ</title><link>https://ledge.ai/articles/apple_car_ev_set_to_debut_in_2028_with_limited_autonomous_driving</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1542,7 +1542,43 @@ Auto Trainはノーコードで機械学習のモデルを学習、評価、デ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 15 Aug 2023 04:59:26 +0000</pubDate></item><item><title>NTTドコモ、NPCを自動生成するAIを開発ーー過疎バースに賑わいを創出。メタぼっちでもへっちゃら？</title><link>https://ledge.ai/articles/docomo_openhouse24_metaverse</link><description>:::small
+:::</description><pubDate>Tue, 15 Aug 2023 04:59:26 +0000</pubDate></item><item><title>ゲーム開発者会議「GDC2024」事前調査で、レイオフや生成AIの影響が浮き彫りに。31%が生成AIを使って開発している。</title><link>https://ledge.ai/articles/gdc2024_reserch</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ゲーム開発者を中心とした会議「Game Developers Conference（GDC）」の主催団体は2024年1月18日、第12回年次ゲーム業界調査の結果を{target=“_blank”}した。この調査は、3月18日から開催される「GDC 2024」に先立ち行われたもので、3000人以上のゲーム業界の関係者から回答を得た。
+
+調査結果によると、回答者の31%が仕事で生成AIを使用していると回答し、18%が自分は使用していないが職場の同僚が使用していると回答した。生成AIに関しては、開発者の84％がその倫理的使用について何らかの懸念を抱いていることが分かった。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+その他調査では、レイオフの増加や、ゲームエンジンのポリシーと価格設定の変更に関する懸念が見受けられたという。
+
+レイオフに関しては、開発者のうち3分の1が影響を受けており、12ヶ月以内にレイオフがあるかもしれないと懸念している者が過半数に上ることが明らかになった。品質保証の開発者は最も影響を受けており、22%が今年レイオフされたと回答した。一方で、ビジネスとファイナンスの専門家は2%と最もレイオフが少ないという。
+
+ゲームエンジンについては、過去1年以内に変更した、または変更を検討している開発者が3分の1に上り、主に使用されているゲームエンジンはUnreal EngineとUnityであることが判明した。
+
+さらに、アクセシビリティ機能の組み込みの増加も特徴的だという。
+ほぼ半数の開発者が現在のプロジェクトにアクセシビリティ対策を実施しており、最も人気のある機能にはクローズドキャプション、色覚モード、コントロールの再マッピングなどが含まれている。
+
+また、企業が、リモートワークや在宅勤務から通常のオフィス環境への復帰を指示または促進する傾向にあるとのこと。
+AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオフィスへの復帰ポリシーが義務化されており、うち現在40％がオフィスでの全日勤務またはハイブリッドスケジュールを実施していることが判明した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>NTTドコモ、NPCを自動生成するAIを開発ーー過疎バースに賑わいを創出。メタぼっちでもへっちゃら？</title><link>https://ledge.ai/articles/docomo_openhouse24_metaverse</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1784,28 +1820,7 @@ Excelのコネクタ機能とPower Query（パワークエリ）機能で外部�
 :::
 :::box
 
-:::</description><pubDate>Fri, 25 Aug 2023 11:00:00 +0000</pubDate></item><item><title>「Google検索」に英文の文法チェック機能を追加 AIがより適切な書き方を提案</title><link>https://ledge.ai/articles/google_search_grammer_check</link><description>:::small
-
-:::
-Googleは「Google検索」に英語文の文法ミスを見つける機能「{target=“_blank”}」を追加した。2023年8月17日時点では、この機能は英語のみ利用可能だ。
-
-利用方法は簡単で、検索バーにチェックを希望する英文を入力し「grammar check」「check grammar」などのキーワードを併記するだけだ。文法ミスがあれば、Googleは文章を修正し、変更した部分に下線を引く。正しい文章はコピーが可能で、文法ミスがない場合は緑色のチェックマークが表示される。
-
-この文法チェック機能はAIを利用しており、必ずしも100％正確ではないと同社は指摘している。特に不完全な文の場合、注意が必要だ。さらに「危険」「ハラスメント」「ヘイト」などのコンテンツが同社の検索ポリシーに違反する場合、文法チェックは行われない。
-
-なお、AIによる高度な翻訳サービスで知られるドイツDeepLも2023年1月、英語の文章を自然な形に校正する「{target=“_blank”}」を公開している。
-
-:::box
-
-:::
-
-:::box
-
-:::
-
-
-　
-</description><pubDate>Thu, 17 Aug 2023 02:23:11 +0000</pubDate></item><item><title>LLMの「ハルシネーション（幻覚）」対策に32の体系的テクニック　AmazonAIとイスラム工科大などの研究チームが発表</title><link>https://ledge.ai/articles/32_techniques_for_hallucination_mitigation_in_llms</link><description>:::small
+:::</description><pubDate>Fri, 25 Aug 2023 11:00:00 +0000</pubDate></item><item><title>LLMの「ハルシネーション（幻覚）」対策に32の体系的テクニック　AmazonAIとイスラム工科大などの研究チームが発表</title><link>https://ledge.ai/articles/32_techniques_for_hallucination_mitigation_in_llms</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
