@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jan 2024 02:20:59 +0000</lastBuildDate><item><title>【出張！ビヨ勉】日本・カナダ・中国に拠点を構えるITベンチャーの社長に聞く、エンジニアリング組織の作り方！｜AI TALK NIGHT vol.20</title><link>https://ledge.ai/articles/ai-talk-night-vol20</link><description>「AI TALK NIGHT」第20回開催のお知らせです。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jan 2024 06:48:45 +0000</lastBuildDate><item><title>IBMが中部国際空港でAIロボット「Spot」を活用した警備業務の実証実験を開始</title><link>https://ledge.ai/articles/ibm_pilot_project_using_spot_at_centrair</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日本IBMは2024年1月9日、中部国際空港でAI搭載ロボット「Spot」を使用した空港警備業務の実証実験を実施すると{target=“_blank”}した。
+
+同社は、内閣府「先端的サービスの開発・構築や先端的サービス実装のためのデータ連携等に関する調査事業（2次募集・全国対象）」に採択された「空港等の警備業務におけるAI搭載ロボットの導入に関する調査・実証」を2023年11月に事業代表者として受託。愛知県の推進する「あいちデジタルアイランドプロジェクト」の対象エリアである中部国際空港で1月18日から19日と2月15日から16日までの2回にわたり、実証実験を行う。
+
+実証に使用されるAI搭載ロボットは、米国{target=“_blank”}の公式パートナー企業で、日本国内での四足歩行ロボットSpot®をはじめとするロボット販売サービスを行う東北エンタープライズが提供する。
+
+AI搭載ロボットの導入により、警備計画の高度化、警備業務の省力化、労働環境改善を目指し、警備人材不足の解消を図る。ロボットによるデータ収集とその活用、道路交通法上の取り扱いについても検討されるという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 29 Jan 2024 06:48:45 +0000</pubDate></item><item><title>【出張！ビヨ勉】日本・カナダ・中国に拠点を構えるITベンチャーの社長に聞く、エンジニアリング組織の作り方！｜AI TALK NIGHT vol.20</title><link>https://ledge.ai/articles/ai-talk-night-vol20</link><description>「AI TALK NIGHT」第20回開催のお知らせです。
 レッジが主催する、他業界の方と交流できる無料のオフラインイベント「AI TALK NIGHT」。今回は、株式会社ビヨンドが開催する「ビヨンド勉強会」とのコラボ企画です。是非お気軽にご参加ください。
 
 :::button
@@ -436,28 +459,7 @@ AI活用がより身近になってきた昨今の状況は、逆の見方をす
 :::box
 
 :::
-</description><pubDate>Mon, 22 Jan 2024 02:57:52 +0000</pubDate></item><item><title>サムスン電子とGoogle Cloudが提携、「Galaxy S24シリーズ」に生成AIを導入</title><link>https://ledge.ai/articles/samsung_googlecloud_partnership_genai_on_galaxys24</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-サムスン電子とGoogle Cloudは米国時間の2024年1月17日、新しい複数年にわたるパートナーシップを{target=“_blank”}した。
-
-サムスンは、カリフォルニア州サンノゼで開催した新製品発表会「Galaxy Unpacked」で、最新スマートフォン「Galaxy S24 シリーズ」を発表した。このシリーズを皮切りに、サムスンはクラウド経由で Vertex AI の「Gemini Pro」と「Imagen 2」をスマートフォン端末に展開する初の Google Cloud パートナーとなる。
-
-マルチモーダルAIの Gemini は、テキスト、コード、画像、動画など、さまざまな種類の情報を一般化してシームレスに理解、操作し、組み合わせることができる。ユーザーは、サムスン純正のアプリをはじめ、ノート、ボイスレコーダー、キーボードで要約機能を利用可能。また、Vertex AI の Gemini Pro は、セキュリティ、安全性、プライバシー、データ コンプライアンスを含む Google Cloud の重要な機能をサムスンに提供するという。
-
-また、Galaxy S24シリーズのユーザーは、Google DeepMindの最先端のテキストから画像への変換技術であるImagen 2からも直ちに恩恵を受ける。Imagen 2 on Vertex AIを使用することで、サムスンは安全かつ直感的な写真編集機能をユーザーの手に届ける。
-
-このパートナーシップの一環として、サムスンは、複雑なタスクに対応する最も優れたモデルであるGemini Ultraのテストを行う最初の顧客の一つでもある。S24シリーズはまた、Android 14オペレーティングシステムの一部として提供されるオンデバイスLLMであるGemini Nanoも使用予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 20 Jan 2024 14:55:33 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Mon, 22 Jan 2024 02:57:52 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
