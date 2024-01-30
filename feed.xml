@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jan 2024 08:34:07 +0000</lastBuildDate><item><title>IBMが中部国際空港でAIロボット「Spot」を活用した警備業務の実証実験を開始</title><link>https://ledge.ai/articles/ibm_pilot_project_using_spot_at_centrair</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jan 2024 08:37:35 +0000</lastBuildDate><item><title>IBMが中部国際空港でAIロボット「Spot」を活用した警備業務の実証実験を開始</title><link>https://ledge.ai/articles/ibm_pilot_project_using_spot_at_centrair</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2295,7 +2295,30 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::box
 
 :::
-</description><pubDate>Sun, 07 Jan 2024 06:05:43 +0000</pubDate></item><item><title>OpenAI、大統領候補者なりすましAI「Dean.Bot」開発者のアカウント凍結</title><link>https://ledge.ai/articles/openai_suspends_developer_behind_dean-phillips-bot</link><description>:::small
+</description><pubDate>Sun, 07 Jan 2024 06:05:43 +0000</pubDate></item><item><title>千葉市、高層マンションへドローン配送実験。地上配送ロボットと連携</title><link>https://ledge.ai/articles/chiba_drone_last_one_mile</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+千葉市は2023年12月5日、国土交通省の「無人航空機等を活用したラストワンマイル配送実証事業」の一環として、都市部の高層マンションへの無人配送を目指す実証実験を株式会社ダイヤサービス、SBS即配サポート株式会社と共同で実施することを{target=“_blank”}した。この実験は、ドローンおよび地上配送ロボットの連携により12月20日に幕張新都心で行われた。
+
+物流業界におけるドライバー不足や宅配の小ロット化などの問題を背景に、これらの解決策としてドローン物流や自動配送ロボットの社会実装が期待されている。千葉市では、2016年から国家戦略特区に指定され、ドローン宅配構想の実現に向けた取り組みを進めている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+実証実験では、自律飛行するドローンがマンション付近のドローンポートまで荷物を運び、そこから地上配送ロボットに荷物を受け渡し、最終的にはマンション住民の玄関前まで配送する流れをテストした。これにより、緊急性の高い医薬品の配送など、宅配ドライバーとの対面を避けたい場合に特に有用な配送方法の確立を目指す。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 29 Jan 2024 08:37:35 +0000</pubDate></item><item><title>OpenAI、大統領候補者なりすましAI「Dean.Bot」開発者のアカウント凍結</title><link>https://ledge.ai/articles/openai_suspends_developer_behind_dean-phillips-bot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2557,29 +2580,7 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 
 :::
 
-</description><pubDate>Fri, 29 Dec 2023 07:32:30 +0000</pubDate></item><item><title>AI兵器への対応を急ぐ。LAWS（自律型致死平気システム）への国連総会決議　日米など152カ国賛成</title><link>https://ledge.ai/articles/un_general_assembly_resolution_to_laws</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2023年12月22日、国連総会は、自律型致死兵器システム（LAWS）に関する新たな決議案を日本や米国など152カ国の賛成で{target=“_blank”}した。
-
-ロシアやインドなど4か国が反対し、中国や北朝鮮、イスラエルなど11か国が棄権した。同決議は、11月1日、国連第一委員会（軍縮および国際安全保障）にオーストリアが提案し、先進7か国（G7）を含む164カ国の賛成で採択されていたもの。自律型致死兵器システムについて国連総会で決議が採択されるのは初めて。
-
-自律型致死兵器システム（LAWS： Lethal Autonomous Weapons Systems）とは、AI技術を利用して、ターゲットの選定や攻撃の実行など特定の軍事的決定を人間の関与なしに自律的に行うことができ、致死性を有する「完全自律型兵器」を指すが、現段階では定義が定まっていない。LAWSの開発と使用には、倫理的、法的、安全性に関する複数の重大な問題が含まれているとされ、国際社会において広範な議論を引き起こしている。
-
-各国の代表は、LAWSが国際安全保障、地域安定性、そして世界安全に及ぼす可能性のある否定的な影響や新たな軍備競争のリスク、紛争や拡散の閾値を下げることに懸念を示し、国際社会にこれらの兵器システムによって生じる課題と懸念に対処するよう強調し、加盟国やオブザーバー国からの意見を求めるよう国連に促した。国際機関、国際赤十字社、市民社会、科学界、産業界からの意見も求め、次期会期までにグテーレス国連事務総長が報告書を提出することが決定した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 28 Dec 2023 08:42:14 +0000</pubDate></item><item><title>AIゴッホと対話できる「Bonjour Vincent（ボンジュール・ヴィンセント）」学術機関との共同研究の成果が仏オルセー美術館で開催中　2024年2月4日まで！</title><link>https://ledge.ai/articles/bonjour_vinzent_musee-orsay</link><description>:::small
+</description><pubDate>Fri, 29 Dec 2023 07:32:30 +0000</pubDate></item><item><title>AIゴッホと対話できる「Bonjour Vincent（ボンジュール・ヴィンセント）」学術機関との共同研究の成果が仏オルセー美術館で開催中　2024年2月4日まで！</title><link>https://ledge.ai/articles/bonjour_vinzent_musee-orsay</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
