@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jan 2024 06:48:45 +0000</lastBuildDate><item><title>IBMが中部国際空港でAIロボット「Spot」を活用した警備業務の実証実験を開始</title><link>https://ledge.ai/articles/ibm_pilot_project_using_spot_at_centrair</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jan 2024 08:34:07 +0000</lastBuildDate><item><title>IBMが中部国際空港でAIロボット「Spot」を活用した警備業務の実証実験を開始</title><link>https://ledge.ai/articles/ibm_pilot_project_using_spot_at_centrair</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1896,7 +1896,40 @@ Excelのコネクタ機能とPower Query（パワークエリ）機能で外部�
 :::
 :::box
 
-:::</description><pubDate>Fri, 25 Aug 2023 11:00:00 +0000</pubDate></item><item><title>LLMの「ハルシネーション（幻覚）」対策に32の体系的テクニック　AmazonAIとイスラム工科大などの研究チームが発表</title><link>https://ledge.ai/articles/32_techniques_for_hallucination_mitigation_in_llms</link><description>:::small
+:::</description><pubDate>Fri, 25 Aug 2023 11:00:00 +0000</pubDate></item><item><title>中華料理も作れるロボットがスゴすぎる　移動操作を低コストで模倣学習する「Mobile ALOHA」スタンフォード大が開発</title><link>https://ledge.ai/articles/Imitation_learning_mobile_aloha</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国スタンフォード大学の研究チームは2024年1月4日、人間のデモンストレーションをロボットに模倣させ、移動操作タスクを学習させる低コストなシステムを提案する論文を{target=“_blank”}した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+模倣学習に関して研究チームは、これまでも研究成果は発表されてきたが、卓上タスクでの操作に焦点を当てているものが多く、一般的に役立つタスクに必要な移動能力と器用さに欠けていたと説明する。同研究では、移動操作タスクを模倣するシステムを開発し、それを「Mobile ALOHA」と名付けた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Mobile ALOHAは、移動基盤と全身テレオペレーションインターフェイスを備えた低コストのデータ収集システムで、集めたデータを用いて、監督された行動クローニングを行う。これを既存の静止ALOHAデータセットと共同トレーニングすることで、移動操作タスクのパフォーマンスが向上することがわかったという。
+
+以下は、Mobile ALOHAが中華料理のコースメニューを自律的に調理する様子を記録した動画だ。
+
+@
+各タスクに50回のデモンストレーションを行うことで、共同トレーニングは成功率を最大90%まで向上させることができ、Mobile ALOHAはエビのソテーや調理用の重い鍋を収納するための二重扉の壁キャビネットの開閉、エレベーターの呼び出しと乗車、使用済みのフライパンをキッチンの蛇口で軽くすすぐといった複雑な移動操作タスクを自律的に完了することができるようになったとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 29 Jan 2024 08:34:07 +0000</pubDate></item><item><title>LLMの「ハルシネーション（幻覚）」対策に32の体系的テクニック　AmazonAIとイスラム工科大などの研究チームが発表</title><link>https://ledge.ai/articles/32_techniques_for_hallucination_mitigation_in_llms</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2262,35 +2295,7 @@ AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオ
 :::box
 
 :::
-</description><pubDate>Sun, 07 Jan 2024 06:05:43 +0000</pubDate></item><item><title>自動運転AIの道徳的な判断に「トロッコ問題」は役に立たないーーノースカロライナ州立大学の研究</title><link>https://ledge.ai/articles/moral_judgment_in_realistic_trafc_scenarios</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-自動運転車の開発が加速する中、AIドライバーの判断能力の向上が急務とされる。特に、咄嗟の事態における道徳的な判断は大きな課題だという。例えば、人を轢きそうな状況での適切な反応は何か。この問題に対して、よく知られている「トロッコ問題」がAIの道徳判断トレーニングに役立つと考えられてきた。
-
-ノースカロライナ州立大学の研究グループは、このアプローチへの問題を示唆する研究を2023年11月29日付の学術誌『AI &amp; Society』で{target=“_blank”}し、自動運転車（AV）の道徳的判断に関する新しい視点を提示した。
-
-主な焦点は、伝統的な「トロッコ問題」がAVの道徳的判断の形成に不適切だという点にある。研究者たちは、トロッコ問題が提供する二元的な選択が、実際の道路交通法の複雑性や道徳的判断に必要な要素を十分に反映していないと指摘している。
-
-そのため、彼らはより現実的な交通シナリオを用いた新しい実験的枠組みを提案している。この枠組みは、仮想現実を用いて日常的な交通道徳シナリオを作成し、道徳心理学の枠組みとして「エージェント-行為-結果（ADC）モデル」を採用する。このアプローチは、道徳的判断の研究におけるエコロジカル・バリディティ（生態学的妥当性）を高める可能性があるという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-研究は、AVの道徳的判断のトレーニングにおいて、日常的な交通状況を考慮に入れることの重要性を強調し、AVの開発における倫理的な課題に対処するための新しい方向性を示した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 06 Jan 2024 05:30:58 +0000</pubDate></item><item><title>OpenAI、大統領候補者なりすましAI「Dean.Bot」開発者のアカウント凍結</title><link>https://ledge.ai/articles/openai_suspends_developer_behind_dean-phillips-bot</link><description>:::small
+</description><pubDate>Sun, 07 Jan 2024 06:05:43 +0000</pubDate></item><item><title>OpenAI、大統領候補者なりすましAI「Dean.Bot」開発者のアカウント凍結</title><link>https://ledge.ai/articles/openai_suspends_developer_behind_dean-phillips-bot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
