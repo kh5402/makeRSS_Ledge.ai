@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jan 2024 05:37:56 +0000</lastBuildDate><item><title>さくらインターネットが「NVIDIA H100」GPU搭載の生成AI専用クラウド「高火力 PHY」を1月31日より提供開始</title><link>https://ledge.ai/articles/sakura_koukaryoku_phy</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jan 2024 05:40:52 +0000</lastBuildDate><item><title>アールティ、軸数などカスタマイズ可能なロボット「Muriqui」を生成AI研究用に受注販売開始</title><link>https://ledge.ai/articles/rtcorporation_muriqui</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年1月24日、株式会社アールティは生成AI研究者向けに、カスタマイズ可能な人型ロボット「Muriqui（読み方：ムリキ）」の受注販売を{target=“_blank”}した。
+
+身長（高さ）約50cmのMuriquiは、軸数やセンサをカスタマイズできる。ロボットアプリケーション開発用のオープンソースのソフトウェアフレームワーク「ROS 2（Robot Operating System 2）」に対応した開発環境を提供し、「Gazebo」というロボット工学で広く使用される3Dロボットシミュレータで動作する。将来的には物理演算エンジン「MuJoCo」への対応を予定しているという。
+
+耐久性に優れたハードウェアと、カスタマイズ可能なカメラやマイクロフォンを搭載。
+納期は受注後約2か月～。オープン価格。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 30 Jan 2024 05:40:52 +0000</pubDate></item><item><title>さくらインターネットが「NVIDIA H100」GPU搭載の生成AI専用クラウド「高火力 PHY」を1月31日より提供開始</title><link>https://ledge.ai/articles/sakura_koukaryoku_phy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -378,91 +399,7 @@ NVIDIAの埋め込みおよびエッジコンピューティングのバイス�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 12:12:14 +0000</pubDate></item><item><title>【2/28 オンライン開催】データセントリックなアプローチで生成AI時代を切り開く｜Macnica Data・AI Forum 2024冬</title><link>https://ledge.ai/articles/mdaf2024</link><description>株式会社マクニカは2024年2月28日、「{target=“_blank”}」（MDAF2024冬）をオンラインにて開催する。生成AIをきっかけにAIへの注目度がさらに高まる中、改めて「データの質」に焦点を当てビジネス価値を創出していくための知見を、各セッションを通して公開していく。
-
-イベント冒頭には、IT批評家の尾原和啓氏による特別講演が予定されている。生成AIが業務プロセスや事業設計の前提にもなりつつあり、"社会実装期"のフェーズにおいて重要となる考え方、活かし方、そして見落としがちな「データの質の重要性」について多角的に紹介する。
-また、世界最大級のIT家電見本市「CES2024」（2024年1月9日〜12日に米・ラスベガスで開催）での最新発表など海外事例を含めた解説も見どころとして予定されている。
-
-MDAF2024冬の開催概要は以下の通り。
-
-**名称**
-Macnica Data・AI Forum 2024冬（MDAF2024冬）
-**開催日**
-2024年 2月28日（水）9：00～15：00
-**開催場所**
-オンライン（特設サイト）
-**参加費**
-無料/事前登録制
-※フリーメールアドレスでのお申込み、学生の方、競合代理店や競合製品をお取り扱いの企業様、本セミナーへの参加がふさわしくないと当社が認める事情がある際は、参加をお断りさせていただく場合がございます。
-**主催**
-株式会社マクニカ
-**推奨視聴環境**
-＜PC＞
-Windows：Chrome、Edge（Chromium）
-Mac：Chrome、Safari
-※各最新版についての対応
-※Firefox、Internet Explorerなどには対応しておりません
-＜スマートフォン＞
-iPhone：Chrome、Safari
-Android：Chrome
-
-## 生成AI時代における「自社データの重要性」をどう捉えればよいか
-!
-基調講演は、本メディア「Ledge.ai」を運営する株式会社レッジ執行役員の箕部のモデレートの下、株式会社マクニカ ネットワークスカンパニーＡＩビジネス部 室長の大西功祐氏によって行われる予定だ。
-AI活用がより身近になってきた昨今の状況は、逆の見方をすれば一定レベルまでは誰もが同じように扱えるともいえる。企業で活用を進める中で、AI活用を競争力の源泉としていくためには、どのようなポイントを押さえれば良いのか。メディアとしての視点と、データ・AI領域における先端企業としてのマクニカの持つ視点を掛け合わせてディスカッションする。
-
-イベント参加は事前登録制となり、以下フォームから登録を行うことで、同イベント内で公開される全セッションを視聴できる。
-
-:::button
-{target=“_blank”}
-:::
-
-現時点でタイトルが判明しているセッション一覧は以下の通り。
-
-:::box
-**【特別講演】生成AI 社会実装期での考え方・活かし方、見落としがちな「データの質の重要性」**
-尾原和啓（IT批評家）
-:::
-
-:::box
-**【基調講演】AI専門メディア「Ledge.ai」と考える、AIビジネスのこれから**
-箕部和也（株式会社レッジ 執行役員）
-大西功祐（株式会社マクニカ ネットワークスカンパニー データ＆アプリケーション事業部 事業部長代理）
-:::
-
-:::box
-**Kaggleソロ金メダル獲得者が話す 獲得ストーリーと実践的ヒント～2024年コンテストでの最新情報のご紹介～**
-井ケ田一貴（株式会社マクニカ ネットワークスカンパニー ＡＩビジネス部第２課 主席）
-:::
-
-:::box
-**【AI TRiSM】AI特有のリスクに備えよ ～鍵を握るAI TRiSMとは～**
-柳井省吾（株式会社マクニカ ネットワークスカンパニーデータ＆アプリケーション事業部第１技術部第３課）
-:::
-
-:::box
-**【生成AI】生成AIの開発・運用を支える基盤の課題と選定のポイント～NVIDIAを例に最適なAIプラットフォームについて考える～**
-諸橋大地（株式会社マクニカ クラビス カンパニー 第１技術統括部技術第３部第３課）
-:::
-
-:::box 
-**【海外動向】海外のAI・生成AI最新動向 ～技術やユースケースから今後を考察～**
-王原聖雄（Macnica Networks USA, Inc. Vice President of Business Development）
-:::
-
-:::box
-**【事例講演】イチから始めるデータパイプライン構築 ～DevOpsチームの散らばるデータの悩みと基盤構築の軌跡～**
-藤原匠（横河電機株式会社 D-Sol HQシステム開発センター 開発DX推進部 部長）
-桑田芳則 （横河電機株式会社 D-Sol HQシステム開発センター 開発DX推進部）
-山本ありさ（株式会社マクニカ データ＆アプリケーション事業部第１営業部第１課）
-太田真衣（株式会社マクニカ データ＆アプリケーション事業部 第1技術部 第３課）
-:::
-
-:::box
-**【特別講演】生成AIとその懸念に対する対策**
-井尻善久（SB Intuitions株式会社 CRO兼R&amp;D本部長、LINEヤフー株式会社 データサイエンス統括本部4 本部長）
-:::
-</description><pubDate>Fri, 19 Jan 2024 03:41:36 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Tue, 23 Jan 2024 12:12:14 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
