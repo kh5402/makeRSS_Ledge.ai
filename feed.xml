@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jan 2024 05:40:52 +0000</lastBuildDate><item><title>アールティ、軸数などカスタマイズ可能なロボット「Muriqui」を生成AI研究用に受注販売開始</title><link>https://ledge.ai/articles/rtcorporation_muriqui</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jan 2024 05:43:22 +0000</lastBuildDate><item><title>Microsoft Teamsでメタバース会議「 Mesh」を一般向けに提供開始</title><link>https://ledge.ai/articles/microsoft_teams_mesh</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Microsoftは2024年1月24日、Microsoft Teams内で「Microsoft Mesh」を一般提供開始したことを{target=“_blank”}した。Microsoft Mesh は、仮想接続をより対面のような体験にすることを目的とした没入型の３D体験型システムだ。
+
+
+@
+Meshは、PCとMeta Quest VRデバイスを使って利用可能で、Teams内での会議への没入感を高めるために設計された3D空間が提供される。PC から会議に参加しているときは「表示」 メニューから「イマーシブスペース 」オプションを選択し、Meshの空間に切り替える。すでに武田薬品工業やアクセンチュア、BP、Mercy Shipsなどの企業が利用しているという。
+
+Meshは、カスタムイベントや大規模な会議のための独自の体験を提供するためにも使用できる。Microsoftは、Meshを利用して仮想空間での結びつきを強化し、リモートワークやハイブリッドワークの課題に対処するためのこの技術の普及に取り組んでいる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 30 Jan 2024 05:43:22 +0000</pubDate></item><item><title>アールティ、軸数などカスタマイズ可能なロボット「Muriqui」を生成AI研究用に受注販売開始</title><link>https://ledge.ai/articles/rtcorporation_muriqui</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -375,31 +394,7 @@ NVIDIAの埋め込みおよびエッジコンピューティングのバイス�
 :::box
 
 :::
-</description><pubDate>Wed, 24 Jan 2024 07:05:27 +0000</pubDate></item><item><title>名鉄商店×デンソー共同開催、AIロボットによる未来型販売員のデモイベント</title><link>https://ledge.ai/articles/meitetsushouten_denso_airobot</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-名鉄商店（愛知県名古屋市）は2024年1月10日、デンソーと共同で、生成AIを活用したロボット「販売員」を特集したデモイベントを開催することを{target=“_blank”}した。このイベントは、2024年1月13日と14日に名鉄商店で行われ、名鉄商店のお土産コンシェルジュと共にロボットが実際に販売員として働いた。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-2023年12月28日デンソーは、このイベントで使われる「Generative AI × Robot Technology」について{target=“_blank”}した。
-
-従来のロボット制御技術は事前にプログラムした内容に基づいて動作するが、Generative-AI-Robot Technologyは生成AI、音声認識技術、音声合成技術を組み合わせ、ロボットと人間との会話を通じたコミュニケーションを実現する。これにより、ロボットのアーム動作判断なども含め、より柔軟な対応が可能となる。
-
-イベントでは、デンソーウェーブの小型協働ロボット「COBOTTA」を使用。客との会話から得た情報と事前にインプットされた商品知識を用い、名鉄商店で取り扱う地域商品を提案すると説明した。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Jan 2024 12:12:14 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Wed, 24 Jan 2024 07:05:27 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
