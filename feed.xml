@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jan 2024 08:37:35 +0000</lastBuildDate><item><title>IBMが中部国際空港でAIロボット「Spot」を活用した警備業務の実証実験を開始</title><link>https://ledge.ai/articles/ibm_pilot_project_using_spot_at_centrair</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jan 2024 05:37:56 +0000</lastBuildDate><item><title>さくらインターネットが「NVIDIA H100」GPU搭載の生成AI専用クラウド「高火力 PHY」を1月31日より提供開始</title><link>https://ledge.ai/articles/sakura_koukaryoku_phy</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+さくらインターネットは2024年1月24日、生成AI向けクラウドサービス「高火力」の提供を1月31日より開始することを{target=“_blank”}した。
+
+このサービスは、NVIDIA H100 Tensor Core GPUを搭載したベアメタルシリーズ「高火力 PHY」を第一弾として展開する。同社は、2023年6月16日に経済安全保障推進法に基づく特定重要物資である「クラウドプログラム」の供給確保計画に関する経済産業省の認定を受けており、今後3年間で130億円規模の投資を予定している。
+
+「高火力 PHY」は、サーバー1台当たり8基のNVIDIA H100 Tensor Core GPUを搭載し、サーバー間の通信を200GbE×4本の回線で行うなど、大規模言語モデルを中心とした生成AIの利用を想定した仕様となっている。また、このサービスは再生可能エネルギー電源100%を使用し、CO2排出量ゼロを目指す石狩データセンターで提供の予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 30 Jan 2024 05:37:56 +0000</pubDate></item><item><title>IBMが中部国際空港でAIロボット「Spot」を活用した警備業務の実証実験を開始</title><link>https://ledge.ai/articles/ibm_pilot_project_using_spot_at_centrair</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -442,24 +462,7 @@ AI活用がより身近になってきた昨今の状況は、逆の見方をす
 **【特別講演】生成AIとその懸念に対する対策**
 井尻善久（SB Intuitions株式会社 CRO兼R&amp;D本部長、LINEヤフー株式会社 データサイエンス統括本部4 本部長）
 :::
-</description><pubDate>Fri, 19 Jan 2024 03:41:36 +0000</pubDate></item><item><title>バイトル、新サービス「闇バイトチェックAI」を開始。「闇バイト相談窓口」同時開設</title><link>https://ledge.ai/articles/dark_part-time_job_check</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ディップ株式会社は2024年1月10日、生成AIを活用した新サービス「闇バイトチェックAI」を開始したことを{target=“_blank”}した。
-
-ユーザーからの不審な求人情報の申告を基に、AIが闇バイト検知を行う。同社が運営する求人情報サイト「バイトル」等では、従来から闇バイトの目視審査を実施しており、今回のAI導入により、審査時間が80％削減されると見込まれている。
-
-政府は2023年6月に「闇バイト強盗」や特殊詐欺対策に関する緊急対策プランを発表し、特殊詐欺の認知件数が前年比約20％増加していることを背景に、同社はこの問題に対処するため「闇バイトチェックAI」の開発を行ったという。同サービスは、インターネットやSNS上の事例データを活用し、即時対応が可能。ただし、現在のAI技術では顕在的なものの検知に限られるため、潜在的な闇バイト検知にも対応する「闇バイト相談窓口」も設置される予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 22 Jan 2024 02:57:52 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Fri, 19 Jan 2024 03:41:36 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
