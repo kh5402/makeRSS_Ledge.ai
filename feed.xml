@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jan 2024 05:43:22 +0000</lastBuildDate><item><title>Microsoft Teamsでメタバース会議「 Mesh」を一般向けに提供開始</title><link>https://ledge.ai/articles/microsoft_teams_mesh</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jan 2024 03:37:19 +0000</lastBuildDate><item><title>「防災・防衛・まちづくり」スタートアップのカオスマップ公開について</title><link>https://ledge.ai/articles/ledge_ai_caos_map</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+株式会社レッジは、防災・防衛・まちづくりに関するスタートアップを一覧化したカオスマップを公開した。
+
+■背景と概要
+近年、自然災害の多発、国際情勢の急激な変化、国内人口トレンドに起因する”まちづくり”への注目度の増大など、多くの問題が注目されるようになった。これらを解決するテクノロジーが重要なことは論を待たないが、日本国内では大企業が多くを担い、スピード感の面では海外の企業と比較して遅れも目立つ。
+
+また防衛に関しては、海外では防災やまちづくりなどの民間への転用（つまりデュアルユース）に多くの成功例があるにも関わらず、国内ではアレルギーも少なくない。
+
+宇宙ロケット・GPS（全地球測位システム）・インターネットなどの例は有名だが、例えばタイではドローンから弾丸を発射して苗植えを行う（Rice Seed Sowing Drone for Agriculture）などの転用事例が多くある。
+
+このような背景のなか、防災・防衛・まちづくりの潜在的なコア技術をもったスタートアップを俯瞰するためのカオスマップを作成した。直接的に防災・防衛・まちづくりをドメインとしていないものも含み、要素技術となる「宇宙開発・バイオ・インフラ（ハード/ソフト）・セキュリティ・AI/ロボティクス・半導体」のプレイヤーを可視化した。
+
+2024年版として公開するが随時、精緻化して更新予定
+
+!</description><pubDate>Wed, 31 Jan 2024 03:37:19 +0000</pubDate></item><item><title>Microsoft Teamsでメタバース会議「 Mesh」を一般向けに提供開始</title><link>https://ledge.ai/articles/microsoft_teams_mesh</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -368,33 +384,7 @@ Stable LM 2 1.6Bは、Stability AIの{target=“_blank”}を通じて商用利�
 :::box
 
 :::
-</description><pubDate>Wed, 24 Jan 2024 07:36:15 +0000</pubDate></item><item><title>トヨタ、READY Robotics とNVIDIAが生産工程のデジタルツインに向けて協業。産業ロボットにSim to Realワークフロー導入で効率と安全性を向上</title><link>https://ledge.ai/articles/ready-robotics_toyota_nvidia_sim-to-real</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-自動化やロボティクスOSを推進するREADY Roboticsは2024年1月17日、トヨタとNVIDIAとの協業を{target=“_blank”}した。トヨタは、アルミニウム熱間鍛造生産ラインの最先端シミュレートロボティックプログラミング環境構築のために、READY Roboticsの「ForgeOS」とNVIDIAのロボティクスシミュレーター「Isaac Sim」を「NVIDIA Omniverse」上で使用する。この協力により、トヨタの製造プロセスの安全・効率の向上を目指す。
-
-鍛造用ロボットシステムのプログラミングには通常、金属部品を熱く保つ必要があり、これが安全上の大きな課題となる。しかし「NVIDIA Isaac Sim」と「ForgeOS」の統合で、シミュレーション環境でのプログラミングが可能となる。これにより熱い部品に関連するリスクを排除するという。
-
-ロボットと自動化のための産業用OS「ForgeOS」は、プログラミングプロセスを簡素化し、ロボットシステムの典型的な複雑さを減少させ、あらゆる産業用ロボットマニピュレーターに使いやすい体験を提供する。
-
-「ForgeOS」と「NVIDIA Isaac Sim」が組み合わさることで、ロボットシミュレーションが格段にリアルになり、視覚的にも物理的な動きも現実に近いレベルで再現できるようになる。ForgeOSの直感的なプログラミングとNVIDIAのリアルなシミュレーション環境により、トヨタは複雑な熱間鍛造ルーチンをシミュレーションで迅速にプログラムし、最適化できる。これらのプログラムは、シミュレート環境で実証されると、物理的なインストール自体でのプログラミングが不要となり、熱い部品の周りの安全性への懸念を軽減する。
-
-この「Sim to Real」ワークフローは、ForgeOSが工場の現場のセルからリアルタイムの生産データを収集し、元のNVIDIA Isaac Simシミュレーションにフィードバックする。これにより、ライブセルのデジタルツインが形成され、現場の状況を可視化可能にする。
-
-トヨタ自動車 素材材料技術部グループマネージャー 鈴木一広氏は「ForgeOSのユニークなアーキテクチャは、NVIDIA Isaac Simのシミュレーション機能と物理システムの制御を橋渡しするため、この生産ラインに必要なシムからリアルへのワークフローを可能にする」「私たちは機械学習とAIによって製造プロセスの進歩が可能になる未来を目指しているが、すべては現在のプロセスを改善することから始まり、同時に工場からデータを抽出して有用なシミュレーションを行う」と述べた。
-
-NVIDIAの埋め込みおよびエッジコンピューティングのバイスプレジデント、Deepu Talla 氏は「産業プロセスを高い忠実度でシミュレートし、それらを現実の世界で展開する前に大幅に生産性と安全性を向上させ、コストを削減できる」と述べている。また、「トヨタとREADYロボティクスの協力は、NVIDIA Isaac Simのような技術を使用して、製造業における産業デジタル化の可能性を開く先駆者的な例である」と付け加えた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jan 2024 07:05:27 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Wed, 24 Jan 2024 07:36:15 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
