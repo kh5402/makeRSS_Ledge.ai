@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jan 2024 03:37:19 +0000</lastBuildDate><item><title>「防災・防衛・まちづくり」スタートアップのカオスマップ公開について</title><link>https://ledge.ai/articles/ledge_ai_caos_map</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jan 2024 07:40:18 +0000</lastBuildDate><item><title>「防災・防衛・まちづくり」スタートアップのカオスマップ公開について</title><link>https://ledge.ai/articles/ledge_ai_caos_map</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 株式会社レッジは、防災・防衛・まちづくりに関するスタートアップを一覧化したカオスマップを公開した。
@@ -1543,7 +1543,48 @@ Auto Trainはノーコードで機械学習のモデルを学習、評価、デ�
 :::
 :::box
 
-:::</description><pubDate>Tue, 15 Aug 2023 04:59:26 +0000</pubDate></item><item><title>ゲーム開発者会議「GDC2024」事前調査で、レイオフや生成AIの影響が浮き彫りに。31%が生成AIを使って開発している。</title><link>https://ledge.ai/articles/gdc2024_reserch</link><description>:::small
+:::</description><pubDate>Tue, 15 Aug 2023 04:59:26 +0000</pubDate></item><item><title>市場価値が爆上がり中の「機械学習エンジニア」平均年収は？2024年版「フリーランス・副業の平均年収」ランキング</title><link>https://ledge.ai/articles/annual_income_ranking_of_freelancers_and_side_hustlers_2024</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+CAMELORS株式会社は2024年1月16日「フリーランス・副業の平均年収ランキング（2024年版）」を{target=“_blank”}した。
+
+このランキングは、約5,000件のフリーランス・副業案件を基に、平均時給から計算された年収を職種別にまとめられている。
+全体平均年収は825万円で、6位以内にランクインした職種の平均は年収900万円以上となった。エンジニア職種は、全て9位以内にランクインし、10位以内の非エンジニア職種は、「エグゼクティブ/コンサル、プロジェクトマネージャー、事業企画」と、戦略立案やプロジェクトマネジメント関連の3職種と「マーケティング」がランクインした。
+:::small
+出典：SOKUDAN Magazine：{target=“_blank”}
+:::
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+1位の「機械学習エンジニア」は、機械学習アルゴリズムや技術を活用して、データから有用な情報やパターンを抽出し、予測モデルや自動化システムを開発・実装する専門職だ。データ分析、アルゴリズム開発、モデル評価、システム統合などのタスクを担当し、企業の意思決定や業務効率化に貢献する。
+
+必要なスキルは、プログラミング言語（PythonやRなど）、機械学習ライブラリ・フレームワーク（scikit-learn、TensorFlow、PyTorchなど）、データベース管理（SQLなど）、統計学、機械学習アルゴリズムの理解、データ前処理・特徴量エンジニアリング、デバッグ・最適化技術、そしてコミュニケーション能力が挙げられるという。
+
+一般的には、初心者は年収500万円〜700万円程度で、経験者は800万円〜1,500万円程度とのこと。Indeedのデータによると、国内の機械学習エンジニアの平均年収は、約682万円前後だという。ちなみに、アメリカの求人サイト「Glassdoor」のデータによれば、機械学習エンジニアの平均年収はおよそ1,400万円程度。
+
+ディープラーニングや自然言語処理などの専門知識を持つエンジニアや、AI開発の実績がある場合は、さらに高い年収が期待でき、今後もAI技術の需要は高まり続けるため、機械学習エンジニアの年収も上昇傾向にあるとのこと。
+
+
+調査対象：SOKUDAN（https://sokudan.work/）に掲載された求人案件（一部抜粋）の単価と稼働時間から平均時給を計算し、その平均時給から1日8時間、月21日稼働で想定月収と想定年収を試算
+対象期間：2019年6月〜2024年1月2日
+対象案件数：3,386件　※一部抜粋
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>ゲーム開発者会議「GDC2024」事前調査で、レイオフや生成AIの影響が浮き彫りに。31%が生成AIを使って開発している。</title><link>https://ledge.ai/articles/gdc2024_reserch</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1800,28 +1841,7 @@ Excelのコネクタ機能とPower Query（パワークエリ）機能で外部�
 
 :::box
 
-:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>Meta エンジニアを助けるコーディングAI「Code Llama」公開 無料で商用可能</title><link>https://ledge.ai/articles/code_llama</link><description>米国Metaはエンジニアのためにプログラミングコードを提案してくれる大規模言語モデル（LLM）「Code Llama」を2023年8月24日に{target=“_blank”}した。研究、商用どちらの目的も無料で導入できる。
-
-7月に公開した汎用LLM「Llama 2」をもとにし、プログラミングコードに特化したデータセットで訓練したもの。コードと人間が日常で使う英語のような自然言語による指示「プロンプト」どちらでも質問ができ、回答としてコードや関連した文章を受け取れる。例えば「Write me a function that outputs the fibonacci sequence（フィボナッチ数列を出力する関数を書いてください）」といった具合だ。
-
-ベンチマークテストではCode Llama の性能はコードに特化したほかのオープンソースのLLMよりも優れていたとしている。
-
-!
-
-不完全なコードの補完や、不具合の修正（デバッグ）にも利用できる。Python、C++、Java、PHP、Typescript (Javascript)、C#、Bash など広く普及したプログラミング言語の多くに対応する。
-
-なおCode Llamaはデータサイズや性能の目安となる「パラメータ数」が70億、130億、340億と異なる3種類の版を選べるようになっている。いずれも5,000億トークンのコードと関連データを使用して訓練してある。70億パラメータ版と130億パラメータ版のベースモデル、インストラクション（指示）モデルは中間補完 (FIM) 方式の訓練もしており、既存のコードに新たなコードを挿入でき、すぐにコード補完などの作業に役立てられる。また例えば70億パラメータ版は単一のGPUで実行できる。340億パラメータ版は最良の結果を返すが、ほかより低速だ。
-
-ファインチューニング（微調整）を施したPython特化の「Code Llama - Python」と自然言語による指示に特化した「Code Llama - Instruct」も公開している。それぞれ70億、130億、340億のパラメータ数が異なる版がある。Metaは自然言語での指示を含むような実際の用途にはCode Llama - Instructを使うよう推奨している。
-
-!
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 25 Aug 2023 11:00:00 +0000</pubDate></item><item><title>中華料理も作れるロボットがスゴすぎる　移動操作を低コストで模倣学習する「Mobile ALOHA」スタンフォード大が開発</title><link>https://ledge.ai/articles/Imitation_learning_mobile_aloha</link><description>:::small
+:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>中華料理も作れるロボットがスゴすぎる　移動操作を低コストで模倣学習する「Mobile ALOHA」スタンフォード大が開発</title><link>https://ledge.ai/articles/Imitation_learning_mobile_aloha</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
