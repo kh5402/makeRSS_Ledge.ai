@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jan 2024 07:40:18 +0000</lastBuildDate><item><title>「防災・防衛・まちづくり」スタートアップのカオスマップ公開について</title><link>https://ledge.ai/articles/ledge_ai_caos_map</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jan 2024 07:43:08 +0000</lastBuildDate><item><title>読売新聞、AI学習利用の禁止を規約に明記</title><link>https://ledge.ai/articles/yomiuri_bans_the_use_of_ai_learning</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+読売新聞社は2024年1月25日、「読売新聞オンライン」の利用規約を改定し、2月1日から適用することを{target=“_blank”}した。
+
+この改定では、以下の行為を禁止するとした。
+・データマイニング、テキストマイニング等のコンピューターによる言語解析行為
+・クローリング、スクレイピング等の自動化された手段を用いてデータ収集、抽出、加工、解析または蓄積等をする行為
+・生成AI等に学習させる行為、生成AI等を開発する行為
+
+Web上の記事を生成AIや自動化ツールを用いて学習させる行為を禁止する内容が盛り込まれており、これらを行いたい場合は同社とのライセンス契約が必要となる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 31 Jan 2024 07:43:08 +0000</pubDate></item><item><title>「防災・防衛・まちづくり」スタートアップのカオスマップ公開について</title><link>https://ledge.ai/articles/ledge_ai_caos_map</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 株式会社レッジは、防災・防衛・まちづくりに関するスタートアップを一覧化したカオスマップを公開した。
@@ -349,42 +375,7 @@ IT企業にてデジタルマーケティング支援やメディア運営など
 :::box
 
 :::
-</description><pubDate>Wed, 24 Jan 2024 07:39:25 +0000</pubDate></item><item><title>Stability AI、コンパクトな16億パラメータ言語モデル「Stable LM 2 1.6B」をリリース。速度と性能のバランスを実現</title><link>https://ledge.ai/articles/stability_ai_stable-im-2_1point6b</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stability AI は2024年1月22日、Stable LM 2 シリーズより、最新の16億パラメータを持つ小型言語モデル「Stable LM 2 1.6B」をリリースしたと{target=“_blank”}した。
-
-モデルは、多言語データ（英語、スペイン語、ドイツ語、イタリア語、フランス語、ポルトガル語、オランダ語）でトレーニングされており、約2兆トークンを2エポック学習することで、言語モデリングの最近の進歩を活用し、速度と性能のバランスを実現した。
-
-Stable LM 2 1.6Bは、プリトレーニング済みおよびインストラクションチューニング済みのバージョンを提供し、収束前の最終チェックポイントと最適化関数の状態も公開する。これにより、開発者はより容易にファインチューニングや実験が行えるという。
-
-
-以下は、Stable LM 2 1.6B を、Microsoft の Phi-1.5（1.3B）、Phi-2（2.7B）、TinyLlama 1.1B、Falcon 1B など、他の一般的な小規模言語モデルと比較したもの。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-このたび情報を公開したのは、開発者やモデル作成者が迅速に実験や反復を行えるよう、トレーニング詳細の透明性を提供することが主な目的だという。ただし、小型で低容量の言語モデルであるため、高いハルシネーション率や潜在的な毒性言語の問題に留意する必要があるとのことだ。Stability AIは、アプリケーションの開発において、責任ある開発を行うようコミュニティに呼びかけている。
-
-Stable LM 2 1.6Bは、Stability AIの{target=“_blank”}を通じて商用利用可能であり、{target=“_blank”}でのテストも提供されている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jan 2024 07:36:15 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Wed, 24 Jan 2024 07:39:25 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
