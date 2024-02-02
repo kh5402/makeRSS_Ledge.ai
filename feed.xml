@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jan 2024 13:11:56 +0000</lastBuildDate><item><title>読売新聞、AI学習利用の禁止を規約に明記</title><link>https://ledge.ai/articles/yomiuri_bans_the_use_of_ai_learning</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 01 Feb 2024 07:06:39 +0000</lastBuildDate><item><title>Amazon、iRobotとの合併提携を解消。iRobotはリーダーシップの交代と約350人の解雇を含むリストラ計画を発表 </title><link>https://ledge.ai/articles/amazon_and_irobot_terminate_pending_acquisition</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Amazonは2024年1月29日、以前に発表されていた同社とiRobotの合併提携を両社合意の上で解消することを{target=“_blank”}した。
+
+合併は、AmazonがiRobotを買収するという内容だったが、欧州連合（EU）での規制承認が得られず、解消に至ったという。同発表について欧州委員会の競争政策を担当するマルグレーテ・ヴェスタガー氏は以下の声明を{target=“_blank”}した。
+
+「この決定は、欧州委員会による詳細な調査と、2023年11月27日に提出された異議声明に続くものである。AmazonはiRobotを約15.6億ユーロで買収する意向だったが、委員会の調査結果により、この提携がiRobotの競合他社を排除し、ロボット掃除機市場での競争を制限し、消費者に対して高価格や品質の低下、革新の減少をもたらす可能性があるとの結論に至った」
+
+Amazon上級副社長のデイビッド・ザポルスキー氏は、消費者にとっての速やかなイノベーションと競争価格の提供が阻害されるとコメント。一方、iRobotの会長兼最高経営責任者（CEO）コリン・アングル氏は、消費者向けロボットの実現に向けて同社のビジョンを継続する意向を表明した。両社は、この取引に関連する全ての問題を解決する終了合意に署名した。
+
+同日 iRobotはこの件と同時に、従業員の31％となる約350人を解雇し、コリン・アングル氏が即時辞任すること、そして現在の環境で安定化を図るための事業再構築計画を{target=“_blank”}した。
+
+この計画は、現在の市場環境での安定と利益重視の戦略、及び中価格帯と高価格帯市場でのシェア拡大を目指すもので、Amazonとの合併解消後に承認されたという。事業再建構築計画には、約8000万から1億ドルの費用削減、年間2000万ドルの研究開発費削減、約3000万ドルの販売・マーケティング費削減などが含まれる。これに伴い、社員の約31％にあたる350人の削減が予定されており、多くは2024年3月30日までに通知される。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 01 Feb 2024 07:06:39 +0000</pubDate></item><item><title>読売新聞、AI学習利用の禁止を規約に明記</title><link>https://ledge.ai/articles/yomiuri_bans_the_use_of_ai_learning</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -345,39 +368,7 @@ IT企業にてデジタルマーケティング支援やメディア運営など
 
 :::
 
-</description><pubDate>Thu, 25 Jan 2024 09:20:04 +0000</pubDate></item><item><title>Midjourney・ChatGPT・Stable Diffusion・DALL-E対象の「プロンプトマーケットβ版」が無料キャンペーン中ーーGTP Storeと同時期にオープン　</title><link>https://ledge.ai/articles/prompt_market_beta</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-株式会社プロンプトマーケットは2024年1月11日、生成AIツール用のプロンプトを売買できる「プロンプトマーケット」を開始したと{target=“_blank”}した。Midjourney、Chat-GPT、Stable Diffusion、DALL-Eなどの生成AIサービスに対応しており、ユーザーは簡単にプロンプトの販売・購入ができる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-プロンプトマーケットの目的は、出品者が自身のスキルをマネタイズできる機会を提供し、購入者には仕事の効率化や成果物の品質向上を支援することだという。
-
-今後は、Midjourney、Stable Diffusion、DALL·E 3などで活用できる画像生成向けの人気プロンプトや、Chat-GPTを活用した作業効率化など実用性のあるプロンプトなどを中心に取り揃えていく予定だ。
-
-ローンチを記念し、2月28日までの期間限定で無料キャンペーンを実施中。キャンペーン期間中は出品中のプロンプトを無料で購入可能となっている。また、このサービスのβ版リリースを記念し、Amazonギフト券2万円分のプレゼントキャンペーンも行っているとのこと。参加方法は、同社のSNSアカウントのいいねやリポスト、通知をONにすることで、当選発表はLINEで行われる。
-
-1月10日に開店したGTP Storeと同時期のオープンとなったプロンプトマーケット。プラットフォームとして定着するのだろうか。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jan 2024 07:39:25 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Thu, 25 Jan 2024 09:20:04 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
