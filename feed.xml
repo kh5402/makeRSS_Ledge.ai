@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 01 Feb 2024 09:01:00 +0000</lastBuildDate><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 02 Feb 2024 08:38:54 +0000</lastBuildDate><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2480,7 +2480,38 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 
 :::
 
-</description><pubDate>Fri, 29 Dec 2023 07:32:30 +0000</pubDate></item><item><title>JASRACを含む9団体、音楽分野におけるAIの健全な利用を目指す「AIに関する音楽団体協議会」を設立</title><link>https://ledge.ai/articles/establishment_of_the_music_organisations_council_on_ai</link><description>:::small
+</description><pubDate>Fri, 29 Dec 2023 07:32:30 +0000</pubDate></item><item><title>SNSと生成AIのあり方が問われた１週間　テイラー・スウィフトのAI偽画像が拡散→Xが検索不可→ホワイトハウスがコメント→Xも声明「同意なきヌードは許さない」</title><link>https://ledge.ai/articles/deep-fake_images_of_taylorswift_spread</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年1月下旬、米国の人気歌手テイラー・スウィフト氏を題材にした性的な偽の画像がAI技術を用いて作成され、ソーシャルメディア上で広く拡散されたと複数のメディアが報じた。これらの画像は、特にX（旧Twitter）上で広がり、問題の画像は削除された後も他のアカウントによって再投稿され、新たな露骨なフェイク画像が次々と現れた。ある画像は17時間で4700万回以上閲覧される事態となり、大きな波紋を呼んだ。
+
+これに対しXは、問題の画像の削除と、偽画像を投稿した一部アカウント停止を行い、検索キーワード「Taylor Swift」でユーザーが問題の画像を検索できないよう一時的な措置を講じた​。
+
+ホワイトハウス報道官のカリーヌ・ジャン=ピエール氏は1月26日、この問題についてし、偽のAI画像に対する法的対策の重要性を強調した。
+
+AI検知に特化したサイバーセキュリティ企業Reality Defender社CEOのベン・コールマン氏は、この画像が拡散モデルを使って作成されたものであることを90％の信頼性で突き止めたと{target=“_blank”}。
+
+同氏はまた、オンラインのディープフェイクの96%以上がポルノで、女性が99%の標的だと述べる。2023年の初めの9ヶ月でディープフェイクポルノが54%増加し、効力のある法的な対策を打ったのが10州だけだという。いくらAIのディープフェイクを技術で検出できても、問題自体を解決できるのは法律だけだと強調。何千人もの一般女性が虐待や嫌がらせに直面しているが、著名人のディープフェイクが取り沙汰されて初めて問題が真剣に受け止められる状況に遺憾の意を示した。
+
+Ｘは「Safety」アカウントで以下の声明を投稿した。
+「Xでは、非合意のヌード（NCN）画像を投稿することを固く禁じており、そのようなコンテンツに対して一切の容認をいたしません。私たちのチームは、確認されたすべての画像を積極的に削除し、それらを投稿したアカウントに対して適切な措置を講じています。さらに違反があれば直ちに対処し、コンテンツが削除されるよう、状況を注意深く監視しています。私たちは、すべてのユーザーにとって安全で尊敬に値する環境を維持することを約束します」
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 02 Feb 2024 08:38:54 +0000</pubDate></item><item><title>JASRACを含む9団体、音楽分野におけるAIの健全な利用を目指す「AIに関する音楽団体協議会」を設立</title><link>https://ledge.ai/articles/establishment_of_the_music_organisations_council_on_ai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2777,44 +2808,4 @@ MusicFXは、テキストの説明を音楽に変換するAIだ。Google DeepMin
 :::
 
 
-</description><pubDate>Mon, 08 Jan 2024 07:48:35 +0000</pubDate></item><item><title>株式会社Ememeが、AIとRPG、オープンワールドの要素を融合させた目標やストーリーを持たないサンドボックスゲームを開発中</title><link>https://ledge.ai/articles/ememe_genai_life_sim_sandbox</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-株式会社Ememeは2023年12月14日、生成AIでキャラクターの行動とライフストーリーをシミュレーションするAI-NPCサンドボックスゲーム「Ememe」を開発していることを{target=“_blank”}した。2024年夏よりSteamとEpic Games Storeにてアーリーアクセス版を無料配信予定。
-
-「Ememe」は、生成AIを搭載したNPC（Non-Player Character）たちが自由に行動し、会話し、それぞれの物語を紡ぐ街として設計されている。このゲームは、AIとRPG、オープンワールドの要素を融合させ、次の開発段階ではマルチプレイヤーイベントの開発ツールを提供し、実時間で友達やNPCと共に生活する街を提供する予定だという。
-
-プレイヤーは、この街の住民であるAIキャラクターたちの日常生活を観察し、時には彼らの行動に干渉することが可能だ。開発元はこのゲームを「映画『トゥルーマンショー』のような世界を造れるゲーム」と称しており、リアルな人間の社会行動を模倣したAIキャラクターたちが、プレイヤーに新しいエンターテインメント体験を提供するとしている。プレイヤーは観察者であると同時に、キャラクターたちの生活に影響を与える存在となる。
-
-
-@
-
-
-NPCの会話やスケジュールに応じて、適切な表情や身体のアニメーションを予測して出力する機能も備えている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-VRMファイルに対応し、お気に入りの3Dモデルをアップロードして、街にAI-NPCとして召喚可能だ。NPCの個性を設定し、好みの外観と感覚をゲーム内で再現することができるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 25 Dec 2023 02:57:07 +0000</pubDate></item></channel></rss>
+</description><pubDate>Mon, 08 Jan 2024 07:48:35 +0000</pubDate></item></channel></rss>
