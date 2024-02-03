@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 02 Feb 2024 08:38:54 +0000</lastBuildDate><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 02 Feb 2024 08:44:06 +0000</lastBuildDate><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1796,7 +1796,35 @@ Excelのコネクタ機能とPower Query（パワークエリ）機能で外部�
 
 :::box
 
-:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>中華料理も作れるロボットがスゴすぎる　移動操作を低コストで模倣学習する「Mobile ALOHA」スタンフォード大が開発</title><link>https://ledge.ai/articles/Imitation_learning_mobile_aloha</link><description>:::small
+:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>AIが人間の目の代わりになるのは25％以下のタスクだけ。コンピュータビジョンに関するMITの研究</title><link>https://ledge.ai/articles/rethinking_ai_impact_mit-csail_study</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年1月18日、マサチューセッツ工科大学やIBMの研究者らが「コンピュータビジョンを用いた自動化がコスト効果のあるタスクは何か」と題する研究報告を[発表](https://www.csail.mit.edu/news/rethinking-ais-impact-mit-csail-study-reveals-economic-limits-job-automation
+){target=“_blank”}した。
+
+この研究では、AIによる自動化が経済的に魅力的であるタスクとそうでないタスクを見分ける新しいモデルを提案。特にコンピュータビジョン（画像やビデオから情報を解析・理解するための技術的な処理）に焦点を当てている。
+
+現在のコストでは、米国企業がビジョンタスクの大部分を自動化しない選択をすること、そして「AIエクスポージャー」にさらされているビジョンタスクのうち、わずか23%が自動化に向いているという結果となった。「AIエクスポージャー」とは、特定の職務や業務がAIや自動化技術によってどの程度影響を受ける可能性があるかを示す指標。この指標は、特定の仕事がAIに取って代わられるリスクの高さを測定し、将来の労働市場におけるAIの影響を予測するために使用される。
+
+この研究により、AIによる仕事の置き換えは顕著だが徐々に進むため、政策や再教育による失業影響の緩和に余地があることが示唆されている。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 02 Feb 2024 08:44:06 +0000</pubDate></item><item><title>中華料理も作れるロボットがスゴすぎる　移動操作を低コストで模倣学習する「Mobile ALOHA」スタンフォード大が開発</title><link>https://ledge.ai/articles/Imitation_learning_mobile_aloha</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2158,44 +2186,7 @@ Appleの研究チームは、「windowing」と「row-column bundling」とい�
 :::box
 
 :::
-</description><pubDate>Wed, 10 Jan 2024 14:27:15 +0000</pubDate></item><item><title>NVIDIAの「Align Your Gaussians」（AYG）：テキストから動的な4Dシーンを生成</title><link>https://ledge.ai/articles/nvidia_align_your_gaussians</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAは2024年1月3日、テキストから動的な3Dオブジェクトを生成し、それを4D画像として表現する新技術「Align Your Gaussians」（AYG）を{target=“_blank”}した。
-
-AYGは、テキストから動的な3Dオブジェクトを生成し、それを4D画像として表現する技術だ。動的な（時間の経過と共に変化する）3Dガウス表現を利用し、変形フィールドを組み合わせることにより、時間的次元を含む4Dコンテンツの作成を可能にする。結果として、テキスト入力から動的な4Dアセットやシーンの生成が実現するという。
-
-
-### 第1段階：静的3D合成
-StableDiffusion（Text-to-Image）と、MVDream（Text-to-Multiview-Image）の２つのモデルを使用し、3D静止画像を形成する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-### 第2段階：動的4Dの合成
-テキストから動画・テキストから静止画のモデルを組み合わせ、変形フィールドを最適化し時間的ダイナミクスを追加する。これにより、動いて変形する動的4Dアセットを生成する。アセットの{target=“_blank”}されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-AYGはまた、動的な3Dオブジェクトの生成に加え、これらのオブジェクトを{target=“_blank”}に組み合わせる能力を持つ。この技術の応用範囲は広く、特にゲーム、映画、アニメーション、VRなどでの活用が期待されている。NVIDIAは、AYGが将来的には画像から3Dオブジェクトを生成する技術と組み合わせてさらに発展する可能性があるとしている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 07 Jan 2024 06:05:43 +0000</pubDate></item><item><title>千葉市、高層マンションへドローン配送実験。地上配送ロボットと連携</title><link>https://ledge.ai/articles/chiba_drone_last_one_mile</link><description>:::small
+</description><pubDate>Wed, 10 Jan 2024 14:27:15 +0000</pubDate></item><item><title>千葉市、高層マンションへドローン配送実験。地上配送ロボットと連携</title><link>https://ledge.ai/articles/chiba_drone_last_one_mile</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
