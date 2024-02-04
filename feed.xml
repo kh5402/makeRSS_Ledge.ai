@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 03 Feb 2024 15:11:22 +0000</lastBuildDate><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 03 Feb 2024 21:19:51 +0000</lastBuildDate><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2453,7 +2453,42 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 
 :::
 
-</description><pubDate>Fri, 29 Dec 2023 07:32:30 +0000</pubDate></item><item><title>SNSと生成AIのあり方が問われた１週間　テイラー・スウィフトのAI偽画像が拡散→Xが検索不可→ホワイトハウスがコメント→Xも声明「同意なきヌードは許さない」</title><link>https://ledge.ai/articles/deep-fake_images_of_taylorswift_spread</link><description>:::small
+</description><pubDate>Fri, 29 Dec 2023 07:32:30 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ポケットペアは2023年1月19日、マルチプレイヤー対応サバイバルクラフトゲーム「パルワールド」への早期アクセスをSteamで開始したことを{target=“_blank”}した。
+
+パルワールドは、広大な世界で不思議な生物「パル」を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりするゲームだ。
+2月1日時点で、総プレイヤー数が1,900万人を突破したと同社の公式X（旧Twitter）アカウントから発表された。（Steam版で約1,200万本、Xbox版で約700万人）
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+19日の発表直後よりアクセスが集中し、大ヒット作品と界隈を賑わせる一方で、ゲームに登場する生き物「パル」のデザインが『ポケットモンスター』のモンスターを模倣している疑いをかける声と、開発に生成AIを使用した可能性があるという声がゲームコミュニティやメディアから上がっているという。
+
+しかし、その疑惑にはほとんど根拠がないと{target=“_blank”}などが報じた。このような疑惑が起こった理由として、ポケットペアの社長である溝部拓郎氏の2年以上前のX（旧Twitter）で、初期の生成AIツールを使用してポケモンを生成する実験に興味を示していたことと、同じころに「{target=“_blank”}」というAIに絵を描かせて遊ぶパーティゲームを製品としてリリースしていたことが挙げられた。これらはどれも確固たる証拠にはならない。
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+溝部氏のゲームの{target=“_blank”}では、パルワールドの100体以上のキャラクターデザインを担うたった1人のスタッフについて語られている。書類選考で一度は不採用通知を送ったが、スタッフの再募集に対し改めてメッセージを送ってきた彼女に興味を持ち、採用を決めたという。個性的なデザインとスピーディな仕事ぶりが、同社に「ピッタリの人材だった」と述べている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 03 Feb 2024 21:19:51 +0000</pubDate></item><item><title>SNSと生成AIのあり方が問われた１週間　テイラー・スウィフトのAI偽画像が拡散→Xが検索不可→ホワイトハウスがコメント→Xも声明「同意なきヌードは許さない」</title><link>https://ledge.ai/articles/deep-fake_images_of_taylorswift_spread</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2753,32 +2788,4 @@ SenseRobot Goは、盤面を認識するカメラ、碁石を保持できるロ�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jan 2024 14:52:55 +0000</pubDate></item><item><title>Google「MusicFX」アイディアを数単語で指示するとAIが音楽を生成してくれるツール</title><link>https://ledge.ai/articles/google_music_fx</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleは2023年12月13日、独自のAI技術を駆使して音楽を生成する実験ツール「MusicFX」の{target=“_blank”}した。
-
-MusicFXは、テキストの説明を音楽に変換するAIだ。Google DeepMindの電子透かし技術「SynthID」を使用し、オリジナルのアーティストの声と作風を保護するため、特定のアーティストに言及するクエリやボーカルを含むクエリでは音楽を生成しないという。
-
-ツールは、Google lab の「AI Test Kitchen」プラットフォーム上にてで、現在、米国、ケニア、ニュージーランド、オーストラリアのユーザーがアクセスできる。日本からアクセスした場合、ツールの使用はできないが、サンプルの試聴やプロンプトの確認が可能だ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Mon, 08 Jan 2024 07:48:35 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 12 Jan 2024 14:52:55 +0000</pubDate></item></channel></rss>
