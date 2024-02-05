@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Feb 2024 12:25:39 +0000</lastBuildDate><item><title>WEELが「AGI終末時計」を公開、2027年の汎用人工知能到来を予測</title><link>https://ledge.ai/articles/weel_agi_doomsday_clock</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-株式会社WEELは2024年1月25日、「AGI終末時計」を{target=“_blank”}した。
-
-これは、AGI（汎用型人工知能）の進歩とその社会への影響を可視化し、AGIの到来までのカウントダウンやAIビックテックのAGI到達レベル、現在人間が行う仕事の消滅度などをまとめたプロジェクトだ。イーロン・マスク氏やサム・アルトマン氏のような業界著名人の予測やWEEL独自の指標により、AGIの到来時期を残り約3年と予測。
-
-2027年にAGIが実現するとの仮定で終末時計はカウントダウンを続ける。現在のAIの進歩状況を明らかにし、将来の働き方の変化やAIによる仕事の置き換えについて考察することを目的とし、正しい情報の伝達と未来に追いつくための指標作りを目指すという。
-
-さらに、AGIの到達レベルに関する情報や、AIがどの程度仕事を代替できるかについてのパラメータも提供されている。WEELは、この取り組みを通じて、AIと人間の共創カルチャーを目指し、AI-Nativeな時代を前向きに捉える姿勢を示している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 04 Feb 2024 12:25:39 +0000</pubDate></item><item><title>Google 「Bard」のアップグレードが日本語にも対応「Gemini Pro」導入・英語のプロンプト入力で画像生成も可能に</title><link>https://ledge.ai/articles/google_bard_gemini_pro_image_generation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Feb 2024 12:25:39 +0000</lastBuildDate><item><title>Google 「Bard」のアップグレードが日本語にも対応「Gemini Pro」導入・英語のプロンプト入力で画像生成も可能に</title><link>https://ledge.ai/articles/google_bard_gemini_pro_image_generation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -348,7 +327,29 @@ JR山手線 五反田駅 徒歩 1分
 
 :::button
 {target=“_blank”}
-:::</description><pubDate>Mon, 29 Jan 2024 02:20:59 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+:::</description><pubDate>Mon, 29 Jan 2024 02:20:59 +0000</pubDate></item><item><title>Apple Car開発「完全自動運転」から「レベル２＋」に後退。テスラと足並み揃え基本性能を充実させるEVへ</title><link>https://ledge.ai/articles/apple_car_ev_set_to_debut_in_2028_with_limited_autonomous_driving</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+米国Appleは2024年1月24日、10年以上にわたる自動車開発プロジェクトで方針転換を行い、電気自動車（EV）の発売を2028年に延期すると発表したことをBloombergが{target=“_blank”}。
+
+報道によると、Appleは当初、完全な自動運転車の開発を目指していたが、現在は限定的な機能を持つEVを開発中とのこと。これにより、車の発売は以前の予測から2年遅れて2028年の見込みとなる。
+
+このプロジェクトは「Titan」および「T172」というコードネームで呼ばれ、責任者の交代、戦略の変更が相次ぎ、遅延が発生していたという。
+
+計画に詳しい関係者への取材によれば、当初目指していたレベル4クラスの車両は近い将来での完成が難しく、テスラ社の現在の能力に合わせてダウングレードし、いわゆるレベル2+システムを採用。より基本的な運転支援機能を開発しているという。レベル2+のEVをデビューさせた後、レベル4の自動運転システムとさらなる地域への対応を計画しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Jan 2024 13:46:56 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
@@ -1805,7 +1806,28 @@ Excelのコネクタ機能とPower Query（パワークエリ）機能で外部�
 
 :::box
 
-:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>イーロン・マスクの「Neuralink」が脳インプラント手術を初めて人間の被験者に実施。「テレパシー」が思考でスマホ制御を可能にする</title><link>https://ledge.ai/articles/the_first_human_recieved_an_implant_from_neuralink</link><description>:::small
+:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>WEELが「AGI終末時計」を公開、2027年の汎用人工知能到来を予測</title><link>https://ledge.ai/articles/weel_agi_doomsday_clock</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+株式会社WEELは2024年1月25日、「AGI終末時計」を{target=“_blank”}した。
+
+これは、AGI（汎用型人工知能）の進歩とその社会への影響を可視化し、AGIの到来までのカウントダウンやAIビックテックのAGI到達レベル、現在人間が行う仕事の消滅度などをまとめたプロジェクトだ。イーロン・マスク氏やサム・アルトマン氏のような業界著名人の予測やWEEL独自の指標により、AGIの到来時期を残り約3年と予測。
+
+2027年にAGIが実現するとの仮定で終末時計はカウントダウンを続ける。現在のAIの進歩状況を明らかにし、将来の働き方の変化やAIによる仕事の置き換えについて考察することを目的とし、正しい情報の伝達と未来に追いつくための指標作りを目指すという。
+
+さらに、AGIの到達レベルに関する情報や、AIがどの程度仕事を代替できるかについてのパラメータも提供されている。WEELは、この取り組みを通じて、AIと人間の共創カルチャーを目指し、AI-Nativeな時代を前向きに捉える姿勢を示している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 04 Feb 2024 12:25:39 +0000</pubDate></item><item><title>イーロン・マスクの「Neuralink」が脳インプラント手術を初めて人間の被験者に実施。「テレパシー」が思考でスマホ制御を可能にする</title><link>https://ledge.ai/articles/the_first_human_recieved_an_implant_from_neuralink</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2148,36 +2170,7 @@ AIモデルのトレーニングに使用されるデータセットからCSAM�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>Apple iPhoneやPCでLLMを利用へ　外部フラッシュメモリを使用したLLMの効率的運用手法の研究を発表</title><link>https://ledge.ai/articles/apple_llm_in_a_flash</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-
-米国Appleは2023年12月12日、大規模言語モデル（LLM）のパラメータをSSDなどの外部フラッシュメモリに保存し、PCでの効率的なモデル運用を可能にする新たな手法「LLM in a flash」を{target=“_blank”}した。
-
-DRAMの限られた容量を超えるLLMを効率的に実行するために、モデルパラメータをフラッシュメモリに格納し、必要に応じてDRAMに読み込むという手法だ。この手法により、最大2倍のサイズのモデルを利用可能なDRAM容量で実行でき、CPUでは4-5倍、GPUでは20-25倍の推論速度向上を確認できたという。
-
-Appleの研究チームは、「windowing」と「row-column bundling」というデータをより効率的に処理するための手法を採用した。「windowing」データを小さな区分に分けて処理し、必要なデータのみを効率的に扱える技術。「row-column bundling」は、データを行と列に整理しグループ化する技術で、データの読み込みや転送がよりスムーズに行える。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-これらの技術の組み合わせにより、フラッシュメモリからのデータ転送量を削減し、一度に読み込むデータの量（読み込みチャンクサイズ）を増やすことができ、全体的な処理速度を改善した。これにより、モデルの推論速度を大幅に向上させ、メモリ使用効率を高めることが可能となった。
-
-この研究は、LLMの運用において、メモリ容量の制約が大きな課題であると考えられている現状において、重要な進歩を示していると研究チームは述べる。「LLM in a flash」は、パーソナルコンピューターや他のメモリ制限のあるデバイスで、LLMを効率的に利用するアプローチだが、その先には、iPhoneでのLLM運用が伺える。
-
-モバイル端末上でのLLMのローカル運用は、Google Geminiの最小サイズモデル「Gemini Nano」が2023年12月Pixel 8 Proに搭載、実用化されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 11 Jan 2024 07:21:43 +0000</pubDate></item><item><title>千葉市、高層マンションへドローン配送実験。地上配送ロボットと連携</title><link>https://ledge.ai/articles/chiba_drone_last_one_mile</link><description>:::small
+</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>千葉市、高層マンションへドローン配送実験。地上配送ロボットと連携</title><link>https://ledge.ai/articles/chiba_drone_last_one_mile</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
