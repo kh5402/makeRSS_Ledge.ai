@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Feb 2024 12:25:39 +0000</lastBuildDate><item><title>Google 「Bard」のアップグレードが日本語にも対応「Gemini Pro」導入・英語のプロンプト入力で画像生成も可能に</title><link>https://ledge.ai/articles/google_bard_gemini_pro_image_generation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Feb 2024 13:46:56 +0000</lastBuildDate><item><title>Dataiku、AIプラットフォームの日本語化で障壁を取り除き、データとAIの活用を楽しむカルチャーと仕組みを国内企業導入へ</title><link>https://ledge.ai/articles/dataiku_starts_the_japanese_localization_of_its_everydayai_platform</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Dataikuは2024年1月31日、Everyday AIプラットフォームの日本語GUIの提供を開始したと{target=“_blank”}した。日本の企業がデータとAIをより容易に活用できることを目的としている。
+
+同社は、Dataiku V12.5からこのサービスを開始し、データ分析に関わる誰もが簡単に利用できる操作性とコラボレーション機能、データパイプラインのさまざまな機能をエンドツーエンドでカバーするプラットフォーム性、エンタープライズでの運用を支えるDataOpsとMLOps、そしてガバナンスのケイパビリティーにより、企業のデータ活用を阻むさまざまな障壁を取り除く。2021年から日本での事業を開始し、2022年3月には日本法人Dataiku Japan株式会社を設立。
+
+今回の日本語化は、既に同製品を利用している顧客や、それを検討中の企業からの強い要望に応える形で行われた。第一弾となる今回のバージョンアップ範囲は「フロー」と「準備レシピ」とし、徐々に日本語化の範囲を広げる予定だという。
+
+
+:::box
+
+:::
+</description><pubDate>Sun, 04 Feb 2024 13:46:56 +0000</pubDate></item><item><title>Google 「Bard」のアップグレードが日本語にも対応「Gemini Pro」導入・英語のプロンプト入力で画像生成も可能に</title><link>https://ledge.ai/articles/google_bard_gemini_pro_image_generation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -327,29 +341,7 @@ JR山手線 五反田駅 徒歩 1分
 
 :::button
 {target=“_blank”}
-:::</description><pubDate>Mon, 29 Jan 2024 02:20:59 +0000</pubDate></item><item><title>Apple Car開発「完全自動運転」から「レベル２＋」に後退。テスラと足並み揃え基本性能を充実させるEVへ</title><link>https://ledge.ai/articles/apple_car_ev_set_to_debut_in_2028_with_limited_autonomous_driving</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-米国Appleは2024年1月24日、10年以上にわたる自動車開発プロジェクトで方針転換を行い、電気自動車（EV）の発売を2028年に延期すると発表したことをBloombergが{target=“_blank”}。
-
-報道によると、Appleは当初、完全な自動運転車の開発を目指していたが、現在は限定的な機能を持つEVを開発中とのこと。これにより、車の発売は以前の予測から2年遅れて2028年の見込みとなる。
-
-このプロジェクトは「Titan」および「T172」というコードネームで呼ばれ、責任者の交代、戦略の変更が相次ぎ、遅延が発生していたという。
-
-計画に詳しい関係者への取材によれば、当初目指していたレベル4クラスの車両は近い将来での完成が難しく、テスラ社の現在の能力に合わせてダウングレードし、いわゆるレベル2+システムを採用。より基本的な運転支援機能を開発しているという。レベル2+のEVをデビューさせた後、レベル4の自動運転システムとさらなる地域への対応を計画しているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Jan 2024 13:46:56 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+:::</description><pubDate>Mon, 29 Jan 2024 02:20:59 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
