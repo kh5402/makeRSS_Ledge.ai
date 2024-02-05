@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 03 Feb 2024 21:19:51 +0000</lastBuildDate><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Feb 2024 12:22:32 +0000</lastBuildDate><item><title>Google 「Bard」のアップグレードが日本語にも対応「Gemini Pro」導入・英語のプロンプト入力で画像生成も可能に</title><link>https://ledge.ai/articles/google_bard_gemini_pro_image_generation</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2024年2月1日、Bardの最新機能として、Gemini Proの導入とダブルチェック機能などのアップデートを{target=“_blank”}した。
+
+このアップデートにより、ほとんどの国で Bard でイメージを生成し、Bard が現在サポートしている言語、国、地域で Gemini Proが使用可能となり、Bardは40以上の言語と230以上の国と地域で利用できる（すでに英語圏では2023年12月より導入済み）
+
+これまで「PaLM 2」をベースにしていたBardが「Gemini Pro」にアップグレードすることで、理解、要約、推論、ブレインストーミング、執筆、計画などの点で大幅に能力を向上させる。Bardが利用可能な全言語に向けて世界中に展開予定とのこと。
+
+さらに「ダブルチェック機能」がBardの対応言語の大部分で利用可能になった。Bardに質問をし、回答を得たときに「G」アイコンをクリックすると、Bard は Web 上にその回答内容を実証するコンテンツがあるかどうかを評価する。評価できる場合は、強調表示された語句をクリックして、検索で見つかった裏付け情報または矛盾情報の詳細を確認できる。
+
+!
+:::small
+例：Bardから回答を得たときに「G」ボタンをクリックするとダブルチェック結果がハイライト表示される
+:::
+
+
+また、Bardでの画像生成機能が英語のプロンプト入力で可能となった。いくつかの言葉を入力するだけで、想像力を形にできる。さらに、「Generate more」をクリックすることで、さらに多くのオプションが提供され、気に入ったものをダウンロードできる。
+例えば「サーフィンする犬の画像を作成する」といった説明を入力することで、カスタムのビジュアルを生成し、アイデアを視覚的に表現する。この機能は、品質と速度のバランスを重視した更新されたImagen 2モデルによって提供され、フォトリアリスティックな出力を実現している。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 04 Feb 2024 12:22:32 +0000</pubDate></item><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -316,30 +349,7 @@ JR山手線 五反田駅 徒歩 1分
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jan 2024 13:46:56 +0000</pubDate></item><item><title>サム・アルトマン、AIの未来には「エネルギー革命」が必要とダボスで主張。核融合の可能性を肯定</title><link>https://ledge.ai/articles/sama_said_ai_needs_fusion_energy</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIのCEOサム・アルトマン氏は2024年1月16日、ダボス会議中のBloombergの{target=“_blank”}で、現代社会の重要な通貨である「計算能力とエネルギー」について言及した。AIの発展にはエネルギーの大幅な増加が必要であり、それには核融合や安価な太陽光発電と蓄電システム、またはそれに匹敵する「ブレークスルー」が不可欠だと強調した。
-
-同氏は、AIのエネルギー需要が今まで考えられていたよりもはるかに大きいと指摘。AIは多くのエネルギーを必要とするが、これが炭素を燃やすエネルギー源以外の技術への投資を促進すると述べ、核融合技術の可能性について肯定的に語った。
-
-OpenAIのパートナーであるMicrosoftは、2023年5月に核融合発電の米スタートアップであるヘリオン・エナジーと2028年からの電力購入契約を締結したと{target=“_blank”}しているが、同企業へはアルトマン氏個人も投資をしている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 26 Jan 2024 03:05:20 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Sun, 28 Jan 2024 13:46:56 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
