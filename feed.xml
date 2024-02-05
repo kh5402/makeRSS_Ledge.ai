@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Feb 2024 12:22:32 +0000</lastBuildDate><item><title>Google 「Bard」のアップグレードが日本語にも対応「Gemini Pro」導入・英語のプロンプト入力で画像生成も可能に</title><link>https://ledge.ai/articles/google_bard_gemini_pro_image_generation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Feb 2024 12:25:39 +0000</lastBuildDate><item><title>WEELが「AGI終末時計」を公開、2027年の汎用人工知能到来を予測</title><link>https://ledge.ai/articles/weel_agi_doomsday_clock</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+株式会社WEELは2024年1月25日、「AGI終末時計」を{target=“_blank”}した。
+
+これは、AGI（汎用型人工知能）の進歩とその社会への影響を可視化し、AGIの到来までのカウントダウンやAIビックテックのAGI到達レベル、現在人間が行う仕事の消滅度などをまとめたプロジェクトだ。イーロン・マスク氏やサム・アルトマン氏のような業界著名人の予測やWEEL独自の指標により、AGIの到来時期を残り約3年と予測。
+
+2027年にAGIが実現するとの仮定で終末時計はカウントダウンを続ける。現在のAIの進歩状況を明らかにし、将来の働き方の変化やAIによる仕事の置き換えについて考察することを目的とし、正しい情報の伝達と未来に追いつくための指標作りを目指すという。
+
+さらに、AGIの到達レベルに関する情報や、AIがどの程度仕事を代替できるかについてのパラメータも提供されている。WEELは、この取り組みを通じて、AIと人間の共創カルチャーを目指し、AI-Nativeな時代を前向きに捉える姿勢を示している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 04 Feb 2024 12:25:39 +0000</pubDate></item><item><title>Google 「Bard」のアップグレードが日本語にも対応「Gemini Pro」導入・英語のプロンプト入力で画像生成も可能に</title><link>https://ledge.ai/articles/google_bard_gemini_pro_image_generation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -327,29 +348,7 @@ JR山手線 五反田駅 徒歩 1分
 
 :::button
 {target=“_blank”}
-:::</description><pubDate>Mon, 29 Jan 2024 02:20:59 +0000</pubDate></item><item><title>Apple Car開発「完全自動運転」から「レベル２＋」に後退。テスラと足並み揃え基本性能を充実させるEVへ</title><link>https://ledge.ai/articles/apple_car_ev_set_to_debut_in_2028_with_limited_autonomous_driving</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-米国Appleは2024年1月24日、10年以上にわたる自動車開発プロジェクトで方針転換を行い、電気自動車（EV）の発売を2028年に延期すると発表したことをBloombergが{target=“_blank”}。
-
-報道によると、Appleは当初、完全な自動運転車の開発を目指していたが、現在は限定的な機能を持つEVを開発中とのこと。これにより、車の発売は以前の予測から2年遅れて2028年の見込みとなる。
-
-このプロジェクトは「Titan」および「T172」というコードネームで呼ばれ、責任者の交代、戦略の変更が相次ぎ、遅延が発生していたという。
-
-計画に詳しい関係者への取材によれば、当初目指していたレベル4クラスの車両は近い将来での完成が難しく、テスラ社の現在の能力に合わせてダウングレードし、いわゆるレベル2+システムを採用。より基本的な運転支援機能を開発しているという。レベル2+のEVをデビューさせた後、レベル4の自動運転システムとさらなる地域への対応を計画しているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Jan 2024 13:46:56 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+:::</description><pubDate>Mon, 29 Jan 2024 02:20:59 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
