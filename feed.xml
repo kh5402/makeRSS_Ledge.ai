@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Feb 2024 07:01:21 +0000</lastBuildDate><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Feb 2024 12:15:11 +0000</lastBuildDate><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2089,7 +2089,37 @@ AIモデルのトレーニングに使用されるデータセットからCSAM�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>経産省　生成AI基盤の開発支援に84億円を拠出　Googleクラウドを無償提供する採択事業者を発表</title><link>https://ledge.ai/articles/geniac_support_for_development_of_genai_infrastructure</link><description>:::small
+</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>神戸市、全職員が2月1日から生成AIの本格利用開始</title><link>https://ledge.ai/articles/kobe_begins_full-scale_use_of_genai_for_all_employees</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+神戸市は、2024年2月1日より、全職員を対象に生成AIの本格利用を開始すると{target=“_blank”}した。
+
+同市は2023年5月に、全国に先駆けて生成AIに関する条例を{target=“_blank”}。6月から3か月間、ChatGPTの試行利用を実施し、独自の利用環境を活用した検証を行った結果、Microsoft社の「Copilot」を用いた本格運用に移行した。11月には、業務でAIを利用する際のルールを条例化すると{target=“_blank”}した。
+
+本格利用では文章生成、文章要約、アイデア出し、Excel関数やプログラミングコードの生成、外国語翻訳、情報検索、画像生成などの機能が活用される。また、利用ガイドラインの見直しや職員向けのオンライン学習コンテンツの提供、プロンプト事例集の作成など、適切な利用を促進するための環境整備も行われるとのこと。
+
+
+以下、職員向けの{target=“_blank”}より
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 05 Feb 2024 12:15:11 +0000</pubDate></item><item><title>経産省　生成AI基盤の開発支援に84億円を拠出　Googleクラウドを無償提供する採択事業者を発表</title><link>https://ledge.ai/articles/geniac_support_for_development_of_genai_infrastructure</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2357,25 +2387,7 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 :::
 :::box
 
-:::</description><pubDate>Thu, 11 Jan 2024 07:32:14 +0000</pubDate></item><item><title>三原市、生成AIを活用した「AI市長」が年頭挨拶を実施</title><link>https://ledge.ai/articles/mihara_city_ai-mayor</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年1月4日、三原市役所では仕事始めの式典にて、AI技術を駆使した市長の岡田吉弘氏のアバターが{target=“_blank”}。この様子を{target=“_blank”}が報じた。
-
-約70人の市職員が集まる中、モニターに映し出された岡田市長の写真が話の内容に応じて動く動画であいさつを展開し、出席者を驚かせたという。
-
-この取り組みは、昨年末に東京のIT企業とのマッチングを介して実現。岡田市長の写真と音声データを元に、AIが口や首、目の動きを生成。岡田市長のアバターは、市民の利益のために国や県、スタートアップ企業との協力と共創を模索する姿勢を呼びかけた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 08 Jan 2024 08:14:33 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
+:::</description><pubDate>Thu, 11 Jan 2024 07:32:14 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
