@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Feb 2024 12:15:11 +0000</lastBuildDate><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Feb 2024 07:47:09 +0000</lastBuildDate><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -268,7 +268,253 @@ AI搭載ロボットの導入により、警備計画の高度化、警備業務
 :::box
 
 :::
-</description><pubDate>Mon, 29 Jan 2024 06:48:45 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
+</description><pubDate>Mon, 29 Jan 2024 06:48:45 +0000</pubDate></item><item><title> LoRA(ローラ)とは｜今年注目の画像生成AI (Stable Diffusion) のファインチューニングを試してみた
+</title><link>https://ledge.ai/articles/LoRA</link><description>LoRAとは”Low-Rank Adaptation”の略で、特に大規模な事前学習済みモデルのファインチューニングに関連する技術である。従来はLLM（大規模言語モデル）や画像生成AIのファインチューニングに膨大な計算量が必要だったが、LoRAによって少ないリソースで行うことができるようになった。LoRAはLLMや画像生成AIに応用できる、計算量を減らしてファインチューニングを行う技術である。
+
+2023年末にはChatGPTの新機能である、ユーザーがChatGPTを自由にカスタマイズ（ファインチューニングも）できる「GPTs」がリリースされた。誰もが簡単に学習済みモデルをファインチューニングできるようになりつつある。自社や個人が持つアセットを最大限に活用した生成AIの効果的な使用が、一層重要なフェーズに突入している。
+
+今回は、ファインチューニングの理解に必須の技術「LoRA」について解説する。
+
+:::small
+※「LoRA」という用語は元々、計算効率を向上させる技術を指す。しかし、この技術を基にして「Stable Diffusion」というAIモデルをファインチューニングした際に生まれる特定のモデルも、同様に「LoRA」と称されている。「LoRA」が二重の意味を持つことに注意が必要。
+:::
+
+:::box
+関連記事 : 
+:::
+
+:::box
+**目次**
+- LoRAとは
+- LoRAのビジネスへの活用
+- LoRAを使って「Stable Diffusion」をファインチューニングしてみた
+:::
+
+## LoRAとは
+
+LoRAとは”Low-Rank Adaptation”の略で、特に大規模な事前学習済みモデルのファインチューニングに関連する技術である。2021年にMicrosoftに所属していたEdward Huらによって論文で発表された技術だ。
+
+LoRAは、元のモデルのパラメータを直接変更する代わりに、低ランクの行列を導入して、パラメータの変更を行うことができる。少ない計算量で元のモデルに修正を加えることが可能になった。
+
+LoRAは、事前学習されたモデルの重みを固定し、変換器アーキテクチャの各層に低ランクの分解行列を注入することで、下流のタスク用の訓練可能なパラメータの数を大幅に削減する。例えば、GPT-3 175Bモデルにおいて、LoRAは訓練可能なパラメータを10,000倍減らし、GPUメモリ要件を3倍削減することを実現している。
+論文中では以下の図でモデルの概要が説明されている。
+!
+
+
+LoRA（Low-Rank Adaptation）の計算例を示す。通常、変換器モデルでは、重み行列W ( m×n)があり、入力x に対してWx の形で適用される。LoRAでは、この重み行列W を直接変更するのではなく、低ランクの行列A (m×k)とB (k×n)を用いて、W ( m×n)+AB ( m×n) の形で変換を行う。ここで、A とB は小さな行列であり、元の重み行列W に比べてはるかに少ないパラメータを持つ。この方法により、全体のパラメータ数が減少し、計算の効率が向上する。
+A=正規分布、B=0で初期化されている。
+
+具体的な計算を以下に示す。重み行列Wのパラメータ数は合計24、行列AとBは合計8となり調整するパラメータ数が3倍削減されている。
+!
+実際の計算規模は上記の計算例よりはるかに大きく、学習済みモデルのパラメータ数はGPT-3で175億、Stable Diffusionで10億程度と言われている。LoRAによってこれらのモデルのファインチューニングが少ないリソースで行なえることを理解できた。
+
+##  LoRA・ファインチューニングのビジネスへの活用
+
+次にビジネスへの活用例を示す。
+
+**カスタマイズされたチャットボット:**
+企業はLoRAを使用して、自社のリソースを学習させ大規模なLLMから自社専用のチャットボットを作成することができる。社内独自のQ＆Aを行えるチャットボットが使用されている。
+
+**AI写真集:**
+LoRAを使用して、基盤モデルとなるStable Diffusionをファインチューニングすることで、「アジア人女性」などの特定の画像を生成できる。
+Amazon.co.jpの電子書籍読み放題サービス「Kindle Unlimited」をAI生成画像の「写真集」が席巻している。SNSで話題になり、ニュースサイトも相次いで報じるなど、社会現象といってよい状態だ。生成AIの技術が進化し、実際に存在しないがリアルに見えるモデルの画像が生み出され、グラビア界に新たな波をもたらしている。
+!
+
+:::box
+関連記事：
+:::
+
+
+**AIモデル:**
+自社ブランドのファッションアイテムを学習させ、AIモデルに着用させることができる。
+AI model株式会社は、2022年6月14日にサービス「AI model モデル撮影サービス
+」を提供開始した。撮影場所・費用の確保、起用タレント・モデルの不祥事など「人ならでは」のリスクを回避しつつ、ECの顧客に合わせたブランド専属モデルを生み出せる。
+!
+
+:::box
+関連記事： 
+:::
+
+
+## LoRAを使って「Stable Diffusion」をファインチューニングしてみた
+
+Stable Diffusion LoRAは、人物の顔、服装、ポーズなど画像の一部を学習し、その特徴をもった新たな画像を生成することができる。
+
+今回はStable Diffusion LoRAを使い、人物の顔を学習させ、その人そっくりのAIモデルを生成する。肖像権の関係で弊社執行役員・箕部 和也の宣材写真を使いStable Diffusionをファインチューニングして、箕部そっくりの人物画像を作ることを試みた。
+
+**Stable Diffusion LoRAの特徴**
+
+- 20枚程度の画像からLoRAの追加学習ファイルを作成できる。
+- 服装、ポーズ、顔、イラストの画風を学習させることができる。
+- 100〜200MB程度のファイル。
+- 学習時間が短い (今回の方法で1時間程度)。
+- Stable Diffusionのチェックポイントをベースに作成可能。
+
+今回はGPUを所有してない場合もオンラインで実行できる方法を紹介する。
+のを使用する。Loraを使った学習が、簡単に行えるように必要なコードがまとめられている。
+
+基本的なStable Diffusionの使い方はこちらで確認できる。
+
+:::box
+関連記事:
+:::
+
+
+### STEP0 実行環境と学習用画像を準備する
+
+**実行環境**
+をクリックすると以下のようなノートブックが開く。Google ColaboratoryはPythonの実行環境であり、GPUを無料で使うことができる。ただし画像生成AIを行う場合はColab Pro (1 か月あたり ￥1,179) が推奨されている。今回はColab ProでLoraファイルの作成を行う。ノートブックをマイドライブにコピーしておく。
+!
+
+**学習用画像**
+今回は画像を15枚用意した。画像サイズは512×512や1024×1024の正方形が望ましい。
+画像サイズは512×512にトリミングした。顔を学習させたい場合は、髪型や服装が違う画像があれば顔のみを学習しやすい。数パターンの髪型、表情、ポーズ、服装の画像を用意できることが理想的だ。
+!
+
+### STEP1  LoRAファイルを作成する。
+変更できるパラメータは多量にあるが、最低限の実行に必須な部分のみを解説していく。
+
+**I. Install Kohya Trainer**
+!
+:::box
+1.1. Install Dependencies
+ mount_drive:◻︎にチェックを入れて実行。colabからgoole driveにアクセス可能になる。
+:::
+
+
+**II. Pretrained Model Selection**
+!
+:::box
+2.1. Download Available Model
+ 学習の基盤となるStable Diffusionのモデルを選択できる。
+Stable-Diffusion-v1-5を選択して実行する。
+:::
+
+**III. Data Acquisition**
+!
+:::box
+3.1. Locating Train Data Directory
+ デフォルトで実行する。学習用画像の保存場所が作成される。
+:::
+
+!
+
+ :::box
+3.2. Unzip Dataset
+Gooole Driveに学習させたい画像のzipファイルをアップロードする。
+保存したディレクトリのパスをコピーして、zipfile_urlに貼り付けて実行する。
+実行後 /content/LoRA/train_dataに自動的に保存される。
+:::
+
+**IV. Data Preprocessing**
+!
+:::box
+4.1. Data Cleaning
+convertにチェックを入れて実行する。
+学習のための形式に対応していない画像は自動で削除される。
+:::
+
+:::box
+4.2. Data Annotation
+画像を認識し自動でキャプションを作成するためのブロック
+
+4.2.1. BLIP Captioning
+自動でキャプションをつける際のパラメータを変更できる。デフォルトで実行。
+
+4.2.2. Waifu Diffusion 1.4 Tagger V2
+下部のgeneral_thresholdを0.85程度に設定する。大きくするとタグの数が少なくなる。
+特定の人物を学習させたい場合は数値を大きくすることが一般的。
+traindataのファイルにキャプションが入ったテキストファイルが追加される。
+以下の画像には”a man in a black suit and black shirt”と自動的にキャプションが追加された。
+!
+:::
+
+
+
+
+
+**V. Training Model**
+!
+:::box
+5.1. Model Config
+上記の画像通りに入力して実行する。
+:::
+
+
+:::box
+5.2. Dataset Config
+dataset_repeats を１に変更する。同じ画像を学習させる回数を調整できる。
+flip_augにチェックを入れると左右反転させた画像を学習させられる。
+その他はそのままで実行。
+:::
+
+:::box
+5.3.~ 5.5までをデフォルトのまま実行する。画像の枚数にもよるが1時間〜2時間程度で学習が完了する。完成したLoRAファイルはマイドライブのLora/outputに自動で保存される。
+拡張子.safetensorsがLoRAのファイルだ。一番上に保存されている番号が振られていないファイルが最終的な出力になっている。
+!
+:::
+
+
+### STEP2  作成したLoRAを使って画像を生成する。
+STEP1で作成したLoRAファイルを使って早速、画像を生成する。
+15枚の画像で学習を行った結果、右の画像が生成できた。髪型やヒゲ、黒いスーツが強く学習されていることが確認できる。写実的で、AIで作成された画像とは気が付かない可能性があるクオリティだが、似ているが本人ではないことが一目で分かる程度だ。また顔や髪型の特徴と同時に黒のスーツも学習してしまっている。これは学習用画像がすべて同じ服装であるためである。
+!
+**各種パラメータ**
+*** 
+モデル  
+*** 
+プロンプト
+&lt; lora:minobe_model:0.9 &gt;,professional, masterpiece, 8k, hyperrealistic portrait,  Japanese man, 30yo, dark eyes, detailed face, detailed skin, photography, hq, photorealistic
+*** 
+ネガティブプロンプト
+nude,nsfw,underwear,make-up, low quality, drawing, painting, cartoon, 3d render, sketch, noisy, blurry, deformed, ugly, blurry, overexposed
+*** 
+Sampling method  DPM++ 2M Karras
+*** 
+CFG Scale  7
+*** 
+
+
+&lt; lora:minobe_model:0.9 &gt;はLoraファイルの適用の強さを示すもので数値を変更して調整できる。Loraファイルを複数使用したときを考慮して0.8程度で狙った特徴が出るようにすることが一般的。
+
+
+### STEP3 パラメータを変更して画像をさらに生成する。
+次により本人に似た、理想に近い画像を生成するために学習のパラメータやプロンプトを変更していく。特に学習の精度に影響を与えるとされるmin_snr_gammaの値を-1から1に変えて新たなバージョンのLoraファイルを作成した。min_snr_gammaは学習の低step化に貢献するオプションであり、学習過程を大きく変化させるパラメータである。推奨値は5とされている。
+!
+*** 
+モデル Real Dream
+*** 
+プロンプト
+&lt; lora:minobe_model:0.9 &gt; ,professional, masterpiece, 8k, hyperrealistic portrait,  asian cool man, 33yo, detailed face, detailed skin, Standing in the Desert,  photography, hq, photorealistic
+*** 
+ネガティブプロンプト
+nude,nsfw,underwear,make-up, low quality, drawing, painting, cartoon, 3d render, sketch, noisy, blurry, deformed, ugly, blurry, overexposed
+*** 
+Sampling method  DPM++ 2M Karras
+*** 
+CFG Scale  7
+*** 
+
+
+!
+
+*** 
+モデル Real Dream
+*** 
+プロンプト
+&lt; lora:minobe_model:0.9 &gt; ,professional, masterpiece, 8k, hyperrealistic portrait,  asian cool man, 33yo, detailed face, detailed skin, ride a horse,  photography, hq, photorealistic
+*** 
+ネガティブプロンプト
+nude,nsfw,underwear,make-up, low quality, drawing, painting, cartoon, 3d render, sketch, noisy, blurry, deformed, ugly, blurry, overexposed
+*** 
+Sampling method  DPM++ 2M Karras
+*** 
+CFG Scale  7
+*** 
+
+今回はStable Diffusion LoRAを使用して、Stable Diffusionをファインチィーニングし画像を生成した。画像を15枚を準備して数時間でコードを一切書くことなく簡単に、驚くほど精巧な画像を生成できた。Stable Diffusion LoRAには多くのパラメータがあり、それらの適正値を見つけることでさらに精度が向上すると予想される。パラメータの適正値は「アニメ風の画像を生成したい」や「同じポーズの画像を生成したい」「綺麗なアジア人女性を生成したい」など目的によって変化するため、各々が生成された結果を見ながら、理想の生成画像に向かって微調整を加えていく必要がある。
+
+</description><pubDate>Tue, 06 Feb 2024 07:47:09 +0000</pubDate></item><item><title>Webアプリケーションの巡回ツールを開発せよ｜MBSD Cybersecurity Challenges 2023</title><link>https://ledge.ai/articles/mbsd-security-contest2023</link><description>三井物産セキュアディレクション株式会社が主催する、専門学校・高等専門学校を対象としたセキュリティコンテスト『{target=“_blank”}』の最終審査会が、2023年12月15日（金）に東京都大手町で行われた。
 
 ## セキュリティ業務の一端を疑似体験
 本コンテストは、これからの時代を担う学生に向けて、より実践的で現実味のある課題を用意し、セキュリティ業務の一端を疑似体験しながら、課題を解決するためのアイデアや技術を競うものだ。入賞者には副賞が設定されており、最優秀賞には外付けSSD(4TB)とMeta Quest 3、2位には外付けSSD(2TB)と高級キーボード、3位には外付けSSD(1TB)とRaspberry Pi4 スターターキットを、受賞者ー１人ひとりに贈るという、かなり豪華な内容となっている。
@@ -1403,31 +1649,7 @@ Auto Trainはノーコードで機械学習のモデルを学習、評価、デ�
 :::
 :::box
 
-:::</description><pubDate>Wed, 16 Aug 2023 03:54:30 +0000</pubDate></item><item><title>経産省 デジタル人材の育成指針に「生成AI」追加 「ITパスポート試験」に反映へ</title><link>https://ledge.ai/articles/meti_adds_generative_ai_to_dx_hr</link><description>:::small
-画像はSDXL1.0によりLedge.aiが生成
-:::
-2023年8月7日、経済産業省は、デジタル時代の人材育成に関する新たな方針「生成AI時代のDX推進に必要な人材・スキルの考え方」を{target=“_blank”}した。
-
-生成AI技術の急速な進化と変動性に対応するため、経産省は「アジャイル」なアプローチを採用。6月より開始した「デジタル時代の人材政策に関する検討会」での議論をもとに、生成AIを効果的に利用するための人材・スキルの在り方についての方針を取りまとめた。
-
-生成AIが社会や企業にもたらすインパクト、デジタル人材育成やスキルへの影響、そして生成AI時代のDX推進に必要な人材・スキルの考え方について示している。
-
-また情報処理推進機構（IPA）と連携し、ビジネスパーソンの学習や企業の教育、採用に役立つよう定めた指針「デジタルスキル標準（DSS）」の改訂、デジタルスキル教育のポータルサイト「マナビDX」への生成AI講座の追加、そして「情報処理技術者試験」の中の「ITパスポート試験」への生成AIに関連する内容の追加、といった政策対応を行う。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 15 Aug 2023 04:59:26 +0000</pubDate></item><item><title>市場価値が爆上がり中の「機械学習エンジニア」平均年収は？2024年版「フリーランス・副業の平均年収」ランキング</title><link>https://ledge.ai/articles/annual_income_ranking_of_freelancers_and_side_hustlers_2024</link><description>:::small
+:::</description><pubDate>Wed, 16 Aug 2023 03:54:30 +0000</pubDate></item><item><title>市場価値が爆上がり中の「機械学習エンジニア」平均年収は？2024年版「フリーランス・副業の平均年収」ランキング</title><link>https://ledge.ai/articles/annual_income_ranking_of_freelancers_and_side_hustlers_2024</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
