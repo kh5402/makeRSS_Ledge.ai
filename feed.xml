@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Feb 2024 06:56:04 +0000</lastBuildDate><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Feb 2024 07:01:21 +0000</lastBuildDate><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2089,7 +2089,35 @@ AIモデルのトレーニングに使用されるデータセットからCSAM�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>千葉市、高層マンションへドローン配送実験。地上配送ロボットと連携</title><link>https://ledge.ai/articles/chiba_drone_last_one_mile</link><description>:::small
+</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>経産省　生成AI基盤の開発支援に84億円を拠出　Googleクラウドを無償提供する採択事業者を発表</title><link>https://ledge.ai/articles/geniac_support_for_development_of_genai_infrastructure</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年2月2日、経済産業省は「ポスト5G情報通信システム基盤強化研究開発事業」の採択事業者を{target=“_blank”}し、Generative AI Accelerator Challenge（GENIAC）の立ち上げと共に、生成AIの基盤モデル開発を支援するための施策を{target=“_blank”}した。この日の記者会見で、齋藤経済産業大臣は生成AI基盤の開発支援に84億円を拠出すると述べたことを複数メディアが報じた。
+
+採択された事業者には、株式会社ABEJAやSakana AI株式会社などが含まれ、これらの企業はGoogleクラウドの計算資源を無償で利用できるよう支援を受ける。このプログラムは、生成AIの開発力向上と産業活動・国民生活への大きなインパクトを目指している。経済産業省は、国内外の知見を結集し、生成AIによるイノベーション創出を加速するための環境整備に努めている。
+
+採択の発表を受け、東京大学松尾研究室は、公開型で500億パラメータサイズの大規模言語モデルの開発を開始すると{target=“_blank”}。また、ストックマーク株式会社は、フルスクラッチで事前学習を行い、ビジネス領域でのハルシネーションを大幅に抑止した1,000億パラメータ規模の独自LLMの開発を行うと{target=“_blank”}した。
+
+採択された各事業者の[テーマ概要](https://www.meti.go.jp/policy/mono_info_service/joho/post5g/240202kaisyagaiyou.pdf
+){target=“_blank”}は以下の通り。
+**株式会社ABEJA:** 「LLMの社会実装に向けた特化型モデルの元となる汎化的LLMに関する研究開発」
+**Sakana AI株式会社:** 「自律型エージェントシステム向け高効率基盤モデルの開発」
+**大学共同利用機関法人情報：**「システム研究機構: オープンかつ日本語に強いGPT-3級大規模言語モデルの構築」
+**ストックマーク株式会社:**「厳密さが要求されるビジネス用途におけるハルシネーションを大幅抑止した基盤モデル」
+**Turing株式会社:**「完全自動運転に向けたマルチモーダル基盤モデルの開発」
+**国立大学法人東京大学:**「多様な日本語能力の向上を目指した公開型の基盤モデル開発」
+**株式会社Preferred Elements:**「100B/1Tパラメータからなる大規模マルチモーダル基盤モデルの構築」
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 05 Feb 2024 07:01:21 +0000</pubDate></item><item><title>千葉市、高層マンションへドローン配送実験。地上配送ロボットと連携</title><link>https://ledge.ai/articles/chiba_drone_last_one_mile</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2347,34 +2375,7 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 :::box
 
 :::
-</description><pubDate>Mon, 08 Jan 2024 08:14:33 +0000</pubDate></item><item><title>ローマ教皇「世界平和デー」へのメッセージ、平和のためのAIのリスクを警告</title><link>https://ledge.ai/articles/pope_francis_warns_on_risks_of_ai_for_peace</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月15日、カトリック教会は「世界平和の日」に向けて、教皇フランシスコからのメッセージを{target=“_blank”}した。2024年のテーマは「人工知能と平和」。教皇は、科学技術の進歩を評価しつつ、AIが持つリスクや危険に注意を促している。
-
-@
-
-:::small
-2024年世界平和デーのメッセージを発表する記者会見
-:::
-
-
-教皇は、新デジタル技術が社会や世界の安定に与える影響を緊急に問うべきだと述べ、その影響は使用される状況によって変わると指摘した。人間の基本的価値を尊重することがAIのポジティブな結果をもたらすと強調し、基本的尊厳と兄弟愛を新技術開発の基礎とすべきだと説いた。
-
-特に、人間がテクノロジーの力ですべての限界を超え、すべてをコントロールしたいという強迫観念に陥る危険性に言及した​​。また、フェイクニュースや情報操作、データの不公平性、教育と文化との関係についても言及し、AIがもたらす潜在的なリスクを警告した。
-
-教皇は国内法と国際条約によるAIの管理を求め、人工知能が不平等や不正義を増大させず、平和に貢献することを祈った。最後に、教皇はキリスト教信者や諸宗教の信者、善意の人々がデジタル革命の挑戦に立ち向かい、平和のある世界を次代に引き継ぐよう祈っているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 29 Dec 2023 07:32:30 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
+</description><pubDate>Mon, 08 Jan 2024 08:14:33 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
