@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Feb 2024 07:47:09 +0000</lastBuildDate><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Feb 2024 10:38:48 +0000</lastBuildDate><item><title>BMW、自動車製造で困難・危険・退屈な作業をこなす汎用ヒューマノイドロボを採用</title><link>https://ledge.ai/articles/bmw_employs_general-purpose_humanoid_robots</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+カリフォルニア州に本拠を置くFigureは2024年1月18日、自動車製造環境において汎用ロボットを導入するため、BMWとの商業契約を締結を{target=“_blank”}した。
+
+同社が開発する自律型ヒューマノイドロボットは、製造プロセス全体で困難、危険、または退屈な作業の自動化を可能にし、従業員が自動化できないスキルやプロセスに集中し、生産効率と安全性の継続的な改善を図ることを可能にする。
+
+!
+:::small
+画像の出典：[FigureのX（旧Twitter）公式アカウント]https://twitter.com/Figure_robot/status/1747982255337959753){target=“_blank”}
+:::
+
+BMWとFigureは、マイルストーンベースのアプローチを追求する。第一段階として、自動車製造でFigureロボットを適用する初期のユースケースを特定する。第一段階が完了すると、Figureロボットはサウスカロライナ州スパータンバーグのBMW製造施設で段階的に展開される予定だという。自動車製造環境でのヒューマノイドロボットの展開を超え、AI、ロボット制御、製造仮想化、ロボット統合などの先進技術トピックを両社が共同で探求する。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 06 Feb 2024 10:38:48 +0000</pubDate></item><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -245,30 +267,7 @@ Meshは、カスタムイベントや大規模な会議のための独自の体�
 :::box
 
 :::
-</description><pubDate>Tue, 30 Jan 2024 05:37:56 +0000</pubDate></item><item><title>IBMが中部国際空港でAIロボット「Spot」を活用した警備業務の実証実験を開始</title><link>https://ledge.ai/articles/ibm_pilot_project_using_spot_at_centrair</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本IBMは2024年1月9日、中部国際空港でAI搭載ロボット「Spot」を使用した空港警備業務の実証実験を実施すると{target=“_blank”}した。
-
-同社は、内閣府「先端的サービスの開発・構築や先端的サービス実装のためのデータ連携等に関する調査事業（2次募集・全国対象）」に採択された「空港等の警備業務におけるAI搭載ロボットの導入に関する調査・実証」を2023年11月に事業代表者として受託。愛知県の推進する「あいちデジタルアイランドプロジェクト」の対象エリアである中部国際空港で1月18日から19日と2月15日から16日までの2回にわたり、実証実験を行う。
-
-実証に使用されるAI搭載ロボットは、米国{target=“_blank”}の公式パートナー企業で、日本国内での四足歩行ロボットSpot®をはじめとするロボット販売サービスを行う東北エンタープライズが提供する。
-
-AI搭載ロボットの導入により、警備計画の高度化、警備業務の省力化、労働環境改善を目指し、警備人材不足の解消を図る。ロボットによるデータ収集とその活用、道路交通法上の取り扱いについても検討されるという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 29 Jan 2024 06:48:45 +0000</pubDate></item><item><title> LoRA(ローラ)とは｜今年注目の画像生成AI (Stable Diffusion) のファインチューニングを試してみた
+</description><pubDate>Tue, 30 Jan 2024 05:37:56 +0000</pubDate></item><item><title> LoRA(ローラ)とは｜今年注目の画像生成AI (Stable Diffusion) のファインチューニングを試してみた
 </title><link>https://ledge.ai/articles/LoRA</link><description>LoRAとは”Low-Rank Adaptation”の略で、特に大規模な事前学習済みモデルのファインチューニングに関連する技術である。従来はLLM（大規模言語モデル）や画像生成AIのファインチューニングに膨大な計算量が必要だったが、LoRAによって少ないリソースで行うことができるようになった。LoRAはLLMや画像生成AIに応用できる、計算量を減らしてファインチューニングを行う技術である。
 
 2023年末にはChatGPTの新機能である、ユーザーがChatGPTを自由にカスタマイズ（ファインチューニングも）できる「GPTs」がリリースされた。誰もが簡単に学習済みモデルをファインチューニングできるようになりつつある。自社や個人が持つアセットを最大限に活用した生成AIの効果的な使用が、一層重要なフェーズに突入している。
