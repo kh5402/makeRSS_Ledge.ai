@@ -282,7 +282,29 @@ Meshは、カスタムイベントや大規模な会議のための独自の体�
 :::box
 
 :::
-</description><pubDate>Tue, 30 Jan 2024 05:40:52 +0000</pubDate></item><item><title> LoRA(ローラ)とは｜今年注目の画像生成AI (Stable Diffusion) のファインチューニングを試してみた
+</description><pubDate>Tue, 30 Jan 2024 05:40:52 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+一般社団法人日本デジタルトランスフォーメーション推進協会は2024年2月6日、民間企業や自治体のDX取り組みを表彰する「日本DX大賞 2024」の応募受付を開始したと{target=“_blank”}した。
+
+コンテストは、DXの成功事例を発掘し共有することで、日本全体のDX推進を加速させることを目的としている。昨年行われた「日本DX大賞2023」への応募数は111件。今年はサステナビリティトランスフォーメーションやビジネスモデルの変革、顧客体験の向上など、多様なカテゴリーでのDX取り組みが対象となる​。
+
+**募集期間**： 2024年2月6日から4月26日まで
+**応募対象**：「DX推進」に取り組んでいる民間企業、公的機関、自治体等の変革を実現した事例や成果をあげた事例。または、ユーザー企業・団体が取り組んだ事例
+
+
+日本DX大賞サイト：{target=“_blank”}
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 06 Feb 2024 10:45:28 +0000</pubDate></item><item><title> LoRA(ローラ)とは｜今年注目の画像生成AI (Stable Diffusion) のファインチューニングを試してみた
 </title><link>https://ledge.ai/articles/LoRA</link><description>LoRAとは”Low-Rank Adaptation”の略で、特に大規模な事前学習済みモデルのファインチューニングに関連する技術である。従来はLLM（大規模言語モデル）や画像生成AIのファインチューニングに膨大な計算量が必要だったが、LoRAによって少ないリソースで行うことができるようになった。LoRAはLLMや画像生成AIに応用できる、計算量を減らしてファインチューニングを行う技術である。
 
 2023年末にはChatGPTの新機能である、ユーザーがChatGPTを自由にカスタマイズ（ファインチューニングも）できる「GPTs」がリリースされた。誰もが簡単に学習済みモデルをファインチューニングできるようになりつつある。自社や個人が持つアセットを最大限に活用した生成AIの効果的な使用が、一層重要なフェーズに突入している。
@@ -1644,26 +1666,7 @@ Auto Trainはノーコードで機械学習のモデルを学習、評価、デ�
 :::
 :::box
 
-:::</description><pubDate>Thu, 07 Sep 2023 06:53:36 +0000</pubDate></item><item><title>東商「中小企業のための『生成AI』活用入門ガイド」発行 - 基礎知識から活用プロンプト例まで</title><link>https://ledge.ai/articles/tokyo_cci_generative_ai_guide</link><description>:::small
-画像の出典：東京商工会議所
-:::
-東京商工会議所の中小企業部は2023年7月28日、デジタルシフト・DX推進委員会の下「中小企業のための『生成AI』活用入門ガイド」を発行したと{target=“_blank”}した。
-
-同所では、生成AIを探求するための研究会を設置し、中小企業における影響や活用方法についての議論を進めてきたという。5月の調査によれば、ChatGPTを含む生成AIを既に活用している企業は約6%であり、今後の活用を検討している企業を含めると3割以上となる。
-
-このガイドでは、ChatGPTをはじめとする生成AIに関する最低限の知識、使用方法、個人情報や著作権の取り扱いに関する注意事項を解説。具体的な経営・業務を想定したプロンプト（入力内容）の例や、中小企業での活用事例も掲載している。
-
-ガイドは{target=“_blank”}より無料でダウンロードできる。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 16 Aug 2023 03:54:30 +0000</pubDate></item><item><title>市場価値が爆上がり中の「機械学習エンジニア」平均年収は？2024年版「フリーランス・副業の平均年収」ランキング</title><link>https://ledge.ai/articles/annual_income_ranking_of_freelancers_and_side_hustlers_2024</link><description>:::small
+:::</description><pubDate>Thu, 07 Sep 2023 06:53:36 +0000</pubDate></item><item><title>市場価値が爆上がり中の「機械学習エンジニア」平均年収は？2024年版「フリーランス・副業の平均年収」ランキング</title><link>https://ledge.ai/articles/annual_income_ranking_of_freelancers_and_side_hustlers_2024</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
