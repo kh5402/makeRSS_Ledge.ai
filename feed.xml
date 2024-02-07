@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Feb 2024 10:42:09 +0000</lastBuildDate><item><title>リコー、130億パラメータのLLMを開発、日本企業の業務に特化・カスタマイズも容易。AI活用のビジネス共創拠点もリニューアル</title><link>https://ledge.ai/articles/ricoh_llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Feb 2024 13:37:50 +0000</lastBuildDate><item><title>リコー、130億パラメータのLLMを開発、日本企業の業務に特化・カスタマイズも容易。AI活用のビジネス共創拠点もリニューアル</title><link>https://ledge.ai/articles/ricoh_llm</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2325,7 +2325,31 @@ AIモデルのトレーニングに使用されるデータセットからCSAM�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>神戸市、全職員が2月1日から生成AIの本格利用開始</title><link>https://ledge.ai/articles/kobe_begins_full-scale_use_of_genai_for_all_employees</link><description>:::small
+</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>中国で新たに13社が開発したLLMの一般公開が承認される。シャオミなどAI以外の企業も</title><link>https://ledge.ai/articles/13_new_chinese_iims_approved_for_public_use</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+中国では、生成AIサービスの管理規定「生成式人工智能服务管理暂行办法（生成AIサービスの管理に関する暫定措置）」の第4期の認可のための審査が行われた。2024年2月4日、小米科技（シャオミ）など、13社が開発した大規模言語モデル（LLM）および生成AI関連プロダクト14種が審査に合格し、一般公開が承認されたと{target=“_blank”}が報じた。
+
+中国政府は2023年7月13日に「{target=“_blank”}」を発表した。政府がAI技術の発展における規制枠組みを強化していることを示しており、AIモデルの公開にあたっては、データセキュリティ、プライバシー保護、知的財産権の尊重など、一定の基準を満たす必要がある。
+
+この措置は8月15日に施行され、以降40以上のAIモデルが承認を受けている。第1期には百度（バイドゥ）、アリババクラウド（阿里雲）、字節跳動（バイトダンス）などのLLMが政府の承認を得た。AI技術が社会に及ぼす影響を考慮し、その安全性と信頼性を確保するために、このような審査制度を設けているという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 06 Feb 2024 13:37:50 +0000</pubDate></item><item><title>神戸市、全職員が2月1日から生成AIの本格利用開始</title><link>https://ledge.ai/articles/kobe_begins_full-scale_use_of_genai_for_all_employees</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2603,27 +2627,7 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 :::
 :::box
 
-:::</description><pubDate>Mon, 15 Jan 2024 02:48:44 +0000</pubDate></item><item><title>東京都教育委員会が生成AIのパイロット校に「exaBase 生成AI」導入</title><link>https://ledge.ai/articles/tokyo_metropolitan_board_of_education_adopts_exabase_gen-ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-エクサウィザーズのグループ会社 Exa Enterprise AI は2023年12月21日、東京都教育委員会が同社の「exaBase 生成AI」を都立高等学校、都立中等教育学校（後期課程）、特別支援学校（高等部）の9校で導入することを{target=“_blank”}した。同じ日に、都立学校生成AI研究校である都立小岩高等学校においてexaBase 生成AIを活用した授業が報道各社に{target=“_blank”}。
-
-
-東京都では2023年9月に生成AIのパイロットプロジェクトを開始し、同年12月には各校に「exaBase 生成AI」を導入。生徒と教員に個別のIDを発行し、AIリテラシーの指導や各教科の授業での生成AIの活用を始めているとのこと。
-
-同社のAIは、セキュリティや利用状況の管理機能を強化し、マイクロソフトの「Azure OpenAI Service 東日本リージョン」を利用することで、データを全て日本国内で処理しているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 11 Jan 2024 07:32:14 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
+:::</description><pubDate>Mon, 15 Jan 2024 02:48:44 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
