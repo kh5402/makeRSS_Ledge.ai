@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Feb 2024 10:38:48 +0000</lastBuildDate><item><title>BMW、自動車製造で困難・危険・退屈な作業をこなす汎用ヒューマノイドロボを採用</title><link>https://ledge.ai/articles/bmw_employs_general-purpose_humanoid_robots</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Feb 2024 10:42:09 +0000</lastBuildDate><item><title>リコー、130億パラメータのLLMを開発、日本企業の業務に特化・カスタマイズも容易。AI活用のビジネス共創拠点もリニューアル</title><link>https://ledge.ai/articles/ricoh_llm</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+株式会社リコーは2024年1月31日、日本企業の業務に特化し、企業ごとのカスタマイズが容易な130億パラメータの大規模言語モデル（LLM）を開発したと{target=“_blank”}した。
+
+このモデルは日本語と英語の学習データを用い、日本語の精度を高めることに特化しており、日本語で利用可能なLLMとしては、2024年1月4日時点で最高の性能を持つことが確認されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+提供開始は2024年春からを予定。このLLMを用いて、同社は顧客の業種や業務に合わせたカスタムLLMを提供し、業務効率化の実現を目指す。国内の顧客を先行し、将来的には海外顧客への提供も予定しているという。
+
+
+また、同社は「{target=“_blank”}」を2月1日にリニューアルオープンした。
+
+この施設は、最新のAI技術を活用し、顧客との価値共創活動強化を目的としている。田町から品川シーズンテラスに移転・拡大し、経営者との対話やワークショップを通じてAIを活用したビジネスデザインの設計から実装までを支援するという。顧客接点力と独自のAI技術を掛け合わせ、業種ごとの顧客価値シナリオを提供し、新たなビジネス共創を目指すとのことだ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 06 Feb 2024 10:42:09 +0000</pubDate></item><item><title>BMW、自動車製造で困難・危険・退屈な作業をこなす汎用ヒューマノイドロボを採用</title><link>https://ledge.ai/articles/bmw_employs_general-purpose_humanoid_robots</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -247,27 +282,7 @@ Meshは、カスタムイベントや大規模な会議のための独自の体�
 :::box
 
 :::
-</description><pubDate>Tue, 30 Jan 2024 05:40:52 +0000</pubDate></item><item><title>さくらインターネットが「NVIDIA H100」GPU搭載の生成AI専用クラウド「高火力 PHY」を1月31日より提供開始</title><link>https://ledge.ai/articles/sakura_koukaryoku_phy</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-さくらインターネットは2024年1月24日、生成AI向けクラウドサービス「高火力」の提供を1月31日より開始することを{target=“_blank”}した。
-
-このサービスは、NVIDIA H100 Tensor Core GPUを搭載したベアメタルシリーズ「高火力 PHY」を第一弾として展開する。同社は、2023年6月16日に経済安全保障推進法に基づく特定重要物資である「クラウドプログラム」の供給確保計画に関する経済産業省の認定を受けており、今後3年間で130億円規模の投資を予定している。
-
-「高火力 PHY」は、サーバー1台当たり8基のNVIDIA H100 Tensor Core GPUを搭載し、サーバー間の通信を200GbE×4本の回線で行うなど、大規模言語モデルを中心とした生成AIの利用を想定した仕様となっている。また、このサービスは再生可能エネルギー電源100%を使用し、CO2排出量ゼロを目指す石狩データセンターで提供の予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 30 Jan 2024 05:37:56 +0000</pubDate></item><item><title> LoRA(ローラ)とは｜今年注目の画像生成AI (Stable Diffusion) のファインチューニングを試してみた
+</description><pubDate>Tue, 30 Jan 2024 05:40:52 +0000</pubDate></item><item><title> LoRA(ローラ)とは｜今年注目の画像生成AI (Stable Diffusion) のファインチューニングを試してみた
 </title><link>https://ledge.ai/articles/LoRA</link><description>LoRAとは”Low-Rank Adaptation”の略で、特に大規模な事前学習済みモデルのファインチューニングに関連する技術である。従来はLLM（大規模言語モデル）や画像生成AIのファインチューニングに膨大な計算量が必要だったが、LoRAによって少ないリソースで行うことができるようになった。LoRAはLLMや画像生成AIに応用できる、計算量を減らしてファインチューニングを行う技術である。
 
 2023年末にはChatGPTの新機能である、ユーザーがChatGPTを自由にカスタマイズ（ファインチューニングも）できる「GPTs」がリリースされた。誰もが簡単に学習済みモデルをファインチューニングできるようになりつつある。自社や個人が持つアセットを最大限に活用した生成AIの効果的な使用が、一層重要なフェーズに突入している。
