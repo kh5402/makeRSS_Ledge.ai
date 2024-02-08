@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Feb 2024 13:37:50 +0000</lastBuildDate><item><title>リコー、130億パラメータのLLMを開発、日本企業の業務に特化・カスタマイズも容易。AI活用のビジネス共創拠点もリニューアル</title><link>https://ledge.ai/articles/ricoh_llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 07 Feb 2024 07:49:04 +0000</lastBuildDate><item><title>米国企業　テクノロジー・金融部門でレイオフ急増。コスト削減と AI の影響の拡大</title><link>https://ledge.ai/articles/january_2024_challenger_report_surging_layoffs_in_tech_and_financial_sectors</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国チャレンジャー・グレイ・アンド・クリスマス社が2023年2月1日に{target=“_blank”}したレポートによると、米国企業による人員削減が前月比136%増の82,307人に上った。この数字は、2023年1月の102,943人からは20%減少したものの、2009年1月の241,749人に次ぐ1月としては過去最高の人員削減数だという。
+
+特に金融業界が23,238人で最多の削減を発表し、次いで技術部門が15,806人の削減を発表した。削減の主な理由は「リストラ」で28,329人、「閉鎖」で14,555人となった。また「AIの導入」が381人の削減理由として挙げられ、これはAIに関連する削減が初めて報告された2023年5月以来、合計4,628人に達したとのこと。
+
+このレイオフの増加について同社は、コスト削減の動きやAIの採用拡大など、経済全般の傾向と戦略的なシフトによるものと考えられるとの見解を述べた。AIに関連した職の削減は、メディアや技術業界で特に感じられるが、多くの企業はAIを解雇の主な理由として直接は挙げていないという。同時に、1月の雇用計画は記録的な低さを更新し、5,376人にとどまった​​。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 07 Feb 2024 07:35:21 +0000</pubDate></item><item><title>【3月15日開催】「ノーコード」の本質的価値とは？Ledge.ai主催イベントの参加申込を受付開始</title><link>https://ledge.ai/articles/nocodesymposium2024</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、ノーコード推進協会（NCPA）との共催で2024年3月15日、参加費無料のイベント「ノーコードシンポジウム2024」の開催を発表いたしました。
+開催発表に伴い、イベント特設サイト及び参加申込みの受付を開始いたします。
+
+:::button
+{target=“_blank”}
+:::
+
+## イベントコンセプト「ノーコードの本質的価値と可能性を考える」
+"ノーコードで誰でも作れる"、このようなコンセプトの訴求はこれまで多くの人が目にしてきたことかと思います。しかしながら生成AIの台頭により、言語主導でコードすらAIが書いてくれる、そんなイノベーションが起こったのが2023年でした。
+そんな中、果たして我々はノーコードの本当の価値を測りきれているのでしょうか？このままではただの1つのムーブメントで終わってしまうのではないか？という危機感。ノーコードにはまだ見えない可能性があるだろう、という希望。異なる目線から、『ノーコードの本質的価値と可能性』について意見を交換し合う場として、この度ノーコードシンポジウムを開催したく思います。
+
+## コンテンツ
+!
+**企業ブース**：協賛企業各社の企業やソリューションを展示するブース
+**講演**：イベントコンセプトに沿った各社からの講演
+**交流会**：出展企業と参加者らによる軽食・ドリンク付きの交流会
+
+## スポンサー企業
+!
+
+## イベント詳細と参加申込みは特設サイトから
+講演の詳細や参加申込みは以下の特設サイトから行えます。
+:::button
+{target=“_blank”}
+:::</description><pubDate>Wed, 07 Feb 2024 07:49:04 +0000</pubDate></item><item><title>リコー、130億パラメータのLLMを開発、日本企業の業務に特化・カスタマイズも容易。AI活用のビジネス共創拠点もリニューアル</title><link>https://ledge.ai/articles/ricoh_llm</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -242,47 +290,7 @@ Web上の記事を生成AIや自動化ツールを用いて学習させる行為
 
 2024年版として公開するが随時、精緻化して更新予定
 
-!</description><pubDate>Wed, 31 Jan 2024 03:37:19 +0000</pubDate></item><item><title>Microsoft Teamsでメタバース会議「 Mesh」を一般向けに提供開始</title><link>https://ledge.ai/articles/microsoft_teams_mesh</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Microsoftは2024年1月24日、Microsoft Teams内で「Microsoft Mesh」を一般提供開始したことを{target=“_blank”}した。Microsoft Mesh は、仮想接続をより対面のような体験にすることを目的とした没入型の３D体験型システムだ。
-
-
-@
-Meshは、PCとMeta Quest VRデバイスを使って利用可能で、Teams内での会議への没入感を高めるために設計された3D空間が提供される。PC から会議に参加しているときは「表示」 メニューから「イマーシブスペース 」オプションを選択し、Meshの空間に切り替える。すでに武田薬品工業やアクセンチュア、BP、Mercy Shipsなどの企業が利用しているという。
-
-Meshは、カスタムイベントや大規模な会議のための独自の体験を提供するためにも使用できる。Microsoftは、Meshを利用して仮想空間での結びつきを強化し、リモートワークやハイブリッドワークの課題に対処するためのこの技術の普及に取り組んでいる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 30 Jan 2024 05:43:22 +0000</pubDate></item><item><title>アールティ、軸数などカスタマイズ可能なロボット「Muriqui」を生成AI研究用に受注販売開始</title><link>https://ledge.ai/articles/rtcorporation_muriqui</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年1月24日、株式会社アールティは生成AI研究者向けに、カスタマイズ可能な人型ロボット「Muriqui（読み方：ムリキ）」の受注販売を{target=“_blank”}した。
-
-身長（高さ）約50cmのMuriquiは、軸数やセンサをカスタマイズできる。ロボットアプリケーション開発用のオープンソースのソフトウェアフレームワーク「ROS 2（Robot Operating System 2）」に対応した開発環境を提供し、「Gazebo」というロボット工学で広く使用される3Dロボットシミュレータで動作する。将来的には物理演算エンジン「MuJoCo」への対応を予定しているという。
-
-耐久性に優れたハードウェアと、カスタマイズ可能なカメラやマイクロフォンを搭載。
-納期は受注後約2か月～。オープン価格。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 30 Jan 2024 05:40:52 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+!</description><pubDate>Wed, 31 Jan 2024 03:37:19 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
