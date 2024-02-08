@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 07 Feb 2024 07:49:04 +0000</lastBuildDate><item><title>米国企業　テクノロジー・金融部門でレイオフ急増。コスト削減と AI の影響の拡大</title><link>https://ledge.ai/articles/january_2024_challenger_report_surging_layoffs_in_tech_and_financial_sectors</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 07 Feb 2024 09:58:41 +0000</lastBuildDate><item><title>米国企業　テクノロジー・金融部門でレイオフ急増。コスト削減と AI の影響の拡大</title><link>https://ledge.ai/articles/january_2024_challenger_report_surging_layoffs_in_tech_and_financial_sectors</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2336,7 +2336,34 @@ AIモデルのトレーニングに使用されるデータセットからCSAM�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>中国で新たに13社が開発したLLMの一般公開が承認される。シャオミなどAI以外の企業も</title><link>https://ledge.ai/articles/13_new_chinese_iims_approved_for_public_use</link><description>:::small
+</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>経産省がNTTなどの採択企業を発表　次世代半導体開発に452億円助成</title><link>https://ledge.ai/articles/ntt_selected_as_nedo_implementing_company</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+経済産業省は2024年1月30日、NTTを含む企業に対し、NEDO（新エネルギー・産業技術総合開発機構）の次世代半導体開発委託・助成事業として最大452億円を提供することを{target=“_blank”}した。
+
+NEDOの公募した「ポスト5G情報通信システム基盤強化研究開発事業」では、現行の5Gに比べてさらに高度な通信機能を備えたポスト5Gの実現に向け、先端半導体の国内製造技術の開発を目指すものだ。具体的には、光電融合技術やBeyond 2nm世代向け半導体技術の開発などが行われる。同事業では、光電融合技術に焦点を当て、情報伝達を電気から光に変えることで通信速度の向上と消費電力の削減を目指す。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この日、3つの事業の実施企業として採択されたことを{target=“_blank”}したNTTは、先端半導体およびネットワーク技術の研究開発を進める中で、オール光ネットワークと光電融合デバイスの研究開発事業にも参加することにより、IOWN事業化をさらに促進することを目指す。同社は、IOWNの研究開発および事業化に向けて、IOWN Global Forum参加のパートナーと協力を強化していくと述べた。
+
+また、これらの事業のうち、NTTとキオクシアが実施する「光電融合インタフェースメモリコントローラの研究開発」に、東北大学が再委託先として参画することを{target=“_blank”}した。「光電融合」に対応したメモリー制御技術の一部を、東北大の国際集積エレクトロニクス研究開発センターが開発するという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 07 Feb 2024 09:58:41 +0000</pubDate></item><item><title>中国で新たに13社が開発したLLMの一般公開が承認される。シャオミなどAI以外の企業も</title><link>https://ledge.ai/articles/13_new_chinese_iims_approved_for_public_use</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2619,26 +2646,7 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 :::box
 
 :::
-</description><pubDate>Wed, 17 Jan 2024 08:42:26 +0000</pubDate></item><item><title>能登半島地震で国内初のドローンによる被災地への支援物資配送・行方不明者捜索などを実施　ブルーイノベーションなどが協力</title><link>https://ledge.ai/articles/juida_supporting_disaster-affected_areas_by_drones</link><description>:::small
-画像の出典：[JUIDAのFacebookページより]
-:::
-
-日本UAS産業振興協議会（JUIDA）は、2024年1月1日に発生した能登半島地震への対応として、ドローンを活用した救援活動の状況を{target=“_blank”}した。
-
-
-1月4日、輪島市からの要請を受けたJUIDAは、ブルーイノベーション株式会社と株式会社Liberawareの協力を得て、1月6日より行方不明者の捜索や被害状況の確認などの活動を開始。1月8日16時からは、株式会社ACSLと株式会社エアロネクストの支援を受け、輪島市文化会館から鵠巣小学校避難所（孤立地域内）へのドローンによる薬品配送を実施した。災害時にドローンを活用して物資を被災地に届ける国内で初めての試みとなる。
-
-また、1月14日には珠洲市からの要請に応じ、ドローンを用いた物資輸送、被害状況確認、行方不明者の捜索活動を開始した。地震により通常の交通手段が途絶えた地域への救援物資輸送や、広範囲に及ぶ被害状況の迅速な把握、行方不明者の捜索を効率的に行うためにドローンの活用が重要な役割を果たしているという。
-
-1月10日には陸上自衛隊中部方面隊第10師団と災害時の連携協定を締結したことを{target=“_blank”}した。この協定は、災害状況の迅速な把握に努める他、物資の輸送等、相互協力を目的としているという。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 15 Jan 2024 02:48:44 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
+</description><pubDate>Wed, 17 Jan 2024 08:42:26 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
