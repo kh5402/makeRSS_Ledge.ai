@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 07 Feb 2024 09:58:41 +0000</lastBuildDate><item><title>米国企業　テクノロジー・金融部門でレイオフ急増。コスト削減と AI の影響の拡大</title><link>https://ledge.ai/articles/january_2024_challenger_report_surging_layoffs_in_tech_and_financial_sectors</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 07 Feb 2024 09:58:41 +0000</lastBuildDate><item><title>グリッドと四国電力が共同開発　AI電力需給計画システム「ReNom Power」の導入で年間10億円超の収益改善</title><link>https://ledge.ai/articles/grid_yonden_renom-power</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社グリッドは2023年11月19日、四国電力株式会社と共同開発したAIを活用した電力需給計画立案システム「ReNom Power」の導入効果について{target=“_blank”}した。
+
+このシステムは、デジタルツインとAIによる最適化の技術を組み合わせ、複雑な電力需給計画を最適化し自動化する機能を持つ。主要機能には、シナリオ作成機能、発電計画策定機能、期待収益算定機能があり、電力需要・市場価格・気象情報、再生可能エネルギーの発電量などの変動要素を考慮し、最も経済的な需給運用となる発電計画を自動で立案する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ReNom Powerの導入により、複雑な制約を考慮した発電計画の立案が可能となり、年間10億円を超える収益効果が得られたとのこと。また、計画策定時間の削減や運用者の技量底上げなどの効果も実現した。同社は今後もシステムの高度化を目指し、電力DXの推進に寄与するとしている​​。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 07 Feb 2024 07:38:45 +0000</pubDate></item><item><title>米国企業　テクノロジー・金融部門でレイオフ急増。コスト削減と AI の影響の拡大</title><link>https://ledge.ai/articles/january_2024_challenger_report_surging_layoffs_in_tech_and_financial_sectors</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -274,23 +296,7 @@ Web上の記事を生成AIや自動化ツールを用いて学習させる行為
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jan 2024 07:43:08 +0000</pubDate></item><item><title>「防災・防衛・まちづくり」スタートアップのカオスマップ公開について</title><link>https://ledge.ai/articles/ledge_ai_caos_map</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-株式会社レッジは、防災・防衛・まちづくりに関するスタートアップを一覧化したカオスマップを公開した。
-
-■背景と概要
-近年、自然災害の多発、国際情勢の急激な変化、国内人口トレンドに起因する”まちづくり”への注目度の増大など、多くの問題が注目されるようになった。これらを解決するテクノロジーが重要なことは論を待たないが、日本国内では大企業が多くを担い、スピード感の面では海外の企業と比較して遅れも目立つ。
-
-また防衛に関しては、海外では防災やまちづくりなどの民間への転用（つまりデュアルユース）に多くの成功例があるにも関わらず、国内ではアレルギーも少なくない。
-
-宇宙ロケット・GPS（全地球測位システム）・インターネットなどの例は有名だが、例えばタイではドローンから弾丸を発射して苗植えを行う（Rice Seed Sowing Drone for Agriculture）などの転用事例が多くある。
-
-このような背景のなか、防災・防衛・まちづくりの潜在的なコア技術をもったスタートアップを俯瞰するためのカオスマップを作成した。直接的に防災・防衛・まちづくりをドメインとしていないものも含み、要素技術となる「宇宙開発・バイオ・インフラ（ハード/ソフト）・セキュリティ・AI/ロボティクス・半導体」のプレイヤーを可視化した。
-
-2024年版として公開するが随時、精緻化して更新予定
-
-!</description><pubDate>Wed, 31 Jan 2024 03:37:19 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Wed, 31 Jan 2024 07:43:08 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
