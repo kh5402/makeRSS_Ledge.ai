@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 08 Feb 2024 06:49:24 +0000</lastBuildDate><item><title>AIや半導体等の先端技術分野で大手企業が人材活用の解を模索　日立とソニーが2024年から相互に社員の副業を受け入れへ</title><link>https://ledge.ai/articles/hitachi-sony_mutually_accept_side_jobs</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 08 Feb 2024 06:53:16 +0000</lastBuildDate><item><title>AIや半導体等の先端技術分野で大手企業が人材活用の解を模索　日立とソニーが2024年から相互に社員の副業を受け入れへ</title><link>https://ledge.ai/articles/hitachi-sony_mutually_accept_side_jobs</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2644,7 +2644,30 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 :::box
 
 :::
-</description><pubDate>Wed, 17 Jan 2024 08:42:26 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
+</description><pubDate>Wed, 17 Jan 2024 08:42:26 +0000</pubDate></item><item><title>Adobe、クリエイターの感性を刺激する生成AI Fireflyの新しいコミュニティギャラリーを発表</title><link>https://ledge.ai/articles/adobe_firefly_community_gallery_to_inspire_creatives</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Adobeは2024年2月1日、新しいFireflyコミュニティギャラリーを{target=“_blank”}した。
+
+以前のコミュニティページでは、同社が作品を選んでギャラリーに送信していたが、新しいFireflyコミュニティでは、クリエイター自身で自分の作品を投稿し、他の人と共有可能だ。
+
+このプラットフォームは、クリエイティブな作品を共有し、インスピレーションを得るための場を提供することを目的としている。Adobe Fireflyは、ユーザーが独自のデジタルアートワークを作成し、世界中の他のクリエイターと交流できるツールセットを備えている。この新ギャラリーは、クリエイティブ業界における協力とイノベーションを促進するためのものだという。
+
+同社は、このコミュニティギャラリーを通じて、クリエイターたちが互いの作品から学び、新たなアイデアや技術を探求する機会を提供することを期待している。Fireflyコミュニティギャラリーは、アートとデザインの境界を拡張し、クリエイティブな才能を発見し、育成する新たなプラットフォームとなることを目指すとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 08 Feb 2024 06:53:16 +0000</pubDate></item><item><title>根拠なき生成AI使用疑惑もなんのその「パルワールド」2月1日時点でユーザー数が1900万人を突破</title><link>https://ledge.ai/articles/the_number_of_palworld_19million_user</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2958,25 +2981,4 @@ AIと画像認識技術の進化がもたらす、各分野における革新と
 :::box
 
 :::
-</description><pubDate>Sun, 14 Jan 2024 11:56:13 +0000</pubDate></item><item><title>家庭向けAI囲碁ロボット「SenseRobot Go」、囲碁の日（1月５日）から日本で発売中</title><link>https://ledge.ai/articles/sense_robot_go</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-SenseRobot Japan は2023年12月20日、家庭向け囲碁ロボット「SenseRobot Go」の{target=“_blank”}を開いた。日本では2024年1月5日「囲碁の日」に高島屋などで発売開始した。価格は16万5000円。
-
-親会社である中国のAI開発会社SenseTime（商湯集団）では、Sense Robotファミリーとして、2023年6月に囲碁ロボットを{target=“_blank”}していた。
-
-SenseRobot Goは、盤面を認識するカメラ、碁石を保持できるロボットアーム、碁を打つAIを備え、人間との対戦が可能。囲碁の練習とプレイを実際のボード上で行えるように設計されており、SenseTimeの最先端技術とロボットアーム技術を活用している。
-
-プロAI囲碁エクササイズライブラリ、人間対ロボット、人間対人間（オンライン）などのゲームプレイ機能を含み、視覚、聴覚、触覚の相互作用を通じた没入型で魅力的なゲーム体験を提供する。
-
-製品は、オリンピック金メダリストの郭晶晶氏や中国囲棋協会副会長の聶衛平氏から推薦され、SenseTime会長兼CEOの徐立氏は「AIをデータセンターから家庭へと持ち込むことで、コンピューティングパワー、手と目の協調、工学的な偉業を革新する」と述べている。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 12 Jan 2024 14:52:55 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sun, 14 Jan 2024 11:56:13 +0000</pubDate></item></channel></rss>
