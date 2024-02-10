@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 08 Feb 2024 06:57:13 +0000</lastBuildDate><item><title>【アーカイブ無料配信中】ビジネスの可能性を広げる！映像データの活用を支援するクラウドサービス『Cameleo』</title><link>https://ledge.ai/articles/cameleo-archive-2024</link><description>本ウェビナーは、2023年12月1日～2024年1月31日開催の年末年始特集「Ledge.ai 23to24」で公開された特別ウェビナーのアーカイブ配信となります。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 09 Feb 2024 05:33:40 +0000</lastBuildDate><item><title>AppleのCEOが今年中にAI関連の発表の可能性を示唆</title><link>https://ledge.ai/articles/tim_cook_teases_apple_ai_announcement_later_this_year</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+米国AppleのCEO ティム・クック氏が第1四半期の業績発表後、今年中にAIに関する発表を行う可能性があると示唆したことを2024年2月1日の{target=“_blank”}が報じた。
+
+同氏は、Microsoft、Google、Amazon、OpenAIなど、最先端のAIモデルに取り組む他のテクノロジー企業と競争したいという意向を示し、「我々はこれからも、将来を形作るこれらや他の技術への投資を続けるつもりだ。それには人工知能も含まれる。我々は長い間、多大な時間と労力を費やし続けており、その分野での進行中の作業の詳細を今年後半に共有することに興奮している」と述べた。
+
+Appleは通常、年次開発者会議「WWDC」で6月に新しいソフトウェアを発表する。同社は昨年の「」で、「Apple Vision Pro」をはじめ、GPTと同じ基盤技術を共有するトランスフォーマーベースの言語モデルに基づくiPhoneキーボードのオートコレクト機能を発表した。プレゼンテーション中に同社が「人工知能」という言葉を決して使わず、より学術的な「機械学習」という用語を使用していたことが話題となった。
+
+昨年は高度なAIモデルの発表はしていないが、長年にわたり同社は、類似の機械学習技術への投資を続けてきている。
+果たして「今年中の発表」が次回のWWDCを指すことになるのかどうか、関心が集まるところである。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 09 Feb 2024 05:33:40 +0000</pubDate></item><item><title>【アーカイブ無料配信中】ビジネスの可能性を広げる！映像データの活用を支援するクラウドサービス『Cameleo』</title><link>https://ledge.ai/articles/cameleo-archive-2024</link><description>本ウェビナーは、2023年12月1日～2024年1月31日開催の年末年始特集「Ledge.ai 23to24」で公開された特別ウェビナーのアーカイブ配信となります。
 
 :::button
 {target=“_blank”}
@@ -284,40 +310,7 @@ Dataikuは2024年1月31日、Everyday AIプラットフォームの日本語GUI�
 :::box
 
 :::
-</description><pubDate>Sun, 04 Feb 2024 12:22:32 +0000</pubDate></item><item><title>NTTデータ「LITRON GA」発表。NTT版大規模言語モデル「tsuzumi」と連携し、閉域環境でのセキュアで高精度な文章検索・回答生成</title><link>https://ledge.ai/articles/nttdata_litron_ga</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-NTTデータは2024年1月26日、生成AIを活用した文章検索・回答生成システム「LITRON Generative Assistant」（LITRON GA）の新サービスを{target=“_blank”}した。
-
-このサービスは、軽量で高度な日本語能力を備えたNTT版の大規模言語モデル（LLM）「tsuzumi」と連携し、閉域環境での利用を可能にする。LITRON GAは、業務データを学習したtsuzumiを用いて、業務に特化した日本語の回答文章を生成する。このサービスは、重要情報の安全な扱いを保証しつつ、生成AIの利用範囲を拡大する。さらに、追加学習時に大規模なマシンリソースを必要としないため、コストを大幅に削減することができる。
-
-以下、旅行代理店業務におけるLITRON GAのユースケース
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-その他、金融商品のレコメンド支援、患者ごとの治療計画策定支援、行政サービス窓口における問い合わせ応答支援など、閉域環境での安全かつ高精度な文章検索・回答生成システムを活かす業務適用例が挙げられる。
-
-今後は、多様なLLMやマルチモーダルAI（視覚読解、音声認識など）への対応や、生成AI活用コンサルティングサービスの提供（構想策定、AIガバナンス、共創ワークショップでのユースケース検討、人材育成、など）の生成AI業務利用を推進するという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 01 Feb 2024 09:01:00 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Sun, 04 Feb 2024 12:22:32 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
