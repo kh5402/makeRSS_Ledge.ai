@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 09 Feb 2024 05:41:32 +0000</lastBuildDate><item><title>AppleのCEOが今年中にAI関連の発表の可能性を示唆</title><link>https://ledge.ai/articles/tim_cook_teases_apple_ai_announcement_later_this_year</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 10 Feb 2024 10:47:02 +0000</lastBuildDate><item><title>2D画像をホログラム状に映し出す空間AIディスプレイ「Looking Glass Go」クラファンで6100万円越え</title><link>https://ledge.ai/articles/looking_glass_go</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年1月29日、ホログラム製品の開発販売を手掛ける米国Looking Glass Factory社は、ポータブル・ホログラフィック・ディスプレイ「Looking Glass Go」の国内クラウドファンディング先行予約サービスを2月28日まで延長すると{target=“_blank”}した。
+
+「Looking Glass Go」は、ポケットサイズの空間AIディスプレイだ。AIのアルゴリズムを活用し、1枚の写真から奥行きのある立体空間を再現。数百万もの光線としてディスプレイに投影することで、ホログラムのような映像を現実世界に映し出す技術を使用している。
+
+ユーザーが撮影した写真を、アプリを通じて数秒で空間映像に変換し、Looking Glassのサイトにアップロード後、AIが写真に奥行きを加える。特別な3Dモデリングやプログラムの知識は不要で、ワンタッチでディスプレイに映像を転送できる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このデバイスにより、特別な眼鏡などを使用せずにホログラムのような映像を楽しむことができ、ユーザーは自らが撮影した写真を簡単に立体映像に変換して表示することが可能になる。写真に奥行きを加えることで、よりリアルな立体視体験を提供する。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このプロジェクトは「Kibidango（きびだんご）」と「GREEN FUNDING」が共催。製品は2024年6月の出荷を予定している。2024年2月11日現在、支援金額が6,100万円以上に達し、支援者数は1,400名を超える。
+
+
+@
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 10 Feb 2024 10:47:02 +0000</pubDate></item><item><title>AppleのCEOが今年中にAI関連の発表の可能性を示唆</title><link>https://ledge.ai/articles/tim_cook_teases_apple_ai_announcement_later_this_year</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -277,40 +314,7 @@ Dataikuは2024年1月31日、Everyday AIプラットフォームの日本語GUI�
 :::box
 
 :::
-</description><pubDate>Sun, 04 Feb 2024 13:46:56 +0000</pubDate></item><item><title>Google 「Bard」のアップグレードが日本語にも対応「Gemini Pro」導入・英語のプロンプト入力で画像生成も可能に</title><link>https://ledge.ai/articles/google_bard_gemini_pro_image_generation</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleは2024年2月1日、Bardの最新機能として、Gemini Proの導入とダブルチェック機能などのアップデートを{target=“_blank”}した。
-
-このアップデートにより、ほとんどの国で Bard でイメージを生成し、Bard が現在サポートしている言語、国、地域で Gemini Proが使用可能となり、Bardは40以上の言語と230以上の国と地域で利用できる（すでに英語圏では2023年12月より導入済み）
-
-これまで「PaLM 2」をベースにしていたBardが「Gemini Pro」にアップグレードすることで、理解、要約、推論、ブレインストーミング、執筆、計画などの点で大幅に能力を向上させる。Bardが利用可能な全言語に向けて世界中に展開予定とのこと。
-
-さらに「ダブルチェック機能」がBardの対応言語の大部分で利用可能になった。Bardに質問をし、回答を得たときに「G」アイコンをクリックすると、Bard は Web 上にその回答内容を実証するコンテンツがあるかどうかを評価する。評価できる場合は、強調表示された語句をクリックして、検索で見つかった裏付け情報または矛盾情報の詳細を確認できる。
-
-!
-:::small
-例：Bardから回答を得たときに「G」ボタンをクリックするとダブルチェック結果がハイライト表示される
-:::
-
-
-また、Bardでの画像生成機能が英語のプロンプト入力で可能となった。いくつかの言葉を入力するだけで、想像力を形にできる。さらに、「Generate more」をクリックすることで、さらに多くのオプションが提供され、気に入ったものをダウンロードできる。
-例えば「サーフィンする犬の画像を作成する」といった説明を入力することで、カスタムのビジュアルを生成し、アイデアを視覚的に表現する。この機能は、品質と速度のバランスを重視した更新されたImagen 2モデルによって提供され、フォトリアリスティックな出力を実現している。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 04 Feb 2024 12:22:32 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Sun, 04 Feb 2024 13:46:56 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
