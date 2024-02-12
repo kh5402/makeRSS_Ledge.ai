@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 10 Feb 2024 10:57:29 +0000</lastBuildDate><item><title>三越伊勢丹とAI modelが協業、オンラインストア向けに専用AIモデルを使用したAI活用の実証実験開始</title><link>https://ledge.ai/articles/mitsukoshi-isetan_ai-model</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 11 Feb 2024 08:09:44 +0000</lastBuildDate><item><title>「データセンターGPU市場の98%をNVIDIAが占めている」Wells Fargoのアナリストが報告</title><link>https://ledge.ai/articles/nvidia_owns_98_of_the_data_center_gpu_market</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年1月29日、データセンターGPU市場におけるNVIDIAの占有率が98%であるという証券・株式調査会社Wells Fargoのアナリストの報告を、Microsoft社員のEric Flaningam氏がX（旧Twitter）に{target=“_blank”}。同氏はテクノロジー研究、価値投資、データ可視化を専門とし、ビジネスとテクノロジーに関するニュースレターを発行している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+投稿によると、データセンターのコンピューティング分野での収益の大部分は、NVIDIA、Intel、AMDによって生み出されており、この市場シェアの変化には2つ要因があるという。
+
+1つは、AMDがCPUにおいてIntelからシェアを着実に奪っていること。もう1つは、データセンターにおけるGPUの重要性が増していることだという。2023年以前からこの傾向が見られ、CPU市場シェアは、Intelが約73％を占めており、これは2017年の95％以上から減少している。Intelは、AMDだけでなく、ARMベースのサーバーからも市場シェアを失っているが、その減少率は2023年に大幅に鈍化した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+GPU市場においては、NVIDIAが約98％のシェアを占めているが、2024年にはこの数値がNvidiaとAMDがどれだけのキャパシティを確保できるかに応じて、約94-96％に落ちるとアナリストは見積もっているとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 11 Feb 2024 08:09:44 +0000</pubDate></item><item><title>三越伊勢丹とAI modelが協業、オンラインストア向けに専用AIモデルを使用したAI活用の実証実験開始</title><link>https://ledge.ai/articles/mitsukoshi-isetan_ai-model</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -303,29 +334,7 @@ BMWとFigureは、マイルストーンベースのアプローチを追求す�
 :::box
 
 :::
-</description><pubDate>Tue, 06 Feb 2024 10:38:48 +0000</pubDate></item><item><title>Google CloudとHugging Face、生成AIとML開発加速のための戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/googlecloud_and_huggingface_strategic_partnership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Google CloudとHugging Faceは2024年1月25日、生成AIと機械学習開発（ML）を加速するための戦略的パートナーシップを{target=“_blank”}した。
-
-この提携は、オープンサイエンス、オープンソース、クラウド、ハードウェアを横断して、企業が最新のオープンモデルとGoogle Cloudの最新クラウドおよびハードウェア機能を活用して自社のAIを構築可能とすることを目的としている。
-
-Hugging Faceのプラットフォームを通じ、データサイエンティスト、機械学習エンジニア、開発者がコミュニティからの最新モデルに簡単にアクセスし、好みのプラットフォーム内で使用できるようになるという。
-
-Google Cloudの顧客には、Google Kubernetes Engine（GKE）やVertex AI内でHugging Faceモデルを容易に訓練およびデプロイする新しい体験が、Hugging Face Hubのユーザーは、Google Cloud上での生産用デプロイやTPUを活用したアプリケーションの加速など、新たな体験が、それぞれ可能になるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 05 Feb 2024 06:56:04 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Tue, 06 Feb 2024 10:38:48 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
