@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 11 Feb 2024 08:20:23 +0000</lastBuildDate><item><title>GoogleのAIアシスタント「Bard」が「Gemini」に改名。新機能とモバイルアプリを発表</title><link>https://ledge.ai/articles/google_bard_to_gemini</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 11 Feb 2024 13:47:05 +0000</lastBuildDate><item><title>ソフトバンクのLLMは1兆パラメータ規模に　より大規模なものから”蒸留”で「研ぎ澄まされた生成AI」を目指すーー決算説明会で宮川氏が発言</title><link>https://ledge.ai/articles/softbank_genai_aims_for_1trillion_parameters</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ソフトバンクは2024年2月7日、2024年3月期第3四半期の決算説明会を{target=“_blank”}し、代表取締役社長執行役員 兼 CEOの宮川潤一氏は、同社の生成AIの進捗について詳細を報告した。
+
+昨年構築された計算基盤は順調に稼働しており、12月末には1300億パラメータに到達。現在は3900億パラメータの構築を目標としており、その3倍の規模拡大を目指していると述べた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+さらに、文章だけでなく図表、画像、符号コーディングにも対応するLLMのマルチモーダル化の開発を進めており、来年度中には3900億パラメータのマルチモーダル化された生成AIの完成を目指している。その先の目標としては、1兆パラメータ越えの達成を視野に入れ、計算基盤のさらなる拡張を進める計画だという。
+
+宮川氏は、最近は、一度は大規模なモデルを作り上げ、その後目的に合ったサイズまで最適化する手法が生成AI構築の潮流で、この方法を「蒸留」と呼ぶが、同社の生成AIもこの方法で作り上げていく考えのもと、1兆パラメータを目指す。そして、日本の文化や、習慣を理解した生成AI、高精度で、応答が速く、消費電力が少ない「研ぎ澄まされた生成AI」を目指すと述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 11 Feb 2024 13:47:05 +0000</pubDate></item><item><title>GoogleのAIアシスタント「Bard」が「Gemini」に改名。新機能とモバイルアプリを発表</title><link>https://ledge.ai/articles/google_bard_to_gemini</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -294,42 +324,7 @@ ReNom Powerの導入により、複雑な制約を考慮した発電計画の立
 講演の詳細や参加申込みは以下の特設サイトから行えます。
 :::button
 {target=“_blank”}
-:::</description><pubDate>Wed, 07 Feb 2024 07:49:04 +0000</pubDate></item><item><title>リコー、130億パラメータのLLMを開発、日本企業の業務に特化・カスタマイズも容易。AI活用のビジネス共創拠点もリニューアル</title><link>https://ledge.ai/articles/ricoh_llm</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-株式会社リコーは2024年1月31日、日本企業の業務に特化し、企業ごとのカスタマイズが容易な130億パラメータの大規模言語モデル（LLM）を開発したと{target=“_blank”}した。
-
-このモデルは日本語と英語の学習データを用い、日本語の精度を高めることに特化しており、日本語で利用可能なLLMとしては、2024年1月4日時点で最高の性能を持つことが確認されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-提供開始は2024年春からを予定。このLLMを用いて、同社は顧客の業種や業務に合わせたカスタムLLMを提供し、業務効率化の実現を目指す。国内の顧客を先行し、将来的には海外顧客への提供も予定しているという。
-
-
-また、同社は「{target=“_blank”}」を2月1日にリニューアルオープンした。
-
-この施設は、最新のAI技術を活用し、顧客との価値共創活動強化を目的としている。田町から品川シーズンテラスに移転・拡大し、経営者との対話やワークショップを通じてAIを活用したビジネスデザインの設計から実装までを支援するという。顧客接点力と独自のAI技術を掛け合わせ、業種ごとの顧客価値シナリオを提供し、新たなビジネス共創を目指すとのことだ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 06 Feb 2024 10:42:09 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+:::</description><pubDate>Wed, 07 Feb 2024 07:49:04 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
