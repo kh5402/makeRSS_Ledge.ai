@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 11 Feb 2024 13:47:05 +0000</lastBuildDate><item><title>ソフトバンクのLLMは1兆パラメータ規模に　より大規模なものから”蒸留”で「研ぎ澄まされた生成AI」を目指すーー決算説明会で宮川氏が発言</title><link>https://ledge.ai/articles/softbank_genai_aims_for_1trillion_parameters</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 12 Feb 2024 06:57:28 +0000</lastBuildDate><item><title>ソフトバンクのLLMは1兆パラメータ規模に　より大規模なものから”蒸留”で「研ぎ澄まされた生成AI」を目指すーー決算説明会で宮川氏が発言</title><link>https://ledge.ai/articles/softbank_genai_aims_for_1trillion_parameters</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2370,7 +2370,24 @@ AIモデルのトレーニングに使用されるデータセットからCSAM�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>「自民党AI」開発中。国会論戦もワンランク上がる可能性</title><link>https://ledge.ai/articles/jiminto_ai</link><description>:::small
+</description><pubDate>Fri, 12 Jan 2024 14:44:24 +0000</pubDate></item><item><title>バイデン・ハリス政権がAI安全性に特化した初のコンソーシアム「AI Safety Institute」設立を発表　200以上のAI先端企業や学会・市民団体が参加</title><link>https://ledge.ai/articles/the_us_ai_safety_institute_consortium</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国商務省のジーナ・レイモンド長官は2024年2月8日、バイデン・ハリス政権がAIの安全性に専念する米国AI安全研究所コンソーシアム（AISIC）の設立を{target=“_blank”}した。このコンソーシアムは、NIST（国立標準技術研究所）の下、米国AI安全研究所（USAISI）内に設置される。
+
+コンソーシアムは、{target=“_blank”}を含み、AIの最前線にいる企業や組織、最大手企業や革新的なスタートアップ、AIが社会をどのように変えるかの基礎理解を築く学界や市民社会のチーム、そしてAI利用の現場で深く関わる職業の代表者が参加し、安全で信頼性の高いAIの開発と展開を支援するという。
+
+この取り組みは、2023年10月30日にバイデン大統領が署名した{target=“_blank”}に沿うもので、レッドチームの活動、能力評価、リスク管理、安全性とセキュリティ、合成コンテンツのウォーターマーキングに関するガイドラインの開発に貢献することが期待されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 12 Feb 2024 06:57:28 +0000</pubDate></item><item><title>「自民党AI」開発中。国会論戦もワンランク上がる可能性</title><link>https://ledge.ai/articles/jiminto_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2645,37 +2662,7 @@ OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加�
 :::box
 
 :::
-</description><pubDate>Mon, 22 Jan 2024 02:53:56 +0000</pubDate></item><item><title>OpenAI、2024年の世界的な選挙に向けた取り組みを発表</title><link>https://ledge.ai/articles/how_openai_is_approaching_2024worldwide_elections</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国OpenAIは2024年1月15日、世界中の選挙におけるAIの乱用防止、AI生成コンテンツの透明性向上、正確な投票情報へのアクセス改善に向けた取り組みを{target=“_blank”}した。選挙の整合性を保護し、AIが民主的プロセスを損なうことを防ぐことに重点を置いているという。
-
-### １．乱用の防止:AI技術を利用した選挙プロセスの損害を防ぐための戦略
-・ディープフェイクやチャットボットのなりすましに対抗する措置
-・ChatGPTやAPIの利用ポリシーを更新し、選挙妨害行為への利用を制限
-
-### ２．AI生成コンテンツの透明性向上:AIによって生成されたコンテンツの透明性強化に取り組む
-・画像の出典を示すデジタル認証の導入
-{target=“_blank”}のデジタル認証情報 (暗号化を使用してコンテンツの出所に関する詳細をエンコードするアプローチ) を実装する予定。
-・DALL·E生成画像を特定するための分類器の実装を予定
-### ３．権威ある投票情報へのアクセス改善
-米国の国務長官協会と連携し、正確な投票情報を提供する。
-国内最古の超党派の公務員専門職組織である全米国務長官協会（NASS）との協力を明示。ChatGPT は、どこに投票するかなど、選挙手続きに関連する特定の質問をされると、米国の投票情報に関する権威ある Web サイトである {target=“_blank”}にユーザーを誘導する。
-
-
-今年の世界選挙に向けて、パートナー企業と協力し、今後数か月間、さらに多くの情報を共有する予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 22 Jan 2024 02:51:40 +0000</pubDate></item><item><title>中国発、AIの「FaceSwap（顔交換）」機能でショートドラマを海外展開</title><link>https://ledge.ai/articles/ai_faceswap_function_to_expand_short_dramas_overseas</link><description>:::small
+</description><pubDate>Mon, 22 Jan 2024 02:53:56 +0000</pubDate></item><item><title>中国発、AIの「FaceSwap（顔交換）」機能でショートドラマを海外展開</title><link>https://ledge.ai/articles/ai_faceswap_function_to_expand_short_dramas_overseas</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
