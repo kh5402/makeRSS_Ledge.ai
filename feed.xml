@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 11 Feb 2024 08:09:44 +0000</lastBuildDate><item><title>「データセンターGPU市場の98%をNVIDIAが占めている」Wells Fargoのアナリストが報告</title><link>https://ledge.ai/articles/nvidia_owns_98_of_the_data_center_gpu_market</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 11 Feb 2024 08:20:23 +0000</lastBuildDate><item><title>GoogleのAIアシスタント「Bard」が「Gemini」に改名。新機能とモバイルアプリを発表</title><link>https://ledge.ai/articles/google_bard_to_gemini</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2024年2月8日、同社のAIアシスタント「Bard」を「Gemini」に改名し、新たなモバイルアプリとともに「Gemini Advanced with Ultra 1.0」を{target=“_blank”}した。
+
+このアップデートは、40以上の言語で利用可能で、230を超える国と地域で利用できる。Gemini Advancedは、複雑なタスクにおいて高い能力を発揮し、より長く詳細な会話を可能にし、以前のプロンプトからのコンテキストをよりよく理解する。Geminiは昨年2023年12月に、テキスト、画像、音声、動画のベンチマークテストで最高水準を達成したという。また、Geminiの核となる高性能モデル「Ultra 1.0」は、57の科目をカバーする大規模マルチタスク言語理解テスト(MMLU)で人間の専門家を上回るパフォーマンスを示した。
+
+新しいモバイルアプリを通じて、GeminiとGemini Advancedは、スマートフォン上で簡単に利用できるようになり、写真から質問まで様々な形での支援が可能になる。Geminiは米国内で英語版がまず利用可能となり、その後日本語と韓国語を含む他の言語と国での提供が予定されている。Gemini Advancedは、高性能なAIモデル「Ultra 1.0」を搭載し、他の主要サービスと比較して高いパフォーマンスを提供する。また、新しいGeminiアプリをAndroidとiOSで利用開始し、スマートフォンからもAIとのコラボレーションが容易になる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 11 Feb 2024 08:20:23 +0000</pubDate></item><item><title>「データセンターGPU市場の98%をNVIDIAが占めている」Wells Fargoのアナリストが報告</title><link>https://ledge.ai/articles/nvidia_owns_98_of_the_data_center_gpu_market</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -312,29 +329,7 @@ ReNom Powerの導入により、複雑な制約を考慮した発電計画の立
 :::box
 
 :::
-</description><pubDate>Tue, 06 Feb 2024 10:42:09 +0000</pubDate></item><item><title>BMW、自動車製造で困難・危険・退屈な作業をこなす汎用ヒューマノイドロボを採用</title><link>https://ledge.ai/articles/bmw_employs_general-purpose_humanoid_robots</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-カリフォルニア州に本拠を置くFigureは2024年1月18日、自動車製造環境において汎用ロボットを導入するため、BMWとの商業契約を締結を{target=“_blank”}した。
-
-同社が開発する自律型ヒューマノイドロボットは、製造プロセス全体で困難、危険、または退屈な作業の自動化を可能にし、従業員が自動化できないスキルやプロセスに集中し、生産効率と安全性の継続的な改善を図ることを可能にする。
-
-!
-:::small
-画像の出典：[FigureのX（旧Twitter）公式アカウント]https://twitter.com/Figure_robot/status/1747982255337959753){target=“_blank”}
-:::
-
-BMWとFigureは、マイルストーンベースのアプローチを追求する。第一段階として、自動車製造でFigureロボットを適用する初期のユースケースを特定する。第一段階が完了すると、Figureロボットはサウスカロライナ州スパータンバーグのBMW製造施設で段階的に展開される予定だという。自動車製造環境でのヒューマノイドロボットの展開を超え、AI、ロボット制御、製造仮想化、ロボット統合などの先進技術トピックを両社が共同で探求する。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 06 Feb 2024 10:38:48 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Tue, 06 Feb 2024 10:42:09 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
