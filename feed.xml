@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 14 Feb 2024 12:35:06 +0000</lastBuildDate><item><title>OpenAI AI生成画像に電子透かし標準導入　MetaやYouTubeなどプラットフォームも取り組み強化</title><link>https://ledge.ai/articles/c2pa_in_dall-e3</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Feb 2024 02:04:07 +0000</lastBuildDate><item><title>OpenAI AI生成画像に電子透かし標準導入　MetaやYouTubeなどプラットフォームも取り組み強化</title><link>https://ledge.ai/articles/c2pa_in_dall-e3</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2392,7 +2392,31 @@ GAIAは3段階の難易度に仕分けられた466の質問とその回答の組
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jan 2024 15:19:52 +0000</pubDate></item><item><title>バイデン・ハリス政権がAI安全性に特化した初のコンソーシアム「AI Safety Institute」設立を発表　200以上のAI先端企業や学会・市民団体が参加</title><link>https://ledge.ai/articles/the_us_ai_safety_institute_consortium</link><description>:::small
+</description><pubDate>Fri, 12 Jan 2024 15:19:52 +0000</pubDate></item><item><title>Google系列のロボタクシー「Waymo」サンフランシスコで群衆に囲まれ車体を破壊される</title><link>https://ledge.ai/articles/a_crowd_in_sf_destroyed_waymo_robo-taxi</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年2月11日、サンフランシスコのチャイナタウンで、Google系列の無人タクシーWaymoが群衆によって取り囲まれ、破壊行為の対象となったと複数メディアが報じた。サンフランシスコ消防署メディアがX（旧Twitter）に{target=“_blank”}した情報によると、車両は取り囲まれ、落書きされ、窓ガラスは割られ、車内では花火に火がつけられ、最終的に車両全体が炎上したという。2月10日は春節（中国の旧正月）。祝いの花火で無人ロボタクシーに点火したと見られている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+{target=“_blank”}の取材に対しWaymoの代表者は、攻撃された際、車両は乗客を運搬していなかったと述べたという。サンフランシスコ警察署の公式情報担当官は、警察が現場に到着した際、車両は既に炎上しており、負傷者の報告はないと確認しているとのこと。
+
+2023年8月に、カリフォルニア公共事業委員会（CPUC）は、Waymoと自動車大手General Motors（GM）傘下のCruise2社に対し、いわゆる「Robotaxi（ロボタクシー）」の追加運営権限を{target=“_blank”}。これにより、サンフランシスコ市で、無人の自動運転車両による有償サービスが終日運行可能となった。しかし、いくつかの事故に関係したCruise社は同年10月、カリフォルニア州陸運局 (DMV) より「公の運行には安全ではない」という理由でこの権限を取り消されている。
+
+サンフランシスコの住民と自動運転車オペレーター間の長年にわたる緊張関係の背景のもとで発生したとThe Vergeは述べている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 15 Feb 2024 02:04:07 +0000</pubDate></item><item><title>バイデン・ハリス政権がAI安全性に特化した初のコンソーシアム「AI Safety Institute」設立を発表　200以上のAI先端企業や学会・市民団体が参加</title><link>https://ledge.ai/articles/the_us_ai_safety_institute_consortium</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2659,32 +2683,7 @@ IMFは、先進国にはAIの革新と統合を優先し、強力な規制枠組
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 12:06:14 +0000</pubDate></item><item><title>OpenAI ChatGPTのポリシーから「軍事・戦争目的への使用禁止」削除は国防総省とのサイバーセキュリティ連携のためと表明</title><link>https://ledge.ai/articles/openai_is_working_with_us_military_on_cybersecurity_tools</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-OpenAIは2024年1月10日、同社が{target=“_blank”}を改訂した。{target=“_blank”}には、同社モデルの使用禁止目的に「身体的危害のリスクが高い活動」の一部として、兵器開発、軍事と戦争が掲げられていたが、その一文が削除されていると複数メディアが報じた。
-
-これに対し、1月16日Bloombergの{target=“_blank”}で、同社のグローバル担当バイスプレジデントであるアンナ・マカンジュ氏は、同社が米国防総省との間で進めているオープンソースサイバーセキュリティソフトウェアの開発について{target=“_blank”}。
-
-
-OpenAIが汎用人工一般（AGI）の軍事プロジェクトや武器開発での使用に関する制限を緩和しているのでは、というインタビュアーの問いかけに対し、マカンジュ氏は、これらの政策はOpenAIのツールがどのように使用されるかを知る前に策定されたものであり、軍事利用に限らず、より明確なガイドラインを提供するための調整が必要だったと述べた。特に、同社は引き続き武器の開発、財産の破壊、個人への害を禁じており、よりニュアンスを伝わりやすくするために文言を変更したと述べている。
-
-同社は国防総省との協力の一環として、重要インフラのセキュリティを強化するためオープンソースのサイバーセキュリティツールを開発しているとのこと。マカンジュ氏は、これまでの一律的な軍事利用禁止方針が、これらの用途を制限しているとの懸念があったが、これらの取り組みがOpenAIの目指す世界観と一致していると説明した。
-
-OpenAIは2022年8月に発表されたAIサイバーチャレンジにも参加している。これは、政府の国防高等研究計画局（DARPA）が主導する2年間のコンペティションで、技術専門家たちが最先端のサイバーセキュリティツールを創出することを目的としている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 22 Jan 2024 02:53:56 +0000</pubDate></item><item><title>中国発、AIの「FaceSwap（顔交換）」機能でショートドラマを海外展開</title><link>https://ledge.ai/articles/ai_faceswap_function_to_expand_short_dramas_overseas</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 12:06:14 +0000</pubDate></item><item><title>中国発、AIの「FaceSwap（顔交換）」機能でショートドラマを海外展開</title><link>https://ledge.ai/articles/ai_faceswap_function_to_expand_short_dramas_overseas</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
