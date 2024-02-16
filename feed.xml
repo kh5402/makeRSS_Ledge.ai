@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Feb 2024 03:50:39 +0000</lastBuildDate><item><title>OpenAI AI生成画像に電子透かし標準導入　MetaやYouTubeなどプラットフォームも取り組み強化</title><link>https://ledge.ai/articles/c2pa_in_dall-e3</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Feb 2024 08:28:23 +0000</lastBuildDate><item><title>OpenAI AI生成画像に電子透かし標準導入　MetaやYouTubeなどプラットフォームも取り組み強化</title><link>https://ledge.ai/articles/c2pa_in_dall-e3</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2686,7 +2686,33 @@ IMFは、先進国にはAIの革新と統合を優先し、強力な規制枠組
 :::box
 
 :::
-</description><pubDate>Thu, 25 Jan 2024 09:25:34 +0000</pubDate></item><item><title>中国発、AIの「FaceSwap（顔交換）」機能でショートドラマを海外展開</title><link>https://ledge.ai/articles/ai_faceswap_function_to_expand_short_dramas_overseas</link><description>:::small
+</description><pubDate>Thu, 25 Jan 2024 09:25:34 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+オンラインゲーミングプラットフォーム・ゲーム作成システム「Roblox」を運営する米国Robloxは2024年2月5日、リアルタイムでのAIチャット翻訳機能を{target=“_blank”}した。この機能は、日本語を含む16カ国語に対応し、異なる言語を話すユーザー間のコミュニケーションの壁を取り払う。
+
+Robloxの最高技術責任者（CTO）ダニエル・スターマン氏によれば、この翻訳モデルはカスタムの多言語モデルを使用し、任意の16言語間の直接翻訳を可能にする。翻訳の遅延は約100ミリ秒と非常に短く、リアルタイムでの会話にほとんど影響を与えないという。同社はこの技術を活用して、世界中の7000万以上の日々活動するユーザーが、自身の母国語でスムーズにコミュニケーションを取れる環境を提供しているという。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社のチームは、静的なコンテンツだけでなく、リアルタイムの相互作用や会話もカバーし、Roblox特有のスラングや略語を含む独自の言語も理解するという複雑な要求に応えるため、統一された翻訳モデルの構築に取り組んだ。トランスフォーマーベースの統一された大規模言語モデル（LLM）を使用し、単一のモデルで全言語ペアを処理できるようにしたとのこと。
+
+同社は、ユーザーが母国語で自然な会話ができるようにすることで、世界の10億人をつなぐ目標に近づいていると述べる。今後は、翻訳の精度向上とモデルの訓練データ改善のため、翻訳フィードバックツールを導入予定。将来的には、テキスト、画像上の文字、3Dモデルなどの自動翻訳、さらに自動音声チャット翻訳も視野に入れているとのこと。異なる言語を話すユーザーが低遅延で声のトーンや感情まで理解しあえるコミュニケーションを目指すという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 15 Feb 2024 08:28:23 +0000</pubDate></item><item><title>中国発、AIの「FaceSwap（顔交換）」機能でショートドラマを海外展開</title><link>https://ledge.ai/articles/ai_faceswap_function_to_expand_short_dramas_overseas</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2989,25 +3015,4 @@ AIが進化し、より強力なモデルが日常生活で使用されるよう
 :::box
 
 :::
-</description><pubDate>Thu, 18 Jan 2024 00:42:22 +0000</pubDate></item><item><title>Steam「AIを使用したゲームのBANは辞める」生成AI技術を使用したゲームの新たな取り扱い方法を発表</title><link>https://ledge.ai/articles/steam_will_not_reject_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-これまで「生成AIを使用するゲームを開発するとBANされる」として開発者コミュニティを賑わせてきたゲームプラットフォーム「Steam」。このSteamを運営するValveは2024年1月10日、AIを使用するゲームの取り扱い方法に関して大きな変更を{target=“_blank”}した。
-
-Valveは昨年6月、AI技術の急速な変化と法的な不透明さに対処するため、今後さらなる検討が必要であると認識していたという。数ヶ月間のリサーチと開発者との対話を経て、ValveはAI技術を使用するゲームのリリースをより受け入れやすくするための新たな方針を設定した。
-
-ゲーム開発者は、Steamにゲームを提出する際、AIに関する開示セクションにおいてAIの使用方法を詳細に説明する必要がある。この開示情報はゲームのSteamストアページにも掲載され、顧客がAIの使用方法を理解しやすくなるという。
-
-AIの使用は「事前生成」と「ライブ生成」の2つのカテゴリに分けられる。事前生成コンテンツは開発中にAIツールを使用して作成されたもので、Steam配信契約に従い、違法なコンテンツや権利を侵害するコンテンツが含まれていないことを保証する。一方、ライブ生成コンテンツはゲーム実行中にAIツールを使用して作成されるもので、違法なコンテンツを生成しないための対策が必要とされる。
-
-Valveはライブ生成AIコンテンツが含まれるゲームに対して、プレイヤーが違法コンテンツを報告できる新しいシステムを導入する。この新しい取り組みは、AIを使用するゲーム開発者との対話や、AI関連の法律の整備状況を踏まえた現時点での結論であり、今後も必要に応じて再検討の予定だという。ただし、ライブ生成AIによって作成される成人指定の性的コンテンツについては現在、リリースが許可されていない。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 17 Jan 2024 04:10:55 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 18 Jan 2024 00:42:22 +0000</pubDate></item></channel></rss>
