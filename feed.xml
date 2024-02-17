@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Feb 2024 08:34:50 +0000</lastBuildDate><item><title>日立と西鉄がコラボ　無人店舗でAIアバターが接客する「デジタルポップアップストア」プレオープン</title><link>https://ledge.ai/articles/hitachi-nishitetsu_opened_digital_popup_store</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Feb 2024 00:45:20 +0000</lastBuildDate><item><title>ロボット犬だけじゃない！人型ロボ「Atlas」重さ14キロの部品を取り出し適所に格納　合間にダンスも踊るーボストンダイナミクス</title><link>https://ledge.ai/articles/boston_dynamics_atlas_short_movie</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ロボット犬「Spot」でおなじみの米国ボストン・ダイナミクスは2024年2月6日、自社の開発した人型ロボット「Atlas」が14kgの自動車部品を取り出し、運ぶ作業を行う様子を収めたショート動画をYouTubeに{target=“_blank”}した。この動画は、Atlasが高度な物理的作業を自律的に遂行できるかを示すもので、その機動性と操作性の進化がうかがえる。
+
+同社は昨年2023年1月に、Atlasが大きくて重い物体を持ち上げ、運び、投げることができる動画を{target=“_blank”}した。
+
+@
+
+{target=“_blank”}は、実世界で適応性が必要となるタスクに対応できるよう、Atlasの制御ソフトウェアの改良により実現した。モデル予測制御（MPC）技術を中心に、ロボットの動作を予測し最適化することで、持ち運びや投げる動作中でもバランスを保ちながら、高度な運動能力を維持できるようになった。さらに、オブジェクトのモデルをMPCに組み込むことで、ロボットが物体と相互作用する際の力学を正確に予測し、より複雑な操作タスクに対応可能にしているという。
+
+この度公開されたショート動画では、Atlasがどのようにして14kgという重量の自動車部品を正確に取り出し、指定された場所へと運ぶという特定の作業を自律的に完了できるかを示している。
+
+重い部品を持ち、複雑なタスクを遂行する合間にダンスを披露する余裕ぶり
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 16 Feb 2024 00:45:20 +0000</pubDate></item><item><title>日立と西鉄がコラボ　無人店舗でAIアバターが接客する「デジタルポップアップストア」プレオープン</title><link>https://ledge.ai/articles/hitachi-nishitetsu_opened_digital_popup_store</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -309,57 +343,7 @@ Appleは通常、年次開発者会議「WWDC」で6月に新しいソフトウ�
 :::box
 
 :::
-</description><pubDate>Fri, 09 Feb 2024 05:33:40 +0000</pubDate></item><item><title>【アーカイブ無料配信中】ビジネスの可能性を広げる！映像データの活用を支援するクラウドサービス『Cameleo』</title><link>https://ledge.ai/articles/cameleo-archive-2024</link><description>本ウェビナーは、2023年12月1日～2024年1月31日開催の年末年始特集「Ledge.ai 23to24」で公開された特別ウェビナーのアーカイブ配信となります。
-
-:::button
-{target=“_blank”}
-:::
-
-## ビジネス課題を解決する映像活用ソリューション
-現在、セキュリティカメラなどの"映像データ"を従来の防犯・監視以外の多様な用途に活用する取り組みが、各業界で活発化している。映像データは、マーケティングや業務改善、安全強化などの分野で力を発揮するが、実際の活用を考えたとき、「映像の取得手段」や「既存の業務ツールとの連携」「セキュリティ性の担保」など、様々な課題があると感じている方も多いのではないだろうか。
-
-パナソニック コネクト株式会社の「Cameleo」は、カメラで撮影した映像をクラウド上に蓄積し、APIを使って様々なシステム・SaaS・AI分析と連携ができる映像活用のプラットフォームだ。上記に挙げた課題を解決し、さまざまなユーザーのビジネスを"映像データ活用"の切り口から支援する。
-
-!
-:::small
-『現場映像活用サービス Cameleo』ソリューションサイトより
-:::
-本セッションでは、パナソニック コネクト株式会社の津村氏より、現場映像活用サービス 「Cameleo」について、実際の画面を用いたデモンストレーションを交えながら、30分の時間でコンパクトにお話しいただいた。
-:::box
-{target=“_blank”}
-:::
-
-### **SaaSベンダー・SIer必見！パートナープログラム**
-現場映像活用サービス 「Cameleo」は、CameleoのAPIを使ってシステム・アプリケーション開発を行う、テクノロジーパートナーを募集している。サービス開発やプロモーションなど、パナソニックコネクトの幅広いサポートを受けられる他、国内販売シェアNo.1のセキュリティカメラ市場へのアクセスが可能となるものだ。
-本動画では、パートナー企業の開発から市場展開までをサポートする「パートナープログラム」についても紹介いただいた。
-
-現在保有しているアプリケーションやシステムと、映像データを連携させた新たな機能開発・展開を考える企業の担当者は、是非動画をご覧いただきたい。
-:::button
-{target=“_blank”}
-:::
-
-## 配信期間
-2024年2月9日（金）～2024年3月11日（月）
-
-## 登壇者
-### パナソニック コネクト株式会社
-現場ソリューションカンパニー　サービス＆ソフトウェアプラットフォーム本部　サービスマーケティング部
-シニアエキスパート
-津村　賢一氏
-!
-ソリューション営業や広報を担当後、現在は、B2B向けSaaSの企画・推進責任者。
-顔認証クラウドサービス「KPASクラウド」現場映像活用サービス「Cameleo」 等を担当。
-趣味は、おいしいものを食べること。
-
-### 株式会社レッジ
-執行役員 箕部 和也（モデレーター）
-!
-インターネット広告代理店にてSNSを通じた企業と生活者のコミュニケーションデザインのプランニングに従事。その後オンラインのみではこれからのマーケティングに不十分であると感じIoT案件を多数手掛けるウフルに転籍。従来は取得できなかったフィジカル領域のビッグデータを活用したIoTビジネスのコンサルティングを行った。
-Ledge参画後は、AIをはじめとする先端技術を活用した自社内外の事業開発を推進している。
-
-:::button
-{target=“_blank”}
-:::</description><pubDate>Tue, 06 Feb 2024 03:12:43 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Fri, 09 Feb 2024 05:33:40 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
