@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Feb 2024 12:58:05 +0000</lastBuildDate><item><title>Googleが「Gemini 1.0 Ultra」から1週間で次世代AIモデル「Gemini 1.5」を発表 最大100万トークンの処理で長文の文脈理解能力が向上</title><link>https://ledge.ai/articles/google_gemini1point5_release</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 17 Feb 2024 04:45:45 +0000</lastBuildDate><item><title>Googleが「Gemini 1.0 Ultra」から1週間で次世代AIモデル「Gemini 1.5」を発表 最大100万トークンの処理で長文の文脈理解能力が向上</title><link>https://ledge.ai/articles/google_gemini1point5_release</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2011,7 +2011,51 @@ Excelのコネクタ機能とPower Query（パワークエリ）機能で外部�
 
 :::box
 
-:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>GPT-4は生物兵器を生み出す支援ができるのか　OpenAIの内部安全プロセスがモデルのリスクを評価</title><link>https://ledge.ai/articles/can_gpt4_assist_in_creating_biological_weapons</link><description>:::small
+:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>OpenAI　文章から高精細な動画を生成するAI「Sora」を発表　レッドチーム中心にリリース前の安全性を検証中　</title><link>https://ledge.ai/articles/openai_sora</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国OpenAIは2024年2月15日、テキストからリアルで想像力豊かなシーンを生成できるAIモデル「Sora（ソラ）」を開発中であると{target=“_blank”}した。詳細なシーン、複雑なカメラの動き、生き生きとした感情を持った複数のキャラクターをフィーチャーした最大60秒の動画を作成できるという。
+
+同社は、モデルが現実世界の物理的な動きを理解しシミュレートすることを学び、実世界の相互作用が必要な問題を解決するための訓練が行われることを目標としている。Soraは、ユーザーのプロンプトに応じて最大1分間のビデオを生成しながら、視覚品質とプロンプトへの遵守を維持する能力を持つという。
+
+複数のキャラクター、特定の種類のモーション、被写体と背景の正確な詳細を含む複雑なシーンを生成でき、ユーザーがプロンプトに求めているものだけでなく、それらが物理世界にどのように存在するのかも理解するという。
+
+例：プロンプト「まるで渡り鳥のように木々を縫うように、紙飛行機の群れが鬱蒼としたジャングルの中を飛び回る」
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+言語を深く理解しているSoraは、プロンプトを正確に解釈し、生き生きとした感情を表現する魅力的なキャラクターを生成できる。また生成された1つのビデオ内で、キャラクターやビジュアル・スタイルを正確に表現する複数のショットを作成可能だという。
+
+現行モデルの弱点についても解説されている。Soraは複雑なシーンの物理的な状況を正確に再現する、原因と結果の具体的な例を理解する、などが苦手で、例えば、クッキーをかじった後、そのクッキーにかじった跡がない、といったことが起こり得るという。また、プロンプトの空間的な詳細、たとえば左と右を混同したり、特定のカメラの軌跡をたどるような、時間をかけて起こる出来事の正確な描写に苦労することもある。
+
+例：次々とクローンが出現してしまう
+プロンプト「草に囲まれた人里離れた砂利道で、5頭の子供の狼がじゃれ合い、追いかけっこをしている。子狼たちは走ったり跳ねたり、追いかけっこをしたり、なぐり合ったりして遊んでいる」→弱点：たくさんの実体を含むシーンでは特に、動物や人が自然に現れることがある。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社は、モデルを敵対的にテストする「レッドチーム (誤った情報、憎悪に満ちたコンテンツ、偏見などの分野の専門家)」 と協力し、Soraを製品としてリリースする前に、重要な安全措置を講じる。
+
+現在Soraは、レッドチームのほか、ビジュアルアーティスト、デザイナー、映画制作者にアクセスが提供されており、創造的な専門家にとって最も有用なモデルを進化させるためのフィードバックを得ることを目指している。
+
+OpenAIは、いくら広範に調査とテストを行っても、人々が同社のテクノロジーを有益に使用する、あるいは悪用するすべての方法を予測することは不可能だとし、現実世界での使用から学ぶことが重要だと主張。時間の経過とともにより安全性が高まるAIシステムを作成してリリースしていくと述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 17 Feb 2024 04:45:45 +0000</pubDate></item><item><title>GPT-4は生物兵器を生み出す支援ができるのか　OpenAIの内部安全プロセスがモデルのリスクを評価</title><link>https://ledge.ai/articles/can_gpt4_assist_in_creating_biological_weapons</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2343,36 +2387,7 @@ AutoRTは、大規模言語モデル（(LLM）や 視覚言語モデル（VLM）
 今後はより実践的な教育プログラムが開始されるといい、その成果をお土産として日本での雇用機会創出、またさらに将来的にはズイタン大学から世界へ羽ばたく人材の創出に意欲的だ。
 
 IT業界での日越外交はオフショア、いわゆる日本企業がベトナム企業へのアウトソーシングが近年親しまれてきたが、今後はサイバーセキュリティ領域での人材交流、または日本の学生がズイタン大学で学ぶなど、従来とは違う外交モデル、新しい常識がこのプロジェクトから生まれるかもしれない。
-</description><pubDate>Mon, 15 Jan 2024 09:13:02 +0000</pubDate></item><item><title>AGI（汎用人工知能）の試金石　新しいAIベンチマーク「GAIA」をMeta等が発表　人間は92％、GPT-4は15％の正解率</title><link>https://ledge.ai/articles/meta_a_benchmark_for_genai_assistants</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2023年11月23日、MetaとHuggingFaceが共同で、新たなAIのベンチマーク「GAIA」を{target=“_blank”}した。
-
-GAIAは、AIアシスタントの性能を測定するために設計されたもので、推論、マルチモダリティ処理、Webブラウジング、一般的なツール使用のスキルなど、汎用的な力を必要とする実世界の質問を提供する。このベンチマークは、人間にとっては概念的に単純なものの、最先端のAIにとっては難易度が高いとされる。
-
-GAIAでは例えば以下のように質問される
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-質問：この1パイント容器いっぱいにアイスクリームが詰められている場合、2020年にWikipediaで報告された基準を使用したとき、アメリカ連邦基準のバターファット含有量と比較して、どれくらいの割合で上回っているか、または下回っているか？
-答えは + または - の数値で、小数点第一位までで回答してください。
-正確な答え：+4.6
-
-人間の回答者は92％の正解率を示したのに対し、プラグインを装備したGPT-4は15％に留まったという。
-この顕著な性能差は、法律や化学などの専門スキルを必要とするタスクで人間を上回る大規模言語モデル（LLM）の最近の傾向とは対照的だといえる。
-
-GAIA の哲学は、人間にとってこれまで以上に困難なタスクをターゲットにすることを提案する AI ベンチマークの現在のトレンドとは異なるという。汎用人工知能 （AGI） の出現は、そのような質問に対して平均的な人間と同様の堅牢性を示すシステムの能力にかかっていると仮定すると研究グループは述べた。
-
-GAIAは3段階の難易度に仕分けられた466の質問とその回答の組み合わせで構成されている。そのうち300の回答を非公開にしてリーダーボードに提供する。
-
-
-:::box
-
-:::
-</description><pubDate>Fri, 12 Jan 2024 15:19:52 +0000</pubDate></item><item><title>徳島県鳴門市がAIチャットボットを導入。イメージキャラクター「にゃるひげ」が市民の問い合わせに対応</title><link>https://ledge.ai/articles/naruto_begins_ai-chatbot_service</link><description>:::small
+</description><pubDate>Mon, 15 Jan 2024 09:13:02 +0000</pubDate></item><item><title>徳島県鳴門市がAIチャットボットを導入。イメージキャラクター「にゃるひげ」が市民の問い合わせに対応</title><link>https://ledge.ai/articles/naruto_begins_ai-chatbot_service</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
