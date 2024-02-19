@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 18 Feb 2024 11:28:25 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Feb 2024 02:49:43 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
 画像の出典：SoftBank ・NVIDIA
 :::
 
@@ -2016,7 +2016,99 @@ Excelのコネクタ機能とPower Query（パワークエリ）機能で外部�
 
 :::box
 
-:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>OpenAI　文章から高精細な動画を生成するAI「Sora」を発表　レッドチーム中心にリリース前の安全性を検証中　</title><link>https://ledge.ai/articles/openai_sora</link><description>:::small
+:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>Stability AI、「Stable Cascade」発表　Stable Diffusionより高速高品質　低スペックマシンでも追加学習・ファインチューニングが可能
+</title><link>https://ledge.ai/articles/stable_cascade</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2023年2月13日、Stability AIが新たにテキストから画像を生成するモデル「Stable Cascade」を{target=“_blank”}した。モデルは、非商用ライセンスでリリースされている。
+
+高品質の画像を高速で生成するこのモデルは、3つの異なるモデル（ステージA、B、C）からなるパイプラインで構築されている。この3段階のアプローチにより、一般消費者向けハードウェアでのトレーニングとファインチューニングが可能となっている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stable Cascadeの基礎として機能する「Würstchen」アーキテクチャにより、画像の階層的な圧縮が可能になり、高度に圧縮された潜在空間を利用しながら、効率的な推論と安価なトレーニングを可能にする。3段階のモデルの各ステージは、異なるパラメータサイズを持ち、画像生成の精度と細部の再構成に優れているという。
+
+ステージC（レイテントジェネレーターフェーズ）は、ユーザー入力を24x24のコンパクトな潜在空間に変換する。このステージでのテキスト条件生成を、高解像度ピクセル空間（ステージA・B）へのデコードから切り離し、ControlNets や LoRA を含む追加学習やファインチューニングをこのステージCだけで完結させる。
+
+その後、画像の圧縮に使用されるステージA・B（レイテントデコーダーフェーズ）に渡され、高い圧縮率を達成する。
+
+
+同社によると、プロンプトのアライメントと美的品質の両方においては、ほぼすべてのモデル比較でStable Cascadeの方が優れていたという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+推論速度を比較するグラフ（StableCascadeがSDXLの半分の時間で画像を生成している）
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stable Cascadeのリリースに伴い、トレーニング、ファインチューニング、ControlNet、LoRA のすべてのコードを {target=“_blank”}で公開する。
+
+
+Text to Image（テキストから画像を生成）に加え、画像にバリエーションを加える機能や、Image to Image（画像から画像を生成）などが紹介されている。
+
+バリエーション（左が入力画像）：与えられた画像から画像埋め込みを抽出し、これをモデルに戻すことで機能する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Image to Image ：与えられた画像にノイズを加え、これを生成の出発点として使用することで動作する
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+その他、リリース予定のControlNetの一部が紹介されている
+
+・インペインティング/アウトペインティング： テキストプロンプトに従い、マスクした部分を生成した画像で塗りつぶす。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+・キャニーエッジ：エッジ（輪郭）をたどって新しい画像を生成する。スケッチを元に展開することも可能。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+・2倍超解像： ステージCで生成された潜在空間にも使用可能
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 19 Feb 2024 02:49:43 +0000</pubDate></item><item><title>OpenAI　文章から高精細な動画を生成するAI「Sora」を発表　レッドチーム中心にリリース前の安全性を検証中　</title><link>https://ledge.ai/articles/openai_sora</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2368,31 +2460,7 @@ AutoRTは、大規模言語モデル（(LLM）や 視覚言語モデル（VLM）
 
 :::
 
-</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>日越外交樹立50周年記念活動- ズイタン大学　サイバーセキュリティラボを開設</title><link>https://ledge.ai/articles/duytan-security-lab</link><description>ズイタン大学はSUGANUMA GROUPと株式会社フォアーと共にサイバーセキュリティにおける教育および研究協力の覚書に基づいて、2023年12月11日に{target=“_blank”}を行った。
-
-このイベントは日越外交樹立50周年記念活動の一つとして認められた。
-サイバーセキュリティラボではハイスペックPCや専用サーバーやネットワークデバイスの設置等、サイバーセキュリティの教育環境において重要となる現代的かつ実践的な環境を提供することが目的となる。
-またスポンサーが提供するのは教育環境だけではなく、本プログラムに参加の優秀な学生に総額288,000USDの奨学金を授与した。
-
-開設式には学長や在ダナン日本総領事、関係各社を中心に、VTVをはじめとするベトナムの各メディアも取材に訪れていた。
-!
-:::small
-レ・グエン・バオ学長
-:::
-レ・グエン・バオ学長は、今後の大学教育・研究活動の発展においては企業の協力が非常に重要であると強調する。
-
-!
-:::small
-在ダナン日本総領事の矢ヶ部氏
-:::
-在ダナン日本総領事の矢ヶ部氏は、国境を越えベトナムと日本のサイバーセキュリティ強化に繋がるプロジェクトとなって欲しいと喜びのコメントを述べた。
-
-本プログラムが開始されて4ヶ月となるが、関係者は学生の大きな変化を感じていると言う。スキルはもちろんのこと、積極性などメンタル部分でも成長が見られているようだ。
-
-今後はより実践的な教育プログラムが開始されるといい、その成果をお土産として日本での雇用機会創出、またさらに将来的にはズイタン大学から世界へ羽ばたく人材の創出に意欲的だ。
-
-IT業界での日越外交はオフショア、いわゆる日本企業がベトナム企業へのアウトソーシングが近年親しまれてきたが、今後はサイバーセキュリティ領域での人材交流、または日本の学生がズイタン大学で学ぶなど、従来とは違う外交モデル、新しい常識がこのプロジェクトから生まれるかもしれない。
-</description><pubDate>Mon, 15 Jan 2024 09:13:02 +0000</pubDate></item><item><title>徳島県鳴門市がAIチャットボットを導入。イメージキャラクター「にゃるひげ」が市民の問い合わせに対応</title><link>https://ledge.ai/articles/naruto_begins_ai-chatbot_service</link><description>:::small
+</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>徳島県鳴門市がAIチャットボットを導入。イメージキャラクター「にゃるひげ」が市民の問い合わせに対応</title><link>https://ledge.ai/articles/naruto_begins_ai-chatbot_service</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
