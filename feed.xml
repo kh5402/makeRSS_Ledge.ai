@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 18 Feb 2024 11:26:14 +0000</lastBuildDate><item><title>OpenAI　ChatGPTが以前の指示や会話を記憶する「Memory」機能の試験運用開始　オン・オフはユーザーが切り替え
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 18 Feb 2024 11:28:25 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
+画像の出典：SoftBank ・NVIDIA
+:::
+
+2024年2月14日、携帯電話の基地局にAIを搭載しデータ処理を分散させる技術の実用化に向け、ソフトバンクと米国NVIDIAが新たな業界団体「AI-RANアライアンス」を設立することが明らかになったと、{target=“_blank”}や{target=“_blank”}が報じた。
+
+この技術は、通信量が特定の基地局に集中するのを防ぎ、基地局の電力削減にもつながることが期待される。AI-RANアライアンスには、エリクソン、ノキアを含む世界約10社が参加予定で、団体はAIを活用した基地局技術の世界標準化を目指すとのこと。
+
+両社は2023年の中期経営計画で、AIを基地局に搭載する構想を{target=“_blank”}しており、業界団体設立を通じて新技術の実用化と競争力強化を図る。この技術により、大規模なデータセンターを介さずにAI処理を行い、スマートフォンで高度なAIサービスを提供可能になるとされている。また、AI機能による複数基地局の自動制御は、通話や通信の集中によるつながりにくさを解消する効果も期待される。ソフトバンクが全国に展開する約20万か所の基地局に新たな活用方法がもたらされることになる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 18 Feb 2024 11:28:25 +0000</pubDate></item><item><title>OpenAI　ChatGPTが以前の指示や会話を記憶する「Memory」機能の試験運用開始　オン・オフはユーザーが切り替え
 </title><link>https://ledge.ai/articles/chatgpt_memory_test</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -314,24 +334,7 @@ fondiの「3D × AI」技術のもと、実践的な異文化コミュニケー�
 :::box
 
 :::
-</description><pubDate>Sun, 11 Feb 2024 13:47:05 +0000</pubDate></item><item><title>GoogleのAIアシスタント「Bard」が「Gemini」に改名。新機能とモバイルアプリを発表</title><link>https://ledge.ai/articles/google_bard_to_gemini</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleは2024年2月8日、同社のAIアシスタント「Bard」を「Gemini」に改名し、新たなモバイルアプリとともに「Gemini Advanced with Ultra 1.0」を{target=“_blank”}した。
-
-このアップデートは、40以上の言語で利用可能で、230を超える国と地域で利用できる。Gemini Advancedは、複雑なタスクにおいて高い能力を発揮し、より長く詳細な会話を可能にし、以前のプロンプトからのコンテキストをよりよく理解する。Geminiは昨年2023年12月に、テキスト、画像、音声、動画のベンチマークテストで最高水準を達成したという。また、Geminiの核となる高性能モデル「Ultra 1.0」は、57の科目をカバーする大規模マルチタスク言語理解テスト(MMLU)で人間の専門家を上回るパフォーマンスを示した。
-
-新しいモバイルアプリを通じて、GeminiとGemini Advancedは、スマートフォン上で簡単に利用できるようになり、写真から質問まで様々な形での支援が可能になる。Geminiは米国内で英語版がまず利用可能となり、その後日本語と韓国語を含む他の言語と国での提供が予定されている。Gemini Advancedは、高性能なAIモデル「Ultra 1.0」を搭載し、他の主要サービスと比較して高いパフォーマンスを提供する。また、新しいGeminiアプリをAndroidとiOSで利用開始し、スマートフォンからもAIとのコラボレーションが容易になる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 11 Feb 2024 08:20:23 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Sun, 11 Feb 2024 13:47:05 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
