@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 17 Feb 2024 10:55:53 +0000</lastBuildDate><item><title>元Apple社員ら設立のBrilliant Labsが新しいスマートグラス「Frame」を発表。マルチモーダル生成AI搭載</title><link>https://ledge.ai/articles/brilliant_labs_frame</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 18 Feb 2024 11:26:14 +0000</lastBuildDate><item><title>OpenAI　ChatGPTが以前の指示や会話を記憶する「Memory」機能の試験運用開始　オン・オフはユーザーが切り替え
+</title><link>https://ledge.ai/articles/chatgpt_memory_test</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国OpenAIは2024年2月13日、ChatGPTが過去の会話を記憶し、その後のチャットをより役立つものにする新機能「Memory」のテストを開始したことを{target=“_blank”}した。
+
+Memory機能で、ユーザーは同じ情報を繰り返し入力する必要がなくなり、より有益な会話が可能になるという。Memoryは、使用すればするほど向上し、時間の経過とともに改善されていくという。
+
+例えば、会議の要約を指示するときに、見出し・ポイントの箇条書き・まとめといったフォーマットで出力するよう要求すると、それを記憶し、以降の会議に反映させる。あるいは、自分の子供がクラゲが好きだと説明したことを覚えていて、子供の誕生日カードを作る際にクラゲのデザインを提案するなど。
+
+ユーザーはChatGPTに何かを覚えてもらうよう指示することも、何を覚えているか尋ねることも、会話や設定を通じて忘れさせることもできる。また、この機能を完全にオフにすることも可能。
+設定は、画面左下のアカウント名→［設定］→［Personalization］→［Memory］で行う。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+また、GPTにも独自のMemory機能を導入する予定で、各GPTがユーザーの好みや過去のやり取りを記憶し、よりパーソナライズされたサービスを提供可能になるとのこと。例えば「Books」GPTは、ユーザーの好きなジャンルや書籍を記憶し、再入力なしにカスタマイズされたレコメンドを行うという。
+
+これらの機能は、ChatGPTの無料版とPlusユーザーの一部に対して段階的に導入され、その有用性に関するフィードバックを収集した後、より広範な展開を予定しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 18 Feb 2024 11:26:14 +0000</pubDate></item><item><title>元Apple社員ら設立のBrilliant Labsが新しいスマートグラス「Frame」を発表。マルチモーダル生成AI搭載</title><link>https://ledge.ai/articles/brilliant_labs_frame</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -302,38 +331,7 @@ fondiの「3D × AI」技術のもと、実践的な異文化コミュニケー�
 :::box
 
 :::
-</description><pubDate>Sun, 11 Feb 2024 08:20:23 +0000</pubDate></item><item><title>「データセンターGPU市場の98%をNVIDIAが占めている」Wells Fargoのアナリストが報告</title><link>https://ledge.ai/articles/nvidia_owns_98_of_the_data_center_gpu_market</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年1月29日、データセンターGPU市場におけるNVIDIAの占有率が98%であるという証券・株式調査会社Wells Fargoのアナリストの報告を、Microsoft社員のEric Flaningam氏がX（旧Twitter）に{target=“_blank”}。同氏はテクノロジー研究、価値投資、データ可視化を専門とし、ビジネスとテクノロジーに関するニュースレターを発行している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-投稿によると、データセンターのコンピューティング分野での収益の大部分は、NVIDIA、Intel、AMDによって生み出されており、この市場シェアの変化には2つ要因があるという。
-
-1つは、AMDがCPUにおいてIntelからシェアを着実に奪っていること。もう1つは、データセンターにおけるGPUの重要性が増していることだという。2023年以前からこの傾向が見られ、CPU市場シェアは、Intelが約73％を占めており、これは2017年の95％以上から減少している。Intelは、AMDだけでなく、ARMベースのサーバーからも市場シェアを失っているが、その減少率は2023年に大幅に鈍化した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-GPU市場においては、NVIDIAが約98％のシェアを占めているが、2024年にはこの数値がNvidiaとAMDがどれだけのキャパシティを確保できるかに応じて、約94-96％に落ちるとアナリストは見積もっているとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 11 Feb 2024 08:09:44 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Sun, 11 Feb 2024 08:20:23 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
