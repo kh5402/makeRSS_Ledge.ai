@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Feb 2024 02:49:43 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Feb 2024 02:57:10 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
 画像の出典：SoftBank ・NVIDIA
 :::
 
@@ -2460,7 +2460,37 @@ AutoRTは、大規模言語モデル（(LLM）や 視覚言語モデル（VLM）
 
 :::
 
-</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>徳島県鳴門市がAIチャットボットを導入。イメージキャラクター「にゃるひげ」が市民の問い合わせに対応</title><link>https://ledge.ai/articles/naruto_begins_ai-chatbot_service</link><description>:::small
+</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>経産省　エッジAI向け半導体開発を強力支援、ラピダス参画のLSTC（最先端半導体技術センター）に450億円支援</title><link>https://ledge.ai/articles/meti_provides_45billion-yen_support_for_lstc_edgeai_semiconductor</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+経済産業省は2024年2月9日、エッジAI向けの半導体開発を強力に後押しするため、ラピダス社などを含む複数の企業及び研究機関が参画する技術研究組合「最先端半導体技術センター（LSTC）」に対し、合計450億円の支援を行うと{target=“_blank”}した。
+
+経産省は、今回の支援により、参画組織が協力し合い、エッジAI技術の実用化を加速させることを目指すとした。
+{target=“_blank”}によると、支援の対象となるプロジェクトには、エッジコンピューティング環境での効率的なデータ処理を可能にする新技術の開発が含まれるとのこと。
+
+採択された事業は以下の通り
+
+**「Beyond 2nm及び短TAT半導体製造に向けた技術開発」**
+2nm世代よりもさらに高性能な半導体の実現のため「Beyond 2nm向けデバイス・材料・プロセス要素技術および短TAT・クリーンプロセス装置技術」を国際連携も活用し開発する。この技術が実現すれば、半導体の一段の高性能化に加え、半導体製造期間の短縮が期待できる。
+
+**「2nm世代半導体技術によるエッジAIアクセラレータの開発」**
+次世代半導体設計技術として、生成AIを含むエッジ推論処理用途に専用化したエッジAIアクセラレータの開発を国際連携により推進する。エッジAIアクセラレータは少ない消費電力で高速演算処理が可能となる。Rapidus株式会社開発の最先端ロジック半導体の製造技術の有効性を最大限引き出すことを想定。
+
+経済産業省の支援策は、半導体技術が国家戦略的にも重要な位置を占める中、日本の技術力を世界水準に引き上げるためのものだ。エッジAIは、データセンターやクラウドではなく、デバイス側で直接データ処理を行う技術であり、応答時間の短縮やプライバシー保護、ネットワーク帯域の節約などの利点がある。この分野でのイノベーションは、スマートシティ、自動運転車、IoTデバイスなど、多岐にわたる応用が期待されている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 19 Feb 2024 02:57:10 +0000</pubDate></item><item><title>徳島県鳴門市がAIチャットボットを導入。イメージキャラクター「にゃるひげ」が市民の問い合わせに対応</title><link>https://ledge.ai/articles/naruto_begins_ai-chatbot_service</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2731,30 +2761,7 @@ IMFは、先進国にはAIの革新と統合を優先し、強力な規制枠組
 :::box
 
 :::
-</description><pubDate>Fri, 26 Jan 2024 11:12:26 +0000</pubDate></item><item><title>米大統領選へのAI悪影響、偽バイデンのロボコールが「次の予備選挙に投票すればトランプが再選する」と電話口で告げる</title><link>https://ledge.ai/articles/fake_biden_robocall_tells_new_hampshire_democrats_not_vote_tuesday</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年1月22日、バイデン大統領を模したロボコール（自動音声電話）が、ニューハンプシャー州の民主党支持者に対し、州の大統領予備選で投票しないよう促していたことがNBCニュースの報道で{target=“_blank”}
-
-このロボコールのメッセージでは、翌23日（火曜日）の投票が「共和党のドナルド・トランプ再選を支援するだけだ」と示唆。「11月にのみ差が出るため、この火曜日には意味がない」と述べ、元ニューハンプシャー民主党委員長キャシー・サリバン氏の電話番号が告げられたという。同氏は現在、ニューハンプシャー民主党に予備選でバイデンの名前を書くよう促すキャンペーンを支援するスーパーPACを運営している。
-
-サリバン氏は、この攻撃の背後にいる人物は「明らかにジョー・バイデンに害を与えたい人物である」と述べ、これが民主主義に対する攻撃であるため州の司法長官に苦情を提出するとNBCニュースのインタビューで語った。
-
-一方、トランプ陣営のスポークスパーソンは、このロボコールが「自分たちには関係ない」と述べ、バイデンの民主党大統領候補の一人であるミネソタ州代表のディーン・フィリップス氏のスポークスパーソンも、これらの呼びかけを非難し、「非常に懸念される」とコメントしている。
-
-この事件は、ニューハンプシャー州民を抑圧し、州の大統領予備選に干渉しようとする「不法な試み」であると同州司法長官事務所が[発表}(https://www.doj.nh.gov/news/2024/20240122-voter-robocall.html){target=“_blank”}。このロボコールのメッセージ内容を完全に無視するよう州民に呼びかけている。当局は、このロボコールがニューハンプシャー州民の投票を妨げる目的で行われた可能性が高いとして、調査を開始した。
-
-ロボコールの発信源は不明だが、州の選挙委員会はAIの使用が選挙キャンペーンに与える影響について懸念を表明。また、民主党のジュリー・チャベス・ロドリゲス選挙運動管理者は、即時行動を取ることを検討中であると述べた。この事件は民主主義への攻撃とみなされ、関与者の特定と法的措置が求められている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 25 Jan 2024 09:25:34 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
+</description><pubDate>Fri, 26 Jan 2024 11:12:26 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
