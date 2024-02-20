@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Feb 2024 06:19:36 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Feb 2024 06:22:43 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
 画像の出典：SoftBank ・NVIDIA
 :::
 
@@ -2460,7 +2460,31 @@ AutoRTは、大規模言語モデル（(LLM）や 視覚言語モデル（VLM）
 
 :::
 
-</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>仙台市、スマートシティ目指す実証実験　レベル４を想定したEVバスの運行調査や、複合施設での全自走する清掃ロボ検証など</title><link>https://ledge.ai/articles/sendai_demonstrated_experiment_for_a_smart_city</link><description>:::small
+</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>JASRAC、AIと著作権に関する考え方について文化庁へ意見提出</title><link>https://ledge.ai/articles/jasrac_submits_opinion_to_agency_for_cultural_affairs_on_ai_and_copyright</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+JASRACは2024年2月14日、文化審議会著作権分科会法制度小委員会がまとめた「AIと著作権に関する考え方について（素案）」に対する意見を文化庁へ提出したことを{target=“_blank”}した。
+
+JASRACは、クリエイターが安心して創作活動に専念できる環境の確保と、AI利活用の枠組みの実現に向けた検討や提言の継続を強調している。
+
+提出した意見では、生成AIを巡る著作権者、AI開発事業者、AI利用者等の懸念に対し、現時点の条文解釈のみならず、立法論を含む本格的な検討の必要性を主張した。特に、従来の著作権法との整合性、アイデアと創作的表現の区別、作風の保護、依拠性の考え方、著作物利用の透明性確保など、複数の重要な点について具体的な提言を行っている。
+
+JASRACは、AIによる生成物がクリエイターの著作物に対する需要を代替する事態や、著作権者の利益を不当に害する可能性に対する懸念を表明。また、著作権制度が人間の創作を奨励するためのものである原点を強調し、AIによる機械的な生成との区別を明確にする必要があると指摘している。
+
+このほか、著作物に当たらないものを著作物として流通させる行為に関する著作権法の保護適用、罰則規定の新設などについても意見している。JASRACは、AIと著作権の関係に関する議論を、現行法の解釈にとどまらず、立法論も含めて早急に行うことを強く求めている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 19 Feb 2024 06:22:43 +0000</pubDate></item><item><title>仙台市、スマートシティ目指す実証実験　レベル４を想定したEVバスの運行調査や、複合施設での全自走する清掃ロボ検証など</title><link>https://ledge.ai/articles/sendai_demonstrated_experiment_for_a_smart_city</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2745,32 +2769,7 @@ NEDOの公募した「ポスト5G情報通信システム基盤強化研究開�
 :::box
 
 :::
-</description><pubDate>Mon, 29 Jan 2024 08:37:35 +0000</pubDate></item><item><title>OpenAI、大統領候補者なりすましAI「Dean.Bot」開発者のアカウント凍結</title><link>https://ledge.ai/articles/openai_suspends_developer_behind_dean-phillips-bot</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIが、米国大統領候補者である民主党のディーン・フィリップス議員を模倣したチャットボット「Dean.Bot」を開発したDelphi AIのアカウントを凍結したと2024年1月20日のワシントンポストが{target=“_blank”}。これは、OpenAIによるガイドライン違反に対する初のアカウント凍結措置だという。
-
-OpenAIは1月15日に、2024年の世界的な選挙に向けた取り組みを{target=“_blank”}しており、AI技術を利用した選挙プロセスの損害を防ぐための戦略として、ディープフェイクやチャットボットのなりすましに対抗する措置を執り行うとしていた。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Dean.Botは、フィリップス議員を支援する政治資金管理団体「We Deserve Better」の依頼で、AIスタートアップのDelphiが作成したChatGPTボットだ。悪意あるなりすましではないものの、OpenAIの制限する政治活動やロビー活動を目的としたアプリケーションの構築にあてはまるため、措置の対象となったという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Jan 2024 02:30:50 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
+</description><pubDate>Mon, 29 Jan 2024 08:37:35 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
