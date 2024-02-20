@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Feb 2024 02:57:10 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Feb 2024 06:19:36 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
 画像の出典：SoftBank ・NVIDIA
 :::
 
@@ -2460,7 +2460,42 @@ AutoRTは、大規模言語モデル（(LLM）や 視覚言語モデル（VLM）
 
 :::
 
-</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>経産省　エッジAI向け半導体開発を強力支援、ラピダス参画のLSTC（最先端半導体技術センター）に450億円支援</title><link>https://ledge.ai/articles/meti_provides_45billion-yen_support_for_lstc_edgeai_semiconductor</link><description>:::small
+</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>仙台市、スマートシティ目指す実証実験　レベル４を想定したEVバスの運行調査や、複合施設での全自走する清掃ロボ検証など</title><link>https://ledge.ai/articles/sendai_demonstrated_experiment_for_a_smart_city</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+### 自動運転EVバスの運行テスト
+
+パシフィックコンサルタンツは2024年2月9日、仙台市×東北大学スマートフロンティア協議会の取り組みの一環として、青葉山エリアで自動運転EVバスの実証・実装を目指す「青葉山グリーン回遊プロジェクト」を{target=“_blank”}した。
+
+プロジェクトでは、自動運転技術を搭載したEVバス車両を手動運行しながら、自動運転レベル4に相当する周辺環境のデータ収集・分析を行う。
+
+調査は2月11日から18日までの4日間で行われ、期間中、バスは無料で乗車可能とした。調査目的は、自動運転に必要な技術的課題や利用者ニーズの把握とされる。
+
+仙台市×東北大学スマートフロンティア協議会とは、仙台市におけるスマートシティ実現に向けて、産学官民が連携し、規制改革提案、先端サービス開発、データの効果的活用を進めるための組織である。この協議会は、地域課題の解決と未来社会の実現を目指している。
+
+
+### 複合施設でのロボットサービス実験
+2月13日には、青葉区の複合施設である仙台トラストタワーで、ロボットが複数階の移動を伴う清掃業務や食品のデリバリーサービスを行い、実験の様子を複数メディアが報じた。
+
+@
+:::small
+出典：khb東日本放送
+:::
+この実証実験は、{target=“_blank”}に向けた取組として、2023年9月に経産省の補助事業「令和5年度革新的ロボット研究開発等基盤構築事業」に採択された4社が共同で行った。
+
+施設におけるサービスロボットのスムーズな運行を可能とする「ロボットフレンドリーな環境」の構築に向け、ホテルやオフィス、商業施設を含む複合施設「仙台トラストタワー」において、複数階の移動を伴う清掃業務や食品（お弁当・コーヒー・ランチBOX）のデリバリーサービスなどの業務にロボットを実装。その効果や運用上の課題、経済性の検証が行われる。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 19 Feb 2024 06:19:36 +0000</pubDate></item><item><title>経産省　エッジAI向け半導体開発を強力支援、ラピダス参画のLSTC（最先端半導体技術センター）に450億円支援</title><link>https://ledge.ai/articles/meti_provides_45billion-yen_support_for_lstc_edgeai_semiconductor</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2735,33 +2770,7 @@ Dean.Botは、フィリップス議員を支援する政治資金管理団体「
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jan 2024 02:30:50 +0000</pubDate></item><item><title>全世界の約40%の雇用がAIによって影響を受けると予測　IMF報告より</title><link>https://ledge.ai/articles/Imf_report_ai_will_transform_the_global_economy</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-国際通貨基金(IMF)は2024年1月14日、AIが世界経済に大きな変革をもたらし、生産性を向上させる一方で、仕事の喪失や格差の拡大といった問題も引き起こす可能性があるとの分析結果を{target=“_blank”}した。この技術革命により、全世界の約40%の職がAIによって影響を受けると予測されている。
-
-先進国では、約60%の職がAIによって影響を受ける可能性があり、これらのうちの約半数はAIの統合によって生産性が向上する可能性がある。一方で、残りの半数はAIによって現在人間が担っている主要なタスクを実行可能となり、労働需要・賃金・雇用の低下につながる可能性が示唆された。最悪のケースでは、これらの職が消滅することも考えられるという。
-
-発展途上国や低所得国では、AIの影響を受ける職はそれぞれ40%、26%と予測された。これらの国々は、AIの利益を最大限に活用するためのインフラや技術的な人材が不足しているため、時間の経過とともに技術格差が拡大するリスクがあると報告されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-IMFは、AIの準備度指数を開発し、125カ国の準備状況を評価した。この指数は、デジタルインフラ、人材と労働市場政策、イノベーションと経済統合、規制と倫理などの領域での準備状況を測定している。シンガポール、アメリカ合衆国、デンマークが、評価された4つのカテゴリーすべてにおいて高い数値を出し、これらの指数で最高のスコアを記録したという。
-
-IMFは、先進国にはAIの革新と統合を優先し、強力な規制枠組みを策定することを、新興市場と開発途上国にはデジタルインフラへの投資とデジタルに精通した労働力の基盤作りを優先することを勧めている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 26 Jan 2024 11:12:26 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
+</description><pubDate>Sun, 28 Jan 2024 02:30:50 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
