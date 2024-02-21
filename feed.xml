@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Feb 2024 10:36:41 +0000</lastBuildDate><item><title>Slack が AIを導入。蓄積されたコミュニケーションの履歴から必要な情報を検索し要約する</title><link>https://ledge.ai/articles/salesforce_slack_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Feb 2024 11:02:30 +0000</lastBuildDate><item><title>Slack が AIを導入。蓄積されたコミュニケーションの履歴から必要な情報を検索し要約する</title><link>https://ledge.ai/articles/salesforce_slack_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2467,7 +2467,27 @@ AutoRTは、大規模言語モデル（(LLM）や 視覚言語モデル（VLM）
 
 :::
 
-</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>JASRAC、AIと著作権に関する考え方について文化庁へ意見提出</title><link>https://ledge.ai/articles/jasrac_submits_opinion_to_agency_for_cultural_affairs_on_ai_and_copyright</link><description>:::small
+</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年2月14日、内閣府と独立行政法人情報処理推進機構（IPA）は、AIの安全性に対する国際的な関心の高まりを踏まえ、AIセーフティ・インスティテュートの設立を{target=“_blank”}した。
+
+主な業務としては、国内外のネットワークを活用して、安全性評価に関する調査や基準の検討、実施手法に関する検討、および他国の関係機関との国際連携などが挙げられている。関係省庁には内閣府、内閣官房、警察庁、デジタル庁などが名を連ね、関係機関には情報通信研究機構や理化学研究所などが含まれる。
+
+同機関はIPAに設置され、所長には元日本IBMのAI研究者であり、損保ジャパンCDO及び京都大学防災研究所客員講師を務める村上明子氏が就任した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 20 Feb 2024 11:02:30 +0000</pubDate></item><item><title>JASRAC、AIと著作権に関する考え方について文化庁へ意見提出</title><link>https://ledge.ai/articles/jasrac_submits_opinion_to_agency_for_cultural_affairs_on_ai_and_copyright</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2753,30 +2773,7 @@ NEDOの公募した「ポスト5G情報通信システム基盤強化研究開�
 :::box
 
 :::
-</description><pubDate>Mon, 05 Feb 2024 07:01:21 +0000</pubDate></item><item><title>千葉市、高層マンションへドローン配送実験。地上配送ロボットと連携</title><link>https://ledge.ai/articles/chiba_drone_last_one_mile</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-千葉市は2023年12月5日、国土交通省の「無人航空機等を活用したラストワンマイル配送実証事業」の一環として、都市部の高層マンションへの無人配送を目指す実証実験を株式会社ダイヤサービス、SBS即配サポート株式会社と共同で実施することを{target=“_blank”}した。この実験は、ドローンおよび地上配送ロボットの連携により12月20日に幕張新都心で行われた。
-
-物流業界におけるドライバー不足や宅配の小ロット化などの問題を背景に、これらの解決策としてドローン物流や自動配送ロボットの社会実装が期待されている。千葉市では、2016年から国家戦略特区に指定され、ドローン宅配構想の実現に向けた取り組みを進めている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-実証実験では、自律飛行するドローンがマンション付近のドローンポートまで荷物を運び、そこから地上配送ロボットに荷物を受け渡し、最終的にはマンション住民の玄関前まで配送する流れをテストした。これにより、緊急性の高い医薬品の配送など、宅配ドライバーとの対面を避けたい場合に特に有用な配送方法の確立を目指す。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 29 Jan 2024 08:37:35 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
+</description><pubDate>Mon, 05 Feb 2024 07:01:21 +0000</pubDate></item><item><title>オンラインゲーミングプラットフォーム「Roblox」でリアルタイムAIチャット翻訳機能をリリース 日本語含め16カ国語に対応</title><link>https://ledge.ai/articles/roblox_breaking_down_language_barriers_with_a_multilingual-translation-model</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
