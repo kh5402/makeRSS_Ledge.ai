@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Feb 2024 06:22:43 +0000</lastBuildDate><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Feb 2024 10:36:41 +0000</lastBuildDate><item><title>Slack が AIを導入。蓄積されたコミュニケーションの履歴から必要な情報を検索し要約する</title><link>https://ledge.ai/articles/salesforce_slack_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Sales Force 傘下のSlackは2024年2月14日、「Slack AI」の提供開始を{target=“_blank”}した。
+
+Slack AIは、これまでにSlackが築き上げたコミュニケーションの履歴を活用し、必要な情報を見つける手助けをする。特に「回答の検索」機能において力を発揮し、質問に対して個別にカスタマイズされた回答が即座に提供されるという。
+
+パイロット運用中に内部で行った分析から、SpotOn、Uber、Anthropic といったユーザー企業では、Slack AI を使って回答を検索し、ナレッジを抽出し、アイデアを発想することで、ユーザー 1 人あたり毎週平均で 97 分の時間を節約できることが明らかになったとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+新たなAI機能は、ユーザーが仕事の日程に即して情報を得られるよう設計され、検索回答、チャンネルの要約、スレッドの要約など、直感的で安全、信頼性の高いAI体験を提供するという。
+
+例：AIに未読の会話を要約させてキャッチアップ
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社は、これらがSlackの安全な基盤上で構築され、Slack がユーザー企業のデータを、大規模言語モデル（LLM）プロバイダと共有したり、LLM のトレーニングに使用したりすることはないと明言した。データの完全なコントロールをユーザーに保証するとのこと。
+
+Slack AI は、企業向け有料プランのアドオンとして現在は英語でのサポートを提供している。日本語向けには4月からのサービス適用開始を予定。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 20 Feb 2024 10:36:41 +0000</pubDate></item><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
 画像の出典：SoftBank ・NVIDIA
 :::
 
@@ -304,37 +341,7 @@ fondiの「3D × AI」技術のもと、実践的な異文化コミュニケー�
 :::box
 
 :::
-</description><pubDate>Tue, 13 Feb 2024 07:08:31 +0000</pubDate></item><item><title>ソフトバンクのLLMは1兆パラメータ規模に　より大規模なものから”蒸留”で「研ぎ澄まされた生成AI」を目指すーー決算説明会で宮川氏が発言</title><link>https://ledge.ai/articles/softbank_genai_aims_for_1trillion_parameters</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ソフトバンクは2024年2月7日、2024年3月期第3四半期の決算説明会を{target=“_blank”}し、代表取締役社長執行役員 兼 CEOの宮川潤一氏は、同社の生成AIの進捗について詳細を報告した。
-
-昨年構築された計算基盤は順調に稼働しており、12月末には1300億パラメータに到達。現在は3900億パラメータの構築を目標としており、その3倍の規模拡大を目指していると述べた。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-さらに、文章だけでなく図表、画像、符号コーディングにも対応するLLMのマルチモーダル化の開発を進めており、来年度中には3900億パラメータのマルチモーダル化された生成AIの完成を目指している。その先の目標としては、1兆パラメータ越えの達成を視野に入れ、計算基盤のさらなる拡張を進める計画だという。
-
-宮川氏は、最近は、一度は大規模なモデルを作り上げ、その後目的に合ったサイズまで最適化する手法が生成AI構築の潮流で、この方法を「蒸留」と呼ぶが、同社の生成AIもこの方法で作り上げていく考えのもと、1兆パラメータを目指す。そして、日本の文化や、習慣を理解した生成AI、高精度で、応答が速く、消費電力が少ない「研ぎ澄まされた生成AI」を目指すと述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 11 Feb 2024 13:47:05 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Tue, 13 Feb 2024 07:08:31 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
