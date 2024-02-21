@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Feb 2024 11:02:30 +0000</lastBuildDate><item><title>Slack が AIを導入。蓄積されたコミュニケーションの履歴から必要な情報を検索し要約する</title><link>https://ledge.ai/articles/salesforce_slack_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Feb 2024 11:06:59 +0000</lastBuildDate><item><title>Slack が AIを導入。蓄積されたコミュニケーションの履歴から必要な情報を検索し要約する</title><link>https://ledge.ai/articles/salesforce_slack_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1725,7 +1725,35 @@ Auto Trainはノーコードで機械学習のモデルを学習、評価、デ�
 :::
 :::box
 
-:::</description><pubDate>Thu, 07 Sep 2023 06:53:36 +0000</pubDate></item><item><title>市場価値が爆上がり中の「機械学習エンジニア」平均年収は？2024年版「フリーランス・副業の平均年収」ランキング</title><link>https://ledge.ai/articles/annual_income_ranking_of_freelancers_and_side_hustlers_2024</link><description>:::small
+:::</description><pubDate>Thu, 07 Sep 2023 06:53:36 +0000</pubDate></item><item><title>GitHub「Copilot in GitHub Support」の一般提供開始　質問に公式ドキュメントを学習したAIアシスタントが回答</title><link>https://ledge.ai/articles/copilot_in_github_support_is_available</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+GitHubは2024年2月9日、GitHubに関する質問に迅速に答えるための新しいAIツール「Copilot in GitHub Support」の一般提供開始を{target=“_blank”}した。
+
+このツールは、公式GitHubドキュメントに基づいて訓練され、アシスタントは、複数のGitHubドキュメントから関連情報を一度に効率的に抽出して、簡潔でカスタマイズされた応答を生成する。GitHubに関連する幅広いトピックについて信頼性の高いアドバイスを対話型で提供する。
+
+2023年8月に無作為に選ばれたGitHub Enterpriseの顧客に向けて初期リリースしたが、このたび準備が整い、より広い対象者に向けてのリリースとなったとのこと。
+
+アシスタントは既存のGitHub サポート問い合わせフォームに直接組み込まれている。アカウントを選択し、サポートが必要な問題について簡単に説明し「チャットを開始」をクリックするだけで、特に申し込みなどは不要だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>市場価値が爆上がり中の「機械学習エンジニア」平均年収は？2024年版「フリーランス・副業の平均年収」ランキング</title><link>https://ledge.ai/articles/annual_income_ranking_of_freelancers_and_side_hustlers_2024</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2005,25 +2033,7 @@ APIを通じて利用できるのは、ChatGPTの中枢である大規模言語�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>Excelで「Python」が実行可能に 機械学習にも対応</title><link>https://ledge.ai/articles/python_in_excel</link><description>米国Microsoftは、表計算アプリケーション「Excel」でプログラミング言語「Python」が実行可能になったと2023年8月23日に{target=“_blank”}した。統計解析から機械学習まで多用途で役立つ。オフィススイート「Microsoft 365」のさまざまな新機能を試せる「Microsoft 365 Insiders」プログラムに参加すればWindows向けのベータ版が利用できるようになるという。
-
-ベータ版にはPythonのコードをExcelのセルに直接入力できる新たな「PY関数」が加わり、ビジュアライゼーション、データクレンジング、機械学習、予測分析などを行える。
-
-Excelのコネクタ機能とPower Query（パワークエリ）機能で外部データを取り込み、Pythonで処理できる。Excelの既存の数式、ピボットテーブル、グラフなどの機能と互換性があり、例えば「Matplotlib」や「seaborn」などPythonのグラフ作成ライブラリを組み込んで、簡単な棒グラフや折れ線グラフからヒートマップ、バイオリン プロット、群プロットまで描き出せる。
-
-!
-
-「scikit-learn」や「statsmodels」などのライブラリを組み込めば一般的な機械学習、予測分析、回帰分析、時系列モデリングなども行える。具体的にはPythonとExcelのLAMBDA（ラムダ）関数を連携させて天気を予測するモデルを動かす、といったことが可能だ。
-
-!
-
-このほかデータクレンジングの用例についても欠損値の特定、形式の標準化、重複の削除、パターンベースの変換のための正規表現の使用などが挙がっている。
-
-なおExcelのPythonは、クラウドサービス「Azure」上に設置した科学計算ディストリビューション「Anaconda」で実行する。
-
-:::box
-
-:::</description><pubDate>Fri, 25 Aug 2023 10:12:51 +0000</pubDate></item><item><title>Stability AI、「Stable Cascade」発表　Stable Diffusionより高速高品質　低スペックマシンでも追加学習・ファインチューニングが可能
+:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>Stability AI、「Stable Cascade」発表　Stable Diffusionより高速高品質　低スペックマシンでも追加学習・ファインチューニングが可能
 </title><link>https://ledge.ai/articles/stable_cascade</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
