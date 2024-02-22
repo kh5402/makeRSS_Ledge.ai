@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Feb 2024 11:06:59 +0000</lastBuildDate><item><title>Slack が AIを導入。蓄積されたコミュニケーションの履歴から必要な情報を検索し要約する</title><link>https://ledge.ai/articles/salesforce_slack_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Feb 2024 05:36:52 +0000</lastBuildDate><item><title>NVIDIAが無料のチャットボットAI「Chat With RTX」をリリース、GeForce RTX GPU搭載PCで利用可能</title><link>https://ledge.ai/articles/nvidia_chat_with_rtx</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2024年2月13日、GeForce RTX GPUを搭載したPCで動作する無料のチャットボットAI「Chat With RTX」を{target=“_blank”}した。
+
+現在無料でダウンロードできるChat with RTXは、ユーザーが独自のコンテンツでチャットボットをパーソナライズできる技術デモで、GeForce RTX 30シリーズGPU以上、最低8GBのビデオRAMを備えたPCで高速化するという。
+
+@
+
+
+Chat With RTXは、ローカルファイルをデータセットとして接続し、迅速かつ文脈に即した回答を提供する。このツールは、クラウドベースのLLMサービスに依存せず、ユーザーのデータをデバイス上に保持しながら、ローカルPCで機密データを処理できる​​という。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 21 Feb 2024 05:36:52 +0000</pubDate></item><item><title>Slack が AIを導入。蓄積されたコミュニケーションの履歴から必要な情報を検索し要約する</title><link>https://ledge.ai/articles/salesforce_slack_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -325,23 +348,7 @@ fondiの「3D × AI」技術のもと、実践的な異文化コミュニケー�
 :::box
 
 :::
-</description><pubDate>Tue, 13 Feb 2024 07:10:35 +0000</pubDate></item><item><title>日本郵便、「ゆうパック」などの集荷受付にAIの自動音声受付機能を一部地域で導入開始</title><link>https://ledge.ai/articles/japan_post_ai_contact_center</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本郵便は2024年1月31日、 NTTコミュニケーションズが提供する システムを採用し、集荷依頼の申し込みにAIが自動音声で対応する「AI による集荷電話自動受け付けサービス」を2月6日から一部エリアにおいて開始することを{target=“_blank”}した。
-
-現在の集荷申し込み方法として用意されている、オペレーターによる電話受付、インターネット・LINEアプリでの受付に対し、ユーザーからは、電話のつながりにくさ、ネットやアプリの操作性の困難さなどへの訴えがあるという。
-同社は入電が集中した際の待機時間の解消を図り、安定してつながりやすい コールセンターの実現を目指すという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 13 Feb 2024 07:08:31 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Tue, 13 Feb 2024 07:10:35 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
