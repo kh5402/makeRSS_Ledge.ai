@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Feb 2024 05:36:52 +0000</lastBuildDate><item><title>NVIDIAが無料のチャットボットAI「Chat With RTX」をリリース、GeForce RTX GPU搭載PCで利用可能</title><link>https://ledge.ai/articles/nvidia_chat_with_rtx</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Feb 2024 05:44:23 +0000</lastBuildDate><item><title>NVIDIAが無料のチャットボットAI「Chat With RTX」をリリース、GeForce RTX GPU搭載PCで利用可能</title><link>https://ledge.ai/articles/nvidia_chat_with_rtx</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2040,7 +2040,42 @@ APIを通じて利用できるのは、ChatGPTの中枢である大規模言語�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>Stability AI、「Stable Cascade」発表　Stable Diffusionより高速高品質　低スペックマシンでも追加学習・ファインチューニングが可能
+:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>カナダCohereの研究組織「Cohere For AI」、100言語以上をカバーする新LLM「Aya」を発表</title><link>https://ledge.ai/articles/cohere_for_ai_aya</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Cohere For AIは2024年2月13日、100以上の言語をカバーする新たな多言語LLM「Aya」を{target=“_blank”}した。このモデルはオープンソースとして公開され、誰でもアクセス・改変が可能となる。
+
+Ayaは、既存のオープンソースモデルの2倍以上の言語をサポートし、メジャーな言語モデルからは取りこぼされがちな話者の少ない言語や文化へのアクセスを可能にする。モデルと共に、114言語をカバーする5億1,300万という最大の多言語プロンプトのファインチューニングされたデータセットがオープンソースとして公開されている。このデータ コレクションには、世界中のネイティブ スピーカーからの貴重な注釈が含まれているという。これにより、AI技術がこれまでアクセスが限られていた広範なグローバルオーディエンスに効果的にサービスを提供可能となるとのことだ。
+
+
+2023年6月にCohere For AIが始めたオープンサイエンスの取り組み{target=“_blank”}は、世界中の人々の知恵と貢献を集め、最先端の多言語生成言語モデルの構築を目指す。同プロジェクトは、学術界、産業界、非営利団体、独立した研究者からなるAI専門家を結集し、多言語モデルの進歩を加速させ、オープンコラボレーションを促進する1年間にわたる取り組みだという。すべてのモデル、トレーニングデータ、データ収集ツールをオープンソース化し、言語技術へのアクセスを民主化する世界的な動きの一部となることを目指している。
+
+
+Aya 協力者の地理的分布
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Ayaプロジェクトを追ったドキュメンタリーが公開されている。
+@
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 21 Feb 2024 05:44:23 +0000</pubDate></item><item><title>Stability AI、「Stable Cascade」発表　Stable Diffusionより高速高品質　低スペックマシンでも追加学習・ファインチューニングが可能
 </title><link>https://ledge.ai/articles/stable_cascade</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -2448,43 +2483,7 @@ AutoRTは、大規模言語モデル（(LLM）や 視覚言語モデル（VLM）
 :::
 
 
-</description><pubDate>Fri, 19 Jan 2024 07:29:33 +0000</pubDate></item><item><title>Science誌「掲載前の論文はすべてAIツールで不正画像の検出チェックする」</title><link>https://ledge.ai/articles/science_genuine_images_in_2024</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年1月4日、学術誌Scienceは、研究論文における画像の操作に関連する問題に対処するため、AI駆動の画像分析ツール「Proofig」を採用し、Science系列の全てのジャーナル6誌で不正画像チェックを行うと{target=“_blank”}した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同誌編集部は、近年の科学論文内の画像操作に対する研究コミュニティでの懸念について述べている。不注意により誤った実験画像を使用してしまう場合もあるが、意図的な誤導を目的とした改ざんも稀に発生しており、このような事件は科学に対する国民の信頼を損ない、加工画像を見逃した査読者のキャリアにも影響を及ぼすという。
-
-{target=“_blank”}は画像の複製やその他の操作をスクリーニングし、公開前の問題ある図表の検出が可能だと証明されているという。このツールは論文の査読プロセスを強化し、人間の目によるチェックの限界を補完する。
-
-研究論文が著者によって改訂された後にProofigを適用すると、ツールは画像を分析した後、重複や回転、スケールの歪み、接合などのその他の異常を示すレポートを生成する。論文の編集者はその結果を検討し、AIが検出した箇所に問題の可能性があるかどうかを判断するという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-今後、不十分な回答や追加の懸念が生じた場合は、さらに調査を行い、論文の取り下げなどの措置を取る可能性がある。また、Scienceが既に公開した論文に画像の整合性に関する懸念が生じた場合は、Proofigを用いて疑わしい画像を慎重に検証し、その後の措置（例えば訂正や撤回）に役立てるという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 15 Jan 2024 11:23:25 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
+</description><pubDate>Fri, 19 Jan 2024 07:29:33 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
