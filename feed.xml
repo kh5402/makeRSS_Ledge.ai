@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Feb 2024 05:44:23 +0000</lastBuildDate><item><title>NVIDIAが無料のチャットボットAI「Chat With RTX」をリリース、GeForce RTX GPU搭載PCで利用可能</title><link>https://ledge.ai/articles/nvidia_chat_with_rtx</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Feb 2024 05:48:50 +0000</lastBuildDate><item><title>Googleが新たなセキュリティ強化策「AIサイバーディフェンスイニシアチブ」を発表</title><link>https://ledge.ai/articles/google_ai_cyber_defense_initiative</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2023年2月16日、AIを活用してサイバーセキュリティ防御を強化する新たな取り組み「AIサイバーディフェンスイニシアチブ」を{target=“_blank”}した。
+
+セキュリティの専門家がAIを用いて脅威の検知、マルウェア分析、脆弱性の検出、そしてインシデント対応の業務を大規模にかつ効率的に実行できるようにすることを目的としている。デジタル防御におけるAIの進歩を深く理解すること、脅威に対して強固な大規模言語モデルの開発、コード検証の強化を目指す。
+
+サイバーセキュリティ研究イニシアチブの強化と共に、Google AI を活用したファイル タイプ識別システム{target=“_blank”}のオープンソース化に200 万ドルを投入することも明らかにした。Magikaはファイルタイプ識別を用いてマルウェアを検出することを支援し、セキュリティディフェンダーへの支援を提供する。
+
+このイニシアチブは、攻撃者がたった１つの弱点を見つけるだけで良いのに対し、防御側が全ての脅威に対して完璧な対策を施さなければならないという、従来の「防御側のジレンマ」を逆転させることが可能になる。AI技術の導入により、セキュリティ専門家は脅威をより迅速かつ効率的に識別し、対処することが可能となり、セキュリティ対策のスピードと精度を向上させることができる。
+
+Googleはこの他「AI for Cyber​​security」スタートアップコホートを立ち上げ、欧州全域のサイバーセキュリティスキル向上のための1500万ドルのコミットメントを拡大し、安全でAI 対応のグローバル データ センター ネットワークへの投資を継続すると{target=“_blank”}。2024 年末までに、当社はヨーロッパのデータセンターに 50 億ドル以上を投資し、Vertex AI プラットフォームのような広範な生成 AI 機能を含む、さまざまなデジタル サービスへの安全で信頼性の高いアクセスのサポートを支援するとのこと。
+
+OpenAIは2024年2月14日に、国家によるサイバー脅威アクターによるAIの悪用を防ぐ取り組みを{target=“_blank”}し、ロシアや中国を含む国家関連のアカウントの活動を中断させた。Microsoft Threat Intelligenceとのパートナーシップを通じて、悪意あるAIサービスの使用を試みるアクターの特定と阻止を目指すとした。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 21 Feb 2024 05:48:50 +0000</pubDate></item><item><title>NVIDIAが無料のチャットボットAI「Chat With RTX」をリリース、GeForce RTX GPU搭載PCで利用可能</title><link>https://ledge.ai/articles/nvidia_chat_with_rtx</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -326,29 +352,7 @@ fondiの「3D × AI」技術のもと、実践的な異文化コミュニケー�
 
 
 
-</description><pubDate>Wed, 14 Feb 2024 12:31:40 +0000</pubDate></item><item><title>香港の多国籍企業でディープフェイク詐欺事件が発生　偽CFOのビデオ通話指示に騙され2,560万ドル送金</title><link>https://ledge.ai/articles/deep_fake_scammer_Impersonating_cfo_directs_money_transfer</link><description>:::small
-画像の出典：：DALL-E3によりLedge.aiが生成
-:::
-
-2024年2月6日、香港の多国籍企業がディープフェイク技術を用いた詐欺により約2億香港ドル（約2,560万米ドル）の損失を被ったことが{target=“_blank”}の報道で明らかになった。
-
-事件は、同社の最高財務責任者（CFO）を含む複数の従業員がビデオ通話映像として登場し、財務を担当する従業員に偽の資金移動を指示するというもの。香港警察は現在、この事件を調査中であり、被害に遭った企業の詳細や逮捕された者は公表されていない。
-
-この詐欺は、同社の香港支社の財務部門の従業員が、英国に拠点を置くCFOからと思われるフィッシングメッセージを受け取った後に発覚した。当初は疑念を抱いていた従業員も、CFOと他の人物がグループビデオ通話に登場したことで説得され、5つの異なる香港の銀行口座に合計2億香港ドルを15回にわたって移動させたという。この詐欺が発生したことは約1週間後に発覚し、警察による捜査が始まったとのこと。
-
-香港警察のバロン・チャン・シュンチン代理上級警視は、複数人のビデオ会議の設定で被害者を騙す手口での事件は、香港で初めての事例であると強調した。また、ビデオ通話で多額の金銭の移動を求められるなど、通話相手の真正性が求められる場合は、相手に頭を動かすよう要求したり、身元を確認できる質問をするなどの確認を推奨した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 13 Feb 2024 07:10:35 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Wed, 14 Feb 2024 12:31:40 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
