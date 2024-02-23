@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 22 Feb 2024 07:25:18 +0000</lastBuildDate><item><title>マイクロソフト、ドイツに32億ユーロのAIインフラ投資を発表</title><link>https://ledge.ai/articles/microsoft_invests_3point2billion_euro_in_ai_infrastructure_in_germany</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 22 Feb 2024 07:31:35 +0000</lastBuildDate><item><title>認証エラー率0.12%　NECが顔認証技術で世界第1位を獲得</title><link>https://ledge.ai/articles/nec_ranked_no1_in_world_for_fae_recognition</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+NECは2024年2月8日、米国国立標準技術研究所（NIST）が実施した顔認証技術のベンチマークテストで世界第1位を獲得した{target=“_blank”}した。
+
+このテストでは、1,200万人分の静止画を用いた「1:N認証」で認証エラー率0.12%という成績を収めた。NECは2009年から顔認証事業を世界50以上の国と地域で展開し、この分野で複数回にわたり世界第1位の評価を獲得した実績を持つ。
+
+今後も顔認証技術を中心に、虹彩認証を組み合わせたマルチモーダル生体認証やゲートレス生体認証など、さまざまなソリューションの開発・提供を進めていく計画だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 22 Feb 2024 07:31:35 +0000</pubDate></item><item><title>マイクロソフト、ドイツに32億ユーロのAIインフラ投資を発表</title><link>https://ledge.ai/articles/microsoft_invests_3point2billion_euro_in_ai_infrastructure_in_germany</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -299,46 +324,7 @@ AIアバターやスマート商品棚などの先進技術を駆使し、初期
 :::box
 
 :::
-</description><pubDate>Thu, 15 Feb 2024 08:34:50 +0000</pubDate></item><item><title>OpenAI AI生成画像に電子透かし標準導入　MetaやYouTubeなどプラットフォームも取り組み強化</title><link>https://ledge.ai/articles/c2pa_in_dall-e3</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年2月7日、ChatGPTおよび同社のAPIで生成された画像に、C2PA（Content Authenticity and Provenance）仕様のメタデータを含めるようになったことを{target=“_blank”}した。ソーシャルプラットフォームやコンテンツ配信者を含む誰もが、画像が同社の製品によって生成されたものであることを確認できるようになる。
-
-メタデータは削除可能で、データが存在しないからといって、画像がChatGPTや同社API由来ではないという意味ではないと同社は述べる。しかし、出所や信頼性の確立方法の広範な採用、そしてユーザーにこのようなシグナルを探すよう推奨することが、デジタル情報の信頼性を高めるための一歩だとしている。この変更は、2月12日までにすべてのモバイル ユーザーに提供される。
-
-
-Metaは6日、Facebook、Instagram、ThreadsにおいてAIによって生成された画像を検出できる場合、それらがAI生成であることを示すラベルを付ける計画を{target=“_blank”}した。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-同社は、業界パートナーと共同でAIコンテンツを識別するための共通の技術標準に取り組んでおり、他社のツールで作成されたコンテンツでのラベル適用を目指す。数か月以内に、各アプリでサポートされているすべての言語でラベルの適用を開始する予定だという。
-
-この施策は、世界中で数多くの重要な選挙が行われる来年までこのアプローチを採用するとのこと。
-
-
-またYouTubeは7日、ディープフェイクなど生成AIに関する取り組みを強化する計画を{target=“_blank”}した。同社は2023年11月に生成AI関連の新たなガイドラインとして、AI生成コンテンツに関する新しい選択肢が動画アップロード時に追加されるようになると発表した。動画が合成であることを示すラベルの導入も計画されている。
-
-この計画には「Dream Screen」や「Dream Track」などの試験運用も含まれ、生成AIによるコンテンツに新しい透明性と保護設定のレイヤーを追加する予定だという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 14 Feb 2024 12:35:06 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Thu, 15 Feb 2024 08:34:50 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
