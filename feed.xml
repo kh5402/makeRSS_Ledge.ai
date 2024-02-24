@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 22 Feb 2024 07:31:35 +0000</lastBuildDate><item><title>認証エラー率0.12%　NECが顔認証技術で世界第1位を獲得</title><link>https://ledge.ai/articles/nec_ranked_no1_in_world_for_fae_recognition</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 23 Feb 2024 07:00:03 +0000</lastBuildDate><item><title>OpenAIのChatGPTに対するコメディアン、作家らの著作権侵害訴訟で一部主張が棄却</title><link>https://ledge.ai/articles/openai_gets_partial_win_authors_us_copyright_lawsuit</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+{target=“_blank”}は2024年2月12日、OpenAIに対する著作権侵害訴訟において、被告OpenAIの一部主張は棄却したものの、一部を認める決定を下したと{target=“_blank”}など複数メディアが報じた。
+
+{target=“_blank”}は2023年7月7日、米国のコメディアン、サラ・シルバーマンら3人がMetaとOpenAIに対し、自身のコンテンツが許可なく対話型AIの訓練に使用されたとして、損害賠償を求める集団訴訟を起こしたというもの。
+
+原告代理人のJoseph Saveri法律事務所は、ChatGPTが特許で保護されている書籍からテキストを生成していること、OpenAIがこれらの著作物を使用するための許可を取得せず、著作権者に報酬を支払っていないことを主張した。同事務所は6月28日に同様の主張で2人の作家の訴えをもとにOpenAIに対する訴訟を起こした。
+
+原告はOpenAIが自社の言語モデルの訓練に彼らの著作権で保護された書籍を使用したと主張。この訴訟は、著作権侵害、DMCA違反、不正競争、過失、不当利得など複数の訴因で提起されている。裁判所は、直接の著作権侵害に関する訴えは継続させる一方で、その他の訴因については原告に修正訴状の提出を認める形で一部の主張を棄却した。
+
+著者たちは、裁判所が棄却した主張について修正された訴状を3月13日までに提出する許可を得ている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 23 Feb 2024 07:00:03 +0000</pubDate></item><item><title>認証エラー率0.12%　NECが顔認証技術で世界第1位を獲得</title><link>https://ledge.ai/articles/nec_ranked_no1_in_world_for_fae_recognition</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -293,38 +318,7 @@ Waymoは、このインターンシップを通じて、学生の知識を活用
 :::box
 
 :::
-</description><pubDate>Fri, 16 Feb 2024 00:45:20 +0000</pubDate></item><item><title>日立と西鉄がコラボ　無人店舗でAIアバターが接客する「デジタルポップアップストア」プレオープン</title><link>https://ledge.ai/articles/hitachi-nishitetsu_opened_digital_popup_store</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年1月15日、福岡・天神のソラリアプラザにおいて、日立製作所とのコラボレーションによるデジタルポップアップストア「西鉄グランドホテル」が期間限定で{target=“_blank”}した。期間は1月17日から3月31日までで、レディースアパレルやアクセサリー、チョコレート、自然派入浴料、無添加石鹸、キャンドルなど、様々な商品を扱う4店舗が出店する​​。
-
-この無人店舗では、生成AIを活用したAIアバターが質問に答えながら顧客に合った商品を推薦するサービスや、人感センサーと連動して手に取った商品の詳細をサイネージで自動紹介するスマート商品棚など、先進技術を駆使した体験が提供される。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この取り組みは、西日本鉄道と日立製作所が{target=“_blank”}した2023年12月1日から2024年3月31日にかけて実施するデジタルポップアップストアサービスのプレ運用の一部である。企業が容易にテナント出店できるよう支援し、顧客に快適な購買体験を提供することを目的としている。
-
-
-AIアバターやスマート商品棚などの先進技術を駆使し、初期投資や人員確保に課題を持つ企業でも、容易に出店し、多言語対応やリモート接客を通じて、新しいショッピング体験を顧客に提供可能とする。DXを活用した実証実験の結果を踏まえ、西鉄と日立がさらなる顧客満足度向上とスタッフ省力化を目指すという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 15 Feb 2024 08:34:50 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Fri, 16 Feb 2024 00:45:20 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
