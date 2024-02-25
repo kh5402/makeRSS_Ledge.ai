@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 23 Feb 2024 08:28:02 +0000</lastBuildDate><item><title>OpenAIの評価額が800億ドルに到達　「Sora」開発で生成AIへの投資ブームを牽引</title><link>https://ledge.ai/articles/valuation_of_openai_reaches_80billion</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 24 Feb 2024 11:17:58 +0000</lastBuildDate><item><title>AI補聴器「ジェネシス」発表。脳の聴覚機能を代替し、毎時8000万回の音声自動分析・調整でより自然な音声を再現ー2/26発売開始</title><link>https://ledge.ai/articles/genesis_ai_starkeyjp</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+スターキージャパンは2024年2月9日に、新世代のAI補聴器「Genesis AI」シリーズを{target=“_blank”}した。製品は2024年2月26日から販売される​​。
+
+開発期間は5年に及び、脳神経科学に基づいた新しいアプローチが採用された。ジェネシスは、業界最先端の半導体プロセッサーとAI技術を搭載し、脳の聴覚機能を模倣することで、ユーザーに最適な聞こえを提供する。
+
+搭載されたニューロ・プロセッサは、チップに搭載されたディープ・ニューラル・ネットワーク（DNN）加速回路と自動機能により、脳の聴覚機能を模倣し代替する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+従来の補聴器と比較して、トランジスタを6倍、処理スピードを4倍に強化し、DNNのノイズ低減アルゴリズムを初めて補聴器に搭載。これにより、毎時8000万回の音声の自動分析・調整が可能となった。新開発のニューロ・サウンド・テクノロジーにより、AIによる自動調整を行い、人間が本来持つダイナミックレンジに近づけることで音の歪みを抑え、より自然な音を再現するという。
+
+製品ラインナップには充電式および電池式の耳かけ型、耳あな型があり、幅広い難聴レベルに対応している。また、耐水性や耐久性に優れたデザイン、業界最長クラスの電池寿命、健康状態の追跡やユーザー見守り機能など、便利性と安全性を高める機能も備えている。
+
+新しいモバイルアプリ「My Starkey」によりスマートフォンとの連携も強化され、補聴器の機能を完全にコントロールできるようになっている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 24 Feb 2024 11:17:58 +0000</pubDate></item><item><title>OpenAIの評価額が800億ドルに到達　「Sora」開発で生成AIへの投資ブームを牽引</title><link>https://ledge.ai/articles/valuation_of_openai_reaches_80billion</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -279,39 +307,7 @@ Frameは既に米国で予約注文が可能で、販売価格はUS$349。初回
 :::box
 
 :::
-</description><pubDate>Sat, 17 Feb 2024 10:55:53 +0000</pubDate></item><item><title>Googleが「Gemini 1.0 Ultra」から1週間で次世代AIモデル「Gemini 1.5」を発表 最大100万トークンの処理で長文の文脈理解能力が向上</title><link>https://ledge.ai/articles/google_gemini1point5_release</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleは2024年2月15日、次世代AIモデル「Gemini 1.5」を{target=“_blank”}した。
-
-このモデルは、Gemini 1.0 Ultraの後継であり、計算資源をより少なく使用しながら同等またはそれ以上の性能を実現している。特に、長文の文脈理解能力が向上し、最大100万トークンを処理可能で、これまでの大規模基盤モデル中で最長のコンテキストウィンドウを持つ。
-
-同社は2023年12月に新しいAIモデルとして「Gemini」を発表。中規模版のProを12月に、最上位バージョンのGemini 1.0 Ultraを1週間前に{target=“_blank”}開始したばかりだ。
-
-
-Context lengths of leading foundation models
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社は、Gemini 1.5が従来モデルに比べて、テキスト、コード、画像、オーディオ、ビデオの評価において性能が向上していることを明らかにした。また、「Mixture-of-Experts」(MoE) アーキテクチャを採用しており、トレーニングとサービスの効率を高めている。
-
-Gemini 1.5 Proは、128,000トークンの標準コンテキストウィンドウを提供する。現在、試験運用機能の限定プレビューが開発者と企業向けに提供されている。このモデルはマルチモーダル対応で、動画を含むさまざまなデータ形式に対する理解と推論が可能だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 16 Feb 2024 12:58:05 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Sat, 17 Feb 2024 10:55:53 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
