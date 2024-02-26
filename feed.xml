@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 24 Feb 2024 11:20:56 +0000</lastBuildDate><item><title>2024年選挙でのAI不正使用対策協定に世界の主要テック企業20社が署名　ミュンヘン安全保障会議</title><link>https://ledge.ai/articles/tech_accord_to_combat_deceptive_use_of_ai_in_2024elections</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 25 Feb 2024 06:51:50 +0000</lastBuildDate><item><title>2024年選挙でのAI不正使用対策協定に世界の主要テック企業20社が署名　ミュンヘン安全保障会議</title><link>https://ledge.ai/articles/tech_accord_to_combat_deceptive_use_of_ai_in_2024elections</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1992,7 +1992,35 @@ APIを通じて利用できるのは、ChatGPTの中枢である大規模言語�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>カナダCohereの研究組織「Cohere For AI」、100言語以上をカバーする新LLM「Aya」を発表</title><link>https://ledge.ai/articles/cohere_for_ai_aya</link><description>:::small
+:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>LoRAより少ない計算コストと時間で高性能な「DoRA」香港科技大学が生成AIモデルファインチューニングの新手法を発表</title><link>https://ledge.ai/articles/DoRA</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年2月14日、香港科技大学の研究チームは、大規模言語モデルや画像生成AIなどの機械学習モデルのファインチューニング手法において、計算コストと時間を削減できる新たな手法「DoRA（Weight-Decomposed Low-Rank Adaptation）」を{target=“_blank”}した。
+
+従来のLoRA（Low Rank Adaptation）と比較して、DoRAは事前訓練されたモデルの重みを「大きさ」と「方向」の二つの要素に分解し、特に方向の更新にLoRAを用いることで、訓練可能なパラメータの数を効率的に最小限に抑えることが可能だという。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この新たな手法により、DoRAはLoRAの学習能力と訓練の安定性を向上させる一方で、追加の推論コストを発生させることなく、LLaMA、LLaVA、VL-BARTなどの機械学習モデルを用いたコモンセンス推論、視覚指示チューニング、画像/動画テキスト理解といった多岐にわたる下流タスクにおいて一貫してLoRAを上回る性能を実現している。
+
+香港科技大学の研究チームは、DoRAがAIモデルの効率的なカスタマイズと性能向上に新たな方向性を示し、機械学習モデルのファインチューニングプロセスを改善する上で大きな可能性を秘めていることを強調している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 25 Feb 2024 06:51:50 +0000</pubDate></item><item><title>カナダCohereの研究組織「Cohere For AI」、100言語以上をカバーする新LLM「Aya」を発表</title><link>https://ledge.ai/articles/cohere_for_ai_aya</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2406,36 +2434,7 @@ GPT-4は高い精度で明確な根拠を示して回答し、質問に対して
 :::box
 
 :::
-</description><pubDate>Fri, 19 Jan 2024 12:30:24 +0000</pubDate></item><item><title>Google DeepMindの「ロボット憲法」 アシモフのロボット三原則の拡張が生成AI時代を支える</title><link>https://ledge.ai/articles/googledeepmaind_robot-constitution</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年1月4日、Google DeepMind Robotics Teamは、ロボット研究における一連の進歩を{target=“_blank”}した。ロボット研究の一連の進歩として、「AutoRT」「SARA-RT」「RT-Trajectory」の3つのシステムが紹介された。研究チームは、これらのモデルとシステムを統合し、日常生活に溶け込むロボットを開発することを目指しているという。
-
-「AutoRT」はロボットが人間の目標を理解するためのトレーニングを提供し、「SARA-RT」はロボットのTransformerモデルを効率化する。「RT-Trajectory」は、ロボットがビデオ内の動きの軌道を学習するためのモデルだ。
-
-興味深いのは、AutoRTシステムに組み込まれた「ロボット憲法」だ。
-AutoRTは、大規模言語モデル（(LLM）や 視覚言語モデル（VLM）等の大規模な基礎モデルと、RT-1 または{target=“_blank”} といったロボット制御モデルを統合したシステムである。ロボットは新しい環境でトレーニングデータを収集し、多様なタスクを効果的に実行することが可能となる。
-
-そのため、ロボットが実行するタスクを選択する際に遵守すべき安全に焦点を当てた一連のルールを制定し「基礎ルール（Foundational Rules）」「安全ルール（Safety Rules）」「身体ルール（Embodiment Rules）」の三つのカテゴリーに分け「ロボット憲法」と名付けた。
-
-この憲法は、SF小説短編集『I、 Robot （われはロボット）』で知られるアイザック・アシモフの「ロボット工学三原則」に触発された文言で構成されている。例えば、ロボットが「人間に危害を加えない」というルールや、人間、動物、鋭利な物体、電化製品を含むタスクの実行を避けるというルールを含み、ロボットの安全性と効果性が高められ、日常生活により適合するように設計されている。
-
-「ロボット工学三原則」とは、1942年にアシモフが発表した短編「Runaround」に初めて登場した架空のロボット関連の倫理規範だ。第一原則は「ロボットは人間に危害を加えてはならない、また、行動をとることによって人間が危害を受けるのを放置してはならない」、第二原則は「ロボットは人間の命令に従わなければならないが、それが第一原則に反する場合はこの限りではない」、第三原則は「ロボットは自己を保護しなければならないが、それが第一または第二原則に反する場合はこの限りではない」というものである。
-
-80年以上前にアシモフが創造した「ロボットと人間が共存する世界線」が、今、恐るべきスピードで開発の進む生成AIの基盤ルールを支えている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 19 Jan 2024 07:29:33 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
+</description><pubDate>Fri, 19 Jan 2024 12:30:24 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
