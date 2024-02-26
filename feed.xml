@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 25 Feb 2024 07:00:55 +0000</lastBuildDate><item><title>NTT、次世代通信基盤「IOWN」活用により郊外型データセンターでリアルタイムにAI分析する技術を開発</title><link>https://ledge.ai/articles/ntt_iown_suburban_data_center</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 26 Feb 2024 05:11:53 +0000</lastBuildDate><item><title>Stability AI　画像内でのアルファベット表記を可能にする「Stable Diffusion3」発表</title><link>https://ledge.ai/articles/stable_diffusion3</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stability AIは2023年2月23日、最新の画像生成モデル「Stable Diffusion 3」の先行プレビューを{target=“_blank”}した。
+
+このモデルは、複数主題のプロンプト応答、画質、スペリング能力の面でパフォーマンス向上を実現しており、特に「画像内アルファベット表記」の可能性を広げているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stable Diffusion3は、800Mから8Bのパラメータ範囲を提供し、ユーザーのニーズに応じた高品質な画像生成を可能にする。このモデルは、拡散トランスフォーマーアーキテクチャとフローマッチング技術の組み合わせによるもので、近日中に詳細な技術レポートが発表される予定。
+
+同社は安全で責任あるAIの使用を重視し、悪用を防ぐための措置を講じている。モデルのトレーニングからテスト、評価、展開に至るまで、安全性の確保に努めているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 26 Feb 2024 05:11:53 +0000</pubDate></item><item><title>NTT、次世代通信基盤「IOWN」活用により郊外型データセンターでリアルタイムにAI分析する技術を開発</title><link>https://ledge.ai/articles/ntt_iown_suburban_data_center</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -283,27 +313,7 @@ Slack AI は、企業向け有料プランのアドオンとして現在は英�
 
 :::
 
-</description><pubDate>Tue, 20 Feb 2024 10:36:41 +0000</pubDate></item><item><title>ソフトバンクとNVIDIA、AI基地局技術の業界団体「AI-RANアライアンス」設立</title><link>https://ledge.ai/articles/nvidia-softbank_ai-ran-alliance</link><description>:::small
-画像の出典：SoftBank ・NVIDIA
-:::
-
-2024年2月14日、携帯電話の基地局にAIを搭載しデータ処理を分散させる技術の実用化に向け、ソフトバンクと米国NVIDIAが新たな業界団体「AI-RANアライアンス」を設立することが明らかになったと、{target=“_blank”}や{target=“_blank”}が報じた。
-
-この技術は、通信量が特定の基地局に集中するのを防ぎ、基地局の電力削減にもつながることが期待される。AI-RANアライアンスには、エリクソン、ノキアを含む世界約10社が参加予定で、団体はAIを活用した基地局技術の世界標準化を目指すとのこと。
-
-両社は2023年の中期経営計画で、AIを基地局に搭載する構想を{target=“_blank”}しており、業界団体設立を通じて新技術の実用化と競争力強化を図る。この技術により、大規模なデータセンターを介さずにAI処理を行い、スマートフォンで高度なAIサービスを提供可能になるとされている。また、AI機能による複数基地局の自動制御は、通話や通信の集中によるつながりにくさを解消する効果も期待される。ソフトバンクが全国に展開する約20万か所の基地局に新たな活用方法がもたらされることになる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 18 Feb 2024 11:28:25 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Tue, 20 Feb 2024 10:36:41 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
