@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 25 Feb 2024 06:51:50 +0000</lastBuildDate><item><title>2024年選挙でのAI不正使用対策協定に世界の主要テック企業20社が署名　ミュンヘン安全保障会議</title><link>https://ledge.ai/articles/tech_accord_to_combat_deceptive_use_of_ai_in_2024elections</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 25 Feb 2024 07:00:55 +0000</lastBuildDate><item><title>NTT、次世代通信基盤「IOWN」活用により郊外型データセンターでリアルタイムにAI分析する技術を開発</title><link>https://ledge.ai/articles/ntt_iown_suburban_data_center</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年2月20日、日本電信電話株式会社（以下、NTT）は、次世代通信基盤技術「IOWN（アイオン）」を活用した、大規模センサーデータのリアルタイムAI分析技術の開発と、その実証実験結果を{target=“_blank”}した。郊外型データセンターでの映像データ等の大規模センサーデータをリアルタイムにAI分析することを可能にし、2026年の商用化を目指すという。
+
+NTTは、Red Hat、NVIDIA、富士通との協力の下、IOWNのオールフォトニクス・ネットワーク（APN）およびデータセントリック基盤（DCI）を利用したデータ処理の高速化技術を開発。実証実験では、従来のデータ処理方式と比較して、遅延時間を最大60%削減、消費電力を最大40%削減する成果を確認した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この技術は、郊外型データセンターが持つ再生可能エネルギー活用の可能性と組み合わせ、環境に優しいAI分析基盤としても注目されている。さらに、センサ設置拠点近傍でのリアルタイムAI分析により、維持管理コストの削減やAIモデルの迅速な更新が可能になり、大規模データのリアルタイム分析による新たな価値創造が期待されるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+NTTは、今後も光電融合技術を組み合わせた電力効率の向上を図り、2025年大阪・関西万博のNTTパビリオンへの技術適用を含め、カーボンニュートラル実現に向けた取り組みを予定しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Sun, 25 Feb 2024 07:00:55 +0000</pubDate></item><item><title>2024年選挙でのAI不正使用対策協定に世界の主要テック企業20社が署名　ミュンヘン安全保障会議</title><link>https://ledge.ai/articles/tech_accord_to_combat_deceptive_use_of_ai_in_2024elections</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -271,36 +303,7 @@ Slack AI は、企業向け有料プランのアドオンとして現在は英�
 :::box
 
 :::
-</description><pubDate>Sun, 18 Feb 2024 11:28:25 +0000</pubDate></item><item><title>OpenAI　ChatGPTが以前の指示や会話を記憶する「Memory」機能の試験運用開始　オン・オフはユーザーが切り替え
-</title><link>https://ledge.ai/articles/chatgpt_memory_test</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国OpenAIは2024年2月13日、ChatGPTが過去の会話を記憶し、その後のチャットをより役立つものにする新機能「Memory」のテストを開始したことを{target=“_blank”}した。
-
-Memory機能で、ユーザーは同じ情報を繰り返し入力する必要がなくなり、より有益な会話が可能になるという。Memoryは、使用すればするほど向上し、時間の経過とともに改善されていくという。
-
-例えば、会議の要約を指示するときに、見出し・ポイントの箇条書き・まとめといったフォーマットで出力するよう要求すると、それを記憶し、以降の会議に反映させる。あるいは、自分の子供がクラゲが好きだと説明したことを覚えていて、子供の誕生日カードを作る際にクラゲのデザインを提案するなど。
-
-ユーザーはChatGPTに何かを覚えてもらうよう指示することも、何を覚えているか尋ねることも、会話や設定を通じて忘れさせることもできる。また、この機能を完全にオフにすることも可能。
-設定は、画面左下のアカウント名→［設定］→［Personalization］→［Memory］で行う。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-また、GPTにも独自のMemory機能を導入する予定で、各GPTがユーザーの好みや過去のやり取りを記憶し、よりパーソナライズされたサービスを提供可能になるとのこと。例えば「Books」GPTは、ユーザーの好きなジャンルや書籍を記憶し、再入力なしにカスタマイズされたレコメンドを行うという。
-
-これらの機能は、ChatGPTの無料版とPlusユーザーの一部に対して段階的に導入され、その有用性に関するフィードバックを収集した後、より広範な展開を予定しているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 18 Feb 2024 11:26:14 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Sun, 18 Feb 2024 11:28:25 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
