@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 26 Feb 2024 05:11:53 +0000</lastBuildDate><item><title>AIチャットボット「PKSHA Chatbot」常陽銀行で顧客質問自動応答の運用開始</title><link>https://ledge.ai/articles/paksha_chatbot_joyobank</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 26 Feb 2024 05:11:53 +0000</lastBuildDate><item><title>イケア・ジャパン、AIデジタルホームデザインツール「IKEA Kreativ」を導入</title><link>https://ledge.ai/articles/ikea_japan_kreativ</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+イケア・ジャパンは2024年2月27日、AIを駆使した新たなデジタルホームデザインツール「IKEA Kreativ（イケア クリアティーヴ）」の提供を{target=“_blank”}。このサービスは、IKEAアプリ利用者向けに提供され、イケアのウェブサイトでも利用可能となる。
+
+「IKEA Kreativ」は、ユーザーが自宅の部屋をスキャンし、そのデータを基にしてイケアの家具やアイテムを配置することで、自分だけの理想の空間をデザインできるツールである。iOSおよびAndroidデバイスに対応し、空間のスキャン機能はIKEAアプリでのみ使用可能だが、取り込んだ空間のデータはパソコンを通じてもデザイン作業が行える。
+
+このアプリでユーザーは自分の部屋のリアルで正確な3Dレプリカを手軽に作成し、イケアの商品カタログから選んだアイテムをデジタル空間内で自由に配置できる。さらに50以上のショールームを元にデザインする機能も備え、既存のデザインを基に自分だけのショールームを作り出せるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+デザインした理想の空間は、後で見返すためにアカウントに保存できるほか、家族や友人との共有も簡単に行える。また、選択した商品のオンラインでの購入や、実店舗での購入が可能で、ユーザーはより自分らしい空間を実現できる。
+
+イケアは、オムニチャネル・リテーラーとして、テクノロジーを活用した新しいショッピング体験を提案し続けており、「IKEA Kreativ」の導入により、ユーザーにとってより機能的で自分らしい空間のデザインと実現をサポートするとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 26 Feb 2024 03:31:21 +0000</pubDate></item><item><title>AIチャットボット「PKSHA Chatbot」常陽銀行で顧客質問自動応答の運用開始</title><link>https://ledge.ai/articles/paksha_chatbot_joyobank</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -272,30 +299,7 @@ OpenAIは2024年2月14日に、国家によるサイバー脅威アクターに�
 :::box
 
 :::
-</description><pubDate>Wed, 21 Feb 2024 05:48:50 +0000</pubDate></item><item><title>NVIDIAが無料のチャットボットAI「Chat With RTX」をリリース、GeForce RTX GPU搭載PCで利用可能</title><link>https://ledge.ai/articles/nvidia_chat_with_rtx</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAは2024年2月13日、GeForce RTX GPUを搭載したPCで動作する無料のチャットボットAI「Chat With RTX」を{target=“_blank”}した。
-
-現在無料でダウンロードできるChat with RTXは、ユーザーが独自のコンテンツでチャットボットをパーソナライズできる技術デモで、GeForce RTX 30シリーズGPU以上、最低8GBのビデオRAMを備えたPCで高速化するという。
-
-@
-
-
-Chat With RTXは、ローカルファイルをデータセットとして接続し、迅速かつ文脈に即した回答を提供する。このツールは、クラウドベースのLLMサービスに依存せず、ユーザーのデータをデバイス上に保持しながら、ローカルPCで機密データを処理できる​​という。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 21 Feb 2024 05:36:52 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Wed, 21 Feb 2024 05:48:50 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
