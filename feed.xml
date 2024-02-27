@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 26 Feb 2024 05:11:53 +0000</lastBuildDate><item><title>Stability AI　画像内でのアルファベット表記を可能にする「Stable Diffusion3」発表</title><link>https://ledge.ai/articles/stable_diffusion3</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 26 Feb 2024 05:11:53 +0000</lastBuildDate><item><title>AIチャットボット「PKSHA Chatbot」常陽銀行で顧客質問自動応答の運用開始</title><link>https://ledge.ai/articles/paksha_chatbot_joyobank</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+PKSHA Technologyのグループ会社であるPKSHA Workplaceは2024年2月19日、常陽銀行と協力し、深層学習と自然言語処理技術（NLP）を駆使した対話エンジン「PKSHA Chatbot」の運用を2024年2月に開始したことを{target=“_blank”}した。
+
+常陽銀行のウェブサイト上で24時間365日、顧客の質問に自動で回答できる体制を整えることで、顧客サービスの向上と運用効率の改善を実現している。顧客はFAQページで自ら解答を探し出す必要がなくなり、より直感的に情報を得られるようになる。茨城県を主な営業地盤とする常陽銀行では、2024年1月に経済産業省から「DX認定事業者」に認定されるなど、デジタル導入が加速しているという。
+
+PKSHA Workplaceは、今後もチャットボットの表示場所を増やし、問い合わせ対応の効率化と顧客満足度のさらなる向上を目指すとのこと。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 26 Feb 2024 03:20:10 +0000</pubDate></item><item><title>Stability AI　画像内でのアルファベット表記を可能にする「Stable Diffusion3」発表</title><link>https://ledge.ai/articles/stable_diffusion3</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -276,44 +295,7 @@ Chat With RTXは、ローカルファイルをデータセットとして接続�
 :::box
 
 :::
-</description><pubDate>Wed, 21 Feb 2024 05:36:52 +0000</pubDate></item><item><title>Slack が AIを導入。蓄積されたコミュニケーションの履歴から必要な情報を検索し要約する</title><link>https://ledge.ai/articles/salesforce_slack_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Sales Force 傘下のSlackは2024年2月14日、「Slack AI」の提供開始を{target=“_blank”}した。
-
-Slack AIは、これまでにSlackが築き上げたコミュニケーションの履歴を活用し、必要な情報を見つける手助けをする。特に「回答の検索」機能において力を発揮し、質問に対して個別にカスタマイズされた回答が即座に提供されるという。
-
-パイロット運用中に内部で行った分析から、SpotOn、Uber、Anthropic といったユーザー企業では、Slack AI を使って回答を検索し、ナレッジを抽出し、アイデアを発想することで、ユーザー 1 人あたり毎週平均で 97 分の時間を節約できることが明らかになったとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-新たなAI機能は、ユーザーが仕事の日程に即して情報を得られるよう設計され、検索回答、チャンネルの要約、スレッドの要約など、直感的で安全、信頼性の高いAI体験を提供するという。
-
-例：AIに未読の会話を要約させてキャッチアップ
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社は、これらがSlackの安全な基盤上で構築され、Slack がユーザー企業のデータを、大規模言語モデル（LLM）プロバイダと共有したり、LLM のトレーニングに使用したりすることはないと明言した。データの完全なコントロールをユーザーに保証するとのこと。
-
-Slack AI は、企業向け有料プランのアドオンとして現在は英語でのサポートを提供している。日本語向けには4月からのサービス適用開始を予定。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 20 Feb 2024 10:36:41 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Wed, 21 Feb 2024 05:36:52 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
