@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 26 Feb 2024 05:11:53 +0000</lastBuildDate><item><title>イケア・ジャパン、AIデジタルホームデザインツール「IKEA Kreativ」を導入</title><link>https://ledge.ai/articles/ikea_japan_kreativ</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 27 Feb 2024 04:59:38 +0000</lastBuildDate><item><title>Googleが AI機能を統合させた「Gemini for Workspace」と軽量で商用利用可能なモデル「Gemma」を発表</title><link>https://ledge.ai/articles/google_gemini_for_google_space</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Googleは2024年2月21日、同社の生成AI技術「Gemini」が「Google Workspace」に統合されたことを{target=“_blank”}した。
+
+この更新により「Duet AI for Google Workspace」が「Gemini for Google Workspace」となり、既存の「Duet AI for Workspace」のユーザーは自動的に「Gemini Enterprise」へ移行する。
+
+また、新たに導入される「Gemini Business」プランでは、月額20ドル（年間契約時）で、ドキュメント作成支援やメール作成、スプレッドシートでのスマートフィル強化、スライドでの画像生成など、Geminiの提供する多彩な機能にアクセスできる。「Gemini Enterprise」プランは、より多くの使用量とAIによる会議支援などの追加機能を月額30ドル（年間契約時）で提供するとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+## 「Gemma」軽量でオープンかつ商用利用可能なモデル
+同じ日、軽量でオープンなAIモデル「{target=“_blank”}」が発表された。「Gemini」と同じ研究や技術をもとに構築されており、軽量でありながら最先端の性能を持つことが特徴だという。Gemmaは、Google DeepMindおよびGoogleの他のチームによって開発され、Geminiに触発されたもので、「貴重な石」を意味するラテン語から名付けられた​​​​。利用規約では、規模に関係なく、すべての組織に対して責任ある商用利用と配布を許可するとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Gemmaは、2Bおよび7Bの2つのサイズで提供され、各サイズは事前学習済みのバージョン、インストラクション・チューニングされたバージョンが用意されている。Googleは、開発者がGemmaを利用してAIアプリケーション開発を行えるよう、JAX、PyTorch、TensorFlowを含むすべての主要なフレームワークを通じた推論と教師ありファインチューニング（SFT）のためのツールチェーンを提供している​​​​という。
+
+NVIDIAとの協力により、GemmaはNVIDIAのAIプラットフォーム全体で最適化されており、NVIDIA GPUを搭載したデータセンター、クラウド、ワークステーションでの大規模言語モデル推論の高速化が可能になっているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 27 Feb 2024 04:59:38 +0000</pubDate></item><item><title>イケア・ジャパン、AIデジタルホームデザインツール「IKEA Kreativ」を導入</title><link>https://ledge.ai/articles/ikea_japan_kreativ</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -273,33 +308,7 @@ NECは2024年2月8日、米国国立標準技術研究所（NIST）が実施し�
 :::box
 
 :::
-</description><pubDate>Thu, 22 Feb 2024 07:25:18 +0000</pubDate></item><item><title>Googleが新たなセキュリティ強化策「AIサイバーディフェンスイニシアチブ」を発表</title><link>https://ledge.ai/articles/google_ai_cyber_defense_initiative</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleは2023年2月16日、AIを活用してサイバーセキュリティ防御を強化する新たな取り組み「AIサイバーディフェンスイニシアチブ」を{target=“_blank”}した。
-
-セキュリティの専門家がAIを用いて脅威の検知、マルウェア分析、脆弱性の検出、そしてインシデント対応の業務を大規模にかつ効率的に実行できるようにすることを目的としている。デジタル防御におけるAIの進歩を深く理解すること、脅威に対して強固な大規模言語モデルの開発、コード検証の強化を目指す。
-
-サイバーセキュリティ研究イニシアチブの強化と共に、Google AI を活用したファイル タイプ識別システム{target=“_blank”}のオープンソース化に200 万ドルを投入することも明らかにした。Magikaはファイルタイプ識別を用いてマルウェアを検出することを支援し、セキュリティディフェンダーへの支援を提供する。
-
-このイニシアチブは、攻撃者がたった１つの弱点を見つけるだけで良いのに対し、防御側が全ての脅威に対して完璧な対策を施さなければならないという、従来の「防御側のジレンマ」を逆転させることが可能になる。AI技術の導入により、セキュリティ専門家は脅威をより迅速かつ効率的に識別し、対処することが可能となり、セキュリティ対策のスピードと精度を向上させることができる。
-
-Googleはこの他「AI for Cyber​​security」スタートアップコホートを立ち上げ、欧州全域のサイバーセキュリティスキル向上のための1500万ドルのコミットメントを拡大し、安全でAI 対応のグローバル データ センター ネットワークへの投資を継続すると{target=“_blank”}。2024 年末までに、当社はヨーロッパのデータセンターに 50 億ドル以上を投資し、Vertex AI プラットフォームのような広範な生成 AI 機能を含む、さまざまなデジタル サービスへの安全で信頼性の高いアクセスのサポートを支援するとのこと。
-
-OpenAIは2024年2月14日に、国家によるサイバー脅威アクターによるAIの悪用を防ぐ取り組みを{target=“_blank”}し、ロシアや中国を含む国家関連のアカウントの活動を中断させた。Microsoft Threat Intelligenceとのパートナーシップを通じて、悪意あるAIサービスの使用を試みるアクターの特定と阻止を目指すとした。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 21 Feb 2024 05:48:50 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Thu, 22 Feb 2024 07:25:18 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
