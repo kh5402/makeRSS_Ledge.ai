@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 27 Feb 2024 05:09:34 +0000</lastBuildDate><item><title>TSMC、日本初となる熊本の新工場「JASM」の開所式で「日本の半導体製造のルネサンスの始まりと信じる」</title><link>https://ledge.ai/articles/tsmc_celebrates_the_opening_of_jasm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 27 Feb 2024 05:09:34 +0000</lastBuildDate><item><title>成田国際空港の第3ターミナルでAIを活用した手荷物管理の高度化を目指す実証実験を開始</title><link>https://ledge.ai/articles/narita_automagi_baggage_imaging</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+成田国際空港は2024年2月16日、AIによる画像解析技術を有するAutomagi株式会社と共同で、手荷物管理の高度化を目的とした実証実験を開始することを{target=“_blank”}した。
+
+この実験は、手荷物の仕分け作業の効率化と紛失・遅延の抑制を目指している。特に、バーコード読み取りに失敗した場合の手荷物識別にAIを活用し、手荷物の追跡と管理を向上させることが目標だという。成田空港は、オープンイノベーションを通じて、引き続きサービスの質の向上と最新技術の導入を進める計画だ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+手荷物が誤って他の航空機に積み込まれたり、紛失するロストバゲージの事例を減少させるための試みとして、この実証実験は注目を集めているとのこと。成田空港の第3ターミナルで行われ、手荷物を画像で識別し、バーコード情報と連携させるシステムの構築を目指すという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 26 Feb 2024 03:23:05 +0000</pubDate></item><item><title>TSMC、日本初となる熊本の新工場「JASM」の開所式で「日本の半導体製造のルネサンスの始まりと信じる」</title><link>https://ledge.ai/articles/tsmc_celebrates_the_opening_of_jasm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -284,32 +306,7 @@ aiboとの関係を社会でより持続可能にすることを目的に、高�
 :::box
 
 :::
-</description><pubDate>Fri, 23 Feb 2024 08:25:30 +0000</pubDate></item><item><title>OpenAIのChatGPTに対するコメディアン、作家らの著作権侵害訴訟で一部主張が棄却</title><link>https://ledge.ai/articles/openai_gets_partial_win_authors_us_copyright_lawsuit</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-{target=“_blank”}は2024年2月12日、OpenAIに対する著作権侵害訴訟において、被告OpenAIの一部主張は棄却したものの、一部を認める決定を下したと{target=“_blank”}など複数メディアが報じた。
-
-{target=“_blank”}は2023年7月7日、米国のコメディアン、サラ・シルバーマンら3人がMetaとOpenAIに対し、自身のコンテンツが許可なく対話型AIの訓練に使用されたとして、損害賠償を求める集団訴訟を起こしたというもの。
-
-原告代理人のJoseph Saveri法律事務所は、ChatGPTが特許で保護されている書籍からテキストを生成していること、OpenAIがこれらの著作物を使用するための許可を取得せず、著作権者に報酬を支払っていないことを主張した。同事務所は6月28日に同様の主張で2人の作家の訴えをもとにOpenAIに対する訴訟を起こした。
-
-原告はOpenAIが自社の言語モデルの訓練に彼らの著作権で保護された書籍を使用したと主張。この訴訟は、著作権侵害、DMCA違反、不正競争、過失、不当利得など複数の訴因で提起されている。裁判所は、直接の著作権侵害に関する訴えは継続させる一方で、その他の訴因については原告に修正訴状の提出を認める形で一部の主張を棄却した。
-
-著者たちは、裁判所が棄却した主張について修正された訴状を3月13日までに提出する許可を得ている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 23 Feb 2024 07:00:03 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+</description><pubDate>Fri, 23 Feb 2024 08:25:30 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
