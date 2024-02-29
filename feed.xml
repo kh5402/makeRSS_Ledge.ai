@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 28 Feb 2024 05:57:46 +0000</lastBuildDate><item><title>電通の新サービス「AIQQQ STUDIO」提供開始　AI×クリエイティブで事業・サービス開発を支援</title><link>https://ledge.ai/articles/dentsu_aiqqq</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 28 Feb 2024 06:00:55 +0000</lastBuildDate><item><title>Adobe、生成AI搭載「Acrobat Reader」と「Acrobat」のAI Assistantベータ版を提供開始</title><link>https://ledge.ai/articles/adobe_acrobat_ai_assistant</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Adobeは現地時間の2024年2月20日、生成AIに対応した「Acrobat Reader」と「Acrobat」に新たに統合される対話型エンジン「AI Assistant」のベータ版（英語）を提供開始したことを{target=“_blank”}した。
+
+PDFドキュメントからの即時要約生成、質問への回答、さらには電子メール、プレゼンテーション、レポートなど、様々な利用目的に応じた文章の作成と共有を可能にする。現在のサービス提供は英語版のみであり、他言語版の提供時期は未定とのこと。
+
+AI Assistantは、直感的な対話型インターフェースを通じ、PDFの内容に関する質問を提案し、ユーザーの質問に対して回答する機能を持つ。この技術は、長文ドキュメントの迅速な理解を促進する読みやすい書式と手短な概要の作成を可能にし、独自AIによる引用生成を通じて情報ソースの確認を容易にする。また、クリック可能なリンクの埋め込みにより、必要なドキュメント部分を素早く見つけることができる。
+
+@
+同機能は、PDFに限らず「Word」や「PowerPoint」、会議の議事録など様々なドキュメント形式で使用可能で、AI Assistantのベータ版提供終了後は、新しいアドオンサブスクリプションプランを通じて全機能にアクセス可能になる予定だという。
+
+AI Assistantの開発は、モバイル向けAcrobat Readerの「Liquid Mode」と同じAIと機械学習モデルを活用し、PDFの構造と内容の深い理解を基に行われている。アドビは、生成AIを利用したデジタルドキュメントの価値再考を目指し、今後も多様なドキュメントタイプへの適用や、AIによるオーサリング機能の提供などを計画しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Wed, 28 Feb 2024 06:00:55 +0000</pubDate></item><item><title>電通の新サービス「AIQQQ STUDIO」提供開始　AI×クリエイティブで事業・サービス開発を支援</title><link>https://ledge.ai/articles/dentsu_aiqqq</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -286,31 +313,7 @@ AI生成コンテンツによる選挙プロセスへの干渉を阻止するこ
 :::box
 
 :::
-</description><pubDate>Sat, 24 Feb 2024 11:17:58 +0000</pubDate></item><item><title>OpenAIの評価額が800億ドルに到達　「Sora」開発で生成AIへの投資ブームを牽引</title><link>https://ledge.ai/articles/valuation_of_openai_reaches_80billion</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-OpenAIの評価額が、最新の取引により800億ドル（約12兆円）に到達したと2024年2月16日に{target=“_blank”}が報じた。この取引は、Thrive Capitalを含むベンチャーキャピタルによるテンダーオファー（株式公開買い付け）を通じて実施された。{target=“_blank”}同社は資金調達ラウンドで3億ドルを調達し、評価額が270億〜290億ドルに増加したことが報じられており、わずか10カ月でその額がほぼ3倍に増加したことになる。
-
-従業員はこの取引を通じて、保有する株式を現金化する機会を得た。これは、新たな資金を調達する伝統的な方法とは異なり、既存の株主が株式を売却する形式だ。
-
-2月15日に同社は新たに動画生成AI「Sora」の開発を発表し、世間を賑わせた。評価額の増加は、AI技術への投資家の関心の高まりを象徴するもので、特に生成AI技術がテキスト、音声、画像を自律的に生成する能力への期待が大きいと見て取れる。ChatGPTのリリース以降、OpenAIが、生成AI分野への資金提供ブームを牽引し続けている​​。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 23 Feb 2024 08:28:02 +0000</pubDate></item><item><title>JDLAが「生成AIの利用ガイドライン（画像編）」を公開</title><link>https://ledge.ai/articles/jdla_guideline_for_image_generating_ai</link><description>:::small
+</description><pubDate>Sat, 24 Feb 2024 11:17:58 +0000</pubDate></item><item><title>JDLAが「生成AIの利用ガイドライン（画像編）」を公開</title><link>https://ledge.ai/articles/jdla_guideline_for_image_generating_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
