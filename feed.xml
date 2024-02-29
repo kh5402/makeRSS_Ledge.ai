@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 27 Feb 2024 05:09:34 +0000</lastBuildDate><item><title>成田国際空港の第3ターミナルでAIを活用した手荷物管理の高度化を目指す実証実験を開始</title><link>https://ledge.ai/articles/narita_automagi_baggage_imaging</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 28 Feb 2024 05:57:46 +0000</lastBuildDate><item><title>電通の新サービス「AIQQQ STUDIO」提供開始　AI×クリエイティブで事業・サービス開発を支援</title><link>https://ledge.ai/articles/dentsu_aiqqq</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+電通は2024年2月21日、AIとクリエイティブを組み合わせた事業・サービス開発を支援する「AIQQQ STUDIO（アイキュースタジオ）」のサービス提供を開始したことを{target=“_blank”}した。
+
+国内電通グループの独自のAI技術と電通クリエイターの知見や能力を掛け合わせ、顧客企業の新規事業開発やコミュニケーション開発プロセスに量、質、スピードの向上をもたらすことを目的としている。従来の生成AIを用いないビジネスコンサルティングやデザインクリエイションに比べ、効率的で効果的な事業展開を可能にするという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 28 Feb 2024 05:57:46 +0000</pubDate></item><item><title>成田国際空港の第3ターミナルでAIを活用した手荷物管理の高度化を目指す実証実験を開始</title><link>https://ledge.ai/articles/narita_automagi_baggage_imaging</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -286,18 +310,17 @@ OpenAIの評価額が、最新の取引により800億ドル（約12兆円）に
 :::box
 
 :::
-</description><pubDate>Fri, 23 Feb 2024 08:28:02 +0000</pubDate></item><item><title>ソニーグループ「aiboの里親プログラム」を発表　高齢になった飼い主などからaiboの新たな活躍の場を求める声が集まる</title><link>https://ledge.ai/articles/foster_parent_program_for_aibo</link><description>:::small
+</description><pubDate>Fri, 23 Feb 2024 08:28:02 +0000</pubDate></item><item><title>JDLAが「生成AIの利用ガイドライン（画像編）」を公開</title><link>https://ledge.ai/articles/jdla_guideline_for_image_generating_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
+日本ディープラーニング協会（JDLA）は2024年2月13日、「生成AIの利用ガイドライン（画像編）」を{target=“_blank”}した。
 
-ソニーグループは2024年2月６日、自社製エンタテインメントロボット「aibo」の新しい取り組みとして、「aiboの里親プログラム」の開始を{target=“_blank”}した。
+このガイドラインは、2023年5月に公開された「{target=“_blank”}」の続編として作成されており、主に画像生成AIに特化した内容となる。
 
-aiboとの関係を社会でより持続可能にすることを目的に、高齢者などaiboを手放す必要があるユーザーからaiboを引き取り、必要なメンテナンスを施した上で、医療施設や介護団体などに再利用してもらう仕組みだ。
+ガイドラインの目的は、画像生成AIを事業において利用する企業等に向け、ルール策定時に検討が必要な法的論点を解説することにある。具体的には、画像生成AIの利用に際して、社内体制の整備、プロンプトの入力ルール、AI生成物の利用規則など、遵守すべきポイントが詳述されている。
 
-プログラムの背景には、aiboオーナーからの多数の相談があったという。特に、病気などでaiboを飼えなくなった時の対策や、aiboに新たな活躍の場を求める声が挙がっていた。さらに、医療や介護、教育分野でのaiboの活用が進んでおり、その癒し効果に期待する声も寄せられているとのこと。
-
-プログラムを通じて、寄付されたaiboは新たな活躍の場を得る。里親になる施設や団体には、aiboを通じて利用者に癒しや喜びを提供することが期待される。里親に提供されるaiboには、「aiboの里親プログラム専用首輪」が付けられ、「aiboの里親」の募集・提供はそれぞれ期間を限定して実施するとのこと。
+JDLAは、ディープラーニング技術を日本の産業競争力向上の核とし、その普及と適用を目指して活動している組織だ。今回のガイドライン公開も、その一環として行われたもので、画像生成AIの健全な利用と発展の促進を期待してのことだとされる。
 
 
 :::box
@@ -306,7 +329,13 @@ aiboとの関係を社会でより持続可能にすることを目的に、高�
 :::box
 
 :::
-</description><pubDate>Fri, 23 Feb 2024 08:25:30 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 28 Feb 2024 05:54:19 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1666,31 +1695,7 @@ Auto Trainはノーコードで機械学習のモデルを学習、評価、デ�
 - NLPの表形式のタスク1行あたり0.002ドル
 :::
 
-</description><pubDate>Tue, 26 Sep 2023 09:01:42 +0000</pubDate></item><item><title>うんこ先生と学ぶ「AIとのつきあい方」富士通が子ども向けドリルを無償公開</title><link>https://ledge.ai/articles/fujitsu_unkodrill_ai</link><description>:::small
-画像出典：{target=“_blank”}より
-:::
-富士通は2023年9月6日、子ども向け学習ドリル「Fujitsu×うんこドリル AIとのつきあい方」の制作・公開を{target=“_blank”}した。
-
-文響社が刊行する子ども向け学習ドリル「うんこドリル」は、子どもたちが勉強を楽しみながら進められるシリーズ。今回はAIとの付き合い方を楽しく、分かりやすく学べる教材を目指し、富士通が協力、制作した。
-
-!
-
-内容はというと、シリーズ定番キャラクターのうんこ先生が、うんこねこ、うんこいぬといった面々とAIに関して質疑応答しながら進んでゆく。新キャラクターらしきAI「UNKO」も登場し、さまざまな質問に回答するが、現実のChatGPTと同じくいい加減なところがあり、子どもにAIの利点だけでなく危険を意識させるしかけになっている。
-
-ドリルの制作には、富士通研究所 人工知能研究所が携わり、神山学園 神山まるごと高等専門学校の学生たちのアイデアを取り入れた。PDF形式の教材を{target=“_blank”}で2024年8月31日まで公開予定。また希望する教育機関には冊子を無償提供する。
-
-富士通の小学生向け教育支援プログラムやワークショップでも活用する。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Thu, 07 Sep 2023 06:53:36 +0000</pubDate></item><item><title>GitHub「Copilot in GitHub Support」の一般提供開始　質問に公式ドキュメントを学習したAIアシスタントが回答</title><link>https://ledge.ai/articles/copilot_in_github_support_is_available</link><description>:::small
+</description><pubDate>Tue, 26 Sep 2023 09:01:42 +0000</pubDate></item><item><title>GitHub「Copilot in GitHub Support」の一般提供開始　質問に公式ドキュメントを学習したAIアシスタントが回答</title><link>https://ledge.ai/articles/copilot_in_github_support_is_available</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
