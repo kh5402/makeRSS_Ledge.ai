@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 28 Feb 2024 06:00:55 +0000</lastBuildDate><item><title>Adobe、生成AI搭載「Acrobat Reader」と「Acrobat」のAI Assistantベータ版を提供開始</title><link>https://ledge.ai/articles/adobe_acrobat_ai_assistant</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 29 Feb 2024 03:29:48 +0000</lastBuildDate><item><title>GoogleとRedditが提携拡大　RedditのデータをAIの学習に活用可能</title><link>https://ledge.ai/articles/reddit_and_google_expand_partnership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年2月22日、米国のGoogleとRedditは、提携を拡大したことを{target=“_blank”}した。
+
+この新たな提携により、GoogleはReddit Data APIを通じて、Reddit上のリアルタイムコンテンツにアクセス可能となり、AIトレーニングに活用することができるようになる。一方、RedditはGoogleの機械学習プラットフォーム「Vertex AI」を用いることで、同プラットフォームの検索機能強化などを図るという。GoogleによるAI技術の進化とRedditプラットフォームの機能向上が主な目的となる。
+
+Redditから得られる豊富なデータを基に、Googleはより高度なAIモデルの開発を目指す。一方Redditは、Googleの先端技術を活用し、ユーザーが求める情報へのアクセス性を高め、ユーザー体験の向上を図る計画だという。
+
+今回の提携拡大は、AI技術の発展という共通の目標に向けた重要な一歩であり、両社の長期的な成長戦略にも寄与するものと見られる。Redditのリアルタイムデータの活用は、AI技術の精度向上に貢献し、Googleの「Vertex AI」の技術をRedditが利用することで、検索機能の精度と速度の向上が期待される。
+
+この提携発表ののちRedditは、米証券取引委員会に新規株式公開（IPO）の目論見書を公開で{target=“_blank”}した。ニューヨーク証券取引所（NYSE）に上場する予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 29 Feb 2024 03:29:48 +0000</pubDate></item><item><title>Adobe、生成AI搭載「Acrobat Reader」と「Acrobat」のAI Assistantベータ版を提供開始</title><link>https://ledge.ai/articles/adobe_acrobat_ai_assistant</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -285,35 +306,7 @@ AI生成コンテンツによる選挙プロセスへの干渉を阻止するこ
 :::box
 
 :::
-</description><pubDate>Sat, 24 Feb 2024 11:20:56 +0000</pubDate></item><item><title>AI補聴器「ジェネシス」発表。脳の聴覚機能を代替し、毎時8000万回の音声自動分析・調整でより自然な音声を再現ー2/26発売開始</title><link>https://ledge.ai/articles/genesis_ai_starkeyjp</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-スターキージャパンは2024年2月9日に、新世代のAI補聴器「Genesis AI」シリーズを{target=“_blank”}した。製品は2024年2月26日から販売される​​。
-
-開発期間は5年に及び、脳神経科学に基づいた新しいアプローチが採用された。ジェネシスは、業界最先端の半導体プロセッサーとAI技術を搭載し、脳の聴覚機能を模倣することで、ユーザーに最適な聞こえを提供する。
-
-搭載されたニューロ・プロセッサは、チップに搭載されたディープ・ニューラル・ネットワーク（DNN）加速回路と自動機能により、脳の聴覚機能を模倣し代替する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-従来の補聴器と比較して、トランジスタを6倍、処理スピードを4倍に強化し、DNNのノイズ低減アルゴリズムを初めて補聴器に搭載。これにより、毎時8000万回の音声の自動分析・調整が可能となった。新開発のニューロ・サウンド・テクノロジーにより、AIによる自動調整を行い、人間が本来持つダイナミックレンジに近づけることで音の歪みを抑え、より自然な音を再現するという。
-
-製品ラインナップには充電式および電池式の耳かけ型、耳あな型があり、幅広い難聴レベルに対応している。また、耐水性や耐久性に優れたデザイン、業界最長クラスの電池寿命、健康状態の追跡やユーザー見守り機能など、便利性と安全性を高める機能も備えている。
-
-新しいモバイルアプリ「My Starkey」によりスマートフォンとの連携も強化され、補聴器の機能を完全にコントロールできるようになっている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 24 Feb 2024 11:17:58 +0000</pubDate></item><item><title>JDLAが「生成AIの利用ガイドライン（画像編）」を公開</title><link>https://ledge.ai/articles/jdla_guideline_for_image_generating_ai</link><description>:::small
+</description><pubDate>Sat, 24 Feb 2024 11:20:56 +0000</pubDate></item><item><title>JDLAが「生成AIの利用ガイドライン（画像編）」を公開</title><link>https://ledge.ai/articles/jdla_guideline_for_image_generating_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
