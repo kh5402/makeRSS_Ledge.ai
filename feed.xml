@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Mar 2024 04:48:51 +0000</lastBuildDate><item><title>「ドリームチーム」が発信する ”AIの全て”——NVIDIAの世界最大級のカンファレンス GTC 2024の見どころ紹介</title><link>https://ledge.ai/articles/nvidia-gtc2024-spring-start</link><description>NVIDIAが毎年開催する一大イベント「{target=“_blank”}」が3月18日から21日（米国時間）まで開催される。本稿では、世界中の開発者や技術者が集結する本イベントの見どころを抜粋してお伝えする。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Mar 2024 05:36:22 +0000</lastBuildDate><item><title>音声会話型AIアプリ「Cotomo」リリース　返答速度1秒以内・自然な音声会話で日常会話に特化</title><link>https://ledge.ai/articles/talking_ai_cotomo</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Starley株式会社は2024年2月21日、音声会話型おしゃべりAIアプリ「Cotomo」の提供を開始したことを{target=“_blank”}した。このアプリは、ユーザーとの対話を通じて成長することを特徴とし、日常的な雑談から悩み相談まで、多様な会話シーンに対応する。
+
+@
+
+
+「Cotomo」は、4種類の音声と会話スピードから選択可能であり、AIの名称もユーザーが自由に変更できることから、よりパーソナライズされた会話体験を提供する。さらに、アプリは会話履歴の記録や話題のレコメンド機能も備えている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Starleyの目指すのは、日々のコミュニケーションを充実させ、孤独や孤立感を感じる人々に新たな交流の場を提供すること。同社では、AIとの会話体験を活用した事業の開発を目指し、様々なシーンでの社会実装を進めていく計画だ​​という。
+
+またCotomoは、返答速度の速さと自然な音声会話の実現に注力。1秒以内に返答することでユーザーにストレスを与えず、日常会話に特化した独自の学習データを用いて開発されているとのこと。
+
+リリースを記念して、StarleyはAIボイスプロデュースイベントも開催。参加者はオリジナルAIボイスを作成し、投票によって選ばれた音声は、Cotomoの基本音声として搭載される予定だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 29 Feb 2024 07:29:23 +0000</pubDate></item><item><title>セガトイズ、100匹以上の猫の動きを研究して生まれたリアルなAI猫ロボット「KIMIT ラグドール」を発売</title><link>https://ledge.ai/articles/sega-toys_kimit</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+セガトイズは2024年2月22日、ペットロボットの新ブランド「KIMIT（キミット）」から、リアルな猫を模した「ラグドール」を{target=“_blank”}した。
+
+この製品は、100匹以上の猫の動きをデータ化し、ディープラーニングを活用して開発された。瞳孔の開閉、柔らかな肉球、猫の声、喉から出るゴロゴロ音、心音など、本物の猫の細部にまでこだわり、リアルに再現しているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+セガトイズが2023年11月に実施した「ペット飼育に関するアンケート」では、20～70歳の85.9％が「猫が好きだが飼えていない」と回答。飼育に踏み切れない主な理由として、住環境や資金面などの問題が挙げられたという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社は、ペットを飼いたくても飼えない人々や動物アレルギーを持つ人々に向けて、新たな選択肢を提案している。
+
+期間限定で「KIMIT ラグドール」を体験できるポップアップカフェが二子玉川駅構内にあるNICOTAMA DAYS CAFEで開催されている。期間は2024年2月22日～3月5日。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 01 Mar 2024 05:36:22 +0000</pubDate></item><item><title>「ドリームチーム」が発信する ”AIの全て”——NVIDIAの世界最大級のカンファレンス GTC 2024の見どころ紹介</title><link>https://ledge.ai/articles/nvidia-gtc2024-spring-start</link><description>NVIDIAが毎年開催する一大イベント「{target=“_blank”}」が3月18日から21日（米国時間）まで開催される。本稿では、世界中の開発者や技術者が集結する本イベントの見どころを抜粋してお伝えする。
 
 ## 様々な分野の注目セッションが900以上
 NVIDIAの世界最大級のカンファレンスであるGTC 2024は、現地（サンノゼ コンベンション センター｜アメリカ・サンノゼ）またはオンラインで、30万人以上の参加登録が見込まれている。
@@ -313,56 +383,7 @@ NVIDIAとの協力により、GemmaはNVIDIAのAIプラットフォーム全体�
 
 :::
 
-</description><pubDate>Mon, 26 Feb 2024 03:31:21 +0000</pubDate></item><item><title>AIチャットボット「PKSHA Chatbot」常陽銀行で顧客質問自動応答の運用開始</title><link>https://ledge.ai/articles/paksha_chatbot_joyobank</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-PKSHA Technologyのグループ会社であるPKSHA Workplaceは2024年2月19日、常陽銀行と協力し、深層学習と自然言語処理技術（NLP）を駆使した対話エンジン「PKSHA Chatbot」の運用を2024年2月に開始したことを{target=“_blank”}した。
-
-常陽銀行のウェブサイト上で24時間365日、顧客の質問に自動で回答できる体制を整えることで、顧客サービスの向上と運用効率の改善を実現している。顧客はFAQページで自ら解答を探し出す必要がなくなり、より直感的に情報を得られるようになる。茨城県を主な営業地盤とする常陽銀行では、2024年1月に経済産業省から「DX認定事業者」に認定されるなど、デジタル導入が加速しているという。
-
-PKSHA Workplaceは、今後もチャットボットの表示場所を増やし、問い合わせ対応の効率化と顧客満足度のさらなる向上を目指すとのこと。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 26 Feb 2024 03:20:10 +0000</pubDate></item><item><title>Stability AI　画像内でのアルファベット表記を可能にする「Stable Diffusion3」発表</title><link>https://ledge.ai/articles/stable_diffusion3</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stability AIは2023年2月23日、最新の画像生成モデル「Stable Diffusion 3」の先行プレビューを{target=“_blank”}した。
-
-このモデルは、複数主題のプロンプト応答、画質、スペリング能力の面でパフォーマンス向上を実現しており、特に「画像内アルファベット表記」の可能性を広げているという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stable Diffusion3は、800Mから8Bのパラメータ範囲を提供し、ユーザーのニーズに応じた高品質な画像生成を可能にする。このモデルは、拡散トランスフォーマーアーキテクチャとフローマッチング技術の組み合わせによるもので、近日中に詳細な技術レポートが発表される予定。
-
-同社は安全で責任あるAIの使用を重視し、悪用を防ぐための措置を講じている。モデルのトレーニングからテスト、評価、展開に至るまで、安全性の確保に努めているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 26 Feb 2024 05:11:53 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Mon, 26 Feb 2024 03:31:21 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
