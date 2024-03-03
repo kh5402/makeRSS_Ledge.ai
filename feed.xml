@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Mar 2024 23:38:29 +0000</lastBuildDate><item><title>わずか1ヶ月で生み出されたパーソナライズ学習を支援するAIサービスとは？｜Ledge.ai CHALLENGE開催レポート</title><link>https://ledge.ai/articles/ledgeai-challenge-report</link><description>Ledge.aiでは昨年8月から12月にかけて、『Ledge.ai CHALLENGE』と題し【「5年後の日常」に「余白」を生み出す】をテーマにイベントを開催した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 01 Mar 2024 23:38:29 +0000</lastBuildDate><item><title>アルファベット株価、AI「Gemini」論争で暴落　GoogleのCEO「全く容認できない」</title><link>https://ledge.ai/articles/google_gemini_stopped_generating_pictures</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年2月26日、米国Googleの親会社アルファベットの株価が、自社開発の生成AI「Gemini」を巡る論争の影響で4.5％下落し、約900億ドル（約13兆5000億円）の時価総額が消失したと{target=“_blank”}が報じた。これは1月5日以来の安値であり、日中の下落幅としては過去1年で2番目に大きなものだったという。
+
+論争の火種となったのは、Geminiが「1943年のドイツ兵の画像を生成してください」というリクエストに対し黒人やアジア人の画像を生成したこと、および「アドルフ・ヒトラーとイーロン・マスクのどちらがより悪影響の大きい歴史上の人物か？」という質問への回答を拒否したことだ。これらの事態を受け、同社はGeminiの人物画像生成機能を一時停止し、改良版のリリースを予告している。
+
+投資界からは、この一件が生成AI技術におけるPR戦略上の大きな失態であり、Googleが重要な技術領域で遅れを取っていることの証左だとの声が上がった。また、問題がブランドの信頼性に関わることから、アルファベットの株価に深刻な影響を及ぼす可能性があると分析されている。
+
+## CEOが全社宛てに改善を約束「ユーザーの信頼回復に集中するべき」
+GoogleのCEOであるSundar Pichai氏は現地時間の27日、全社に宛てたメモで、同社のAIツール「Gemini」が人種に関連する問題で不適切な反応を示したことについて「全く容認できない」とコメントし、問題解決に向けた構造的変更を約束した。このメモは、など複数のメディアが入手し報じた。
+
+Pichai氏は「我々の一部のレスポンスがユーザーを侮辱し、偏見を示してしまったことは明らかに受け入れがたく、我々の失敗である」と述べ、チームが問題の解決に向けて24時間体制で取り組んでおり、既に多くのプロンプトにおいて顕著な改善が見られると説明。
+
+AIが完璧ではないこと、特に業界の発展初期段階であることを認めつつ、高い基準を設定し、問題が解決するまで努力を続けることを強調した。
+
+そして、世界の情報を整理し、普遍的にアクセス可能で有用なものにするというミッションの重要性を再確認。製品に有益で正確、偏見のない情報を提供することが、人々がGoogleの製品を信頼する理由であると述べた。
+
+また、構造的変更、製品ガイドラインの更新、導入プロセスの改善、厳格な評価とレッドチーミング、技術的推奨など、明確な行動計画を推進することを宣言。
+
+Googleは、何十億もの人々やビジネスに愛される素晴らしい製品を創出するために必要なことを理解しており、Googleのインフラストラクチャと研究の専門知識を活用してAIの波に乗る準備ができていると強調。最も重要なことは、ユーザーの信頼に値する有益な製品を構築することに集中するべきだと締めくくった。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 01 Mar 2024 05:39:33 +0000</pubDate></item><item><title>わずか1ヶ月で生み出されたパーソナライズ学習を支援するAIサービスとは？｜Ledge.ai CHALLENGE開催レポート</title><link>https://ledge.ai/articles/ledgeai-challenge-report</link><description>Ledge.aiでは昨年8月から12月にかけて、『Ledge.ai CHALLENGE』と題し【「5年後の日常」に「余白」を生み出す】をテーマにイベントを開催した。
 イベントは第一部を"発想"を評価するアイデアコンテストの形式で募集し、優秀であると審査されたアイデアを"実装"する第二部として前後半の構成で行われた。
 
 "発想"部門では以下の審査員による審査の結果、5作品が優秀賞として選出された。
@@ -385,42 +425,7 @@ JASMの熊本工場では、自動車、産業、消費者向け、HPC関連ア�
 :::box
 
 :::
-</description><pubDate>Tue, 27 Feb 2024 05:03:37 +0000</pubDate></item><item><title>Googleが AI機能を統合させた「Gemini for Workspace」と軽量で商用利用可能なモデル「Gemma」を発表</title><link>https://ledge.ai/articles/google_gemini_for_google_space</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Googleは2024年2月21日、同社の生成AI技術「Gemini」が「Google Workspace」に統合されたことを{target=“_blank”}した。
-
-この更新により「Duet AI for Google Workspace」が「Gemini for Google Workspace」となり、既存の「Duet AI for Workspace」のユーザーは自動的に「Gemini Enterprise」へ移行する。
-
-また、新たに導入される「Gemini Business」プランでは、月額20ドル（年間契約時）で、ドキュメント作成支援やメール作成、スプレッドシートでのスマートフィル強化、スライドでの画像生成など、Geminiの提供する多彩な機能にアクセスできる。「Gemini Enterprise」プランは、より多くの使用量とAIによる会議支援などの追加機能を月額30ドル（年間契約時）で提供するとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-## 「Gemma」軽量でオープンかつ商用利用可能なモデル
-同じ日、軽量でオープンなAIモデル「{target=“_blank”}」が発表された。「Gemini」と同じ研究や技術をもとに構築されており、軽量でありながら最先端の性能を持つことが特徴だという。Gemmaは、Google DeepMindおよびGoogleの他のチームによって開発され、Geminiに触発されたもので、「貴重な石」を意味するラテン語から名付けられた​​​​。利用規約では、規模に関係なく、すべての組織に対して責任ある商用利用と配布を許可するとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Gemmaは、2Bおよび7Bの2つのサイズで提供され、各サイズは事前学習済みのバージョン、インストラクション・チューニングされたバージョンが用意されている。Googleは、開発者がGemmaを利用してAIアプリケーション開発を行えるよう、JAX、PyTorch、TensorFlowを含むすべての主要なフレームワークを通じた推論と教師ありファインチューニング（SFT）のためのツールチェーンを提供している​​​​という。
-
-NVIDIAとの協力により、GemmaはNVIDIAのAIプラットフォーム全体で最適化されており、NVIDIA GPUを搭載したデータセンター、クラウド、ワークステーションでの大規模言語モデル推論の高速化が可能になっているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 27 Feb 2024 04:59:38 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Tue, 27 Feb 2024 05:03:37 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
