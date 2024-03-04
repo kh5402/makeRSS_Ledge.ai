@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 03 Mar 2024 08:19:24 +0000</lastBuildDate><item><title>AppleのCEO「生成AIが未来を再定義する」　株主総会でAIへの大規模投資を発表－EV開発中止には触れず</title><link>https://ledge.ai/articles/apple_stopped_ev_developping_and_moving_into_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 03 Mar 2024 08:22:40 +0000</lastBuildDate><item><title>AppleのCEO「生成AIが未来を再定義する」　株主総会でAIへの大規模投資を発表－EV開発中止には触れず</title><link>https://ledge.ai/articles/apple_stopped_ev_developping_and_moving_into_genai</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1924,7 +1924,34 @@ APIを通じて利用できるのは、ChatGPTの中枢である大規模言語�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>LoRAより少ない計算コストと時間で高性能な「DoRA」香港科技大学が生成AIモデルファインチューニングの新手法を発表</title><link>https://ledge.ai/articles/DoRA</link><description>:::small
+:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>NVIDIA　スパコンでも世界ランク9位の処理速度「Eos」を公開</title><link>https://ledge.ai/articles/nvidia_eos</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2024年2月16日、高度な AI ファクトリーを支えるアーキテクチャを垣間見ることができるデータセンター規模の最新スーパーコンピューター「Eos」を初めてビデオで{target=“_blank”}した。
+
+@
+
+
+このシステムは、世界最速のスーパーコンピューター{target=“_blank”}の9位の速度を誇り、AIモデルのトレーニングや複雑なデータ分析に特化して設計されている。Eosは576台のNVIDIA DGX H100システムで構成され、合計18.4エクサフロップスのFP8 AIパフォーマンスを提供する。また、最大400Gb/sのデータ転送速度をサポートするネットワークアーキテクチャを備えており、大規模なAIワークロードの効率的な処理を可能にするとのこと。
+
+暁の門を毎日開いているとされるギリシャ神話の女神にちなんで名付けられた「Eos」は、AI技術の進歩に対する NVIDIA のコミットメントを反映しているという。高度な計算能力と高速データ転送能力により、これまでにないスケールのAIアプリケーション、特にディープラーニングや機械学習の分野でのブレークスルーを目指すと同社は述べた。
+
+EosはAI技術とインフラストラクチャの境界を押し広げる存在であり、先進的な加速コンピューティングとネットワーキング、洗練されたソフトウェア提供物を含む。Eosのアーキテクチャは、AIワークロードが要求する超低レイテンシと高スループットの相互接続性を最適化するために設計されており、AI能力をスケールアップしようとする企業にとって理想的なソリューションだという。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 03 Mar 2024 08:22:40 +0000</pubDate></item><item><title>LoRAより少ない計算コストと時間で高性能な「DoRA」香港科技大学が生成AIモデルファインチューニングの新手法を発表</title><link>https://ledge.ai/articles/DoRA</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2323,50 +2350,7 @@ AlphaGeometryは、ニューラル言語モデルと記号的推論エンジン�
 :::box
 
 :::
-</description><pubDate>Sat, 27 Jan 2024 12:46:16 +0000</pubDate></item><item><title>LLMを最新の大学入試共通テストで比較　GPT-4がTOPも医師国家試験合格の実力にしては若干物足りない？</title><link>https://ledge.ai/articles/llms_took_the_common_test_2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-株式会社LifePromptは2024年1月16日、複数の大規模言語モデル（LLM）に大学入試共通テストを受けさせた結果を同社のnoteで{target=“_blank”}した。受験したのはGPT-4、Google Bard、Claude2の３つのモデルで、それらの性能比較が行われた。
-
-GPT-4は他の２つのモデルをすべての科目で上回り、数学以外の科目では実際の受験者平均点（河合塾予想）を大きく上回った。しかし、数学はどのAIもほとんど得点できず、共通テスト特有の解答形式への対応が課題とされた。また、AI全体として、複数の処理を同時に求められる問題に苦戦している様子が見受けられたという。
-
-GPT-4が他を上回る点について同社は
-・GPT-4の生成AIとしての性能がシンプルに高い
-・他のAIに比べてプロンプトや効果的な活用方法が研究されているため、ポテンシャル発揮率が高かった
-と分析している。
-
-また、数学科目に関してはどのAIもほとんど得点できなかった理由を
-・生成AIの計算スキルが高校数学の範囲を簡単に解けるレベルまで進化していなかった
-・共通テスト数学の特殊な解答形式に対応できなかった
-と説明している。
-
-GPT-4は高い精度で明確な根拠を示して回答し、質問に対して時間をかけて考える傾向があった。一方、Google Bardは会話形式の長文や一部の単語に拒否反応を示す傾向があり、Claude2は自分の見解を強く押し出して回答する特徴があったという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-この試験結果から、現行AIの得意不得意が明確になった。単純な知識問題や読解問題はAIが高い得点を記録したが、複数の処理を同時に求められる問題ではパフォーマンスが低下したとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-それにしても、2023年5月の発表では、GPT-4は過去5年分の医師国家試験に合格する実力があるはずだ。それより簡単なはずの共通テストでこの水準では、正直期待を裏切られた感は否めない。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Jan 2024 12:30:24 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
+</description><pubDate>Sat, 27 Jan 2024 12:46:16 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
