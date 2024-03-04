@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 03 Mar 2024 08:22:40 +0000</lastBuildDate><item><title>AppleのCEO「生成AIが未来を再定義する」　株主総会でAIへの大規模投資を発表－EV開発中止には触れず</title><link>https://ledge.ai/articles/apple_stopped_ev_developping_and_moving_into_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 03 Mar 2024 08:27:08 +0000</lastBuildDate><item><title>AppleのCEO「生成AIが未来を再定義する」　株主総会でAIへの大規模投資を発表－EV開発中止には触れず</title><link>https://ledge.ai/articles/apple_stopped_ev_developping_and_moving_into_genai</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2350,7 +2350,43 @@ AlphaGeometryは、ニューラル言語モデルと記号的推論エンジン�
 :::box
 
 :::
-</description><pubDate>Sat, 27 Jan 2024 12:46:16 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
+</description><pubDate>Sat, 27 Jan 2024 12:46:16 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年2月21日、NTT東日本グループ、ESRIジャパン株式会社、NTT西日本グループは、令和6年能登半島地震で大きな被害を受けた石川県珠洲市で、ドローンや360度カメラを用いた住家被害認定調査と、遠隔地からの被害判定支援を行ったことを{target=“_blank”}した。この活動は内閣府、石川県、珠洲市と連携し、応援自治体である熊本市・浜松市も参加して実施された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この取り組みの目的は、人の立ち入りが困難な地区での効率的な住家被害認定調査の実施と、調査人員の確保、迅速な罹災証明書の発行を通じて、被災者の生活再建を一日も早く実現することにある。
+
+珠洲市では、ドローンや360度カメラを活用し、特にアクセスが困難な山間部や海岸部での住家被害認定調査を行い、得られた画像データを基に遠隔地からの判定支援を実施した。この取り組みは、NTTグループが電気通信役務でのインフラ点検に活用している体制を基にし、事業者としては初の試みである。遠隔地からの判定は、応援職員が現地に行かずに自庁で実施することが可能であり、職員の負担軽減と住家被害認定調査の迅速化を実現した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+今回の取り組みにより、災害時における住家被害認定調査の新たな手法として、ドローンや360度カメラの活用が有効であることが証明された。今後はこの取り組みを基に、より迅速かつ公平公正な罹災証明書の発行を実現し、地震だけでなく水害や風害など他の災害にも対応できる体制の確立を目指す。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 03 Mar 2024 08:27:08 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2628,35 +2664,7 @@ NEDOの公募した「ポスト5G情報通信システム基盤強化研究開�
 :::box
 
 :::
-</description><pubDate>Mon, 05 Feb 2024 12:15:11 +0000</pubDate></item><item><title>経産省　生成AI基盤の開発支援に84億円を拠出　Googleクラウドを無償提供する採択事業者を発表</title><link>https://ledge.ai/articles/geniac_support_for_development_of_genai_infrastructure</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年2月2日、経済産業省は「ポスト5G情報通信システム基盤強化研究開発事業」の採択事業者を{target=“_blank”}し、Generative AI Accelerator Challenge（GENIAC）の立ち上げと共に、生成AIの基盤モデル開発を支援するための施策を{target=“_blank”}した。この日の記者会見で、齋藤経済産業大臣は生成AI基盤の開発支援に84億円を拠出すると述べたことを複数メディアが報じた。
-
-採択された事業者には、株式会社ABEJAやSakana AI株式会社などが含まれ、これらの企業はGoogleクラウドの計算資源を無償で利用できるよう支援を受ける。このプログラムは、生成AIの開発力向上と産業活動・国民生活への大きなインパクトを目指している。経済産業省は、国内外の知見を結集し、生成AIによるイノベーション創出を加速するための環境整備に努めている。
-
-採択の発表を受け、東京大学松尾研究室は、公開型で500億パラメータサイズの大規模言語モデルの開発を開始すると{target=“_blank”}。また、ストックマーク株式会社は、フルスクラッチで事前学習を行い、ビジネス領域でのハルシネーションを大幅に抑止した1,000億パラメータ規模の独自LLMの開発を行うと{target=“_blank”}した。
-
-採択された各事業者の[テーマ概要](https://www.meti.go.jp/policy/mono_info_service/joho/post5g/240202kaisyagaiyou.pdf
-){target=“_blank”}は以下の通り。
-**株式会社ABEJA:** 「LLMの社会実装に向けた特化型モデルの元となる汎化的LLMに関する研究開発」
-**Sakana AI株式会社:** 「自律型エージェントシステム向け高効率基盤モデルの開発」
-**大学共同利用機関法人情報：**「システム研究機構: オープンかつ日本語に強いGPT-3級大規模言語モデルの構築」
-**ストックマーク株式会社:**「厳密さが要求されるビジネス用途におけるハルシネーションを大幅抑止した基盤モデル」
-**Turing株式会社:**「完全自動運転に向けたマルチモーダル基盤モデルの開発」
-**国立大学法人東京大学:**「多様な日本語能力の向上を目指した公開型の基盤モデル開発」
-**株式会社Preferred Elements:**「100B/1Tパラメータからなる大規模マルチモーダル基盤モデルの構築」
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 05 Feb 2024 07:01:21 +0000</pubDate></item><item><title>ウィル・スミス「これは手に負えなくなってきた！」1年前にAIで生成された不気味な動画を実写で完全再現し笑い飛ばす　OpenAIもSoraで便乗</title><link>https://ledge.ai/articles/wil_smith_is_really_eating_spaghetti</link><description>:::small
+</description><pubDate>Mon, 05 Feb 2024 12:15:11 +0000</pubDate></item><item><title>ウィル・スミス「これは手に負えなくなってきた！」1年前にAIで生成された不気味な動画を実写で完全再現し笑い飛ばす　OpenAIもSoraで便乗</title><link>https://ledge.ai/articles/wil_smith_is_really_eating_spaghetti</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
