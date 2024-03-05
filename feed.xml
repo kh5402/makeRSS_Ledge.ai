@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Mar 2024 02:28:44 +0000</lastBuildDate><item><title>MicrosoftとApple間のBing売却話、Googleの裁判所提出書類で2018年に検討されていたことが明らかに</title><link>https://ledge.ai/articles/bing_was_to_be_sold_to_apple_google_said</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Mar 2024 02:31:55 +0000</lastBuildDate><item><title>日本IBM、ビジネス特化の生成AI基盤モデル「Granite日本語版」を提供開始</title><link>https://ledge.ai/articles/ibm_watsonx_granite-8b-llm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日本IBMは2024年2月27日、同社AIおよびデータプラットフォームである「IBM watsonx」にて、生成タスク用に設計された独自の基盤モデル「Granite（グラナイト）」シリーズの新たなラインナップとして、「Granite日本語版モデル」の提供を開始したことを{target=“_blank”}した。
+
+このモデルは、インターネット、学術、コード、法務、財務といった多様な領域から収集したビジネス関連のデータセットを用いて学習が行われ、80億のパラメーターを持つ高い精度を、より低いインフラストラクチャ要件での実現を可能にしているという。
+
+Graniteモデルは、信頼できるデータに基づく構築と、IBMがビジネス用途向けにキュレーションした内容であることが特徴で、不適切なコンテンツを排除するための厳格な検査と社内外のモデルとのベンチマーク評価が行われている。これにより、リスクを軽減し、モデル出力が責任ある形で展開できるように設計されている。また、Graniteモデルの学習に使用されたデータソースを公開し、ユーザーがAIの適用を進める際に安心できる環境を提供している​​​​という。
+
+同社では、ビジネスにおけるAI導入の際に、業種や業務、ビジネス領域、ユースケースに応じた適切なモデルの選択が重要であると考え、IBM独自の基盤モデルに加え、ユーザーのユースケースを想定したオープンソースモデルも用意している。これにより、日本市場向けには、株式会社ELYZAが公開した日本語LLMモデル「ELYZA-japanese-Llama-2-7b」も利用可能となり、日本の顧客は自社のニーズに最適なモデルを選択し、AI活用を加速できるようになる​​とのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 04 Mar 2024 02:31:55 +0000</pubDate></item><item><title>MicrosoftとApple間のBing売却話、Googleの裁判所提出書類で2018年に検討されていたことが明らかに</title><link>https://ledge.ai/articles/bing_was_to_be_sold_to_apple_google_said</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -400,29 +425,7 @@ AI Assistantの開発は、モバイル向けAcrobat Readerの「Liquid Mode」�
 :::box
 
 :::
-</description><pubDate>Wed, 28 Feb 2024 05:57:46 +0000</pubDate></item><item><title>成田国際空港の第3ターミナルでAIを活用した手荷物管理の高度化を目指す実証実験を開始</title><link>https://ledge.ai/articles/narita_automagi_baggage_imaging</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-成田国際空港は2024年2月16日、AIによる画像解析技術を有するAutomagi株式会社と共同で、手荷物管理の高度化を目的とした実証実験を開始することを{target=“_blank”}した。
-
-この実験は、手荷物の仕分け作業の効率化と紛失・遅延の抑制を目指している。特に、バーコード読み取りに失敗した場合の手荷物識別にAIを活用し、手荷物の追跡と管理を向上させることが目標だという。成田空港は、オープンイノベーションを通じて、引き続きサービスの質の向上と最新技術の導入を進める計画だ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-手荷物が誤って他の航空機に積み込まれたり、紛失するロストバゲージの事例を減少させるための試みとして、この実証実験は注目を集めているとのこと。成田空港の第3ターミナルで行われ、手荷物を画像で識別し、バーコード情報と連携させるシステムの構築を目指すという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 26 Feb 2024 03:23:05 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Wed, 28 Feb 2024 05:57:46 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
