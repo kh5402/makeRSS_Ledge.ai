@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Mar 2024 08:28:08 +0000</lastBuildDate><item><title>日本IBM、ビジネス特化の生成AI基盤モデル「Granite日本語版」を提供開始</title><link>https://ledge.ai/articles/ibm_watsonx_granite-8b-llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Mar 2024 08:30:55 +0000</lastBuildDate><item><title>エッジAI向けロジック半導体開発でラピダスとカナダのテンストレントがNEDO採択のプロジェクトのもと協業</title><link>https://ledge.ai/articles/rapidus_and_tenstorrent_agree_to_joint_ip_development</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ラピダスは2024年2月27日、カナダの半導体設計開発会社テンストレントとの人工知能（AI）半導体開発における協業を{target=“_blank”}した。両社は2nmロジック技術を用いたエッジAIアクセラレータの開発について共同推進を行うとのこと。
+
+この協業は、技術研究組合最先端半導体技術センター（LSTC）が2月9日に国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）のポスト5G情報通信システム基盤強化研究開発事業において){target=“_blank”}の一環として行われる。
+
+同プロジェクトでは、次世代半導体設計技術の一つとしてエッジ推論処理用のエッジAIアクセラレータを開発することが目的となる。テンストレントはCPUチップの開発を、AIチップ設計拠点（AIDC）がアクセラレータチップの開発を担当し、ラピダスは2nm最先端ロジック半導体の製造技術の有効性を引き出し、その製造を目指す。
+
+昨年11月17日には、両社がAIエッジデバイス領域での開発加速を目的としたパートナーシップを発表しており、この度のNEDOによる採択はそのパートナーシップの具現化を示すものであるという。テンストレントは、2nmレベルのAIエッジデバイス開発に必要な先進のRISC-V CPU設計技術とチップレットIPを保有し、ラピダスはRapid and Unified Manufacturing Service（RUMS）により、設計支援から製造までの一貫したサービスを提供し、テンストレントの設計技術の潜在能力を最大限に引き出すことを目指す。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 05 Mar 2024 08:30:55 +0000</pubDate></item><item><title>日本IBM、ビジネス特化の生成AI基盤モデル「Granite日本語版」を提供開始</title><link>https://ledge.ai/articles/ibm_watsonx_granite-8b-llm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -401,31 +423,7 @@ AI Assistantの開発は、モバイル向けAcrobat Readerの「Liquid Mode」�
 :::
 
 
-</description><pubDate>Wed, 28 Feb 2024 06:00:55 +0000</pubDate></item><item><title>電通の新サービス「AIQQQ STUDIO」提供開始　AI×クリエイティブで事業・サービス開発を支援</title><link>https://ledge.ai/articles/dentsu_aiqqq</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-電通は2024年2月21日、AIとクリエイティブを組み合わせた事業・サービス開発を支援する「AIQQQ STUDIO（アイキュースタジオ）」のサービス提供を開始したことを{target=“_blank”}した。
-
-国内電通グループの独自のAI技術と電通クリエイターの知見や能力を掛け合わせ、顧客企業の新規事業開発やコミュニケーション開発プロセスに量、質、スピードの向上をもたらすことを目的としている。従来の生成AIを用いないビジネスコンサルティングやデザインクリエイションに比べ、効率的で効果的な事業展開を可能にするという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 28 Feb 2024 05:57:46 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Wed, 28 Feb 2024 06:00:55 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
