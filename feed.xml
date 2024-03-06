@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Mar 2024 08:22:31 +0000</lastBuildDate><item><title>日本IBM、ビジネス特化の生成AI基盤モデル「Granite日本語版」を提供開始</title><link>https://ledge.ai/articles/ibm_watsonx_granite-8b-llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Mar 2024 08:28:08 +0000</lastBuildDate><item><title>日本IBM、ビジネス特化の生成AI基盤モデル「Granite日本語版」を提供開始</title><link>https://ledge.ai/articles/ibm_watsonx_granite-8b-llm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1919,7 +1919,49 @@ APIを通じて利用できるのは、ChatGPTの中枢である大規模言語�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>音声、テキスト、画像、音楽をまとめて理解し処理するマルチモーダルLLM「AnyGPT」上海の研究者たちが発表</title><link>https://ledge.ai/articles/anygpt_multimodal_llm</link><description>:::small
+:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>Microsoftと中国科学院大学の研究チーム、1ビットLLM「BitNet 1.58Bits」を発表　エッジデバイスやリアルタイム処理に大きな期待</title><link>https://ledge.ai/articles/microsoft_bitnet_1point58bits</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年2月27日、Microsoft Researchと中国科学院大学の研究チームは、新たな1.58ビットの大規模言語モデル「BitNet b1.58」を{target=“_blank”}した。
+
+このモデルは、全パラメータを三値（-1, 0, 1）で表現し、平均情報量を1.58ビットに抑えることにより、従来の16ビット浮動小数点数を用いたモデルと同等の性能を保ちつつ、計算コスト、メモリ使用量、エネルギー消費を大幅に削減する。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この技術は、70B（700億）パラメータモデルを用いた実験で、既存のモデルと比較して8.9倍のスループットを達成し、Llamaモデルとの比較では、3倍の速度で高い精度を実現していることが報告されている。これにより、GPUに依存せずに済む加算処理のみに特化した新しいハードウェアの開発が期待されるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+BitNetの特徴は、その革新的なアーキテクチャにより、エッジデバイスやリアルタイム処理を必要とするアプリケーションでの利用に大きなメリットをもたらし、AI技術の持続可能性と実用性の向上に貢献している点にあるという。また、メモリ使用量の削減と計算速度の向上は、AI分野での大きな課題に対する有力な解答となり得る。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+トレーニングプロセスにおいては、1.58ビットの独特な方式を用いることで、モデルはより微妙なデータのニュアンスを捉え、fp16モデルと比較しても遜色ない性能を実現しているという。このアプローチは、計算資源の使用効率を高め、性能と効率性のバランスを取ることを目指している​​とのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 05 Mar 2024 08:28:08 +0000</pubDate></item><item><title>音声、テキスト、画像、音楽をまとめて理解し処理するマルチモーダルLLM「AnyGPT」上海の研究者たちが発表</title><link>https://ledge.ai/articles/anygpt_multimodal_llm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2323,40 +2365,7 @@ Neuralinkの完全埋め込み型ワイヤレス・ブレイン・コンピュ�
 
 :::
 
-</description><pubDate>Fri, 02 Feb 2024 08:44:06 +0000</pubDate></item><item><title>中華料理も作れるロボットがスゴすぎる　移動操作を低コストで模倣学習する「Mobile ALOHA」スタンフォード大が開発</title><link>https://ledge.ai/articles/Imitation_learning_mobile_aloha</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国スタンフォード大学の研究チームは2024年1月4日、人間のデモンストレーションをロボットに模倣させ、移動操作タスクを学習させる低コストなシステムを提案する論文を{target=“_blank”}した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-模倣学習に関して研究チームは、これまでも研究成果は発表されてきたが、卓上タスクでの操作に焦点を当てているものが多く、一般的に役立つタスクに必要な移動能力と器用さに欠けていたと説明する。同研究では、移動操作タスクを模倣するシステムを開発し、それを「Mobile ALOHA」と名付けた。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Mobile ALOHAは、移動基盤と全身テレオペレーションインターフェイスを備えた低コストのデータ収集システムで、集めたデータを用いて、監督された行動クローニングを行う。これを既存の静止ALOHAデータセットと共同トレーニングすることで、移動操作タスクのパフォーマンスが向上することがわかったという。
-
-以下は、Mobile ALOHAが中華料理のコースメニューを自律的に調理する様子を記録した動画だ。
-
-@
-各タスクに50回のデモンストレーションを行うことで、共同トレーニングは成功率を最大90%まで向上させることができ、Mobile ALOHAはエビのソテーや調理用の重い鍋を収納するための二重扉の壁キャビネットの開閉、エレベーターの呼び出しと乗車、使用済みのフライパンをキッチンの蛇口で軽くすすぐといった複雑な移動操作タスクを自律的に完了することができるようになったとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 29 Jan 2024 08:34:07 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
+</description><pubDate>Fri, 02 Feb 2024 08:44:06 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
