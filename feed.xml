@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 04 Mar 2024 02:31:55 +0000</lastBuildDate><item><title>日本IBM、ビジネス特化の生成AI基盤モデル「Granite日本語版」を提供開始</title><link>https://ledge.ai/articles/ibm_watsonx_granite-8b-llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 05 Mar 2024 08:22:31 +0000</lastBuildDate><item><title>日本IBM、ビジネス特化の生成AI基盤モデル「Granite日本語版」を提供開始</title><link>https://ledge.ai/articles/ibm_watsonx_granite-8b-llm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1919,7 +1919,38 @@ APIを通じて利用できるのは、ChatGPTの中枢である大規模言語�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>Alibaba　音声データを与えると、1枚の人物画がリアルに喋り歌い出す　動画生成AI「EMO」を発表</title><link>https://ledge.ai/articles/alibaba_emo</link><description>:::small
+:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>音声、テキスト、画像、音楽をまとめて理解し処理するマルチモーダルLLM「AnyGPT」上海の研究者たちが発表</title><link>https://ledge.ai/articles/anygpt_multimodal_llm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+2024年2月26日、上海の復旦大学ほか複数の研究機関が新たなマルチモーダル言語モデル「AnyGPT」を{target=“_blank”}した。このモデルは、音声、テキスト、画像、音楽など、さまざまなモダリティを統一的に処理することが可能で、現在の大規模言語モデル（LLM）の枠組みを踏襲しながらも、新しいモダリティの統合を容易にする設計が特徴だという。
+
+
+@
+
+
+AnyGPTは、マルチターン会話データセット「AnyInstruct-108k」を使用してトレーニングされ、さまざまなモダリティを複雑に織り交ぜたマルチターン会話の10万8,000のサンプルで構成されているため、モデルがマルチモーダルな入力と出力の任意の組み合わせを処理できるようになるという。
+
+マルチモーダル命令データセット「AnyInstruct」の構築プロセスは、マルチモーダル要素を組み込んだテキストベースの対話の生成と、テキストからマルチモーダルへの変換の2つの段階に分かれている。このプロセスを通じて、トピックやシナリオに応じた対話が生成され、最終的にはマルチモーダル対話へと変換される。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 05 Mar 2024 08:22:31 +0000</pubDate></item><item><title>Alibaba　音声データを与えると、1枚の人物画がリアルに喋り歌い出す　動画生成AI「EMO」を発表</title><link>https://ledge.ai/articles/alibaba_emo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2325,33 +2356,7 @@ Mobile ALOHAは、移動基盤と全身テレオペレーションインター�
 :::box
 
 :::
-</description><pubDate>Mon, 29 Jan 2024 08:34:07 +0000</pubDate></item><item><title>LLMの「ハルシネーション（幻覚）」対策に32の体系的テクニック　AmazonAIとイスラム工科大などの研究チームが発表</title><link>https://ledge.ai/articles/32_techniques_for_hallucination_mitigation_in_llms</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年1月8日、イスラム工科大学、サウスカロライナ大学AI研究所、スタンフォード大学、AmazonAIの研究者チームは、大規模言語モデル（LLM）における「ハルシネーション（幻覚）」の問題を軽減するための32の技術を{target=“_blank”}した。
-
-幻覚とは、LLMが事実に基づかない内容や誤った情報を生成する現象を指す。これは、教育、医療、金融分析、法務アドバイスなどの繊細さが求められる応用分野において特に問題となる。小さなエラーでも大きな影響を及ぼす可能性があり、LLMの安全な実用化に向けて、幻覚の軽減は極めて重要とされている。論文では、特に情報取得強化生成（RAG）やプロンプトエンジニアリングなど、一般的によく知られている方法を含む幅広いテクニックが紹介されている。
-
-研究者たちは、幻覚の問題に対処するための多様なアプローチを体系的に分類した。これには、生成前、生成中、生成後の各段階での情報取得の最適化や、フィードバックに基づく自己改善、教師ありファインチューニングなどが含まれる。これらのテクニックは、LLMがより信頼性の高い情報を生成するために役立つと期待される。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 27 Jan 2024 05:18:51 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
+</description><pubDate>Mon, 29 Jan 2024 08:34:07 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
