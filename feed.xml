@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Mar 2024 07:29:31 +0000</lastBuildDate><item><title>Lenovoが新世代のAIビジネスPC ThinkPadとThinkBookを発表　バルセロナの世界最大級モバイル見本市「MWC 2024」で</title><link>https://ledge.ai/articles/lenovo_cutting_edge_thinkpad_and_thinkbook</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Mar 2024 07:40:36 +0000</lastBuildDate><item><title>Adobe、生成AIを搭載した音楽生成・編集ツール「Project Music GenAI Control」を発表</title><link>https://ledge.ai/articles/adobe_project_music_gebau_control</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+Adobeは2024年2月28日、テキストプロンプトから音楽を生成し、その音楽を編集するための新たな生成AIツール「Project Music GenAI Control」を{target=“_blank”}した。
+
+クリエイターはテキストプロンプトから音楽を生成し、そのオーディオを細かく編集して正確なニーズに合わせられるようになる。このツールは、放送業者やポッドキャスターなど、特定のムード、トーン、長さのオーディオが必要なすべての人々がプロジェクトのための音楽作成の助けになるという。
+
+@
+
+ユーザーが「パワフルなロック」「ハッピーなダンス」「悲しいジャズ」といったテキストプロンプトを入力して音楽を生成する。ツールが音楽を生成すると、きめ細かい編集がワークフローに直接統合される。生成された音声は、参照メロディに基づいて変換されたり、音楽のテンポ、構造、繰り返しパターンの調整、オーディオの強度の増減、クリップの長さの延長、セクションのリミックス、シームレスに繰り返し可能なループの生成など、多岐にわたる編集が可能になる。これにより、手作業で既存の音楽をカットしてイントロ、アウトロ、バックグラウンドオーディオを作る代わりに、ユーザーが正確に必要とする音楽を作成できるようになるとのこと。
+
+Adobe ResearchのシニアリサーチサイエンティストであるNicholas Bryan氏は「興味深いのは、単にオーディオを生成するだけではなく、クリエイティブにオーディオの形を整え、微調整し、編集するための同様の詳細な制御を提供することで、オーディオを Photoshop のレベルまで引き上げていることです。これは音楽のピクセルレベルのコントロールのようなものです」
+と述べた。
+
+Project Music GenAI Controlは、音楽生成AIツールとして、著作権に関する倫理的および法的な懸念に対して責任を持って対応し、クリエイティブなプロセスを豊かにすることを目指すという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 06 Mar 2024 07:40:36 +0000</pubDate></item><item><title>Lenovoが新世代のAIビジネスPC ThinkPadとThinkBookを発表　バルセロナの世界最大級モバイル見本市「MWC 2024」で</title><link>https://ledge.ai/articles/lenovo_cutting_edge_thinkpad_and_thinkbook</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -399,28 +427,7 @@ AIの急速な進化によりデータセンターの運用はますます高度
 :::box
 
 :::
-</description><pubDate>Thu, 29 Feb 2024 03:48:20 +0000</pubDate></item><item><title>GoogleとRedditが提携拡大　RedditのデータをAIの学習に活用可能</title><link>https://ledge.ai/articles/reddit_and_google_expand_partnership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年2月22日、米国のGoogleとRedditは、提携を拡大したことを{target=“_blank”}した。
-
-この新たな提携により、GoogleはReddit Data APIを通じて、Reddit上のリアルタイムコンテンツにアクセス可能となり、AIトレーニングに活用することができるようになる。一方、RedditはGoogleの機械学習プラットフォーム「Vertex AI」を用いることで、同プラットフォームの検索機能強化などを図るという。GoogleによるAI技術の進化とRedditプラットフォームの機能向上が主な目的となる。
-
-Redditから得られる豊富なデータを基に、Googleはより高度なAIモデルの開発を目指す。一方Redditは、Googleの先端技術を活用し、ユーザーが求める情報へのアクセス性を高め、ユーザー体験の向上を図る計画だという。
-
-今回の提携拡大は、AI技術の発展という共通の目標に向けた重要な一歩であり、両社の長期的な成長戦略にも寄与するものと見られる。Redditのリアルタイムデータの活用は、AI技術の精度向上に貢献し、Googleの「Vertex AI」の技術をRedditが利用することで、検索機能の精度と速度の向上が期待される。
-
-この提携発表ののちRedditは、米証券取引委員会に新規株式公開（IPO）の目論見書を公開で{target=“_blank”}した。ニューヨーク証券取引所（NYSE）に上場する予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 29 Feb 2024 03:29:48 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Thu, 29 Feb 2024 03:48:20 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
