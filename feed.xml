@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Mar 2024 07:40:36 +0000</lastBuildDate><item><title>Adobe、生成AIを搭載した音楽生成・編集ツール「Project Music GenAI Control」を発表</title><link>https://ledge.ai/articles/adobe_project_music_gebau_control</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 06 Mar 2024 07:44:25 +0000</lastBuildDate><item><title>ソフトバンクがHumaneとの戦略的パートナーシップ提携　日本における「Ai Pin」の独占通信提供者に</title><link>https://ledge.ai/articles/humane_softbank_partnership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国スタートアップのHumaneは2024年2月28日、AI駆動のオペレーティングシステム「CosmOS」とAIデバイス「Ai Pin」の日本展開について、ソフトバンクとの戦略的パートナーシップを{target=“_blank”}した。
+
+このパートナーシップでは、ソフトバンクが日本におけるAi Pinの独占通信提供者となり、同社の広範なサービスと顧客基盤を活用して、Ai Pinを市場に導入する。さらに、ソフトバンクとHumaneは、CosmOSを他のモバイルデバイスに導入し、アプリ不要のサービスやAI駆動のユーザーエクスペリエンスからなる新たなエコシステムの構築に協力する計画だという。
+
+Humaneが2023年11月に{target=“_blank”}は、手のひらに投影するレーザーインクディスプレイを搭載したウェアラブルデバイスで、ピンマイクのように胸元に装着する。スマートフォンのような画面はなく、声や手の動きで通話や情報検索、翻訳ができる。
+
+Qualcomm Snapdragonプロセッサを搭載し、カメラやセンサーで環境を追跡・記録する。レーザープロジェクターを使用して情報を手のひらに投影するなど、新しいインタラクション方法を提供する。デバイスは、いわゆる「ウェイクワード」を使用せず、ユーザーの操作によってのみアクティブ化され、プライバシー保護が徹底されているという。
+
+@
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 06 Mar 2024 07:44:25 +0000</pubDate></item><item><title>Adobe、生成AIを搭載した音楽生成・編集ツール「Project Music GenAI Control」を発表</title><link>https://ledge.ai/articles/adobe_project_music_gebau_control</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -400,34 +422,7 @@ AIの急速な進化によりデータセンターの運用はますます高度
 :::button
 {target=“_blank”}
 :::
-</description><pubDate>Fri, 01 Mar 2024 04:48:51 +0000</pubDate></item><item><title>KDDIとトヨタ、コネクテッドカーからの道路情報をAIで解析するサービスを開始</title><link>https://ledge.ai/articles/kddi_toyota_connected_car</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年2月20日、KDDIとトヨタ自動車は共同で、インターネットに接続されたコネクテッドカーから得られる道路情報をAIで解析し、事故が多い場所などのデータを可視化して提供する新サービス「危険地点スコアリング」を今春から開始すると{target=“_blank”}した。
-
-最新の通信技術を利用し、適切な道路標識の設置など交通安全対策の向上に貢献することを目指す。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この取り組みは、両社がコネクテッドカー技術の研究開発及びビッグデータの活用を加速するために結んだ新たな業務資本提携に基づいている。通信基盤やコネクテッドカー向けの運用管理システムを共同で開発し、街と家、人、クルマなどのビッグデータを利用して社会課題の解決に取り組む計画だという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 29 Feb 2024 03:48:20 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Fri, 01 Mar 2024 04:48:51 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
