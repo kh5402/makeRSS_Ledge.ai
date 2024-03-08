@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Mar 2024 09:43:26 +0000</lastBuildDate><item><title>OpenAIを提訴したイーロンマスクに「私たちはイーロンの主張をすべて却下する」OpenAIが過去のメールを暴露</title><link>https://ledge.ai/articles/openai_and_elonmusk_in_court</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Mar 2024 09:49:04 +0000</lastBuildDate><item><title>Microsoftが新LLM開発の仏ミストラルAIとのパートナーシップを発表　市場独占の懸念からEUより調査要求が上がる</title><link>https://ledge.ai/articles/microsoft_and_mistralai_a_new_partnership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国Microsoftは2024年2月26日、フランスに本拠を置くAIの新興企業ミストラルAIとの提携を{target=“_blank”}した。
+
+ミストラルAIは同じ日に、新たな大規模言語モデル「Mistral Large」のリリースを{target=“_blank”}した。同社の新たなフラッグシップモデルとなるこのLLMは、テキスト理解、変換、コード生成を含む複雑な多言語推論タスクに使用可能だ。このモデルは、LLMの主要なベンチマークのひとつであるMMLUにおいて、GPT-4に次ぐ強力な結果を残したという。
+
+わずか9ヶ月でOpenAIに匹敵するAIモデルを開発したとされるミストラルAIは、フロンティアAIをより広く普及させることを使命とし、その一環としてMicrosoftとのパートナーシップを通じて、モデルをMicrosoftのクラウドサービス「Azure」に提供する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同モデルはまた、英語、フランス語、スペイン語、ドイツ語、イタリア語にネイティブ対応し、文法と文化的文脈の洗練された理解を提供するという。32Kトークンのコンテキストウィンドウにより、大規模なドキュメントからの精密な情報回収が可能とのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+一方、MicrosoftとミストラルAIの提携により、市場の寡占化が進むことへの懸念が高まっており、欧州連合（EU）の欧州議会から調査を求める声が上がっていると2月27日に{target=“_blank”}が報じている。特に、MicrosoftとミストラルAIの提携は、AI技術の進化と市場競争のバランスを巡る欧州内の議論を促す可能性があるという。2023年12月には、イギリスの競争・市場庁がMicrosoftとOpenAIとの提携において、独占禁止法上の問題を検討していることが報じられた。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 07 Mar 2024 09:49:04 +0000</pubDate></item><item><title>OpenAIを提訴したイーロンマスクに「私たちはイーロンの主張をすべて却下する」OpenAIが過去のメールを暴露</title><link>https://ledge.ai/articles/openai_and_elonmusk_in_court</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -346,44 +382,7 @@ Starleyの目指すのは、日々のコミュニケーションを充実させ�
 
 :::
 
-</description><pubDate>Thu, 29 Feb 2024 07:29:23 +0000</pubDate></item><item><title>セガトイズ、100匹以上の猫の動きを研究して生まれたリアルなAI猫ロボット「KIMIT ラグドール」を発売</title><link>https://ledge.ai/articles/sega-toys_kimit</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-セガトイズは2024年2月22日、ペットロボットの新ブランド「KIMIT（キミット）」から、リアルな猫を模した「ラグドール」を{target=“_blank”}した。
-
-この製品は、100匹以上の猫の動きをデータ化し、ディープラーニングを活用して開発された。瞳孔の開閉、柔らかな肉球、猫の声、喉から出るゴロゴロ音、心音など、本物の猫の細部にまでこだわり、リアルに再現しているという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-セガトイズが2023年11月に実施した「ペット飼育に関するアンケート」では、20～70歳の85.9％が「猫が好きだが飼えていない」と回答。飼育に踏み切れない主な理由として、住環境や資金面などの問題が挙げられたという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社は、ペットを飼いたくても飼えない人々や動物アレルギーを持つ人々に向けて、新たな選択肢を提案している。
-
-期間限定で「KIMIT ラグドール」を体験できるポップアップカフェが二子玉川駅構内にあるNICOTAMA DAYS CAFEで開催されている。期間は2024年2月22日～3月5日。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 01 Mar 2024 05:36:22 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Thu, 29 Feb 2024 07:29:23 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
