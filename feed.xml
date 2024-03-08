@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Mar 2024 09:49:04 +0000</lastBuildDate><item><title>Microsoftが新LLM開発の仏ミストラルAIとのパートナーシップを発表　市場独占の懸念からEUより調査要求が上がる</title><link>https://ledge.ai/articles/microsoft_and_mistralai_a_new_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 07 Mar 2024 11:41:48 +0000</lastBuildDate><item><title>Microsoftが新LLM開発の仏ミストラルAIとのパートナーシップを発表　市場独占の懸念からEUより調査要求が上がる</title><link>https://ledge.ai/articles/microsoft_and_mistralai_a_new_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1876,7 +1876,42 @@ APIを通じて利用できるのは、ChatGPTの中枢である大規模言語�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>Microsoftと中国科学院大学の研究チーム、1ビットLLM「BitNet 1.58Bits」を発表　エッジデバイスやリアルタイム処理に大きな期待</title><link>https://ledge.ai/articles/microsoft_bitnet_1point58bits</link><description>:::small
+:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>AIが生成した巨根ラット画像の論文が掲載されてしまう。科学者「査読プロセスはどうなっている？！」3日で掲載撤回</title><link>https://ledge.ai/articles/frontire_publication_withdrawn_in_3days</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年2月16日、研究出版社 Frontiers は、2月13日に科学誌「Frontiers in Cell and Developmental Biology」に公開した「精子幹細胞の細胞機能とJAK/STATシグナリング経路との関係（Cellular functions of spermatogonial stem cells in relation to JAK/STAT signaling pathway）」という論文に関する声名を{target=“_blank”}した。
+
+これは、AIで生成された巨大な性器を持つラットの根拠のないイラストを含む学術論文が掲載されたことを、科学コミュニティが指摘し、2月16日に当該論文の掲載が撤回されるという前例なき事態を説明し謝罪するものであった。
+
+2月16日、ケンブリッジ大学研究所の助教授 Charlotte Houldcroft 博士が、自身のX（旧Twitter）アカウントに「この図はどうやって査読を通過したの？！」と投稿し、騒動の始まりとなった。掲載されたラットの図は画像生成AI「Midjourney」を使って生成された実際には科学的根拠のないもので、"testtomcels"、"Dissisilcied"、"dck"といった無意味な文字列が図に添えられていたという。
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+同社は、この論文におけるAI生成図の問題に対し、コミュニティからの迅速なフィードバックを受け、科学的記録の正確性を守るため、同論文をデータベースから撤回・削除したという。また、査読者の1人が図について妥当な懸念を示し、著者に修正を要求していたが、著者がこれに応じなかったとのこと。これについて、同社の査読プロセスにどのような問題があったかを調査中であると述べた。
+
+この論文の掲載と迅速な撤回は、学術誌の査読プロセスがどのようにしてAIによって生成された不正確な図表を見逃したのか、という疑問を提起した。研究者コミュニティでは、AIツールの監視を強化しない限り、不正確な発見が促進され、研究機関や研究者の評判に損害を与えかねないという懸念が示されている。
+
+2023年は、撤回された研究論文が過去最多を記録した年となった​ことを​科学誌{target=“_blank”}が報告している。専門家らは、これは氷山の一角にすぎないと述べたという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 07 Mar 2024 11:41:48 +0000</pubDate></item><item><title>Microsoftと中国科学院大学の研究チーム、1ビットLLM「BitNet 1.58Bits」を発表　エッジデバイスやリアルタイム処理に大きな期待</title><link>https://ledge.ai/articles/microsoft_bitnet_1point58bits</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2294,35 +2329,7 @@ Neuralinkの完全埋め込み型ワイヤレス・ブレイン・コンピュ�
 :::box
 
 :::
-</description><pubDate>Sat, 03 Feb 2024 15:11:22 +0000</pubDate></item><item><title>AIが人間の目の代わりになるのは25％以下のタスクだけ。コンピュータビジョンに関するMITの研究</title><link>https://ledge.ai/articles/rethinking_ai_impact_mit-csail_study</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年1月18日、マサチューセッツ工科大学やIBMの研究者らが「コンピュータビジョンを用いた自動化がコスト効果のあるタスクは何か」と題する研究報告を[発表](https://www.csail.mit.edu/news/rethinking-ais-impact-mit-csail-study-reveals-economic-limits-job-automation
-){target=“_blank”}した。
-
-この研究では、AIによる自動化が経済的に魅力的であるタスクとそうでないタスクを見分ける新しいモデルを提案。特にコンピュータビジョン（画像やビデオから情報を解析・理解するための技術的な処理）に焦点を当てている。
-
-現在のコストでは、米国企業がビジョンタスクの大部分を自動化しない選択をすること、そして「AIエクスポージャー」にさらされているビジョンタスクのうち、わずか23%が自動化に向いているという結果となった。「AIエクスポージャー」とは、特定の職務や業務がAIや自動化技術によってどの程度影響を受ける可能性があるかを示す指標。この指標は、特定の仕事がAIに取って代わられるリスクの高さを測定し、将来の労働市場におけるAIの影響を予測するために使用される。
-
-この研究により、AIによる仕事の置き換えは顕著だが徐々に進むため、政策や再教育による失業影響の緩和に余地があることが示唆されている。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 02 Feb 2024 08:44:06 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
+</description><pubDate>Sat, 03 Feb 2024 15:11:22 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
