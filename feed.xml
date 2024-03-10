@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 09 Mar 2024 11:05:26 +0000</lastBuildDate><item><title>ヒト型ロボット開発のスタートアップ Figure がNVIDIA、Microsoft、OpenAI含む大手テック企業から6億7500万ドルの資金調達</title><link>https://ledge.ai/articles/figure_raises_675million_from_openai_and_others</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 09 Mar 2024 11:07:48 +0000</lastBuildDate><item><title>ヒト型ロボット開発のスタートアップ Figure がNVIDIA、Microsoft、OpenAI含む大手テック企業から6億7500万ドルの資金調達</title><link>https://ledge.ai/articles/figure_raises_675million_from_openai_and_others</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -133,9 +133,8 @@ Qualcomm Snapdragonプロセッサを搭載し、カメラやセンサーで環�
 
 :::
 </description><pubDate>Wed, 06 Mar 2024 07:44:25 +0000</pubDate></item><item><title>Adobe、生成AIを搭載した音楽生成・編集ツール「Project Music GenAI Control」を発表</title><link>https://ledge.ai/articles/adobe_project_music_gebau_control</link><description>:::small
-画像の出典：{target=“_blank”}
+画像の出典：Dall-E3により ledge.ai が生成
 :::
-
 
 Adobeは2024年2月28日、テキストプロンプトから音楽を生成し、その音楽を編集するための新たな生成AIツール「Project Music GenAI Control」を{target=“_blank”}した。
 
@@ -2638,7 +2637,27 @@ NEDOの公募した「ポスト5G情報通信システム基盤強化研究開�
 :::box
 
 :::
-</description><pubDate>Mon, 05 Feb 2024 12:15:11 +0000</pubDate></item><item><title>「AIに怯えて暮らすか、活用して生きていくか」三池崇史監督「AIと共に最高の映画を作る会」キックオフイベント開催</title><link>https://ledge.ai/articles/miike_ai_movie_project</link><description>:::small
+</description><pubDate>Mon, 05 Feb 2024 12:15:11 +0000</pubDate></item><item><title>中国CCTV、AI活用した水墨画風アニメ「千秋詩頌」を放映開始</title><link>https://ledge.ai/articles/cctv_chinese_poem_animation</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+中国国営の中央テレビ（CCTV）は、杜甫や李白、孟浩然など唐代の詩人の人生を、AIを活用し「水墨画の世界風」をテーマにしたアニメーション作品「千秋詩頌（千秋の詩への頌歌）」の放映を2024年2月26日に{target=“_blank”}。
+
+中国中央ラジオテレビ局の「CCTVオーディオメディアモデル」を利用し、独自に開発した生成AI技術により、CCTV-1と人教社が共同で制作にあたる。小学生の国語の教科書にある詩をアニメ化する試みで、200首を超える古詩を基に展開される。エピソードは26個、各7分間で構成され、唐代の詩人たちの人生や自然風景、中華風の建築物を淡い色使いで描き出しているという。
+
+「千秋詩頌」は、中国の伝統詩とその背景話を紹介することで、視聴者に中国の水墨画を連想させる映像体験を提供している。このプロジェクトは、中国中央放送テレビ総台のAI技術を駆使し、詩の内容や歴史的背景に基づき、詩の世界観や感情をできる限り忠実に再現する試みだという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 09 Mar 2024 11:07:48 +0000</pubDate></item><item><title>「AIに怯えて暮らすか、活用して生きていくか」三池崇史監督「AIと共に最高の映画を作る会」キックオフイベント開催</title><link>https://ledge.ai/articles/miike_ai_movie_project</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2939,41 +2958,4 @@ AIダンスは、ユーザーがアプリ内に写真をアップロードする
 :::box
 
 :::
-</description><pubDate>Fri, 19 Jan 2024 08:14:08 +0000</pubDate></item><item><title>いつまで人間は潜在意識下でAIアートと人間の創作物を区別できるのか？　2023年では人間の創作物が優位との研究結果</title><link>https://ledge.ai/articles/identifying_differences_between_ai_and_human_art</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-「人間は、理由なく人間が描いたものを好む」
-
-2023年のボーリング・グリーン州立大学（BGSU）の研究によると、人間は、AIアートと人間の創作物との識別に苦戦しているが、潜在的に人間による作品を好む傾向があるという。この研究について2023年12月18日に{target=“_blank”}が解説している。
-
-産業および組織心理学を研究している博士課程の学生アンドリュー・サモ氏と、教授のスコット・ハイハウス博士が、この研究を「Psychology of Aesthetics, Creativity, and the Arts（心理学の美学、創造性、および芸術）」というジャーナルで{target=“_blank”}した。
-
-研究では、被験者がAIと人間が作ったアートをランダムに出典を正確に識別することは困難であることを明らかにした。彼らは、アートの作者が人間かAIかを特定する際には50〜60％の確率で正解する程度、つまりコインを投げて表か裏かを言い当てるのと変わらぬ確率だった。しかも被検者たちは、その識別には自信がないことを認めていたという。
-
-その一方で、人々はAIによって生成されたアートと人間によって生成されたアートを区別することは困難であっても、人間によるアートワークを好む傾向があり、その理由を説明することができないことも発見された。人間によるアートに対しては、よりポジティブな感情が報告され、「内省」「魅力」「ノスタルジア」「楽しさ」の4つの美的判断要因で高い評価を受けた。
-
-
-下の2つのポスト印象派作品は、片方がポール・セザンヌの「メダンのセーヌ河岸」で、もう一方がAIの描いたパリの風景画だという。人間の直感は何を伝えてきただろうか。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ここでサモ氏は「不気味の谷効果」を提示した。AIによって作られたアート作品は、全体的には人間の作品に似ているが、細部の表現やストーリーの展開において、人間の作品とは微妙に異なる部分がある。そのため、人々は無意識のうちにこれらの違いを感じ取り、その結果、何となくの違和感や不気味さを感じるというのだ。
-
-これまで単に繰り返し作業を行う能力に限定されていたAIだが、この研究は、芸術、音楽、詩、散文、テキストなどの創造的な作品を、ほとんど人間と区別がつかないレベルでAIが生成する能力を持つようになったことを示している。
-
-AIが進化し、より強力なモデルが日常生活で使用されるようになるにつれ、AIの心理的影響と人間への影響を理解し続けることが重要であるとサモ氏は述べる。新しいモデルの一部は、実際世界に対し非常に高品質で忠実度の高い画像を生成できるため、同様の実験を行うこの研究を再度実行することへの興味も示しているという。
-
-昨年より、次々と開発が発表され続ける新しいモデルの進化スピードには目を見張るものがある。今、同じ実験をやり直したとして、人々は果たして同じように違いを見極められるのだろうか。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Jan 2024 02:19:31 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 19 Jan 2024 08:14:08 +0000</pubDate></item></channel></rss>
