@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 10 Mar 2024 12:34:08 +0000</lastBuildDate><item><title>Salesforce「AIでデータから洞察を抽出する」Tableau Pulseを一般公開</title><link>https://ledge.ai/articles/salesforce_tableu_pluse</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 10 Mar 2024 12:38:34 +0000</lastBuildDate><item><title>Salesforce「AIでデータから洞察を抽出する」Tableau Pulseを一般公開</title><link>https://ledge.ai/articles/salesforce_tableu_pluse</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1843,7 +1843,36 @@ APIを通じて利用できるのは、ChatGPTの中枢である大規模言語�
 
 :::box
 
-:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>「デジタルインテリジェンスが生物学的インテリジェンスを置き換えるか？」ジェフリー・ヒントン教授がオックスフォード大学の公開講義にてAIの未来に警鐘　</title><link>https://ledge.ai/articles/will_digital_intelligence_replace_biological_intelligence_geofferey_hinton_romanes_lecture</link><description>:::small
+:::</description><pubDate>Fri, 08 Sep 2023 13:38:59 +0000</pubDate></item><item><title>新型AIワーム「Morris II」が生成AIアプリを狙い、ゼロクリックで機密情報の窃取に成功する</title><link>https://ledge.ai/articles/zero-click_worms_morris2</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+コーネル工科大学やイスラエル工科大学などから成る研究チームは2024年3月4日、生成AIアプリケーションを狙う新型AIワーム「Morris II」を{target=“_blank”}した。このワームは、機密データの窃取、スパムメールの送信、マルウェアの拡散を可能にするという​。
+
+「Morris II」の名は、インターネットのセキュリティ欠陥を世に知らしめた人物、ロバート・T・モリス氏が生み出した最初のインターネットワーム「Morris」の名を冠している。初代「Morrisワーム」は、同氏がコーネル大学の大学院生だった1988年に開発された。
+
+研究者たちは、生成AIを搭載したアプリケーションをターゲットとするコンピューターワーム（MorrisⅡ）を作成し、Gemini Pro、ChatGPT 4.0、LLaVAの３つのモデルに対して評価を行った。評価は、2種類の入力データ（テキストと画像）を用い、2つの設定（ブラックボックスとホワイトボックスアクセス）で、2つのユースケース（スパミングと個人データの流出）における生成AI搭載のメールアシスタントに対するMorrisIIの適用を実証。３つのモデルをテストし、ワームの性能に影響を与える様々な要因（伝播速度、複製、悪意のある活動など）を評価した。
+
+その結果、Morris IIは自己複製するプロンプトを使用し、AI検出システムを回避することで、生成AIモデルを悪用して情報を盗むことに成功した。このワームは、テキストや画像に悪意あるプロンプトを埋め込むことにより、AIを騙して機密情報を抽出し、それを広げる。特に、電子メールアシスタントを通じて感染が広がり、ソーシャルセキュリティ番号やクレジットカード情報など、重要な個人情報の流出が懸念されるという。
+
+@
+
+
+研究チームによると、Morris IIは「ゼロクリックマルウェア」としても機能し、悪意のある実行をトリガーするためにユーザーが何か （ハイパーリンク、ファイルなど） をクリックすることなく自動的に感染を広げることが可能である。この点が、既存のセキュリティ対策を回避しやすくしており、AI技術のセキュリティに新たな課題を提示している。
+
+このワームは、生成AIエコシステムの不適切なアーキテクチャ設計を悪用しており、生成AI サービスの脆弱性ではないという。しかし、研究者たちは、この発見の開示責任があると考え、速やかにGoogleとOpenAIにこの発見をバグ（脆弱性）報奨金プログラムを通して論文とともに伝えた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 10 Mar 2024 12:38:34 +0000</pubDate></item><item><title>「デジタルインテリジェンスが生物学的インテリジェンスを置き換えるか？」ジェフリー・ヒントン教授がオックスフォード大学の公開講義にてAIの未来に警鐘　</title><link>https://ledge.ai/articles/will_digital_intelligence_replace_biological_intelligence_geofferey_hinton_romanes_lecture</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2272,28 +2301,7 @@ OpenAIは2024年1月31日、大規模言語モデル（LLM）が生物学的脅�
 :::box
 
 :::
-</description><pubDate>Tue, 13 Feb 2024 06:53:55 +0000</pubDate></item><item><title>WEELが「AGI終末時計」を公開、2027年の汎用人工知能到来を予測</title><link>https://ledge.ai/articles/weel_agi_doomsday_clock</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-株式会社WEELは2024年1月25日、「AGI終末時計」を{target=“_blank”}した。
-
-これは、AGI（汎用型人工知能）の進歩とその社会への影響を可視化し、AGIの到来までのカウントダウンやAIビックテックのAGI到達レベル、現在人間が行う仕事の消滅度などをまとめたプロジェクトだ。イーロン・マスク氏やサム・アルトマン氏のような業界著名人の予測やWEEL独自の指標により、AGIの到来時期を残り約3年と予測。
-
-2027年にAGIが実現するとの仮定で終末時計はカウントダウンを続ける。現在のAIの進歩状況を明らかにし、将来の働き方の変化やAIによる仕事の置き換えについて考察することを目的とし、正しい情報の伝達と未来に追いつくための指標作りを目指すという。
-
-さらに、AGIの到達レベルに関する情報や、AIがどの程度仕事を代替できるかについてのパラメータも提供されている。WEELは、この取り組みを通じて、AIと人間の共創カルチャーを目指し、AI-Nativeな時代を前向きに捉える姿勢を示している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 04 Feb 2024 12:25:39 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
+</description><pubDate>Tue, 13 Feb 2024 06:53:55 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
