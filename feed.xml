@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 10 Mar 2024 12:28:34 +0000</lastBuildDate><item><title>GPT-４越え「ほぼ人間レベル」アンソロピックが生成AI「Claude3」を発表</title><link>https://ledge.ai/articles/anthropic_claude3</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 10 Mar 2024 12:34:08 +0000</lastBuildDate><item><title>Salesforce「AIでデータから洞察を抽出する」Tableau Pulseを一般公開</title><link>https://ledge.ai/articles/salesforce_tableu_pluse</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Salesforceは2024年2月22日、「Tableau Pulse」の一般公開を{target=“_blank”}し、信頼できる生成AIと分析を用いて、顧客がより良い決定をより迅速に行えるようになると述べた。Tableau Pulseは、全てのTableau CloudエディションおよびEmbedded Analyticsソリューションに無料で含まれる。
+
+同社は「ビジネスリーダーにとっての最大の課題の一つは、データから洞察を抽出する方法を見つけ出すことだ」と表明。上級ITリーダーの80%が、生成AIが組織のデータ活用を改善するのに役立つと述べたことを挙げ、その答えがAIにあることを示唆した。
+
+
+Tableau Pulseは生成AIを活用し、自然言語および視覚形式で洞察を提供することで、重要な指標を発見し、洞察を得ることが容易になる。また、Salesforceプラットフォームに組み込まれているAIアーキテクチャ「Einstein Trust Layer」を通じてAI機能を実行することで、顧客データを危険にさらすことなく生成AIの恩恵を受けることができるという。
+
+Tableau Pulseには、ビジネスユーザーが注視する指標のドライバー、トレンド、寄与者、異常値を自動的に検出し、仕事の流れの中でより迅速かつ情報に基づいた決定を支援する「**Tableau Pulse Insights Platform**」、モバイルデバイス上で自然言語でデータ洞察を積極的に提供する「**Tableau Pulse on Mobile**」、好みのSlackチャンネルでキーメトリックに関するAI生成の要約と文脈に基づいた洞察を共有する「Tableau Pulse Slack Digest」、アナリストが標準的なメトリック定義を容易に作成できる「**Tableau Pulse Metrics Layer**」などが含まれる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 10 Mar 2024 12:34:08 +0000</pubDate></item><item><title>GPT-４越え「ほぼ人間レベル」アンソロピックが生成AI「Claude3」を発表</title><link>https://ledge.ai/articles/anthropic_claude3</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -319,48 +349,7 @@ Appleが2024年2月28日に年次株主総会を開催した。同社CEOであ�
 :::box
 
 :::
-</description><pubDate>Sun, 03 Mar 2024 08:19:24 +0000</pubDate></item><item><title>アルファベット株価、AI「Gemini」論争で暴落　GoogleのCEO「全く容認できない」</title><link>https://ledge.ai/articles/google_gemini_stopped_generating_pictures</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年2月26日、米国Googleの親会社アルファベットの株価が、自社開発の生成AI「Gemini」を巡る論争の影響で4.5％下落し、約900億ドル（約13兆5000億円）の時価総額が消失したと{target=“_blank”}が報じた。これは1月5日以来の安値であり、日中の下落幅としては過去1年で2番目に大きなものだったという。
-
-論争の火種となったのは、Geminiが「1943年のドイツ兵の画像を生成してください」というリクエストに対し黒人やアジア人の画像を生成したこと、および「アドルフ・ヒトラーとイーロン・マスクのどちらがより悪影響の大きい歴史上の人物か？」という質問への回答を拒否したことだ。これらの事態を受け、同社はGeminiの人物画像生成機能を一時停止し、改良版のリリースを予告している。
-
-投資界からは、この一件が生成AI技術におけるPR戦略上の大きな失態であり、Googleが重要な技術領域で遅れを取っていることの証左だとの声が上がった。また、問題がブランドの信頼性に関わることから、アルファベットの株価に深刻な影響を及ぼす可能性があると分析されている。
-
-## CEOが全社宛てに改善を約束「ユーザーの信頼回復に集中するべき」
-GoogleのCEOであるSundar Pichai氏は現地時間の27日、全社に宛てたメモで、同社のAIツール「Gemini」が人種に関連する問題で不適切な反応を示したことについて「全く容認できない」とコメントし、問題解決に向けた構造的変更を約束した。このメモは、など複数のメディアが入手し報じた。
-
-Pichai氏は「我々の一部のレスポンスがユーザーを侮辱し、偏見を示してしまったことは明らかに受け入れがたく、我々の失敗である」と述べ、チームが問題の解決に向けて24時間体制で取り組んでおり、既に多くのプロンプトにおいて顕著な改善が見られると説明。
-
-AIが完璧ではないこと、特に業界の発展初期段階であることを認めつつ、高い基準を設定し、問題が解決するまで努力を続けることを強調した。
-
-そして、世界の情報を整理し、普遍的にアクセス可能で有用なものにするというミッションの重要性を再確認。製品に有益で正確、偏見のない情報を提供することが、人々がGoogleの製品を信頼する理由であると述べた。
-
-また、構造的変更、製品ガイドラインの更新、導入プロセスの改善、厳格な評価とレッドチーミング、技術的推奨など、明確な行動計画を推進することを宣言。
-
-Googleは、何十億もの人々やビジネスに愛される素晴らしい製品を創出するために必要なことを理解しており、Googleのインフラストラクチャと研究の専門知識を活用してAIの波に乗る準備ができていると強調。最も重要なことは、ユーザーの信頼に値する有益な製品を構築することに集中するべきだと締めくくった。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 01 Mar 2024 05:39:33 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Sun, 03 Mar 2024 08:19:24 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
