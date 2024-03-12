@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 10 Mar 2024 12:38:34 +0000</lastBuildDate><item><title>Salesforce「AIでデータから洞察を抽出する」Tableau Pulseを一般公開</title><link>https://ledge.ai/articles/salesforce_tableu_pluse</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 11 Mar 2024 06:49:45 +0000</lastBuildDate><item><title>あいおいニッセイ　国内初の「生成AI専用保険」提供開始　情報漏洩の損害など補償</title><link>https://ledge.ai/articles/aioinissei_archaic_genai_exclusive_insurance</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+あいおいニッセイ同和損保とArchaicは2024年2月28日、国内で初めてとなる「生成AI専用保険」の提供を開始すると{target=“_blank”}した。この新しい保険商品は、生成AIの導入に伴うリスクへの対応策として開発され、2024年3月より提供される。両社は、生成AIの安全かつ安心な利用を促進し、導入企業が直面する様々な不安を払拭することを目的としている。
+
+生成AIの急速な普及を背景に、権利侵害や情報漏洩、出力結果の正確性に関するリスクが企業の導入障壁となっている現状がある。両社は、生成AIによって生じる新たなリスクへの対処方法を共同で開発し、生成AIの更なる普及と社会的な発展に貢献することを目指すという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「生成AI専用保険」は、知的財産権の侵害や情報漏洩等が発生した際に企業が負担する様々な費用を補償する。また、事故後の補償に留まらず、Archaicが提供するガバナンス体制の構築支援や事故発生後のコンサルティングサービスをパッケージで提供する。これにより、事故の未然防止や事故後の早期回復機能を加え、企業の安全・安心な生成AI利用を支援するとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 11 Mar 2024 06:49:45 +0000</pubDate></item><item><title>Salesforce「AIでデータから洞察を抽出する」Tableau Pulseを一般公開</title><link>https://ledge.ai/articles/salesforce_tableu_pluse</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -321,35 +349,7 @@ Googleの裁判所提出書類は、業界内での検索エンジンの競争�
 :::box
 
 :::
-</description><pubDate>Mon, 04 Mar 2024 02:23:27 +0000</pubDate></item><item><title>AppleのCEO「生成AIが未来を再定義する」　株主総会でAIへの大規模投資を発表－EV開発中止には触れず</title><link>https://ledge.ai/articles/apple_stopped_ev_developping_and_moving_into_genai</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Appleが2024年2月28日に年次株主総会を開催した。同社CEOであるティム・クック氏は、人工知能への大規模な投資を行っていると述べたことが{target=“_blank”}など複数メディアで報じられた。
-
-クック氏は「生成AIには信じられないほどの画期的な可能性があると考えており、そのため現在この分野に多額の投資を行っている。これにより、生産性や問題解決などの点で、ユーザーにとって変革の機会が開かれると信じている」と述べたという。
-
-かつて「AI」と呼ぶことを避け{target=“_blank”}する傾向があったクック氏だが、同社が何年もこの技術に取り組んできたことを強調するために、発表されたいくつかのApple製品を「AI搭載」と言い換えたとのこと。
-
-同氏は「今年後半に、未来を再定義できると当社が信じている技術である生成AIの新境地を開拓する方法を皆さんと共有できることを楽しみにしている」と語ったという。
-
-
-一方、会議前日の27日に、長年にわたり注力してきた電気自動車（EV）の開発を中止し、代わりに生成AI事業への移管を加速する方針を固めたことが関係筋の話として{target=“_blank”}により報じられたが、会議ではこの話題には触れられなかったという。
-
-報道によると、EV開発の中止は、同社が過去10年以上にわたり秘密裏に進めてきた「タイタン」プロジェクトの中止という形で明らかになった。プロジェクトでは、完全自動運転技術などを含む次世代のEV技術開発に巨額の投資が行われてきた。プロジェクトに携わっていた従業員の一部を人工知能（AI）部門へ異動させる計画であることが明らかにされた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 03 Mar 2024 08:19:24 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Mon, 04 Mar 2024 02:23:27 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
