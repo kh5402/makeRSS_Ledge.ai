@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 12 Mar 2024 08:39:10 +0000</lastBuildDate><item><title>Meta、動画エコシステム全体を強化するため巨大AIモデルの構築を進行中</title><link>https://ledge.ai/articles/meta_is_building_a_giant_ai_model</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 13 Mar 2024 09:11:55 +0000</lastBuildDate><item><title>InflectionAI　高い共感力(EQ)を持つパーソナルAI「Pi」がグレードアップ(IQを追加)　新モデル「Inflection-2.5」発表</title><link>https://ledge.ai/articles/inflection_2-5</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国AI企業の Infletion AI は2024年3月7日、同社のパーソナルAI「Pi」の最新基盤モデル「Inflection-2.5」を{target=“_blank”}した。
+
+すべての人に共感的で役立つ安全なパーソナルAIの提供をミッションとする同社は、2023年5月に「Pi」を発表。親切で支援的なパーソナルAIアシスタントとして設計されたPiは、新しいタイプのAIとして、その類稀なる共感力（EQ）が話題となった。6月にはNVIDIAなどから総額13億ドルを調達し、11月には、LLM「Inflection-2」を発表している。
+
+このたび発表された「Inflection-2.5 」は、PiのEQにIQを加える形で導入されたという。新たなモデルは、GPT-4やGeminiのような主力AIに匹敵する性能を持つモデルだと同社は述べる。このアップグレードは、iOS、Android、新たにリリースされたデスクトップアプリを含むpi.aiで、全Piユーザーに提供される。
+
+Inflection-2.5は、GPT-4と同等の性能を目指しつつ、訓練に要する計算量を40%に抑えるという効率性を実現したという。特にコーディングや数学などのIQ関連領域で顕著な進歩を遂げ、業界標準ベンチマークにおいても具体的な改善が見られる。これによりPiは、技術の最前線を推し進めることができる。さらに、Piは世界クラスのリアルタイムWeb検索機能も備え、ユーザーに高品質な最新ニュースや情報を提供する。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+毎日100万人、毎月600万人のアクティブユーザーがPiと交流し、その数は40億を超えるメッセージ交換に達しているという。Piとの平均会話時間は33分で、10回に1回は1時間以上に及ぶ。週に1回Piと会話する人の約60%が翌週も戻って来ており、月間の定着率は主要競合よりも高いとのことだ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Inflection-2.5の導入以来、ユーザーからの感想は非常に肯定的で、ユーザーの感情、エンゲージメント、リテンションに著しい影響を与え、結果としてオーガニックなユーザー成長を加速させているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 13 Mar 2024 09:11:55 +0000</pubDate></item><item><title>OpenAIなどのAI企業から独立してモデル評価研究可能な「セーフハーバー」求め250名を超える研究者たちが署名</title><link>https://ledge.ai/articles/a_safe_harbor_for_ai_evaluation_and_red_teaming</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年3月5日、250名を越えるAIの研究者や専門家たちが、AIの安全性・信頼性評価のための研究やレッドチーミング活動を、法的・技術的なリスクから保護するための「セーフハーバー（Safe Haobor：安全港）」の設置を提案する{target=“_blank”}した。
+
+この書簡の元となる{target=“_blank”}の著者たちが、{target=“_blank”}で提案内容を説明している。彼らは、AI企業に対し、自社のAIモデルに関する誠実な研究に対して、法的および技術的保護の提供を奨励すると述べ、独立研究への既存の障壁と、より公平で透明性があり、説明責任のある研究者エコシステムをどのように開発できるかを解説した。
+
+既存のセーフハーバーは、セキュリティ研究を保護するが、安全性と信頼性の研究は保護しないと主張。現行のセキュリティ研究を保護する法律は、AIの安全性や信頼性の研究を十分にはカバーしておらず、研究者が法的なリスクや技術的な障害（アカウントの停止など）に直面することなく、独立した評価を行うことを妨げているという。
+
+
+**大手 AI 企業のポリシーのギャップを示す表**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+法的および技術的なセーフハーバーを設けることにより、AI研究者が公益のために行う評価研究を保護し、そのような研究が、確立された脆弱性開示ルールに従って実施される限り、 企業の利用規約に反していると見なされない状態の提供を求めている。この提案により、AI企業が研究者に対して訴訟を起こすリスクが軽減され、研究者がセキュリティ脆弱性を公開する際の法的な保護が強化されることが期待されるという。
+
+公開書簡への賛同は増え続け、現在は{target=“_blank”}が集まっている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 13 Mar 2024 09:05:52 +0000</pubDate></item><item><title>Meta、動画エコシステム全体を強化するため巨大AIモデルの構築を進行中</title><link>https://ledge.ai/articles/meta_is_building_a_giant_ai_model</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -329,56 +399,7 @@ OpenAIは2024年3月5日、同社のブログでこのような声名を{target=
 
 :::
 
-</description><pubDate>Thu, 07 Mar 2024 09:43:26 +0000</pubDate></item><item><title>ソフトバンクがHumaneとの戦略的パートナーシップ提携　日本における「Ai Pin」の独占通信提供者に</title><link>https://ledge.ai/articles/humane_softbank_partnership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国スタートアップのHumaneは2024年2月28日、AI駆動のオペレーティングシステム「CosmOS」とAIデバイス「Ai Pin」の日本展開について、ソフトバンクとの戦略的パートナーシップを{target=“_blank”}した。
-
-このパートナーシップでは、ソフトバンクが日本におけるAi Pinの独占通信提供者となり、同社の広範なサービスと顧客基盤を活用して、Ai Pinを市場に導入する。さらに、ソフトバンクとHumaneは、CosmOSを他のモバイルデバイスに導入し、アプリ不要のサービスやAI駆動のユーザーエクスペリエンスからなる新たなエコシステムの構築に協力する計画だという。
-
-Humaneが2023年11月に{target=“_blank”}は、手のひらに投影するレーザーインクディスプレイを搭載したウェアラブルデバイスで、ピンマイクのように胸元に装着する。スマートフォンのような画面はなく、声や手の動きで通話や情報検索、翻訳ができる。
-
-Qualcomm Snapdragonプロセッサを搭載し、カメラやセンサーで環境を追跡・記録する。レーザープロジェクターを使用して情報を手のひらに投影するなど、新しいインタラクション方法を提供する。デバイスは、いわゆる「ウェイクワード」を使用せず、ユーザーの操作によってのみアクティブ化され、プライバシー保護が徹底されているという。
-
-@
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 06 Mar 2024 07:44:25 +0000</pubDate></item><item><title>Adobe、生成AIを搭載した音楽生成・編集ツール「Project Music GenAI Control」を発表</title><link>https://ledge.ai/articles/adobe_project_music_gebau_control</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Adobeは2024年2月28日、テキストプロンプトから音楽を生成し、その音楽を編集するための新たな生成AIツール「Project Music GenAI Control」を{target=“_blank”}した。
-
-クリエイターはテキストプロンプトから音楽を生成し、そのオーディオを細かく編集して正確なニーズに合わせられるようになる。このツールは、放送業者やポッドキャスターなど、特定のムード、トーン、長さのオーディオが必要なすべての人々がプロジェクトのための音楽作成の助けになるという。
-
-@
-
-ユーザーが「パワフルなロック」「ハッピーなダンス」「悲しいジャズ」といったテキストプロンプトを入力して音楽を生成する。ツールが音楽を生成すると、きめ細かい編集がワークフローに直接統合される。生成された音声は、参照メロディに基づいて変換されたり、音楽のテンポ、構造、繰り返しパターンの調整、オーディオの強度の増減、クリップの長さの延長、セクションのリミックス、シームレスに繰り返し可能なループの生成など、多岐にわたる編集が可能になる。これにより、手作業で既存の音楽をカットしてイントロ、アウトロ、バックグラウンドオーディオを作る代わりに、ユーザーが正確に必要とする音楽を作成できるようになるとのこと。
-
-Adobe ResearchのシニアリサーチサイエンティストであるNicholas Bryan氏は「興味深いのは、単にオーディオを生成するだけではなく、クリエイティブにオーディオの形を整え、微調整し、編集するための同様の詳細な制御を提供することで、オーディオを Photoshop のレベルまで引き上げていることです。これは音楽のピクセルレベルのコントロールのようなものです」
-と述べた。
-
-Project Music GenAI Controlは、音楽生成AIツールとして、著作権に関する倫理的および法的な懸念に対して責任を持って対応し、クリエイティブなプロセスを豊かにすることを目指すという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 06 Mar 2024 07:40:36 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Thu, 07 Mar 2024 09:43:26 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
