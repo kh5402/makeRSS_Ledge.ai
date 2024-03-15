@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Mar 2024 07:21:11 +0000</lastBuildDate><item><title>ビヨンド「AI＆バーチャル面接」で個性や内面を重視する新卒採用　</title><link>https://ledge.ai/articles/beyond_ai-virtual_graduate_recruitment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Mar 2024 07:24:21 +0000</lastBuildDate><item><title>日本IBM、戦略策定からシステム開発、運用、プロジェクト管理までを網羅的に支援する「AIソリューション」を提供開始</title><link>https://ledge.ai/articles/ibm-solutions_for_aI_utilizing_genai_for_it_transformation</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日本IBMは2024年3月7日、ビジネス向けAI及びデータ・プラットフォーム「IBM watsonx」を含む最新AI技術を駆使し、戦略策定からシステム開発、運用、プロジェクト管理までを網羅的に支える「IT変革のためのAIソリューション」の提供開始を{target=“_blank”}した。
+
+ITシステムが企業にとって競争力の源泉であり、事業の継続と変革に不可欠な基盤である現状を背景に、システム開発の省力化、効率化及び高度化を図るものだ。
+
+「IT変革のためのAIソリューション」は、AI戦略策定とガバナンス、コード生成のためのAI、テスト自動化のためのAI、IT運用高度化のためのAI、プロジェクト管理のためのAIの5つの要素から成り立つ。これにより、システム構築のライフサイクル全体が効率化され、基幹システムを含むITシステムの開発と運用のあり方が抜本的に変わると同社は述べる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このソリューションは、AIの活用により省力化、生産性の向上および大規模言語モデル（LLM）への知見の取り込みが可能となり、情報システム関係者の働き方を根本から変えるという。日本IBMは、2027年までに分析、要件定義、設計/開発、テスト、運用の各フェーズで30%以上の効率化を、2030年には開発と運用全体で50%の速度向上と効率化を目指す。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 14 Mar 2024 07:24:21 +0000</pubDate></item><item><title>ビヨンド「AI＆バーチャル面接」で個性や内面を重視する新卒採用　</title><link>https://ledge.ai/articles/beyond_ai-virtual_graduate_recruitment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -355,43 +382,7 @@ Figureは１月に自動車製造環境において汎用ロボットを導入�
 :::box
 
 :::
-</description><pubDate>Sat, 09 Mar 2024 11:05:26 +0000</pubDate></item><item><title>Microsoftが新LLM開発の仏ミストラルAIとのパートナーシップを発表　市場独占の懸念からEUより調査要求が上がる</title><link>https://ledge.ai/articles/microsoft_and_mistralai_a_new_partnership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Microsoftは2024年2月26日、フランスに本拠を置くAIの新興企業ミストラルAIとの提携を{target=“_blank”}した。
-
-ミストラルAIは同じ日に、新たな大規模言語モデル「Mistral Large」のリリースを{target=“_blank”}した。同社の新たなフラッグシップモデルとなるこのLLMは、テキスト理解、変換、コード生成を含む複雑な多言語推論タスクに使用可能だ。このモデルは、LLMの主要なベンチマークのひとつであるMMLUにおいて、GPT-4に次ぐ強力な結果を残したという。
-
-わずか9ヶ月でOpenAIに匹敵するAIモデルを開発したとされるミストラルAIは、フロンティアAIをより広く普及させることを使命とし、その一環としてMicrosoftとのパートナーシップを通じて、モデルをMicrosoftのクラウドサービス「Azure」に提供する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同モデルはまた、英語、フランス語、スペイン語、ドイツ語、イタリア語にネイティブ対応し、文法と文化的文脈の洗練された理解を提供するという。32Kトークンのコンテキストウィンドウにより、大規模なドキュメントからの精密な情報回収が可能とのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-一方、MicrosoftとミストラルAIの提携により、市場の寡占化が進むことへの懸念が高まっており、欧州連合（EU）の欧州議会から調査を求める声が上がっていると2月27日に{target=“_blank”}が報じている。特に、MicrosoftとミストラルAIの提携は、AI技術の進化と市場競争のバランスを巡る欧州内の議論を促す可能性があるという。2023年12月には、イギリスの競争・市場庁がMicrosoftとOpenAIとの提携において、独占禁止法上の問題を検討していることが報じられた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 07 Mar 2024 09:49:04 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
+</description><pubDate>Sat, 09 Mar 2024 11:05:26 +0000</pubDate></item><item><title>パーソルホールディングス、生成AI研修で社員スキルアップを加速</title><link>https://ledge.ai/articles/persol_group_upreskilling</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
