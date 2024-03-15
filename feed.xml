@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Mar 2024 07:24:21 +0000</lastBuildDate><item><title>ビヨンド「AI＆バーチャル面接」で個性や内面を重視する新卒採用　</title><link>https://ledge.ai/articles/beyond_ai-virtual_graduate_recruitment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 14 Mar 2024 08:33:46 +0000</lastBuildDate><item><title>元GoogleエンジニアがAIの機密情報を中国企業に流出させた疑いで逮捕起訴　米国司法省「AIおよび先端技術の窃盗を容認しない」</title><link>https://ledge.ai/articles/ex-google_engineer_arrested_theft_ai_related_trade</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国司法省は2024年3月6日、中国国籍でカリフォルニア州ニューアークに居住するLinwei Ding 38歳が、GoogleからAI技術に関する独自の情報を窃取したとして、貿易秘密窃盗の4件の容疑で起訴されたと{target=“_blank”}した。
+
+{target=“_blank”}によると、Linwei Ding（別名：Leon Ding）は、2019年にGoogleのソフトウェアエンジニアとして雇用され、同社の高度なスーパーコンピューティングデータセンターに展開されるソフトウェアの開発を担当していた。Ding被告は、中国に本拠を置く2社のAI産業関連企業と秘密裏に関与しながら、Googleのネットワークから自身の個人アカウントへ貿易秘密を含む機密情報を移動させていた。Ding被告は5日早朝、カリフォルニア州ニューアークで逮捕されたという。
+
+被告は、2022年5月から2023年5月にかけて500以上のファイルを不正にアップロードし、Googleの機密情報を外部に流出させた。これらの情報には、TPUおよびGPUチップの設計図やソフトウェアの詳細、そしてこれらを統合して超計算能力を持つプラットフォームを構築するための知識が含まれていたとのこと。
+
+盗んだとされる技術は、Googleの先進的なスーパーコンピューティングデータセンターの基盤となるもので、大規模なAIモデルのトレーニングやホスティングに使用される機械学習ワークロードをサポートするために設計されている。これらのデータセンターは、細かな言語を理解し、プロンプト、タスク、またはクエリに対して知的な応答を生成する能力を持つAIアプリケーションである大規模AIモデルを使用する。
+
+Ding被告が有罪とされた場合、商業秘密の窃盗に関する各容疑について最大10年の懲役および最大25万ドルの罰金が科されることになる。刑罰は、連邦地方裁判所の裁判官が米国量刑ガイドラインおよびその他の法的要因を考慮した上で決定される。
+
+司法省は「AIおよびその他の先端技術の窃盗を容認しない。この技術が国家安全保障にリスクをもたらす可能性がある場合はなおさらだ」と述べ、アメリカで開発された機微な技術が不当に入手できるべきでない者の手に渡ることを強く防ぐ意向を示した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 14 Mar 2024 08:33:46 +0000</pubDate></item><item><title>ビヨンド「AI＆バーチャル面接」で個性や内面を重視する新卒採用　</title><link>https://ledge.ai/articles/beyond_ai-virtual_graduate_recruitment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -355,43 +381,7 @@ Figureは１月に自動車製造環境において汎用ロボットを導入�
 :::box
 
 :::
-</description><pubDate>Sat, 09 Mar 2024 11:05:26 +0000</pubDate></item><item><title>Microsoftが新LLM開発の仏ミストラルAIとのパートナーシップを発表　市場独占の懸念からEUより調査要求が上がる</title><link>https://ledge.ai/articles/microsoft_and_mistralai_a_new_partnership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Microsoftは2024年2月26日、フランスに本拠を置くAIの新興企業ミストラルAIとの提携を{target=“_blank”}した。
-
-ミストラルAIは同じ日に、新たな大規模言語モデル「Mistral Large」のリリースを{target=“_blank”}した。同社の新たなフラッグシップモデルとなるこのLLMは、テキスト理解、変換、コード生成を含む複雑な多言語推論タスクに使用可能だ。このモデルは、LLMの主要なベンチマークのひとつであるMMLUにおいて、GPT-4に次ぐ強力な結果を残したという。
-
-わずか9ヶ月でOpenAIに匹敵するAIモデルを開発したとされるミストラルAIは、フロンティアAIをより広く普及させることを使命とし、その一環としてMicrosoftとのパートナーシップを通じて、モデルをMicrosoftのクラウドサービス「Azure」に提供する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同モデルはまた、英語、フランス語、スペイン語、ドイツ語、イタリア語にネイティブ対応し、文法と文化的文脈の洗練された理解を提供するという。32Kトークンのコンテキストウィンドウにより、大規模なドキュメントからの精密な情報回収が可能とのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-一方、MicrosoftとミストラルAIの提携により、市場の寡占化が進むことへの懸念が高まっており、欧州連合（EU）の欧州議会から調査を求める声が上がっていると2月27日に{target=“_blank”}が報じている。特に、MicrosoftとミストラルAIの提携は、AI技術の進化と市場競争のバランスを巡る欧州内の議論を促す可能性があるという。2023年12月には、イギリスの競争・市場庁がMicrosoftとOpenAIとの提携において、独占禁止法上の問題を検討していることが報じられた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 07 Mar 2024 09:49:04 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
+</description><pubDate>Sat, 09 Mar 2024 11:05:26 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
