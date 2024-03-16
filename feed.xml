@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Mar 2024 11:52:42 +0000</lastBuildDate><item><title>元GoogleエンジニアがAIの機密情報を中国企業に流出させた疑いで逮捕起訴　米国司法省「AIおよび先端技術の窃盗を容認しない」</title><link>https://ledge.ai/articles/ex-google_engineer_arrested_theft_ai_related_trade</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Mar 2024 12:03:35 +0000</lastBuildDate><item><title>元GoogleエンジニアがAIの機密情報を中国企業に流出させた疑いで逮捕起訴　米国司法省「AIおよび先端技術の窃盗を容認しない」</title><link>https://ledge.ai/articles/ex-google_engineer_arrested_theft_ai_related_trade</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1699,7 +1699,37 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>Stability AIが高速で単一画像から3Dオブジェクトを生成する「TripoSR」を公開　</title><link>https://ledge.ai/articles/stabilityai_triposr</link><description>:::small
+:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>トヨタ研究所（TRI）柔らかいボディをうまく使って作業するロボット「Punyo（ぷにょ）」を公開
+</title><link>https://ledge.ai/articles/toyota_punyo_humanoid_soft_robot</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+トヨタの先端技術開発拠点であるToyota Research Institute（TRI）は2024年2月28日、新型ロボット「Punyo（ぷにょ）」の開発とその動画をYouTube上で{target=“_blank”}した。
+
+Punyoは、人間のように全身を使って物体を操作する能力を持つ柔らかいロボットだ。従来の人型ロボットが主に腕やグリッパーを用いて物体を扱うのに対し、Punyoはその柔軟な身体全体を利用してより複雑な操作を行う。このロボットは足は持たず、現段階では胴体と操作技能の開発に焦点を置いている。
+
+TRIの技術リーダーであるAlex Alspach氏は、「私たちのミッションは、家庭内やその他の場所での日常的なタスクを助けることだ」と述べ、多くの操作タスクでは手や指だけでなく、全身を使うことが必要であると説明している。
+
+@
+
+Punyoの身体は、触覚センサーを備えた柔らかい素材で覆われており、物に触れるときも優しく抱きしめることができる。このロボットの腕は、空気で満たされたブラダーや泡で構成され、これらが圧力センサーに接続されている。これによって、外部からの力を感知し、必要に応じて柔軟性を調整することができるという。
+
+また、グリッパーの代わりに、カメラを内蔵した高摩擦ラテックスの「パウ」と呼ばれる「手」を使用している。このカメラは、泡の内部に印刷された点パターンの変形を監視することで、力を推定する。
+
+Punyoは、「拡散ポリシー法（人が行う動作を見て学ぶ）」と「例示誘導強化学習法（ロボット自身が試行錯誤しながら最適な動きを見つける）」の２つの方法を用い、どのように物を掴んだり動かしたりするのかを学ぶ。これらの方法により、人間のデモンストレーションを参考にしながら、モデル化が困難なタスクのための堅牢なセンサーモーターポリシーを学習しているという。
+
+将来的には家庭や職場での様々なタスクをPuynoが支援することで、ロボットと人間との協働が進み、人間の生活の質を向上させることが期待できるとのこと。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 15 Mar 2024 12:03:35 +0000</pubDate></item><item><title>Stability AIが高速で単一画像から3Dオブジェクトを生成する「TripoSR」を公開　</title><link>https://ledge.ai/articles/stabilityai_triposr</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2124,51 +2154,7 @@ Image to Image ：与えられた画像にノイズを加え、これを生成�
 :::box
 
 :::
-</description><pubDate>Mon, 19 Feb 2024 02:49:43 +0000</pubDate></item><item><title>OpenAI　文章から高精細な動画を生成するAI「Sora」を発表　レッドチーム中心にリリース前の安全性を検証中　</title><link>https://ledge.ai/articles/openai_sora</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国OpenAIは2024年2月15日、テキストからリアルで想像力豊かなシーンを生成できるAIモデル「Sora（ソラ）」を開発中であると{target=“_blank”}した。詳細なシーン、複雑なカメラの動き、生き生きとした感情を持った複数のキャラクターをフィーチャーした最大60秒の動画を作成できるという。
-
-同社は、モデルが現実世界の物理的な動きを理解しシミュレートすることを学び、実世界の相互作用が必要な問題を解決するための訓練が行われることを目標としている。Soraは、ユーザーのプロンプトに応じて最大1分間のビデオを生成しながら、視覚品質とプロンプトへの遵守を維持する能力を持つという。
-
-複数のキャラクター、特定の種類のモーション、被写体と背景の正確な詳細を含む複雑なシーンを生成でき、ユーザーがプロンプトに求めているものだけでなく、それらが物理世界にどのように存在するのかも理解するという。
-
-例：プロンプト「まるで渡り鳥のように木々を縫うように、紙飛行機の群れが鬱蒼としたジャングルの中を飛び回る」
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-言語を深く理解しているSoraは、プロンプトを正確に解釈し、生き生きとした感情を表現する魅力的なキャラクターを生成できる。また生成された1つのビデオ内で、キャラクターやビジュアル・スタイルを正確に表現する複数のショットを作成可能だという。
-
-現行モデルの弱点についても解説されている。Soraは複雑なシーンの物理的な状況を正確に再現する、原因と結果の具体的な例を理解する、などが苦手で、例えば、クッキーをかじった後、そのクッキーにかじった跡がない、といったことが起こり得るという。また、プロンプトの空間的な詳細、たとえば左と右を混同したり、特定のカメラの軌跡をたどるような、時間をかけて起こる出来事の正確な描写に苦労することもある。
-
-例：次々とクローンが出現してしまう
-プロンプト「草に囲まれた人里離れた砂利道で、5頭の子供の狼がじゃれ合い、追いかけっこをしている。子狼たちは走ったり跳ねたり、追いかけっこをしたり、なぐり合ったりして遊んでいる」→弱点：たくさんの実体を含むシーンでは特に、動物や人が自然に現れることがある。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社は、モデルを敵対的にテストする「レッドチーム (誤った情報、憎悪に満ちたコンテンツ、偏見などの分野の専門家)」 と協力し、Soraを製品としてリリースする前に、重要な安全措置を講じる。
-
-現在Soraは、レッドチームのほか、ビジュアルアーティスト、デザイナー、映画制作者にアクセスが提供されており、創造的な専門家にとって最も有用なモデルを進化させるためのフィードバックを得ることを目指している。
-
-OpenAIは、いくら広範に調査とテストを行っても、人々が同社のテクノロジーを有益に使用する、あるいは悪用するすべての方法を予測することは不可能だとし、現実世界での使用から学ぶことが重要だと主張。時間の経過とともにより安全性が高まるAIシステムを作成してリリースしていくと述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 17 Feb 2024 04:45:45 +0000</pubDate></item><item><title>富山県、生成AIとマルチモーダルAIによる職員の働き方改革を検証ーーインテックと共同で実証実験</title><link>https://ledge.ai/articles/toyama-intec_working_with_gen_and_multimodal_ai</link><description>:::small
+</description><pubDate>Mon, 19 Feb 2024 02:49:43 +0000</pubDate></item><item><title>富山県、生成AIとマルチモーダルAIによる職員の働き方改革を検証ーーインテックと共同で実証実験</title><link>https://ledge.ai/articles/toyama-intec_working_with_gen_and_multimodal_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
