@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 15 Mar 2024 12:03:35 +0000</lastBuildDate><item><title>元GoogleエンジニアがAIの機密情報を中国企業に流出させた疑いで逮捕起訴　米国司法省「AIおよび先端技術の窃盗を容認しない」</title><link>https://ledge.ai/articles/ex-google_engineer_arrested_theft_ai_related_trade</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 16 Mar 2024 05:02:19 +0000</lastBuildDate><item><title>GPT-4発表から1年、Microsoft Copilpt のページに「GPT-5」の表記見つかりXユーザーが大盛り上がりするも...</title><link>https://ledge.ai/articles/microsoft-copilot_gpt5_was_just_a_typo</link><description>:::small
+Microsoft Copilotのサイトより：「GPT-5」という文字列が出現（3/14）したが、翌日（3/15）には「GPT-4」に戻っていた
+:::
+
+2023年3月14日、法人向け{target=“_blank”}のWebサイトにて、「Copilot Pro」プランの特徴として「ピークタイム時のGPT-4とGPT-5 Turboへの優先アクセス」という文言が確認された。
+しかし、翌日の15日には該当する表記がWebサイトから削除された。この変更は、X（旧Twitter）上でユーザーから「そろそろ発表か？」「ただの誤字ではないか？」との指摘が相次いだ後のことだ。
+
+奇しくも2023年3月14日は、GPT-4の発表が行われた記念すべき日であったため、一部のユーザーは1年後の同日にGPT-5の発表があるのではないかと期待していた模様。MicrosoftおよびOpenAIからは、GPT-5に関する公式発表はない。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 16 Mar 2024 05:02:19 +0000</pubDate></item><item><title>元GoogleエンジニアがAIの機密情報を中国企業に流出させた疑いで逮捕起訴　米国司法省「AIおよび先端技術の窃盗を容認しない」</title><link>https://ledge.ai/articles/ex-google_engineer_arrested_theft_ai_related_trade</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -350,38 +369,7 @@ Claude3モデルファミリーは初期段階で200Kの長いコンテキスト
 :::box
 
 :::
-</description><pubDate>Sun, 10 Mar 2024 12:28:34 +0000</pubDate></item><item><title>ヒト型ロボット開発のスタートアップ Figure がNVIDIA、Microsoft、OpenAI含む大手テック企業から6億7500万ドルの資金調達</title><link>https://ledge.ai/articles/figure_raises_675million_from_openai_and_others</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国カリフォルニア州に本拠を置く新興企業 Figure は2024年2月29日、ヒト型ロボットの開発を加速させるために NVIDIA、Microsoft、OpenAI を含む大手テック企業から6億7500万ドル（約1000億円）の資金を調達し、2.6億ドルの評価額に達したことを{target=“_blank”}した。
-
-この資金調達には、Amazon.com創業者のジェフ・ベゾスを含む複数の投資者が参加しており、Figureはこの資金を利用して、ロボット用の大規模言語モデルの開発、製造の拡大、新たな人材の採用に充てる計画だ。
-
-FigureのCEO、Brett Adcock氏は、今回の資金調達と協業が同社にとって重要なマイルストーンであることを強調。特に、OpenAIとの協業により、同社のロボットが人と対話し、物を見たり、物理的なタスクを実行するためのAIモデルの開発が加速されると述べた。これらのAIモデルは、OpenAIの最新のGPTモデルに基づいて開発され、Figureが収集したロボティクスアクションデータに特化して訓練される予定だ​​。
-
-@
-
-現在、同社が開発するロボットは、人間の作業スピードの約16.7%で自動的にタスクを実行する能力があり、AIのトレーニングを拡大し、さらなる改善を図っているという。
-
-Figureは、AIインフラ、トレーニング、ストレージのためにMicrosoft Azureを活用する予定だという。Boston Dynamics、Tesla、Google DeepMind、Archer Aviation出身のトップAIロボティクス専門家からなるFigureチームは、AI、ロボット開発、ロボットテスト、商業化の主要領域で過去数ヶ月間顕著な進展を遂げている。
-
-Figureは１月に自動車製造環境において汎用ロボットを導入するため、{target=“_blank”}を発表したばかりだ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 09 Mar 2024 11:05:26 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
+</description><pubDate>Sun, 10 Mar 2024 12:28:34 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
