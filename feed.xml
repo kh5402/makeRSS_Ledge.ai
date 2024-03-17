@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 16 Mar 2024 05:02:19 +0000</lastBuildDate><item><title>GPT-4発表から1年、Microsoft Copilpt のページに「GPT-5」の表記見つかりXユーザーが大盛り上がりするも...</title><link>https://ledge.ai/articles/microsoft-copilot_gpt5_was_just_a_typo</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 16 Mar 2024 05:13:44 +0000</lastBuildDate><item><title>GPT-4発表から1年、Microsoft Copilpt のページに「GPT-5」の表記見つかりXユーザーが大盛り上がりするも...</title><link>https://ledge.ai/articles/microsoft-copilot_gpt5_was_just_a_typo</link><description>:::small
 Microsoft Copilotのサイトより：「GPT-5」という文字列が出現（3/14）したが、翌日（3/15）には「GPT-4」に戻っていた
 :::
 
@@ -1687,7 +1687,35 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>トヨタ研究所（TRI）柔らかいボディをうまく使って作業するロボット「Punyo（ぷにょ）」を公開
+:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>ヒト型ロボ「Figure01」にOpenAIの言語能力が備わり「完全に人と会話」「論理的に判断」</title><link>https://ledge.ai/articles/figure01_openai_can_now_have_full_conversations_with_people</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+With OpenAI, Figure 01 can now have full conversations with people
+「OpenAIによって、Figure01は完全に人と会話できるようになった」
+
+2024年3月13日、AIロボティクスの新興起業である米国Figureは、同社の開発するヒト型ロボット「Figure01」に、OpenAIの高度な視覚及び言語能力を組み込んだことをX（旧Twitter）で明らかにし、デモ動画を{target=“_blank”}した。
+
+動画は、Figure 01が自然言語で会話を行い、目の前にある物体を認識してリンゴを手渡す様子を披露した。このデモは、ロボットがどのようにして視覚情報を処理し、論理的な判断を下す能力を持っているかを示すものだ。
+
+@
+
+
+2月29日に、NVIDIAなどの大手テック企業から6億7500万ドルの資金調達を得たと発表したFigureは、同じ日に{target=“_blank”}も発表している。同社のロボットが人と対話し、物を見たり、物理的なタスクを実行するためのAIモデルの開発が加速されるとFigureのCEOであるBrett Adcock氏は述べた。
+
+これらのAIモデルは、OpenAIの最新のGPTモデルに基づいて開発され、Figureが収集したロボティクスアクションデータに特化して訓練されている。OpenAIのモデルは、Figure 01に高レベルの視覚及び言語知能を提供し、Figureのニューラルネットワーク技術は、迅速かつ緻密なロボットアクションを実現する。この組み合わせにより、人間との自然なコミュニケーションや複雑なタスクの実行が期待できるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 16 Mar 2024 05:13:44 +0000</pubDate></item><item><title>トヨタ研究所（TRI）柔らかいボディをうまく使って作業するロボット「Punyo（ぷにょ）」を公開
 </title><link>https://ledge.ai/articles/toyota_punyo_humanoid_soft_robot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -2050,99 +2078,7 @@ Ayaプロジェクトを追ったドキュメンタリーが公開されてい�
 :::box
 
 :::
-</description><pubDate>Wed, 21 Feb 2024 05:44:23 +0000</pubDate></item><item><title>Stability AI、「Stable Cascade」発表　Stable Diffusionより高速高品質　低スペックマシンでも追加学習・ファインチューニングが可能
-</title><link>https://ledge.ai/articles/stable_cascade</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年2月13日、Stability AIが新たにテキストから画像を生成するモデル「Stable Cascade」を{target=“_blank”}した。モデルは、非商用ライセンスでリリースされている。
-
-高品質の画像を高速で生成するこのモデルは、3つの異なるモデル（ステージA、B、C）からなるパイプラインで構築されている。この3段階のアプローチにより、一般消費者向けハードウェアでのトレーニングとファインチューニングが可能となっている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stable Cascadeの基礎として機能する「Würstchen」アーキテクチャにより、画像の階層的な圧縮が可能になり、高度に圧縮された潜在空間を利用しながら、効率的な推論と安価なトレーニングを可能にする。3段階のモデルの各ステージは、異なるパラメータサイズを持ち、画像生成の精度と細部の再構成に優れているという。
-
-ステージC（レイテントジェネレーターフェーズ）は、ユーザー入力を24x24のコンパクトな潜在空間に変換する。このステージでのテキスト条件生成を、高解像度ピクセル空間（ステージA・B）へのデコードから切り離し、ControlNets や LoRA を含む追加学習やファインチューニングをこのステージCだけで完結させる。
-
-その後、画像の圧縮に使用されるステージA・B（レイテントデコーダーフェーズ）に渡され、高い圧縮率を達成する。
-
-
-同社によると、プロンプトのアライメントと美的品質の両方においては、ほぼすべてのモデル比較でStable Cascadeの方が優れていたという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-推論速度を比較するグラフ（StableCascadeがSDXLの半分の時間で画像を生成している）
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stable Cascadeのリリースに伴い、トレーニング、ファインチューニング、ControlNet、LoRA のすべてのコードを {target=“_blank”}で公開する。
-
-
-Text to Image（テキストから画像を生成）に加え、画像にバリエーションを加える機能や、Image to Image（画像から画像を生成）などが紹介されている。
-
-バリエーション（左が入力画像）：与えられた画像から画像埋め込みを抽出し、これをモデルに戻すことで機能する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Image to Image ：与えられた画像にノイズを加え、これを生成の出発点として使用することで動作する
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-その他、リリース予定のControlNetの一部が紹介されている
-
-・インペインティング/アウトペインティング： テキストプロンプトに従い、マスクした部分を生成した画像で塗りつぶす。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-・キャニーエッジ：エッジ（輪郭）をたどって新しい画像を生成する。スケッチを元に展開することも可能。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-・2倍超解像： ステージCで生成された潜在空間にも使用可能
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 19 Feb 2024 02:49:43 +0000</pubDate></item><item><title>富山県、生成AIとマルチモーダルAIによる職員の働き方改革を検証ーーインテックと共同で実証実験</title><link>https://ledge.ai/articles/toyama-intec_working_with_gen_and_multimodal_ai</link><description>:::small
+</description><pubDate>Wed, 21 Feb 2024 05:44:23 +0000</pubDate></item><item><title>富山県、生成AIとマルチモーダルAIによる職員の働き方改革を検証ーーインテックと共同で実証実験</title><link>https://ledge.ai/articles/toyama-intec_working_with_gen_and_multimodal_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
