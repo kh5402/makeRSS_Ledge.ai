@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 16 Mar 2024 05:13:44 +0000</lastBuildDate><item><title>GPT-4発表から1年、Microsoft Copilpt のページに「GPT-5」の表記見つかりXユーザーが大盛り上がりするも...</title><link>https://ledge.ai/articles/microsoft-copilot_gpt5_was_just_a_typo</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 17 Mar 2024 04:51:30 +0000</lastBuildDate><item><title>Anthropic　Claude３シリーズで「ほぼ瞬時の応答性を実現する最速かつ最も手頃」な新モデル「Haiku」をリリース</title><link>https://ledge.ai/articles/anthropic_claude3_haiku</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月13日、米国のAI企業Anthropicは、AIチャットモデル「Claude 3」シリーズの新たなモデル「Haiku」をリリースしたと{target=“_blank”}した。
+
+同社によると、Haikuは「最速かつ最も手頃な」モデルであり、4日前にリリースされた「Opus」「Sonnet」と同様、claude.aiの有料プランおよびClaude APIで利用可能だ。価格は、入力トークンあたり0.25ドル、出力トークンあたり1.25ドルで提供される。Sonnetモデルは、claude.aiの無料版で利用できる。
+
+Haikuは、大部分のワークロードで他社製品よりも3倍高速で、3万2,000トークン未満のプロンプトに対し、1秒あたり２万1,000トークン（(約30ページ）を処理するという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Haikuの価格モデルは、長いプロンプトを含む企業ワークロードに対応するため、1:5の入力から出力へのトークン比率で設計されている。このモデルを使えば、四半期報告書、契約書、法律案件などの大量の文書を他の同等性能モデルの半額で迅速に分析できるという。たとえば、わずか1ドルで400件の最高裁判所の判例や2,500枚の画像を処理・分析することが可能とのことだ。
+
+さらに、企業レベルのセキュリティと堅牢性にも重点を置いており、安全性を確保するための厳格なテストや防御層の導入、定期的なセキュリティ監査などが行われている。クラウドサービスのAmazon Bedrockで利用可能で、近々Google Cloud Vertex AIでも提供される予定だ。
+
+
+
+Claude３のそれぞれのモデルのネーミングについては、特にリリースに説明があるわけではないが、それぞれの持つ異なった特徴や用途に合わせ、文学や音楽に由来する名前が与えられていると考えられる。
+
+このたび発表された **「Haiku」** は、迅速さとコンパクトさを重視した設計が特徴で、小規模なデータセットでの迅速な処理や、リアルタイムでの応答に適する。日本の伝統的な短詩形式「俳句」を思わせるこのモデルの名は、シンプルであるがゆえの独自の美しさや意味を見出す能力を示す。
+
+ **「Sonnet」** は、14行から成る詩の形式で、厳格な韻律や構造を持つ。このモデルが、精密さや構造化されたアプローチを持つことを示し、バランスの取れた性能で、中規模のデータセット処理や一般的なAIタスクに適していることが特徴とされる。
+
+ **「Opus」** は、ラテン語で「作品」を意味し、技術的、芸術的な成果の集大成を象徴するといえる。Claude 3シリーズの中で最も高度な能力を持つモデルで、大規模なデータセットの処理、複雑な問題解決、高度な推論能力を特徴としている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 17 Mar 2024 04:51:30 +0000</pubDate></item><item><title>GPT-4発表から1年、Microsoft Copilpt のページに「GPT-5」の表記見つかりXユーザーが大盛り上がりするも...</title><link>https://ledge.ai/articles/microsoft-copilot_gpt5_was_just_a_typo</link><description>:::small
 Microsoft Copilotのサイトより：「GPT-5」という文字列が出現（3/14）したが、翌日（3/15）には「GPT-4」に戻っていた
 :::
 
@@ -324,52 +364,7 @@ Tableau Pulseには、ビジネスユーザーが注視する指標のドライ�
 :::box
 
 :::
-</description><pubDate>Sun, 10 Mar 2024 12:34:08 +0000</pubDate></item><item><title>GPT-４越え「ほぼ人間レベル」アンソロピックが生成AI「Claude3」を発表</title><link>https://ledge.ai/articles/anthropic_claude3</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Anthropicは2024年3月4日、次世代AIモデルファミリー「Claude３（クロード３）」を{target=“_blank”}した。このモデルは、解析、予測、コンテンツ作成、コード生成、そして複数の非英語圏言語での対話能力の向上を実現し、AI業界における新たなベンチマークとなる。
-
-Claude3は **「Claude 3 Opus（オーパス）」「Claude 3 Sonnet（ソネット）」「Claude 3 Haiku（ハイク）」** という3つの異なるモデルで構成され、各モデルは能力の異なる順序で配置されている。ユーザーは自分のユースケースに合わせて、インテリジェンス、スピード、コストの理想的な組み合わせを選択できるようになるという。
-
-Opus と Sonnet は、claude.ai と Claude APIを通して使用可能。現在159か国で一般提供されている。Haikuも近日公開予定とのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-最も能力の高いモデルとされるOpusは、LLMの主要なベンチマークの多くでOpenAIのGPT-4やGoogleのGemini 1.0 Ultraといった同業他社のモデルを上回り、複雑なタスクに対するほぼ人間レベルの理解と流暢さを示していると同社は述べる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Claude3モデルファミリーは初期段階で200Kの長いコンテキストウィンドウを扱うことができ、大量のテキストデータから複雑な情報を理解し、関連する内容を抽出することが可能だという。さらに、これらのモデルは100万トークンを超える入力も受け付けることが可能で、特に大規模なデータセットを扱う必要がある用途に対して、より強化された処理能力を提供できるという。
-
-また、テキストだけでなく、写真入力の理解も可能とするマルチモーダルな能力を持ち、より幅広い応用が可能。
-・高速な処理能力により、リアルタイムでの顧客対話や自動完了、データ抽出タスクに対応
-・強化されたビジョン機能は、写真やチャート、グラフ、技術図面など、幅広いビジュアルフォーマットを処理
-・以前のモデルよりも正確性が向上し、特にオーパスモデルは複雑な開かれた質問に対して正答率が2倍に改善
-
-同社はさらに、Claude3モデルファミリーの信頼性と安全性に注力しているとのこと。多様なリスクを追跡し対処する専門チームを有し、プライバシー問題やバイアスの軽減に向けた方法を継続的に開発するという。また、これらのモデルは複雑な多段階指示に対する従順性が向上し、ブランドボイスや応答ガイドラインに沿った顧客向けエクスペリエンスの開発を容易にする​​​​。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 10 Mar 2024 12:28:34 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
+</description><pubDate>Sun, 10 Mar 2024 12:34:08 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
