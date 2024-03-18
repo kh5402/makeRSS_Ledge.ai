@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 17 Mar 2024 04:57:58 +0000</lastBuildDate><item><title>東芝テック、生成AI×POSデータでリテールプロモーション最適化AIソリューションを開発</title><link>https://ledge.ai/articles/toshiba-tech_retail_promotion_optimization_ai_solution</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 17 Mar 2024 05:00:07 +0000</lastBuildDate><item><title>東芝テック、生成AI×POSデータでリテールプロモーション最適化AIソリューションを開発</title><link>https://ledge.ai/articles/toshiba-tech_retail_promotion_optimization_ai_solution</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2063,7 +2063,37 @@ Ayaプロジェクトを追ったドキュメンタリーが公開されてい�
 :::box
 
 :::
-</description><pubDate>Wed, 21 Feb 2024 05:44:23 +0000</pubDate></item><item><title>富山県、生成AIとマルチモーダルAIによる職員の働き方改革を検証ーーインテックと共同で実証実験</title><link>https://ledge.ai/articles/toyama-intec_working_with_gen_and_multimodal_ai</link><description>:::small
+</description><pubDate>Wed, 21 Feb 2024 05:44:23 +0000</pubDate></item><item><title>AI規制法「AI Act」欧州議会が可決――世界初の包括的規制へ。2年以内に完全適用の見込み</title><link>https://ledge.ai/articles/eu_ai-act_approved</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月13日、欧州議会は基本的人権の保護とイノベーションの推進を目的とした、世界初の包括的な{target=“_blank”}した。
+
+議会は2023年12月、理事会と共に、AIの安全性、基本的人権の尊重、民主主義の保護、ビジネスの繁栄と拡大を目的としたAI Actについておおむね{target=“_blank”}に至っており、その際の合意文書が議員らによって賛成523票、反対46票、棄権49票で承認された。
+
+この規制は、高リスクAIによる基本的人権、民主主義、法の支配、環境持続性の保護を目的とし、イノベーションの促進と、欧州をこの分野のリーダーにすることを目指している。規則は、AIの潜在的リスクと影響レベルに基づいて義務を設定する。
+
+
+法案は、AIによる基本的人権への潜在的な脅威を軽減し、ヨーロッパをAI分野のリーダーとして確立することを意図している。主にAIの潜在的リスクと影響のレベルに基づいた義務の確立で、市民の権利を脅かす特定のAIアプリケーションの使用を禁止する内容を含む。
+
+具体的には、機密特性に基づく生体認証分類システムや、顔認識データベースを作成するためのインターネットや監視カメラ映像からの顔画像の対象外のスクレイピングなど、国民の権利を脅かす特定のAIアプリケーションを禁止する。
+
+法執行機関による生体認識システムの使用は原則禁止されているが、特定の状況下での使用が許可される。これには厳格な条件が設定され、例えば、リアルタイム生体認識の使用は時間と地理的範囲に限定され、特定の事前の司法または行政の承認が必要とされる。
+
+高リスクAIシステムに関しては、健康、安全、基本権への重大な潜在的害を低減するための明確な義務が規定されており、透明性の確保や人間の監視が求められる。また、一般目的AI（GPAI）システムは特定の透明性要件を満たさなければならず、EU著作権法への準拠やトレーニングに使用されたコンテンツの詳細な要約の公開が義務付けられている。
+
+この法案の可決により、EUはAIの安全な使用と基本的価値観への尊重を世界に向けて示した。イノベーションと中小企業（SME）への支援措置も盛り込まれ、国家レベルでの規制サンドボックスの設置や実世界テストが推進されることで、市場投入前のAI開発が促進される予定だ。
+
+本法案は、まだ弁護士言語校正チェックを受ける必要があり、最終的な採択は立法期間終了前に予定されている。公式ジャーナルに掲載されてから20日後に発効し、その後24ヶ月以内に完全に適用される見込みだという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 17 Mar 2024 05:00:07 +0000</pubDate></item><item><title>富山県、生成AIとマルチモーダルAIによる職員の働き方改革を検証ーーインテックと共同で実証実験</title><link>https://ledge.ai/articles/toyama-intec_working_with_gen_and_multimodal_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2348,31 +2378,7 @@ NEDOの公募した「ポスト5G情報通信システム基盤強化研究開�
 :::box
 
 :::
-</description><pubDate>Wed, 07 Feb 2024 09:58:41 +0000</pubDate></item><item><title>中国で新たに13社が開発したLLMの一般公開が承認される。シャオミなどAI以外の企業も</title><link>https://ledge.ai/articles/13_new_chinese_iims_approved_for_public_use</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-中国では、生成AIサービスの管理規定「生成式人工智能服务管理暂行办法（生成AIサービスの管理に関する暫定措置）」の第4期の認可のための審査が行われた。2024年2月4日、小米科技（シャオミ）など、13社が開発した大規模言語モデル（LLM）および生成AI関連プロダクト14種が審査に合格し、一般公開が承認されたと{target=“_blank”}が報じた。
-
-中国政府は2023年7月13日に「{target=“_blank”}」を発表した。政府がAI技術の発展における規制枠組みを強化していることを示しており、AIモデルの公開にあたっては、データセキュリティ、プライバシー保護、知的財産権の尊重など、一定の基準を満たす必要がある。
-
-この措置は8月15日に施行され、以降40以上のAIモデルが承認を受けている。第1期には百度（バイドゥ）、アリババクラウド（阿里雲）、字節跳動（バイトダンス）などのLLMが政府の承認を得た。AI技術が社会に及ぼす影響を考慮し、その安全性と信頼性を確保するために、このような審査制度を設けているという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 06 Feb 2024 13:37:50 +0000</pubDate></item><item><title>生成AIが作った脚本での朗読劇「AIラブコメ」公演中止へ　AIの無断学習・著作権問題などの意見が寄せられ </title><link>https://ledge.ai/articles/a_reading_play_with_an_ai-generated_script_cancelled</link><description>:::small
+</description><pubDate>Wed, 07 Feb 2024 09:58:41 +0000</pubDate></item><item><title>生成AIが作った脚本での朗読劇「AIラブコメ」公演中止へ　AIの無断学習・著作権問題などの意見が寄せられ </title><link>https://ledge.ai/articles/a_reading_play_with_an_ai-generated_script_cancelled</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
