@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 17 Mar 2024 04:51:30 +0000</lastBuildDate><item><title>Anthropic　Claude３シリーズで「ほぼ瞬時の応答性を実現する最速かつ最も手頃」な新モデル「Haiku」をリリース</title><link>https://ledge.ai/articles/anthropic_claude3_haiku</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 17 Mar 2024 04:57:58 +0000</lastBuildDate><item><title>東芝テック、生成AI×POSデータでリテールプロモーション最適化AIソリューションを開発</title><link>https://ledge.ai/articles/toshiba-tech_retail_promotion_optimization_ai_solution</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+東芝テックは2024年3月11日、生成AIのキーエンジン「トランスフォーマー」を用いたリテールプロモーション最適化AIソリューションを開発したと{target=“_blank”}した。このソリューションでは、POSデータを分析し、顧客の好みや反応をAIで予測。これにより、個々の顧客に対して最適なクーポンやポイントを配信し、売上や利益の最大化を図る。
+
+過去の購買・行動データ等をもとに、パーソナライズされたプロモーションを実施するという従来の手法では、新規顧客や少額購買顧客へのアプローチが困難であった。
+
+この課題に対し同社は「トランスフォーマー」モジュールをレコメンデーション・モデルそのものに組み込み、消費者ごとの購買履歴に加え、顧客属性や商品属性、店舗属性などの情報を統合し、消費者の好む商品を推論できるようにしたという。さらに、顧客✕商品別の膨大な組み合わせで、クーポンを送った場合にどれだけ利益が増加／減少するのかを計算し、利益総額が最大化される組み合わせが推定可能となったとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 17 Mar 2024 04:57:58 +0000</pubDate></item><item><title>Anthropic　Claude３シリーズで「ほぼ瞬時の応答性を実現する最速かつ最も手頃」な新モデル「Haiku」をリリース</title><link>https://ledge.ai/articles/anthropic_claude3_haiku</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -334,37 +354,7 @@ OpenAIはまた、企業ガバナンスのガイドラインの採用、利益�
 :::box
 
 :::
-</description><pubDate>Mon, 11 Mar 2024 06:49:45 +0000</pubDate></item><item><title>Salesforce「AIでデータから洞察を抽出する」Tableau Pulseを一般公開</title><link>https://ledge.ai/articles/salesforce_tableu_pluse</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Salesforceは2024年2月22日、「Tableau Pulse」の一般公開を{target=“_blank”}し、信頼できる生成AIと分析を用いて、顧客がより良い決定をより迅速に行えるようになると述べた。Tableau Pulseは、全てのTableau CloudエディションおよびEmbedded Analyticsソリューションに無料で含まれる。
-
-同社は「ビジネスリーダーにとっての最大の課題の一つは、データから洞察を抽出する方法を見つけ出すことだ」と表明。上級ITリーダーの80%が、生成AIが組織のデータ活用を改善するのに役立つと述べたことを挙げ、その答えがAIにあることを示唆した。
-
-
-Tableau Pulseは生成AIを活用し、自然言語および視覚形式で洞察を提供することで、重要な指標を発見し、洞察を得ることが容易になる。また、Salesforceプラットフォームに組み込まれているAIアーキテクチャ「Einstein Trust Layer」を通じてAI機能を実行することで、顧客データを危険にさらすことなく生成AIの恩恵を受けることができるという。
-
-Tableau Pulseには、ビジネスユーザーが注視する指標のドライバー、トレンド、寄与者、異常値を自動的に検出し、仕事の流れの中でより迅速かつ情報に基づいた決定を支援する「**Tableau Pulse Insights Platform**」、モバイルデバイス上で自然言語でデータ洞察を積極的に提供する「**Tableau Pulse on Mobile**」、好みのSlackチャンネルでキーメトリックに関するAI生成の要約と文脈に基づいた洞察を共有する「Tableau Pulse Slack Digest」、アナリストが標準的なメトリック定義を容易に作成できる「**Tableau Pulse Metrics Layer**」などが含まれる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 10 Mar 2024 12:34:08 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
+</description><pubDate>Mon, 11 Mar 2024 06:49:45 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
