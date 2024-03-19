@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 17 Mar 2024 05:03:19 +0000</lastBuildDate><item><title>東芝テック、生成AI×POSデータでリテールプロモーション最適化AIソリューションを開発</title><link>https://ledge.ai/articles/toshiba-tech_retail_promotion_optimization_ai_solution</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 18 Mar 2024 02:42:32 +0000</lastBuildDate><item><title>Salesforce　企業の生成AI活用支援「Einstein 1 Studio」と「Data Cloud」の新機能を日本市場で提供開始</title><link>https://ledge.ai/articles/salesforce_launches_new_einstein1_studio_and_data_cloud_features_in_japan</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+セールスフォース・ジャパンは2024年3月8日、企業の生成AI活用における信頼性と柔軟性を向上させるEinstein 1 StudioおよびSalesforce Data Cloud（以下、Data Cloud）の新機能を日本市場に向けて提供開始したと{target=“_blank”}した。
+
+これらの新機能により、ユーザー企業は自社のニーズに合わせて安全に生成AIを活用し、生産性や顧客体験の向上を図ることが可能となる。
+
+### Einstein 1 Studio：CRMアプリにAIをシームレスに組み込む
+Einstein 1 Studioは、Salesforceの管理者や開発者が低コードでEinsteinの体験をカスタマイズし、CRMアプリケーションにAIをシームレスに組み込むためのツールセットを提供する。プロンプトビルダー（Prompt Builder）とモデルビルダー（Model Builder）が主要機能であり、企業が信頼できるデータを基にカスタムされたAIプロンプトを作成できる。これにより、セールス、サービス、マーケティングなどの業務プロセスにおいて、適切な文脈を持つ信頼性の高いプロンプトテンプレートを活用できる。モデルビルダーでは、ビジネスニーズに合わせて最適な大規模言語モデル（LLM）を選択することが可能となり、より柔軟なAIの利用が実現する。
+
+
+**例：モデルビルダー画面**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+### Data Cloud：顧客データの統合とAIへの活用
+Data Cloudは、企業がSalesforceの製品やシステムから全ての顧客データを接続、連携し、一貫した情報源として活用できるハイパースケールデータプラットフォームである。新機能として導入されたデータフェデレーション（Bring Your Own Lake）、Data Cloudベクトルデータベース、Einstein Copilot Searchは、主要なデータレイクやデータウェアハウスとの間での安全なデータ共有、構造化データと非構造化データの統合、AIによる迅速かつ容易な検索を可能にする。これにより、企業は複雑なETL処理なしで、信頼できるデータをAIに活用し、顧客サービスの向上やビジネスインサイトの獲得を加速できる。
+
+
+**例：データフェデレーション**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社はこれらの新機能を通じて、あらゆる企業・組織が自社のニーズに合わせた生成AIの利用をより信頼性高く、柔軟に行えるよう支援することを目指している。提供開始は、2024年3月8日より日本市場での一般提供が開始されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 18 Mar 2024 02:42:32 +0000</pubDate></item><item><title>東芝テック、生成AI×POSデータでリテールプロモーション最適化AIソリューションを開発</title><link>https://ledge.ai/articles/toshiba-tech_retail_promotion_optimization_ai_solution</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -326,35 +375,7 @@ OpenAIはまた、企業ガバナンスのガイドラインの採用、利益�
 
 :::
 
-</description><pubDate>Mon, 11 Mar 2024 07:00:55 +0000</pubDate></item><item><title>あいおいニッセイ　国内初の「生成AI専用保険」提供開始　情報漏洩の損害など補償</title><link>https://ledge.ai/articles/aioinissei_archaic_genai_exclusive_insurance</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-あいおいニッセイ同和損保とArchaicは2024年2月28日、国内で初めてとなる「生成AI専用保険」の提供を開始すると{target=“_blank”}した。この新しい保険商品は、生成AIの導入に伴うリスクへの対応策として開発され、2024年3月より提供される。両社は、生成AIの安全かつ安心な利用を促進し、導入企業が直面する様々な不安を払拭することを目的としている。
-
-生成AIの急速な普及を背景に、権利侵害や情報漏洩、出力結果の正確性に関するリスクが企業の導入障壁となっている現状がある。両社は、生成AIによって生じる新たなリスクへの対処方法を共同で開発し、生成AIの更なる普及と社会的な発展に貢献することを目指すという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「生成AI専用保険」は、知的財産権の侵害や情報漏洩等が発生した際に企業が負担する様々な費用を補償する。また、事故後の補償に留まらず、Archaicが提供するガバナンス体制の構築支援や事故発生後のコンサルティングサービスをパッケージで提供する。これにより、事故の未然防止や事故後の早期回復機能を加え、企業の安全・安心な生成AI利用を支援するとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 11 Mar 2024 06:49:45 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 11 Mar 2024 07:00:55 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
