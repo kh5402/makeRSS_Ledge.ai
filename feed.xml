@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 17 Mar 2024 05:00:07 +0000</lastBuildDate><item><title>東芝テック、生成AI×POSデータでリテールプロモーション最適化AIソリューションを開発</title><link>https://ledge.ai/articles/toshiba-tech_retail_promotion_optimization_ai_solution</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 17 Mar 2024 05:03:19 +0000</lastBuildDate><item><title>東芝テック、生成AI×POSデータでリテールプロモーション最適化AIソリューションを開発</title><link>https://ledge.ai/articles/toshiba-tech_retail_promotion_optimization_ai_solution</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -354,7 +354,32 @@ OpenAIはまた、企業ガバナンスのガイドラインの採用、利益�
 :::box
 
 :::
-</description><pubDate>Mon, 11 Mar 2024 06:49:45 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
+</description><pubDate>Mon, 11 Mar 2024 06:49:45 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2024年3月14日、生成AIに関するプロフェッショナル認定制度を新たに提供開始することを{target=“_blank”}した。
+
+この認定制度は、生成AI技術の開発者がその技術的な信頼性を確立できるように設計されている。NVIDIAによれば、この新しい認定制度は、同社が初めて提供するプロフェッショナル向けのものであり、大規模言語モデル（LLM）とマルチモーダルワークフロースキルの習熟度を測ることを目的としている。
+
+この制度には、2種類のアソシエイトレベルの認定が用意されており、GTC 2024イベント以降に利用可能になる予定だ。GTC 2024は、3月18日から21日まで開催されるNVIDIAのイベントで、現地参加者は認定試験に備えるための推奨トレーニングにアクセスできるとのこと。
+
+NVIDIAのデベロッパープログラム担当バイスプレジデント、グレッグ・エステス氏は、「NVIDIAの目標は、皆さまのスキルアップを支援し、資格を持つプロフェッショナルの能力を磨き、個人がその熟練度を証明できるようにすることにより、雇用市場で競争優位を得られるようにすること」とコメントしている。
+
+この認定制度の開始は、生成AI技術の発展と普及に伴い、この分野で活動する技術者が自身の技術力を証明し、業界での地位を確立するための重要な機会を提供するものだという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 17 Mar 2024 05:03:19 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1323,31 +1348,7 @@ OpenAI社の公式ブログ記事 で次のように発言されている。
 
 
 
-</description><pubDate>Thu, 28 Dec 2023 07:51:46 +0000</pubDate></item><item><title>ノーコード推進協会　ノーコード人材を定義する新たな認定制度「NCPA認定ノーコードパスポート」を開始</title><link>https://ledge.ai/articles/nocode_passport</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ノーコード推進協会は2023年11月27日、ノーコード人材育成と適切な理解の普及を目的とした「NCPA認定ノーコードパスポート」の提供開始を{target=“_blank”}した。
-
-同協会は2023年11月1日に一般社団法人化し、ノーコードツールの活用に必要な知識やスキルを証明するこの認定制度を導入している。これにより、IT未経験者も段階的にノーコードスキルを身に付けることが可能となる。
-
-ノーコードパスポートは、ノーコードスキル要素とレベルを設定し、3段階の資格で構成されている。2024年1月より、最初の段階である「NCPA認定ノーコードパスポート サファイア」を開始する予定。試験運営はデータミックス社の「Excert」システムを採用し、初年度の目標受験者数は1,000名とのこと。
-詳細ページ：{target=“_blank”}
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
- 試験詳細は、2024年1月にNCPAのWebサイトにて公開予定
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 27 Nov 2023 03:06:40 +0000</pubDate></item><item><title>日本IBM、戦略策定からシステム開発、運用、プロジェクト管理までを網羅的に支援する「AIソリューション」を提供開始</title><link>https://ledge.ai/articles/ibm-solutions_for_aI_utilizing_genai_for_it_transformation</link><description>:::small
+</description><pubDate>Thu, 28 Dec 2023 07:51:46 +0000</pubDate></item><item><title>日本IBM、戦略策定からシステム開発、運用、プロジェクト管理までを網羅的に支援する「AIソリューション」を提供開始</title><link>https://ledge.ai/articles/ibm-solutions_for_aI_utilizing_genai_for_it_transformation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
