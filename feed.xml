@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 18 Mar 2024 02:52:18 +0000</lastBuildDate><item><title>パナソニックホールディングス　生成AI活用で新卒採用を強化する</title><link>https://ledge.ai/articles/panasonic_ai_career_supporter</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Mar 2024 07:43:58 +0000</lastBuildDate><item><title>パナソニックホールディングス　生成AI活用で新卒採用を強化する</title><link>https://ledge.ai/articles/panasonic_ai_career_supporter</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1688,7 +1688,43 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>ヒト型ロボ「Figure01」にOpenAIの言語能力が備わり「完全に人と会話」「論理的に判断」</title><link>https://ledge.ai/articles/figure01_openai_can_now_have_full_conversations_with_people</link><description>:::small
+:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>Google DeepMindなどの研究者、クローズドなLLMからモデルの一部を盗み出す手法を発表　OpenAIから要請のあった数値は非公開</title><link>https://ledge.ai/articles/stealing_part_of_a_production_lm</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+Google DeepMindなどに所属する研究者らが2024年3月11日、OpenAIのGPT-4やGoogleのPaLM-2などのクローズドな大規模言語モデル（LLM）からモデルの一部を盗み出す攻撃を提案する論文「Stealing Part of a Production Language Model」を{target=“_blank”}した。
+
+この研究は、言語モデルのAPIへのクエリを通じて、低コストでモデルの内部構造に関する情報抽出に成功したと報告している。
+
+研究チームは、言語モデルの最終層である「Embedding Projection Layer」に注目し、この層が持つ特定の性質を利用することで、モデルの重要な部分を復元する方法を開発した。
+
+Embedding Projection Layerとは、トランスフォーマーベースの言語モデルにおいて、入力された単語やフレーズの埋め込みベクトルを変換し、モデルの出力に直接関連する形で情報を集約する層のことである。このプロセスにより、モデル内部で生成された情報が、最終的に人間の理解可能な形（単語やフレーズなど）に変換される。
+
+研究チームによると、特定のAPIクエリを利用することで、この層の重みやパラメータを効率的に「盗み出す」ことが可能であることが明らかになった。これは、APIが提供する出力（例えば、特定の単語に対するモデルの反応や、その反応の確率など）から、逆算してEmbedding Projection Layerの情報を推定する手法に基づいている。
+
+この攻撃により、研究チームはOpenAIのGPT-4やGoogleのPaLM-2といった大規模言語モデルの隠れた次元のサイズを正確に特定し、さらには特定のモデルのEmbedding Projection Layer全体を再構築することに成功したという。
+
+研究により、20ドル未満でOpenAIの「ada」と「babbage」言語モデルから全投影行列を抽出し、これらモデルの隠れた次元がそれぞれ1024および2048であることを確認した。さらに、GPT-3.5-turboモデルの正確な隠れ次元サイズも明らかにされたが、具体的な数値はOpenAIの要請により非公開とされた。全投影行列を抽出するために2,000ドル未満のクエリが必要であると推定している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この攻撃の成功により、OpenAIとGoogleはそれぞれAPIを変更し、攻撃をより困難またはコストがかかるようにする防御策を講じた。研究チームは、この攻撃を責任ある方法で開示し、脆弱性に対処するための緩和策と防御策を提案している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 19 Mar 2024 07:43:58 +0000</pubDate></item><item><title>ヒト型ロボ「Figure01」にOpenAIの言語能力が備わり「完全に人と会話」「論理的に判断」</title><link>https://ledge.ai/articles/figure01_openai_can_now_have_full_conversations_with_people</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2044,42 +2080,7 @@ EosはAI技術とインフラストラクチャの境界を押し広げる存在
 :::box
 
 :::
-</description><pubDate>Sun, 25 Feb 2024 06:51:50 +0000</pubDate></item><item><title>カナダCohereの研究組織「Cohere For AI」、100言語以上をカバーする新LLM「Aya」を発表</title><link>https://ledge.ai/articles/cohere_for_ai_aya</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Cohere For AIは2024年2月13日、100以上の言語をカバーする新たな多言語LLM「Aya」を{target=“_blank”}した。このモデルはオープンソースとして公開され、誰でもアクセス・改変が可能となる。
-
-Ayaは、既存のオープンソースモデルの2倍以上の言語をサポートし、メジャーな言語モデルからは取りこぼされがちな話者の少ない言語や文化へのアクセスを可能にする。モデルと共に、114言語をカバーする5億1,300万という最大の多言語プロンプトのファインチューニングされたデータセットがオープンソースとして公開されている。このデータ コレクションには、世界中のネイティブ スピーカーからの貴重な注釈が含まれているという。これにより、AI技術がこれまでアクセスが限られていた広範なグローバルオーディエンスに効果的にサービスを提供可能となるとのことだ。
-
-
-2023年6月にCohere For AIが始めたオープンサイエンスの取り組み{target=“_blank”}は、世界中の人々の知恵と貢献を集め、最先端の多言語生成言語モデルの構築を目指す。同プロジェクトは、学術界、産業界、非営利団体、独立した研究者からなるAI専門家を結集し、多言語モデルの進歩を加速させ、オープンコラボレーションを促進する1年間にわたる取り組みだという。すべてのモデル、トレーニングデータ、データ収集ツールをオープンソース化し、言語技術へのアクセスを民主化する世界的な動きの一部となることを目指している。
-
-
-Aya 協力者の地理的分布
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Ayaプロジェクトを追ったドキュメンタリーが公開されている。
-@
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 21 Feb 2024 05:44:23 +0000</pubDate></item><item><title>AI規制法「AI Act」欧州議会が可決――世界初の包括的規制へ。2年以内に完全適用の見込み</title><link>https://ledge.ai/articles/eu_ai-act_approved</link><description>:::small
+</description><pubDate>Sun, 25 Feb 2024 06:51:50 +0000</pubDate></item><item><title>AI規制法「AI Act」欧州議会が可決――世界初の包括的規制へ。2年以内に完全適用の見込み</title><link>https://ledge.ai/articles/eu_ai-act_approved</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
