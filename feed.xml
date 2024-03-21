@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 19 Mar 2024 07:43:58 +0000</lastBuildDate><item><title>パナソニックホールディングス　生成AI活用で新卒採用を強化する</title><link>https://ledge.ai/articles/panasonic_ai_career_supporter</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 20 Mar 2024 08:07:48 +0000</lastBuildDate><item><title>パナソニックホールディングス　生成AI活用で新卒採用を強化する</title><link>https://ledge.ai/articles/panasonic_ai_career_supporter</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1688,7 +1688,36 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>Google DeepMindなどの研究者、クローズドなLLMからモデルの一部を盗み出す手法を発表　OpenAIから要請のあった数値は非公開</title><link>https://ledge.ai/articles/stealing_part_of_a_production_lm</link><description>:::small
+:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>大規模言語モデルの性能評価「ITパスポート」の試験問題ではELYZAのモデルが高得点</title><link>https://ledge.ai/articles/gmo_ai_education_reserch_itpassport</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+GMOメディア株式会社は2024年3月11日、ITパスポート試験およびJGLUEを用いて、大規模言語モデル（LLM）のIT分野における推論・問題解決能力を検証する研究を{target=“_blank”}した。この研究により、IT分野でのLLMの有用性が科学的に解明された。
+
+研究の結果、特定のLLMはIT分野の問題に対して論理的な解答を導き出す能力が高いことが確認された。中でも、「ELYZA-japanese-Llama-2-7b-instruct」モデルが72.3%という高い正答率を記録し、最も優れた性能を示した。一方で、他のLLMでは、ヒントをプロンプトとして提供することにより、解答の精度を向上させることが可能であることも判明した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+研究では、IT分野における正確な解答を導き出す力はLLMのモデル間で差異があり、有効的に活用できるモデルとそうでないモデルが存在する。しかし、専門分野に特化するチューニングを施していない汎用的なLLMでも、一定の精度でIT分野の正確な解答を期待できるため、ITパスポート試験の学習においても、誤りがある可能性を踏まえ、「分からない単語や概念について質問する」「練習問題を作成する」などの活用方法は、一定程度有効と結論づけている。
+
+
+:::box
+[関連記事：
+LLMを最新の大学入試共通テストで比較　GPT-4がTOPも医師国家試験合格の実力にしては若干物足りない？](https://ledge.ai/articles/llms_took_the_common_test_2024)
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 20 Mar 2024 08:07:48 +0000</pubDate></item><item><title>Google DeepMindなどの研究者、クローズドなLLMからモデルの一部を盗み出す手法を発表　OpenAIから要請のあった数値は非公開</title><link>https://ledge.ai/articles/stealing_part_of_a_production_lm</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2052,35 +2081,7 @@ EosはAI技術とインフラストラクチャの境界を押し広げる存在
 :::box
 
 :::
-</description><pubDate>Sun, 03 Mar 2024 08:22:40 +0000</pubDate></item><item><title>LoRAより少ない計算コストと時間で高性能な「DoRA」香港科技大学が生成AIモデルファインチューニングの新手法を発表</title><link>https://ledge.ai/articles/DoRA</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年2月14日、香港科技大学の研究チームは、大規模言語モデルや画像生成AIなどの機械学習モデルのファインチューニング手法において、計算コストと時間を削減できる新たな手法「DoRA（Weight-Decomposed Low-Rank Adaptation）」を{target=“_blank”}した。
-
-従来のLoRA（Low Rank Adaptation）と比較して、DoRAは事前訓練されたモデルの重みを「大きさ」と「方向」の二つの要素に分解し、特に方向の更新にLoRAを用いることで、訓練可能なパラメータの数を効率的に最小限に抑えることが可能だという。
-
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この新たな手法により、DoRAはLoRAの学習能力と訓練の安定性を向上させる一方で、追加の推論コストを発生させることなく、LLaMA、LLaVA、VL-BARTなどの機械学習モデルを用いたコモンセンス推論、視覚指示チューニング、画像/動画テキスト理解といった多岐にわたる下流タスクにおいて一貫してLoRAを上回る性能を実現している。
-
-香港科技大学の研究チームは、DoRAがAIモデルの効率的なカスタマイズと性能向上に新たな方向性を示し、機械学習モデルのファインチューニングプロセスを改善する上で大きな可能性を秘めていることを強調している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 25 Feb 2024 06:51:50 +0000</pubDate></item><item><title>AI規制法「AI Act」欧州議会が可決――世界初の包括的規制へ。2年以内に完全適用の見込み</title><link>https://ledge.ai/articles/eu_ai-act_approved</link><description>:::small
+</description><pubDate>Sun, 03 Mar 2024 08:22:40 +0000</pubDate></item><item><title>AI規制法「AI Act」欧州議会が可決――世界初の包括的規制へ。2年以内に完全適用の見込み</title><link>https://ledge.ai/articles/eu_ai-act_approved</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
