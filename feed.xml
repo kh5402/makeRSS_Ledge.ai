@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 20 Mar 2024 08:07:48 +0000</lastBuildDate><item><title>パナソニックホールディングス　生成AI活用で新卒採用を強化する</title><link>https://ledge.ai/articles/panasonic_ai_career_supporter</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 20 Mar 2024 08:11:36 +0000</lastBuildDate><item><title>OpenAIが「ル・モンド（仏）」「プリサ（西）」との提携を発表ーーNYTとの法廷での争いと平行</title><link>https://ledge.ai/articles/openai_global_news_partnerships_le-monde_and_prisa_media</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年3月13日、「Le Monde」「Prisa Media」などの、フランスやスペインの大手ニュース出版社とのパートナーシップを{target=“_blank”}した。この提携は、ChatGPTユーザーが最新の出来事に関する高品質なコンテンツにアクセスできるようにすることを目的としている。同時に、これらのコンテンツはOpenAIのモデルのトレーニングにも寄与する。
+
+OpenAIのCOO、ブラッド・ライトキャップ氏は、新しいAI技術を活用し、コンテンツクリエーターの機会を拡大することによって、ジャーナリズムを支援することに専念していると述べた。ル・モンドおよびプリサ・メディアとの提携により、世界中のChatGPTユーザーが新しい形でニュースとつながり、洞察に富んだインタラクティブな方法で情報にアクセスできるようになることを目指している。
+
+この提携の一環として、ChatGPTユーザーは、これらの出版社からの関連ニュースコンテンツに選択された要約を通じて対話し、元記事への強化されたリンクを通じて追加情報や関連記事にアクセス可能となるという。
+
+Le MondeのCEO、ルイ・ドレフュス氏は、OpenAIとの提携を通じて、正確で検証済み、バランスの取れたニュースストーリーを大規模に提供することへのコミットメントを維持し、拡大する機会を得られたと述べた。ル・モンドは、独立性、専門知識、およびジャーナリスティックな誠実さへのコミットメントを強調し続けることで、メディアの新たな機会を常に利用してきた。
+
+Prisa Mediaの会長兼CEOであるカルロス・ヌニェス氏は、OpenAIとの協力が、観客とのエンゲージメントの新たな方法を開拓する機会を提供すると指摘した。ChatGPTの能力を活用することで、信頼できる独立したコンテンツを求める人々に対して、深みのある質の高いジャーナリズムを新しい形で提供できると述べた。
+
+OpenAIは2023年12月に、ドイツのメディア企業{target=“_blank”}、7月には{target=“_blank”}とのライセンス契約、非営利のローカルニュースメディアに特化した投資組織{target=“_blank”}を発表している。
+
+このたびのLe Monde、Prisa Mediaとの協力関係と併せ、アメリカン・ジャーナリズム・プロジェクトとの協力による革新的な地方ニュースイニシアティブの支援や、アソシエーテッド・プレスとのコラボレーションなど、ニュース組織が新しい方法で視聴者にリーチすることを支援するとのこと。
+
+その一方で、{target=“_blank”}がOpenAIとマイクロソフトを著作権侵害で提訴したことで始まった法廷での抗争は、まだまだ終わりが見えない状況だ。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 20 Mar 2024 08:11:36 +0000</pubDate></item><item><title>パナソニックホールディングス　生成AI活用で新卒採用を強化する</title><link>https://ledge.ai/articles/panasonic_ai_career_supporter</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -340,36 +376,7 @@ Metaは、新しいAIモデルを利用することで、動画の視聴時間�
 :::box
 
 :::
-</description><pubDate>Tue, 12 Mar 2024 05:31:19 +0000</pubDate></item><item><title>イーロン・マスクのAI「Grok」今週中にもオープンソース化「OpenAIは『ClosedAI』に社名変更すれば？」</title><link>https://ledge.ai/articles/eron_to_open_source_grok_this_week</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-「xAI」のCEOイーロン・マスク氏は2024年3月11日、同社が開発した大規模言語モデル「Grok」を今週中にオープンソース化すると自身のX（旧Twitter）公式アカウントで{target=“_blank”}した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-マスク氏は、OpenAIがマイクロソフトによって実質的に制御される閉鎖的で利益を目的とした組織に変わったことを指摘し、OpenAIが「オープン」を名乗る以上、もっとオープンソースソフトウェアコミュニティに貢献すべきだと主張し続けている。
-
-マスク氏はOpenAI設立に際して重要な役割を果たし、資金を提供したが、その後同社を離れ、自ら「xAI」を設立した。Grok AIは、2023年11月4日に、早期アクセスプログラムとして{target=“_blank”}され、12月8日、米国のX プレミアムプラスサブスクライバー全員に展開された。XのPremium＋サービスの加入者が月額約16ドルで利用できる。
-
-先日自らのX（旧Twitter）アカウントで、OpneAIに対し「社名を『ClosedAI』に変更すれば訴訟を取り下げてやるよ」と{target=“_blank”}マスク氏が、今まさに「オープンとは」の新たな議論を始めようとしている。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 12 Mar 2024 08:39:10 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 12 Mar 2024 05:31:19 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
