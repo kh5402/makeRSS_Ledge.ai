@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 20 Mar 2024 22:18:09 +0000</lastBuildDate><item><title>OpenAIが「ル・モンド（仏）」「プリサ（西）」との提携を発表ーーNYTとの法廷での争いと平行</title><link>https://ledge.ai/articles/openai_global_news_partnerships_le-monde_and_prisa_media</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 20 Mar 2024 22:33:23 +0000</lastBuildDate><item><title>OpenAIが「ル・モンド（仏）」「プリサ（西）」との提携を発表ーーNYTとの法廷での争いと平行</title><link>https://ledge.ai/articles/openai_global_news_partnerships_le-monde_and_prisa_media</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1695,7 +1695,51 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>大規模言語モデルの性能評価「ITパスポート」の試験問題ではELYZAのモデルが高得点</title><link>https://ledge.ai/articles/gmo_ai_education_reserch_itpassport</link><description>:::small
+:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>アップル、画像とテキストを理解するマルチモーダル大規模言語モデル「MM1」の論文を発表</title><link>https://ledge.ai/articles/apple_multimodal_llm_mm1</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年3月14日、アップルの研究チームは、画像とテキストの両方を処理できる能力を持つマルチモーダル大規模言語モデル「MM1」を{target=“_blank”}した。
+
+このモデルは画像とテキストの両方を理解し、処理する能力を持つマルチモーダルAIで、一部のベンチマークではOpenAIのGPT-4Vを上回る性能を示している。論文によると、MM1は30億、70億、300億という複数のパラメータサイズを持ち、10億以上の画像および30兆語以上のテキスト、GitHubのコード例など多岐にわたるデータセットを用いた独自の学習方法で訓練されている 。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+MM1は、画像内のオブジェクトの数を正確に数える、画像内の文字や数字を認識する、画像を見た人間の感じ方に基づく抽象的な質問に長文で回答するといった、画像を理解する能力において特に優れている。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+さらに、ビーチパラソルの画像から温暖な気候を読み取る、飛行機が雪の上を飛んでいる画像から気温を推測するなど、画像のコンテキストを理解した対応も得意としている。これらの能力により、MM1は教育的なシナリオや複雑な問いに答えるなど、様々なタスクで高いパフォーマンスを発揮する 。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+アップルの研究チームは、このモデルの開発において、そのアーキテクチャ、データセットの内容、事前学習・ファインチューニングの詳細に至るまで、従来公開されてこなかった詳細な情報を公開している。これは、AI研究における透明性と共有を促進する意図を示しており、競合他社が進めるクローズドな方針とは一線を画している。
+
+
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 20 Mar 2024 22:33:23 +0000</pubDate></item><item><title>大規模言語モデルの性能評価「ITパスポート」の試験問題ではELYZAのモデルが高得点</title><link>https://ledge.ai/articles/gmo_ai_education_reserch_itpassport</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2061,34 +2105,7 @@ EMOは参照画像から特徴を抽出し、音声エンコーダーがオー�
 :::box
 
 :::
-</description><pubDate>Mon, 04 Mar 2024 02:28:44 +0000</pubDate></item><item><title>NVIDIA　スパコンでも世界ランク9位の処理速度「Eos」を公開</title><link>https://ledge.ai/articles/nvidia_eos</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAは2024年2月16日、高度な AI ファクトリーを支えるアーキテクチャを垣間見ることができるデータセンター規模の最新スーパーコンピューター「Eos」を初めてビデオで{target=“_blank”}した。
-
-@
-
-
-このシステムは、世界最速のスーパーコンピューター{target=“_blank”}の9位の速度を誇り、AIモデルのトレーニングや複雑なデータ分析に特化して設計されている。Eosは576台のNVIDIA DGX H100システムで構成され、合計18.4エクサフロップスのFP8 AIパフォーマンスを提供する。また、最大400Gb/sのデータ転送速度をサポートするネットワークアーキテクチャを備えており、大規模なAIワークロードの効率的な処理を可能にするとのこと。
-
-暁の門を毎日開いているとされるギリシャ神話の女神にちなんで名付けられた「Eos」は、AI技術の進歩に対する NVIDIA のコミットメントを反映しているという。高度な計算能力と高速データ転送能力により、これまでにないスケールのAIアプリケーション、特にディープラーニングや機械学習の分野でのブレークスルーを目指すと同社は述べた。
-
-EosはAI技術とインフラストラクチャの境界を押し広げる存在であり、先進的な加速コンピューティングとネットワーキング、洗練されたソフトウェア提供物を含む。Eosのアーキテクチャは、AIワークロードが要求する超低レイテンシと高スループットの相互接続性を最適化するために設計されており、AI能力をスケールアップしようとする企業にとって理想的なソリューションだという。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 03 Mar 2024 08:22:40 +0000</pubDate></item><item><title>G7産業・技術・デジタル大臣会合、イタリアで開催 - AIとデジタル政府の進展に焦点</title><link>https://ledge.ai/articles/g7_industry_technology_and_digital_ministreal_meeting</link><description>:::small
+</description><pubDate>Mon, 04 Mar 2024 02:28:44 +0000</pubDate></item><item><title>G7産業・技術・デジタル大臣会合、イタリアで開催 - AIとデジタル政府の進展に焦点</title><link>https://ledge.ai/articles/g7_industry_technology_and_digital_ministreal_meeting</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
