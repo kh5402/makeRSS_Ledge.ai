@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 20 Mar 2024 22:33:23 +0000</lastBuildDate><item><title>OpenAIが「ル・モンド（仏）」「プリサ（西）」との提携を発表ーーNYTとの法廷での争いと平行</title><link>https://ledge.ai/articles/openai_global_news_partnerships_le-monde_and_prisa_media</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Mar 2024 14:09:34 +0000</lastBuildDate><item><title>OpenAIが「ル・モンド（仏）」「プリサ（西）」との提携を発表ーーNYTとの法廷での争いと平行</title><link>https://ledge.ai/articles/openai_global_news_partnerships_le-monde_and_prisa_media</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1695,7 +1695,64 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>アップル、画像とテキストを理解するマルチモーダル大規模言語モデル「MM1」の論文を発表</title><link>https://ledge.ai/articles/apple_multimodal_llm_mm1</link><description>:::small
+:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>Google DeepMindが新たなAIエージェント「SIMA」を発表　ビデオゲームから学び、汎用性のある多様なタスクを実行</title><link>https://ledge.ai/articles/google_deepmind_sima</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+Google DeepMindは2023年3月13日、新たなAIエージェント「Scalable Instructable Multiworld Agent（SIMA）」を{target=“_blank”}した。
+
+SIMAは、様々なビデオゲームで自然言語の指示に従ってタスクを実行する能力を持つ、汎用性を備えたAIエージェントだ。
+
+研究チームは、現時点で大規模言語モデル（LLM）は、人間に代わってアクションを実行する機能が欠けていると指摘。将来的に「リソースを見つけてキャンプを構築する」など、高レベルの戦略計画と完了する必要がある複数のサブタスクを必要とするタスクに取り組めるエージェントを目指しているという。
+
+ビデオ ゲームは、AIシステムの重要な実験場で、現実世界と同様、ゲームは、応答性の高いリアルタイム設定と常に変化する目標を備えた豊富な学習環境となる。この研究では、個別のゲームから、一般的で指示可能なゲームプレイ AI エージェントへと焦点を移し、さまざまなビデオ ゲームでSIMAをトレーニングした。
+
+**8つのゲームスタジオと協力し、SIMAを9種類のビデオゲームでトレーニングを行う**
+研究チームは「No Man's Sky」「Teardown」「Valheim」「Goat Simulator 3」「Satisfactory」「Hydroneer」「Space Engineer」「Wobbly Life」「Eco」といったバラエティに富むゲームでトレーニングし、評価を行った。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+また、Unityと共同で構築した「Construction Lab」を含む4種類の研究環境でテストを行い、SIMAの多様なビデオゲーム環境への適応能力を高めた。
+
+現段階でSIMAは、「左折」「はしごを登る」「地図を開く」 などの約600の基本スキルを持ち、さまざまな状況に適応する訓練が施されている。このAIエージェントは、ゲームのソースコードや特別なAPIにアクセスすることなく、人間が使用するのと同じキーボードとマウスの入力でゲームをプレイする。
+
+**ナビゲーション、オブジェクトの操作、メニューの使用など、600の基本スキルにわたって評価された**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+多くのゲームで訓練を受けたエージェントの方が、1 つのゲームだけをプレイする方法を学んだエージェントよりも優れていたことがわかると研究チームは述べる。彼らの評価によると、9つの3D ゲームのセットでトレーニングを受けた SIMAエージェントは、個々のゲームのみでトレーニングを受けたすべての専門エージェントよりも大幅に優れたパフォーマンスを示したという。また、初めてプレイするゲームでも、そのゲームに特化してトレーニングを受けたエージェントと平均してほぼ同じパフォーマンスを示したとのこと。つまり、新しい環境で機能するこの能力は、トレーニングを超えて一般化できる SIMA の能力を示すと主張した。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+今後、SIMAの研究は日常生活のタスク、より複雑な指示への対応、効率的な学習方法の開発に向けて進められる。
+研究に関する詳しいレポートは{target=“_blank”}
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 21 Mar 2024 14:09:34 +0000</pubDate></item><item><title>アップル、画像とテキストを理解するマルチモーダル大規模言語モデル「MM1」の論文を発表</title><link>https://ledge.ai/articles/apple_multimodal_llm_mm1</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2071,41 +2128,7 @@ AnyGPTは、マルチターン会話データセット「AnyInstruct-108k」を�
 :::box
 
 :::
-</description><pubDate>Tue, 05 Mar 2024 08:22:31 +0000</pubDate></item><item><title>Alibaba　音声データを与えると、1枚の人物画がリアルに喋り歌い出す　動画生成AI「EMO」を発表</title><link>https://ledge.ai/articles/alibaba_emo</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Alibabaの Institute for Intelligent Computing（知能計算研究所） は2024年2月29日、「EMO」（Emote Portrait Alive）という音声による表情豊かなポートレートビデオ生成フレームワークを{target=“_blank”}した。
-
-単一の参照画像とボーカルオーディオ（話す声や歌声など）を入力すると、豊かな顔の表情や、頭部の様々なポーズをしたボーカルアバタービデオを生成する。入力オーディオの長さに応じ、任意の時間のビデオを生成可能だという。
-
-さまざまな言語の歌や、異なるポートレートスタイルを生き生きと再現することができ、急速なリズムにも対応し、表現力豊かでダイナミックなキャラクターアニメーションを同期させることができる。また、過去の人物、絵画、3Dモデル、AI生成コンテンツなど、様々なポートレートをリアルな動きでアニメーション化することが可能だ。
-
-@
-このシステムは、音声データから直接動画に合成するアプローチを採用しており、リアルな動きの実現を可能にしているという。
-
-EMOは参照画像から特徴を抽出し、音声エンコーダーがオーディオの埋め込みを処理する2段階のフレームワークに基づいている。顔の領域マスクとマルチフレームノイズが組み合わされ、顔の画像の生成を制御する。その後、バックボーンネットワークを通じてノイズ除去が行われる。
-
-バックボーン・ネットワークでは、2種類のアテンション・メカニズムが適用される。
-リファレンス・アテンション（Reference-Attention）とオーディオ・アテンション（Audio-Attention）で、それぞれ、キャラクターのアイデンティティを保持し、キャラクターの動きを調整するために不可欠とされる。また、時間的次元を操作し、動きの速度を調整するために、時間的モジュールが利用される。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-このプロジェクトは、学術的な研究とその効果を試すためだけに行われており、作成された技術や成果物を一般に公開するかどうかは未定。リポジトリは{target=“_blank”}に置かれているが、公開の予定については触れられていない。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 04 Mar 2024 02:28:44 +0000</pubDate></item><item><title>G7産業・技術・デジタル大臣会合、イタリアで開催 - AIとデジタル政府の進展に焦点</title><link>https://ledge.ai/articles/g7_industry_technology_and_digital_ministreal_meeting</link><description>:::small
+</description><pubDate>Tue, 05 Mar 2024 08:22:31 +0000</pubDate></item><item><title>G7産業・技術・デジタル大臣会合、イタリアで開催 - AIとデジタル政府の進展に焦点</title><link>https://ledge.ai/articles/g7_industry_technology_and_digital_ministreal_meeting</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
