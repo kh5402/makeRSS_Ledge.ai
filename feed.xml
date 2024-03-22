@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 21 Mar 2024 14:09:34 +0000</lastBuildDate><item><title>OpenAIが「ル・モンド（仏）」「プリサ（西）」との提携を発表ーーNYTとの法廷での争いと平行</title><link>https://ledge.ai/articles/openai_global_news_partnerships_le-monde_and_prisa_media</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Mar 2024 02:49:57 +0000</lastBuildDate><item><title>ダークウェブ上で「ChatGPT」含むOpenAIユーザー情報とRobloxアカウントの認証情報流出が急増ーーKasperskyの調査報告</title><link>https://ledge.ai/articles/kaspersky_digital_footprint_intelligence_report</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年3月7日、KasperskyのDigital Footprint Intelligence部門は、AIサービスとゲームサイトから窃取された認証情報に関する2021年から2023年までのダークウェブ市場の調査結果を{target=“_blank”}した。
+
+この調査によると、OpenAIユーザーの認証情報が前年比33倍近くに達するなど、膨大なログイン情報がダークウェブ上に投稿されていることが明らかになった。
+
+2023年だけでChatGPTを含むサービスの約66万4,000件のログインとパスワード情報がダークウェブに流出。また、2021年から2023年にかけてはChatGPT、Canva、Grammarlyのアカウント約268万6,000件、ゲーミングプラットフォームRobloxのユーザー認証情報約3,400万件が流出したという。これらの情報は、インフォスティーラーと呼ばれるマルウェアを通じて盗み出され、ダークウェブで販売されている。
+
+ダークウェブ市場では、流出した認証情報の売買が盛んに行われており、さまざまなオンラインプラットフォームやサービスのアカウントがサイバー犯罪者によって取引されているという。特にAIサービスの認証情報窃取が注目されており、デザインツール「Canva」やライティング支援ツール「Grammarly」などのサービスでも多数の認証情報が漏えいしているとのこと。
+
+このほか、ゲーミングプラットフォームのRobloxでは、子供たちがターゲットとなり、侵害されたアカウント数が年々増加していると同社は報告した。サイバー犯罪者は、チートコードを餌にしたファイルや悪意のあるダウンロードリンクを通じてインフォスティーラーに感染させ、ゲームアカウントのログイン情報を盗み出す。このような状況から、個人はもちろん、企業もフィッシングメールや偽サイトなどに注意し、デバイスのセキュリティ強化が求められている。
+
+同社 Digital Footprint Intelligence 部門責任者のユリヤ・ノヴィコワ氏は、サイバー犯罪者がどのようにしてこれらの認証情報を収益化しているかを説明。プラットフォームの所有者に対、専門サービスを利用して侵害されたアカウントの追跡と脅威の迅速なブロックを通じて保護を強化することを推奨している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 22 Mar 2024 02:49:57 +0000</pubDate></item><item><title>OpenAIが「ル・モンド（仏）」「プリサ（西）」との提携を発表ーーNYTとの法廷での争いと平行</title><link>https://ledge.ai/articles/openai_global_news_partnerships_le-monde_and_prisa_media</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -342,41 +368,7 @@ Metaは、新しいAIモデルを利用することで、動画の視聴時間�
 :::box
 
 :::
-</description><pubDate>Tue, 12 Mar 2024 05:33:41 +0000</pubDate></item><item><title>ランサーズ、仕事の発注者が生成AIの「使用許可・制限」を選択できる機能を新設</title><link>https://ledge.ai/articles/lancers_genai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ランサーズ株式会社は2024年3月7日、フリーランスと企業を繋ぐマッチングプラットフォーム「Lancers」において、コンペ方式の仕事依頼に際し、生成AIの「使用許可・制限」を選択できる新機能をリリースしたことを{target=“_blank”}した。
-
-この機能の導入により、発注者は制作物提案の募集時に、生成AIの使用を許可するかどうかを明確に指定できるという。現段階では、「デザイン」と「ライティング」の業務に限定するとのこと。
-
-多くのフリーランスが効率化や専門知識を活かした仕事獲得のために生成AIツールを使用しているが、この技術を用いた作業には権利問題や品質保証といった課題が存在する。ランサーズは、生成AIの適切な使用を促進し、発注者とフリーランス双方が安心して取引できる環境の実現を目指すという。
-
-新機能の試験導入期間中、発注者の6割以上が生成AIの使用を許可しており、比較的前向きな反応が得られた。これを受けて、ランサーズは正式に機能をリリースし、新たなマッチング機会の提供や取引の透明性の向上を図る。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-フリーランス（ランサー）は提案時に生成AIの使用有無を申告し、「AIで生成」ラベルが付与される。これにより、生成AIを用いた提案が容易に識別でき、発注者はインフォームドコンセントのもとで適切な選択が可能となる。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 12 Mar 2024 05:31:19 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 12 Mar 2024 05:33:41 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
