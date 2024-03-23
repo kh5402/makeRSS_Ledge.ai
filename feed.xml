@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Mar 2024 02:49:57 +0000</lastBuildDate><item><title>ダークウェブ上で「ChatGPT」含むOpenAIユーザー情報とRobloxアカウントの認証情報流出が急増ーーKasperskyの調査報告</title><link>https://ledge.ai/articles/kaspersky_digital_footprint_intelligence_report</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Mar 2024 05:37:33 +0000</lastBuildDate><item><title>実在するモデルの顔を学習し「撮影ナシ」のフルAIでキービジュアル制作「Rakuten Fashion Week Tokyo 2024 A/W」</title><link>https://ledge.ai/articles/rakuten_fashon_week_genai_keyvisual_movie</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月11日から16日にかけて開催されたファッションの祭典「Rakuten Fashion Week Tokyo 2024 A/W」で、実在モデルの顔学習を用いた新しい手法によるRakuten FWT 初のフルAIシーズンキービジュアルを制作したことが{target=“_blank”}。
+
+
+@
+
+
+このプロジェクトには、日本を代表するモデルエージェンシーDONNA MODELSが協力し、国内外で活動する3人のモデルを「撮影ナシ」でAIが顔学習を行いビジュアルを制作した。
+
+近年、ディープフェイクやAIモデルの登場といった肖像権が問題になる中、エージェンシーやモデルの理解を得てAI活用することで、新たなモデルの起用方法、ファッション・クリエイティブの可能性に挑戦したという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 22 Mar 2024 05:37:33 +0000</pubDate></item><item><title>ダークウェブ上で「ChatGPT」含むOpenAIユーザー情報とRobloxアカウントの認証情報流出が急増ーーKasperskyの調査報告</title><link>https://ledge.ai/articles/kaspersky_digital_footprint_intelligence_report</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -347,28 +371,7 @@ Inflection-2.5の導入以来、ユーザーからの感想は非常に肯定的
 
 :::
 
-</description><pubDate>Wed, 13 Mar 2024 09:05:52 +0000</pubDate></item><item><title>Meta、動画エコシステム全体を強化するため巨大AIモデルの構築を進行中</title><link>https://ledge.ai/articles/meta_is_building_a_giant_ai_model</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年3月6日、Metaは自社プラットフォームにおける動画エコシステム全体を強化するため、数十億ドルを投資して巨大なAIモデルの開発を進めていることを{target=“_blank”}が報じた。このプロジェクトは、FacebookやInstagramなどMetaが運用するすべてのプラットフォームで、動画のレコメンド機能を動かすことを目的としている。Facebook責任者のトム・アリソン氏は、モルガン・スタンレーがサンフランシスコで開催したテクノロジーカンファレンス「Morgan Stanley Technology, Media and Telecom 2024」で、2026年に向けた技術ロードマップの一環としてこの計画を説明したという。
-
-MetaのCEOマーク・ザッカーバーグ氏は以前、このAIシステムの構築には、NVIDIAのGPUへの{target=“_blank”}が含まれていると述べていた。同社は、AIに基づくレコメンドモデルを利用して、TikTok風のショート動画サービス「リール」だけでなく、より長い動画に対しても、ユーザーに合わせたコンテンツを提供することを目指しているとのこと。
-
-Metaは、新しいAIモデルを利用することで、動画の視聴時間が8%から10%増加するなど、既に一定の成果を示している。この技術進化は、ユーザーエクスペリエンスの向上とプラットフォームの魅力の強化に寄与することが期待されている。また、この巨大AIモデルの開発は、Metaの長期的な技術戦略の一環として、動画コンテンツの推薦精度の向上や応答性の高いユーザーインターフェースの実現に貢献すると見られている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 12 Mar 2024 05:33:41 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Wed, 13 Mar 2024 09:05:52 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
