@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Mar 2024 05:37:33 +0000</lastBuildDate><item><title>実在するモデルの顔を学習し「撮影ナシ」のフルAIでキービジュアル制作「Rakuten Fashion Week Tokyo 2024 A/W」</title><link>https://ledge.ai/articles/rakuten_fashon_week_genai_keyvisual_movie</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Mar 2024 05:51:51 +0000</lastBuildDate><item><title>実在するモデルの顔を学習し「撮影ナシ」のフルAIでキービジュアル制作「Rakuten Fashion Week Tokyo 2024 A/W」</title><link>https://ledge.ai/articles/rakuten_fashon_week_genai_keyvisual_movie</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2123,7 +2123,41 @@ AnyGPTは、マルチターン会話データセット「AnyInstruct-108k」を�
 :::box
 
 :::
-</description><pubDate>Tue, 05 Mar 2024 08:22:31 +0000</pubDate></item><item><title>G7産業・技術・デジタル大臣会合、イタリアで開催 - AIとデジタル政府の進展に焦点</title><link>https://ledge.ai/articles/g7_industry_technology_and_digital_ministreal_meeting</link><description>:::small
+</description><pubDate>Tue, 05 Mar 2024 08:22:31 +0000</pubDate></item><item><title>世田谷区のAIチャットボット「ヒデキ」を非エンジニアの職員がローコードで開発　絵文字を多用するポジティブおじさん誕生</title><link>https://ledge.ai/articles/setagaya_chatbot_hideki</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京都世田谷区のDX推進担当課は2024年3月12日、ChatGPTを用いたAIチャットボット「Hideki（ヒデキ）」を開発したことを{target=“_blank”}した。
+
+同課は、Microsoft Azure OpenAI Serviceを利用し、生成AI（ChatGPT）を活用する環境を構築。非エンジニア職の区職員が開発したMicrosoft Teams対応のチャットボットを全職員に提供開始した。このチャットボットは、外部委託なしで、セキュリティ要件を満たしつつ、3ヶ月で開発された。開発の背景には、区職員の業務効率化と区民の利便性向上の目的があるという。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このチャットボットは、文章校正やWord/Excel操作に関する疑問解消、アイデアの壁打ちなど、多岐にわたる業務で活用されている。利用した職員127人のうち73%が生産性の向上を実感しており、通常業務では1日平均約34分、アイディアや企画の素案作成においては、1回当たり平均約77分の時間短縮が達成されたとのこと。
+
+#### 職員アンケート
+!
+!
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 22 Mar 2024 05:51:51 +0000</pubDate></item><item><title>G7産業・技術・デジタル大臣会合、イタリアで開催 - AIとデジタル政府の進展に焦点</title><link>https://ledge.ai/articles/g7_industry_technology_and_digital_ministreal_meeting</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2410,31 +2444,7 @@ JASRACは、AIによる生成物がクリエイターの著作物に対する需
 :::box
 
 :::
-</description><pubDate>Mon, 12 Feb 2024 06:57:28 +0000</pubDate></item><item><title>「自民党AI」開発中。国会論戦もワンランク上がる可能性</title><link>https://ledge.ai/articles/jiminto_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-「自民党AI」が開発中であると2024年1月30日に{target=“_blank”}が報じた。
-スピーチ原稿作成や活動報告書作成など、政治活動に特化した機能を有しており、スピーチの場所やテーマ、聴衆、演説の時間を入力すると、数秒で指示通りのスピーチ文を生成できるという。
-
-
-取材に応じた自民党の平将明 衆議院議員は、レポーターの「AIが作る文章を読むだけでは、国会議員は必要ないのではという指摘があるが？」との問いに
-「AIは、飛行機でいえば『副操縦士』。オートパイロットでもなければ、メインパイロットでもない。それを土台にして、新たな政策を生み出す創造性とかそういうものが議員に問われてくる」と説明。
-
-また、自民党広報本部長の平井卓也氏は、「国会論戦もワンランク上に上がる可能性がある。そっちの期待の方が大きいです」と述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 09 Feb 2024 05:41:32 +0000</pubDate></item><item><title>「相棒 season22」最終回は「ディープフェイク右京」登場。人間は生成AIに置き換えられるのか</title><link>https://ledge.ai/articles/aibou22_ai-ukyo</link><description>:::small
+</description><pubDate>Mon, 12 Feb 2024 06:57:28 +0000</pubDate></item><item><title>「相棒 season22」最終回は「ディープフェイク右京」登場。人間は生成AIに置き換えられるのか</title><link>https://ledge.ai/articles/aibou22_ai-ukyo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
