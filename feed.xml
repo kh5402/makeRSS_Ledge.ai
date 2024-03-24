@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 22 Mar 2024 05:51:51 +0000</lastBuildDate><item><title>実在するモデルの顔を学習し「撮影ナシ」のフルAIでキービジュアル制作「Rakuten Fashion Week Tokyo 2024 A/W」</title><link>https://ledge.ai/articles/rakuten_fashon_week_genai_keyvisual_movie</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 23 Mar 2024 08:04:04 +0000</lastBuildDate><item><title>NVIDIAがApple Vision Proと連携、新しいデジタルツインプラットフォームを発表</title><link>https://ledge.ai/articles/nvidia_omniverse_apple_vision_pro</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2024年3月18日（現地時間）、年次カンファレンス「GTC 2024」でAppleの空間コンピューティングデバイス「Apple Vision Pro」と連携した新たなプラットフォームを{target=“_blank”}した。
+
+このプラットフォームは、「Omniverse Cloud API」と「OpenUSD」を基に構築され、企業顧客がApple Vision Pro上で製品の高品質なデジタルツインを体験できるようにすることを目的としている。
+
+NVIDIA Omniverse™ は、NVIDIAが2021年に発表したプラットフォームで、開発者、アーティスト、エンジニアが3Dモデルを視覚化し、生成するための共同作業「メタバース」プラットフォームとして機能する。今回発表されたAPIにより、Omniverseのツールやデータをクラウドベースのインフラで利用できるようになった。
+
+@
+
+
+開発者は、SwiftUIとRealityKitを使って、NVIDIA Omniverse採用のApple Vision Pro向けアプリを開発できるようになり、ユーザーはストリーミングされるデジタルツインをApple Vision Proで操作可能になる。公開されたデモ動画では、Omniverse上のCGIスタジオKatanaが開発した車両設計アプリを使用し、デザイナーが塗装や内装を切り替え、車内に座る様子が紹介された。
+
+この連携により、Apple Vision Proの超高解像度ディスプレイと、NVIDIAの高速コンピューティングからストリーミングされるOpenUSDコンテンツのフォトリアリスティックレンダリングを組み合わせることで、没入型体験の大幅な進化が可能になると期待されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 23 Mar 2024 08:04:04 +0000</pubDate></item><item><title>実在するモデルの顔を学習し「撮影ナシ」のフルAIでキービジュアル制作「Rakuten Fashion Week Tokyo 2024 A/W」</title><link>https://ledge.ai/articles/rakuten_fashon_week_genai_keyvisual_movie</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -339,39 +366,7 @@ Inflection-2.5の導入以来、ユーザーからの感想は非常に肯定的
 
 :::
 
-</description><pubDate>Wed, 13 Mar 2024 09:11:55 +0000</pubDate></item><item><title>OpenAIなどのAI企業から独立してモデル評価研究可能な「セーフハーバー」求め250名を超える研究者たちが署名</title><link>https://ledge.ai/articles/a_safe_harbor_for_ai_evaluation_and_red_teaming</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年3月5日、250名を越えるAIの研究者や専門家たちが、AIの安全性・信頼性評価のための研究やレッドチーミング活動を、法的・技術的なリスクから保護するための「セーフハーバー（Safe Haobor：安全港）」の設置を提案する{target=“_blank”}した。
-
-この書簡の元となる{target=“_blank”}の著者たちが、{target=“_blank”}で提案内容を説明している。彼らは、AI企業に対し、自社のAIモデルに関する誠実な研究に対して、法的および技術的保護の提供を奨励すると述べ、独立研究への既存の障壁と、より公平で透明性があり、説明責任のある研究者エコシステムをどのように開発できるかを解説した。
-
-既存のセーフハーバーは、セキュリティ研究を保護するが、安全性と信頼性の研究は保護しないと主張。現行のセキュリティ研究を保護する法律は、AIの安全性や信頼性の研究を十分にはカバーしておらず、研究者が法的なリスクや技術的な障害（アカウントの停止など）に直面することなく、独立した評価を行うことを妨げているという。
-
-
-**大手 AI 企業のポリシーのギャップを示す表**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-法的および技術的なセーフハーバーを設けることにより、AI研究者が公益のために行う評価研究を保護し、そのような研究が、確立された脆弱性開示ルールに従って実施される限り、 企業の利用規約に反していると見なされない状態の提供を求めている。この提案により、AI企業が研究者に対して訴訟を起こすリスクが軽減され、研究者がセキュリティ脆弱性を公開する際の法的な保護が強化されることが期待されるという。
-
-公開書簡への賛同は増え続け、現在は{target=“_blank”}が集まっている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 13 Mar 2024 09:05:52 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Wed, 13 Mar 2024 09:11:55 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
