@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 23 Mar 2024 08:04:04 +0000</lastBuildDate><item><title>NVIDIAがApple Vision Proと連携、新しいデジタルツインプラットフォームを発表</title><link>https://ledge.ai/articles/nvidia_omniverse_apple_vision_pro</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 23 Mar 2024 14:33:04 +0000</lastBuildDate><item><title>NVIDIAがApple Vision Proと連携、新しいデジタルツインプラットフォームを発表</title><link>https://ledge.ai/articles/nvidia_omniverse_apple_vision_pro</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1685,7 +1685,30 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>Google DeepMindが新たなAIエージェント「SIMA」を発表　ビデオゲームから学び、汎用性のある多様なタスクを実行</title><link>https://ledge.ai/articles/google_deepmind_sima</link><description>:::small
+:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>京都ATRに新しい実験環境「ロボットスケートパーク」誕生　スケボーする人間の動きを学習し、人型ロボが再現</title><link>https://ledge.ai/articles/nedo_atr_cyborg_ai_challenge</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月12日、京都府精華町に位置する国際電気通信基礎技術研究所（ATR）内に、世界初の「ロボットスケートパーク」が設立され、その{target=“_blank”}が行われた。
+
+この施設は、スケートボードをする人の動きを人型ロボットが再現する実験に特化しており、スケートボードの基本技術である「ポンピング」などの動作を、AIの学習に基づき人型ロボットが実演し、人間の運動能力と脳波・筋電などの生体信号の計測を行う。得られたデータは、複雑な動きを指示できる高度なAIの開発に生かされるという ​​​​。
+
+ロボットスケートパークは、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の支援を受け、ATRが京都大学、産総研と共同で開発を進めている。人とAIの共進化を目的とした世界初の実験環境として、人やロボットが安全にスポーツを楽しめる設備や、人の筋肉や脳の機能を計測できるシステムが整備されている。また、人とロボットの運動を比較し類似性を視覚的に評価できるソフトウェアの開発も行われている​​​​。
+
+今後ATRは、2024年度「NEDO懸賞金活用型プログラム」の中で、「ロボットスケートパーク」で収集したデータを活用したコンテストの開催を予定しており、これにより「サイボーグAI」に関する基本技術の開発を加速させる計画だという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 23 Mar 2024 14:33:04 +0000</pubDate></item><item><title>Google DeepMindが新たなAIエージェント「SIMA」を発表　ビデオゲームから学び、汎用性のある多様なタスクを実行</title><link>https://ledge.ai/articles/google_deepmind_sima</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2087,38 +2110,7 @@ BitNetの特徴は、その革新的なアーキテクチャにより、エッ�
 :::box
 
 :::
-</description><pubDate>Tue, 05 Mar 2024 08:28:08 +0000</pubDate></item><item><title>音声、テキスト、画像、音楽をまとめて理解し処理するマルチモーダルLLM「AnyGPT」上海の研究者たちが発表</title><link>https://ledge.ai/articles/anygpt_multimodal_llm</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-2024年2月26日、上海の復旦大学ほか複数の研究機関が新たなマルチモーダル言語モデル「AnyGPT」を{target=“_blank”}した。このモデルは、音声、テキスト、画像、音楽など、さまざまなモダリティを統一的に処理することが可能で、現在の大規模言語モデル（LLM）の枠組みを踏襲しながらも、新しいモダリティの統合を容易にする設計が特徴だという。
-
-
-@
-
-
-AnyGPTは、マルチターン会話データセット「AnyInstruct-108k」を使用してトレーニングされ、さまざまなモダリティを複雑に織り交ぜたマルチターン会話の10万8,000のサンプルで構成されているため、モデルがマルチモーダルな入力と出力の任意の組み合わせを処理できるようになるという。
-
-マルチモーダル命令データセット「AnyInstruct」の構築プロセスは、マルチモーダル要素を組み込んだテキストベースの対話の生成と、テキストからマルチモーダルへの変換の2つの段階に分かれている。このプロセスを通じて、トピックやシナリオに応じた対話が生成され、最終的にはマルチモーダル対話へと変換される。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 05 Mar 2024 08:22:31 +0000</pubDate></item><item><title>世田谷区のAIチャットボット「ヒデキ」を非エンジニアの職員がローコードで開発　絵文字を多用するポジティブおじさん誕生</title><link>https://ledge.ai/articles/setagaya_chatbot_hideki</link><description>:::small
+</description><pubDate>Tue, 05 Mar 2024 08:28:08 +0000</pubDate></item><item><title>世田谷区のAIチャットボット「ヒデキ」を非エンジニアの職員がローコードで開発　絵文字を多用するポジティブおじさん誕生</title><link>https://ledge.ai/articles/setagaya_chatbot_hideki</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
