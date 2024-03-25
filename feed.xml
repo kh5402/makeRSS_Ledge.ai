@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Mar 2024 11:36:11 +0000</lastBuildDate><item><title>楽天が日本語LLM「Rakuten AI 7B」シリーズを公開。Mistralベースで商用利用も可能</title><link>https://ledge.ai/articles/rakuten_ai_7b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Mar 2024 11:41:00 +0000</lastBuildDate><item><title>楽天が日本語LLM「Rakuten AI 7B」シリーズを公開。Mistralベースで商用利用も可能</title><link>https://ledge.ai/articles/rakuten_ai_7b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2455,7 +2455,44 @@ JASRACは、AIによる生成物がクリエイターの著作物に対する需
 :::box
 
 :::
-</description><pubDate>Mon, 12 Feb 2024 06:57:28 +0000</pubDate></item><item><title>「相棒 season22」最終回は「ディープフェイク右京」登場。人間は生成AIに置き換えられるのか</title><link>https://ledge.ai/articles/aibou22_ai-ukyo</link><description>:::small
+</description><pubDate>Mon, 12 Feb 2024 06:57:28 +0000</pubDate></item><item><title>YouTube、生成AIなどによる改変・合成コンテンツのラベル表示機能を順次導入</title><link>https://ledge.ai/articles/youtube_disclosing_ai_generated_content</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+YouTubeは2024年3月19日、クリエイターが作成したコンテンツが改変または合成によって作成された場合、その事実を視聴者に開示するための新しいツールをYouTube Creator Studioに導入したと{target=“_blank”}した。
+
+生成AIがストーリーボードのアイデア出しや創作工程のサポートツールとして活用される中、コンテンツが改変や合成によって作られたものかどうかについて、視聴者が求める透明性を確保するためのものだ。
+
+### ラベル付けが必要とされるコンテンツ
+- 実在する人物のように見せている： デジタル改変により、ある人物の顔を実在する別の人物の顔に置き換えたり、合成した人物の声を動画のナレーションに使用したりしているコンテンツ
+- 実際の出来事や場所の映像を改変している： 実在する建物で火事が発生しているように見せたり、実在する都市景観を実際とは違って見えるよう改変したりしているコンテンツ
+- 現実的な風景を生成している： 実在する都市に向かって移動している竜巻など、架空の大きな事件をリアルに描写したコンテンツ
+
+視聴者が実際の人物、場所、出来事と勘違いしやすいようなリアルに見えるコンテンツに対して、クリエイターが改変または合成されたメディア（生成AIを使用したものを含む）で作成したことを開示する必要がある。ただし、明らかに非現実的であるコンテンツ、アニメーション、特殊効果が含まれるコンテンツ、または制作作業をサポートする目的で生成AIを使用したコンテンツについては、開示の必要はない。
+
+この取り組みは、昨年11月に発表された{target=“_blank”}のアプローチの一環として、情報開示要件やラベル表示、プライバシー侵害の申し立てが更新されるなど、YouTubeのAI製品および機能に責任をもって組み込まれるよう徹底されている。
+
+### ラベル付けが不要なケース
+開示が求められる主なケースは、実在する人物のように見せかけたデジタル改変コンテンツ、実際の出来事や場所を改変したコンテンツ、現実的な風景を生成したコンテンツなどが該当する。しかし、生産性を高めるために生成 AI を使用している場合や、以下のような合成したメディアが非現実的な場合や、改変の重要度が低い場合は開示不要。
+
+- アニメーションや、ファンタジーの世界でユニコーンに乗っている人間など、明らかに非現実的なコンテンツ
+- 色の調整や照明
+- フィルタ背景ぼかしやビンテージ調などの特殊効果
+- 美肌加工フィルターやその他の視覚効果
+
+
+このラベル表示機能は、今後段階的に導入予定だという。最初はスマートフォンの YouTube アプリ、続いてパソコンとテレビで視聴する YouTube 上でも順次展開していく予定。
+
+将来的には、この情報を開示しないクリエイターに対する措置も検討予定で、改変または合成されたコンテンツが混乱や誤解を生む可能性がある場合は、クリエイターが情報を開示していなくても YouTube がラベルを追加するなどのケースも想定しているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 24 Mar 2024 11:41:00 +0000</pubDate></item><item><title>「相棒 season22」最終回は「ディープフェイク右京」登場。人間は生成AIに置き換えられるのか</title><link>https://ledge.ai/articles/aibou22_ai-ukyo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2761,25 +2798,4 @@ JASRACは2023年7月に、クリエイターが安心して創作に専念でき
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jan 2024 13:11:56 +0000</pubDate></item><item><title>AIゴッホと対話できる「Bonjour Vincent（ボンジュール・ヴィンセント）」学術機関との共同研究の成果が仏オルセー美術館で開催中　2024年2月4日まで！</title><link>https://ledge.ai/articles/bonjour_vinzent_musee-orsay</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ゴッホ生誕170周年となる2023年、パリのオルセー美術館では同年10月より「ヴァン・ゴッホ展」を開催している。「”Van Gogh à Auvers-sur-Oise, les derniers mois”）～オーヴェルシュルオワーズ最後の数か月（Van Gogh in Auvers-sur-Oise）」という、画家ゴッホが生涯で最も多くの作品を残したされる最後の70日間にフォーカスした展示だ。
-
-この企画に合わせ、フランスのスタートアップJumbo Manaが開発した生成AI「Bonjour Vincent（ボンジュール・ヴィンセント）」アプリケーションで、訪問者がゴッホと対話できるコーナーを{target=“_blank”}している。
-
-この生成AIアプリケーションは、ゴッホのやり取りした約900通の手紙をコーパスとして学習しており、彼の人生や作品について語る「AIゴッホ」との対話を可能にする。来場者は、インタラクティブ端末に接続されたマイクを使用して、有名な「カラスのいる麦わら畑」を描いている最中のAIゴッホに話しかけ、一対一での会話を楽しめるという。
-
-このプロジェクトは、BPI FranceとGrand-Est地域、パリ大学サクレー校、科学計算資源開発研究所(IDRIS)の支援を受け、Jumbo Manaとゴッホの専門家であるWouter van der Veen博士との共同研究によって実現した。オルセー美術館とのパートナーシップにより、学術研究から来訪者との直接的な相互作用を伴う応用研究へと移行し、来訪者が質問すればするほど、AIは学習し向上していく。
-
-展示は2024年2月4日まで。「Bonjour Vincen」コーナーは、オルセー美術館の展示会出口で無料で利用可能。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 26 Jan 2024 11:07:12 +0000</pubDate></item></channel></rss>
+</description><pubDate>Wed, 31 Jan 2024 13:11:56 +0000</pubDate></item></channel></rss>
