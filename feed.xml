@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Mar 2024 11:30:01 +0000</lastBuildDate><item><title>NVIDIAがApple Vision Proと連携、新しいデジタルツインプラットフォームを発表</title><link>https://ledge.ai/articles/nvidia_omniverse_apple_vision_pro</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Mar 2024 11:36:11 +0000</lastBuildDate><item><title>楽天が日本語LLM「Rakuten AI 7B」シリーズを公開。Mistralベースで商用利用も可能</title><link>https://ledge.ai/articles/rakuten_ai_7b</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+楽天は2024年3月21日、日本語に最適化された大規模言語モデル（LLM）の新シリーズ「Rakuten AI 7B」を{target=“_blank”}した。
+
+このシリーズには、基盤モデル「Rakuten AI 7B」、インストラクションチューニング済モデル「Rakuten AI 7B Instruct」、及びチャットモデル「Rakuten AI 7B Chat」が含まれる。これらはすべて、2024年3月21日にオープンソースモデルとして公開された。
+
+Rakuten AI 7Bは、フランスのAIスタートアップMistral AI社の「Mistral-7B-v0.1」を基に開発された70億パラメータを持つ日本語のモデル。楽天内のマルチノードGPUクラスターを用いた大規模事前学習を経て、高品質なデータを用いた事前学習が実施された。さらに、独自の形態素解析器を用いることで、言語処理の効率化を実現している。
+
+言語モデル評価ツール「LM Evaluation Harness」による評価では、本シリーズのモデルが日本語及び英語のテストにおいて高いパフォーマンスを示し、特に日本語においては極めて高い評価を獲得した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+楽天のCDOティン・ツァイ氏は、この成果をオープンソースコミュニティと共有し、日本語LLMの発展に貢献する意向を表明。楽天は、これらのモデルを使用して文章の要約、質問応答、対話システムの構築など、様々なテキスト生成タスクに対応し、さらなるAI技術の進化を目指すとした。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 24 Mar 2024 11:36:11 +0000</pubDate></item><item><title>NVIDIAがApple Vision Proと連携、新しいデジタルツインプラットフォームを発表</title><link>https://ledge.ai/articles/nvidia_omniverse_apple_vision_pro</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -328,45 +360,7 @@ Ding被告が有罪とされた場合、商業秘密の窃盗に関する各容�
 :::box
 
 :::
-</description><pubDate>Wed, 13 Mar 2024 10:28:36 +0000</pubDate></item><item><title>InflectionAI　高い共感力(EQ)を持つパーソナルAI「Pi」がグレードアップ(IQを追加)　新モデル「Inflection-2.5」発表</title><link>https://ledge.ai/articles/inflection_2-5</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国AI企業の Infletion AI は2024年3月7日、同社のパーソナルAI「Pi」の最新基盤モデル「Inflection-2.5」を{target=“_blank”}した。
-
-すべての人に共感的で役立つ安全なパーソナルAIの提供をミッションとする同社は、2023年5月に「Pi」を発表。親切で支援的なパーソナルAIアシスタントとして設計されたPiは、新しいタイプのAIとして、その類稀なる共感力（EQ）が話題となった。6月にはNVIDIAなどから総額13億ドルを調達し、11月には、LLM「Inflection-2」を発表している。
-
-このたび発表された「Inflection-2.5 」は、PiのEQにIQを加える形で導入されたという。新たなモデルは、GPT-4やGeminiのような主力AIに匹敵する性能を持つモデルだと同社は述べる。このアップグレードは、iOS、Android、新たにリリースされたデスクトップアプリを含むpi.aiで、全Piユーザーに提供される。
-
-Inflection-2.5は、GPT-4と同等の性能を目指しつつ、訓練に要する計算量を40%に抑えるという効率性を実現したという。特にコーディングや数学などのIQ関連領域で顕著な進歩を遂げ、業界標準ベンチマークにおいても具体的な改善が見られる。これによりPiは、技術の最前線を推し進めることができる。さらに、Piは世界クラスのリアルタイムWeb検索機能も備え、ユーザーに高品質な最新ニュースや情報を提供する。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-毎日100万人、毎月600万人のアクティブユーザーがPiと交流し、その数は40億を超えるメッセージ交換に達しているという。Piとの平均会話時間は33分で、10回に1回は1時間以上に及ぶ。週に1回Piと会話する人の約60%が翌週も戻って来ており、月間の定着率は主要競合よりも高いとのことだ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Inflection-2.5の導入以来、ユーザーからの感想は非常に肯定的で、ユーザーの感情、エンゲージメント、リテンションに著しい影響を与え、結果としてオーガニックなユーザー成長を加速させているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 13 Mar 2024 09:11:55 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Wed, 13 Mar 2024 10:28:36 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
