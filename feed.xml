@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 24 Mar 2024 11:41:00 +0000</lastBuildDate><item><title>楽天が日本語LLM「Rakuten AI 7B」シリーズを公開。Mistralベースで商用利用も可能</title><link>https://ledge.ai/articles/rakuten_ai_7b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Mar 2024 06:28:38 +0000</lastBuildDate><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Googleが2024年3月に行った組織改編で、検索部門の新たなリーダーにエリザベス・リード氏が就任した。リード氏は、Google検索とマップで見つけられる地域情報の基盤を築いた初期のエンジニアの一人で、現在Googleのコア検索体験、特にイメージ検索を含む検索サービス全体の監督を担う。
+
+「Google Searchは正確な回答を提供し、Web上で最適なリンクを探索するための信頼されるツールである」とリード氏は述べ、「私たちは、主要市場全体で検索クエリの増加を見ており、人々の情報ニーズは増え続ける。だからこそ、Searchの進化と改善を続ける」と強調している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+リード氏はスパムポリシーとランキングシステムの更新による品質の大幅な改善、Lensを使用した視覚的な検索、Circle to Searchでのスクリブルによる検索支援、そしてAIを活用したSearch Generative Experience (SGE)の試行など、検索の新たな進化にも触れた。
+
+Googleは、SGEを始めとする実験を通じて、AIが提供する新しい回答形式やコンテキストの理解に基づき、検索体験をどのように進化させるかを模索している​​。
+
+リード氏は、Googleが検索における生成AIの統合を慎重に進めていることを強調し、MicrosoftがBingで取り組んでいるような、チャットライクなインターフェースへの急激な移行ではなく、SGEでの学びを基に、より自然な検索体験を実現する方向性を探っていると述べている。
+
+生成AIは、検索エンジンがこれまでにないタイプの質問に答えることを可能にし、情報の整理と理解の方法を変えることで、利用者が{target=“_blank”}と同社は述べる​​。たとえば、家族連れやペットを連れた旅行先の選択など、具体的なシナリオに基づいた質問に対して、AIが重要な情報のスナップショットを提供し、深堀りするためのリンクを示すことで、従来の検索よりも効率的な情報収集が可能になる。
+
+
+「素晴らしいチームと共に、検索を改善し進化させるために疲れ知らずに働くことができることに感謝している」とリード氏は言い、「この新しい役割で、世界中の人々が最も困難な質問に対する答えを見つけるのを助けるという私たちの使命を続けることを楽しみにしている」と新たな章の始まりに対する期待を示している。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 25 Mar 2024 06:28:38 +0000</pubDate></item><item><title>楽天が日本語LLM「Rakuten AI 7B」シリーズを公開。Mistralベースで商用利用も可能</title><link>https://ledge.ai/articles/rakuten_ai_7b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -324,43 +360,7 @@ Ding被告が有罪とされた場合、商業秘密の窃盗に関する各容�
 :::box
 
 :::
-</description><pubDate>Thu, 14 Mar 2024 08:33:46 +0000</pubDate></item><item><title>ビヨンド「AI＆バーチャル面接」で個性や内面を重視する新卒採用　</title><link>https://ledge.ai/articles/beyond_ai-virtual_graduate_recruitment</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-株式会社ビヨンドが2024年3月6日、2025年卒業見込みの学生を対象に、AIおよびバーチャル面接による新たな採用プロセスを開始したことを{target=“_blank”}した。2024年3月6日から4月5日までの期間限定で行われ、インフラエンジニアやWeb開発エンジニアの職種を募集しているという。
-
-近年、採用プロセスにおいてオンライン形式や対面形式、ハイブリッド形式など多様な選考方法が取り入れられている中、ビヨンドは「AI＆バーチャル面接」を導入することで、学歴や外的要因にとらわれず、応募者の個性や内面を重視した採用を目指している。
-
-同社の理念を支える「ダイバーシティ＆インクルージョン」の取り組みは、業務拡大に伴うカナダ進出の折、現地スタッフ採用を行う過程で、それがよりリアルなものとなったという。
-
-「年齢、宗教、その他諸々聞いてはいけないことが色々あると知り、その一歩先を想像した結果がアバターだった」と取締役の森田康太郎氏は述べる。
-
-これまでも、オンラインゲーム内会社説明会やノベルゲーム会社説明会など、ユニークな採用手法を積極的に取り入れてきたビヨンドは、新卒採用の機会にも「世界を少し楽にする」という企業理念のもと、面白くて一緒に働きたいと思えるような就活生との出会いを創出し続ける。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-採用プロセスはエントリーから始まり、AIによる面接、バーチャル面接を経て、最終面接へと進む。AI面接では、24時間365日いつでもどこでも面接が可能で、ビヨンド独自の評価基準に基づいた公平な選考が行われるとのこと。一方、バーチャル面接ではZoomを用い、面接者はVRoidStudioで作成されたアバターや無料の既存アバターを使用し、個性や人間性を表現できる環境が提供される。面接官は学校、性別、年齢、住所など、個人を特定する情報について質問しないため、全ての応募者が平等に評価されるという。
-
-このAI＆バーチャル面接を通して、同社は、IT業界に高い関心を持つエンジニア志望の学生と出会い、多様な背景を持つ才能ある新卒者の発掘を目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 13 Mar 2024 10:28:36 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Thu, 14 Mar 2024 08:33:46 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
