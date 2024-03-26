@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Mar 2024 06:36:20 +0000</lastBuildDate><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Mar 2024 15:56:53 +0000</lastBuildDate><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2139,7 +2139,41 @@ TripoSRは、LRM（Large Reconstruction Model）ネットワークアーキテ�
 
 :::
 
-</description><pubDate>Fri, 08 Mar 2024 06:58:36 +0000</pubDate></item><item><title>世田谷区のAIチャットボット「ヒデキ」を非エンジニアの職員がローコードで開発　絵文字を多用するポジティブおじさん誕生</title><link>https://ledge.ai/articles/setagaya_chatbot_hideki</link><description>:::small
+</description><pubDate>Fri, 08 Mar 2024 06:58:36 +0000</pubDate></item><item><title>フランスの競争委員会がGoogleに2億5,000万ユーロの罰金を科す　Geminiの学習データめぐり</title><link>https://ledge.ai/articles/related_rights_autorite_fines_google_eu250_million</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月20日、フランスの競争規制機関であるAutorité de la Concurrenceは、著作隣接権に関するライセンス契約の交渉過程における違反を理由に、Googleに対して2億5000万ユーロの罰金を科したことを{target=“_blank”}した。
+
+この措置は、2019年4月17日のEUの著作権及び著作隣接権に関する指令を法令化する2019年7月24日のフランス法に基づき、報道機関、出版社、デジタルプラットフォーム間のバランスの取れた交渉条件を確立することを目的とした約束事項の一部を遵守していなかったためとされる。
+
+Googleは、同社開発のマルチモーダルAI「Gemini（当時は ”Bard”）」に、報道機関や出版社から提供されたコンテンツを基盤モデルの学習に使用していたが、これらの利害関係者や競争委員会に事前通知を行っていなかったという。さらに、Geminiが使用するコンテンツを、他のGoogleサービスで保護されたコンテンツの表示に影響を与えずに、報道機関や出版社がその使用からオプトアウトできる技術的解決策を提案していなかったため、報道機関や出版社が関連権に基づく報酬を交渉する能力が妨げられていたと当局は主張した。
+
+Autorité de la Concurrenceは、透明性、客観性、非差別の基準に基づく誠実な交渉、著作隣接権に対する報酬の透明な評価のための情報提供、およびGoogleと報道機関や出版社との他の経済的関係に影響を与えない交渉の保証を含む、約束事項の4つを遵守していないと判断したという。
+
+これに対してGoogleは、欧州著作権指令に基づき、280のフランスのニュース出版社と450以上の出版物をカバーするライセンス契約を締結し、年間数千万ユーロを支払うという成果を上げているにも関わらず、この制裁を受けたと{target=“_blank”}で述べている。
+
+同社はこの長期間にわたる問題を解決し、出版社との建設的な協力に焦点を当てたい意向だが、競争委員会が提起した問題に対する罰金額は、違反に対して不釣り合いに高額であると主張。また、複雑な規制環境と継続する法的行動が交渉を困難にし、将来のフランスにおける情報分野への投資を不確実にしていると指摘した。
+
+この問題に対応するため、Googleは間接収入の計算方法の見直しを含む一連の改善策を約束しており、ニュースコンテンツの実際の経済価値に関するさらなる分析を進める予定だという。
+
+フランス競争委員会との和解により、Googleは交渉過程での手続き上の問題に対処する措置を講じ、特定の出版社および出版物に関する批判に対応しているとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 25 Mar 2024 15:56:53 +0000</pubDate></item><item><title>世田谷区のAIチャットボット「ヒデキ」を非エンジニアの職員がローコードで開発　絵文字を多用するポジティブおじさん誕生</title><link>https://ledge.ai/articles/setagaya_chatbot_hideki</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2443,24 +2477,7 @@ JASRACは、AIによる生成物がクリエイターの著作物に対する需
 :::box
 
 :::
-</description><pubDate>Thu, 15 Feb 2024 02:04:07 +0000</pubDate></item><item><title>バイデン・ハリス政権がAI安全性に特化した初のコンソーシアム「AI Safety Institute」設立を発表　200以上のAI先端企業や学会・市民団体が参加</title><link>https://ledge.ai/articles/the_us_ai_safety_institute_consortium</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国商務省のジーナ・レイモンド長官は2024年2月8日、バイデン・ハリス政権がAIの安全性に専念する米国AI安全研究所コンソーシアム（AISIC）の設立を{target=“_blank”}した。このコンソーシアムは、NIST（国立標準技術研究所）の下、米国AI安全研究所（USAISI）内に設置される。
-
-コンソーシアムは、{target=“_blank”}を含み、AIの最前線にいる企業や組織、最大手企業や革新的なスタートアップ、AIが社会をどのように変えるかの基礎理解を築く学界や市民社会のチーム、そしてAI利用の現場で深く関わる職業の代表者が参加し、安全で信頼性の高いAIの開発と展開を支援するという。
-
-この取り組みは、2023年10月30日にバイデン大統領が署名した{target=“_blank”}に沿うもので、レッドチームの活動、能力評価、リスク管理、安全性とセキュリティ、合成コンテンツのウォーターマーキングに関するガイドラインの開発に貢献することが期待されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 12 Feb 2024 06:57:28 +0000</pubDate></item><item><title>YouTube、生成AIなどによる改変・合成コンテンツのラベル表示機能を順次導入</title><link>https://ledge.ai/articles/youtube_disclosing_ai_generated_content</link><description>:::small
+</description><pubDate>Thu, 15 Feb 2024 02:04:07 +0000</pubDate></item><item><title>YouTube、生成AIなどによる改変・合成コンテンツのラベル表示機能を順次導入</title><link>https://ledge.ai/articles/youtube_disclosing_ai_generated_content</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
