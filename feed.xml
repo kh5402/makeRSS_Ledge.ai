@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Mar 2024 06:28:38 +0000</lastBuildDate><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Mar 2024 06:36:20 +0000</lastBuildDate><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1679,7 +1679,47 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 
 :::box
 
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>Sakana AI　異なるAI基盤モデルを融合させ新しいモデルを構築する「モデルマージの進化的最適化」を公開</title><link>https://ledge.ai/articles/sakanaai_evolutionary_model_merge</link><description>:::small
+:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>Stability AIが「Stable Video 3D」を発表 　単一画像から「回しても形が崩れない」3Dビデオ生成を実現</title><link>https://ledge.ai/articles/stable_video_3d</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stability AIは2023年3月19日、単一の画像から高品質な3Dビデオを生成できる新技術「Stable Video 3D」(SV3D)を{target=“_blank”}した。
+
+2023年11月に発表された{target=“_blank”}を基盤としている。
+12月にリリースされた{target=“_blank”} と比較し、品質とマルチビューが大幅に改善され、Zero123-XLなどの他のオープンソースの代替製品よりも優れているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+SV3Dには「SV3D_u」「SV3D_p」という２つのバリアント（異なるバージョン）がある。
+- **SV3D_u**：カメラのコンディショニングなしで単一の画像入力に基づいて軌道ビデオを生成する
+- **SV3D_p**：SVD3_u の機能を拡張したもの。単一画像と軌道ビューの両方に対応し、指定されたカメラパスに沿って3Dビデオを作成する
+
+2023年12月に同社は「Stability AIメンバーシップ」を{target=“_blank”}している。メンバーシップに加入することでStable Video 3Dの商用利用が可能となる。非商用利用の場合はHugging Faceからモデルウェイトをダウンロードでき、{target=“_blank”}も閲覧可能だ。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+この技術は、従来の新規ビュー合成（NVS）の問題、特に限定されたパースペクティブや出力の不一致を克服し、どの角度からでも一貫したビューを提供する。また、3D Neural Radiance Fields （NeRF）とメッシュ表現の最適化を利用して、直接生成された3Dメッシュの品質を向上させる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 25 Mar 2024 06:36:20 +0000</pubDate></item><item><title>Sakana AI　異なるAI基盤モデルを融合させ新しいモデルを構築する「モデルマージの進化的最適化」を公開</title><link>https://ledge.ai/articles/sakanaai_evolutionary_model_merge</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2099,42 +2139,7 @@ TripoSRは、LRM（Large Reconstruction Model）ネットワークアーキテ�
 
 :::
 
-</description><pubDate>Fri, 08 Mar 2024 06:58:36 +0000</pubDate></item><item><title>AIが生成した巨根ラット画像の論文が掲載されてしまう。科学者「査読プロセスはどうなっている？！」3日で掲載撤回</title><link>https://ledge.ai/articles/frontire_publication_withdrawn_in_3days</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年2月16日、研究出版社 Frontiers は、2月13日に科学誌「Frontiers in Cell and Developmental Biology」に公開した「精子幹細胞の細胞機能とJAK/STATシグナリング経路との関係（Cellular functions of spermatogonial stem cells in relation to JAK/STAT signaling pathway）」という論文に関する声名を{target=“_blank”}した。
-
-これは、AIで生成された巨大な性器を持つラットの根拠のないイラストを含む学術論文が掲載されたことを、科学コミュニティが指摘し、2月16日に当該論文の掲載が撤回されるという前例なき事態を説明し謝罪するものであった。
-
-2月16日、ケンブリッジ大学研究所の助教授 Charlotte Houldcroft 博士が、自身のX（旧Twitter）アカウントに「この図はどうやって査読を通過したの？！」と投稿し、騒動の始まりとなった。掲載されたラットの図は画像生成AI「Midjourney」を使って生成された実際には科学的根拠のないもので、"testtomcels"、"Dissisilcied"、"dck"といった無意味な文字列が図に添えられていたという。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-同社は、この論文におけるAI生成図の問題に対し、コミュニティからの迅速なフィードバックを受け、科学的記録の正確性を守るため、同論文をデータベースから撤回・削除したという。また、査読者の1人が図について妥当な懸念を示し、著者に修正を要求していたが、著者がこれに応じなかったとのこと。これについて、同社の査読プロセスにどのような問題があったかを調査中であると述べた。
-
-この論文の掲載と迅速な撤回は、学術誌の査読プロセスがどのようにしてAIによって生成された不正確な図表を見逃したのか、という疑問を提起した。研究者コミュニティでは、AIツールの監視を強化しない限り、不正確な発見が促進され、研究機関や研究者の評判に損害を与えかねないという懸念が示されている。
-
-2023年は、撤回された研究論文が過去最多を記録した年となった​ことを​科学誌{target=“_blank”}が報告している。専門家らは、これは氷山の一角にすぎないと述べたという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 07 Mar 2024 11:41:48 +0000</pubDate></item><item><title>世田谷区のAIチャットボット「ヒデキ」を非エンジニアの職員がローコードで開発　絵文字を多用するポジティブおじさん誕生</title><link>https://ledge.ai/articles/setagaya_chatbot_hideki</link><description>:::small
+</description><pubDate>Fri, 08 Mar 2024 06:58:36 +0000</pubDate></item><item><title>世田谷区のAIチャットボット「ヒデキ」を非エンジニアの職員がローコードで開発　絵文字を多用するポジティブおじさん誕生</title><link>https://ledge.ai/articles/setagaya_chatbot_hideki</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
