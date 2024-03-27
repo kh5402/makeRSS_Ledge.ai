@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Mar 2024 08:45:10 +0000</lastBuildDate><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Mar 2024 08:52:07 +0000</lastBuildDate><item><title>Stability AI、CEOのエマド・モスタケ氏の辞任を発表「分散型AIに専念するため」、暫定共同CEOを任命</title><link>https://ledge.ai/articles/stabilityai_ceo_resigns_to_pursue_decentralized_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月23日、画像生成モデル「Stable Diffusion」で知られるイギリスのAIスタートアップ企業 Stability AIは、エマド・モスタケ氏がCEOおよび取締役会の職を辞任したことを{target=“_blank”}した。辞任の理由は同氏が「分散型AIに専念するため」としている。
+
+同社はそのオープンソースのアプローチとイノベーションで業界から高い評価を受けているが、最近では同社の財務状況や経営陣との間で緊張が高まっており、主要投資家の一つであるCoatue Managementからモスタケ氏のリーダーシップに対する懸念が示されていた ​​​​と昨年{target=“_blank”}が報じている。
+
+Coatue Managementは、同社が直面している財務的な問題や経営上の課題を理由に、モスタケ氏にCEO職の辞任を要求。この動きは、一部のシニアマネージャーの退職や、急速なスタッフ拡大に伴う文化的な問題が浮き彫りになったことに続くものだったという。
+
+モスタケ氏は「Stability AIが創業以来、AI技術のオープンソース化を推進し、複数の領域で先進的な生成AIモデルを開発してきたことに誇りを持っている」と述べた。また「Stability AIのミッションを強く信じており、会社が有能な手に委ねられていると感じている。今はAIがオープンで分散化されたままであることを確実にする時である」というメッセージを、同社の発表文に掲載している。
+
+モスタケ氏の後任として、同社の最高執行責任者（COO）であるシャン・シャン・ウォン氏と最高技術責任者（CTO）のクリスチャン・ラフォルテ氏が暫定共同CEOに任命された。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 26 Mar 2024 08:52:07 +0000</pubDate></item><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -334,33 +359,7 @@ Microsoft Copilotのサイトより：「GPT-5」という文字列が出現（3
 :::box
 
 :::
-</description><pubDate>Sat, 16 Mar 2024 05:02:19 +0000</pubDate></item><item><title>元GoogleエンジニアがAIの機密情報を中国企業に流出させた疑いで逮捕起訴　米国司法省「AIおよび先端技術の窃盗を容認しない」</title><link>https://ledge.ai/articles/ex-google_engineer_arrested_theft_ai_related_trade</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国司法省は2024年3月6日、中国国籍でカリフォルニア州ニューアークに居住するLinwei Ding 38歳が、GoogleからAI技術に関する独自の情報を窃取したとして、貿易秘密窃盗の4件の容疑で起訴されたと{target=“_blank”}した。
-
-{target=“_blank”}によると、Linwei Ding（別名：Leon Ding）は、2019年にGoogleのソフトウェアエンジニアとして雇用され、同社の高度なスーパーコンピューティングデータセンターに展開されるソフトウェアの開発を担当していた。Ding被告は、中国に本拠を置く2社のAI産業関連企業と秘密裏に関与しながら、Googleのネットワークから自身の個人アカウントへ貿易秘密を含む機密情報を移動させていた。Ding被告は5日早朝、カリフォルニア州ニューアークで逮捕されたという。
-
-被告は、2022年5月から2023年5月にかけて500以上のファイルを不正にアップロードし、Googleの機密情報を外部に流出させた。これらの情報には、TPUおよびGPUチップの設計図やソフトウェアの詳細、そしてこれらを統合して超計算能力を持つプラットフォームを構築するための知識が含まれていたとのこと。
-
-盗んだとされる技術は、Googleの先進的なスーパーコンピューティングデータセンターの基盤となるもので、大規模なAIモデルのトレーニングやホスティングに使用される機械学習ワークロードをサポートするために設計されている。これらのデータセンターは、細かな言語を理解し、プロンプト、タスク、またはクエリに対して知的な応答を生成する能力を持つAIアプリケーションである大規模AIモデルを使用する。
-
-Ding被告が有罪とされた場合、商業秘密の窃盗に関する各容疑について最大10年の懲役および最大25万ドルの罰金が科されることになる。刑罰は、連邦地方裁判所の裁判官が米国量刑ガイドラインおよびその他の法的要因を考慮した上で決定される。
-
-司法省は「AIおよびその他の先端技術の窃盗を容認しない。この技術が国家安全保障にリスクをもたらす可能性がある場合はなおさらだ」と述べ、アメリカで開発された機微な技術が不当に入手できるべきでない者の手に渡ることを強く防ぐ意向を示した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 14 Mar 2024 08:33:46 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sat, 16 Mar 2024 05:02:19 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
