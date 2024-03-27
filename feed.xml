@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 25 Mar 2024 15:56:53 +0000</lastBuildDate><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Mar 2024 08:45:10 +0000</lastBuildDate><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1354,7 +1354,36 @@ OpenAI社の公式ブログ記事 で次のように発言されている。
 
 
 
-</description><pubDate>Thu, 28 Dec 2023 07:51:46 +0000</pubDate></item><item><title>日本IBM、戦略策定からシステム開発、運用、プロジェクト管理までを網羅的に支援する「AIソリューション」を提供開始</title><link>https://ledge.ai/articles/ibm-solutions_for_aI_utilizing_genai_for_it_transformation</link><description>:::small
+</description><pubDate>Thu, 28 Dec 2023 07:51:46 +0000</pubDate></item><item><title>NVIDIA、Hugging Face、ServicenowがオープンアクセスLLM「StarCoder2」をリリースー619種類のプログラミング言語で訓練</title><link>https://ledge.ai/articles/starcode2_nvidia_huggingface_servicenow_llm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年2月28日、ServiceNow、Hugging Face、およびNVIDIAは、コード生成用の新たなオープンアクセス大規模言語モデル（LLM）ファミリー「StarCoder2」を共同開発したことを{target=“_blank”}した。このプロジェクトは、開発者コミュニティにおける協力とオープンアクセスの精神に基づき、パフォーマンス、透明性、コスト効率という新基準を打ち立てるという。
+
+StarCoder2は、619種類のプログラミング言語に対応し、アプリケーションのソースコード生成、ワークフローの生成、テキスト要約といった多岐にわたる特殊なタスクを実行可能。このAIモデルは、エンタープライズアプリケーションへの組み込みや、コード補完、高度なコード要約、コードスニペット検索などの機能を通じて、開発者のイノベーションを加速し生産性を向上させることを目指す。
+
+NVIDIAはNVIDIA NeMo™フレームワークを用いて構築された150億パラメータのモデルの開発を担い、その計算リソースとAIトレーニングの専門知識でStarCoder2を支える。また、NVIDIA TensorRT-LLMソフトウェアによる推論性能の最適化は、リアルタイムでのコード生成やその他のタスクの実行を可能にし、開発プロセスをさらに迅速にする。
+
+### ビジネスに特化したデータで機能をファインチューニング
+StarCoder2はビジネス特化のファインチューニングにも対応しており、企業は自社特有のニーズに合わせたカスタマイズが可能。NVIDIA NeMoやHugging Face TRLといったオープンソースツールを使用し、業界特有のデータでモデルをトレーニングすることで、企業固有の課題解決やプロセス自動化を実現するという。
+
+
+### AI におけるオープンな科学的コラボレーションを促進する BigCode
+3社共同開発によるStarCoder2は、オープンな科学的コラボレーションと倫理的なデータサプライチェーンの重要性を示すという。StarCoder2は、BigCode Open RAIL-Mライセンスの下で提供され、ロイヤリティフリーでのアクセスと使用が可能だ。モデルのサポートコードはBigCodeプロジェクトのGitHubページに公開されており、全てのモデルはHugging Faceからダウンロード可能。
+
+NVIDIA AI Foundationモデルとしても提供されるStarCoder2は、開発者が直接ブラウザから、またはAPIエンドポイントを通じて実験できるようになっているとのこと。
+
+
+
+:::box
+
+:::
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 26 Mar 2024 08:45:10 +0000</pubDate></item><item><title>日本IBM、戦略策定からシステム開発、運用、プロジェクト管理までを網羅的に支援する「AIソリューション」を提供開始</title><link>https://ledge.ai/articles/ibm-solutions_for_aI_utilizing_genai_for_it_transformation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1666,20 +1695,7 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 :::
 
 
-</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>コーディング特化のAI「WizardCoder 34B」ChatGPT上回る成績 Code Llama強化し達成</title><link>https://ledge.ai/articles/wizard_coder_34b</link><description>米国Microsoftと香港浸会大学の研究者らが、プログラミングコードの生成に特化した大規模言語モデル（Code LLM）として開発した「{target=“_blank”}」シリーズが注目を浴びている。新版はOpenAIの高性能な対話型AI「ChatGPT」を一部上回る成績も収めた。
-
-2023年6月14日に発表した{target=“_blank”}によると、当初のWizardCoderは米国Hugging Faceが公開したオープンソースのCode LLM「StarCoder」を強化したものだった。StarCoderをはじめとする従来のCode LLMは大量のプログラミングコードから学習しているものの、人間の指示に適切に回答するための調整に弱みがあった。WizardCoderは、人間の代わりにLLMに大量の指示データを生成させ学習に使用する「Evol-Instruct」の手法でそこを補ったという。
-
-さらに8月26日に披露した「{target=“_blank”}」は米国Metaが開発したCode LLM「Code Llama」を強化したもので、AIにプログラミング言語「Python」の問題を解かせて性能を測るベンチマーク「HumanEval」を試したところ、ChatGPTが採用するLLMのうち世代の古い「GPT-3.5」を上回る精度73.2％を達成できた。ただし最新版LLM「GPT-4」の精度82.0％には及ばなかった。
-
-!
-:::small
-出典：WizardCoder
-:::
-
-:::box
-
-:::</description><pubDate>Sat, 09 Sep 2023 02:23:33 +0000</pubDate></item><item><title>Stability AIが「Stable Video 3D」を発表 　単一画像から「回しても形が崩れない」3Dビデオ生成を実現</title><link>https://ledge.ai/articles/stable_video_3d</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>Stability AIが「Stable Video 3D」を発表 　単一画像から「回しても形が崩れない」3Dビデオ生成を実現</title><link>https://ledge.ai/articles/stable_video_3d</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
