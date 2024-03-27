@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Mar 2024 08:52:07 +0000</lastBuildDate><item><title>Stability AI、CEOのエマド・モスタケ氏の辞任を発表「分散型AIに専念するため」、暫定共同CEOを任命</title><link>https://ledge.ai/articles/stabilityai_ceo_resigns_to_pursue_decentralized_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Mar 2024 08:54:48 +0000</lastBuildDate><item><title>AI搭載の虚偽主張「AIウォッシング」、米証券取引委員会が投資顧問会社に罰金を科す</title><link>https://ledge.ai/articles/sec_fines_ai_washing_for_false_claims</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国証券取引委員会（SEC）は2024年3月18日、AIの使用に関する虚偽および誤解を招く声明を発したとして、2つの投資顧問会社、Delphia (USA) Inc.とGlobal Predictions Inc.に対する処分を{target=“_blank”}した。これらの企業は、SECの指摘を受け入れ、合わせて40万ドルの罰金を支払うことに同意した。
+
+この問題についてSEC委員長のゲイリー・ゲンスラー氏は、「Delphia及びGlobal Predictionsは、実際には使用していない方法でAIを使用していると、顧客や見込み顧客に宣伝していた」と述べた。さらに「このようなAIウォッシングは投資家に損害を与える。投資顧問は、AIモデルを使用していると誤って宣言し、公衆を誤解させるべきではない」と強調し、AIウォッシングの問題を明らかにした。
+
+SECの執行部門ディレクターであるグルビール・S・グルワル氏は「投資業界に対し、投資プロセスにAIを使用すると主張する場合、その表明が虚偽または誤解を招くものではないことを保証する必要がある」と警告し、投資家保護の重要性を強調した。
+
+トロントに基盤を置くDelphiaは、2019年から2023年にかけて、顧客データを組み込んだAIと機械学習の使用と称するSEC提出書類、プレスリリース、ウェブサイト上で虚偽の誤解を招く記述を行ったとSECが指摘。例えば「集合的データを活用して人工知能をより賢くし、成功する企業やトレンドを事前に予測し、他者より先に投資する」と述べていたが、これらの主張は実際のAIおよび機械学習の能力とは異なっていたため、虚偽および誤解を招くものだとSECが認定した。さらに、同社はマーケティングルールを違反したとして告発された。
+
+San Franciscoを本拠とするGlobal Predictionsに関しては、同社が2023年にウェブサイト及びソーシャルメディアでAIの使用について虚偽及び誤解を招く主張を行ったことが判明。同社は「最初の規制されたAI金融アドバイザー」と自称し、「専門家によるAI駆動の予測」を提供すると誤って表現していた。
+
+DelphiaとGlobal Predictionsは、SECの調査結果を認めも否定もせず、違反したアドバイザー法の項目を認め、それぞれ22万5000ドル及び17万5000ドルの罰金を支払うことに同意したとのこと。SECはこの件に関して、投資家への教育と警告を続けている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 26 Mar 2024 08:54:48 +0000</pubDate></item><item><title>Stability AI、CEOのエマド・モスタケ氏の辞任を発表「分散型AIに専念するため」、暫定共同CEOを任命</title><link>https://ledge.ai/articles/stabilityai_ceo_resigns_to_pursue_decentralized_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -340,26 +363,7 @@ Claude３のそれぞれのモデルのネーミングについては、特に�
 :::box
 
 :::
-</description><pubDate>Sun, 17 Mar 2024 04:51:30 +0000</pubDate></item><item><title>GPT-4発表から1年、Microsoft Copilpt のページに「GPT-5」の表記見つかりXユーザーが大盛り上がりするも...</title><link>https://ledge.ai/articles/microsoft-copilot_gpt5_was_just_a_typo</link><description>:::small
-Microsoft Copilotのサイトより：「GPT-5」という文字列が出現（3/14）したが、翌日（3/15）には「GPT-4」に戻っていた
-:::
-
-2023年3月14日、法人向け{target=“_blank”}のWebサイトにて、「Copilot Pro」プランの特徴として「ピークタイム時のGPT-4とGPT-5 Turboへの優先アクセス」という文言が確認された。
-しかし、翌日の15日には該当する表記がWebサイトから削除された。この変更は、X（旧Twitter）上でユーザーから「そろそろ発表か？」「ただの誤字ではないか？」との指摘が相次いだ後のことだ。
-
-奇しくも2023年3月14日は、GPT-4の発表が行われた記念すべき日であったため、一部のユーザーは1年後の同日にGPT-5の発表があるのではないかと期待していた模様。MicrosoftおよびOpenAIからは、GPT-5に関する公式発表はない。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 16 Mar 2024 05:02:19 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sun, 17 Mar 2024 04:51:30 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
