@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 26 Mar 2024 08:54:48 +0000</lastBuildDate><item><title>AI搭載の虚偽主張「AIウォッシング」、米証券取引委員会が投資顧問会社に罰金を科す</title><link>https://ledge.ai/articles/sec_fines_ai_washing_for_false_claims</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Mar 2024 06:47:57 +0000</lastBuildDate><item><title>国内初、DSオートモビル全車にChatGPT搭載、運転中の新たな対話体験を実現</title><link>https://ledge.ai/articles/stellantis-jp_ds_chatgpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stellantisジャパン株式会社は2024年3月22日、DSオートモビルの全ラインナップにChatGPTを標準装備し、国内での販売を開始したことを{target=“_blank”}した。これにより、DSオートモビルは運転しながらChatGPTを使用できる国内初の自動車ブランドとなるという。
+
+フランスの自動車メーカーDSオートモビルは、かつてシトロエン（Citroën）の一部としてDSシリーズを展開していたが、2014年に独立し、プレミアムブランドとしての地位を確立している。
+
+ChatGPTをコネクテッドサービスに統合することで、車両は、空調やオーディオ、ナビゲーションのボイスコントロールを超える、人間のような自然な対話を提供するへと進化を遂げると同社は述べる。ドライバーは、旅先の情報や夕食の献立について尋ねるなど、車内での様々な疑問や要望に対し、対話を通じて解決策を得られる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この機能を実現するために、SoundHound AI社が開発した新しい音声認識プラットフォームを活用。同プラットフォームは、音声認識と生成AIを融合し、車内利用に最適化されている。ChatGPTとの連携により、豊富な言語知識を活用した多様な対話が可能となる。
+
+なお、搭載されるChatGPTはバージョン3.5で、2022年1月までのデータを学習基にしているため、最新の交通状況や天気予報などには対応していない点に留意が必要とのこと。また、SoundHound AI社は米シリコンバレーに本拠を置く音声認識AIサービスのプロバイダーで、自動車や家電、レストラン業界でのサービス展開を行っている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 27 Mar 2024 06:47:57 +0000</pubDate></item><item><title>AI搭載の虚偽主張「AIウォッシング」、米証券取引委員会が投資顧問会社に罰金を科す</title><link>https://ledge.ai/articles/sec_fines_ai_washing_for_false_claims</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -323,47 +353,7 @@ Data Cloudは、企業がSalesforceの製品やシステムから全ての顧客
 :::box
 
 :::
-</description><pubDate>Sun, 17 Mar 2024 04:57:58 +0000</pubDate></item><item><title>Anthropic　Claude３シリーズで「ほぼ瞬時の応答性を実現する最速かつ最も手頃」な新モデル「Haiku」をリリース</title><link>https://ledge.ai/articles/anthropic_claude3_haiku</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月13日、米国のAI企業Anthropicは、AIチャットモデル「Claude 3」シリーズの新たなモデル「Haiku」をリリースしたと{target=“_blank”}した。
-
-同社によると、Haikuは「最速かつ最も手頃な」モデルであり、4日前にリリースされた「Opus」「Sonnet」と同様、claude.aiの有料プランおよびClaude APIで利用可能だ。価格は、入力トークンあたり0.25ドル、出力トークンあたり1.25ドルで提供される。Sonnetモデルは、claude.aiの無料版で利用できる。
-
-Haikuは、大部分のワークロードで他社製品よりも3倍高速で、3万2,000トークン未満のプロンプトに対し、1秒あたり２万1,000トークン（(約30ページ）を処理するという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Haikuの価格モデルは、長いプロンプトを含む企業ワークロードに対応するため、1:5の入力から出力へのトークン比率で設計されている。このモデルを使えば、四半期報告書、契約書、法律案件などの大量の文書を他の同等性能モデルの半額で迅速に分析できるという。たとえば、わずか1ドルで400件の最高裁判所の判例や2,500枚の画像を処理・分析することが可能とのことだ。
-
-さらに、企業レベルのセキュリティと堅牢性にも重点を置いており、安全性を確保するための厳格なテストや防御層の導入、定期的なセキュリティ監査などが行われている。クラウドサービスのAmazon Bedrockで利用可能で、近々Google Cloud Vertex AIでも提供される予定だ。
-
-
-
-Claude３のそれぞれのモデルのネーミングについては、特にリリースに説明があるわけではないが、それぞれの持つ異なった特徴や用途に合わせ、文学や音楽に由来する名前が与えられていると考えられる。
-
-このたび発表された **「Haiku」** は、迅速さとコンパクトさを重視した設計が特徴で、小規模なデータセットでの迅速な処理や、リアルタイムでの応答に適する。日本の伝統的な短詩形式「俳句」を思わせるこのモデルの名は、シンプルであるがゆえの独自の美しさや意味を見出す能力を示す。
-
- **「Sonnet」** は、14行から成る詩の形式で、厳格な韻律や構造を持つ。このモデルが、精密さや構造化されたアプローチを持つことを示し、バランスの取れた性能で、中規模のデータセット処理や一般的なAIタスクに適していることが特徴とされる。
-
- **「Opus」** は、ラテン語で「作品」を意味し、技術的、芸術的な成果の集大成を象徴するといえる。Claude 3シリーズの中で最も高度な能力を持つモデルで、大規模なデータセットの処理、複雑な問題解決、高度な推論能力を特徴としている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 17 Mar 2024 04:51:30 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sun, 17 Mar 2024 04:57:58 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
