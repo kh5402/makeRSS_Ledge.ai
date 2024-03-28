@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Mar 2024 06:51:18 +0000</lastBuildDate><item><title>米インターネット掲示板大手Redditが上場　ユーザーコンテンツを年間6,000万ドルの契約でAI企業に学習データとして販売</title><link>https://ledge.ai/articles/reddit_listed_on_the_nyse</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Mar 2024 06:54:16 +0000</lastBuildDate><item><title>イトーキとAIスタートアップの燈がオフィスデザイン自動生成AIの共同開発契約を締結　「Ofiice3.0」時代を拓く</title><link>https://ledge.ai/articles/itoki_akari_office3-0_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+イトーキは2024年3月13日、AIスタートアップの燈株式会社と、オフィスデザイン自動生成AIの共同開発契約を締結したことを{target=“_blank”}した。
+
+このプロジェクトは「ITOKI OFFICE A/BI SERVICE」の一環で、オフィスのデジタルツイン構築とオフィスデータの活用により、オフィスデザインの瞬時シミュレーションを可能にするアプリケーション開発を目指す。
+
+@
+
+
+この共同開発は、オフィス家具の製造・販売（Office1.0）、空間ベースのソリューション提供（Office2.0）、データ活用による働き方ベースのオフィスDX（Office3.0）という、イトーキのビジネス展開を加速させるものだ。特に「Data Trekking」というコンサルティングサービスのローンチを含む、Office3.0領域の強化が進められている。
+
+燈の空間スキャン技術とイトーキのオフィスレイアウトや家具データ、オフィスワーカーや組織の活動データの統合・活用ノウハウが組み合わされる。これにより、オフィスデザイン自動生成AI「ITOKI OFFICE A/BI PLATFORM」が様々なオフィスデザインパターンを自動でデザインし、アプリケーションを通じて即座にシミュレーション可能になるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+オフィスデザインの提案活動には多くの時間と労力が必要だったが、この新技術により、オフィス内の寸法測定などのアナログ作業を大幅に軽減。これにより、顧客のアジャイルなオフィス構築に必要な迅速かつ機動的なリニューアルが実現されることが期待されるという。
+
+
+:::box
+
+:::
+</description><pubDate>Wed, 27 Mar 2024 06:54:16 +0000</pubDate></item><item><title>米インターネット掲示板大手Redditが上場　ユーザーコンテンツを年間6,000万ドルの契約でAI企業に学習データとして販売</title><link>https://ledge.ai/articles/reddit_listed_on_the_nyse</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -311,56 +337,7 @@ OpenAIは2023年12月に、ドイツのメディア企業{target=“_blank”}�
 :::box
 
 :::
-</description><pubDate>Mon, 18 Mar 2024 02:46:25 +0000</pubDate></item><item><title>Salesforce　企業の生成AI活用支援「Einstein 1 Studio」と「Data Cloud」の新機能を日本市場で提供開始</title><link>https://ledge.ai/articles/salesforce_launches_new_einstein1_studio_and_data_cloud_features_in_japan</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-セールスフォース・ジャパンは2024年3月8日、企業の生成AI活用における信頼性と柔軟性を向上させるEinstein 1 StudioおよびSalesforce Data Cloud（以下、Data Cloud）の新機能を日本市場に向けて提供開始したと{target=“_blank”}した。
-
-これらの新機能により、ユーザー企業は自社のニーズに合わせて安全に生成AIを活用し、生産性や顧客体験の向上を図ることが可能となる。
-
-### Einstein 1 Studio：CRMアプリにAIをシームレスに組み込む
-Einstein 1 Studioは、Salesforceの管理者や開発者が低コードでEinsteinの体験をカスタマイズし、CRMアプリケーションにAIをシームレスに組み込むためのツールセットを提供する。プロンプトビルダー（Prompt Builder）とモデルビルダー（Model Builder）が主要機能であり、企業が信頼できるデータを基にカスタムされたAIプロンプトを作成できる。これにより、セールス、サービス、マーケティングなどの業務プロセスにおいて、適切な文脈を持つ信頼性の高いプロンプトテンプレートを活用できる。モデルビルダーでは、ビジネスニーズに合わせて最適な大規模言語モデル（LLM）を選択することが可能となり、より柔軟なAIの利用が実現する。
-
-
-**例：モデルビルダー画面**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### Data Cloud：顧客データの統合とAIへの活用
-Data Cloudは、企業がSalesforceの製品やシステムから全ての顧客データを接続、連携し、一貫した情報源として活用できるハイパースケールデータプラットフォームである。新機能として導入されたデータフェデレーション（Bring Your Own Lake）、Data Cloudベクトルデータベース、Einstein Copilot Searchは、主要なデータレイクやデータウェアハウスとの間での安全なデータ共有、構造化データと非構造化データの統合、AIによる迅速かつ容易な検索を可能にする。これにより、企業は複雑なETL処理なしで、信頼できるデータをAIに活用し、顧客サービスの向上やビジネスインサイトの獲得を加速できる。
-
-
-**例：データフェデレーション**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社はこれらの新機能を通じて、あらゆる企業・組織が自社のニーズに合わせた生成AIの利用をより信頼性高く、柔軟に行えるよう支援することを目指している。提供開始は、2024年3月8日より日本市場での一般提供が開始されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 18 Mar 2024 02:42:32 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 18 Mar 2024 02:46:25 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
