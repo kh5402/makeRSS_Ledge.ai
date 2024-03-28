@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Mar 2024 06:47:57 +0000</lastBuildDate><item><title>国内初、DSオートモビル全車にChatGPT搭載、運転中の新たな対話体験を実現</title><link>https://ledge.ai/articles/stellantis-jp_ds_chatgpt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Mar 2024 06:51:18 +0000</lastBuildDate><item><title>米インターネット掲示板大手Redditが上場　ユーザーコンテンツを年間6,000万ドルの契約でAI企業に学習データとして販売</title><link>https://ledge.ai/articles/reddit_listed_on_the_nyse</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国インターネット掲示板大手のRedditは2024年3月21日、ニューヨーク証券取引所に{target=“_blank”}し、新たなステージへと踏み出した。
+
+日々7,300万人が利用する世界最大級の掲示板サイトであるRedditは、趣味や投資など多岐にわたる話題でユーザー間の交流が活発に行われている。そのユーザー投稿は、評価機能によって人間の判断が付され、追加の文脈リンクを含むことから、CEOのスティーブ・ハフマン氏が{target=“_blank”}と銘打つAI企業にとって高品質な訓練データとしての価値を有している。
+
+Redditは、サンフランシスコに本拠を置き、IPO（新規公開株）の潜在的な発売に近づく中で、ソーシャルメディアプラットフォームのコンテンツを使用して人工知能モデルを訓練するための契約を締結したことを2月17日に{target=“_blank”}が報じている。この取引は、年間約6000万ドルの価値があると見積もられており、名前の明かされていない大手AI企業との間で行われたという。
+
+Redditはまた、2月22日に{target=“_blank”}し、RedditのデータをAIの学習に活用可能にすると発表している。
+
+AI企業がモデルの学習データを求める一方、知財としてのデータを無許可で学習されることを問題視する動きのある中で、新しい収入源を求めるコンテンツ提供者との間でデータライセンス契約を結ぶ企業が増えている。例えば、OpenAIは2023年12月に、ドイツのメディア大手Axel Springer SEと、3月13日にはフランスのLe Monde、スペインのPrisa Mediaとのパートナーシップを発表している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 27 Mar 2024 06:51:18 +0000</pubDate></item><item><title>国内初、DSオートモビル全車にChatGPT搭載、運転中の新たな対話体験を実現</title><link>https://ledge.ai/articles/stellantis-jp_ds_chatgpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -333,27 +360,7 @@ Data Cloudは、企業がSalesforceの製品やシステムから全ての顧客
 
 :::
 
-</description><pubDate>Mon, 18 Mar 2024 02:42:32 +0000</pubDate></item><item><title>東芝テック、生成AI×POSデータでリテールプロモーション最適化AIソリューションを開発</title><link>https://ledge.ai/articles/toshiba-tech_retail_promotion_optimization_ai_solution</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-東芝テックは2024年3月11日、生成AIのキーエンジン「トランスフォーマー」を用いたリテールプロモーション最適化AIソリューションを開発したと{target=“_blank”}した。このソリューションでは、POSデータを分析し、顧客の好みや反応をAIで予測。これにより、個々の顧客に対して最適なクーポンやポイントを配信し、売上や利益の最大化を図る。
-
-過去の購買・行動データ等をもとに、パーソナライズされたプロモーションを実施するという従来の手法では、新規顧客や少額購買顧客へのアプローチが困難であった。
-
-この課題に対し同社は「トランスフォーマー」モジュールをレコメンデーション・モデルそのものに組み込み、消費者ごとの購買履歴に加え、顧客属性や商品属性、店舗属性などの情報を統合し、消費者の好む商品を推論できるようにしたという。さらに、顧客✕商品別の膨大な組み合わせで、クーポンを送った場合にどれだけ利益が増加／減少するのかを計算し、利益総額が最大化される組み合わせが推定可能となったとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 17 Mar 2024 04:57:58 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 18 Mar 2024 02:42:32 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
