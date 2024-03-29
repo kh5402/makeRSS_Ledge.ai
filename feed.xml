@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 27 Mar 2024 06:54:16 +0000</lastBuildDate><item><title>イトーキとAIスタートアップの燈がオフィスデザイン自動生成AIの共同開発契約を締結　「Ofiice3.0」時代を拓く</title><link>https://ledge.ai/articles/itoki_akari_office3-0_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 28 Mar 2024 06:54:07 +0000</lastBuildDate><item><title>NTTの自社開発LLM「tsuzumi」を3月25日から商用サービス提供開始</title><link>https://ledge.ai/articles/ntt_tsuzumi_for_business_use</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NTTは2024年3月25日、自社開発の大規模言語モデル（LLM）「tsuzumi」の商用サービス提供を開始したことを{target=“_blank”}した。
+
+tuszumiは、同社が{target=“_blank”} 70億パラメータの日本語処理に特化した軽量のLLM。1GPUで高速に推論動作が可能であるため、チューニングや推論にかかるコストを大幅に削減できる。6億パラメータの「超軽量版」も提供され、CPUのみでの高速推論が可能だという。
+
+また、日本語に加えて英語にも対応し、将来的には多言語対応の拡張も計画されている。このモデルは、NTTが40年以上にわたり蓄積してきた自然言語処理技術を基に開発され、日本語処理能力では世界トップクラスの性能を謳っており、Llama2と同程度になるという。
+
+tsuzumiの名称は、日本の和楽器「鼓」から取られており、その軽量で柔軟な特性が、NTTが目指すLLMの特徴と重なる。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+tsuzumiの商用サービスは、サイバーセキュリティやAIコンステレーションの開発など、さまざまな分野への応用が期待されている。また、視覚や聴覚などのモーダル拡張にも対応予定であり、将来的には人とロボットが協働する環境での活用なども想定している。11月の発表以来、自治体などを含め500件以上の問い合わせがあったという。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+NTTは、tsuzumiによって業務効率化やDX推進を目指す企業を支援するとともに、社会的課題の解決にも貢献していく方針だ。島田明社長は、tsuzumiが持続可能な社会の実現に向けた取り組みとして位置づけられるべきであると強調している​​。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 28 Mar 2024 06:54:07 +0000</pubDate></item><item><title>イトーキとAIスタートアップの燈がオフィスデザイン自動生成AIの共同開発契約を締結　「Ofiice3.0」時代を拓く</title><link>https://ledge.ai/articles/itoki_akari_office3-0_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -311,33 +349,7 @@ OpenAIは2023年12月に、ドイツのメディア企業{target=“_blank”}�
 :::box
 
 :::
-</description><pubDate>Wed, 20 Mar 2024 08:11:36 +0000</pubDate></item><item><title>パナソニックホールディングス　生成AI活用で新卒採用を強化する</title><link>https://ledge.ai/articles/panasonic_ai_career_supporter</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月11日、パナソニックグループは2025年度の新卒採用計画と2024年度のキャリア採用計画に向けて、生成AIの導入を{target=“_blank”}した。
-
-この取り組みは、学生や新卒者が自身の専攻や経歴を基に、適性に合った事業会社や職種をAIが提案するシステムを構築することを目的としている。パナソニックグループでは、このシステムを用いることで、入社後のミスマッチを軽減し、より働きやすい環境の実現を目指すという。
-
-同社は、仕事のやりがいや想いなどの活きた情報を人を介して行う一方で、気軽に相談でき、学生と共にキャリアを考える存在となる生成AI「AI Career Supporter」を用いた採用に関する情報提供を試験的に導入するという。AIが学生の専攻・志向・行動特性に適した仕事内容を提案するなど、学生の初期キャリアの選択を支援する。今後、人と生成AIのようなテクノロジーとの最適なバランスを考慮した、ハイブリッドな採用活動を展開予定だ。
-
-このプロジェクトは、パナソニックHDと協力会社が共同で開発した生成AIを活用するもので、2024年1月から新卒予定者に試験的に提供され、その利用感や使い勝手の改善を経て、2024年度に本格導入が予定されているという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 18 Mar 2024 02:46:25 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Wed, 20 Mar 2024 08:11:36 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
