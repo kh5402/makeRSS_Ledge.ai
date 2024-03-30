@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Mar 2024 02:25:57 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Mar 2024 05:34:15 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
 
 同イベントは会場のほか、YouTubeLIVEによるリアルタイム配信も行い、オフラインとオンラインのハイブリッド形式で開催した。
 
@@ -1679,7 +1679,40 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 :::
 
 
-</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>GoogleとFitbitがGeminiベースの健康アドバイザーAI「Personal Health LLM」を共同開発</title><link>https://ledge.ai/articles/google_fitbit_personal_health_llm</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>脳インプラント術後患者の様子を「Neuralink」がライブ配信　四肢麻痺患者が脳で思考しカーソルを動かす</title><link>https://ledge.ai/articles/neuralink_live_streaming_of_post-operative_brain_implant_patient</link><description>:::small
+画像の出典：{target=“_blank”}
+
+:::
+
+イーロン・マスク氏が率いるスタートアップ企業Neuralinkニューラリンクは2024年3月21日、同社が開発したコンピュータと脳を直接つなぐインターフェースの被験者1号となる患者のインタビューをX（旧Twitter）でライブ配信した。
+
+@
+
+
+
+四肢に麻痺を持つ29歳の男性、ノーランド・アーボー氏は、この技術を用いて10年ぶりに手足を動かさずにコンピュータゲームをプレイするなど、日常生活に革新をもたらす体験をしている。
+
+イーロン・マスク氏は1月30日、Neuralinkが人間への初の脳インプラント手術を実施し、患者が順調に回復していること、さらに神経スパイクの検出において初期段階で有望な結果を示しているとX（旧Twitter）で{target=“_blank”}。2023年5月に、脳インプラントを人間に対して装着するとマスク氏が述べ、9月には治験実験が承認された。
+
+被験者第１号としてこの手術を受けたノーランド氏は、約10年前にフリーダイビングの事故でC4とC5を脱臼し、以来完全な四肢麻痺の状態にあった。しかし、同社のデバイスのおかげで、彼は思考だけでコンピュータ画面上のカーソルを動かし、チェスや『Civilization VI』といったゲームを楽しむことができるようになったという。
+
+このデバイスは、脳の信号を読み取り、それをコンピュータのコマンドに変換することで操作を可能にする。ノーランド氏は、この技術を使って日常生活での多くの制約を克服し、新たな自由を手に入れたと語る。彼は、自分の思考だけで画面上でカーソルを自在に動かす体験を「魔法のような体験」と表現し、技術の可能性に大きな期待を寄せている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 29 Mar 2024 05:34:15 +0000</pubDate></item><item><title>GoogleとFitbitがGeminiベースの健康アドバイザーAI「Personal Health LLM」を共同開発</title><link>https://ledge.ai/articles/google_fitbit_personal_health_llm</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2112,36 +2145,7 @@ TripoSRは、LRM（Large Reconstruction Model）ネットワークアーキテ�
 :::box
 
 :::
-</description><pubDate>Mon, 11 Mar 2024 06:54:35 +0000</pubDate></item><item><title>新型AIワーム「Morris II」が生成AIアプリを狙い、ゼロクリックで機密情報の窃取に成功する</title><link>https://ledge.ai/articles/zero-click_worms_morris2</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-コーネル工科大学やイスラエル工科大学などから成る研究チームは2024年3月4日、生成AIアプリケーションを狙う新型AIワーム「Morris II」を{target=“_blank”}した。このワームは、機密データの窃取、スパムメールの送信、マルウェアの拡散を可能にするという​。
-
-「Morris II」の名は、インターネットのセキュリティ欠陥を世に知らしめた人物、ロバート・T・モリス氏が生み出した最初のインターネットワーム「Morris」の名を冠している。初代「Morrisワーム」は、同氏がコーネル大学の大学院生だった1988年に開発された。
-
-研究者たちは、生成AIを搭載したアプリケーションをターゲットとするコンピューターワーム（MorrisⅡ）を作成し、Gemini Pro、ChatGPT 4.0、LLaVAの３つのモデルに対して評価を行った。評価は、2種類の入力データ（テキストと画像）を用い、2つの設定（ブラックボックスとホワイトボックスアクセス）で、2つのユースケース（スパミングと個人データの流出）における生成AI搭載のメールアシスタントに対するMorrisIIの適用を実証。３つのモデルをテストし、ワームの性能に影響を与える様々な要因（伝播速度、複製、悪意のある活動など）を評価した。
-
-その結果、Morris IIは自己複製するプロンプトを使用し、AI検出システムを回避することで、生成AIモデルを悪用して情報を盗むことに成功した。このワームは、テキストや画像に悪意あるプロンプトを埋め込むことにより、AIを騙して機密情報を抽出し、それを広げる。特に、電子メールアシスタントを通じて感染が広がり、ソーシャルセキュリティ番号やクレジットカード情報など、重要な個人情報の流出が懸念されるという。
-
-@
-
-
-研究チームによると、Morris IIは「ゼロクリックマルウェア」としても機能し、悪意のある実行をトリガーするためにユーザーが何か （ハイパーリンク、ファイルなど） をクリックすることなく自動的に感染を広げることが可能である。この点が、既存のセキュリティ対策を回避しやすくしており、AI技術のセキュリティに新たな課題を提示している。
-
-このワームは、生成AIエコシステムの不適切なアーキテクチャ設計を悪用しており、生成AI サービスの脆弱性ではないという。しかし、研究者たちは、この発見の開示責任があると考え、速やかにGoogleとOpenAIにこの発見をバグ（脆弱性）報奨金プログラムを通して論文とともに伝えた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 10 Mar 2024 12:38:34 +0000</pubDate></item><item><title>フランスの競争委員会がGoogleに2億5,000万ユーロの罰金を科す　Geminiの学習データめぐり</title><link>https://ledge.ai/articles/related_rights_autorite_fines_google_eu250_million</link><description>:::small
+</description><pubDate>Mon, 11 Mar 2024 06:54:35 +0000</pubDate></item><item><title>フランスの競争委員会がGoogleに2億5,000万ユーロの罰金を科す　Geminiの学習データめぐり</title><link>https://ledge.ai/articles/related_rights_autorite_fines_google_eu250_million</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
