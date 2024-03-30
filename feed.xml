@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Mar 2024 05:34:15 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Mar 2024 05:49:14 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
 
 同イベントは会場のほか、YouTubeLIVEによるリアルタイム配信も行い、オフラインとオンラインのハイブリッド形式で開催した。
 
@@ -2483,7 +2483,41 @@ JASRACは、AIによる生成物がクリエイターの著作物に対する需
 :::box
 
 :::
-</description><pubDate>Thu, 15 Feb 2024 02:04:07 +0000</pubDate></item><item><title>YouTube、生成AIなどによる改変・合成コンテンツのラベル表示機能を順次導入</title><link>https://ledge.ai/articles/youtube_disclosing_ai_generated_content</link><description>:::small
+</description><pubDate>Thu, 15 Feb 2024 02:04:07 +0000</pubDate></item><item><title>Google DeepMind とリバプールFCが共同開発した「TacticAI」を発表ーーサッカー戦術をAIがアシストする</title><link>https://ledge.ai/articles/google-deepmaind_tactic-ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Google DeepMind は2024年3月19日、リバプールFCとの間で数年にわたる共同研究の一環として、コーナーキックに関する戦術アドバイスを提供できるAIシステム「TacticAI」が開発されたことを、学術誌 Nature Communications に{target=“_blank”}した。
+
+このシステムは、特にコーナーキックに焦点を当て、予測および生成AIを通じて専門家に戦術的洞察を提供する。TacticAIは、コーナーキックに関する限られたゴールドスタンダードデータを使用しながらも、幾何学的ディープラーニングアプローチを用いて、より一般化されたモデルの作成を支援し、最先端の結果を達成したという。
+
+TacticAIは、プレミアリーグで行われた7,176回のコーナーキックのデータを分析し、選手をノードとして扱うグラフベースのアプローチを用いて、各選手間の複雑な相互作用と異なるコーナーキック設定の潜在的な結果をモデリングした。この方法により、どの選手がボールを受ける可能性が最も高いか、あるいはシュートを試みる可能性が高いかなど、様々なシナリオを予測し、チームパフォーマンスの向上に役立つ戦術的な推奨を提供する。
+
+!
+図(A) コーナーキックの状況をグラフ表示に変換する方法
+図(B) TacticAI が与えられたコーナーキックをどのように処理するか
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+リバプールFCのサッカー専門家からは、TacticAIの提案が実際のゲームプレイシナリオと区別がつかないほどであり、専門家たちは既存の戦術よりもTacticAIの戦略を90%の高い割合で好むという非常に肯定的な評価がなされた​​。また、このAIモデルは従来の技術よりもリバプールのコーチによって2倍有用と評価され、攻撃者の特定や守備時の注意散漫な選手の指摘に特に効果的であるとされている​​。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 29 Mar 2024 05:49:14 +0000</pubDate></item><item><title>YouTube、生成AIなどによる改変・合成コンテンツのラベル表示機能を順次導入</title><link>https://ledge.ai/articles/youtube_disclosing_ai_generated_content</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2793,37 +2827,4 @@ AI検知に特化したサイバーセキュリティ企業Reality Defender社CE
 :::box
 
 :::
-</description><pubDate>Fri, 02 Feb 2024 08:38:54 +0000</pubDate></item><item><title>JASRACを含む9団体、音楽分野におけるAIの健全な利用を目指す「AIに関する音楽団体協議会」を設立</title><link>https://ledge.ai/articles/establishment_of_the_music_organisations_council_on_ai</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年1月25日、JASRACを含む9団体は「AIに関する音楽団体協議会」の設立を{target=“_blank”}した。この協議会は、生成AIの技術進歩による音楽文化の発展とクリエイターやアーティストの権利保護を目的としている。
-
-協議会は、生成AIが音楽コンテンツの創作に与える影響は大きく、著作権法の現状では、AIによる学習利用に対し権利者が意思を反映させることが困難であり、ディープフェイクなどの技術によるアーティストの保護が確立していないと懸念を表した。これらの問題に対処するため、協議会は生成AIの利活用における調和のとれた枠組みの検討や提言を行う予定だという。
-
-JASRACは2023年7月に、クリエイターが安心して創作に専念できる、創造のサイクルとの調和が取れたAI利用の枠組みを訴える目的で「{target=“_blank”}」を公表していた。
-
-「AIに関する音楽団体協議会」参加団体（団体名は五十音順）
-一般社団法人 コンサートプロモーターズ協会（ACPC）
-一般社団法人 日本音楽作家団体協議会（FCA）
-一般社団法人 日本音楽事業者協会（JAME）
-一般社団法人 日本音楽出版社協会（MPA）
-一般社団法人 日本音楽制作者連盟（FMPJ）
-一般社団法人 日本音楽著作権協会（JASRAC）
-公益社団法人 日本芸能実演家団体協議会
-実演家著作隣接権センター(CPRA)
-一般社団法人 日本レコード協会（RIAJ）
-株式会社 NexTone（ネクストーン）
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 31 Jan 2024 13:11:56 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 02 Feb 2024 08:38:54 +0000</pubDate></item></channel></rss>
