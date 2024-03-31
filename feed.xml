@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 30 Mar 2024 12:07:53 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 30 Mar 2024 12:11:22 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
 
 同イベントは会場のほか、YouTubeLIVEによるリアルタイム配信も行い、オフラインとオンラインのハイブリッド形式で開催した。
 
@@ -2474,7 +2474,45 @@ JASRACは、AIによる生成物がクリエイターの著作物に対する需
 :::box
 
 :::
-</description><pubDate>Thu, 15 Feb 2024 02:04:07 +0000</pubDate></item><item><title>Google DeepMind とリバプールFCが共同開発した「TacticAI」を発表ーーサッカー戦術をAIがアシストする</title><link>https://ledge.ai/articles/google-deepmaind_tactic-ai</link><description>:::small
+</description><pubDate>Thu, 15 Feb 2024 02:04:07 +0000</pubDate></item><item><title>OpenAI　動画生成AI「Sora」を使ったアーティストたちの映像作品を公開　AIは創造的プロセスに革新をもたらすのか</title><link>https://ledge.ai/articles/openai_sora_first_impressions</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年3月25日、動画生成AI「Sora」を使ったアーティストたちによる映像作品と、彼らが初めてSoraを使用した所感やフィードバックを{target=“_blank”}した。
+
+Soraは、テキストからリアルで想像力豊かなシーンを生成できるAIモデルとして{target=“_blank”}され、世界を揺るがせた。モデルは現在のところ一般公開には至らず、ビジュアルアーティスト、デザイナー、クリエイティブディレクター、映画制作者などに対して、アクセスを提供している。同社は、こうした制作者たちのフィードバックを受けながら、創造プロセスをどのように支援できるかを学びつつ、モデルの改善を続けているという。ㅤ
+ㅤㅤ
+## shy kids – “Air Head”
+@
+トロントを拠点とするshy kidsはマルチメディア制作会社で、風船男のショートフィルムにSoraを活用した。
+
+監督の Walter Woodman氏は「Soraは現実に見えるものを作り出す能力に優れているが、私たちを興奮させるのは、完全に超現実的なものを作り出す能力。抽象表現主義の新時代だ」と語る。
+
+より広い業界に向けて言えば「胸からはちきれそうな物語を持つ世界中の人々が、ついにその中身を世界に見せる機会を得た」と述べる。  ㅤ
+ㅤㅤ
+## Paul Trillo, Director – “Abstract”
+@
+「Abstract」を制作したPaul Trillo氏は、アーティスト、作家、映画監督として多方面で活躍する。
+
+同氏は「Soraが最もパワフルなのは、古いものを複製するのではなく、そうしなければ見る機会がなかったであろう新しく不可能なアイデアに命を吹き込むときだ」とコメントしている。
+
+そして、Soraを使った制作は「映画監督として鎖に縛られていないと感じた初めての経験。時間やお金、他人の許可に縛られることなく、大胆でエキサイティングな方法でアイデアを出し、実験できる」と述べた。ㅤ
+ㅤㅤ
+### 「奇妙さ」こそSoraの強み
+デジタルAR/XRアーティストの Don Allen Stevenson III氏は、Soraの「奇妙さ」を最大の強みとして挙げ、これが彼の創造性を純粋に集中させ、即時のビジュアライゼーションと迅速なプロトタイピングの世界を解き放つと述べている。Soraによって、従来の物理法則や思考の慣習に縛られない作品を制作することが可能になり、クリエイターたちは技術的な障壁よりも創造性に焦点を当てることができるようになった。これにより、これまでにないストーリーテリングやアート作品が生まれる土壌が整えられている。
+
+彼の作品や、その他のアーティストの映像作品は、{target=“_blank”}で紹介されている。ㅤ
+ㅤㅤ
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 30 Mar 2024 12:11:22 +0000</pubDate></item><item><title>Google DeepMind とリバプールFCが共同開発した「TacticAI」を発表ーーサッカー戦術をAIがアシストする</title><link>https://ledge.ai/articles/google-deepmaind_tactic-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2787,35 +2825,4 @@ Robloxの最高技術責任者（CTO）ダニエル・スターマン氏によ�
 :::box
 
 :::
-</description><pubDate>Sat, 03 Feb 2024 21:19:51 +0000</pubDate></item><item><title>SNSと生成AIのあり方が問われた１週間　テイラー・スウィフトのAI偽画像が拡散→Xが検索不可→ホワイトハウスがコメント→Xも声明「同意なきヌードは許さない」</title><link>https://ledge.ai/articles/deep-fake_images_of_taylorswift_spread</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年1月下旬、米国の人気歌手テイラー・スウィフト氏を題材にした性的な偽の画像がAI技術を用いて作成され、ソーシャルメディア上で広く拡散されたと複数のメディアが報じた。これらの画像は、特にX（旧Twitter）上で広がり、問題の画像は削除された後も他のアカウントによって再投稿され、新たな露骨なフェイク画像が次々と現れた。ある画像は17時間で4700万回以上閲覧される事態となり、大きな波紋を呼んだ。
-
-これに対しXは、問題の画像の削除と、偽画像を投稿した一部アカウント停止を行い、検索キーワード「Taylor Swift」でユーザーが問題の画像を検索できないよう一時的な措置を講じた​。
-
-ホワイトハウス報道官のカリーヌ・ジャン=ピエール氏は1月26日、この問題についてし、偽のAI画像に対する法的対策の重要性を強調した。
-
-AI検知に特化したサイバーセキュリティ企業Reality Defender社CEOのベン・コールマン氏は、この画像が拡散モデルを使って作成されたものであることを90％の信頼性で突き止めたと{target=“_blank”}。
-
-同氏はまた、オンラインのディープフェイクの96%以上がポルノで、女性が99%の標的だと述べる。2023年の初めの9ヶ月でディープフェイクポルノが54%増加し、効力のある法的な対策を打ったのが10州だけだという。いくらAIのディープフェイクを技術で検出できても、問題自体を解決できるのは法律だけだと強調。何千人もの一般女性が虐待や嫌がらせに直面しているが、著名人のディープフェイクが取り沙汰されて初めて問題が真剣に受け止められる状況に遺憾の意を示した。
-
-Ｘは「Safety」アカウントで以下の声明を投稿した。
-「Xでは、非合意のヌード（NCN）画像を投稿することを固く禁じており、そのようなコンテンツに対して一切の容認をいたしません。私たちのチームは、確認されたすべての画像を積極的に削除し、それらを投稿したアカウントに対して適切な措置を講じています。さらに違反があれば直ちに対処し、コンテンツが削除されるよう、状況を注意深く監視しています。私たちは、すべてのユーザーにとって安全で尊敬に値する環境を維持することを約束します」
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 02 Feb 2024 08:38:54 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sat, 03 Feb 2024 21:19:51 +0000</pubDate></item></channel></rss>
