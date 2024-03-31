@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 29 Mar 2024 05:49:14 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 30 Mar 2024 12:07:53 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
 
 同イベントは会場のほか、YouTubeLIVEによるリアルタイム配信も行い、オフラインとオンラインのハイブリッド形式で開催した。
 
@@ -1679,7 +1679,40 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 :::
 
 
-</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>脳インプラント術後患者の様子を「Neuralink」がライブ配信　四肢麻痺患者が脳で思考しカーソルを動かす</title><link>https://ledge.ai/articles/neuralink_live_streaming_of_post-operative_brain_implant_patient</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>「Soraのようなモデルを完全オープンソースで」シンガポールのAI企業 HPC-AI Technology が「Open-Sora 1.0」をリリース </title><link>https://ledge.ai/articles/open_sora_hpc_ai_technology</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+シンガポールに本社を持つHPC-AI Technology は2024年3月17日、テキストから動画を生成するモデル「Open-Sora 1.0」を{target=“_blank”}した。
+
+この技術は、最新のDiffusion Transformer（DiT）アーキテクチャに基づき、PixArt-αというオープンソースのText-to-Image モデルを拡張し、ビデオ生成を可能にする。同社はこのモデルのアーキテクチャ、訓練済みモデル、トレーニングとデータ準備のプロセスの詳細を{target=“_blank”}し、誰でも無料で使用可能とした。
+
+@
+
+
+
+Open-Sora 1.0の開発は、ビデオ生成技術の進化を目的としており、訓練プロセスは3つのフェーズから成り立っている。初期フェーズでは、大規模なイメージデータの事前訓練を通じて、ビデオの事前訓練コストを削減する。次に、ビデオデータに対する大規模な事前訓練を行い、最終的には高品質のビデオデータでファインチューニングを施し、生成されるビデオの質を大幅に向上させる。この段階的アプローチにより、より効率的に高品質のビデオ生成を実現している​という。
+
+!
+トレーニング再現スキーム
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+さらに、Open-Sora 1.0では、ビデオの前処理に関しても技術的なハードルを下げるためのサポートが提供されている。公開ビデオデータセットのダウンロードや、長いビデオを短いクリップに分割するスクリプトが提供されており、開発者は簡単に自分のデータセットに基づいてビデオ/テキストのペアを生成することができる​​​​。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 30 Mar 2024 12:07:53 +0000</pubDate></item><item><title>脳インプラント術後患者の様子を「Neuralink」がライブ配信　四肢麻痺患者が脳で思考しカーソルを動かす</title><link>https://ledge.ai/articles/neuralink_live_streaming_of_post-operative_brain_implant_patient</link><description>:::small
 画像の出典：{target=“_blank”}
 
 :::
@@ -2103,49 +2136,7 @@ Punyoは、「拡散ポリシー法（人が行う動作を見て学ぶ）」と
 :::box
 
 :::
-</description><pubDate>Fri, 15 Mar 2024 12:03:35 +0000</pubDate></item><item><title>Stability AIが高速で単一画像から3Dオブジェクトを生成する「TripoSR」を公開　</title><link>https://ledge.ai/articles/stabilityai_triposr</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-英国Stability AIは3月5日、Tripo AIと提携し、高速3Dオブジェクト再構築モデル「TripoSR」を開発したことを{target=“_blank”}した。
-
-このモデルは、単一の画像から高品質の3Dモデルを1秒未満で生成する能力を有する。詳細な3Dオブジェクトを視覚化するための応答性の高い出力で、エンターテインメント、ゲーム、工業デザイン、建築の専門家の高まる需要に応えるように設計されているという。
-
-低い推論バジェットで動作するため、GPUの有無にかかわらず、ユーザがアクセス可能。
-
-NVIDIAの A100 でテストしたところ、ドラフト品質の 3D 出力（テクスチャーメッシュ）を約0.5秒で生成し、OpenLRM のような他のオープンな image-to-3D モデルを越えたという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-TripoSRは、LRM（Large Reconstruction Model）ネットワークアーキテクチャに基づき、データ処理、モデル設計、トレーニング技術の面で大幅な改善を統合している。研究レポートでは、他のオープンソースの代替品と比較して、公開データセット上での「TripoSR」の定量的および定性的な優れたパフォーマンスが示されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ソースコード、ウェイト、テクニカルレポートがそれぞれ公開され、MIT Licenseの下で商用、個人、研究目的での利用が許可されている。ソースコードは{target=“_blank”}で、モデルウェイトは{target=“_blank”}で入手可能である。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 11 Mar 2024 06:54:35 +0000</pubDate></item><item><title>フランスの競争委員会がGoogleに2億5,000万ユーロの罰金を科す　Geminiの学習データめぐり</title><link>https://ledge.ai/articles/related_rights_autorite_fines_google_eu250_million</link><description>:::small
+</description><pubDate>Fri, 15 Mar 2024 12:03:35 +0000</pubDate></item><item><title>フランスの競争委員会がGoogleに2億5,000万ユーロの罰金を科す　Geminiの学習データめぐり</title><link>https://ledge.ai/articles/related_rights_autorite_fines_google_eu250_million</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
