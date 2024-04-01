@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 30 Mar 2024 12:11:22 +0000</lastBuildDate><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 31 Mar 2024 12:30:01 +0000</lastBuildDate><item><title>PKSHAが日英対応LLM開発、Transformerの後継候補の「RetNet」を活用　日本マイクロソフト協力</title><link>https://ledge.ai/articles/pksha_llm_rertnet</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+PKSHA Technologyは2024年3月28日、日本マイクロソフトの技術支援を受けて「Retentive Network（RetNet）」を活用した新たな日英大規模言語モデル（LLM）を開発したと{target=“_blank”}した。このLLMは、即時コミュニケーションに強く、従来のモデルより約3倍の速度で回答を生成することが可能だという。
+
+同社がこの度開発したLLMは、Microsoftの開発した技術「RetNet」による初の日英対応モデルで、既存の「Transformer」ベースのモデルに比べ、学習速度や長文入力時の推論速度、メモリ効率が大幅に向上しているという。これにより、高度な長文理解と迅速な回答生成を実現している。
+
+モデルは、70億パラメータを持ち、コンタクトセンターや社内ヘルプデスクでの利用に適した出力精度と運用コストのバランスを実現している。また、Microsoft Corporationによる深層学習フレームワーク「DeepSpeed」の採用により、高い並列分散処理能力を発揮し、効率的な学習が可能だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+LLMの実装用途には、コンタクトセンターや社内ヘルプデスク業務の刷新が挙げられる。顧客満足度の向上や、従業員の問合せ対応の効率化など、ビジネス現場における即時性と精度の要求に応える形での活用が期待される。
+
+PKSHAは「人とソフトウェアの共進化」というビジョンのもと、ビジネスシーンにおける生成AIの実用性の向上を目指す。この技術により、コンタクトセンターや社内ヘルプデスクなどの生産性向上を支援することを目指しており、2024年4月から段階的な展開を計画。日本マイクロソフトは、このプロジェクトに期待し、実現に向けた取り組みを全力でサポートする姿勢を示している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Sun, 31 Mar 2024 12:30:01 +0000</pubDate></item><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
 
 同イベントは会場のほか、YouTubeLIVEによるリアルタイム配信も行い、オフラインとオンラインのハイブリッド形式で開催した。
 
@@ -320,31 +350,7 @@ NVIDIA Omniverse™ は、NVIDIAが2021年に発表したプラットフォー�
 :::box
 
 :::
-</description><pubDate>Sat, 23 Mar 2024 08:04:04 +0000</pubDate></item><item><title>実在するモデルの顔を学習し「撮影ナシ」のフルAIでキービジュアル制作「Rakuten Fashion Week Tokyo 2024 A/W」</title><link>https://ledge.ai/articles/rakuten_fashon_week_genai_keyvisual_movie</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月11日から16日にかけて開催されたファッションの祭典「Rakuten Fashion Week Tokyo 2024 A/W」で、実在モデルの顔学習を用いた新しい手法によるRakuten FWT 初のフルAIシーズンキービジュアルを制作したことが{target=“_blank”}。
-
-
-@
-
-
-このプロジェクトには、日本を代表するモデルエージェンシーDONNA MODELSが協力し、国内外で活動する3人のモデルを「撮影ナシ」でAIが顔学習を行いビジュアルを制作した。
-
-近年、ディープフェイクやAIモデルの登場といった肖像権が問題になる中、エージェンシーやモデルの理解を得てAI活用することで、新たなモデルの起用方法、ファッション・クリエイティブの可能性に挑戦したという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 22 Mar 2024 05:37:33 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sat, 23 Mar 2024 08:04:04 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
