@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 31 Mar 2024 12:30:01 +0000</lastBuildDate><item><title>PKSHAが日英対応LLM開発、Transformerの後継候補の「RetNet」を活用　日本マイクロソフト協力</title><link>https://ledge.ai/articles/pksha_llm_rertnet</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 31 Mar 2024 12:39:01 +0000</lastBuildDate><item><title>オルツ、AWS Marketplaceで自社開発の日本語LLM「LHTM-OPT」を公開</title><link>https://ledge.ai/articles/alts_lhtm_opt_on_aws_marketplace</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+オルツは2024年3月21日、自社開発の軽量型大規模言語モデル「LHTM-OPT」をAWS Marketplace上に日本語LLMとして世界で初めて公開し、APIサービスの提供を開始したことを{target=“_blank”}した。同社は、P.A.I.®️（パーソナル人工知能）やAIクローン技術を駆使したパーソナルAIの開発・実用化を行っている。
+
+「LHTM-OPT」は、2023年{target=“_blank”}された高精度で高速な処理能力を有する軽量型大規模言語モデル（LLM）。日本語データを豊富に含んでいるため、国内の様々なアプリケーションで活用されている。このモデルは、日本語による質問への自動応答、RAG、社内知識ベースによる回答、機械翻訳などの日本語LLMアプリケーション開発に直ちに適用可能であり、多様な実証実験（PoC）案件への応用も期待されているという。
+
+APIの提供価格は12円/1万オルツトークンとされ、市場平均よりも低価格での提供が可能。また、AWS Marketplaceにおける機械学習モデルとしての出品は、日本企業としては初の事例とのこと。
+
+オルツは、プライベートLLMの開発に関するコンサルティング、企業独自のニーズに合わせたカスタマイズ、特定の業務に特化したLLMの開発支援も行っており、日本社会における真のデジタルトランスフォーメーション（DX）実現に向けて、大規模言語モデルや生成AIを活用したサービスの開発・提供に努めている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 31 Mar 2024 12:39:01 +0000</pubDate></item><item><title>PKSHAが日英対応LLM開発、Transformerの後継候補の「RetNet」を活用　日本マイクロソフト協力</title><link>https://ledge.ai/articles/pksha_llm_rertnet</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -323,34 +345,7 @@ Rakuten AI 7Bは、フランスのAIスタートアップMistral AI社の「Mist
 :::box
 
 :::
-</description><pubDate>Sun, 24 Mar 2024 11:36:11 +0000</pubDate></item><item><title>NVIDIAがApple Vision Proと連携、新しいデジタルツインプラットフォームを発表</title><link>https://ledge.ai/articles/nvidia_omniverse_apple_vision_pro</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAは2024年3月18日（現地時間）、年次カンファレンス「GTC 2024」でAppleの空間コンピューティングデバイス「Apple Vision Pro」と連携した新たなプラットフォームを{target=“_blank”}した。
-
-このプラットフォームは、「Omniverse Cloud API」と「OpenUSD」を基に構築され、企業顧客がApple Vision Pro上で製品の高品質なデジタルツインを体験できるようにすることを目的としている。
-
-NVIDIA Omniverse™ は、NVIDIAが2021年に発表したプラットフォームで、開発者、アーティスト、エンジニアが3Dモデルを視覚化し、生成するための共同作業「メタバース」プラットフォームとして機能する。今回発表されたAPIにより、Omniverseのツールやデータをクラウドベースのインフラで利用できるようになった。
-
-@
-
-
-開発者は、SwiftUIとRealityKitを使って、NVIDIA Omniverse採用のApple Vision Pro向けアプリを開発できるようになり、ユーザーはストリーミングされるデジタルツインをApple Vision Proで操作可能になる。公開されたデモ動画では、Omniverse上のCGIスタジオKatanaが開発した車両設計アプリを使用し、デザイナーが塗装や内装を切り替え、車内に座る様子が紹介された。
-
-この連携により、Apple Vision Proの超高解像度ディスプレイと、NVIDIAの高速コンピューティングからストリーミングされるOpenUSDコンテンツのフォトリアリスティックレンダリングを組み合わせることで、没入型体験の大幅な進化が可能になると期待されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 23 Mar 2024 08:04:04 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sun, 24 Mar 2024 11:36:11 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
