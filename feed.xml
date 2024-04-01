@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 31 Mar 2024 12:39:01 +0000</lastBuildDate><item><title>オルツ、AWS Marketplaceで自社開発の日本語LLM「LHTM-OPT」を公開</title><link>https://ledge.ai/articles/alts_lhtm_opt_on_aws_marketplace</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Apr 2024 02:35:43 +0000</lastBuildDate><item><title>オルツ、AWS Marketplaceで自社開発の日本語LLM「LHTM-OPT」を公開</title><link>https://ledge.ai/articles/alts_lhtm_opt_on_aws_marketplace</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1680,7 +1680,40 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 :::
 
 
-</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>「Soraのようなモデルを完全オープンソースで」シンガポールのAI企業 HPC-AI Technology が「Open-Sora 1.0」をリリース </title><link>https://ledge.ai/articles/open_sora_hpc_ai_technology</link><description>:::small
+</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>Google Research、1枚の画像から話す人物の動画を生成するAI「VLOGGER」を発表</title><link>https://ledge.ai/articles/google_reserch_vlogger</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Google Researchは2024年3月13日、人物の単一画像から話す動画を生成するAIシステム「VLOGGER」を{target=“_blank”}した。
+
+VLOGGERは、確率的拡散モデルと空間及び時間的制御を統合した新しいアーキテクチャにより、口元の動きだけでなく全顔の表情変化や手のジェスチャーまで表現可能な可変長の高品質動画を生成する。
+
+MENTORと呼ばれる80万アイデンティティを含む大規模なデータセットを用いたトレーニングにより、個々の人物に対して再トレーニングする必要がなく、多様でリアルな動画の生成を実現しているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+VLOGGERのフレームワークは、音声からビデオへの一対多マッピングをモデル化するために確率的拡散モデルに基づいた２段階のパイプラインで構成されている。
+
+最初のネットワークは、オーディオ波形を入力として受け取り、目標ビデオの長さにわたる視線、顔の表情、及びポーズを制御する中間ボディモーションコントロールを生成する。
+
+次のネットワークは、大規模な画像拡散モデルを拡張した時間的画像から画像への変換モデルであり、予測されたボディコントロールを取って、対応するフレームを生成する。特定のアイデンティティにプロセスを条件付けるために、ネットワークはまた、人物の参照画像も取る。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 01 Apr 2024 02:35:43 +0000</pubDate></item><item><title>「Soraのようなモデルを完全オープンソースで」シンガポールのAI企業 HPC-AI Technology が「Open-Sora 1.0」をリリース </title><link>https://ledge.ai/articles/open_sora_hpc_ai_technology</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2107,37 +2140,7 @@ With OpenAI, Figure 01 can now have full conversations with people
 :::box
 
 :::
-</description><pubDate>Sat, 16 Mar 2024 05:13:44 +0000</pubDate></item><item><title>トヨタ研究所（TRI）柔らかいボディをうまく使って作業するロボット「Punyo（ぷにょ）」を公開
-</title><link>https://ledge.ai/articles/toyota_punyo_humanoid_soft_robot</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-トヨタの先端技術開発拠点であるToyota Research Institute（TRI）は2024年2月28日、新型ロボット「Punyo（ぷにょ）」の開発とその動画をYouTube上で{target=“_blank”}した。
-
-Punyoは、人間のように全身を使って物体を操作する能力を持つ柔らかいロボットだ。従来の人型ロボットが主に腕やグリッパーを用いて物体を扱うのに対し、Punyoはその柔軟な身体全体を利用してより複雑な操作を行う。このロボットは足は持たず、現段階では胴体と操作技能の開発に焦点を置いている。
-
-TRIの技術リーダーであるAlex Alspach氏は、「私たちのミッションは、家庭内やその他の場所での日常的なタスクを助けることだ」と述べ、多くの操作タスクでは手や指だけでなく、全身を使うことが必要であると説明している。
-
-@
-
-Punyoの身体は、触覚センサーを備えた柔らかい素材で覆われており、物に触れるときも優しく抱きしめることができる。このロボットの腕は、空気で満たされたブラダーや泡で構成され、これらが圧力センサーに接続されている。これによって、外部からの力を感知し、必要に応じて柔軟性を調整することができるという。
-
-また、グリッパーの代わりに、カメラを内蔵した高摩擦ラテックスの「パウ」と呼ばれる「手」を使用している。このカメラは、泡の内部に印刷された点パターンの変形を監視することで、力を推定する。
-
-Punyoは、「拡散ポリシー法（人が行う動作を見て学ぶ）」と「例示誘導強化学習法（ロボット自身が試行錯誤しながら最適な動きを見つける）」の２つの方法を用い、どのように物を掴んだり動かしたりするのかを学ぶ。これらの方法により、人間のデモンストレーションを参考にしながら、モデル化が困難なタスクのための堅牢なセンサーモーターポリシーを学習しているという。
-
-将来的には家庭や職場での様々なタスクをPuynoが支援することで、ロボットと人間との協働が進み、人間の生活の質を向上させることが期待できるとのこと。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 15 Mar 2024 12:03:35 +0000</pubDate></item><item><title>フランスの競争委員会がGoogleに2億5,000万ユーロの罰金を科す　Geminiの学習データめぐり</title><link>https://ledge.ai/articles/related_rights_autorite_fines_google_eu250_million</link><description>:::small
+</description><pubDate>Sat, 16 Mar 2024 05:13:44 +0000</pubDate></item><item><title>フランスの競争委員会がGoogleに2億5,000万ユーロの罰金を科す　Geminiの学習データめぐり</title><link>https://ledge.ai/articles/related_rights_autorite_fines_google_eu250_million</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
