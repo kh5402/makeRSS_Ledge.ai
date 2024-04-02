@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Apr 2024 02:39:39 +0000</lastBuildDate><item><title>日立　生成AIを活用した「自分の不具合を話す機械」の実現を目指し実証実験</title><link>https://ledge.ai/articles/hitachi_jp1_cloud_service</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Apr 2024 07:56:31 +0000</lastBuildDate><item><title>NVIDIA、新GPU「H200」出荷開始を発表　生成AIやLLMの高速化</title><link>https://ledge.ai/articles/nvidia_h200_to_be_shipping</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2024年3月27日、最先端半導体「H200 GPU」の顧客向けサンプリングを開始し、第2四半期より出荷を開始することを{target=“_blank”}した。この新GPUは、近く20社を超える主要システムビルダーやクラウドサービスプロバイダから入手可能になる予定だ。
+
+H200は、{target=“_blank”}された同社のサーバー向け最新のGPUで、「NVIDIA Hopper」アーキテクチャを使用し、生成AIやLLMなどの高度なタスクを処理するハイパフォーマンスコンピューティング（HPC）を強化するという。
+
+この日、業界標準のMLPerfベンチマークにおいて、世界最速のプラットフォームとして認定されたという。同社が開発したTensorRT-LLMソフトウェアは、大規模言語モデル（LLM）の推論処理を高速化し、簡素化することが可能で、NVIDIA HopperアーキテクチャのGPUの性能を約3倍に引き上げるとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+H200は、HBM3eメモリを141GB搭載し、4.8TB/sの速度で動作する。これは、前世代のH100 GPUに比べてメモリ容量が76%増加し、43%速くなっている。これらのアクセラレータは、H100 GPUと同じボードやシステムに接続可能で、同じソフトウェアを使用する。
+
+HBM3eメモリを搭載することにより、単一のH200 GPUで最高のスループットを実現しながら、Llama 2 70Bモデル全体を実行でき、推論処理を簡素化し、加速するという。
+
+さらにNVIDIA GH200 Superchipsでは、HopperアーキテクチャのGPUと省電力NVIDIA Grace CPUを一つのモジュールに組み合わせ、最大624GBの高速メモリ（そのうち144GBをHBM3eが占める）という、より多くのメモリを搭載している。NVIDIAのアクセラレータは、HBM3eメモリ技術を使用する初めての製品だ。
+
+MLPerfテストでは、Hopper GPUは最新ラウンドのAI推論の各テストで圧倒的な結果を示した。これらのベンチマークは、生成AI、推薦システム、自然言語処理、音声認識、コンピュータビジョンなど、現在最も人気のあるAIワークロードとシナリオをカバーしているという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 01 Apr 2024 07:56:31 +0000</pubDate></item><item><title>日立　生成AIを活用した「自分の不具合を話す機械」の実現を目指し実証実験</title><link>https://ledge.ai/articles/hitachi_jp1_cloud_service</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -308,43 +340,7 @@ Coatue Managementは、同社が直面している財務的な問題や経営上
 :::box
 
 :::
-</description><pubDate>Tue, 26 Mar 2024 08:52:07 +0000</pubDate></item><item><title>Google検索の新時代　責任者にエリザベス・リード氏が就任し、生成AIの可能性に注力する方針を示す</title><link>https://ledge.ai/articles/new_leadership_for_google_serch</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleが2024年3月に行った組織改編で、検索部門の新たなリーダーにエリザベス・リード氏が就任した。リード氏は、Google検索とマップで見つけられる地域情報の基盤を築いた初期のエンジニアの一人で、現在Googleのコア検索体験、特にイメージ検索を含む検索サービス全体の監督を担う。
-
-「Google Searchは正確な回答を提供し、Web上で最適なリンクを探索するための信頼されるツールである」とリード氏は述べ、「私たちは、主要市場全体で検索クエリの増加を見ており、人々の情報ニーズは増え続ける。だからこそ、Searchの進化と改善を続ける」と強調している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-リード氏はスパムポリシーとランキングシステムの更新による品質の大幅な改善、Lensを使用した視覚的な検索、Circle to Searchでのスクリブルによる検索支援、そしてAIを活用したSearch Generative Experience (SGE)の試行など、検索の新たな進化にも触れた。
-
-Googleは、SGEを始めとする実験を通じて、AIが提供する新しい回答形式やコンテキストの理解に基づき、検索体験をどのように進化させるかを模索している​​。
-
-リード氏は、Googleが検索における生成AIの統合を慎重に進めていることを強調し、MicrosoftがBingで取り組んでいるような、チャットライクなインターフェースへの急激な移行ではなく、SGEでの学びを基に、より自然な検索体験を実現する方向性を探っていると述べている。
-
-生成AIは、検索エンジンがこれまでにないタイプの質問に答えることを可能にし、情報の整理と理解の方法を変えることで、利用者が{target=“_blank”}と同社は述べる​​。たとえば、家族連れやペットを連れた旅行先の選択など、具体的なシナリオに基づいた質問に対して、AIが重要な情報のスナップショットを提供し、深堀りするためのリンクを示すことで、従来の検索よりも効率的な情報収集が可能になる。
-
-
-「素晴らしいチームと共に、検索を改善し進化させるために疲れ知らずに働くことができることに感謝している」とリード氏は言い、「この新しい役割で、世界中の人々が最も困難な質問に対する答えを見つけるのを助けるという私たちの使命を続けることを楽しみにしている」と新たな章の始まりに対する期待を示している。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 25 Mar 2024 06:28:38 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 26 Mar 2024 08:52:07 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
