@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Apr 2024 02:35:43 +0000</lastBuildDate><item><title>オルツ、AWS Marketplaceで自社開発の日本語LLM「LHTM-OPT」を公開</title><link>https://ledge.ai/articles/alts_lhtm_opt_on_aws_marketplace</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Apr 2024 02:39:39 +0000</lastBuildDate><item><title>日立　生成AIを活用した「自分の不具合を話す機械」の実現を目指し実証実験</title><link>https://ledge.ai/articles/hitachi_jp1_cloud_service</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年2月1日から3月29日まで、日立製作所は、統合システム運用管理「JP1 Cloud Service」において、生成AIを活用した運用効率化及び自動化を目的とした{target=“_blank”}を行った。
+
+この実験では、ITシステムの運用監視中に発生する各種イベントへの対応を効率化するため、生成AIアシスタントを用いた新たなアプローチを試みる。
+
+日立はこのプロジェクトを通じて、システムや機械が自らの不具合や故障を説明し、対処法を提案することが可能な「話す機械」の実現を目指す。特に、熟練作業員の減少が課題となっている現場で、作業員のより迅速な問題解決の支援が目的だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+実証実験は、開発中のJP1 Cloud Service システム管理と、生成AI環境としてAzure OpenAI Service、Amazon Bedrockを利用して行われる。この期間中、日立のマネージドサービス部門によるシステム運用業務を想定した運用マニュアルやドキュメント類、疑似的に発生させる運用イベントなどを実証のための入力データとして使用するという。
+
+日立は、実験後に生成AIアシスタントの質問応答機能を2024年4月を目標に提供予定で、障害対応支援の高度化や運用設計、運用自動化の支援などへ適用範囲の拡大を目指す。
+
+今後は、クラウドシステム運用の改善とその成熟度を向上させるため、マネージドサービス「Hitachi Application Reliability Centers（HARC）サービス」に携わるSREエンジニアと連携し、クラウド運用の自動化やコード生成などの先進的なユースケースの実用化を予定しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 01 Apr 2024 02:39:39 +0000</pubDate></item><item><title>オルツ、AWS Marketplaceで自社開発の日本語LLM「LHTM-OPT」を公開</title><link>https://ledge.ai/articles/alts_lhtm_opt_on_aws_marketplace</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -313,39 +344,7 @@ Googleは、SGEを始めとする実験を通じて、AIが提供する新しい
 :::box
 
 :::
-</description><pubDate>Mon, 25 Mar 2024 06:28:38 +0000</pubDate></item><item><title>楽天が日本語LLM「Rakuten AI 7B」シリーズを公開。Mistralベースで商用利用も可能</title><link>https://ledge.ai/articles/rakuten_ai_7b</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-楽天は2024年3月21日、日本語に最適化された大規模言語モデル（LLM）の新シリーズ「Rakuten AI 7B」を{target=“_blank”}した。
-
-このシリーズには、基盤モデル「Rakuten AI 7B」、インストラクションチューニング済モデル「Rakuten AI 7B Instruct」、及びチャットモデル「Rakuten AI 7B Chat」が含まれる。これらはすべて、2024年3月21日にオープンソースモデルとして公開された。
-
-Rakuten AI 7Bは、フランスのAIスタートアップMistral AI社の「Mistral-7B-v0.1」を基に開発された70億パラメータを持つ日本語のモデル。楽天内のマルチノードGPUクラスターを用いた大規模事前学習を経て、高品質なデータを用いた事前学習が実施された。さらに、独自の形態素解析器を用いることで、言語処理の効率化を実現している。
-
-言語モデル評価ツール「LM Evaluation Harness」による評価では、本シリーズのモデルが日本語及び英語のテストにおいて高いパフォーマンスを示し、特に日本語においては極めて高い評価を獲得した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-楽天のCDOティン・ツァイ氏は、この成果をオープンソースコミュニティと共有し、日本語LLMの発展に貢献する意向を表明。楽天は、これらのモデルを使用して文章の要約、質問応答、対話システムの構築など、様々なテキスト生成タスクに対応し、さらなるAI技術の進化を目指すとした。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 24 Mar 2024 11:36:11 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 25 Mar 2024 06:28:38 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
