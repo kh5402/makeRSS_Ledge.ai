@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Apr 2024 08:05:00 +0000</lastBuildDate><item><title>Google、2023年に55億件の不適切広告を削除　「Gemini」が検知強化に貢献</title><link>https://ledge.ai/articles/google_gemini_helped_remove_inappropriate_ads</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 02 Apr 2024 09:13:41 +0000</lastBuildDate><item><title>伊藤園とAI model が再びタッグ、「お～いお茶 カテキン緑茶」新CMではAIタレントが「声」も出して語る</title><link>https://ledge.ai/articles/itoen_ai_model_2nd_cm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+伊藤園は2024年3月29日、AI model社と協力し、AIタレントを起用した「お～いお茶 カテキン緑茶」TV-CMの新作「食事の脂肪をスルー」篇を、4月4日より放映開始すると{target=“_blank”}した。
+
+これは、同社が2023年9月、{target=“_blank”}「未来を変えるのは、今！」篇の第2弾にあたる。
+
+新作では、前回に引き続きAIタレントが出演し、「お〜いお茶 カテキン緑茶」のメカニズムとその魅力を、未来の自分と現在の自分の双方から声で「語りかける」形式を使って伝える。
+
+
+
+@
+
+
+また伊藤園は、同製品を4月1日にリニューアル発売し、新たに生成AIを用いたパッケージデザインを採用。このリニューアルは、伊藤園とAI model社が共同で取り組むプロジェクトの一環であり、消費者に新しい体験を提供することを目的としている。
+
+前回のCMで示されたAI技術の可能性をさらに推し進める形で、今回のCMでは、AIタレントが性別に関わらず「健康的」「活動的」「進歩的」「意志の強さを感じる」イメージを体現。AI model社の技術によって生み出されたこのオリジナルタレントは、健康的な生活への第一歩として「お～いお茶 カテキン緑茶」を推奨する存在として描かれている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 02 Apr 2024 09:13:41 +0000</pubDate></item><item><title>Google、2023年に55億件の不適切広告を削除　「Gemini」が検知強化に貢献</title><link>https://ledge.ai/articles/google_gemini_helped_remove_inappropriate_ads</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -316,30 +346,7 @@ ChatGPTをコネクテッドサービスに統合することで、車両は、�
 :::box
 
 :::
-</description><pubDate>Wed, 27 Mar 2024 06:47:57 +0000</pubDate></item><item><title>AI搭載の虚偽主張「AIウォッシング」、米証券取引委員会が投資顧問会社に罰金を科す</title><link>https://ledge.ai/articles/sec_fines_ai_washing_for_false_claims</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国証券取引委員会（SEC）は2024年3月18日、AIの使用に関する虚偽および誤解を招く声明を発したとして、2つの投資顧問会社、Delphia (USA) Inc.とGlobal Predictions Inc.に対する処分を{target=“_blank”}した。これらの企業は、SECの指摘を受け入れ、合わせて40万ドルの罰金を支払うことに同意した。
-
-この問題についてSEC委員長のゲイリー・ゲンスラー氏は、「Delphia及びGlobal Predictionsは、実際には使用していない方法でAIを使用していると、顧客や見込み顧客に宣伝していた」と述べた。さらに「このようなAIウォッシングは投資家に損害を与える。投資顧問は、AIモデルを使用していると誤って宣言し、公衆を誤解させるべきではない」と強調し、AIウォッシングの問題を明らかにした。
-
-SECの執行部門ディレクターであるグルビール・S・グルワル氏は「投資業界に対し、投資プロセスにAIを使用すると主張する場合、その表明が虚偽または誤解を招くものではないことを保証する必要がある」と警告し、投資家保護の重要性を強調した。
-
-トロントに基盤を置くDelphiaは、2019年から2023年にかけて、顧客データを組み込んだAIと機械学習の使用と称するSEC提出書類、プレスリリース、ウェブサイト上で虚偽の誤解を招く記述を行ったとSECが指摘。例えば「集合的データを活用して人工知能をより賢くし、成功する企業やトレンドを事前に予測し、他者より先に投資する」と述べていたが、これらの主張は実際のAIおよび機械学習の能力とは異なっていたため、虚偽および誤解を招くものだとSECが認定した。さらに、同社はマーケティングルールを違反したとして告発された。
-
-San Franciscoを本拠とするGlobal Predictionsに関しては、同社が2023年にウェブサイト及びソーシャルメディアでAIの使用について虚偽及び誤解を招く主張を行ったことが判明。同社は「最初の規制されたAI金融アドバイザー」と自称し、「専門家によるAI駆動の予測」を提供すると誤って表現していた。
-
-DelphiaとGlobal Predictionsは、SECの調査結果を認めも否定もせず、違反したアドバイザー法の項目を認め、それぞれ22万5000ドル及び17万5000ドルの罰金を支払うことに同意したとのこと。SECはこの件に関して、投資家への教育と警告を続けている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 26 Mar 2024 08:54:48 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Wed, 27 Mar 2024 06:47:57 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
