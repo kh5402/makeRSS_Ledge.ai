@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 02 Apr 2024 09:13:41 +0000</lastBuildDate><item><title>伊藤園とAI model が再びタッグ、「お～いお茶 カテキン緑茶」新CMではAIタレントが「声」も出して語る</title><link>https://ledge.ai/articles/itoen_ai_model_2nd_cm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 02 Apr 2024 09:17:02 +0000</lastBuildDate><item><title>AmazonがAnthropicに27.5億ドルを追加投資、総投資額は40億ドルに</title><link>https://ledge.ai/articles/amazon_anthropic_ai_investment</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Amazon.com は2024年3月27日、同月4日に「Claude3」を発表したAnthropicに対し、追加で27.5億ドルの投資を行ったことを{target=“_blank”}した。この投資により、AmazonからAnthropicへの総投資額は40億ドルに達した。
+
+この投資は、両社間で2023年9月に締結された{target=“_blank”}の一環として行われ、AnthropicがAmazon Web Services（AWS）のデータセンターやカスタムビルドのコンピューターチップを使用することで合意している。
+
+Amazonのこの追加投資は、同社のAWSプラットフォームを介して提供するクラウドコンピューティングサービスを通じ、世界中の顧客に最先端の生成AI技術を提供するためのものだという。
+
+また3月20日には、AWS、Anthropic、および Accentureが連携を{target=“_blank”}している。3社はいずれも、精度、信頼性、データ セキュリティが最優先される規制分野（医療、公共部門、銀行、保険など）において、生成 AI のアイデアをコンセプトから製品化に導くための重要なリソースを提供していおり、企業は、データのプライバシーと安全性を保ちながら、特定のニーズに対応するモデルを展開できるという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 02 Apr 2024 09:17:02 +0000</pubDate></item><item><title>伊藤園とAI model が再びタッグ、「お～いお茶 カテキン緑茶」新CMではAIタレントが「声」も出して語る</title><link>https://ledge.ai/articles/itoen_ai_model_2nd_cm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -316,37 +335,7 @@ AI企業がモデルの学習データを求める一方、知財としてのデ
 :::box
 
 :::
-</description><pubDate>Wed, 27 Mar 2024 06:51:18 +0000</pubDate></item><item><title>国内初、DSオートモビル全車にChatGPT搭載、運転中の新たな対話体験を実現</title><link>https://ledge.ai/articles/stellantis-jp_ds_chatgpt</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stellantisジャパン株式会社は2024年3月22日、DSオートモビルの全ラインナップにChatGPTを標準装備し、国内での販売を開始したことを{target=“_blank”}した。これにより、DSオートモビルは運転しながらChatGPTを使用できる国内初の自動車ブランドとなるという。
-
-フランスの自動車メーカーDSオートモビルは、かつてシトロエン（Citroën）の一部としてDSシリーズを展開していたが、2014年に独立し、プレミアムブランドとしての地位を確立している。
-
-ChatGPTをコネクテッドサービスに統合することで、車両は、空調やオーディオ、ナビゲーションのボイスコントロールを超える、人間のような自然な対話を提供するへと進化を遂げると同社は述べる。ドライバーは、旅先の情報や夕食の献立について尋ねるなど、車内での様々な疑問や要望に対し、対話を通じて解決策を得られる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この機能を実現するために、SoundHound AI社が開発した新しい音声認識プラットフォームを活用。同プラットフォームは、音声認識と生成AIを融合し、車内利用に最適化されている。ChatGPTとの連携により、豊富な言語知識を活用した多様な対話が可能となる。
-
-なお、搭載されるChatGPTはバージョン3.5で、2022年1月までのデータを学習基にしているため、最新の交通状況や天気予報などには対応していない点に留意が必要とのこと。また、SoundHound AI社は米シリコンバレーに本拠を置く音声認識AIサービスのプロバイダーで、自動車や家電、レストラン業界でのサービス展開を行っている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 27 Mar 2024 06:47:57 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Wed, 27 Mar 2024 06:51:18 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
