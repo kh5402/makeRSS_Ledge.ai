@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 02 Apr 2024 09:17:02 +0000</lastBuildDate><item><title>AmazonがAnthropicに27.5億ドルを追加投資、総投資額は40億ドルに</title><link>https://ledge.ai/articles/amazon_anthropic_ai_investment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 03 Apr 2024 03:35:41 +0000</lastBuildDate><item><title>AmazonがAnthropicに27.5億ドルを追加投資、総投資額は40億ドルに</title><link>https://ledge.ai/articles/amazon_anthropic_ai_investment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1331,7 +1331,48 @@ OpenAI社の公式ブログ記事 で次のように発言されている。
 
 
 
-</description><pubDate>Thu, 28 Dec 2023 07:51:46 +0000</pubDate></item><item><title>NVIDIA、Hugging Face、ServicenowがオープンアクセスLLM「StarCoder2」をリリースー619種類のプログラミング言語で訓練</title><link>https://ledge.ai/articles/starcode2_nvidia_huggingface_servicenow_llm</link><description>:::small
+</description><pubDate>Thu, 28 Dec 2023 07:51:46 +0000</pubDate></item><item><title>世界初の完全自律型AIエンジニア「Devin」が、ソフトウエア開発工程をすべてAIだけで行う　米AIスタートアップ Cognition が発表</title><link>https://ledge.ai/articles/cognition_devin_ai_software_engineer</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月12日、米国のAIスタートアップCognitionは、世界初の完全自律型AIソフトウェアエンジニア「Devin」を{target=“_blank”}した。Devinは、プログラミングの深い知識がなくてもユーザーがソフトウェア開発を行えるようにすることを目指している。
+
+@
+
+
+
+
+
+Devinの特徴は、その自律性と柔軟性にあり、開発からデプロイまでの一連のプロセスを自動で行える能力を持つ点だ。例えば、Devinは、アプリをエンドツーエンドで構築してデプロイできる。同社のブログでは、ライフゲームという生物の誕生、進化、淘汰などを簡易的に模倣するシミュレーションゲームの開発からウェブ上への公開までの全過程を単独で行う様子が紹介された。
+
+このAIエンジニアは、高度な機能と広範な自律性を有し、ソフトウェア開発の新たな基準を設定することが期待されている。Devinの導入により、ソフトウェア開発プロセスはより効率的になり、人的労力やコストの削減、高速かつ正確なコーディング、プロジェクト管理の効率化が実現する​。
+
+特に注目されるのは、DevinがCUDA関連のエラー発生時に自動で問題解決を行うなど、自身へのファインチューニングの実行能力を持っている点である。他にも、ユーザー指示に基づくバグ修正と機能追加や、オープンソースプロジェクトのバグや機能要望への対応など、従来はエンジニアが手動で行っていた多くの作業が、Devinによって自動化される​​。
+
+
+また、実際のDevinのパフォーマンスについて、SWE-benchで評価した結果が公開されている。Devinは、エンドツーエンドで13.86%の課題を正しく解決し、以前の1.96%をはるかに上回った。編集すべき正確なファイルが与えられた場合でも、かつての最高のモデルでは問題の4.80%しか解決できなかったという。SWE-bench テクニカルレポートの詳細は、{target=“_blank”}で紹介されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+Devinの登場は、AI技術の進化によってソフトウェアエンジニアリングの領域で節目となる変革が訪れることを示唆している。現在、Devinはアーリーアクセス版として提供されており、将来的にはさらに多くの開発者に利用されることが予想される。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 03 Apr 2024 03:35:41 +0000</pubDate></item><item><title>NVIDIA、Hugging Face、ServicenowがオープンアクセスLLM「StarCoder2」をリリースー619種類のプログラミング言語で訓練</title><link>https://ledge.ai/articles/starcode2_nvidia_huggingface_servicenow_llm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1643,37 +1684,7 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 :::
 :::box
 
-:::</description><pubDate>Sat, 21 Oct 2023 11:09:57 +0000</pubDate></item><item><title>我が子や親の声をAIがまねる「ディープフェイクボイス」詐欺 SNSの3～4秒のデータから1回700円で生成可能</title><link>https://ledge.ai/articles/deepfake_voice</link><description>:::small
-画像の出典：写真AC
-:::
-
-我が子や親の音声をAIが模倣する「ディープフェイクボイス」による詐欺の懸念が各国で高まっている。米国や中国ではすでに被害が出ており、あらためてニュースメディアを騒がせている。
-
-2023年5月の{target=“_blank”}や9月の{target=“_blank”}などの報道がこの問題を取り上げている。AIを利用すると3～4秒の音声から高精度の合成が可能。かかる費用は1件につき日本円にして700円程度という。素材は動画共有SNS「TikTok」などで個人が家族や友達向けに投稿した映像などから集められる。
-
-米国や中国ではこうした音声による詐欺もすでに起きているもようだ。{target=“_blank”}によれば、2022年には親族や友人を装う詐欺電話が約5,000件あり、被害総額は約16億円。
-
-ディープフェイクボイスによる犯罪を含むと見られ、顕著な例として{target=“_blank”}が2023年4月に報道した事件が最近注目を浴びている。同年1月にアリゾナ州のとある母親のもとに娘の声で助けを求める電話があった。犯罪者は娘を誘拐したとして日本円にして約1億4,000万円相当の身代金を要求。実際は詐欺で、報道時点でAI生成だったという証拠は見つかっていないが、母親は音声の迫真性からほかに考えられないと述べている。
-
-
-!
-:::small
-画像出典：マカフィー
-:::
-
-5月の{target=“_blank”}によると、7か国の18歳以上の成人7,054人のうち10%の人が「AI音声を用いた詐欺に遭遇した」と回答。また知人が遭遇したと答えた人（15%）を合わせた25%のうち、約8割が金銭を詐取された。
-
-日本はAI音声詐欺に遭遇した割合が少なく、潜在的な被害がある可能性がある。専門家は、被害が広がるのも時間の問題と指摘した。日本国内の2022年の特殊詐欺被害額は370億8,000万円で8年ぶりに増加しており、いわゆる「オレオレ詐欺」が多い。被害防止のための技術が研究されており、一部の金融機関ではすでに実用化している。
-
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 22 Sep 2023 06:49:13 +0000</pubDate></item><item><title>Google Research、1枚の画像から話す人物の動画を生成するAI「VLOGGER」を発表</title><link>https://ledge.ai/articles/google_reserch_vlogger</link><description>:::small
+:::</description><pubDate>Sat, 21 Oct 2023 11:09:57 +0000</pubDate></item><item><title>Google Research、1枚の画像から話す人物の動画を生成するAI「VLOGGER」を発表</title><link>https://ledge.ai/articles/google_reserch_vlogger</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
