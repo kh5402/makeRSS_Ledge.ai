@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 03 Apr 2024 03:35:41 +0000</lastBuildDate><item><title>イーロン・マスク氏「Xプレミアム」ユーザー全員へAIチャットボット「Grok」を提供　Grok-1.5も合わせて発表</title><link>https://ledge.ai/articles/grok_will_be_enable_for_all_premium_cubscribers</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 03 Apr 2024 08:52:48 +0000</lastBuildDate><item><title>鹿島建設、AIでダム工事の材料品質管理業務の省力化を実現　試験工数を90%削減</title><link>https://ledge.ai/articles/kajima_dx</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+鹿島建設は2024年3月28日、成瀬ダム堤体打設工事における材料の品質管理業務の省力化を目的としたAIを活用した新システムの試験導入の成果を{target=“_blank”}した。
+
+粒度分布と含水率の監視を自動化し、CSG材の全量の品質管理を実現するもので、これにより、試験業務に関わる人員を約9割削減し、高精度の品質管理を維持することに成功したとのこと。
+
+このシステムは、鹿島が2010年に北海道の別ダム工事で初導入した「AI画像粒度モニタリング®システム」と、近赤外線水分計を組み合わせたものである。この技術により、CSG材の粒度分布と含水率をリアルタイムで全量監視し、品質管理の自動化と効率化を実現している。具体的には、成瀬ダム工事において、CSG材の全量に対して平均300㎥/時間の速度で連続供給しながら品質を管理することが可能になった。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+品質管理業務の負担軽減が急務となるダム建設の現場では、従来の方法では、1～2時間ごとにサンプリング試験を行い、CSG材が規格内であることを確認する必要があった。しかし、この新システムの導入により、従来法に比べて試験員の作業負担が大幅に減少し、1日1回の試験で済むようになったという。
+
+今後鹿島は、このシステムをダム工事以外にも広く展開し、給水量を自動調整するシステムの開発を通じて、建設現場の働き方改革のさらなる推進を目指す。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 03 Apr 2024 08:52:48 +0000</pubDate></item><item><title>イーロン・マスク氏「Xプレミアム」ユーザー全員へAIチャットボット「Grok」を提供　Grok-1.5も合わせて発表</title><link>https://ledge.ai/articles/grok_will_be_enable_for_all_premium_cubscribers</link><description>:::small
 画像：{target=“_blank”}
 :::
 
@@ -322,33 +352,7 @@ NTTは、tsuzumiによって業務効率化やDX推進を目指す企業を支�
 
 :::
 
-</description><pubDate>Thu, 28 Mar 2024 06:54:07 +0000</pubDate></item><item><title>イトーキとAIスタートアップの燈がオフィスデザイン自動生成AIの共同開発契約を締結　「Ofiice3.0」時代を拓く</title><link>https://ledge.ai/articles/itoki_akari_office3-0_genai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-イトーキは2024年3月13日、AIスタートアップの燈株式会社と、オフィスデザイン自動生成AIの共同開発契約を締結したことを{target=“_blank”}した。
-
-このプロジェクトは「ITOKI OFFICE A/BI SERVICE」の一環で、オフィスのデジタルツイン構築とオフィスデータの活用により、オフィスデザインの瞬時シミュレーションを可能にするアプリケーション開発を目指す。
-
-@
-
-
-この共同開発は、オフィス家具の製造・販売（Office1.0）、空間ベースのソリューション提供（Office2.0）、データ活用による働き方ベースのオフィスDX（Office3.0）という、イトーキのビジネス展開を加速させるものだ。特に「Data Trekking」というコンサルティングサービスのローンチを含む、Office3.0領域の強化が進められている。
-
-燈の空間スキャン技術とイトーキのオフィスレイアウトや家具データ、オフィスワーカーや組織の活動データの統合・活用ノウハウが組み合わされる。これにより、オフィスデザイン自動生成AI「ITOKI OFFICE A/BI PLATFORM」が様々なオフィスデザインパターンを自動でデザインし、アプリケーションを通じて即座にシミュレーション可能になるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-オフィスデザインの提案活動には多くの時間と労力が必要だったが、この新技術により、オフィス内の寸法測定などのアナログ作業を大幅に軽減。これにより、顧客のアジャイルなオフィス構築に必要な迅速かつ機動的なリニューアルが実現されることが期待されるという。
-
-
-:::box
-
-:::
-</description><pubDate>Wed, 27 Mar 2024 06:54:16 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Thu, 28 Mar 2024 06:54:07 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
