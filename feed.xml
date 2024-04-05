@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Apr 2024 01:00:24 +0000</lastBuildDate><item><title>鹿島建設、AIでダム工事の材料品質管理業務の省力化を実現　試験工数を90%削減</title><link>https://ledge.ai/articles/kajima_dx</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Apr 2024 07:30:44 +0000</lastBuildDate><item><title>ChatGPTが情報源のリンク提供を強化、有料プランでのみ利用可能に</title><link>https://ledge.ai/articles/openai_is_making_links_more_prominent</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+OpenAIは2024年3月29日、ChatGPTのウェブブラウジング機能をアップデートし、有料プランのユーザーに対して情報源への直接リンクを提供する新機能を{target=“_blank”}した。これにより、ユーザーはChatGPTが提供する回答の背景情報をより容易に確認できるようになる。
+
+同社は「X」において、ChatGPTがインターネットから収集したコンテンツを表示する際に、リンクを「もっと目立たせる」ことによって、ユーザーへの回答に関する背景情報の提供を強化すると述べている。新機能には、ソースのサイト名を括弧に入れて表示し、クリック可能なリンクを含めることで、直接ソースにアクセスできるようにするものが含まれる。
+
+!
+画像：{target=“_blank”}
+:::
+
+この新機能は「ChatGPT Plus」「ChatGPT Team」「ChatGPT Enterprise」といった有料プランのユーザーに限定される。OpenAIは情報源へのリンクを目立たせることで、ユーザーに対して回答の背景情報をもっと提供し、パブリッシャーやクリエイターのコンテンツを発見しやすくすることを目的としていると述べている。
+
+同社のモデルの訓練データに関して、クリエイターやパブリッシャーからの明示的な許可なしにコンテンツを使用しているという批判に対応し、ユーザーに対してより透明性を持たせる試みと見られている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Thu, 04 Apr 2024 07:30:44 +0000</pubDate></item><item><title>鹿島建設、AIでダム工事の材料品質管理業務の省力化を実現　試験工数を90%削減</title><link>https://ledge.ai/articles/kajima_dx</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -314,45 +342,7 @@ PKSHAは「人とソフトウェアの共進化」というビジョンのもと
 :::box
 
 :::
-</description><pubDate>Thu, 28 Mar 2024 06:58:54 +0000</pubDate></item><item><title>NTTの自社開発LLM「tsuzumi」を3月25日から商用サービス提供開始</title><link>https://ledge.ai/articles/ntt_tsuzumi_for_business_use</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NTTは2024年3月25日、自社開発の大規模言語モデル（LLM）「tsuzumi」の商用サービス提供を開始したことを{target=“_blank”}した。
-
-tuszumiは、同社が{target=“_blank”} 70億パラメータの日本語処理に特化した軽量のLLM。1GPUで高速に推論動作が可能であるため、チューニングや推論にかかるコストを大幅に削減できる。6億パラメータの「超軽量版」も提供され、CPUのみでの高速推論が可能だという。
-
-また、日本語に加えて英語にも対応し、将来的には多言語対応の拡張も計画されている。このモデルは、NTTが40年以上にわたり蓄積してきた自然言語処理技術を基に開発され、日本語処理能力では世界トップクラスの性能を謳っており、Llama2と同程度になるという。
-
-tsuzumiの名称は、日本の和楽器「鼓」から取られており、その軽量で柔軟な特性が、NTTが目指すLLMの特徴と重なる。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-tsuzumiの商用サービスは、サイバーセキュリティやAIコンステレーションの開発など、さまざまな分野への応用が期待されている。また、視覚や聴覚などのモーダル拡張にも対応予定であり、将来的には人とロボットが協働する環境での活用なども想定している。11月の発表以来、自治体などを含め500件以上の問い合わせがあったという。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-NTTは、tsuzumiによって業務効率化やDX推進を目指す企業を支援するとともに、社会的課題の解決にも貢献していく方針だ。島田明社長は、tsuzumiが持続可能な社会の実現に向けた取り組みとして位置づけられるべきであると強調している​​。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 28 Mar 2024 06:54:07 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Thu, 28 Mar 2024 06:58:54 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
