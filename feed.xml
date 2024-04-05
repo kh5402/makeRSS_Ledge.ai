@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Apr 2024 07:30:44 +0000</lastBuildDate><item><title>ChatGPTが情報源のリンク提供を強化、有料プランでのみ利用可能に</title><link>https://ledge.ai/articles/openai_is_making_links_more_prominent</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Apr 2024 07:34:08 +0000</lastBuildDate><item><title>博報堂が7,000タイプの「バーチャル生活者」を生成　生活者の声を聴けるAIサービスプロトタイプを開発</title><link>https://ledge.ai/articles/hakuhodo_generates_7000types_of_virtual_consumer</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+博報堂は2024年3月22日、生活者の深い理解とイマジネーションの拡張を目指し、7,000タイプのバーチャル生活者を生成するサービスプロトタイプの開発を{target=“_blank”}した。
+
+この取り組みは、生成AI技術と博報堂の大規模生活者調査データベース「HABIT」を組み合わせ、生活者の声を聴く新たなイマジネーション・パートナーとして機能することを目的としている。
+
+
+@
+
+サービスは、博報堂のフィロソフィーに沿った生活者発想の拡張を実現するという。HABITデータベースに基づき、毎年7,000人の生活者の基本プロフィール、価値観、生活行動、消費行動などの情報を生成AIに読み込ませ、匿名化されたセキュアな環境下でバーチャル生活者を再現する。
+
+バーチャル生活者との対話を通じて、忖度なくリアルな意見やニーズを聞き出し、マーケティング、商品開発、組織づくり、アイディエーション、ワークショップなど多岐にわたる領域での活用を想定している。また、インサイトやペルソナの把握、カスタマージャーニーの理解、制約なしのユーザーインタビューなど、生成AIの可能性を最大限に引き出すUI/UXデザインにも注力したとのこと。
+
+同社は、サービス開発やUXデザインに特化したhakuhodo DXD、データサイエンススキルを持つData Science Boutique、外部パートナーとしてMicrosoft AI Co-Innovation Labや株式会社Laboro.AIと連携し、このサービスを実現した。今後、社内での試験的な利活用とブラッシュアップを経て、対外的なサービス展開も視野に入れているという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 04 Apr 2024 07:34:08 +0000</pubDate></item><item><title>ChatGPTが情報源のリンク提供を強化、有料プランでのみ利用可能に</title><link>https://ledge.ai/articles/openai_is_making_links_more_prominent</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 OpenAIは2024年3月29日、ChatGPTのウェブブラウジング機能をアップデートし、有料プランのユーザーに対して情報源への直接リンクを提供する新機能を{target=“_blank”}した。これにより、ユーザーはChatGPTが提供する回答の背景情報をより容易に確認できるようになる。
@@ -312,37 +340,7 @@ PKSHAは「人とソフトウェアの共進化」というビジョンのもと
 
 :::button
 {target=“_blank”}
-:::</description><pubDate>Thu, 28 Mar 2024 10:12:04 +0000</pubDate></item><item><title>完全自動運転EVスタートアップのチューリングとS.RIDE、自動運転領域での協業を開始　タクシー走行データを活用</title><link>https://ledge.ai/articles/turing_sride_cooperation_in_the_area_of_automated_driving</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-チューリング は2024年3月21日、タクシーアプリ「S.RIDE®（エスライド）」を運営するS.RIDE株式会社および大和自動車交通との間で、自動運転AI開発のための協業を開始したことを{target=“_blank”}した。
-
-同協業の第一弾として、2024年1月から2月にかけて、大和自動車交通が運行するタクシー車両にが開発したデータ収集キットを設置し、実際の運行業務と並行して公道走行データの収集を行った。このデータは、完全自動運転の実現に向けた基盤モデル開発に利用される予定である。
-
-チューリングは「完全自動運転に向けたマルチモーダル基盤モデルの開発」を目指しており、2月には経済産業省の「ポスト5G情報通信システム基盤強化研究開発事業」の事業者として採択された。生成AI基盤の開発事業者として、Googleクラウドの計算資源を無償で利用できるよう支援を受けている。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-チューリング はこれまで、自社単独によるデータ収集活動を通じて、累計10,000時間分の走行データベースを構築してきた。しかし、実用性・安全性の高い自動運転の実現には、さらなるデータ量の増加と多様性が求められる。そこで、S.RIDEとの協業を通じ、時間帯や気象条件、住宅街等の複雑な道路環境や地域特性を含む様々なデータを効率的に収集し、E2E（End-to-End）の自動運転モデル開発を加速する計画だ。
-
-また、S.RIDEは自動運転技術開発に向けた「モビリティデータサービス」を事業化する予定であり、首都圏を中心に実走行しているタクシー車両から、大規模かつ長時間の走行データを収集することが可能になる。このサービスは、自動運転社会の早期実現に向けた機能・事業開発に取り組むパートナー企業を支援することを目的としている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 28 Mar 2024 06:58:54 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+:::</description><pubDate>Thu, 28 Mar 2024 10:12:04 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
