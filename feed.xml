@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Apr 2024 07:34:08 +0000</lastBuildDate><item><title>博報堂が7,000タイプの「バーチャル生活者」を生成　生活者の声を聴けるAIサービスプロトタイプを開発</title><link>https://ledge.ai/articles/hakuhodo_generates_7000types_of_virtual_consumer</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Apr 2024 12:49:49 +0000</lastBuildDate><item><title>OpenAI、GPT収益化のパイロット プログラムを米国でついに開始！</title><link>https://ledge.ai/articles/openai_launches_pilot_program_for_gpt_monetizations</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+OpenAIは2024年3月28日、米国のビルダーを対象にGPT収益化パイロットプログラムの開始を{target=“_blank”}した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+このプログラムは、GPTを用いたアプリケーションの開発者がその人気に応じて報酬を得られるようにするもの。開発者の創造性とアプリケーションの影響力に応じた報酬の提供により、AI技術のイノベーション促進を目指す。
+
+OpenAIは、この試みがAIコミュニティ内で新たなアイデアを刺激し、より多くのクリエイターがGPT技術を用いたアプリケーションの開発に取り組む動機付けをするという。
+
+参加を希望するビルダーは、OpenAIにコンタクトを取り、プログラムへの参加条件や潜在的な収益についての詳細を確認する必要がある。現段階では、このパイロットプログラムはアメリカ在住のビルダーに限定されているが、その成果に基づき、将来的にはより広範な対象へと展開される可能性がある。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 04 Apr 2024 12:49:49 +0000</pubDate></item><item><title>博報堂が7,000タイプの「バーチャル生活者」を生成　生活者の声を聴けるAIサービスプロトタイプを開発</title><link>https://ledge.ai/articles/hakuhodo_generates_7000types_of_virtual_consumer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -35,6 +66,8 @@ OpenAIは2024年3月29日、ChatGPTのウェブブラウジング機能をアッ
 同社は「X」において、ChatGPTがインターネットから収集したコンテンツを表示する際に、リンクを「もっと目立たせる」ことによって、ユーザーへの回答に関する背景情報の提供を強化すると述べている。新機能には、ソースのサイト名を括弧に入れて表示し、クリック可能なリンクを含めることで、直接ソースにアクセスできるようにするものが含まれる。
 
 !
+
+:::small
 画像：{target=“_blank”}
 :::
 
@@ -313,34 +346,7 @@ PKSHAは「人とソフトウェアの共進化」というビジョンのもと
 
 :::
 
-</description><pubDate>Sun, 31 Mar 2024 12:30:01 +0000</pubDate></item><item><title>Ledge.ai主催 “ノーコードの本質的価値と可能性を考える” ノーコードシンポジウム2024 開催レポート</title><link>https://ledge.ai/articles/nocodesymposium2024-report</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI特化型ウェブメディア「Ledge.ai」を運営する株式会社レッジは、2024年3月15日（金）に東京・六本木のベルサール六本木にて、ノーコードシンポジウム2024を開催した。
-
-同イベントは会場のほか、YouTubeLIVEによるリアルタイム配信も行い、オフラインとオンラインのハイブリッド形式で開催した。
-
-企業による出展ブースと、ゲストらによる講演（2会場）を主なコンテンツとし、最後は出展企業と参加者の現地参加者全員での交流会を行った。
-
-多数の要望を受け、講演ブースのアーカイブ配信を約1ヶ月間の期間限定で決定。以下のリンクから進むと視聴URLを入手可能となる。当日参加がかなわなかった方はぜひ録画をご視聴いただきたい。
-
-:::button
-{target=“_blank”}
-:::
-
-## 平井卓也氏の応援メッセージにて開幕
-講演は、自民党デジタル社会推進本部長の平井卓也氏からの応援メッセージで開幕。
-ノーコードは生産性向上や新しいビジネス価値の創出において強力なツールであると強調し、ノーコード技術の活用や進化に期待を寄せるメッセージを聴講者へ伝えた。
-!
-
-その後、基調講演として、株式会社レッジ代表取締役社長 小瀧 健太のモデレートにて、アステリア株式会社CXO (最高変革責任者)でノーコード推進協会 代表理事を務める中山五輪男氏、サイボウズ株式会社 代表取締役社長でノーコード推進協会 副代表理事の青野 慶久氏、同じく協会の副代表理事で総務省 地域情報化支援アドバイザーや内閣官房 シェアリングエコノミー伝道師など数々の肩書を持つ森戸 裕一氏（ナレッジネットワーク株式会社代表取締役）らによるトークを展開。
-
-!
-
- “ノーコードの本質的価値と可能性を考える”の開催テーマの下、各登壇者による様々な見解が述べられた。登壇者は以下の通り。それぞれの講演内容の詳細はぜひアーカイブ動画でチェックしていただきたい。
- 
- !
-
-:::button
-{target=“_blank”}
-:::</description><pubDate>Thu, 28 Mar 2024 10:12:04 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sun, 31 Mar 2024 12:30:01 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
