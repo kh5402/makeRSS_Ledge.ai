@@ -1,55 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Apr 2024 13:41:28 +0000</lastBuildDate><item><title>中国が世界のAIトップ研究者の半数を輩出していることが明らかに　米シンクタンクのグローバルAIタレントトラッカー2.0の最新調査</title><link>https://ledge.ai/articles/macropolo_the_global_ai_talent_tracker2023</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月6日、シカゴ - ポールソン研究所のシンクタンクであるMacroPoloは、グローバルAIタレントトラッカー2.0の最新版を{target=“_blank”}し、AI分野でトップレベルの研究者たちの動きや集中地域に関する洞察を提供した。
-
-「トップレベル」の判断には、Neural Information Processing Systems カンファレンス (NeurIPS) で承認された論文著者のデータ サンプルが用いられている。NeurIPSは、AIカンファレンスの中でも特に高い評価を受けており、ニューラルネットワークとディープラーニングの理論的進歩に特に焦点を当てた研究が多く発表されている。その選択性と人気はAI分野の進歩を示す重要な指標となっており、2019年以降、投稿論文数は2倍に増加しているものの、論文採択率は2019年は21.6％、2022年は約25％と低く、難易度の高い学会とされている。
-
-2023年の最新調査によると、AI研究で世界の上位20％に位置するトップ研究者のほぼ半数が中国出身であることが明らかになった。中国は、AI分野でのトップ研究者の育成とその活躍の場への貢献で、アメリカや他の西洋諸国に匹敵、あるいはそれを上回る速度で成長しているという。
-
-### トップレベルの AI 研究者の出身国 (学位に基づく上位20%)
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-グローバルAIタレントトラッカー2.0のアップデートによると、2019年の調査と比較して、米国は依然としてトップレベルのAI人材の主要な就職先であり、米国と中国出身の研究者がトップレベルのAI人材の75%を占めている。
-
-### 米国の機関で働くトップレベルAI 研究者の主要出身国
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-中国は、成長する自国のAI産業の需要に応えるために国内のAI人材プールを拡大しており、より多くの中国人人材が国内産業で働くようになっている。そして、インドもまた、一流のAI研究者の重要な輸出国であると同時に、人材を国内に留める能力が高まっているという。
-
-2022年には、インドのAI研究者の5分の1がインド内で働くことを選択しており、トップレベルのAI研究者の全体的な機動性が低下している傾向が見られるとのこと。これは、より多くのトップレベルの人材が母国に留まることを選んでいることを示しており、グローバルなAI人材の流れに変化の兆しが表れている。
-
-### トップレベルのAI研究者が出身国で働く割合の変化
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### トップレベルの AI 研究者 (上位 ~20%) が勤務する主要国
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 05 Apr 2024 13:41:28 +0000</pubDate></item><item><title>ポケトーク、AIが使用言語を自動判別する「ポケトーク ライブ通訳」双方向リアルタイム翻訳で10言語に対応</title><link>https://ledge.ai/articles/pocketalk_livetranslation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Apr 2024 13:41:28 +0000</lastBuildDate><item><title>ポケトーク、AIが使用言語を自動判別する「ポケトーク ライブ通訳」双方向リアルタイム翻訳で10言語に対応</title><link>https://ledge.ai/articles/pocketalk_livetranslation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -373,7 +323,29 @@ MLPerfテストでは、Hopper GPUは最新ラウンドのAI推論の各テス�
 :::box
 
 :::
-</description><pubDate>Mon, 01 Apr 2024 02:39:39 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 01 Apr 2024 02:39:39 +0000</pubDate></item><item><title>オルツ、AWS Marketplaceで自社開発の日本語LLM「LHTM-OPT」を公開</title><link>https://ledge.ai/articles/alts_lhtm_opt_on_aws_marketplace</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+オルツは2024年3月21日、自社開発の軽量型大規模言語モデル「LHTM-OPT」をAWS Marketplace上に日本語LLMとして世界で初めて公開し、APIサービスの提供を開始したことを{target=“_blank”}した。同社は、P.A.I.®️（パーソナル人工知能）やAIクローン技術を駆使したパーソナルAIの開発・実用化を行っている。
+
+「LHTM-OPT」は、2023年{target=“_blank”}された高精度で高速な処理能力を有する軽量型大規模言語モデル（LLM）。日本語データを豊富に含んでいるため、国内の様々なアプリケーションで活用されている。このモデルは、日本語による質問への自動応答、RAG、社内知識ベースによる回答、機械翻訳などの日本語LLMアプリケーション開発に直ちに適用可能であり、多様な実証実験（PoC）案件への応用も期待されているという。
+
+APIの提供価格は12円/1万オルツトークンとされ、市場平均よりも低価格での提供が可能。また、AWS Marketplaceにおける機械学習モデルとしての出品は、日本企業としては初の事例とのこと。
+
+オルツは、プライベートLLMの開発に関するコンサルティング、企業独自のニーズに合わせたカスタマイズ、特定の業務に特化したLLMの開発支援も行っており、日本社会における真のデジタルトランスフォーメーション（DX）実現に向けて、大規模言語モデルや生成AIを活用したサービスの開発・提供に努めている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 31 Mar 2024 12:39:01 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1720,7 +1692,57 @@ LINEヤフーは2023年10月13日、同社の開発業務に関わる全ての�
 :::
 :::box
 
-:::</description><pubDate>Sat, 21 Oct 2023 11:09:57 +0000</pubDate></item><item><title>Google Research、1枚の画像から話す人物の動画を生成するAI「VLOGGER」を発表</title><link>https://ledge.ai/articles/google_reserch_vlogger</link><description>:::small
+:::</description><pubDate>Sat, 21 Oct 2023 11:09:57 +0000</pubDate></item><item><title>中国が世界のAIトップ研究者の半数を輩出していることが明らかに　米シンクタンクのグローバルAIタレントトラッカー2.0の最新調査</title><link>https://ledge.ai/articles/macropolo_the_global_ai_talent_tracker2023</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月6日、シカゴ - ポールソン研究所のシンクタンクであるMacroPoloは、グローバルAIタレントトラッカー2.0の最新版を{target=“_blank”}し、AI分野でトップレベルの研究者たちの動きや集中地域に関する洞察を提供した。
+
+「トップレベル」の判断には、Neural Information Processing Systems カンファレンス (NeurIPS) で承認された論文著者のデータ サンプルが用いられている。NeurIPSは、AIカンファレンスの中でも特に高い評価を受けており、ニューラルネットワークとディープラーニングの理論的進歩に特に焦点を当てた研究が多く発表されている。その選択性と人気はAI分野の進歩を示す重要な指標となっており、2019年以降、投稿論文数は2倍に増加しているものの、論文採択率は2019年は21.6％、2022年は約25％と低く、難易度の高い学会とされている。
+
+2023年の最新調査によると、AI研究で世界の上位20％に位置するトップ研究者のほぼ半数が中国出身であることが明らかになった。中国は、AI分野でのトップ研究者の育成とその活躍の場への貢献で、アメリカや他の西洋諸国に匹敵、あるいはそれを上回る速度で成長しているという。
+
+### トップレベルの AI 研究者の出身国 (学位に基づく上位20%)
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+グローバルAIタレントトラッカー2.0のアップデートによると、2019年の調査と比較して、米国は依然としてトップレベルのAI人材の主要な就職先であり、米国と中国出身の研究者がトップレベルのAI人材の75%を占めている。
+
+### 米国の機関で働くトップレベルAI 研究者の主要出身国
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+中国は、成長する自国のAI産業の需要に応えるために国内のAI人材プールを拡大しており、より多くの中国人人材が国内産業で働くようになっている。そして、インドもまた、一流のAI研究者の重要な輸出国であると同時に、人材を国内に留める能力が高まっているという。
+
+2022年には、インドのAI研究者の5分の1がインド内で働くことを選択しており、トップレベルのAI研究者の全体的な機動性が低下している傾向が見られるとのこと。これは、より多くのトップレベルの人材が母国に留まることを選んでいることを示しており、グローバルなAI人材の流れに変化の兆しが表れている。
+
+### トップレベルのAI研究者が出身国で働く割合の変化
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+### トップレベルの AI 研究者 (上位 ~20%) が勤務する主要国
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 05 Apr 2024 13:41:28 +0000</pubDate></item><item><title>Google Research、1枚の画像から話す人物の動画を生成するAI「VLOGGER」を発表</title><link>https://ledge.ai/articles/google_reserch_vlogger</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2152,35 +2174,7 @@ Embedding Projection Layerとは、トランスフォーマーベースの言語
 :::box
 
 :::
-</description><pubDate>Tue, 19 Mar 2024 07:43:58 +0000</pubDate></item><item><title>ヒト型ロボ「Figure01」にOpenAIの言語能力が備わり「完全に人と会話」「論理的に判断」</title><link>https://ledge.ai/articles/figure01_openai_can_now_have_full_conversations_with_people</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-With OpenAI, Figure 01 can now have full conversations with people
-「OpenAIによって、Figure01は完全に人と会話できるようになった」
-
-2024年3月13日、AIロボティクスの新興起業である米国Figureは、同社の開発するヒト型ロボット「Figure01」に、OpenAIの高度な視覚及び言語能力を組み込んだことをX（旧Twitter）で明らかにし、デモ動画を{target=“_blank”}した。
-
-動画は、Figure 01が自然言語で会話を行い、目の前にある物体を認識してリンゴを手渡す様子を披露した。このデモは、ロボットがどのようにして視覚情報を処理し、論理的な判断を下す能力を持っているかを示すものだ。
-
-@
-
-
-2月29日に、NVIDIAなどの大手テック企業から6億7500万ドルの資金調達を得たと発表したFigureは、同じ日に{target=“_blank”}も発表している。同社のロボットが人と対話し、物を見たり、物理的なタスクを実行するためのAIモデルの開発が加速されるとFigureのCEOであるBrett Adcock氏は述べた。
-
-これらのAIモデルは、OpenAIの最新のGPTモデルに基づいて開発され、Figureが収集したロボティクスアクションデータに特化して訓練されている。OpenAIのモデルは、Figure 01に高レベルの視覚及び言語知能を提供し、Figureのニューラルネットワーク技術は、迅速かつ緻密なロボットアクションを実現する。この組み合わせにより、人間との自然なコミュニケーションや複雑なタスクの実行が期待できるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 16 Mar 2024 05:13:44 +0000</pubDate></item><item><title>米バイデン政権　連邦政府機関のAI利用の包括的指針を発表　AI利用のリスクから国民を保護する措置を義務付け</title><link>https://ledge.ai/articles/omb_policy_in_federal_agencies_use_of_ai</link><description>:::small
+</description><pubDate>Tue, 19 Mar 2024 07:43:58 +0000</pubDate></item><item><title>米バイデン政権　連邦政府機関のAI利用の包括的指針を発表　AI利用のリスクから国民を保護する措置を義務付け</title><link>https://ledge.ai/articles/omb_policy_in_federal_agencies_use_of_ai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
