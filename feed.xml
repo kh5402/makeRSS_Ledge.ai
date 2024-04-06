@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Apr 2024 12:49:49 +0000</lastBuildDate><item><title>OpenAI、GPT収益化のパイロット プログラムを米国でついに開始！</title><link>https://ledge.ai/articles/openai_launches_pilot_program_for_gpt_monetizations</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Apr 2024 13:01:33 +0000</lastBuildDate><item><title>ポケトーク、AIが使用言語を自動判別する「ポケトーク ライブ通訳」双方向リアルタイム翻訳で10言語に対応</title><link>https://ledge.ai/articles/pocketalk_livetranslation</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ポケトーク株式会社は2024年3月25日、同社のAI通訳サービス「ポケトーク for BUSINESS 同時通訳」に双方向コミュニケーション機能を追加し、サービス名を「ポケトーク ライブ通訳」に変更したことを{target=“_blank”}した。
+
+新機能は、ユーザーが選択した2つの言語間での双方向コミュニケーションを可能にするもので、自動音声認識AIにより使用言語を判別し、リアルタイムで相互翻訳を行う。
+
+@
+
+
+
+
+この機能の導入により、英語、日本語、韓国語、中国語、スペイン語、ドイツ語、フランス語、イタリア語、ポルトガル語、ロシア語の10言語間での双方向通訳が可能となった。この進化は、オンライン会議はもちろん、対面での国際的なコミュニケーションの場でも大きな効果を発揮する。
+
+ポケトークはこれまでにも、言語の壁をなくし、異なる言語を話す人々が自国語のままで深く理解し合える世界を目指してきた。今回の新機能追加により、「ポケトーク ライブ通訳」は、ビジネスシーンにおける多言語対応のニーズに応えるとともに、グローバルコミュニケーションの新たな標準を設定する。
+
+この機能は、日本国内だけでなく、米国や欧州などグローバル市場で同時にリリースされ、特にビジネスシーンでの多言語対応の重要性が高まる中、ポケトークの新機能は、世界中のコミュニケーションの壁を低減することに貢献していくと見られている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 05 Apr 2024 13:01:33 +0000</pubDate></item><item><title>OpenAI、GPT収益化のパイロット プログラムを米国でついに開始！</title><link>https://ledge.ai/articles/openai_launches_pilot_program_for_gpt_monetizations</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -316,37 +345,7 @@ APIの提供価格は12円/1万オルツトークンとされ、市場平均よ�
 :::box
 
 :::
-</description><pubDate>Sun, 31 Mar 2024 12:39:01 +0000</pubDate></item><item><title>PKSHAが日英対応LLM開発、Transformerの後継候補の「RetNet」を活用　日本マイクロソフト協力</title><link>https://ledge.ai/articles/pksha_llm_rertnet</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-PKSHA Technologyは2024年3月28日、日本マイクロソフトの技術支援を受けて「Retentive Network（RetNet）」を活用した新たな日英大規模言語モデル（LLM）を開発したと{target=“_blank”}した。このLLMは、即時コミュニケーションに強く、従来のモデルより約3倍の速度で回答を生成することが可能だという。
-
-同社がこの度開発したLLMは、Microsoftの開発した技術「RetNet」による初の日英対応モデルで、既存の「Transformer」ベースのモデルに比べ、学習速度や長文入力時の推論速度、メモリ効率が大幅に向上しているという。これにより、高度な長文理解と迅速な回答生成を実現している。
-
-モデルは、70億パラメータを持ち、コンタクトセンターや社内ヘルプデスクでの利用に適した出力精度と運用コストのバランスを実現している。また、Microsoft Corporationによる深層学習フレームワーク「DeepSpeed」の採用により、高い並列分散処理能力を発揮し、効率的な学習が可能だという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-LLMの実装用途には、コンタクトセンターや社内ヘルプデスク業務の刷新が挙げられる。顧客満足度の向上や、従業員の問合せ対応の効率化など、ビジネス現場における即時性と精度の要求に応える形での活用が期待される。
-
-PKSHAは「人とソフトウェアの共進化」というビジョンのもと、ビジネスシーンにおける生成AIの実用性の向上を目指す。この技術により、コンタクトセンターや社内ヘルプデスクなどの生産性向上を支援することを目指しており、2024年4月から段階的な展開を計画。日本マイクロソフトは、このプロジェクトに期待し、実現に向けた取り組みを全力でサポートする姿勢を示している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sun, 31 Mar 2024 12:30:01 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sun, 31 Mar 2024 12:39:01 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
