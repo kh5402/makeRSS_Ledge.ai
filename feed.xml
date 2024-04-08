@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Apr 2024 12:29:42 +0000</lastBuildDate><item><title>ポケトーク、AIが使用言語を自動判別する「ポケトーク ライブ通訳」双方向リアルタイム翻訳で10言語に対応</title><link>https://ledge.ai/articles/pocketalk_livetranslation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 07 Apr 2024 14:08:07 +0000</lastBuildDate><item><title> OpenAI、東京にアジア初のオフィス開設へ ― 日本市場への本格進出</title><link>https://ledge.ai/articles/openai_opens_tokyo_office</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年4月1日、OpenAIはアジア市場における展開を加速させるため、東京に新たなオフィスを設立する計画であることが各メディアの報道により明らかになった。これにより、OpenAIはロンドン、ダブリンに続き、世界で3番目の国際オフィスを日本に構えることになる​​。
+
+同社は、AI技術の日本語によるサービス展開を進めると同時に、企業向けのカスタマイズサービスを提供し、AI技術のガバナンスフレームワークの開発に参画する予定だ。CEOのSam Altman氏は、2023年に岸田文雄首相と会談し、{target=“_blank”}。日本政府がAI技術の導入に積極的であることや、すでに{target=“_blank”}や{target=“_blank”}
+などの行政機関がChatGPTの利用を開始していることが、この決定に影響を与えたとみられている。​ 
+
+東京オフィスの職務執行役には、アマゾン・ウェブ・サービス（AWS）の日本法人で長年社長を務めた長崎忠雄氏が就任。OpenAIの東京進出は、日本市場のニーズに応え、国際的なステークホルダーとの関係を強化し、グローバルな規模でAIイノベーションを促進する同社の戦略の一環だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Sun, 07 Apr 2024 14:08:07 +0000</pubDate></item><item><title>ポケトーク、AIが使用言語を自動判別する「ポケトーク ライブ通訳」双方向リアルタイム翻訳で10言語に対応</title><link>https://ledge.ai/articles/pocketalk_livetranslation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -323,29 +345,7 @@ MLPerfテストでは、Hopper GPUは最新ラウンドのAI推論の各テス�
 :::box
 
 :::
-</description><pubDate>Mon, 01 Apr 2024 02:39:39 +0000</pubDate></item><item><title>オルツ、AWS Marketplaceで自社開発の日本語LLM「LHTM-OPT」を公開</title><link>https://ledge.ai/articles/alts_lhtm_opt_on_aws_marketplace</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-オルツは2024年3月21日、自社開発の軽量型大規模言語モデル「LHTM-OPT」をAWS Marketplace上に日本語LLMとして世界で初めて公開し、APIサービスの提供を開始したことを{target=“_blank”}した。同社は、P.A.I.®️（パーソナル人工知能）やAIクローン技術を駆使したパーソナルAIの開発・実用化を行っている。
-
-「LHTM-OPT」は、2023年{target=“_blank”}された高精度で高速な処理能力を有する軽量型大規模言語モデル（LLM）。日本語データを豊富に含んでいるため、国内の様々なアプリケーションで活用されている。このモデルは、日本語による質問への自動応答、RAG、社内知識ベースによる回答、機械翻訳などの日本語LLMアプリケーション開発に直ちに適用可能であり、多様な実証実験（PoC）案件への応用も期待されているという。
-
-APIの提供価格は12円/1万オルツトークンとされ、市場平均よりも低価格での提供が可能。また、AWS Marketplaceにおける機械学習モデルとしての出品は、日本企業としては初の事例とのこと。
-
-オルツは、プライベートLLMの開発に関するコンサルティング、企業独自のニーズに合わせたカスタマイズ、特定の業務に特化したLLMの開発支援も行っており、日本社会における真のデジタルトランスフォーメーション（DX）実現に向けて、大規模言語モデルや生成AIを活用したサービスの開発・提供に努めている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 31 Mar 2024 12:39:01 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 01 Apr 2024 02:39:39 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
