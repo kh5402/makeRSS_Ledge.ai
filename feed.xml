@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 07 Apr 2024 15:43:07 +0000</lastBuildDate><item><title>2025年度には69％の企業が生成AIを「全社で本格的に利用する」と回答--MM総研2024調査</title><link>https://ledge.ai/articles/mmri2024_llm-genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Apr 2024 04:06:59 +0000</lastBuildDate><item><title>「桜ドローンプロジェクト」5年目の挑戦　富士山をテーマに日本の桜をオリジナル開発の4K FPVドローンが鳥の目線で捉える</title><link>https://ledge.ai/articles/sakura_drone_project</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月28日、株式会社ドローンエンタテインメントは、今年で5年目を迎える「桜ドローンプロジェクト」の最新テーマとして「富士山と桜」を選出したことを{target=“_blank”}した。このプロジェクトは、オリジナル開発の4K FPVドローンを用いて、日本全国の桜名所を撮影し、その美しさを映像で伝えることを目的としている。
+
+@
+桜ドローンプロジェクト2023より「瀬戸内の桜」
+
+
+
+
+2020年の発足以来、同社はこれまで47都道府県150箇所以上の桜名所を撮影。観光庁や在外公館、TVメディア、一般企業など、多くの団体と協力し、桜の映像提供を行ってきた。今年の重点撮影エリアは、古来から日本を象徴する富士山周辺域に設定されている。
+
+プロジェクトでは、自社で開発した特別なFPVドローンを使用。このドローンにより、鳥や蜂の視点での撮影が可能となり、富士山と桜が織り成す日本の美を新たな角度から捉えるという。プロジェクトメンバーは初年度の5人から現在に至るまで増員され、各地での長期滞在を通じて撮影を実施している。
+
+桜の映像は、テレビや観光映像だけでなく、病院や大使館など、桜を直接見ることができない人々への提供も行っており、原則有償での提供だが、協力自治体や非商用利用の場合は無償で提供される。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Mon, 08 Apr 2024 04:06:59 +0000</pubDate></item><item><title>2025年度には69％の企業が生成AIを「全社で本格的に利用する」と回答--MM総研2024調査</title><link>https://ledge.ai/articles/mmri2024_llm-genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -335,39 +363,7 @@ Googleは、「2024年に何が待ち受けているかはわかりませんが�
 :::
 
 
-</description><pubDate>Mon, 01 Apr 2024 08:05:00 +0000</pubDate></item><item><title>NVIDIA、新GPU「H200」出荷開始を発表　生成AIやLLMの高速化</title><link>https://ledge.ai/articles/nvidia_h200_to_be_shipping</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAは2024年3月27日、最先端半導体「H200 GPU」の顧客向けサンプリングを開始し、第2四半期より出荷を開始することを{target=“_blank”}した。この新GPUは、近く20社を超える主要システムビルダーやクラウドサービスプロバイダから入手可能になる予定だ。
-
-H200は、{target=“_blank”}された同社のサーバー向け最新のGPUで、「NVIDIA Hopper」アーキテクチャを使用し、生成AIやLLMなどの高度なタスクを処理するハイパフォーマンスコンピューティング（HPC）を強化するという。
-
-この日、業界標準のMLPerfベンチマークにおいて、世界最速のプラットフォームとして認定されたという。同社が開発したTensorRT-LLMソフトウェアは、大規模言語モデル（LLM）の推論処理を高速化し、簡素化することが可能で、NVIDIA HopperアーキテクチャのGPUの性能を約3倍に引き上げるとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-H200は、HBM3eメモリを141GB搭載し、4.8TB/sの速度で動作する。これは、前世代のH100 GPUに比べてメモリ容量が76%増加し、43%速くなっている。これらのアクセラレータは、H100 GPUと同じボードやシステムに接続可能で、同じソフトウェアを使用する。
-
-HBM3eメモリを搭載することにより、単一のH200 GPUで最高のスループットを実現しながら、Llama 2 70Bモデル全体を実行でき、推論処理を簡素化し、加速するという。
-
-さらにNVIDIA GH200 Superchipsでは、HopperアーキテクチャのGPUと省電力NVIDIA Grace CPUを一つのモジュールに組み合わせ、最大624GBの高速メモリ（そのうち144GBをHBM3eが占める）という、より多くのメモリを搭載している。NVIDIAのアクセラレータは、HBM3eメモリ技術を使用する初めての製品だ。
-
-MLPerfテストでは、Hopper GPUは最新ラウンドのAI推論の各テストで圧倒的な結果を示した。これらのベンチマークは、生成AI、推薦システム、自然言語処理、音声認識、コンピュータビジョンなど、現在最も人気のあるAIワークロードとシナリオをカバーしているという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 01 Apr 2024 07:56:31 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 01 Apr 2024 08:05:00 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
