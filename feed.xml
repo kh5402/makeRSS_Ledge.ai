@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 07 Apr 2024 14:08:07 +0000</lastBuildDate><item><title> OpenAI、東京にアジア初のオフィス開設へ ― 日本市場への本格進出</title><link>https://ledge.ai/articles/openai_opens_tokyo_office</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 07 Apr 2024 15:43:07 +0000</lastBuildDate><item><title>2025年度には69％の企業が生成AIを「全社で本格的に利用する」と回答--MM総研2024調査</title><link>https://ledge.ai/articles/mmri2024_llm-genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ICT市場調査コンサルティング企業のMM総研は2024年3月25日、国内企業1,599社を対象に実施した「生成AI／LLMの国内利活用動向調査2024」の結果を{target=“_blank”}した。
+
+
+
+この調査は、企業における言語系生成AIや大規模言語モデル（LLM）の利用状況を明らかにすることを目的としており、2024年3月時点でのデータに基づく。
+
+調査結果によると、対象企業の19％が言語系の生成AIを導入しており、このうち本格導入は6％にとどまる。導入準備中や検討中の企業は24％に上り、2024年度には導入が加速する見込みである。導入パターンでは「Webブラウザ経由で生成AIサービスを利用」が60％で最も多く、次いでAPIを利用するケースが44％となった。
+
+## 生成AIの導入状況
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+導入企業は、今後2年で生成AIの活用を拡大する方針であることが明らかになり、2025年度には69％の企業が「全社で本格的に利用する」と回答している。導入の目的は主に業務効率化やビジネススピードの向上であり、営業・販売、情報処理・情報システム関連、マーケティング・調査が利用業務の上位に挙がっている。
+## 生成AI利用の現状と今後の方針
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+一方で、導入企業の97％が何らかの課題を感じており、特に「AIやデジタルの高度な知識・技術を持つ人材の不足」と「セキュリティやプライバシーの確保」が共に31％で最も多く挙げられた。
+## 生成AIを導入する上での課題
+!
+
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+国産LLMに対する期待は高く、72％の企業が期待を寄せており、特にNTTの「tsuzumi」への期待が高い。期待理由としては、「日本語や専門用語への対応」や「費用の削減」、「サポートの充実」などが挙げられた。
+
+
+■調査概要
+調査対象・件数：国内企業1,599社
+調査方法：Webアンケート
+調査期間：2024年3月18～22日
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 07 Apr 2024 15:43:07 +0000</pubDate></item><item><title> OpenAI、東京にアジア初のオフィス開設へ ― 日本市場への本格進出</title><link>https://ledge.ai/articles/openai_opens_tokyo_office</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -314,38 +367,7 @@ MLPerfテストでは、Hopper GPUは最新ラウンドのAI推論の各テス�
 
 :::
 
-</description><pubDate>Mon, 01 Apr 2024 07:56:31 +0000</pubDate></item><item><title>日立　生成AIを活用した「自分の不具合を話す機械」の実現を目指し実証実験</title><link>https://ledge.ai/articles/hitachi_jp1_cloud_service</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年2月1日から3月29日まで、日立製作所は、統合システム運用管理「JP1 Cloud Service」において、生成AIを活用した運用効率化及び自動化を目的とした{target=“_blank”}を行った。
-
-この実験では、ITシステムの運用監視中に発生する各種イベントへの対応を効率化するため、生成AIアシスタントを用いた新たなアプローチを試みる。
-
-日立はこのプロジェクトを通じて、システムや機械が自らの不具合や故障を説明し、対処法を提案することが可能な「話す機械」の実現を目指す。特に、熟練作業員の減少が課題となっている現場で、作業員のより迅速な問題解決の支援が目的だという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-実証実験は、開発中のJP1 Cloud Service システム管理と、生成AI環境としてAzure OpenAI Service、Amazon Bedrockを利用して行われる。この期間中、日立のマネージドサービス部門によるシステム運用業務を想定した運用マニュアルやドキュメント類、疑似的に発生させる運用イベントなどを実証のための入力データとして使用するという。
-
-日立は、実験後に生成AIアシスタントの質問応答機能を2024年4月を目標に提供予定で、障害対応支援の高度化や運用設計、運用自動化の支援などへ適用範囲の拡大を目指す。
-
-今後は、クラウドシステム運用の改善とその成熟度を向上させるため、マネージドサービス「Hitachi Application Reliability Centers（HARC）サービス」に携わるSREエンジニアと連携し、クラウド運用の自動化やコード生成などの先進的なユースケースの実用化を予定しているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 01 Apr 2024 02:39:39 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 01 Apr 2024 07:56:31 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
