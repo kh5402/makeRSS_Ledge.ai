@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Apr 2024 04:06:59 +0000</lastBuildDate><item><title>「桜ドローンプロジェクト」5年目の挑戦　富士山をテーマに日本の桜をオリジナル開発の4K FPVドローンが鳥の目線で捉える</title><link>https://ledge.ai/articles/sakura_drone_project</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Apr 2024 09:51:03 +0000</lastBuildDate><item><title>「桜ドローンプロジェクト」5年目の挑戦　富士山をテーマに日本の桜をオリジナル開発の4K FPVドローンが鳥の目線で捉える</title><link>https://ledge.ai/articles/sakura_drone_project</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2192,7 +2192,33 @@ Embedding Projection Layerとは、トランスフォーマーベースの言語
 :::box
 
 :::
-</description><pubDate>Tue, 19 Mar 2024 07:43:58 +0000</pubDate></item><item><title>米バイデン政権　連邦政府機関のAI利用の包括的指針を発表　AI利用のリスクから国民を保護する措置を義務付け</title><link>https://ledge.ai/articles/omb_policy_in_federal_agencies_use_of_ai</link><description>:::small
+</description><pubDate>Tue, 19 Mar 2024 07:43:58 +0000</pubDate></item><item><title>大阪市、全庁で生成AIの業務活用を開始 — 効率化と品質向上を目指す</title><link>https://ledge.ai/articles/osaka_city_begins_using_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+大阪市は2024年4月1日、生成AIの全庁業務活用を{target=“_blank”}した。
+
+大阪市はこれまで、民間事業者との共同検証や試行利用を通じ、生成AIの本格利用に向けた検討と取り組みを進めてきた。このたび、ガイドラインの策定と安全な利用環境の整備を経て、生成AIを業務に活用することで業務の効率化と品質の向上を図るという。
+
+生成AIの利用は、大阪市全職員（水道局及び学校園を除く）を対象に、4月1日より開始する。利用内容には、文章の要約・作成・添削、企画案のたたき台作成、翻訳などを含む。ただし、市民や事業者への直接的な行政サービス提供には使用しない。
+
+議事録や膨大な資料の内容把握、文章の練り直しや誤字脱字の確認に要していた時間の短縮、ゼロからの企画案作成の労力軽減、外国人へのより伝わりやすい翻訳の提供といった業務効率化と品質向上が期待されるという。
+
+利用環境は、Microsoft社の「Azure OpenAI Service」を基にした本市独自の環境で、利用者の入力データは保存されず、生成AIの学習データとしても再利用されない。また、様々なリスクへの対応として「大阪市生成AI利用ガイドライン」に則り利用されるとのこと。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>米バイデン政権　連邦政府機関のAI利用の包括的指針を発表　AI利用のリスクから国民を保護する措置を義務付け</title><link>https://ledge.ai/articles/omb_policy_in_federal_agencies_use_of_ai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2525,30 +2551,7 @@ JASRACは、AIによる生成物がクリエイターの著作物に対する需
 :::box
 
 :::
-</description><pubDate>Mon, 19 Feb 2024 02:57:10 +0000</pubDate></item><item><title>徳島県鳴門市がAIチャットボットを導入。イメージキャラクター「にゃるひげ」が市民の問い合わせに対応</title><link>https://ledge.ai/articles/naruto_begins_ai-chatbot_service</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-徳島県鳴門市は、市民からの問い合わせに関する利便性向上を目的として、AIを活用したチャットボットを{target=“_blank”}した。このチャットボットは、市役所の手続きや制度に関する質問に対し、AIが対話形式で回答する。利用者はパソコンやタブレット、スマートフォンから24時間いつでもアクセス可能で、鳴門市のイメージキャラクター「にゃるひげ」が質問に答える。
-
-市公式ウェブサイトやLINEアプリからもアクセスでき、外国語にも対応しているとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 15 Feb 2024 03:50:39 +0000</pubDate></item><item><title>OpenAI「Sora」をハリウッドに売り込み中か</title><link>https://ledge.ai/articles/openaii_pitches_sora_to_hollywood</link><description>:::small
+</description><pubDate>Mon, 19 Feb 2024 02:57:10 +0000</pubDate></item><item><title>OpenAI「Sora」をハリウッドに売り込み中か</title><link>https://ledge.ai/articles/openaii_pitches_sora_to_hollywood</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
