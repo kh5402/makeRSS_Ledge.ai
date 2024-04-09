@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Apr 2024 09:51:03 +0000</lastBuildDate><item><title>「桜ドローンプロジェクト」5年目の挑戦　富士山をテーマに日本の桜をオリジナル開発の4K FPVドローンが鳥の目線で捉える</title><link>https://ledge.ai/articles/sakura_drone_project</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Apr 2024 10:04:47 +0000</lastBuildDate><item><title>「桜ドローンプロジェクト」5年目の挑戦　富士山をテーマに日本の桜をオリジナル開発の4K FPVドローンが鳥の目線で捉える</title><link>https://ledge.ai/articles/sakura_drone_project</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2192,7 +2192,33 @@ Embedding Projection Layerとは、トランスフォーマーベースの言語
 :::box
 
 :::
-</description><pubDate>Tue, 19 Mar 2024 07:43:58 +0000</pubDate></item><item><title>大阪市、全庁で生成AIの業務活用を開始 — 効率化と品質向上を目指す</title><link>https://ledge.ai/articles/osaka_city_begins_using_genai</link><description>:::small
+</description><pubDate>Tue, 19 Mar 2024 07:43:58 +0000</pubDate></item><item><title>佐川急便など、レベル3.5飛行による東京都が推進するドローン宅配便配送プロジェクトを実施</title><link>https://ledge.ai/articles/sagawa_drone_parcel_delivery_project_by_tokyo</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+佐川急便は2024年3月29日、イームズロボティクス、日本気象協会、サンドラッグと共に、山間地域の利便性向上に向けたドローンレベル3.5飛行による宅配便配送の実証実験を東京都青梅市において実施したことを{target=“_blank”}した。
+
+四者は東京都が推進する「ドローン物流サービス社会実装促進事業」の支援対象として2022年7月28日に選定され、以降共同でプロジェクトを進めている。ドローンによる配送サービスの社会実装を目指し、山間地域での生活利便性の向上と持続可能な配送システムの構築が目的だという。
+
+プロジェクトでは、国土交通省により2023年12月に制度化されたドローンレベル3.5飛行を利用し、宅配便配送の実証実験を行った。青梅市の山間地域で、ドローンから受取人が直接荷物を受け取る運用や、災害時の救援物資輸送を想定した配送実験が実施された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+実証実験は2024年2月26日から3月8日にかけて平日10日間の予定で行われ、天候の影響を受けたものの、5日間は実施可能であった。期間中、イームズロボティクス社製のLAB6150を使用し、1日最大3往復6フライトを実施した。このドローンは、最大ペイロードが10kgであり、大きな荷物の輸送も可能である。
+
+東京都内で初めて実施されたこのレベルのドローン飛行による宅配便配送実験では、地域住民からの高い関心と支持を得た。実際にドローンから荷物を受け取った住民を対象にしたアンケートでは、96％の人が今後もドローン配送を利用したいと回答しており、その有効性が示されたという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 08 Apr 2024 10:04:47 +0000</pubDate></item><item><title>大阪市、全庁で生成AIの業務活用を開始 — 効率化と品質向上を目指す</title><link>https://ledge.ai/articles/osaka_city_begins_using_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2521,37 +2547,7 @@ JASRACは、AIによる生成物がクリエイターの著作物に対する需
 :::box
 
 :::
-</description><pubDate>Mon, 19 Feb 2024 06:19:36 +0000</pubDate></item><item><title>経産省　エッジAI向け半導体開発を強力支援、ラピダス参画のLSTC（最先端半導体技術センター）に450億円支援</title><link>https://ledge.ai/articles/meti_provides_45billion-yen_support_for_lstc_edgeai_semiconductor</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-経済産業省は2024年2月9日、エッジAI向けの半導体開発を強力に後押しするため、ラピダス社などを含む複数の企業及び研究機関が参画する技術研究組合「最先端半導体技術センター（LSTC）」に対し、合計450億円の支援を行うと{target=“_blank”}した。
-
-経産省は、今回の支援により、参画組織が協力し合い、エッジAI技術の実用化を加速させることを目指すとした。
-{target=“_blank”}によると、支援の対象となるプロジェクトには、エッジコンピューティング環境での効率的なデータ処理を可能にする新技術の開発が含まれるとのこと。
-
-採択された事業は以下の通り
-
-**「Beyond 2nm及び短TAT半導体製造に向けた技術開発」**
-2nm世代よりもさらに高性能な半導体の実現のため「Beyond 2nm向けデバイス・材料・プロセス要素技術および短TAT・クリーンプロセス装置技術」を国際連携も活用し開発する。この技術が実現すれば、半導体の一段の高性能化に加え、半導体製造期間の短縮が期待できる。
-
-**「2nm世代半導体技術によるエッジAIアクセラレータの開発」**
-次世代半導体設計技術として、生成AIを含むエッジ推論処理用途に専用化したエッジAIアクセラレータの開発を国際連携により推進する。エッジAIアクセラレータは少ない消費電力で高速演算処理が可能となる。Rapidus株式会社開発の最先端ロジック半導体の製造技術の有効性を最大限引き出すことを想定。
-
-経済産業省の支援策は、半導体技術が国家戦略的にも重要な位置を占める中、日本の技術力を世界水準に引き上げるためのものだ。エッジAIは、データセンターやクラウドではなく、デバイス側で直接データ処理を行う技術であり、応答時間の短縮やプライバシー保護、ネットワーク帯域の節約などの利点がある。この分野でのイノベーションは、スマートシティ、自動運転車、IoTデバイスなど、多岐にわたる応用が期待されている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 19 Feb 2024 02:57:10 +0000</pubDate></item><item><title>OpenAI「Sora」をハリウッドに売り込み中か</title><link>https://ledge.ai/articles/openaii_pitches_sora_to_hollywood</link><description>:::small
+</description><pubDate>Mon, 19 Feb 2024 06:19:36 +0000</pubDate></item><item><title>OpenAI「Sora」をハリウッドに売り込み中か</title><link>https://ledge.ai/articles/openaii_pitches_sora_to_hollywood</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
