@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Apr 2024 10:04:47 +0000</lastBuildDate><item><title>「桜ドローンプロジェクト」5年目の挑戦　富士山をテーマに日本の桜をオリジナル開発の4K FPVドローンが鳥の目線で捉える</title><link>https://ledge.ai/articles/sakura_drone_project</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Apr 2024 18:11:37 +0000</lastBuildDate><item><title>OpenAIが音声合成AI「Voice Engine」を発表。世界中の人々の理解が重要「現時点での一般公開はしない」</title><link>https://ledge.ai/articles/openai_voice_engine</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年3月28日、テキスト入力とわずか15秒の音声サンプルから、オリジナルの話者に近い自然な音声を生成するAIモデル「Voice Engine」を{target=“_blank”}した。これは、2022年に開発が始まり、すでにText-to-Speech APIや、ChatGPTのVoice や Read Aloud機能に活用されている技術だという。
+
+OpenAIは、早期よりこのVoice Engineを導入している企業として、AI ビジュアル ストーリーテリング プラットフォームの「HeyGen」を紹介している。HeyGenは、製品マーケティングやセールスデモ用のカスタム化された人間のようなアバターを企業顧客向けに提供しており、Voice Engineをビデオ翻訳に使用することで、複数の言語におけるグローバルな聴衆へのリーチを可能にしている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このほかVoice Engine の使用例として、地域の医療従事者のためのスキル開発を多言語・対話的に行う事例や、血管性脳腫瘍により流暢な発話を失った若い患者の声を復元するプロジェクトなどを紹介。現在、Voice Engineは約10の開発者グループに限定して提供されており、医療やアクセシビリティなどの社会的に有益な用途に注力している。
+
+しかし、合成音声技術は、ディープフェイク詐欺などの潜在的なリスクも抱えており、OpenAIは音声エンジンの安全な構築を模索していることを強調した。たとえば米国の選挙では、1月、バイデン大統領を模したロボコールが、州の大統領予備選で投票しないよう促していたことが報じられた。また2月には香港の多国籍企業がディープフェイク動画を用いた詐欺により約2億香港ドルの損失を被ったことが明らかになっている。
+
+同社は、現在Voice Engineの技術をプレビューはしているが、一般にはまだ公開しないと明言している。
+
+最終的に自社で広く導入するかどうかにかかわらず、世界中の人々がこのテクノロジーがどこに向かっているのかを理解することが重要で、そのために以下のようなステップを推奨し、合成音声の課題と機会について、政策立案者、研究者、開発者、クリエイターと引き続き対話する意向を表明した。
+
+・銀行口座やその他の機密情報にアクセスするためのセキュリティ対策として音声ベースの認証を段階的に廃止
+・AI における個人の声の使用を保護するポリシーを検討する
+・欺瞞的な AI コンテンツの可能性を含む、AI テクノロジーの機能と限界について一般大衆を教育する
+・オーディオビジュアル コンテンツの出所を追跡する技術の開発と導入を加速し、本物の人間と対話しているのか、AI と対話しているのかを常に明確にする
+
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 08 Apr 2024 18:11:37 +0000</pubDate></item><item><title>「桜ドローンプロジェクト」5年目の挑戦　富士山をテーマに日本の桜をオリジナル開発の4K FPVドローンが鳥の目線で捉える</title><link>https://ledge.ai/articles/sakura_drone_project</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -339,31 +381,7 @@ Amazonのこの追加投資は、同社のAWSプラットフォームを介し�
 :::box
 
 :::
-</description><pubDate>Tue, 02 Apr 2024 09:13:41 +0000</pubDate></item><item><title>Google、2023年に55億件の不適切広告を削除　「Gemini」が検知強化に貢献</title><link>https://ledge.ai/articles/google_gemini_helped_remove_inappropriate_ads</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Googleは2024年3月27日、2023年度のインターネット広告安全性報告を公表し、同年に55億件以上の不適切広告と1270万件以上の広告主アカウントをポリシー違反でブロックまたは削除したことを{target=“_blank”}した。
-
-この数値は前年と比較して6%の増加を示し、インターネット上の安全な環境を守るためのGoogleの取り組みが一層強化されていることを示唆している。
-
-不適切な広告の検出と削除に、同社の生成AI「Gemini」を活用したとのこと。Geminiは、金融詐欺広告を含む様々な不適切なコンテンツを迅速に識別し、対処する能力を有している。この技術により、広告の安全性の確保と悪意あるコンテンツの拡散防止が、より効率的に実施されたという。
-
-Googleは、「2024年に何が待ち受けているかはわかりませんが、ポリシー・検出・施行に注力することで、この先のあらゆる課題に備えることができると私たちは確信しています」と述べ、引き続きインターネットの安全性向上に向けた取り組みを強化していく姿勢を明確にしている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Mon, 01 Apr 2024 08:05:00 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 02 Apr 2024 09:13:41 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
