@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Apr 2024 14:43:18 +0000</lastBuildDate><item><title>サイバーエージェントが「画像生成AI利用ガイドライン」を社内クリエイターに向けて策定</title><link>https://ledge.ai/articles/cyberagent_guideline_for_image_generating_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Apr 2024 14:46:35 +0000</lastBuildDate><item><title>サイバーエージェントが「画像生成AI利用ガイドライン」を社内クリエイターに向けて策定</title><link>https://ledge.ai/articles/cyberagent_guideline_for_image_generating_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2565,7 +2565,43 @@ JASRACは、AIによる生成物がクリエイターの著作物に対する需
 :::box
 
 :::
-</description><pubDate>Mon, 19 Feb 2024 06:19:36 +0000</pubDate></item><item><title>OpenAI「Sora」をハリウッドに売り込み中か</title><link>https://ledge.ai/articles/openaii_pitches_sora_to_hollywood</link><description>:::small
+</description><pubDate>Mon, 19 Feb 2024 06:19:36 +0000</pubDate></item><item><title>Stability AI　音楽生成AI「Stable Audio 2.0」にバージョンアップ　最大3分間の高品質なフルトラックを生成　Audio-to-Audio機能も</title><link>https://ledge.ai/articles/stable_audio_2-0</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stability AIは2024年4月3日、オーディオ生成AI「Stable Audio 2.0」を{target=“_blank”}した。新しいモデルは、44.1KHzステレオで最大3分間の高品質なフルトラックを生成可能。ユーザーは自然言語のプロンプトを使用してオーディオサンプルをアップロードし、これを様々なサウンドに変換できる。
+
+@
+
+
+
+{target=“_blank”}との大きな違いは、特にオーディオからオーディオへの生成機能を導入した点にある。これにより、アーティストやミュージシャンは自らのオーディオサンプルをアップロードし、自然言語によるプロンプトを通じて変換することが可能となった。さらに、このモデルはイントロ、展開、アウトロを含む構造化されたコンポジションを含む楽曲を生成できるという。Stable Audio では45秒だった曲の長さも、2.0になり最長で3分間まで生成できる。
+
+現在、{target=“_blank”}で無料で利用でき、将来的にはStable Audio APIでも利用可能となる。
+
+### Audio-to-Audio Feature Demo
+@
+
+
+1.0モデルと同様、2.0は音楽、効果音、シングルインストゥルメントステムを含む800,000以上のオーディオファイルからなるAudioSparxのデータでトレーニングされている。オプトアウトのリクエストに対応し、クリエイターへの公正な報酬を保証することにも重点を置く。
+
+オーディオアップロードに際しては、著作権侵害を防ぐためにAudible Magicと提携し、そのコンテンツ認識（ACR）技術を利用しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 09 Apr 2024 14:46:35 +0000</pubDate></item><item><title>OpenAI「Sora」をハリウッドに売り込み中か</title><link>https://ledge.ai/articles/openaii_pitches_sora_to_hollywood</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2884,28 +2920,4 @@ Robloxの最高技術責任者（CTO）ダニエル・スターマン氏によ�
 :::box
 
 :::
-</description><pubDate>Thu, 15 Feb 2024 08:28:23 +0000</pubDate></item><item><title>中国発、AIの「FaceSwap（顔交換）」機能でショートドラマを海外展開</title><link>https://ledge.ai/articles/ai_faceswap_function_to_expand_short_dramas_overseas</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-中国で2023年11月に配信されたショートドラマがAIによる顔交換技術を駆使し、話題を呼んだと2024年1月27日に{target=“_blank”}が報じた。
-
-この技術は、中国人俳優の顔を欧米人風に変更することで、表情や動きの自然さを保ちつつ、制作コストを大幅に削減し、海外でのリメイクと展開を可能にしたという。「Heygen」が提供するAI顔交換技術により、口元の動きを外国語のセリフに合わせることができ、ショートドラマの国際的な視聴者へのアプローチを新たな次元に引き上げている。
-
-現在の課題は、AI顔交換技術のコストがまだ高く、配信企業は費用対効果の面で懸念があること、また、自然な顔やセリフの差し替えができても、ドラマの背景やストーリー自体が文化的に適合せず、受け入れられないケースも考えられることなど。これらが普及における重要な考慮点となっている。各社は、費用対効果と文化的背景の適合性を考慮しながら、世界市場へのアプローチを模索しているという。
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 09 Feb 2024 05:38:05 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 15 Feb 2024 08:28:23 +0000</pubDate></item></channel></rss>
