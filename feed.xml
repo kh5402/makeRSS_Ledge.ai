@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Apr 2024 03:28:46 +0000</lastBuildDate><item><title>アクセンチュアがオンライン学習企業Udacityを買収 　AI人材育成に3年間で10億ドル投資計画</title><link>https://ledge.ai/articles/accenture_acquires_udacity_to_accelerate_ai_talent_development</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Apr 2024 03:40:53 +0000</lastBuildDate><item><title>noteと弁護士ドットコム、クリエイターの安心を守るため誹謗中傷対策プロジェクトを発足</title><link>https://ledge.ai/articles/note-bengo4com_collaborative_project_to_prevent_online_flamings</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月8日、弁護士ドットコムとnote株式会社は、インターネット上の誹謗中傷や炎上といった問題に対処するための共同プロジェクトを発足したことを{target=“_blank”}した。
+
+このプロジェクトは、AI技術と法律の専門知識を組み合わせ、誹謗中傷や炎上を未然に防ぎ、問題発生時のサポートを提供することで、クリエイターが安心して活動できる環境を実現することを目指している。
+
+プロジェクトの背景には、インターネット上の問題が社会生活に与える影響の増大がある。noteでは、サービス開始以来、多様な意見交換の場として機能してきたが、一方で、SNS上の発言が深刻な結果を招くケースも散見される。このような状況に対し、noteと弁護士ドットコムは問題への積極的な取り組みを決定したという。
+
+共同プロジェクトでは、note上での投稿前に、AIがリスクのある内容を検出し、クリエイターに警告する機能の開発を行う。そして、誹謗中傷や炎上に巻き込まれた際に利用できる、AIによる法律相談チャットボットの設置が計画されている。また、弁護士ドットコムが提供する無料法律相談サービスとの連携を通じて、専門家へのアクセスを容易にする。クリエイターが自身を守るための知識を学べる勉強会の開催も予定されているとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+今後、noteと弁護士ドットコムは、このプロジェクトを通じて、権利侵害や名誉棄損などの法律問題への迅速な対応や、知的財産の保護と展開を支える仕組みづくりにも取り組む予定だ。
+
+!
+（左から）弁護士ドットコム 代表取締役社長兼CEO 元榮太一郎氏、note 代表取締役CEO 加藤貞顕氏、note　CXO 深津貴之氏
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+noteの代表取締役CEOである加藤貞顕氏は、自らが編集者だった経験を踏まえ、クリエイターを「守る」役割の重要性について語った。noteはこれまで、クリエイターの作品を広めるだけでなく、その保護にも力を注いできたという。インターネットの普及により発信者が増え、それに伴う問題も増加している現状に触れ、弁護士ドットコムとの提携により、インターネットを安心して使用できる環境の構築に努めると述べている。
+
+一方、弁護士ドットコム株式会社の代表取締役社長兼CEO、元榮太一郎氏は、現代においてSNSを通じたコミュニケーションが日常化している中で、言葉による被害や加害のリスクが高まっていることを指摘した。自らの発言に慎重を期することの重要性を強調し、問題を未然に防ぐための「未炎」施策をnoteとの連携によって展開していく意向を示した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 10 Apr 2024 03:40:53 +0000</pubDate></item><item><title>アクセンチュアがオンライン学習企業Udacityを買収 　AI人材育成に3年間で10億ドル投資計画</title><link>https://ledge.ai/articles/accenture_acquires_udacity_to_accelerate_ai_talent_development</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -340,37 +380,7 @@ OpenAIは2024年3月29日、ChatGPTのウェブブラウジング機能をアッ
 :::
 
 
-</description><pubDate>Thu, 04 Apr 2024 07:30:44 +0000</pubDate></item><item><title>鹿島建設、AIでダム工事の材料品質管理業務の省力化を実現　試験工数を90%削減</title><link>https://ledge.ai/articles/kajima_dx</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-鹿島建設は2024年3月28日、成瀬ダム堤体打設工事における材料の品質管理業務の省力化を目的としたAIを活用した新システムの試験導入の成果を{target=“_blank”}した。
-
-粒度分布と含水率の監視を自動化し、CSG材の全量の品質管理を実現するもので、これにより、試験業務に関わる人員を約9割削減し、高精度の品質管理を維持することに成功したとのこと。
-
-このシステムは、鹿島が2010年に北海道の別ダム工事で初導入した「AI画像粒度モニタリング®システム」と、近赤外線水分計を組み合わせたものである。この技術により、CSG材の粒度分布と含水率をリアルタイムで全量監視し、品質管理の自動化と効率化を実現している。具体的には、成瀬ダム工事において、CSG材の全量に対して平均300㎥/時間の速度で連続供給しながら品質を管理することが可能になった。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-品質管理業務の負担軽減が急務となるダム建設の現場では、従来の方法では、1～2時間ごとにサンプリング試験を行い、CSG材が規格内であることを確認する必要があった。しかし、この新システムの導入により、従来法に比べて試験員の作業負担が大幅に減少し、1日1回の試験で済むようになったという。
-
-今後鹿島は、このシステムをダム工事以外にも広く展開し、給水量を自動調整するシステムの開発を通じて、建設現場の働き方改革のさらなる推進を目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 03 Apr 2024 08:52:48 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Thu, 04 Apr 2024 07:30:44 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
