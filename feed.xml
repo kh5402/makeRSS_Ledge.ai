@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Apr 2024 07:22:09 +0000</lastBuildDate><item><title>noteと弁護士ドットコム、クリエイターの安心を守るため誹謗中傷対策プロジェクトを発足</title><link>https://ledge.ai/articles/note-bengo4com_collaborative_project_to_prevent_online_flamings</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Apr 2024 14:17:59 +0000</lastBuildDate><item><title>ChatGPT以降の労働市場は本当にAIに置き換えられているのか？ 500万人分のフリーランスの仕事を分析したリサーチが公開される</title><link>https://ledge.ai/articles/bloomberry_the_jobs_being_replaced_by_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+500万人のフリーランスの仕事を調査し、生成AIの技術進化がフリーランスの労働市場に及ぼす影響を分析した興味深いリサーチが公開された。
+
+労働市場の動向などを分析するBloomberryが、ChatGPTがリリースされる1か月前の2022年11月1日から2024年2月14日までのフリーランスの仕事を調べ、結果を2024年2月16日に{target=“_blank”}した。調査・分析は、世界最大級のフリーランスプラットフォームUpworkのデータから、企業の採用傾向に関するデータを提供するプロバイダーRevealera.comより提供されたデータを基に行ったとのこと。
+
+
+### ChatGPTのリリース以降の仕事量の変化
+生成AI技術の登場以降、フリーランスの労働市場には顕著な影響が表れており、特に、執筆、翻訳、カスタマーサービスの仕事が大幅に減少しているという。
+
+一方で、ビデオ編集/制作、グラフィックデザイン、ウェブデザイン、ソフトウェア開発の職種では仕事の量が増加しており、ビデオ編集/制作の仕事は39%増加、グラフィックデザインは8%増加、ウェブデザインは10%増加している。これらの増加は、生成AIが特定のタスクにおいて人間の労働を代替し始めている一方で、AI技術を活用して新たな価値を生み出せる職種が存在することを示している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+### 時給の上がった仕事・下がった仕事
+時給の減少が見られた職種についても分析され、翻訳職の時給は20%以上の減少が見られたが、グラフィックデザインとウェブデザイン職は仕事の量と時給が上昇しており、これらの職種の需要がAIツールによって代替されることなく続いていることが明らかにされた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+### 求人が増加したAIスキルは何か
+AIに関連するスキルで増加が見られたのは、AIコンテンツの生成、AIエージェントの開発、OpenAI/ChatGPT APIの統合、AIアプリの開発など。特に、チャットボット開発関連の仕事は、ChatGPTとOpenAI APIのリリース以降、2000%の増加を記録し、現在AIの最も人気のある使用例とされた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+AI技術の進化が特定の職種を圧迫する一方で、新たな機会を生み出しており、労働市場の構造変化を促していることが分析より明らかになった。AIツールが十分に洗練されていない分野や、クリエイティブな知識や技能が必要な職種では、依然として人間の労働者が重要な役割を果たし続けている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 10 Apr 2024 14:17:59 +0000</pubDate></item><item><title>noteと弁護士ドットコム、クリエイターの安心を守るため誹謗中傷対策プロジェクトを発足</title><link>https://ledge.ai/articles/note-bengo4com_collaborative_project_to_prevent_online_flamings</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -350,37 +400,7 @@ OpenAIは、この試みがAIコミュニティ内で新たなアイデアを刺
 :::box
 
 :::
-</description><pubDate>Thu, 04 Apr 2024 07:34:08 +0000</pubDate></item><item><title>ChatGPTが情報源のリンク提供を強化、有料プランでのみ利用可能に</title><link>https://ledge.ai/articles/openai_is_making_links_more_prominent</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-OpenAIは2024年3月29日、ChatGPTのウェブブラウジング機能をアップデートし、有料プランのユーザーに対して情報源への直接リンクを提供する新機能を{target=“_blank”}した。これにより、ユーザーはChatGPTが提供する回答の背景情報をより容易に確認できるようになる。
-
-同社は「X」において、ChatGPTがインターネットから収集したコンテンツを表示する際に、リンクを「もっと目立たせる」ことによって、ユーザーへの回答に関する背景情報の提供を強化すると述べている。新機能には、ソースのサイト名を括弧に入れて表示し、クリック可能なリンクを含めることで、直接ソースにアクセスできるようにするものが含まれる。
-
-!
-
-:::small
-画像：{target=“_blank”}
-:::
-
-この新機能は「ChatGPT Plus」「ChatGPT Team」「ChatGPT Enterprise」といった有料プランのユーザーに限定される。OpenAIは情報源へのリンクを目立たせることで、ユーザーに対して回答の背景情報をもっと提供し、パブリッシャーやクリエイターのコンテンツを発見しやすくすることを目的としていると述べている。
-
-同社のモデルの訓練データに関して、クリエイターやパブリッシャーからの明示的な許可なしにコンテンツを使用しているという批判に対応し、ユーザーに対してより透明性を持たせる試みと見られている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Thu, 04 Apr 2024 07:30:44 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Thu, 04 Apr 2024 07:34:08 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
