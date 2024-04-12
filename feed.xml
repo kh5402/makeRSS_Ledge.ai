@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Apr 2024 07:02:42 +0000</lastBuildDate><item><title>「現状では人間はこの技術を制御しきれない」読売新聞とNTTが生成AIのあり方に関する共同提言「技術と法律の両方で規律する必要性」</title><link>https://ledge.ai/articles/yomiuri-ntt_genai_proposal</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Apr 2024 07:11:44 +0000</lastBuildDate><item><title>「現状では人間はこの技術を制御しきれない」読売新聞とNTTが生成AIのあり方に関する共同提言「技術と法律の両方で規律する必要性」</title><link>https://ledge.ai/articles/yomiuri-ntt_genai_proposal</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1774,7 +1774,43 @@ Copilot ChatはGPT-4を使用しており、より正確なコードの提案と
 
 :::box
 
-:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>中国が世界のAIトップ研究者の半数を輩出していることが明らかに　米シンクタンクのグローバルAIタレントトラッカー2.0の最新調査</title><link>https://ledge.ai/articles/macropolo_the_global_ai_talent_tracker2023</link><description>:::small
+:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>Apple　次世代Siriか？音声アシスタントが画面上のコンテキストを「見て」理解できるAI「ReALM」を発表</title><link>https://ledge.ai/articles/apple_realm</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+Appleは2024年4月3日、ユーザーのスクリーン上に表示される情報を理解し、より自然なインタラクションを実現する新たなAIシステム「ReALM（Reference Resolution As Language Modeling）」を{target=“_blank”}した。この技術は、音声アシスタントがユーザーからの指示に基づき特定のアクションを実行するための、画面上の物体や文脈を「視覚的に理解する」能力を持つ。
+
+ReALMは、ユーザーのスクリーン上に表示されるエンティティ、会話中に参照されるエンティティ、および背景で実行されるプロセスからのエンティティといった、さまざまなタイプのエンティティに対して参照解決を行うタスクを中心に設計されている。
+
+たとえば、画面のコンテキストを「見て」理解し、ユーザーが「この取引先に電話する」と言った場合、ページ上に表示される取引相手の電話番号を認識し、追加の指示なしにその番号に自動で電話をかける機能を実現するという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ReALMの開発には、合成データやアノテーションを利用したデータセットが使用され、各データポイントにはユーザークエリとエンティティのリストが含まれる。これらのデータを用いて、画面上のコンテキストをテキストとして解析し、適切なエンティティを識別する。特に、ReALMはGPT-3.5およびGPT-4と比較してベンチマークされ、小規模モデルでGPT-4と同等の性能を達成し、大規模モデルではそれを大きく上回る結果を示したという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+Appleは2024年のうちにAI関連で新たな発表をするとCEOのティム・クック氏が発言をしている。その発表が開発者会議「WWDC」となるのではと見られている。ReALMは果たして次なるのSiriとなるのだろうか。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 11 Apr 2024 07:11:44 +0000</pubDate></item><item><title>中国が世界のAIトップ研究者の半数を輩出していることが明らかに　米シンクタンクのグローバルAIタレントトラッカー2.0の最新調査</title><link>https://ledge.ai/articles/macropolo_the_global_ai_talent_tracker2023</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2220,43 +2256,7 @@ LLMを最新の大学入試共通テストで比較　GPT-4がTOPも医師国家
 :::box
 
 :::
-</description><pubDate>Wed, 20 Mar 2024 08:07:48 +0000</pubDate></item><item><title>Google DeepMindなどの研究者、クローズドなLLMからモデルの一部を盗み出す手法を発表　OpenAIから要請のあった数値は非公開</title><link>https://ledge.ai/articles/stealing_part_of_a_production_lm</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Google DeepMindなどに所属する研究者らが2024年3月11日、OpenAIのGPT-4やGoogleのPaLM-2などのクローズドな大規模言語モデル（LLM）からモデルの一部を盗み出す攻撃を提案する論文「Stealing Part of a Production Language Model」を{target=“_blank”}した。
-
-この研究は、言語モデルのAPIへのクエリを通じて、低コストでモデルの内部構造に関する情報抽出に成功したと報告している。
-
-研究チームは、言語モデルの最終層である「Embedding Projection Layer」に注目し、この層が持つ特定の性質を利用することで、モデルの重要な部分を復元する方法を開発した。
-
-Embedding Projection Layerとは、トランスフォーマーベースの言語モデルにおいて、入力された単語やフレーズの埋め込みベクトルを変換し、モデルの出力に直接関連する形で情報を集約する層のことである。このプロセスにより、モデル内部で生成された情報が、最終的に人間の理解可能な形（単語やフレーズなど）に変換される。
-
-研究チームによると、特定のAPIクエリを利用することで、この層の重みやパラメータを効率的に「盗み出す」ことが可能であることが明らかになった。これは、APIが提供する出力（例えば、特定の単語に対するモデルの反応や、その反応の確率など）から、逆算してEmbedding Projection Layerの情報を推定する手法に基づいている。
-
-この攻撃により、研究チームはOpenAIのGPT-4やGoogleのPaLM-2といった大規模言語モデルの隠れた次元のサイズを正確に特定し、さらには特定のモデルのEmbedding Projection Layer全体を再構築することに成功したという。
-
-研究により、20ドル未満でOpenAIの「ada」と「babbage」言語モデルから全投影行列を抽出し、これらモデルの隠れた次元がそれぞれ1024および2048であることを確認した。さらに、GPT-3.5-turboモデルの正確な隠れ次元サイズも明らかにされたが、具体的な数値はOpenAIの要請により非公開とされた。全投影行列を抽出するために2,000ドル未満のクエリが必要であると推定している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この攻撃の成功により、OpenAIとGoogleはそれぞれAPIを変更し、攻撃をより困難またはコストがかかるようにする防御策を講じた。研究チームは、この攻撃を責任ある方法で開示し、脆弱性に対処するための緩和策と防御策を提案している。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 19 Mar 2024 07:43:58 +0000</pubDate></item><item><title>佐川急便など、レベル3.5飛行による東京都が推進するドローン宅配便配送プロジェクトを実施</title><link>https://ledge.ai/articles/sagawa_drone_parcel_delivery_project_by_tokyo</link><description>:::small
+</description><pubDate>Wed, 20 Mar 2024 08:07:48 +0000</pubDate></item><item><title>佐川急便など、レベル3.5飛行による東京都が推進するドローン宅配便配送プロジェクトを実施</title><link>https://ledge.ai/articles/sagawa_drone_parcel_delivery_project_by_tokyo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
