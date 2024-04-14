@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 13 Apr 2024 13:15:16 +0000</lastBuildDate><item><title>OpenAI、画像理解可能な「GPT-4 Turbo with Vision」を「OpenAI API」で公開、GPT-4 Turboの機能向上も</title><link>https://ledge.ai/articles/openai_gpt4_turbo_with_vision</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 13 Apr 2024 13:21:02 +0000</lastBuildDate><item><title>OpenAI、画像理解可能な「GPT-4 Turbo with Vision」を「OpenAI API」で公開、GPT-4 Turboの機能向上も</title><link>https://ledge.ai/articles/openai_gpt4_turbo_with_vision</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1793,7 +1793,32 @@ Copilot ChatはGPT-4を使用しており、より正確なコードの提案と
 
 :::box
 
-:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>Anthropicの研究論文：LLMが訓練された安全策を回避する「脱獄」技術の発表　「今のうちに取り組むべき課題」</title><link>https://ledge.ai/articles/anthropic_many_shot_jailbreaking</link><description>:::small
+:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>「光る君へ」をAIで紐解く　大阪工業大学が『源氏物語』をAIで学習するシステム「おしゃべり源氏物語」を開発</title><link>https://ledge.ai/articles/oit_ai_genji_monogatari</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月5日、大阪工業大学の情報科学部ネットワークデザイン学科、矢野浩二朗教授が主導する研究チームは、複数のAI技術を組み合わせた『源氏物語』学習支援システム「おしゃべり源氏物語 －生成AIで学ぶ『源氏物語』－」を開発したことを{target=“_blank”}した。
+
+このシステムは、音声入力やチャットを介して『源氏物語』に関するユーザーの質問に対し、AIが回答するもの。プロジェクトには、AmiVoiceやOpenAIのChat APIを含む6種類のAI技術が利用されており、和歌のリズム認識や発音タイミングの調整など、具体的な技術的工夫が行われた。また、『源氏物語』専用のデータベースを用いることで、高い精度の回答生成を実現している​という。
+
+同システムは２月下旬から４週間、東京富士美術館で開催された展覧会に出展され、約3000人の来場者が体験した。このときのフィードバックを受け、矢野教授とそのチームは性能の改良を重ね、今後も更なる改善を続けるとのこと。
+
+矢野教授は、「AIを用いることで、千年以上前の文学作品を現代の技術でどのように再解釈し、活用するかの一例を示すことができた」とコメントしている​​。このAIシステムを更に発展させ、パブリックなデータを用いた「Open 光源氏 AI」として他の施設でも展示を行う方針だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 13 Apr 2024 13:21:02 +0000</pubDate></item><item><title>Anthropicの研究論文：LLMが訓練された安全策を回避する「脱獄」技術の発表　「今のうちに取り組むべき課題」</title><link>https://ledge.ai/articles/anthropic_many_shot_jailbreaking</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2239,51 +2264,7 @@ SIMAは、様々なビデオゲームで自然言語の指示に従ってタス�
 :::box
 
 :::
-</description><pubDate>Thu, 21 Mar 2024 14:09:34 +0000</pubDate></item><item><title>アップル、画像とテキストを理解するマルチモーダル大規模言語モデル「MM1」の論文を発表</title><link>https://ledge.ai/articles/apple_multimodal_llm_mm1</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年3月14日、アップルの研究チームは、画像とテキストの両方を処理できる能力を持つマルチモーダル大規模言語モデル「MM1」を{target=“_blank”}した。
-
-このモデルは画像とテキストの両方を理解し、処理する能力を持つマルチモーダルAIで、一部のベンチマークではOpenAIのGPT-4Vを上回る性能を示している。論文によると、MM1は30億、70億、300億という複数のパラメータサイズを持ち、10億以上の画像および30兆語以上のテキスト、GitHubのコード例など多岐にわたるデータセットを用いた独自の学習方法で訓練されている 。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-MM1は、画像内のオブジェクトの数を正確に数える、画像内の文字や数字を認識する、画像を見た人間の感じ方に基づく抽象的な質問に長文で回答するといった、画像を理解する能力において特に優れている。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-さらに、ビーチパラソルの画像から温暖な気候を読み取る、飛行機が雪の上を飛んでいる画像から気温を推測するなど、画像のコンテキストを理解した対応も得意としている。これらの能力により、MM1は教育的なシナリオや複雑な問いに答えるなど、様々なタスクで高いパフォーマンスを発揮する 。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-アップルの研究チームは、このモデルの開発において、そのアーキテクチャ、データセットの内容、事前学習・ファインチューニングの詳細に至るまで、従来公開されてこなかった詳細な情報を公開している。これは、AI研究における透明性と共有を促進する意図を示しており、競合他社が進めるクローズドな方針とは一線を画している。
-
-
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 20 Mar 2024 22:33:23 +0000</pubDate></item><item><title>米ワシントン州、銃撃事件の裁判「AIで強化した動画は証拠として認めない」高等裁判所の裁定</title><link>https://ledge.ai/articles/judge_blocks_ai_enhanced_video</link><description>:::small
+</description><pubDate>Thu, 21 Mar 2024 14:09:34 +0000</pubDate></item><item><title>米ワシントン州、銃撃事件の裁判「AIで強化した動画は証拠として認めない」高等裁判所の裁定</title><link>https://ledge.ai/articles/judge_blocks_ai_enhanced_video</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
