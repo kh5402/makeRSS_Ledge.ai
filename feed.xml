@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 13 Apr 2024 13:21:02 +0000</lastBuildDate><item><title>OpenAI、画像理解可能な「GPT-4 Turbo with Vision」を「OpenAI API」で公開、GPT-4 Turboの機能向上も</title><link>https://ledge.ai/articles/openai_gpt4_turbo_with_vision</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Apr 2024 13:35:27 +0000</lastBuildDate><item><title>Googleが「Gemini for Google Cloud」を発表　クラウド内での生産性向上を実現</title><link>https://ledge.ai/articles/gemini_for_google_cloud</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+Googleは2024年4月10日、Google Cloudの製品ポートフォリオに最新の生成AI技術「Gemini」を組み込んだことを{target=“_blank”}した。
+
+これは、開発者、Google Cloudサービス、そしてアプリケーション向けの次世代AIアシスタントで、Googleの最新のGeminiモデル群を利用して、チームはクラウド内でより多くの作業を効率的に行えるようになるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Gemini for Google Cloudは、産業界をリードする可用性を持ち、堅牢なセキュリティ、コンプライアンス、プライバシー制御を備えたエンタープライズレディなAI機能を提供する。
+
+特に、新たに発表された「Gemini Code Assist」は、VS CodeやJetBrainsなどの人気コードエディタで開発者がアプリケーションを高速かつ高品質に構築できるようAIによる支援を行う。これにより、オンプレミス、Gitlab、Github、Bitbucket、複数のリポジトリにまたがるプライベートコードベースをサポートするという。
+
+さらに、「Gemini Cloud Assist」や「Gemini in Security Operations」など、クラウドチームがアプリケーションのライフサイクルを設計、運用、最適化するのを助ける新しい機能も紹介された。
+
+これらのツールは、Google Cloudのリソースを理解し、新しい設計の作成、ワークロードの展開、アプリケーションの管理、問題のトラブルシューティング、パフォーマンスとコストの最適化を支援する。
+
+Googleは新たな機能を通して、Googleは開発者の創造性を解放し、生産性を向上させることにコミットし、業界全体のイノベーション加速を目指すという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 14 Apr 2024 13:35:27 +0000</pubDate></item><item><title>Spotify がプロンプトでプレイリストを生成できる「AIプレイリスト機能」を英豪のプレミアムユーザーにベータ版で提供開始</title><link>https://ledge.ai/articles/spotify_ai_playlist_beta</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Spotifyは2024年4月7日、プレミアムユーザー向けに新たな音楽発見ツール「AI Playlist」のベータ版を提供開始したことを{target=“_blank”}した。このサービスは現在、英国とオーストラリアのAndroidおよびiOSユーザーを対象に展開されている。
+
+AI Playlist とは、ユーザーがチャットに特定のプロンプトを入力することで新しいプレイリストを簡単に作成できる機能だ。例えば、「アレルギーの季節を乗り切るリラックス・ミュージック」、「主人公になった気分になれるプレイリスト」など、多様なアイデアからプレイリストを生成するという。
+
+Spotifyのパーソナライゼーション技術とAIを組み合わせたこのツールは、ジャンル、ムード、アーティスト、年代を組み合わせたプロンプトで最も成功したプレイリストを提供する。まだベータ版であるため、Spotifyは今後もこの新機能に対する改善を重ねていく予定だ。
+
+AI Playlistへのアクセス方法は以下の通り。Spotifyモバイルアプリを開き、画面右下の「Your Library」を選択。そこから右上の「+」ボタンをタップし、「AI Playlist」を選ぶ。提案されたプロンプトを選択するか、独自のプロンプトを入力する。Spotifyが提案するトラックをプレビューし、選曲を調整後、「Create」をタップすると、新しいプレイリストがライブラリに自動保存される。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+[関連記事：元Apple社員ら設立のBrilliant Labsが新しいスマートグラス「Frame」を発表。マルチモーダル生成AI搭載
+](https://ledge.ai/articles/brilliant_labs_frame)
+:::
+:::box
+
+:::
+
+</description><pubDate>Sat, 13 Apr 2024 13:25:25 +0000</pubDate></item><item><title>OpenAI、画像理解可能な「GPT-4 Turbo with Vision」を「OpenAI API」で公開、GPT-4 Turboの機能向上も</title><link>https://ledge.ai/articles/openai_gpt4_turbo_with_vision</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -356,82 +418,7 @@ OpenAIは、早期よりこのVoice Engineを導入している企業として�
 :::
 
 
-</description><pubDate>Mon, 08 Apr 2024 04:06:59 +0000</pubDate></item><item><title>2025年度には69％の企業が生成AIを「全社で本格的に利用する」と回答--MM総研2024調査</title><link>https://ledge.ai/articles/mmri2024_llm-genai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ICT市場調査コンサルティング企業のMM総研は2024年3月25日、国内企業1,599社を対象に実施した「生成AI／LLMの国内利活用動向調査2024」の結果を{target=“_blank”}した。
-
-
-
-この調査は、企業における言語系生成AIや大規模言語モデル（LLM）の利用状況を明らかにすることを目的としており、2024年3月時点でのデータに基づく。
-
-調査結果によると、対象企業の19％が言語系の生成AIを導入しており、このうち本格導入は6％にとどまる。導入準備中や検討中の企業は24％に上り、2024年度には導入が加速する見込みである。導入パターンでは「Webブラウザ経由で生成AIサービスを利用」が60％で最も多く、次いでAPIを利用するケースが44％となった。
-
-## 生成AIの導入状況
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-導入企業は、今後2年で生成AIの活用を拡大する方針であることが明らかになり、2025年度には69％の企業が「全社で本格的に利用する」と回答している。導入の目的は主に業務効率化やビジネススピードの向上であり、営業・販売、情報処理・情報システム関連、マーケティング・調査が利用業務の上位に挙がっている。
-## 生成AI利用の現状と今後の方針
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-一方で、導入企業の97％が何らかの課題を感じており、特に「AIやデジタルの高度な知識・技術を持つ人材の不足」と「セキュリティやプライバシーの確保」が共に31％で最も多く挙げられた。
-## 生成AIを導入する上での課題
-!
-
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-国産LLMに対する期待は高く、72％の企業が期待を寄せており、特にNTTの「tsuzumi」への期待が高い。期待理由としては、「日本語や専門用語への対応」や「費用の削減」、「サポートの充実」などが挙げられた。
-
-
-■調査概要
-調査対象・件数：国内企業1,599社
-調査方法：Webアンケート
-調査期間：2024年3月18～22日
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 07 Apr 2024 15:43:07 +0000</pubDate></item><item><title> OpenAI、東京にアジア初のオフィス開設へ ― 日本市場への本格進出</title><link>https://ledge.ai/articles/openai_opens_tokyo_office</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年4月1日、OpenAIはアジア市場における展開を加速させるため、東京に新たなオフィスを設立する計画であることが各メディアの報道により明らかになった。これにより、OpenAIはロンドン、ダブリンに続き、世界で3番目の国際オフィスを日本に構えることになる​​。
-
-同社は、AI技術の日本語によるサービス展開を進めると同時に、企業向けのカスタマイズサービスを提供し、AI技術のガバナンスフレームワークの開発に参画する予定だ。CEOのSam Altman氏は、2023年に岸田文雄首相と会談し、{target=“_blank”}。日本政府がAI技術の導入に積極的であることや、すでに{target=“_blank”}や{target=“_blank”}
-などの行政機関がChatGPTの利用を開始していることが、この決定に影響を与えたとみられている。​ 
-
-東京オフィスの職務執行役には、アマゾン・ウェブ・サービス（AWS）の日本法人で長年社長を務めた長崎忠雄氏が就任。OpenAIの東京進出は、日本市場のニーズに応え、国際的なステークホルダーとの関係を強化し、グローバルな規模でAIイノベーションを促進する同社の戦略の一環だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sun, 07 Apr 2024 14:08:07 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 08 Apr 2024 04:06:59 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
