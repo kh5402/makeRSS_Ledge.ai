@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Apr 2024 13:35:27 +0000</lastBuildDate><item><title>Googleが「Gemini for Google Cloud」を発表　クラウド内での生産性向上を実現</title><link>https://ledge.ai/articles/gemini_for_google_cloud</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Apr 2024 01:27:37 +0000</lastBuildDate><item><title>Googleが「Gemini for Google Cloud」を発表　クラウド内での生産性向上を実現</title><link>https://ledge.ai/articles/gemini_for_google_cloud</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2251,7 +2251,31 @@ SIMAは、様々なビデオゲームで自然言語の指示に従ってタス�
 :::box
 
 :::
-</description><pubDate>Thu, 21 Mar 2024 14:09:34 +0000</pubDate></item><item><title>米ワシントン州、銃撃事件の裁判「AIで強化した動画は証拠として認めない」高等裁判所の裁定</title><link>https://ledge.ai/articles/judge_blocks_ai_enhanced_video</link><description>:::small
+</description><pubDate>Thu, 21 Mar 2024 14:09:34 +0000</pubDate></item><item><title>イスラエル国防軍、AI標的システム「ラベンダー」を使用してガザのターゲットを特定</title><link>https://ledge.ai/articles/lavender_ai_israeli_army_gaza</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+イスラエル国防軍（IDF）が「Lavender（ラベンダー）」と呼ばれるAI標的システムを利用して、ガザ地区の攻撃ターゲットを特定している事実が2024年4月3日の{target=“_blank”}をはじめ、複数の報道により明らかにされた。
+
+このシステムは、ガザ地区に居住する約230万人のデータを分析し、ハマスまたはパレスチナ・イスラム聖戦（PIJ）の活動家である可能性を数値で評価し、特定の個人を自動的に暗殺対象としてリストアップしているという。
+
+ラベンダーは、ハマス関連の活動家やその関連地点を特定するために開発され、37,000人以上の個人を「キルリスト」に含めるほどの大規模な監視と分析を行っている。このシステムによるリストは、個々の詳細な検証を経ずに作成され、実際の攻撃命令として採用されている。報告によると、このリストに基づく攻撃では、低ランクのハマス活動家であっても、その居住する家族を含む民間人の死亡を多数許容しているとのこと。
+
+IDFはこれらの報道に対して、ラベンダーが単なる情報集約と分析のツールであり、最終的な攻撃決定には人間が介入して個々の事案を評価していると反論しているが、実際の操作においてはほとんどが自動化されているとの証言が相次いでいるという。
+
+AI技術を利用して、ターゲットの選定や攻撃の実行など特定の軍事的決定を人間の関与なしに自律的に行うことができ、致死性を有する「完全自律型兵器」に関して、{target=“_blank”}は2023年12月に、自律型致死兵器システム（LAWS）自律型兵器システムに関する国際的な合意に基づく規則と制限への支持を表明。新たな決議案を日本や米国など152カ国の賛成で採択している。中国や北朝鮮はじめ、イスラエルなど11か国が棄権した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 15 Apr 2024 01:27:37 +0000</pubDate></item><item><title>米ワシントン州、銃撃事件の裁判「AIで強化した動画は証拠として認めない」高等裁判所の裁定</title><link>https://ledge.ai/articles/judge_blocks_ai_enhanced_video</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2567,31 +2591,7 @@ G7各国は、公的部門での安全で信頼できるAIの利用を促進す�
 :::box
 
 :::
-</description><pubDate>Tue, 20 Feb 2024 11:02:30 +0000</pubDate></item><item><title>JASRAC、AIと著作権に関する考え方について文化庁へ意見提出</title><link>https://ledge.ai/articles/jasrac_submits_opinion_to_agency_for_cultural_affairs_on_ai_and_copyright</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-JASRACは2024年2月14日、文化審議会著作権分科会法制度小委員会がまとめた「AIと著作権に関する考え方について（素案）」に対する意見を文化庁へ提出したことを{target=“_blank”}した。
-
-JASRACは、クリエイターが安心して創作活動に専念できる環境の確保と、AI利活用の枠組みの実現に向けた検討や提言の継続を強調している。
-
-提出した意見では、生成AIを巡る著作権者、AI開発事業者、AI利用者等の懸念に対し、現時点の条文解釈のみならず、立法論を含む本格的な検討の必要性を主張した。特に、従来の著作権法との整合性、アイデアと創作的表現の区別、作風の保護、依拠性の考え方、著作物利用の透明性確保など、複数の重要な点について具体的な提言を行っている。
-
-JASRACは、AIによる生成物がクリエイターの著作物に対する需要を代替する事態や、著作権者の利益を不当に害する可能性に対する懸念を表明。また、著作権制度が人間の創作を奨励するためのものである原点を強調し、AIによる機械的な生成との区別を明確にする必要があると指摘している。
-
-このほか、著作物に当たらないものを著作物として流通させる行為に関する著作権法の保護適用、罰則規定の新設などについても意見している。JASRACは、AIと著作権の関係に関する議論を、現行法の解釈にとどまらず、立法論も含めて早急に行うことを強く求めている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 19 Feb 2024 06:22:43 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
+</description><pubDate>Tue, 20 Feb 2024 11:02:30 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
