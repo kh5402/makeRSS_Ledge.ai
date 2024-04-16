@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Apr 2024 14:19:35 +0000</lastBuildDate><item><title>SlackもついにAI本格導入　英米ではプロンプトなしで使える要約機能が人気　「Slack AI」日本語版が明日4/17から提供開始</title><link>https://ledge.ai/articles/slack_ai_release</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Apr 2024 14:19:35 +0000</lastBuildDate><item><title>GoogleがAI動画制作アプリ「Google Vids」を発表　Gemini for Google Workspaceによる機能強化　6月リリース予定</title><link>https://ledge.ai/articles/google_cloud_next24_google_vids</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Gppgleは2024年4月9～11 日で開催されたGoogleの年次イベント「Google Cloud Next '24」で、WorkspaceのAI動画制作アプリ「Google Vids」を{target=“_blank”}した。
+
+このアプリは、プレゼンテーションやプロモーションビデオの制作を容易にするAI駆動のツールで、Google Docs、Sheets、Slidesと並ぶ製品群に加わるという。6月にWorkspace Labsを通してリリースされる予定とのことだ。
+
+
+@
+
+
+
+Google Vidsは、ユーザーが簡単に編集可能なストーリーボードを生成し、選択したスタイルに基づいてストックビデオ、画像、背景音楽からシーンを組み合わせてビデオの初稿を作成する機能を持つ。また、事前設定されたボイスオーバーやユーザー自身の声を使用して、メッセージを効果的に伝えるサポートも提供するという。
+
+ユーザーは「Start with a template」機能で、多様なテンプレートから選択し、初稿を自動生成する「Help me create」機能を利用して、動画制作のプロセスを迅速化できる。さらに、生成されたスクリプトや事前設定されたボイスオーバーを利用して、ビデオに声を付けることが可能である。
+
+同社は、Google Vidsが、職場でのコミュニケーションやプレゼンテーションを強化し、誰もが効果的なストーリーテラーになるための支援を提供するという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 15 Apr 2024 07:45:03 +0000</pubDate></item><item><title>SlackもついにAI本格導入　英米ではプロンプトなしで使える要約機能が人気　「Slack AI」日本語版が明日4/17から提供開始</title><link>https://ledge.ai/articles/slack_ai_release</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -397,25 +427,7 @@ noteの代表取締役CEOである加藤貞顕氏は、自らが編集者だっ�
 :::box
 
 :::
-</description><pubDate>Tue, 09 Apr 2024 14:43:18 +0000</pubDate></item><item><title>香港で第2回『InnoEX』開催迫る！
-同月開催のテクロノジー展併せて20を超える国・地域から約4300社が出展、AI関連も多数</title><link>https://ledge.ai/articles/hongkong_innoex</link><description>香港特別行政区政府（HKSAR）は香港貿易発展局（HKTDC）と共催で4大技術展示会「香港インターナショナル・ライティング・フェア（春）」、「スマート・ライティング・エキスポ（初開催）」)を４月６日〜９日に、「イノエックス（InnoEX）」、「香港エレクトロニクス・フェア(春)」は、4月13日〜16日に香港コンベンション＆エキシビション・センターで開催する。
-
-イノエックス：{target=“_blank”}
-香港エレクトロニクス・フェア：{target=“_blank”}
-
-テーマを「Innovations for A Smarter World（よりスマートな世界のためのイノベーション）」として、世界各国なイノベーティブな技術が集結するとともに、香港が持つ国際的なイノベーション・テクノロジー（I&amp;T）ハブとしての強みも発表される予定だ。
-４つのテノロジー展示会の総出展社数は4300社、出展国・地域は20を超え、特にイノエックスの出展者は、昨年比で2倍以上の規模となるという。
-（香港、中国本土、カナダ、フランス、インド、ポーランド、タイ、英国等）
-
-また日本からもSME SUPPORT JAPAN（独立行政法人 中小企業基盤整備機構）とISCO（一般財団法人 沖縄ITイノベーション戦略センター）が、初出展の予定となっている。
-他にもフランスやカナダ総領事館などからもパビリオンが設置される。
-
-この規模になるとあらゆるテクノロジーが集結すると予想されるが、その中でAIもやはり話題の中心になりそうだ。
-例えば、4月15日、「空間コンピューティングとジェネレーティブAIの未来」をメインテーマに題した、「テック　トレンド　シンポジウム」の開催や、香港内外の一流大学と協力し、香港サイエンスパークでこれまで行われた最先端のAI研究の成果についても発表される。
-
-世界各国から政府関係者、最先端テクノロジーにおける関連産業部門、学界、研究部門が一同に集結するこのイベントは、今年度のIT領域における発展を考える上で良いイベントになるのではないだろうか。
-
-開催は目前となるが、テクノロジーに関わる方には是非覗いて欲しいイベントの1つである。</description><pubDate>Tue, 09 Apr 2024 05:28:05 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 09 Apr 2024 14:43:18 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
