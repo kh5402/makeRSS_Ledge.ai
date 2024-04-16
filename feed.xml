@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Apr 2024 14:19:35 +0000</lastBuildDate><item><title>GoogleがAI動画制作アプリ「Google Vids」を発表　Gemini for Google Workspaceによる機能強化　6月リリース予定</title><link>https://ledge.ai/articles/google_cloud_next24_google_vids</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Apr 2024 14:19:35 +0000</lastBuildDate><item><title>PIXTAが生成AI学習用素材としてコンテンツ販売へ　オプトアウト申請は4月22日までに</title><link>https://ledge.ai/articles/pixta_dataset_for_learning_genai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年4月8日、ストックフォトサービス大手のPIXTAは、同社の画像コンテンツを生成AIの学習用データとして販売開始することを{target=“_blank”}した。
+
+これまで同社は、クリエイター提供の画像を、顔認証などの画像認識AI等の学習用データとして{target=“_blank”}が、生成AIについては提供に慎重な姿勢を示していた。しかし、顧客からの多数の問い合わせとビジネスチャンスを背景にこのたび方針転換したという。
+
+販売されるコンテンツには、写真、イラスト、動画が含まれ、これらは定額制サービスの一環として2024年4月22日の時点で提供されるものが対象である。オプトアウトを希望するクリエイターは、同日正午までに専用フォームを通じて手続きを行う必要がある。
+
+販売形態として、同社は個別のライセンス契約を顧客と結ぶことを想定しており、一般には不特定多数への提供は予定していない。また、生成AI用の学習データとして販売されるコンテンツから得られる収益の一部はクリエイターに還元される。
+
+同社は受領した売上（税抜）から自社の費用を控除した後の80%を取り、残り20%をクリエイター側の取り分としている。この還元は年度ごとに集計され、翌年の1月末日までにクレジットとして付与されるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 15 Apr 2024 07:49:52 +0000</pubDate></item><item><title>GoogleがAI動画制作アプリ「Google Vids」を発表　Gemini for Google Workspaceによる機能強化　6月リリース予定</title><link>https://ledge.ai/articles/google_cloud_next24_google_vids</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -394,40 +421,7 @@ noteの代表取締役CEOである加藤貞顕氏は、自らが編集者だっ�
 :::box
 
 :::
-</description><pubDate>Wed, 10 Apr 2024 03:28:46 +0000</pubDate></item><item><title>サイバーエージェントが「画像生成AI利用ガイドライン」を社内クリエイターに向けて策定</title><link>https://ledge.ai/articles/cyberagent_guideline_for_image_generating_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-サイバーエージェントは2024年4月3日、クリエイターのための「画像生成AIガイドライン」を{target=“_blank”}した。これは、全社横断のクリエイター組織「CA Creative Center」による、2024年度の戦略テーマ「創造性の進化、クリエイターの新章」に基づくものだという。
-
-法整備が進まないうちに、クリエイターが生成AIを業務に積極的に取り入れることには不安要素が残るため、クリエイターが安全性を最大限に考慮しつつ、生成AIを利用できるようにガイドラインが策定されたとのこと。
-
-ガイドラインの主な目的は、法整備が完了する前に、会社として安全だと認識される範囲内でのAIの利用を促進することにある。特に、著作権侵害などのリスクを避けながら、画像生成AIを使って素材画像を生成することが一つの利用例として挙げられている。
-
-ガイドライン策定にあたっては、全クリエイターを対象にしたアンケート実施、各事業部での画像生成AIの責任者の設置、法務とシステムセキュリティ推進グループとの連携など、社内で幅広い体制を構築した。重視されているのは、「利用するツールやモデルの選定」と「使い方」の2点で、安全に利用できるツールのみを選定し、著作権侵害を避けるための明確なルールが設けられている。
-
-
-利用方法やセキュリティ、著作権侵害を避けるためのルールが定められており、特に安全に利用できるツールの選定と使い方に重点を置いている。利用申請フローでは、システムセキュリティ推進グループと法務による事前のチェックが必要とされている。
-
-全クリエイターがガイドラインを理解するため、理解度テストを実施し、合格しなければ利用申請を受け付けない仕組みを導入している。また、法務への相談が増えたことから、安全に業務に活用しようとする雰囲気が醸成されているとの声もある。
-
-同社は生成AIを取り巻く環境の変化に応じてガイドラインを更新し、クリエイターが新たな技術を適切に活用して創造性を高めることを目指すという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 09 Apr 2024 14:43:18 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Wed, 10 Apr 2024 03:28:46 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
