@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Apr 2024 07:05:35 +0000</lastBuildDate><item><title>生成AIとは何者なのか？　その革新性について気鋭のAIベンチャー創業者に聞く</title><link>https://ledge.ai/articles/generativex-2024-interview-1</link><description>2022年11月に登場したChatGPTは世界に衝撃を与えた。それ以降、現在に至るまでテクノロジー業界の話題はChatGPTに代表される生成AI一色に染まっていたといっても過言ではない。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Apr 2024 07:05:35 +0000</lastBuildDate><item><title>英半導体Arm、性能を4倍に向上させたエッジAI向け新NPU（ニューラル・プロセッシング・ユニット）「Ethos-U85」を発表</title><link>https://ledge.ai/articles/arm_ethos-u85</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月9日、英半導体のアームは、高性能エッジAIアプリケーション向けに設計された最新世代のプロセッサ「Arm Ethos-U85 NPU」と、新しいIoTリファレンスデザイン・プラットフォーム「Arm Corstone-320」を{target=“_blank”}した。
+
+Ethos-U85は、前世代比で性能を4倍に、エネルギー効率を20%向上させた。ファクトリー・オートメーション、民生用カメラ、スマートホーム用カメラなど、高性能が求められるアプリケーションに最適とされる。NPUは、TensorFlow LiteやPyTorchといったAIフレームワークをサポートし、Transformerネットワークおよび畳み込みニューラルネットワーク（CNN）のAI推論に対応しているという。
+
+また、Arm Corstone-320プラットフォームは、Arm Cortex-M85 CPU、Mali-C55イメージシグナルプロセッサー、そしてEthos-U85 NPUを組み合わせたもので、リアルタイムの画像分類や物体認識、スマートスピーカーを通じた自然言語翻訳対応の音声アシスタントなど、多岐にわたるエッジAIアプリケーションの高い性能要求に応える設計とのこと。
+
+同社のシニア・バイスプレジデントでIoT事業部門のジェネラル・マネージャー、ポール・ウィリアムソン氏は、「エッジAIの導入と拡大を容易にするためには、ソフトウェア開発者が新たなAIフレームワークやライブラリと容易に連携できる必要がある」と述べている。同社は、開発者が既存の投資を活用しながら、シームレスな開発体験を提供することを目指すという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 16 Apr 2024 06:36:36 +0000</pubDate></item><item><title>生成AIとは何者なのか？　その革新性について気鋭のAIベンチャー創業者に聞く</title><link>https://ledge.ai/articles/generativex-2024-interview-1</link><description>2022年11月に登場したChatGPTは世界に衝撃を与えた。それ以降、現在に至るまでテクノロジー業界の話題はChatGPTに代表される生成AI一色に染まっていたといっても過言ではない。
 
 生成AIとは何者なのか。従来のAIと何が決定的に異なり、なぜこれほどまでに世の中を席巻したのか。生成AIの革新性と社会的インパクトについて、2023年に創業したAIベンチャーGenerativeX共同創業者で取締役CSOの上田 雄登氏に聞いた。
 
@@ -437,47 +463,7 @@ IBISが選定された理由は、PCV内部の複雑な環境に適している�
 :::
 
 
-</description><pubDate>Thu, 11 Apr 2024 07:31:50 +0000</pubDate></item><item><title>「現状では人間はこの技術を制御しきれない」読売新聞とNTTが生成AIのあり方に関する共同提言「技術と法律の両方で規律する必要性」</title><link>https://ledge.ai/articles/yomiuri-ntt_genai_proposal</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月8日、読売新聞とNTTは、生成AIに関する共同提言を{target=“_blank”}した。これは両社が2023年秋から始めた共同検討の成果だという。
-
-両社は、生成AIがもたらす利便性と課題を認識し、そのガバナンスにおける技術と制度の両面からのアプローチの重要性を強調している。生成AIは、直感的なインターフェースと高い労働生産性の向上の可能性を秘めている。しかし一方で、情報の正確性を担保しきれないという点で、無制限な利用が社会に様々な問題を引き起こす可能性があるという。「現状では、人間はこの技術を制御しきれない」とその課題を指摘した。
-
-そして、「技術と法律の両方で生成AIを規律する必要がある」と対応の必要性を掲げた。生成AIの規律と活用を両立する方策を技術・制度双方の観点から実現し、社会における適正な「道具」としていく必要があるという。
-
-提言では「AI×AE（アテンション・エコノミー）の暴走への対峙」「自由と尊厳を守るための言論空間の確保に向けた法規制と技術の導入」「法整備を含む実効的なガバナンスの確立」の３つの論点を挙げ、これらの課題に対処するためには、技術的および法的な両方のアプローチが必要であるとしている。
-
-**🔳AI×AEの暴走への対峙**
-生成AIとアテンション・エコノミーが問題の増幅を生み、社会的不安を増大させる可能性がある。この問題に対処するためには、AI技術の利用に対する深い理解と批判的な視点が求められる。人々の注意を引きつけることの社会的影響を考慮し、AI技術の健全な発展を目指す必要がある。
-
-**🔳自由と尊厳を守るための言論空間の確保に向けた法規制と技術の導入**
-生成AIによってもたらされる情報の流通に対する新たなチャレンジが指摘されている。選挙や安全保障など、社会の根幹を揺るがす可能性のある分野での生成AIの利用には特に注意が必要であり、法規制と先進技術を駆使して、自由で健全な言論空間を維持する取り組みが求められる。
-
-**🔳法整備を含む実効的なガバナンスの確立**
-生成AIの社会への影響を適切に管理するための法的枠組みの整備が必要であるとされる。欧州連合（EU）の事例を参考にしつつ、日本独自の課題に応じた法整備やガバナンス構築が求められている。特に、著作権法の適正化やメディアや産業界による共同規制の導入など、段階的なアプローチを通じて、生成AIの健全な利用と発展を促進することが強調されている。
-
-
-読売新聞とNTTは、この提言を通じて、生成AIの適切な規制と活用のバランスを求め、技術と法制度の両面からのアプローチを模索していくことを目指している。両社は引き続きこの問題に取り組み、慶應義塾大学サイバー文明研究センターの支援を受け、生成AIの健全な発展に貢献していく方針だ。
-
-提言の全文は{target=“_blank”}
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-::
-</description><pubDate>Thu, 11 Apr 2024 07:02:42 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Thu, 11 Apr 2024 07:31:50 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
