@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Apr 2024 06:33:41 +0000</lastBuildDate><item><title>マイクロソフト、日本のAI及びクラウド基盤増強に4400億円投資
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Apr 2024 07:05:35 +0000</lastBuildDate><item><title>GPTやGeminiに続け！画像が読めるLLMが次々と　イーロン・マスク氏の「Grok」とNTTの「tsuzumi」　画像認識機能を搭載した最新AI技術を発表</title><link>https://ledge.ai/articles/grok1-5v_tsuzumi_multimordalized</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年4月12日に、イーロン・マスク氏率いるxAI社とNTTが、それぞれの大規模言語モデル（LLM）「Grok」と「tsuzumi」に画像認識機能を新たに搭載したことを発表した。
+
+4月9日にOpenAIが、画像やビジュアルコンテンツの理解が可能なビジョン機能を搭載したマルチモーダルAIモデル「GPT-4 Turbo with Vision」を API で一般公開したばかりだ。
+
+## xAI.ai「Grok-1.5V」文書、図表、写真などの視覚情報を処理
+
+「Grok-1.5V」は、xAIが開発したマルチモーダルモデルで、従来のテキスト処理能力に加え、文書、図表、スクリーンショット、写真など幅広い視覚情報の解析が可能となった。この進化により、Grokは日常の物理的な世界を理解する能力において、他のモデルと比較しても顕著な性能を発揮するという。
+
+特に、新たに導入された「RealWorldQA」ベンチマークでは、実世界の空間認識能力を測定し、その結果が期待されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+**図を解読しPythonコードを生成する例**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+**現実世界の空間理解機能を示す例**!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社は、マルチモーダルな理解と生成機能の両方を進歩させることは、宇宙を理解できる有益な AGI を構築するための重要なステップだと述べる。今後数か月間で、画像、音声、ビデオなどのさまざまなモダリティにわたって、両方の機能が大幅に改善される予定だという。
+
+
+
+## NTT「tsuzumi」視覚情報を含む文書を理解　DX対応のコア技術として期待
+同じ日に{target=“_blank”}のあったNTTの「tsuzumi」は、テキストベースの情報だけでなく、図表やアイコンなど視覚情報も含む文書を総合的に理解する能力を備えているとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この技術は、文書画像を言語モデルの表現に変換する新しいアダプタ技術を用いており、任意の視覚読解タスクに対して高い指示遂行能力を示している。これにより、オフィス作業や専門文献の読書補助など、多岐にわたる分野での応用が期待されている。
+
+
+**LLMの推論能力を活用した視覚読解技術の概要図**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 16 Apr 2024 07:05:35 +0000</pubDate></item><item><title>マイクロソフト、日本のAI及びクラウド基盤増強に4400億円投資
 </title><link>https://ledge.ai/articles/microsoft_to_invest_in_ai_and_cloud_in_japan</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -383,47 +449,7 @@ AI技術の進化が特定の職種を圧迫する一方で、新たな機会を
 :::box
 
 :::
-</description><pubDate>Wed, 10 Apr 2024 14:17:59 +0000</pubDate></item><item><title>noteと弁護士ドットコム、クリエイターの安心を守るため誹謗中傷対策プロジェクトを発足</title><link>https://ledge.ai/articles/note-bengo4com_collaborative_project_to_prevent_online_flamings</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月8日、弁護士ドットコムとnote株式会社は、インターネット上の誹謗中傷や炎上といった問題に対処するための共同プロジェクトを発足したことを{target=“_blank”}した。
-
-このプロジェクトは、AI技術と法律の専門知識を組み合わせ、誹謗中傷や炎上を未然に防ぎ、問題発生時のサポートを提供することで、クリエイターが安心して活動できる環境を実現することを目指している。
-
-プロジェクトの背景には、インターネット上の問題が社会生活に与える影響の増大がある。noteでは、サービス開始以来、多様な意見交換の場として機能してきたが、一方で、SNS上の発言が深刻な結果を招くケースも散見される。このような状況に対し、noteと弁護士ドットコムは問題への積極的な取り組みを決定したという。
-
-共同プロジェクトでは、note上での投稿前に、AIがリスクのある内容を検出し、クリエイターに警告する機能の開発を行う。そして、誹謗中傷や炎上に巻き込まれた際に利用できる、AIによる法律相談チャットボットの設置が計画されている。また、弁護士ドットコムが提供する無料法律相談サービスとの連携を通じて、専門家へのアクセスを容易にする。クリエイターが自身を守るための知識を学べる勉強会の開催も予定されているとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-今後、noteと弁護士ドットコムは、このプロジェクトを通じて、権利侵害や名誉棄損などの法律問題への迅速な対応や、知的財産の保護と展開を支える仕組みづくりにも取り組む予定だ。
-
-!
-（左から）弁護士ドットコム 代表取締役社長兼CEO 元榮太一郎氏、note 代表取締役CEO 加藤貞顕氏、note　CXO 深津貴之氏
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-noteの代表取締役CEOである加藤貞顕氏は、自らが編集者だった経験を踏まえ、クリエイターを「守る」役割の重要性について語った。noteはこれまで、クリエイターの作品を広めるだけでなく、その保護にも力を注いできたという。インターネットの普及により発信者が増え、それに伴う問題も増加している現状に触れ、弁護士ドットコムとの提携により、インターネットを安心して使用できる環境の構築に努めると述べている。
-
-一方、弁護士ドットコム株式会社の代表取締役社長兼CEO、元榮太一郎氏は、現代においてSNSを通じたコミュニケーションが日常化している中で、言葉による被害や加害のリスクが高まっていることを指摘した。自らの発言に慎重を期することの重要性を強調し、問題を未然に防ぐための「未炎」施策をnoteとの連携によって展開していく意向を示した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 10 Apr 2024 03:40:53 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Wed, 10 Apr 2024 14:17:59 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
