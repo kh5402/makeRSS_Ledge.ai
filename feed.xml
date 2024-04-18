@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Apr 2024 06:39:03 +0000</lastBuildDate><item><title>生成AIマーケットの歪みを正し、大企業を革新する - GenerativeXの使命とは</title><link>https://ledge.ai/articles/generativex-2024-interview-2</link><description>前回の記事では、生成AIの概況と革新性についてGenerativeXに聞いた。一方、これほどの革新性を備え、ビジネスを変革する可能性を秘めながらも、国内で生成AI活用に成功した企業はまだ多くない。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Apr 2024 08:34:02 +0000</lastBuildDate><item><title>GMO、生成AIを活用して業務時間10万6,000時間を創出　有料ツールの利用状況トップ10も発表</title><link>https://ledge.ai/articles/gmo_creates_work_hours_with_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月9日、GMOインターネットグループは、生成AIを活用し従業員が大幅な業務時間削減を達成したと{target=“_blank”}した。
+
+同社によると、派遣パートナーやアルバイトを含む従業員の73.2%が生成AIを業務に利用しており、シフト勤務者を除くとその割合は78.7%に上る。特に、生成AIを用いることで、月間約10万6000時間、663人月分の業務時間が創出され、従業員は創造的な業務や新たなプロジェクトに集中できるようになったという。
+
+!
+:::small
+画像の出典：{target=“_blank”
+:::
+
+### 🔳有料ツールの活用状況
+調査では、グループ内での有料ツールの具体的な活用状況も明らかにされた。従業員の自由記述でされた報告によると、GitHub Copilot、ChatGPT、Midjourneyなどがリストの上位にあげられた。これらのツールは、コードの自動補完、テキストや画像の生成、デザイン作成、翻訳など、多岐にわたる業務で利用されており、業務の自動化と効率化に寄与しているという。
+
+1. GitHub Copilot（開発者支援）
+2. ChatGPT（文章生成・画像生成等）
+3. Midjourney（画像生成）
+4. Gemini（文章生成）
+5. Claude（文章生成）
+6. Canva（デザイン）
+7. DeepL（翻訳）
+8. miibo（会話型AI開発）
+9. Notion（文章生成・タスク管理等）
+10. Adobe Firefly（画像生成）
+
+
+### 🔳AI活用を行うパートナーの声、活用実績
+
+!
+:::small
+画像の出典：{target=“_blank”
+:::
+
+
+同社は今後も定期的にAIの活用状況を調査し、非エンジニアでも高度なAIを活用できるよう環境整備と教育プログラムを進めていくとのこと。
+
+
+🔳調査概要
+2024年3月11日（月）から15日（金）にかけて、GMOインターネットグループの国内パートナー（正社員、派遣社員、アルバイト）5,857人を対象に（有効回答5,235人）アンケートを実施
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Wed, 17 Apr 2024 08:34:02 +0000</pubDate></item><item><title>生成AIマーケットの歪みを正し、大企業を革新する - GenerativeXの使命とは</title><link>https://ledge.ai/articles/generativex-2024-interview-2</link><description>前回の記事では、生成AIの概況と革新性についてGenerativeXに聞いた。一方、これほどの革新性を備え、ビジネスを変革する可能性を秘めながらも、国内で生成AI活用に成功した企業はまだ多くない。
 
 なぜ企業の生成AI活用は足踏みしているのか。生成AI活用を妨げる「マーケットの歪み」とは何か。そんな中で誕生した新時代の生成AIベンチャーGenerativeXは、いかにして企業――特に各業界をリードするTier1企業の革新を進めるのか。前回記事に続き、GenerativeX共同創業者で取締役CSOの上田 雄登氏に聞いた。
 
@@ -451,39 +505,7 @@ OpenAI Japanの新社長には長﨑忠雄氏が就任した。アマゾン・�
 :::box
 
 :::
-</description><pubDate>Mon, 15 Apr 2024 14:19:35 +0000</pubDate></item><item><title>Googleが「Gemini for Google Cloud」を発表　クラウド内での生産性向上を実現</title><link>https://ledge.ai/articles/gemini_for_google_cloud</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-Googleは2024年4月10日、Google Cloudの製品ポートフォリオに最新の生成AI技術「Gemini」を組み込んだことを{target=“_blank”}した。
-
-これは、開発者、Google Cloudサービス、そしてアプリケーション向けの次世代AIアシスタントで、Googleの最新のGeminiモデル群を利用して、チームはクラウド内でより多くの作業を効率的に行えるようになるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Gemini for Google Cloudは、産業界をリードする可用性を持ち、堅牢なセキュリティ、コンプライアンス、プライバシー制御を備えたエンタープライズレディなAI機能を提供する。
-
-特に、新たに発表された「Gemini Code Assist」は、VS CodeやJetBrainsなどの人気コードエディタで開発者がアプリケーションを高速かつ高品質に構築できるようAIによる支援を行う。これにより、オンプレミス、Gitlab、Github、Bitbucket、複数のリポジトリにまたがるプライベートコードベースをサポートするという。
-
-さらに、「Gemini Cloud Assist」や「Gemini in Security Operations」など、クラウドチームがアプリケーションのライフサイクルを設計、運用、最適化するのを助ける新しい機能も紹介された。
-
-これらのツールは、Google Cloudのリソースを理解し、新しい設計の作成、ワークロードの展開、アプリケーションの管理、問題のトラブルシューティング、パフォーマンスとコストの最適化を支援する。
-
-Googleは新たな機能を通して、Googleは開発者の創造性を解放し、生産性を向上させることにコミットし、業界全体のイノベーション加速を目指すという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 14 Apr 2024 13:35:27 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 15 Apr 2024 14:19:35 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
