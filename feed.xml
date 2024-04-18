@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Apr 2024 07:20:41 +0000</lastBuildDate><item><title>約60%の学生が就活でチャットAIを活用、前年度から20％増加　2025年卒大学生を対象にマイナビが調査</title><link>https://ledge.ai/articles/mynavi2024_research</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Apr 2024 06:28:58 +0000</lastBuildDate><item><title>インテル、新AI半導体「Gaudi 3」を発表 ─ NVIDIAの主力製品を上回る性能で市場挑戦</title><link>https://ledge.ai/articles/gaudi3_intel_vision2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+インテルは2024年4月9日、アリゾナ州フェニックスで開催された「Intel Vision 2024」イベントで、新しいAI半導体「Gaudi 3」を{target=“_blank”}した。
+
+Gaudi 3 は生成AIの処理速度とエネルギー効率の両面で向上が見られ、競合するNVIDIA H-100に対して平均50%高い推論パフォーマンスと40%の電力効率の向上を実現したという。同社はこの新チップにより、AI半導体市場でのシェア拡大を目指す。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+インテルCEOのパット・ゲルシンガー氏は基調講演で、Gaudi 3の市場導入に向けた意気込みを語り、NVIDIAに対する競争姿勢を鮮明にした。また、同社は「Xeon 6」プロセッサの新シリーズも同時に発表。これら新プロセッサは、AI処理性能を大幅に向上させる設計が施されており、データセンターからエッジコンピューティングまで幅広い用途に対応する。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 17 Apr 2024 06:28:58 +0000</pubDate></item><item><title>約60%の学生が就活でチャットAIを活用、前年度から20％増加　2025年卒大学生を対象にマイナビが調査</title><link>https://ledge.ai/articles/mynavi2024_research</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -406,54 +435,7 @@ AI Playlistへのアクセス方法は以下の通り。Spotifyモバイルア�
 
 :::
 
-</description><pubDate>Sat, 13 Apr 2024 13:25:25 +0000</pubDate></item><item><title>OpenAI、画像理解可能な「GPT-4 Turbo with Vision」を「OpenAI API」で公開、GPT-4 Turboの機能向上も</title><link>https://ledge.ai/articles/openai_gpt4_turbo_with_vision</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-OpenAIは現地時間の2024年4月9日、マルチモーダルAIモデル「GPT-4 Turbo with Vision」を API で一般公開したことを、同社のX公式アカウントで{target=“_blank”}した。このモデルは、既存のGPT-4 Turboの機能に加え、画像やビジュアルコンテンツの理解が可能なビジョン機能を搭載している。
-
-GPT-4 Turbo with Visionは、テキストだけでなく画像情報も処理できるため、開発者はテキストと画像のために別々のモデルを呼び出す必要がなくなり、作業プロセスの簡略化が可能となる。これにより、開発者はより幅広いユースケースに対応するアプリケーションを効率的に開発できるようになるという。
-
-例えば、完全自律型AIソフトウェアエンジニアのは、さまざまなコーディング タスクにビジョンを使用する GPT-4 Turbo を搭載している。Xでは、OpenAIの開発アカウントがそのデモの様子を動画で投稿し、紹介した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-その他にも、健康・フィットネスアプリ「Healthify」では、ユーザーの食事写真をスキャンし、写真認識を通じて栄養情報を提供しており、食事管理の精度を向上させている様子を紹介。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-12日、同社はさらに、ChatGPTの有料ユーザー向けに「GPT-4 Turbo」の新モデルが利用可能になったことを{target=“_blank”}した。
-
-このモデルでは、文章作成、数学、論理的推理、コーディングの能力が向上しており、特にChatGPTでの文章作成では、返答がより直接的で簡潔になり、会話語を多用するよう改善されている。このモデルはChatGPT Plus、Team、Enterprise、APIで利用可能。ソースはGitHubで{target=“_blank”}されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 12 Apr 2024 12:25:34 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sat, 13 Apr 2024 13:25:25 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
