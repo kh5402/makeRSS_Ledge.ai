@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Apr 2024 06:28:58 +0000</lastBuildDate><item><title>生成AIマーケットの歪みを正し、大企業を革新する - GenerativeXの使命とは</title><link>https://ledge.ai/articles/generativex-2024-interview-2</link><description>前回の記事では、生成AIの概況と革新性についてGenerativeXに聞いた。一方、これほどの革新性を備え、ビジネスを変革する可能性を秘めながらも、国内で生成AI活用に成功した企業はまだ多くない。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Apr 2024 06:39:03 +0000</lastBuildDate><item><title>生成AIマーケットの歪みを正し、大企業を革新する - GenerativeXの使命とは</title><link>https://ledge.ai/articles/generativex-2024-interview-2</link><description>前回の記事では、生成AIの概況と革新性についてGenerativeXに聞いた。一方、これほどの革新性を備え、ビジネスを変革する可能性を秘めながらも、国内で生成AI活用に成功した企業はまだ多くない。
 
 なぜ企業の生成AI活用は足踏みしているのか。生成AI活用を妨げる「マーケットの歪み」とは何か。そんな中で誕生した新時代の生成AIベンチャーGenerativeXは、いかにして企業――特に各業界をリードするTier1企業の革新を進めるのか。前回記事に続き、GenerativeX共同創業者で取締役CSOの上田 雄登氏に聞いた。
 
@@ -226,7 +226,13 @@ Ethos-U85は、前世代比で性能を4倍に、エネルギー効率を20%向�
 
 **上田**：生成AIの登場で、まるで水が土にしみこんでいくように、「AI」という存在が社会にしみわたっていくと考えています。先ほど申し上げたように、従来型のAIはほしい機能を実現するために狙いすまして作り上げるものでした。いわば巨大な建造物を造るようなものです。しかし、生成AIはそうではなく、もうすでにすべての人の目の前に存在しています。「これに使いたい」と思えば、すぐに使えます。学習データを集める必要もないし、アノテーションする必要もありません。
 
-生成AIにより、AIは「当たり前にあるもの」になっていくでしょう。たとえばインターネットも以前は「インターネットを使う」と意識して使っていましたが、今はそんなこと意識せずに自然に使っていますよね。それが「しみわたる」ということであり、AIもそうなっていくでしょう。</description><pubDate>Tue, 26 Mar 2024 02:25:27 +0000</pubDate></item><item><title>GPTやGeminiに続け！画像が読めるLLMが次々と　イーロン・マスク氏の「Grok」とNTTの「tsuzumi」　画像認識機能を搭載した最新AI技術を発表</title><link>https://ledge.ai/articles/grok1-5v_tsuzumi_multimordalized</link><description>:::small
+生成AIにより、AIは「当たり前にあるもの」になっていくでしょう。たとえばインターネットも以前は「インターネットを使う」と意識して使っていましたが、今はそんなこと意識せずに自然に使っていますよね。それが「しみわたる」ということであり、AIもそうなっていくでしょう。
+
+:::box
+
+:::
+
+</description><pubDate>Tue, 26 Mar 2024 02:25:27 +0000</pubDate></item><item><title>GPTやGeminiに続け！画像が読めるLLMが次々と　イーロン・マスク氏の「Grok」とNTTの「tsuzumi」　画像認識機能を搭載した最新AI技術を発表</title><link>https://ledge.ai/articles/grok1-5v_tsuzumi_multimordalized</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2279,7 +2285,39 @@ Sakana AIの取り組みは、日本に根差したAIラボとして、高品質
 :::box
 
 :::
-</description><pubDate>Sat, 23 Mar 2024 14:33:04 +0000</pubDate></item><item><title>イスラエル国防軍、AI標的システム「ラベンダー」を使用してガザのターゲットを特定</title><link>https://ledge.ai/articles/lavender_ai_israeli_army_gaza</link><description>:::small
+</description><pubDate>Sat, 23 Mar 2024 14:33:04 +0000</pubDate></item><item><title>東京都、AIを活用した建物被害判定支援ツールを開発　災害時の罹災証明を迅速化</title><link>https://ledge.ai/articles/metro_tokyo_ai-based_building_damage_assessment_support_tool</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京都知事小池百合子氏は、2024年3月29日の知事記者会見を通じ、AI技術を活用した建物の被害状況を判定する支援ツールの開発を{target=“_blank”}した。
+
+このツールは、特に災害時の建物損傷を評価するために設計されており、住家被害認定の精度向上とプロセスの効率化を目指す。
+
+会見内容によると、このAI支援ツールは、住家の外壁を撮影し、損傷箇所を自動で検出する機能を持ち、得られた画像データはAIによって解析され、損傷の程度を示すことで調査員が被害認定の参考にすることができるという。
+
+被害判定の基準は非常に複雑であり、現行の方法では認定作業に多大な時間と専門知識が求められる。この新しいツールにより、判定のばらつきを抑え、迅速かつ公平な認定が可能になると知事は述べた。
+
+さらに、東京都は国に対しても住家被害判定方法の簡略化やAI技術の積極的な活用を促している。知事は、「いつ起こるかもしれない首都直下地震への備えとして、このAIツールの開発は極めて重要」と強調。技術の進化と共に、精度を高めるためのデータ蓄積も進める方針を示した。
+
+このツールの具体的な使用例として、記者会見中には、破損した建物の画像がスライドで示され、AIがどのように損傷を検出し学習していくかが説明された。今後、このツールは東京都内外の災害対応の現場で広く利用される予定とのことだ。
+
+会見後の担当者からの説明によると、このAI支援ツールは、木造モルタル住宅の壁面を撮影する際に特に有効で、画像一枚あたり数秒で損傷程度を判定できる速度が特徴だという。しかし、AIの誤認識も報告されており、垂れ下がった電線を壁のひび割れと誤認するケースもあるため、技術の更なる精練が求められている。東京都はAI技術の進展とともに、これらの課題を克服し、より信頼性の高いツールを提供する目標を掲げている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 17 Apr 2024 06:39:03 +0000</pubDate></item><item><title>イスラエル国防軍、AI標的システム「ラベンダー」を使用してガザのターゲットを特定</title><link>https://ledge.ai/articles/lavender_ai_israeli_army_gaza</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2599,27 +2637,7 @@ G7各国は、公的部門での安全で信頼できるAIの利用を促進す�
 :::box
 
 :::
-</description><pubDate>Sun, 03 Mar 2024 08:27:08 +0000</pubDate></item><item><title>日本政府 AIセーフティ・インスティテュート設立へ</title><link>https://ledge.ai/articles/japan_ai_safety_institute</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年2月14日、内閣府と独立行政法人情報処理推進機構（IPA）は、AIの安全性に対する国際的な関心の高まりを踏まえ、AIセーフティ・インスティテュートの設立を{target=“_blank”}した。
-
-主な業務としては、国内外のネットワークを活用して、安全性評価に関する調査や基準の検討、実施手法に関する検討、および他国の関係機関との国際連携などが挙げられている。関係省庁には内閣府、内閣官房、警察庁、デジタル庁などが名を連ね、関係機関には情報通信研究機構や理化学研究所などが含まれる。
-
-同機関はIPAに設置され、所長には元日本IBMのAI研究者であり、損保ジャパンCDO及び京都大学防災研究所客員講師を務める村上明子氏が就任した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 20 Feb 2024 11:02:30 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
+</description><pubDate>Sun, 03 Mar 2024 08:27:08 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
