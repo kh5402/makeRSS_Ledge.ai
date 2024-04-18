@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Apr 2024 07:05:35 +0000</lastBuildDate><item><title>英半導体Arm、性能を4倍に向上させたエッジAI向け新NPU（ニューラル・プロセッシング・ユニット）「Ethos-U85」を発表</title><link>https://ledge.ai/articles/arm_ethos-u85</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Apr 2024 07:20:41 +0000</lastBuildDate><item><title>約60%の学生が就活でチャットAIを活用、前年度から20％増加　2025年卒大学生を対象にマイナビが調査</title><link>https://ledge.ai/articles/mynavi2024_research</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社マイナビは2025年卒業予定の大学生を対象に実施した「マイナビ2025年卒大学生活動実態調査（3月）」の結果を4月5日に{target=“_blank”}した。
+
+「対話形式で生成系AIが質問に答えるサービス（「ChatGPT」等）」の利用経験を聞いたところ、就職活動以外も含め利用したことがある割合は59.7％（前年比20.5ポイント増加）と半数以上が利用経験者であることが分かった。その中で就職活動で利用したことがある割合は35.2％（前年比16.8ポイント増加）となり、生成系AIの利用がより一般的になり様々な場面で利用機会が広がっている。
+
+一方{target=“_blank”}によると、企業側は就職活動での生成系AIを利用したサービス活用について「使い方に気を付けたうえで活用してほしい」という意見が4割を超えている。情報の信憑性など利用においては注意が必要だが、利用方法次第でスキルのひとつに繋がるとも考えられる。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+調査は2024年3月25日から3月31日に2025年3月卒業予定の全国の大学生、大学院生を対象としWebアンケートを実施。有効回答数は2,963名。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 16 Apr 2024 07:20:41 +0000</pubDate></item><item><title>英半導体Arm、性能を4倍に向上させたエッジAI向け新NPU（ニューラル・プロセッシング・ユニット）「Ethos-U85」を発表</title><link>https://ledge.ai/articles/arm_ethos-u85</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -431,39 +453,7 @@ GPT-4 Turbo with Visionは、テキストだけでなく画像情報も処理で
 
 :::
 
-</description><pubDate>Fri, 12 Apr 2024 12:25:34 +0000</pubDate></item><item><title>福島第一原発1号機の調査に狭小空間点検ドローン「IBIS」が活躍</title><link>https://ledge.ai/articles/liberaware_ibis-tepco_drone_used_to_survey_inside_reactor_containment_vessel</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月5日、ドローンでの点検・測量・検査を行う株式会社 Liberaware は、自社が開発・製造する狭小空間点検ドローン「IBIS」が、東電による福島第一原子力発電所1号機原子炉格納容器（以下、PCV）内部調査に活用されたことを{target=“_blank”}した。
-
-この調査は2月28日及び3月14日に実施され、これまで確認ができていなかったエリアの撮影に成功した。
-
-1号機 PCV 内部調査は、2011年の東日本大震災以降初めてとなる気中調査であり、ドローンを活用した調査も今回が初めて。調査は「IBIS」を用いて行われ、計4機が使用された。撮影された映像からは、内壁のコンクリートに大きな損傷がないことや、特定のエリアにつらら状・塊状の物体が存在することなどが確認された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-IBISが選定された理由は、PCV内部の複雑な環境に適している点だという。20cm四方の小型サイズでありながら、超高感度カメラとLED照明を搭載しているため、暗所でも鮮明な映像を撮影できる。また、同社が独自開発したフライトコントローラーにより、柔軟なカスタム対応が可能とのこと。
-
-今回のプロジェクトを通じて得た成果を基に、同社はより多角的に顧客のニーズに応え、社会に貢献していくとしている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Thu, 11 Apr 2024 07:31:50 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Fri, 12 Apr 2024 12:25:34 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
