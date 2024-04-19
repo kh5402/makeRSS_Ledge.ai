@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Apr 2024 06:32:36 +0000</lastBuildDate><item><title>「無駄なPoCにサヨナラ」大企業×GenerativeXで実現する生成AI活用事例</title><link>https://ledge.ai/articles/generativex-2024-interview-3</link><description>2022年11月に登場したChatGPTから始まった生成AIブーム。1年半が経った今、多くの企業が生成AIの導入を検討しており、開発が盛り上がりを見せている。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Apr 2024 02:02:50 +0000</lastBuildDate><item><title>2024年のAIトレンドは？企業の生成AI活用状況は？上半期のAIニュースを振り返るLedge.ai EXPO 2024 Summer</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer-teaser</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは特集型イベント『Ledge.ai EXPO 2024 Summer』の事前登録及びスポンサー企業の募集を開始いたしました。
+同イベントは2024年6月10日から28日にかけてオンライン特設サイトにて公開いたします。
+
+:::button
+{target=“_blank”}
+:::
+
+## 2024年上半期のAIニュースを総ざらい
+ChatGPTの登場に代表される「生成AI」のブーム。日々技術進化や活用事例の報道がなされ、ビジネスパーソンにとっては、あらゆる話題を網羅的に把握することの難易度が上がってきているのではないかと感じております。
+AIセントリックなビジネスメディアであるLedge.aiでは、2024年上半期から下半期への節目の6月に、半年間のAIニュースのうちとりわけ注目すべきニュースのピックアップや、今後さらに注目が高まるであろうキーワードの解説を中心とした特集型のイベントサイトを公開いたします。
+
+また、Ledge.ai読者を中心に生成AI活用状況や、取り組みに対する見解、姿勢についてのを実施。イベントサイトにて集計結果の公開を予定しております。AI関連の情報に感度の高いLedge.ai読者の「今」が浮かび上がるデータとなるのではないかと考えておりますので、ぜひチェックしていただければと思います。
+
+アンケートにご回答いただいた方には限定で、サイト掲載情報より詳細な集計結果レポートを後日配布予定です（匿名での回答可）。先行サイト内のリンクより回答を行えます。
+
+
+## 掲載予定のコンテンツ
+
+!
+
+- **キーノートセッション**：coming soon...
+- **AI関連の注目キーワード解説記事**：AIの最前線を解き明かす。注目のキーワードを丁寧に解説し、話題の技術の背景と可能性を深掘りします。
+- **Ledge.aiニュース記事ピックアップ**：業界の動向、革新的な技術、市場の変化を、精選された記事で迅速にお届けします。
+- **生成AI活用状況アンケート集計結果**：AIの現在地と未来を読み解きます。
+- **Ledge.aiニュース記事ピックアップ**：業界トップの企業が語る、AIビジネスの最前線。
+
+
+## イベントスポンサーも募集中
+
+!
+
+本イベントサイトでの情報発信をより魅力的なものに力添えいただけるスポンサーの募集も行っています。
+サイトでのウェビナーを通じて、貴社のソリューションを参加者へアピールすることができます。詳しくは下記URLから確認とお問い合わせを。
+
+</description><pubDate>Fri, 19 Apr 2024 02:02:50 +0000</pubDate></item><item><title>「無駄なPoCにサヨナラ」大企業×GenerativeXで実現する生成AI活用事例</title><link>https://ledge.ai/articles/generativex-2024-interview-3</link><description>2022年11月に登場したChatGPTから始まった生成AIブーム。1年半が経った今、多くの企業が生成AIの導入を検討しており、開発が盛り上がりを見せている。
 
 一方で、従来のシステム開発のやり方をそのまま生成AI開発に当てはめて無駄なPoCを繰り返してしまい、結果として生成AIのメリットを損なってしまう企業が多いのも事実だ。生成AIは汎用的な基盤モデルであり、従来なら必要だったデータ収集や整備が不要になるのが最大のメリット。しかもプロンプトエンジニアリングさえ覚えれば、AIのスペシャリストでなくとも運用が可能だ。長い期間と膨大なコストをかけて開発を進めるのではなく、まずは使ってみることが重要なのである。
 
@@ -63,6 +97,7 @@
 :::box
 
 :::
+
 </description><pubDate>Tue, 26 Mar 2024 02:30:06 +0000</pubDate></item><item><title>Meta、自社開発AIチップ「MTIA」第2世代を発表—前世代の3倍の性能を実現し、データセンターにも導入</title><link>https://ledge.ai/articles/meta_next_gen_mita</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -221,7 +256,9 @@ CEOであるマーク・ザッカーバーグ氏は、同チップを用いて�
 
 :::
 
+:::box
 
+:::
 </description><pubDate>Tue, 26 Mar 2024 02:27:54 +0000</pubDate></item><item><title>インテル、新AI半導体「Gaudi 3」を発表 ─ NVIDIAの主力製品を上回る性能で市場挑戦</title><link>https://ledge.ai/articles/gaudi3_intel_vision2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -505,37 +542,7 @@ Ethos-U85は、前世代比で性能を4倍に、エネルギー効率を20%向�
 :::box
 
 :::
-</description><pubDate>Mon, 15 Apr 2024 07:49:52 +0000</pubDate></item><item><title>GoogleがAI動画制作アプリ「Google Vids」を発表　Gemini for Google Workspaceによる機能強化　6月リリース予定</title><link>https://ledge.ai/articles/google_cloud_next24_google_vids</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Gppgleは2024年4月9～11 日で開催されたGoogleの年次イベント「Google Cloud Next '24」で、WorkspaceのAI動画制作アプリ「Google Vids」を{target=“_blank”}した。
-
-このアプリは、プレゼンテーションやプロモーションビデオの制作を容易にするAI駆動のツールで、Google Docs、Sheets、Slidesと並ぶ製品群に加わるという。6月にWorkspace Labsを通してリリースされる予定とのことだ。
-
-
-@
-
-
-
-Google Vidsは、ユーザーが簡単に編集可能なストーリーボードを生成し、選択したスタイルに基づいてストックビデオ、画像、背景音楽からシーンを組み合わせてビデオの初稿を作成する機能を持つ。また、事前設定されたボイスオーバーやユーザー自身の声を使用して、メッセージを効果的に伝えるサポートも提供するという。
-
-ユーザーは「Start with a template」機能で、多様なテンプレートから選択し、初稿を自動生成する「Help me create」機能を利用して、動画制作のプロセスを迅速化できる。さらに、生成されたスクリプトや事前設定されたボイスオーバーを利用して、ビデオに声を付けることが可能である。
-
-同社は、Google Vidsが、職場でのコミュニケーションやプレゼンテーションを強化し、誰もが効果的なストーリーテラーになるための支援を提供するという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 15 Apr 2024 07:45:03 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 15 Apr 2024 07:49:52 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1897,7 +1904,26 @@ Copilot ChatはGPT-4を使用しており、より正確なコードの提案と
 
 :::box
 
-:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>イーロンマスク率いるニューラリンクのライバル会社「シンクロン」が脳インプラント臨床試験の患者募集を始める</title><link>https://ledge.ai/articles/synchrone_launches_patient_registry</link><description>:::small
+:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>AppleがスマートフォンのUI画面を認識できるマルチモーダルLLM「Ferret-UI」に関する論文を発表</title><link>https://ledge.ai/articles/apple_ferretui_mllm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Appleは2024年4月8日、スマートフォンのUI画面を認識するために設計したマルチモーダル大規模言語モデル（MLLM）「Ferret-UI」を開発したと{target=“_blank”}した。
+
+最近注目されているマルチモーダル大規模言語モデル（MLLM）だが、スマートフォンのUI画面を認識するにはパフォーマンスが不足していると言われている。スマートフォンのUI画面は縦長に対してトレーニングで使用される画像のほとんどが横長でアスペクト比が異なることが理由のひとつとされている。
+
+今回発表された「Ferret-UI」は、スマートフォンのUI画面に含まれるアイコンやテキストなどの小さな対象物に対応するため、画像の細部を拡大し強化された視覚的特徴を活用する「any resolution」という技術を組み込み画面の解像度に関係なくUIの詳細をより正確に認識することができるようだ。
+
+アイコン認識、テキストの検索、ウィジェットのリスト化など幅広い基本的なUIタスクをトレーニングサンプルとして収集しており、領域ごとにアノテーションが付けられている。これらのサンプルは言語と画像の基礎付けや参照が容易になり、多くのサンプルを学習することでUIをより正確に理解できるようになっている。
+
+{target=“_blank”}によると「Ferret-UI」はGPT-4Vなど既存のUI対応MLLMを上回る優れた性能を示しているようだ。iPhoneに搭載しているSiriと連携し、より高度なタスクを自動化できるようになればさらに様々な場面で役立つツールになりアクセシビリティ向上が期待できるという。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 17 Apr 2024 08:19:40 +0000</pubDate></item><item><title>イーロンマスク率いるニューラリンクのライバル会社「シンクロン」が脳インプラント臨床試験の患者募集を始める</title><link>https://ledge.ai/articles/synchrone_launches_patient_registry</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2314,30 +2340,7 @@ Sakana AIの取り組みは、日本に根差したAIラボとして、高品質
 :::box
 
 :::
-</description><pubDate>Sun, 24 Mar 2024 11:30:01 +0000</pubDate></item><item><title>京都ATRに新しい実験環境「ロボットスケートパーク」誕生　スケボーする人間の動きを学習し、人型ロボが再現</title><link>https://ledge.ai/articles/nedo_atr_cyborg_ai_challenge</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月12日、京都府精華町に位置する国際電気通信基礎技術研究所（ATR）内に、世界初の「ロボットスケートパーク」が設立され、その{target=“_blank”}が行われた。
-
-この施設は、スケートボードをする人の動きを人型ロボットが再現する実験に特化しており、スケートボードの基本技術である「ポンピング」などの動作を、AIの学習に基づき人型ロボットが実演し、人間の運動能力と脳波・筋電などの生体信号の計測を行う。得られたデータは、複雑な動きを指示できる高度なAIの開発に生かされるという ​​​​。
-
-ロボットスケートパークは、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の支援を受け、ATRが京都大学、産総研と共同で開発を進めている。人とAIの共進化を目的とした世界初の実験環境として、人やロボットが安全にスポーツを楽しめる設備や、人の筋肉や脳の機能を計測できるシステムが整備されている。また、人とロボットの運動を比較し類似性を視覚的に評価できるソフトウェアの開発も行われている​​​​。
-
-今後ATRは、2024年度「NEDO懸賞金活用型プログラム」の中で、「ロボットスケートパーク」で収集したデータを活用したコンテストの開催を予定しており、これにより「サイボーグAI」に関する基本技術の開発を加速させる計画だという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 23 Mar 2024 14:33:04 +0000</pubDate></item><item><title>Microsoft「米国大統領選が標的に」最新の脅威報告で、中国のAI操作による選挙介入を警告　韓国、インドの選挙にも同様の警告</title><link>https://ledge.ai/articles/microsoft_threat_intelligence_warned_chinese_ai_io</link><description>:::small
+</description><pubDate>Sun, 24 Mar 2024 11:30:01 +0000</pubDate></item><item><title>Microsoft「米国大統領選が標的に」最新の脅威報告で、中国のAI操作による選挙介入を警告　韓国、インドの選挙にも同様の警告</title><link>https://ledge.ai/articles/microsoft_threat_intelligence_warned_chinese_ai_io</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
