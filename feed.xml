@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Apr 2024 02:02:50 +0000</lastBuildDate><item><title>2024年のAIトレンドは？企業の生成AI活用状況は？上半期のAIニュースを振り返るLedge.ai EXPO 2024 Summer</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer-teaser</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは特集型イベント『Ledge.ai EXPO 2024 Summer』の事前登録及びスポンサー企業の募集を開始いたしました。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Apr 2024 05:59:58 +0000</lastBuildDate><item><title>Meta、オープンソースで商用化のLLM「Llama 3」を発表　AIアシスタント「MetaAI」も同時公開　ザッカーバーグ氏がインスタで熱弁</title><link>https://ledge.ai/articles/meta_llama3_meta-ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米Metaは2024年4月18日、新たな大規模言語モデル（LLM）の「Llama 3」を{target=“_blank”}した。この発表は、同社のCEOマーク・ザッカーバーグ氏が{target=“_blank”}でもアナウンスした。
+
+このモデルは、80億パラメータと700億パラメータの2つのバージョンで提供され、さらに4000億パラメータモデルの開発も進行中であることが明らかにされた。
+
+Llama 3は、オープンソースとして提供されるAI技術で、今後はAWS、Databricks、Google Cloud、Hugging Face、Kaggle、IBM WatsonX、Microsoft Azure、NVIDIA NIM、Snowflakeを通じて利用可能になる予定だ。この技術の開発にはAMD、AWS、Dell、Intel、NVIDIA、Qualcommといったハードウェアプラットフォームのサポートも得られているとのこと。
+
+このモデルは、前モデルの「Llama 2」に比べ、トレーニングデータセットが7倍に、コード量が4倍に増加しているという。英語以外のデータも5%以上を占めることで、多言語対応を強化した。
+
+ブログによると、「Llama 3」は以前のモデル「Llama 2」を大きく上回るパフォーマンスを実現し、業界基準のベンチマークで最高の成績を収めている。特に推論、コード生成、指示に基づくタスクの実行能力が向上しており、これによりAIはより操作しやすくなっている。
+
+**ベンチマークテストの結果**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+**人間による評価（勝っているか負けているかを聞くテスト）**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+Llama３を搭載した新しいAIアシスタント「Meta AI」の公開も同時に発表されている。日本でのサービスは現在のところ未定だ。
+
+このAIアシスタントは、学習、仕事の効率化、コンテンツの作成、コネクションの強化など、ユーザーの生活をサポートする多機能を提供するという。広範囲の用途に対応するために事前トレーニングおよび指示に基づくファインチューニングが施されているとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+同社は、このAIモデルを通じて、オープンソースがもたらす透明性とイノベーションの促進を重視している。さらに、AIモデルの責任ある使用と展開を推進するために、新しい信頼性と安全性のツール「Llama Guard 2」、「Code Shield」、および「CyberSec Eval 2」を導入している。
+
+将来的には、多言語およびマルチモダリティをサポートし、より長いコンテキストウィンドウやさらに強化されたパフォーマンスを実現する新モデルのリリースも予定しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Apr 2024 05:59:58 +0000</pubDate></item><item><title>2024年のAIトレンドは？企業の生成AI活用状況は？上半期のAIニュースを振り返るLedge.ai EXPO 2024 Summer</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer-teaser</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは特集型イベント『Ledge.ai EXPO 2024 Summer』の事前登録及びスポンサー企業の募集を開始いたしました。
 同イベントは2024年6月10日から28日にかけてオンライン特設サイトにて公開いたします。
 
 :::button
@@ -515,34 +567,7 @@ Ethos-U85は、前世代比で性能を4倍に、エネルギー効率を20%向�
 :::box
 
 :::
-</description><pubDate>Tue, 16 Apr 2024 06:33:41 +0000</pubDate></item><item><title>PIXTAが生成AI学習用素材としてコンテンツ販売へ　オプトアウト申請は4月22日までに</title><link>https://ledge.ai/articles/pixta_dataset_for_learning_genai</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年4月8日、ストックフォトサービス大手のPIXTAは、同社の画像コンテンツを生成AIの学習用データとして販売開始することを{target=“_blank”}した。
-
-これまで同社は、クリエイター提供の画像を、顔認証などの画像認識AI等の学習用データとして{target=“_blank”}が、生成AIについては提供に慎重な姿勢を示していた。しかし、顧客からの多数の問い合わせとビジネスチャンスを背景にこのたび方針転換したという。
-
-販売されるコンテンツには、写真、イラスト、動画が含まれ、これらは定額制サービスの一環として2024年4月22日の時点で提供されるものが対象である。オプトアウトを希望するクリエイターは、同日正午までに専用フォームを通じて手続きを行う必要がある。
-
-販売形態として、同社は個別のライセンス契約を顧客と結ぶことを想定しており、一般には不特定多数への提供は予定していない。また、生成AI用の学習データとして販売されるコンテンツから得られる収益の一部はクリエイターに還元される。
-
-同社は受領した売上（税抜）から自社の費用を控除した後の80%を取り、残り20%をクリエイター側の取り分としている。この還元は年度ごとに集計され、翌年の1月末日までにクレジットとして付与されるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 15 Apr 2024 07:49:52 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 16 Apr 2024 06:33:41 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
