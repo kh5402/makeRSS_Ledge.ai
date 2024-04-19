@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Apr 2024 06:28:47 +0000</lastBuildDate><item><title>Meta、自社開発AIチップ「MTIA」第2世代を発表—前世代の3倍の性能を実現し、データセンターにも導入</title><link>https://ledge.ai/articles/meta_next_gen_mita</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Apr 2024 06:32:36 +0000</lastBuildDate><item><title>Meta、自社開発AIチップ「MTIA」第2世代を発表—前世代の3倍の性能を実現し、データセンターにも導入</title><link>https://ledge.ai/articles/meta_next_gen_mita</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2295,7 +2295,39 @@ Sakana AIの取り組みは、日本に根差したAIラボとして、高品質
 :::box
 
 :::
-</description><pubDate>Sat, 23 Mar 2024 14:33:04 +0000</pubDate></item><item><title>東京都、AIを活用した建物被害判定支援ツールを開発　災害時の罹災証明を迅速化</title><link>https://ledge.ai/articles/metro_tokyo_ai-based_building_damage_assessment_support_tool</link><description>:::small
+</description><pubDate>Sat, 23 Mar 2024 14:33:04 +0000</pubDate></item><item><title>Microsoft「米国大統領選が標的に」最新の脅威報告で、中国のAI操作による選挙介入を警告　韓国、インドの選挙にも同様の警告</title><link>https://ledge.ai/articles/microsoft_threat_intelligence_warned_chinese_ai_io</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月4日、Microsoftの脅威分析センターは、中国がAIを利用したサイバー攻撃および情報操作を強化していると{target=“_blank”}した。同社は、特に中国がAIを活用してアメリカ、韓国、インドの選挙に影響を与えようとするだろうと指摘している。
+
+このレポートでは、2024年1月に行われた台湾の総統選挙で、中国がAI生成のオーディオやビデオを用いた介入がすでに行われていたことが示唆されている。
+
+台湾での選挙介入では、AIが生成したコンテンツが政治的なメッセージを強化し、特定の候補者を支持するかのような偽の情報が流された。この活動は、Microsoftの{target="_blank"}で初めて明らかにされ、以降その手法はさらに洗練されているという。
+
+**台湾選挙におけるAIの影響**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+上図で紹介されている「Storm-1376」の活動は、前回の脅威レポート以降に活発化しているという。Storm-1376は、中国共産党（CCP）に関連する情報操作グループで、特に台湾の政治家や中国の反体制派を標的に、AIを活用した情報操作を行っているとのこと。このグループはAI生成のニュースアンカーやミームを用いて、視聴者を欺くキャンペーンを展開しており、台湾だけでなく、アメリカや韓国など他の国々でも同様の活動が行われていることが報告されている。
+
+これらのキャンペーンはいくつかの重要な進化を遂げている。視聴者を欺くためにAIが生成した写真を取り入れたり、陰謀論的なコンテンツ（特に米国政府に対するもの）を煽ったり、ローカライズされたコンテンツで韓国などの新たな人口をターゲットにしたりしているとのことだ。
+
+
+中国はさらに、南太平洋諸島や南シナ海地域、米国防産業基地に対するサイバー攻撃を行っており、これらの攻撃は政治的および経済的な利益を追求するものだという。
+
+同社は、AIを活用した情報操作が、選挙期間以外にも国際的な緊張を引き起こす潜在的なリスクを持つと報告している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 18 Apr 2024 06:32:36 +0000</pubDate></item><item><title>東京都、AIを活用した建物被害判定支援ツールを開発　災害時の罹災証明を迅速化</title><link>https://ledge.ai/articles/metro_tokyo_ai-based_building_damage_assessment_support_tool</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2611,43 +2643,7 @@ G7各国は、公的部門での安全で信頼できるAIの利用を促進す�
 :::box
 
 :::
-</description><pubDate>Tue, 12 Mar 2024 05:27:15 +0000</pubDate></item><item><title>NTTグループ・内閣府など　石川県珠洲市で能登半島地震の住家被害認定調査の実施　ドローンや360度カメラ活用</title><link>https://ledge.ai/articles/noto_shien_drone</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年2月21日、NTT東日本グループ、ESRIジャパン株式会社、NTT西日本グループは、令和6年能登半島地震で大きな被害を受けた石川県珠洲市で、ドローンや360度カメラを用いた住家被害認定調査と、遠隔地からの被害判定支援を行ったことを{target=“_blank”}した。この活動は内閣府、石川県、珠洲市と連携し、応援自治体である熊本市・浜松市も参加して実施された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この取り組みの目的は、人の立ち入りが困難な地区での効率的な住家被害認定調査の実施と、調査人員の確保、迅速な罹災証明書の発行を通じて、被災者の生活再建を一日も早く実現することにある。
-
-珠洲市では、ドローンや360度カメラを活用し、特にアクセスが困難な山間部や海岸部での住家被害認定調査を行い、得られた画像データを基に遠隔地からの判定支援を実施した。この取り組みは、NTTグループが電気通信役務でのインフラ点検に活用している体制を基にし、事業者としては初の試みである。遠隔地からの判定は、応援職員が現地に行かずに自庁で実施することが可能であり、職員の負担軽減と住家被害認定調査の迅速化を実現した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-今回の取り組みにより、災害時における住家被害認定調査の新たな手法として、ドローンや360度カメラの活用が有効であることが証明された。今後はこの取り組みを基に、より迅速かつ公平公正な罹災証明書の発行を実現し、地震だけでなく水害や風害など他の災害にも対応できる体制の確立を目指す。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 03 Mar 2024 08:27:08 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
+</description><pubDate>Tue, 12 Mar 2024 05:27:15 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
