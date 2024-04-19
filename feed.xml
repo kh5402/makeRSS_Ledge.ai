@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Apr 2024 08:34:02 +0000</lastBuildDate><item><title>GMO、生成AIを活用して業務時間10万6,000時間を創出　有料ツールの利用状況トップ10も発表</title><link>https://ledge.ai/articles/gmo_creates_work_hours_with_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Apr 2024 06:28:47 +0000</lastBuildDate><item><title>Meta、自社開発AIチップ「MTIA」第2世代を発表—前世代の3倍の性能を実現し、データセンターにも導入</title><link>https://ledge.ai/articles/meta_next_gen_mita</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+2024年4月10日、Metaは自社開発のAIチップ「Meta Training and Inference Accelerator（MTIA）」の第2世代を{target=“_blank”}した。この新世代チップは、前世代に比べて性能が3倍に向上しており、すでに同社のデータセンターに導入されているという。
+
+「Artemis」というコードネームで開発されたこのカスタムメイドのチップは、5nmプロセスで製造されている。動作周波数は1.35GHzに達し、オンチップメモリは256MBとされている。熱設計電力は25Wから90Wへと大幅に増加しており、AIトレーニングと推論処理の効率がアップした。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+新しいMITAは、FacebookやInstagramなどのサービスにおけるランキングや推薦広告モデルの処理能力を強化しており、Meta特有のワークロードに最適なパフォーマンスを提供することを目的としている。前世代に比べて計算能力とメモリ帯域幅を大幅に向上させ、特有のシステムに密接に統合されている。
+
+また、データセンターへの早期導入により、これまでの市販GPUとは異なる独自の効率性を実現しているとのこと。
+
+CEOであるマーク・ザッカーバーグ氏は、同チップを用いて汎用人工知能（AGI）の開発とオープンソース化を進める計画を{target=“_blank”}しており、AI技術の革新を牽引し続ける姿勢を示している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 18 Apr 2024 06:28:47 +0000</pubDate></item><item><title>GMO、生成AIを活用して業務時間10万6,000時間を創出　有料ツールの利用状況トップ10も発表</title><link>https://ledge.ai/articles/gmo_creates_work_hours_with_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -460,52 +493,7 @@ Google Vidsは、ユーザーが簡単に編集可能なストーリーボード
 
 :::box
 
-:::</description><pubDate>Mon, 15 Apr 2024 03:04:35 +0000</pubDate></item><item><title>OpenAIが東京オフィス「OpenAI Japan」開設を発表　日本語特化版「GPT-4 Customized for Japanese」を手土産に</title><link>https://ledge.ai/articles/openai_japan_tokyo_office</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年4月15日、アジア初の拠点となる東京オフィスを開設すると{target=“_blank”}した。
-
-新拠点を通じて同社は、日本政府、地元企業、研究機関と連携し、日本独自のニーズに応える安全なAIツールの開発を進める計画だという。東京は、その技術力、サービス文化、革新を受け入れるコミュニティの存在により、アジアでの第一拠点として選ばれた。
-
-CEOのサム・アルトマン氏は、「日本は長い歴史を通じて、人々と技術が協力し、多くを成し遂げてきた。AIが、人々をより創造的で生産的になることを助け、まだ想像されていない新しい産業に広範囲に価値を提供することを加速できると信じている」と述べた。
-
-OpenAI Japanの新社長には長﨑忠雄氏が就任した。アマゾン・ウェブ・サービス（AWS）の日本法人で長年社長を務めた同氏が、日本市場での事業と市場への取り組みを率いる。
-
-## 高コスパ・高パフォーマンスの日本語特化版GPT-4を提供
-
-日本市場における長期的なコミットメントの一環として、同社は日本の企業に対し、日本語に最適化されたGPT-4カスタムモデル「GPT-4 Customized for Japanese」の早期アクセスを提供している。
-
-このモデルは、日本語のテキストの翻訳と要約において優れたパフォーマンスを発揮し、コストパフォーマンスも高く、前モデルに比べて最大3倍の速度で動作するという。英語学習アプリ「Speak」は、この技術を利用して、ユーザー（生徒）が間違えた際のチューター（指導者）の説明速度を2.8倍に向上させ、トークンコストを47%削減しているとのこと。カスタムモデルは、数か月以内にAPIで広くリリースされる予定。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社はすでに、ダイキン、楽天、TOYOTA Connectedなどの先導企業とも連携し、複雑なビジネスプロセスの自動化、データ分析の支援、内部報告の最適化を進めている。
-
-地方自治体もこの技術を活用し始めており、横須賀市は公共サービスの効率化を図るためにChatGPTを導入している。同市はすでにほぼ全ての市職員にChatGPTアクセスを提供し、80%が生産性の向上を報告している。さらに、横須賀市は東京都や神戸市を含む21の地方自治体とネットワークを形成し、政府におけるChatGPTの使用法のベストプラクティスを共有している。
-
-同社はまた、日本政府がG7広島AIプロセスを主導し、AI政策の実施に取り組んでいることに触れ、今後も日本のAIポリシーにおけるグローバルな議論に貢献し、地域社会の課題解決にAIを活用することで、人間の尊厳、多様性と包摂性、持続可能な社会の実現を目指していくと述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 15 Apr 2024 14:19:35 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+:::</description><pubDate>Mon, 15 Apr 2024 03:04:35 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
