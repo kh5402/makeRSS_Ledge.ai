@@ -2365,7 +2365,45 @@ Sakana AIの取り組みは、日本に根差したAIラボとして、高品質
 :::box
 
 :::
-</description><pubDate>Sun, 24 Mar 2024 11:30:01 +0000</pubDate></item><item><title>Microsoft「米国大統領選が標的に」最新の脅威報告で、中国のAI操作による選挙介入を警告　韓国、インドの選挙にも同様の警告</title><link>https://ledge.ai/articles/microsoft_threat_intelligence_warned_chinese_ai_io</link><description>:::small
+</description><pubDate>Sun, 24 Mar 2024 11:30:01 +0000</pubDate></item><item><title>自民党「キャッチコピーはAIが提案」新ポスター発表記者会見で「自民党AI」を披露　複数モデルを選択でき、API連携で利用</title><link>https://ledge.ai/articles/jiminto_ai_made_cach-copies</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+自民党は2024年4月15日、新たな政治活動用ポスターを{target=“_blank”}した。
+
+ポスターのキャッチコピー「経済再生 実感をあなたに。」の発案・選定や、デザイン制作に「自民党AI」が用いられたという。このAIは、過去3年間の党政策パンフレットや岸田文雄首相の演説データを基に、500案以上のフレーズを生成し候補を絞り込んだ。最終的には、岸田首相含む人間たちの目で評価し、コピーが確定したという。AIを活用することで「より多くの国民に政策の成果を実感してもらえるよう工夫した」とのこと。
+
+さらに、このポスターのビジュアルには、AIが生成した複数のデザイン要素が採用されており、従来の政治広報とは一線を画する新しい試みだという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この日、党の広報本部長である平井卓也氏は、スピーチ作成や政策立案への活用などに用いられるとして1月に各メディアが{target=“_blank”}自民党AIを、記者会見の場で公開した。最も特徴的なのは、AIモデルを１つに限定することなく、ユーザーが異なるモデルから最適なものを選択し、APIと連携して利用できるインターフェースであると述べた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+記者からの「ポスターのキャッチコピー作成時のプロンプトはどのようなものか？」という質問に平井氏は、もともと自民党AIには「キャッチコピー案作成」というアシスト機能が付与されており、ポスターに限らずプロジェクトに最適なコピーを生成すると回答した。このたびの「経済再生」というテーマをポスター作成の主軸に置こうと判断したのはあくまで「人間」であると強調。
+
+平井氏はまた、生成AIはプロンプトの良し悪しでその生成結果が大きく左右されることも多い。そのAIの機能を最大限引き出せるようなプロンプトを誰でも簡単に出せるようなアシスト機能を目指すとした。
+
+今のところ、党の広報だけが、限定的に自民党AIを取り扱うことができるという。学習についての権限も同様とのこと。今後、広報の立場を越えて使う場合のAIガバナンスについては、引き続き検討しながら、開発を続けていきたいと述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Apr 2024 03:34:03 +0000</pubDate></item><item><title>Microsoft「米国大統領選が標的に」最新の脅威報告で、中国のAI操作による選挙介入を警告　韓国、インドの選挙にも同様の警告</title><link>https://ledge.ai/articles/microsoft_threat_intelligence_warned_chinese_ai_io</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2688,32 +2726,7 @@ G7各国は、公的部門での安全で信頼できるAIの利用を促進す�
 :::box
 
 :::
-</description><pubDate>Sun, 17 Mar 2024 05:00:07 +0000</pubDate></item><item><title>富山県、生成AIとマルチモーダルAIによる職員の働き方改革を検証ーーインテックと共同で実証実験</title><link>https://ledge.ai/articles/toyama-intec_working_with_gen_and_multimodal_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-富山県とインテックは2023年9月から2024年3月にかけて、生成AIおよびマルチモーダルAIを用いた働き方改革の実証実験を共同で実施したことを{target=“_blank”}した。この実証実験は、自治体職員の業務効率化を目指し、書類のデータ化、書類検索、データの活用の3つの分野に焦点を当てた。
-
-このプロジェクトは、富山県が抱える地域課題をデジタルソリューションで解決する事例の創出や、ビジネスモデルの構築によってDX推進することを目的とした同県による事業「Digi-PoC TOYAMA」に採択された。
-
-実証実験の結果、データ検索では約97%の高い割合で目的のファイルを正確に検索でき、利用者が特別なスキルを必要とせずに結果を簡単に理解できる点が高く評価された。また、データの活用では、約86%の割合で利用可能なシナリオを作成でき、シナリオ検討および作成時間の大幅な削減に成功し、利用者の業務的、心理的負担の軽減が期待できることが明らかになった。
-
-インテックは、自治体への事業展開には、データ利用の安全性や正確性を更に向上させる必要があるとも指摘されていることも踏まえ、これまで自治体業務で培った知見と最新の技術を組み合わせ、他団体へのサービス展開を進めていく予定だという。
-
-本プロジェクトの{target=“_blank”}が、2024年3月28日に「Digi-PoC TOYAMA」の下で開催予定とのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 12 Mar 2024 05:27:15 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
+</description><pubDate>Sun, 17 Mar 2024 05:00:07 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
