@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Apr 2024 05:59:58 +0000</lastBuildDate><item><title>Meta、オープンソースで商用化のLLM「Llama 3」を発表　AIアシスタント「MetaAI」も同時公開　ザッカーバーグ氏がインスタで熱弁</title><link>https://ledge.ai/articles/meta_llama3_meta-ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Apr 2024 06:04:56 +0000</lastBuildDate><item><title>中国の裁判所、偽ウルトラマン画像の生成AI事業者に著作権侵害で20万円の賠償命令ーー AI生成コンテンツの著作権侵害に関する中国初の裁判</title><link>https://ledge.ai/articles/fake_ultraman_ordered_to_pay_compensation</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年2月8日、中国の広州インターネット裁判所は、ウルトラマンに酷似した画像を生成するAIサービスを提供した事業者に対して著作権侵害を認定し、損害賠償と画像生成の停止を命じる判決を下した。この判決は、AI生成コンテンツの著作権侵害に関する初の裁判として、複数の中国メディアから注目されている。
+
+被告となった事業者は、円谷プロダクションの許可なく「ウルトラマンティガ」と類似した画像をAIを用いて生成し、インターネット上で配信していた。円谷プロダクションは、中国でのライセンスを持つ代理店を通じて、これらの行為が同社の著作権を侵害しているとして訴訟を起こしたとのこと。
+
+!
+:::small
+画像の出典：判決文より抜粋
+:::
+
+裁判所は、AIによって生成された画像が円谷プロダクションの著作物の「翻案」と見なされること、及び事業者が無許可でこれらを作成・配信した行為が著作権侵害に該当すると判断した。その結果、事業者には1万元（約20万円）の損害賠償支払いが命じられた。さらに、関連画像の生成と配信の停止、及び将来にわたる類似侵害の防止措置が要求された。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Apr 2024 06:04:56 +0000</pubDate></item><item><title>Meta、オープンソースで商用化のLLM「Llama 3」を発表　AIアシスタント「MetaAI」も同時公開　ザッカーバーグ氏がインスタで熱弁</title><link>https://ledge.ai/articles/meta_llama3_meta-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -538,36 +564,7 @@ Ethos-U85は、前世代比で性能を4倍に、エネルギー効率を20%向�
 :::box
 
 :::
-</description><pubDate>Tue, 16 Apr 2024 07:05:35 +0000</pubDate></item><item><title>マイクロソフト、日本のAI及びクラウド基盤増強に4400億円投資
-</title><link>https://ledge.ai/articles/microsoft_to_invest_in_ai_and_cloud_in_japan</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-マイクロソフトは2024年4月10日、日本のAI及びクラウド基盤強化のために今後2年間で4400億円（29億米ドル）を投資すると{target=“_blank”}した。
-
-この取り組みは、DXとAIの活用を加速し、日本経済の活性化に貢献することを目的とする。投資内容には、リスキリングの機会提供、研究拠点の新設、サイバーセキュリティ分野での日本政府との連携強化が含まれているとのことだ。
-
-マイクロソフト副会長兼プレジデントのブラッド・スミス氏と日本マイクロソフト代表取締役社長の津坂美樹氏は、岸田文雄首相の米国訪問に合わせてこの計画を発表した。同社は1978年に日本に事業拠点を設置して以来、日本との関係を深めてきた。今回の投資は、そのコミットメントを更に強化するものだという。
-
-同社は経済産業省が展開する、基盤モデル開発支援のための生成AI開発力強化を図るプロジェクト{target=“_blank”}にも協力しており、引き続き日本の AI 及びデジタル技術活用推進に貢献すると述べた。
-
-新たに東京に設立される研究拠点では、AIとロボティクス、社会とウェルビーイングの課題解決を目指し、科学的探究を進める。これにより、マイクロソフトリサーチは、日本国内外の大学や研究機関との連携を深め、AI研究の新たな進展を目指す。
-
-また、投資には非正規雇用を含む300万人へのリスキリングの機会提供も含まれる。同社は、世界各国で AI スキルを活用した職務への雇用を希望する女性を多数支援しており、多様な背景を持つ人々がAIスキルを身につけ、高度な技術職に就けるよう支援する「Code; Without Barriers」プログラムを日本で初めて実施する。同様に、スタートアップ企業への支援や学校教育の充実も図るとした。
-
-サイバーセキュリティ分野では、日本政府との連携を強化し、国家安全保障のための技術的解決策の提供に努めるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 16 Apr 2024 06:33:41 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 16 Apr 2024 07:05:35 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
