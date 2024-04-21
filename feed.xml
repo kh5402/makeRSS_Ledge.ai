@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Apr 2024 06:04:56 +0000</lastBuildDate><item><title>中国の裁判所、偽ウルトラマン画像の生成AI事業者に著作権侵害で20万円の賠償命令ーー AI生成コンテンツの著作権侵害に関する中国初の裁判</title><link>https://ledge.ai/articles/fake_ultraman_ordered_to_pay_compensation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 20 Apr 2024 08:12:48 +0000</lastBuildDate><item><title>中国の裁判所、偽ウルトラマン画像の生成AI事業者に著作権侵害で20万円の賠償命令ーー AI生成コンテンツの著作権侵害に関する中国初の裁判</title><link>https://ledge.ai/articles/fake_ultraman_ordered_to_pay_compensation</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1926,7 +1926,41 @@ Copilot ChatはGPT-4を使用しており、より正確なコードの提案と
 
 :::box
 
-:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>AppleがスマートフォンのUI画面を認識できるマルチモーダルLLM「Ferret-UI」に関する論文を発表</title><link>https://ledge.ai/articles/apple_ferretui_mllm</link><description>:::small
+:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>ボストン・ダイナミクスのヒト型ロボ「Atlas」油圧式が引退サヨナラ動画発表　翌日「新型Atlas」の動画公開</title><link>https://ledge.ai/articles/boston_dynamiccs_farewell_to_hd_and_hello_new_atlas</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月18日、ボストン・ダイナミクスは、長年にわたり開発を進めてきた人型ロボット「Atlas」の油圧式モデルの引退を発表する動画を{target=“_blank”}し、ロボティクス業界における一時代の終わりを告げた。この動画は、Atlasが技術的障壁を越え、さまざまな挑戦に取り組む様子をフィーチャーしている。
+
+@
+
+
+
+引退動画の公開翌日、同社は全く新しい「新型Atlas」の動画を{target=“_blank”}した。
+
+完全電動式となった新型Atlasは、油圧式の前モデルに比べ、より強力で広範囲な動きを実現し、さまざまな操作ニーズに応えるための複数のグリッパーをテスト中だという。このロボットは、Hyundaiとの提携を通じ、自動車製造における新たな可能性が期待されるほか、初期段階からの顧客との連携を重視し、実用化に向けた具体的なテストと改良が進められているとのことだ。
+
+
+@
+
+
+
+同社はこの新型ロボットを通じて、ロボットが日常生活においてより積極的な役割を果たす未来を構築することを目指している​​という。この一連の動きは、ロボティクス業界における新たなマイルストーンとされ、同社の未来に向けたビジョンの一端を示す。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 20 Apr 2024 08:12:48 +0000</pubDate></item><item><title>AppleがスマートフォンのUI画面を認識できるマルチモーダルLLM「Ferret-UI」に関する論文を発表</title><link>https://ledge.ai/articles/apple_ferretui_mllm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2290,79 +2324,7 @@ SV3Dには「SV3D_u」「SV3D_p」という２つのバリアント（異なる�
 
 :::
 
-</description><pubDate>Mon, 25 Mar 2024 06:36:20 +0000</pubDate></item><item><title>Sakana AI　異なるAI基盤モデルを融合させ新しいモデルを構築する「モデルマージの進化的最適化」を公開</title><link>https://ledge.ai/articles/sakanaai_evolutionary_model_merge</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Sakana AIは2024年3月21日、進化や集合知など自然界の原理を応用して、基盤モデルの開発を自動化し、効率化する手法「Evolutionary Optimization of Model Merging Recipes （モデルマージの進化的最適化）」を{target=“_blank”}した。
-
-社会や経済が様々な専門知識を持つ個体の集まりで成り立っているように、AIも異なる専門性を持つ多数の小さなシステムが互いに補完し合う集合体として発展していると同社は述べる。既にオープンソースAIエコシステムでは、このような動向が見られ、新しい専門性を補うモデルが開発されているという。
-
-Sakana AI の提案する「進化的モデルマージ」は、この考えを具体化し、実際に異なる専門性を持つモデルのマージに成功したとのこと。これまでは困難とされた「非英語言語と数学」「非英語言語と画像」の組み合わせにおいても、自動的に新たな方法を発見することに成功したという。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社はこの手法により、大規模言語モデル（EvoLLM-JP-v1）・画像言語モデル（EvoVLM-JP-v1）・画像生成モデル（EvoSDXL-JP-v1）の3つのモデルを実験的に構築し、各モデルが複数のベンチマークで高い性能を示したと述べた。
-
-
-### １．EvoLLM-JP：数学的推論が可能な日本語の大規模言語モデル（LLM）
-日本語数学LLMとして構築したモデルだが、数学だけでなく、日本語の全般的な能力も高い。パラメータ数は7Bと小型であるにも関わらず、同サイズのモデルと比較し最高の性能を達成し、さらに70Bパラメータの日本語LLMの性能も上回った。汎用の日本語LLMとしても十分な性能を持つと同社はいう。
-
-
-下図は、LLMの日本語で数学の問題を解く性能の比較。MGSM-JAのカラムが正答率を示す。モデル1〜3は元のモデル、モデル4〜6は最適化されたマージモデル。モデル7〜10は比較のために高性能な既存LLMのスコアを掲載。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-LLMの日本語の全般的な能力の比較。Avgカラムが9タスクでのスコアの平均値であり、これが大きいほど日本語の全般的な能力が高いとされる。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-### ２．EvoVLM-JP：日本語で対話可能な画像言語モデル（VLM）
-日本語VLMとして構築されたこのモデルは、日本文化に特有の知識にも対応でき、日本の画像と日本語のテキストを利用したベンチマークでも最高の結果を達成した。
-
-これらのモデルは{target=“_blank”}で公開され、EvoVLM-JPについては、{target=“_blank”}も用意されている。
-
-
-＜EvoVLM-JPの応答例＞英語VLMの場合は緑と回答する。日本の慣習では信号機の進行許可は「青信号」と表現されるため、日本語に特化したEvoVLM-JPは「青です」と回答する。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### ３．EvoSDXL-JP：高速な日本語画像生成モデル
-日本語に対応し日本スタイル画像を生成可能なSDXLモデルを、わずか数ステップで推論が実行出来るように進化的アルゴリズムにより最適化することで、日本語プロンプト対応の高速画像生成モデルを構築。現時点では論文には含まれておらず、近日中の発表予定とのこと。
-
-日本語プロンプト対応の高速画像生成モデルEvoSDXL-JPで生成した画像の例。プロンプトは「味噌ラーメン、最高品質の浮世絵、葛飾北斎、江戸時代。」など。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-Sakana AIの取り組みは、日本に根差したAIラボとして、高品質な基盤AIモデルを開発することを目指すと述べた。今後は、{target=“_blank”}の支援を受け、進化的アプローチと集合知能を融合させた基盤モデル開発に取り組むとのこと。この支援により、大規模GPUスーパーコンピューターを利用した研究開発を加速する計画だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 24 Mar 2024 11:30:01 +0000</pubDate></item><item><title>自民党「キャッチコピーはAIが提案」新ポスター発表記者会見で「自民党AI」を披露　複数モデルを選択でき、API連携で利用</title><link>https://ledge.ai/articles/jiminto_ai_made_cach-copies</link><description>:::small
+</description><pubDate>Mon, 25 Mar 2024 06:36:20 +0000</pubDate></item><item><title>自民党「キャッチコピーはAIが提案」新ポスター発表記者会見で「自民党AI」を披露　複数モデルを選択でき、API連携で利用</title><link>https://ledge.ai/articles/jiminto_ai_made_cach-copies</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
