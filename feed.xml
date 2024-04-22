@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Apr 2024 06:33:59 +0000</lastBuildDate><item><title>中国の裁判所、偽ウルトラマン画像の生成AI事業者に著作権侵害で20万円の賠償命令ーー AI生成コンテンツの著作権侵害に関する中国初の裁判</title><link>https://ledge.ai/articles/fake_ultraman_ordered_to_pay_compensation</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Apr 2024 06:36:52 +0000</lastBuildDate><item><title>経産省が国内AIスパコン整備に725億円の助成　さくらインターネット、GMO、KDDIなど5社</title><link>https://ledge.ai/articles/meti_invests_in_ai_supercomputer_development</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+経済産業省は2024年4月19日、経済安全保障推進法第9条第4項の規定に基づき、AIスパコンの整備を行う国内事業者への大規模な助成策を{target=“_blank”}した。
+
+この助成は、国内でのAI開発基盤の構築を目指し、合計で最大725億円が投じられる。
+
+経産省は、社会のデジタル化が進む現代において、クラウドサービスは産業や国民生活の情報処理の重要な基盤となっていると説明。特にAIに必要な計算資源については、国内での供給体制の強化が急務とのこと。国内市場における国内事業者のシェアは約30%に過ぎず、海外依存の高い現状が続いている中、生成AIのような高度な技術が国内で自立的に運用されることの重要性が増しているという。
+
+この度認定された事業者は、GMOインターネットグループ株式会社、さくらインターネット株式会社、KDDI株式会社、そして株式会社RUTILEAと株式会社AI福島、株式会社ハイレゾと株式会社ハイレゾ香川の各共同申請グループである。これらの事業者には、GPUクラウドサービスを始めとするAIスパコンの提供が行われ、その助成額は最大で501億円に及ぶ。
+
+経済産業省は、AI技術の進化に対応するため、産業技術総合研究所を中心に検討会を立ち上げ、技術の高度化やビジネスの拡大に関する課題や方向性を探っていく。クラウドプログラムの安定供給を図る者は、供給確保計画の認定を受けることにより支援を受けることが可能だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 21 Apr 2024 06:36:52 +0000</pubDate></item><item><title>中国の裁判所、偽ウルトラマン画像の生成AI事業者に著作権侵害で20万円の賠償命令ーー AI生成コンテンツの著作権侵害に関する中国初の裁判</title><link>https://ledge.ai/articles/fake_ultraman_ordered_to_pay_compensation</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -498,73 +519,7 @@ Ethos-U85は、前世代比で性能を4倍に、エネルギー効率を20%向�
 
 :::
 
-</description><pubDate>Tue, 26 Mar 2024 02:25:27 +0000</pubDate></item><item><title>GPTやGeminiに続け！画像が読めるLLMが次々と　イーロン・マスク氏の「Grok」とNTTの「tsuzumi」　画像認識機能を搭載した最新AI技術を発表</title><link>https://ledge.ai/articles/grok1-5v_tsuzumi_multimordalized</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年4月12日に、イーロン・マスク氏率いるxAI社とNTTが、それぞれの大規模言語モデル（LLM）「Grok」と「tsuzumi」に画像認識機能を新たに搭載したことを発表した。
-
-4月9日にOpenAIが、画像やビジュアルコンテンツの理解が可能なビジョン機能を搭載したマルチモーダルAIモデル「GPT-4 Turbo with Vision」を API で一般公開したばかりだ。
-
-## xAI.ai「Grok-1.5V」文書、図表、写真などの視覚情報を処理
-
-「Grok-1.5V」は、xAIが開発したマルチモーダルモデルで、従来のテキスト処理能力に加え、文書、図表、スクリーンショット、写真など幅広い視覚情報の解析が可能となった。この進化により、Grokは日常の物理的な世界を理解する能力において、他のモデルと比較しても顕著な性能を発揮するという。
-
-特に、新たに導入された「RealWorldQA」ベンチマークでは、実世界の空間認識能力を測定し、その結果が期待されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-**図を解読しPythonコードを生成する例**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-**現実世界の空間理解機能を示す例**!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社は、マルチモーダルな理解と生成機能の両方を進歩させることは、宇宙を理解できる有益な AGI を構築するための重要なステップだと述べる。今後数か月間で、画像、音声、ビデオなどのさまざまなモダリティにわたって、両方の機能が大幅に改善される予定だという。
-
-
-
-## NTT「tsuzumi」視覚情報を含む文書を理解　DX対応のコア技術として期待
-同じ日に{target=“_blank”}のあったNTTの「tsuzumi」は、テキストベースの情報だけでなく、図表やアイコンなど視覚情報も含む文書を総合的に理解する能力を備えているとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この技術は、文書画像を言語モデルの表現に変換する新しいアダプタ技術を用いており、任意の視覚読解タスクに対して高い指示遂行能力を示している。これにより、オフィス作業や専門文献の読書補助など、多岐にわたる分野での応用が期待されている。
-
-
-**LLMの推論能力を活用した視覚読解技術の概要図**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 16 Apr 2024 07:05:35 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 26 Mar 2024 02:25:27 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
