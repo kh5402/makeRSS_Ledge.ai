@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Apr 2024 06:40:00 +0000</lastBuildDate><item><title>Adobe Premiere Proで「Sora」が使える！　年内にもOpenAI、Runwayなどのビデオ生成モデルを統合すると発表</title><link>https://ledge.ai/articles/adobe_premiere_pro_sora</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Apr 2024 12:47:54 +0000</lastBuildDate><item><title>Adobe Premiere Proで「Sora」が使える！　年内にもOpenAI、Runwayなどのビデオ生成モデルを統合すると発表</title><link>https://ledge.ai/articles/adobe_premiere_pro_sora</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2220,7 +2220,58 @@ SV3Dには「SV3D_u」「SV3D_p」という２つのバリアント（異なる�
 
 :::
 
-</description><pubDate>Mon, 25 Mar 2024 06:36:20 +0000</pubDate></item><item><title>文化庁「AIと著作権に関する考え方について」個人から寄せられた1000ページ超のパブコメ公開</title><link>https://ledge.ai/articles/bunka_cho_released_public_comments_on_ai_and_copyright</link><description>:::small
+</description><pubDate>Mon, 25 Mar 2024 06:36:20 +0000</pubDate></item><item><title>経済産業省 &amp; 総務省、AI事業者向けガイドラインを公表 ― 安全性、透明性、公平性ほか10の指針</title><link>https://ledge.ai/articles/government_released_guidelines_for_ai_providers</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+2024年4月19日、政府はAI事業者向けの新たな指針「AI事業者ガイドライン（第1.0版）」を{target=“_blank”}した。
+
+この指針は2023年5月、東京大学の松尾豊教授が座長を務めるAI戦略会議で取りまとめられた「AIに関する暫定的な論点整理」において示された、既存のガイドラインに関して必要な改訂などを検討する必要性を受けてのことだという。
+
+このガイドラインは、AIに関わる企業のためのもので、AIの安全性、透明性、公平性をはじめとする10項目を強調しており、AI技術の適切な利用と社会的な課題への対応を目的とし、国内外のAI技術の進展とそれに伴うリスク管理を背景に公開された。
+
+具体的には、「AI開発者」「提供者」「利用者」を対象に、リスクベースのアプローチによる自主的な取り組みが求められる。政府は、これらの指針を通じて、AI技術の健全な発展と産業競争力の強化を図ることを期待している。
+
+### 「AI事業者ガイドライン」で明らかにされた10の指針
+| 指針                   | 内容 |
+|----------------------|-----------------------------------------------------------|
+| 1. 人間中心のアプローチ | AIは人権を尊重し、人間の尊厳と自律を守るよう設計・運用される |
+| 2. 安全性             | 人の生命や健康を損なわないよう、安全に設計されたAIの利用 |
+| 3. 公平性             | 不公平な偏見や差別を含まないよう努力する |
+| 4. プライバシー保護   | 個人情報は保護され、プライバシーを尊重する形でAIが利用される |
+| 5. セキュリティの確保 | AIシステムは不正アクセスやデータ漏洩から守られる |
+| 6. 透明性             | AIの判断プロセスが透明であり、誰にでも理解可能 |
+| 7. アカウンタビリティ | AIの操作とその結果に責任を持ち、説明責任を果たす |
+| 8. 教育とリテラシー   | AIの適切な理解と使用に必要な知識やスキルの提供 |
+| 9. 公正な競争の促進   | AIを利用したビジネスが公正な環境で行われる |
+| 10. イノベーションの推進 | 社会全体のイノベーションをAIを通じて促進する |
+
+
+ガイドライン内容には、AIシステムのライフサイクル全体にわたるガバナンス強化が含まれており、実践のための指南も提供されている。たとえば、AI開発者には倫理的なモデル設計が、AI提供者には透明性と利用者の支援が、AI利用者にはデータの入力とシステムの適切な活用が求められる。
+
+また、別添資料では、AIによる便益やリスクの具体例、AIガバナンスの構築、各種AIシステムサービスの詳細で分かりやすい解説が掲載されている。
+
+
+**ガイドラインの構成**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この取り組みは、法的拘束力は持たないが、業界に対する自主規制としての役割を果たすことが期待されている。政府は、技術の進化や国際的な動向に応じて、ガイドラインの内容を更新していく方針を明らかにしている。
+
+ガイドラインの全文は、経済産業省のウェブサイトで{target=“_blank”}されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>文化庁「AIと著作権に関する考え方について」個人から寄せられた1000ページ超のパブコメ公開</title><link>https://ledge.ai/articles/bunka_cho_released_public_comments_on_ai_and_copyright</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2554,30 +2605,7 @@ Autorité de la Concurrenceは、透明性、客観性、非差別の基準に�
 
 :::
 
-</description><pubDate>Fri, 22 Mar 2024 05:51:51 +0000</pubDate></item><item><title>G7産業・技術・デジタル大臣会合、イタリアで開催 - AIとデジタル政府の進展に焦点</title><link>https://ledge.ai/articles/g7_industry_technology_and_digital_ministreal_meeting</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月14日及び15日、イタリアのヴェローナとトレントで、G7産業・技術・デジタル大臣会合が{target=“_blank”}。
-
-イタリアが議長国を務める中、会合にはG7各国の大臣のほか、招待国や関連国際機関が参加し、多岐にわたるテーマで議論が行われた。特に、公的部門におけるAIツールキットの開発、デジタル政府サービスの強化、国際データガバナンスの推進が主要議題となった。日本からは、河野デジタル大臣、長谷川総務大臣政務官、石井経済産業大臣政務官らが参加した。
-
-G7各国は、公的部門での安全で信頼できるAIの利用を促進するため、リスクと機会のマッピング、有効な環境のサポートガイダンスを提供するAIツールキットの開発に合意した。これにより、政府による信頼できるAI開発をさらに支援するとのこと。加えて、デジタル政府サービス及びデジタル・アイデンティティの取り組みをまとめたCompendium（大綱）の作成に合意した。
-
-また、「広島AIプロセス」の成果を前進させることを確認。開発途上国・新興経済国を含む主要なパートナー国や企業等からの認知及び支持の拡大を目指すとした。このプロセスでは、国際指針と国際行動規範の普及促進、行動規範の適用状況のモニタリングのツール・仕組みの開発、国際機関との連携が行われる予定だ。
-
-会合では、昨年日本が議長国を務めたG7の成果を引き継ぐ形で、信頼性のある自由なデータ流通（DFFT）をさらに進捗させることを確認し、国際データガバナンスの強化が必要であるとの認識を共有したという。これにより、AIと相互関連性のあるデータやその流通について、G7として検討を進めることに合意を得た。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 20 Mar 2024 22:18:09 +0000</pubDate></item><item><title>自動作曲ができる音楽生成AI「Udio」パブリックベータ版公開　誰でも無料で月1200曲まで高品質な楽曲を生成できる</title><link>https://ledge.ai/articles/udio_publicbeta</link><description>:::small
+</description><pubDate>Fri, 22 Mar 2024 05:51:51 +0000</pubDate></item><item><title>自動作曲ができる音楽生成AI「Udio」パブリックベータ版公開　誰でも無料で月1200曲まで高品質な楽曲を生成できる</title><link>https://ledge.ai/articles/udio_publicbeta</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
