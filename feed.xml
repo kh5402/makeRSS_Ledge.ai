@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Apr 2024 12:47:54 +0000</lastBuildDate><item><title>Adobe Premiere Proで「Sora」が使える！　年内にもOpenAI、Runwayなどのビデオ生成モデルを統合すると発表</title><link>https://ledge.ai/articles/adobe_premiere_pro_sora</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Apr 2024 12:54:02 +0000</lastBuildDate><item><title>Uber Eatsのデリバリーロボット、ガスト日本橋店から配達を開始</title><link>https://ledge.ai/articles/uber_eats_delivery_robot_from_gast</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Uber Eats Japanとすかいらーくグループは2024年4月18日、東京都内のファミリーレストラン「ガスト日本橋店」でデリバリーロボットによる食品配達を開始したと{target=“_blank”}した。
+
+Uber Eatsアプリで注文されるガストの人気商品を対象に、保温保冷機能を備えた自律走行型ロボットが配達を行う。これによりUber Eatsのデリバリーロボット対応加盟店が合計3店舗になるとのこと。
+
+Uber Eats Japanは3月6日から、日本橋エリアでAI技術を活用したデリバリーロボットの運用を開始している。このたび加わったガスト日本橋店では、「チーズINハンバーグ弁当」や「オムライス（ビーフシチューソース）」などのメニューがロボットによって温かい状態で配達される。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Uber Eats Japan代表の中川晋太郎氏は、ロボットによる配達の開始について「デリバリーロボットは悪天候時や配達パートナー不足が予想される時間帯にも、デリバリーネットワークを補完する重要な役割を果たす」とコメントしている。
+
+また、すかいらーくホールディングス執行役員の平野曉氏は「ロボットデリバリーは少子高齢化を見据えた人とロボットの協働によるサービスの革新、地方でのサービス提供拡大につながる」としている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 22 Apr 2024 12:54:02 +0000</pubDate></item><item><title>Adobe Premiere Proで「Sora」が使える！　年内にもOpenAI、Runwayなどのビデオ生成モデルを統合すると発表</title><link>https://ledge.ai/articles/adobe_premiere_pro_sora</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -434,33 +464,7 @@ Gaudi 3 は生成AIの処理速度とエネルギー効率の両面で向上が�
 :::box
 
 :::
-</description><pubDate>Tue, 16 Apr 2024 07:20:41 +0000</pubDate></item><item><title>英半導体Arm、性能を4倍に向上させたエッジAI向け新NPU（ニューラル・プロセッシング・ユニット）「Ethos-U85」を発表</title><link>https://ledge.ai/articles/arm_ethos-u85</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月9日、英半導体のアームは、高性能エッジAIアプリケーション向けに設計された最新世代のプロセッサ「Arm Ethos-U85 NPU」と、新しいIoTリファレンスデザイン・プラットフォーム「Arm Corstone-320」を{target=“_blank”}した。
-
-Ethos-U85は、前世代比で性能を4倍に、エネルギー効率を20%向上させた。ファクトリー・オートメーション、民生用カメラ、スマートホーム用カメラなど、高性能が求められるアプリケーションに最適とされる。NPUは、TensorFlow LiteやPyTorchといったAIフレームワークをサポートし、Transformerネットワークおよび畳み込みニューラルネットワーク（CNN）のAI推論に対応しているという。
-
-また、Arm Corstone-320プラットフォームは、Arm Cortex-M85 CPU、Mali-C55イメージシグナルプロセッサー、そしてEthos-U85 NPUを組み合わせたもので、リアルタイムの画像分類や物体認識、スマートスピーカーを通じた自然言語翻訳対応の音声アシスタントなど、多岐にわたるエッジAIアプリケーションの高い性能要求に応える設計とのこと。
-
-同社のシニア・バイスプレジデントでIoT事業部門のジェネラル・マネージャー、ポール・ウィリアムソン氏は、「エッジAIの導入と拡大を容易にするためには、ソフトウェア開発者が新たなAIフレームワークやライブラリと容易に連携できる必要がある」と述べている。同社は、開発者が既存の投資を活用しながら、シームレスな開発体験を提供することを目指すという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 16 Apr 2024 06:36:36 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 16 Apr 2024 07:20:41 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
