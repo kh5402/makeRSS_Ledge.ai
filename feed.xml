@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Apr 2024 12:54:02 +0000</lastBuildDate><item><title>生成AI活用における留意点とは何か - デル・テクノロジーズのロードマップに学ぶ</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-1</link><description>生成AIがもたらしたインパクトというと、まずはなんといってもその生成物のクオリティに対する驚きだろう。さらにもう一歩踏み込んで考えると、「多くの人にAIの可能性を知らしめた」ことにも大きな意義があるといえそうだ。実際、生成AIに興味を持ち、AIへの投資を検討し始めた経営層も急増している。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Apr 2024 12:54:02 +0000</lastBuildDate><item><title>法律専門のバーティカルLLM（リーガルブレイン）実現を目指す　弁護士ドットコムとアンダーソン・毛利・友常法律事務所が協業発表</title><link>https://ledge.ai/articles/bengo4com_professional_tech_lab</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月15日、弁護士ドットコム株式会社はアンダーソン・毛利・友常法律事務所との間でリーガルブレイン事業アドバイザリー業務の提供による協業を合意したと{target=“_blank”}した。
+
+昨今の情報複雑化に伴い弁護士の情報リサーチ時間が増加し負担が増えている現状。このような状況を考慮し、弁護士ドットコムは多種多様なリーガルデータを参照可能とするリーガルプロダクトの開発を進めるため「Professional Tech Lab（プロフェッショナル・テック・ラボ）」を設立した。法律専門の大規模言語モデル「リーガルブレイン（バーティカルLLM）」の開発に向け、2023年にはAI法律相談チャットサービスや弁護士向けのAI搭載書籍検索サービスを提供している。
+
+今回のアドバイザリー業務提供でアンダーソン・毛利・友常法律事務所の豊富な経験と知識を活用し、精度向上を目的とした様々な角度からのアドバイスを受け「リーガルブレイン（バーティカルLLM）」実現を目指している。
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 22 Apr 2024 06:37:47 +0000</pubDate></item><item><title>生成AI活用における留意点とは何か - デル・テクノロジーズのロードマップに学ぶ</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-1</link><description>生成AIがもたらしたインパクトというと、まずはなんといってもその生成物のクオリティに対する驚きだろう。さらにもう一歩踏み込んで考えると、「多くの人にAIの可能性を知らしめた」ことにも大きな意義があるといえそうだ。実際、生成AIに興味を持ち、AIへの投資を検討し始めた経営層も急増している。
 
 とはいえ、ChatGPTとやりとりを楽しむのと、それをビジネスに活かしていくのとはまったく別の次元の話である。経営者として生成AIを業務や事業に導入するには様々な懸念事項もあるし、どのように進めていけばいいかわからないというケースも少なくない。
 
@@ -498,36 +515,7 @@ CEOであるマーク・ザッカーバーグ氏は、同チップを用いて�
 :::box
 
 :::
-</description><pubDate>Tue, 26 Mar 2024 02:27:54 +0000</pubDate></item><item><title>インテル、新AI半導体「Gaudi 3」を発表 ─ NVIDIAの主力製品を上回る性能で市場挑戦</title><link>https://ledge.ai/articles/gaudi3_intel_vision2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-インテルは2024年4月9日、アリゾナ州フェニックスで開催された「Intel Vision 2024」イベントで、新しいAI半導体「Gaudi 3」を{target=“_blank”}した。
-
-Gaudi 3 は生成AIの処理速度とエネルギー効率の両面で向上が見られ、競合するNVIDIA H-100に対して平均50%高い推論パフォーマンスと40%の電力効率の向上を実現したという。同社はこの新チップにより、AI半導体市場でのシェア拡大を目指す。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-インテルCEOのパット・ゲルシンガー氏は基調講演で、Gaudi 3の市場導入に向けた意気込みを語り、NVIDIAに対する競争姿勢を鮮明にした。また、同社は「Xeon 6」プロセッサの新シリーズも同時に発表。これら新プロセッサは、AI処理性能を大幅に向上させる設計が施されており、データセンターからエッジコンピューティングまで幅広い用途に対応する。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 17 Apr 2024 06:28:58 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Tue, 26 Mar 2024 02:27:54 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
