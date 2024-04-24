@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 02:26:54 +0000</lastBuildDate><item><title>AnthropicのCEOが警告「急増するAIモデルのトレーニングコストは数年で1兆円を超える」加速する開発に対し安全性強化の必要性を説く</title><link>https://ledge.ai/articles/training_costs_will_exceed_1trillion_in_a_few_years</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 06:55:48 +0000</lastBuildDate><item><title>東工大の次世代スパコン「TSUBAME4.0」お披露目　国内2位の計算性能でAI研究を強化</title><link>https://ledge.ai/articles/titech_tsubame4-0_unveiled</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京工業大学は2024年4月18日、新しいスーパーコンピューター「{target=“_blank”}」の披露式を開催した。TSUBAME4.0は、理化学研究所の「富岳」に次ぐ国内2位の演算性能を誇り、科学技術計算での倍精度では66.8ペタフロップス、AI向けの半精度では952ペタフロップスの計算能力を持つ。
+
+このスーパーコンピューターは、米国半導体大手NVIDIA社のH100 Tensor Core GPUを960台搭載し、AIや高性能コンピューティング（HPC）分野の研究加速を目的としている。また、高速ネットワークを通じてSINET6に直接接続され、100Gbpsの速度で東工大すずかけ台キャンパスから直接インターネットに接続される設計だという。
+
+「もっとみんなのスパコン」というコンセプトのもと、広く国内外の研究者や民間企業に利用されることが期待されており、教育や先端研究への貢献が目指されている。特に、次世代医薬品開発などの生命科学研究において、その大規模計算能力が重要な役割を果たすことが予想される。
+
+東京工業大学はこの新しいデジタルインフラを通じて、国際競争力の強化と科学技術の発展に寄与するとしている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Apr 2024 06:55:48 +0000</pubDate></item><item><title>AnthropicのCEOが警告「急増するAIモデルのトレーニングコストは数年で1兆円を超える」加速する開発に対し安全性強化の必要性を説く</title><link>https://ledge.ai/articles/training_costs_will_exceed_1trillion_in_a_few_years</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -419,61 +444,7 @@ CEOであるマーク・ザッカーバーグ氏は、同チップを用いて�
 
 :::
 
-</description><pubDate>Thu, 18 Apr 2024 06:28:47 +0000</pubDate></item><item><title>GMO、生成AIを活用して業務時間10万6,000時間を創出　有料ツールの利用状況トップ10も発表</title><link>https://ledge.ai/articles/gmo_creates_work_hours_with_genai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月9日、GMOインターネットグループは、生成AIを活用し従業員が大幅な業務時間削減を達成したと{target=“_blank”}した。
-
-同社によると、派遣パートナーやアルバイトを含む従業員の73.2%が生成AIを業務に利用しており、シフト勤務者を除くとその割合は78.7%に上る。特に、生成AIを用いることで、月間約10万6000時間、663人月分の業務時間が創出され、従業員は創造的な業務や新たなプロジェクトに集中できるようになったという。
-
-!
-:::small
-画像の出典：{target=“_blank”
-:::
-
-### 🔳有料ツールの活用状況
-調査では、グループ内での有料ツールの具体的な活用状況も明らかにされた。従業員の自由記述でされた報告によると、GitHub Copilot、ChatGPT、Midjourneyなどがリストの上位にあげられた。これらのツールは、コードの自動補完、テキストや画像の生成、デザイン作成、翻訳など、多岐にわたる業務で利用されており、業務の自動化と効率化に寄与しているという。
-
-1. GitHub Copilot（開発者支援）
-2. ChatGPT（文章生成・画像生成等）
-3. Midjourney（画像生成）
-4. Gemini（文章生成）
-5. Claude（文章生成）
-6. Canva（デザイン）
-7. DeepL（翻訳）
-8. miibo（会話型AI開発）
-9. Notion（文章生成・タスク管理等）
-10. Adobe Firefly（画像生成）
-
-
-### 🔳AI活用を行うパートナーの声、活用実績
-
-!
-:::small
-画像の出典：{target=“_blank”
-:::
-
-
-同社は今後も定期的にAIの活用状況を調査し、非エンジニアでも高度なAIを活用できるよう環境整備と教育プログラムを進めていくとのこと。
-
-
-🔳調査概要
-2024年3月11日（月）から15日（金）にかけて、GMOインターネットグループの国内パートナー（正社員、派遣社員、アルバイト）5,857人を対象に（有効回答5,235人）アンケートを実施
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Wed, 17 Apr 2024 08:34:02 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Thu, 18 Apr 2024 06:28:47 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
