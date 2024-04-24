@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 06:58:34 +0000</lastBuildDate><item><title>経営者が知っておくべき生成AIプロジェクトの流れと考慮すべきリスクとは</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-2</link><description>現在、多くの企業が業務や事業への生成AI導入を検討しており、ある種のトレンドになっているともいえる。生成AIは一見してそのすごさがわかりやすいため、自社でも簡単に導入できそうに思えるのが大きな要因だろう。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 07:06:45 +0000</lastBuildDate><item><title>40年後のTEDはどんな感じ？OpenAI「Sora」で制作されたTED40周年記念ビデオ
+</title><link>https://ledge.ai/articles/ted2024_sora</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+“What will TED look like in 40 years? “ 「TED は 40 年後にはどのようになっているでしょうか? 」
+
+2024年4月20日、TEDのX（旧Twitter）アカウントを通じ、動画生成AI「Sora」が描く40年後のTEDの姿を描いたビデオが{target=“_blank”}され、このプロジェクトが注目を集めている。
+
+このビデオプロジェクトは、TEDの40周年を記念する「TED2024」に寄せて制作され、未来への期待とクリエイティビティを称える内容が盛り込まれている。TED2024は「The Brave and the Brilliant」というテーマで開催されたカンファレンスで、2024年4月15日から19日までカナダのバンクーバーで開催された。
+
+このビデオは、アーティスト・作家・映画監督として多方面で活躍するPaul Trillo氏とOpenAIが協力し、話題の動画生成モデル「Sora」を用いて、40年後のTEDの姿を描いたビデオを制作。TEDのロゴを除く全てがAIによって生成され、未来の可能性を映像化しているという。
+
+Paul Trillo氏は、未公開のAI「Sora」への初期アクセスを許されたアーティストで、これを用いた作品「{target=“_blank”}」は、3月にOpenAIのブログでも紹介されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+40年後のTEDを描くSoraのビデオは、近日中に{target=“_blank”}で公開されるとのことだ。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Apr 2024 07:06:45 +0000</pubDate></item><item><title>経営者が知っておくべき生成AIプロジェクトの流れと考慮すべきリスクとは</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-2</link><description>現在、多くの企業が業務や事業への生成AI導入を検討しており、ある種のトレンドになっているともいえる。生成AIは一見してそのすごさがわかりやすいため、自社でも簡単に導入できそうに思えるのが大きな要因だろう。
 
 たしかに個人ユーザーとして生成AIをただ使うだけなら難しいことではないが、企業への導入となると話は別だ。最適なユースケースを選ばなければ導入に失敗することもあるし、様々なコストやリスクを考慮する必要もある。
 
@@ -78,7 +112,9 @@
 
 :::box
 
-:::</description><pubDate>Mon, 15 Apr 2024 01:18:51 +0000</pubDate></item><item><title>セガフェイブ　リアルなAI猫ロボット「KIMIT ラグドール」不具合による商品回収と全額返金を発表　「電源をオフにして使用を中止を」</title><link>https://ledge.ai/articles/sega_fave_kimit_recall</link><description>:::small
+:::
+
+</description><pubDate>Mon, 15 Apr 2024 01:18:51 +0000</pubDate></item><item><title>セガフェイブ　リアルなAI猫ロボット「KIMIT ラグドール」不具合による商品回収と全額返金を発表　「電源をオフにして使用を中止を」</title><link>https://ledge.ai/articles/sega_fave_kimit_recall</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -253,6 +289,11 @@ Anthropicは、AIの安全性を高めるために「{target=“_blank”}」と
 生成AIの登場により、多くの経営者がAIの価値について気づき始めた。しかし、生成AIを業務や事業に組み込んでいくのは簡単ではない。生成AI活用の鍵を握るのはユースケースの特定であり、デル・テクノロジーズ自身もそこに注力している。では、一般的な企業ではどのようなユースケースが想定され、具体的にどう生成AIプロジェクトを進めていけばいいのか。次回記事では生成AIプロジェクトについてより掘り下げていく。
 
 !
+
+:::box
+
+:::
+
 </description><pubDate>Tue, 02 Apr 2024 01:21:44 +0000</pubDate></item><item><title>Uber Eatsのデリバリーロボット、ガスト日本橋店から配達を開始</title><link>https://ledge.ai/articles/uber_eats_delivery_robot_from_gast</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -407,41 +448,7 @@ Llama３を搭載した新しいAIアシスタント「Meta AI」の公開も同
 :::box
 
 :::
-</description><pubDate>Fri, 19 Apr 2024 05:59:58 +0000</pubDate></item><item><title>2024年のAIトレンドは？企業の生成AI活用状況は？上半期のAIニュースを振り返るLedge.ai EXPO 2024 Summer</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer-teaser</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは特集型イベント『Ledge.ai EXPO 2024 Summer』の事前登録及びスポンサー企業の募集を開始いたしました。
-同イベントは2024年6月10日から28日にかけてオンライン特設サイトにて公開いたします。
-
-:::button
-{target=“_blank”}
-:::
-
-## 2024年上半期のAIニュースを総ざらい
-ChatGPTの登場に代表される「生成AI」のブーム。日々技術進化や活用事例の報道がなされ、ビジネスパーソンにとっては、あらゆる話題を網羅的に把握することの難易度が上がってきているのではないかと感じております。
-AIセントリックなビジネスメディアであるLedge.aiでは、2024年上半期から下半期への節目の6月に、半年間のAIニュースのうちとりわけ注目すべきニュースのピックアップや、今後さらに注目が高まるであろうキーワードの解説を中心とした特集型のイベントサイトを公開いたします。
-
-また、Ledge.ai読者を中心に生成AI活用状況や、取り組みに対する見解、姿勢についてのを実施。イベントサイトにて集計結果の公開を予定しております。AI関連の情報に感度の高いLedge.ai読者の「今」が浮かび上がるデータとなるのではないかと考えておりますので、ぜひチェックしていただければと思います。
-
-アンケートにご回答いただいた方には限定で、サイト掲載情報より詳細な集計結果レポートを後日配布予定です（匿名での回答可）。先行サイト内のリンクより回答を行えます。
-
-
-## 掲載予定のコンテンツ
-
-!
-
-- **キーノートセッション**：coming soon...
-- **AI関連の注目キーワード解説記事**：AIの最前線を解き明かす。注目のキーワードを丁寧に解説し、話題の技術の背景と可能性を深掘りします。
-- **Ledge.aiニュース記事ピックアップ**：業界の動向、革新的な技術、市場の変化を、精選された記事で迅速にお届けします。
-- **生成AI活用状況アンケート集計結果**：AIの現在地と未来を読み解きます。
-- **Ledge.aiニュース記事ピックアップ**：業界トップの企業が語る、AIビジネスの最前線。
-
-
-## イベントスポンサーも募集中
-
-!
-
-本イベントサイトでの情報発信をより魅力的なものに力添えいただけるスポンサーの募集も行っています。
-サイトでのウェビナーを通じて、貴社のソリューションを参加者へアピールすることができます。詳しくは下記URLから確認とお問い合わせを。
-
-</description><pubDate>Fri, 19 Apr 2024 02:02:50 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Fri, 19 Apr 2024 05:59:58 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
