@@ -1,39 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 07:06:45 +0000</lastBuildDate><item><title>40年後のTEDはどんな感じ？OpenAI「Sora」で制作されたTED40周年記念ビデオ
-</title><link>https://ledge.ai/articles/ted2024_sora</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 07:06:45 +0000</lastBuildDate><item><title>バーチャルでもファッションが楽しめる！アダストリアがファッション特化型メタバース「StyMore」をオープン　サンリオ参入決定</title><link>https://ledge.ai/articles/stymore_open</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
-“What will TED look like in 40 years? “ 「TED は 40 年後にはどのようになっているでしょうか? 」
+2024年4月10日、株式会社アダストリアはファッション特化型メタバースプラットフォーム「StyMore（スタイモアー）」をオープンしたと{target=“_blank”}した。
 
-2024年4月20日、TEDのX（旧Twitter）アカウントを通じ、動画生成AI「Sora」が描く40年後のTEDの姿を描いたビデオが{target=“_blank”}され、このプロジェクトが注目を集めている。
+「StyMore（スタイモア―）」は自分の好きなスタイルでファッションを楽しむ“Style”、もっとファッションを楽しむ“More”のふたつの言葉を掛け合わせて作られた、バーチャルの世界でもファッションを楽しむことを目的としたバーチャルファッションモール。
 
-このビデオプロジェクトは、TEDの40周年を記念する「TED2024」に寄せて制作され、未来への期待とクリエイティビティを称える内容が盛り込まれている。TED2024は「The Brave and the Brilliant」というテーマで開催されたカンファレンスで、2024年4月15日から19日までカナダのバンクーバーで開催された。
-
-このビデオは、アーティスト・作家・映画監督として多方面で活躍するPaul Trillo氏とOpenAIが協力し、話題の動画生成モデル「Sora」を用いて、40年後のTEDの姿を描いたビデオを制作。TEDのロゴを除く全てがAIによって生成され、未来の可能性を映像化しているという。
-
-Paul Trillo氏は、未公開のAI「Sora」への初期アクセスを許されたアーティストで、これを用いた作品「{target=“_blank”}」は、3月にOpenAIのブログでも紹介されている。
+個人クリエイターや企業が3Dアバター向けのファッションアイテムを販売することができ、購入したユーザーはスマートフォンアプリでアバターに着せ替え、VRChatなどのメタバース空間へアップロードすることができる。
+※VRChatは、VRChat Inc.によって運営が行われているソーシャルVRプラットフォーム
 
 !
+
 :::small
 画像の出典：{target=“_blank”}
 :::
 
-
-40年後のTEDを描くSoraのビデオは、近日中に{target=“_blank”}で公開されるとのことだ。
-
-
+今回オープンと同時に第一弾参入企業としてサンリオが参入を表明しており、自社の商品をバーチャルアイテムとして提供することで幅広い層へのアプローチを目指せる。今後も様々な企業やクリエイターと協業し顧客接点拡大とグッドコミュニティを共創していくという。
 
 :::box
 
 :::
 :::box
 
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Apr 2024 07:06:45 +0000</pubDate></item><item><title>経営者が知っておくべき生成AIプロジェクトの流れと考慮すべきリスクとは</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-2</link><description>現在、多くの企業が業務や事業への生成AI導入を検討しており、ある種のトレンドになっているともいえる。生成AIは一見してそのすごさがわかりやすいため、自社でも簡単に導入できそうに思えるのが大きな要因だろう。
+:::</description><pubDate>Mon, 22 Apr 2024 09:35:10 +0000</pubDate></item><item><title>経営者が知っておくべき生成AIプロジェクトの流れと考慮すべきリスクとは</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-2</link><description>現在、多くの企業が業務や事業への生成AI導入を検討しており、ある種のトレンドになっているともいえる。生成AIは一見してそのすごさがわかりやすいため、自社でも簡単に導入できそうに思えるのが大きな要因だろう。
 
 たしかに個人ユーザーとして生成AIをただ使うだけなら難しいことではないが、企業への導入となると話は別だ。最適なユースケースを選ばなければ導入に失敗することもあるし、様々なコストやリスクを考慮する必要もある。
 
@@ -2593,7 +2583,41 @@ Autorité de la Concurrenceは、透明性、客観性、非差別の基準に�
 
 :::
 
-</description><pubDate>Fri, 22 Mar 2024 05:51:51 +0000</pubDate></item><item><title>自動作曲ができる音楽生成AI「Udio」パブリックベータ版公開　誰でも無料で月1200曲まで高品質な楽曲を生成できる</title><link>https://ledge.ai/articles/udio_publicbeta</link><description>:::small
+</description><pubDate>Fri, 22 Mar 2024 05:51:51 +0000</pubDate></item><item><title>40年後のTEDはどんな感じ？OpenAI「Sora」で制作されたTED40周年記念ビデオ
+</title><link>https://ledge.ai/articles/ted2024_sora</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+“What will TED look like in 40 years? “ 「TED は 40 年後にはどのようになっているでしょうか? 」
+
+2024年4月20日、TEDのX（旧Twitter）アカウントを通じ、動画生成AI「Sora」が描く40年後のTEDの姿を描いたビデオが{target=“_blank”}され、このプロジェクトが注目を集めている。
+
+このビデオプロジェクトは、TEDの40周年を記念する「TED2024」に寄せて制作され、未来への期待とクリエイティビティを称える内容が盛り込まれている。TED2024は「The Brave and the Brilliant」というテーマで開催されたカンファレンスで、2024年4月15日から19日までカナダのバンクーバーで開催された。
+
+このビデオは、アーティスト・作家・映画監督として多方面で活躍するPaul Trillo氏とOpenAIが協力し、話題の動画生成モデル「Sora」を用いて、40年後のTEDの姿を描いたビデオを制作。TEDのロゴを除く全てがAIによって生成され、未来の可能性を映像化しているという。
+
+Paul Trillo氏は、未公開のAI「Sora」への初期アクセスを許されたアーティストで、これを用いた作品「{target=“_blank”}」は、3月にOpenAIのブログでも紹介されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+40年後のTEDを描くSoraのビデオは、近日中に{target=“_blank”}で公開されるとのことだ。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Apr 2024 07:06:45 +0000</pubDate></item><item><title>自動作曲ができる音楽生成AI「Udio」パブリックベータ版公開　誰でも無料で月1200曲まで高品質な楽曲を生成できる</title><link>https://ledge.ai/articles/udio_publicbeta</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2942,24 +2966,4 @@ YouTubeは2024年3月19日、クリエイターが作成したコンテンツが
 :::box
 
 :::
-</description><pubDate>Fri, 15 Mar 2024 11:52:42 +0000</pubDate></item><item><title>中国CCTV、AI活用した水墨画風アニメ「千秋詩頌」を放映開始</title><link>https://ledge.ai/articles/cctv_chinese_poem_animation</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-中国国営の中央テレビ（CCTV）は、杜甫や李白、孟浩然など唐代の詩人の人生を、AIを活用し「水墨画の世界風」をテーマにしたアニメーション作品「千秋詩頌（千秋の詩への頌歌）」の放映を2024年2月26日に{target=“_blank”}。
-
-中国中央ラジオテレビ局の「CCTVオーディオメディアモデル」を利用し、独自に開発した生成AI技術により、CCTV-1と人教社が共同で制作にあたる。小学生の国語の教科書にある詩をアニメ化する試みで、200首を超える古詩を基に展開される。エピソードは26個、各7分間で構成され、唐代の詩人たちの人生や自然風景、中華風の建築物を淡い色使いで描き出しているという。
-
-「千秋詩頌」は、中国の伝統詩とその背景話を紹介することで、視聴者に中国の水墨画を連想させる映像体験を提供している。このプロジェクトは、中国中央放送テレビ総台のAI技術を駆使し、詩の内容や歴史的背景に基づき、詩の世界観や感情をできる限り忠実に再現する試みだという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 09 Mar 2024 11:07:48 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 15 Mar 2024 11:52:42 +0000</pubDate></item></channel></rss>
