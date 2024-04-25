@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Apr 2024 06:47:52 +0000</lastBuildDate><item><title>デル・テクノロジーズが提供する生成AI基板設計のためのデザインガイド「Dell Validated Design for Generative AI」とは</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-3</link><description>生成AIを本格導入する場合、ワークロード、データの依存関係、レイテンシー要件など考慮すべき要素は様々ある。さらに、そのうえでサーバーやストレージなど最適なハードウェアを導入しなければならない。生成AIについて知見を持たない一般企業にとって、一から自社で取り組むには少々荷が重いだろう。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Apr 2024 06:54:20 +0000</lastBuildDate><item><title>米PagerDuty「生成AIの安全性と倫理への懸念が大企業の導入を遅らせる」Fortune 1000企業幹部の調査結果を公表</title><link>https://ledge.ai/articles/pagerduty_study_reveals_security_concerns</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年3月27日、米国 PagerDuty は、アメリカの大手企業の技術部門幹部を対象に行った生成AIの採用に関する調査結果を{target=“_blank”}した。この調査は、Fortune 1000企業におけるCIO直属の部長以上の幹部1000名を対象に実施された。
+
+調査によると、企業内でAIの可能性についての議論は活発化しているものの、調査対象者全員がAI技術に潜むセキュリティリスクに対して懸念を表明している。特に、98%の幹部が社内の生成AIプロジェクトを一時停止し、企業が適切なガイドラインを確立するまで待つべきだと回答している。これには、企業の評判や法的リスクへの懸念も含まれている。
+
+生成AIがもたらすリスクについては50%の幹部が懸念しており、著作権や法的リスクについて非常に不安に感じている幹部も51%にのぼるという​。
+
+さらに、調査対象者の46%は、適切なガイドラインなしに早急に生成AIを採用すれば、競合に遅れを取るリスクがあると感じているという。その一方で、4分の1の幹部は、生成AIを信頼していないと回答した。
+
+
+**調査対象となった経営幹部の100％が、この技術のセキュリティ・リスクについて懸念を抱いている**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+正式なガイドラインを策定済みの企業は29%に留まり、66%の企業がこれらのポリシーを策定中だ。生成AIのユースケースを試用中の企業は98%に上るが、ポリシーを策定するために一旦取り組みを中断しているケースも多い​​という。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Apr 2024 06:54:20 +0000</pubDate></item><item><title>デル・テクノロジーズが提供する生成AI基盤設計のためのデザインガイド「Dell Validated Design for Generative AI」とは</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-3</link><description>生成AIを本格導入する場合、ワークロード、データの依存関係、レイテンシー要件など考慮すべき要素は様々ある。さらに、そのうえでサーバーやストレージなど最適なハードウェアを導入しなければならない。生成AIについて知見を持たない一般企業にとって、一から自社で取り組むには少々荷が重いだろう。
 
 そんな企業を支援するためにデル・テクノロジーズが提供するのが、生成AI基盤設計のためのデザインガイド「Dell Validated Design for Generative AI」だ。また、同社はハードウェアも提供できる強みを活かし、生成AIプロジェクトの入口から出口までを一貫して支援している。
 
@@ -71,7 +103,9 @@
 
 :::box
 
-:::</description><pubDate>Mon, 15 Apr 2024 01:30:21 +0000</pubDate></item><item><title>Sakana AI 日本語対応の画像生成モデル「EvoSDXL-JP」発表　次世代の進化的モデルマージによる推論高速化で10倍のスピードアップを実現</title><link>https://ledge.ai/articles/sakana_ai_evosdxl-jp</link><description>:::small
+:::
+
+</description><pubDate>Mon, 15 Apr 2024 01:30:21 +0000</pubDate></item><item><title>Sakana AI 日本語対応の画像生成モデル「EvoSDXL-JP」発表　次世代の進化的モデルマージによる推論高速化で10倍のスピードアップを実現</title><link>https://ledge.ai/articles/sakana_ai_evosdxl-jp</link><description>:::small
 画像の出典：[SakanaAI]https://sakana.ai/evosdxl-jp/(){target=“_blank”}
 :::
 
@@ -224,6 +258,9 @@ EvoSDXL-JPは、進化的モデルマージ技術を用いて開発され、複�
 
 !
 
+:::box
+
+:::
 :::box
 
 :::
@@ -438,32 +475,7 @@ Uber Eats Japan代表の中川晋太郎氏は、ロボットによる配達の�
 
 :::
 
-</description><pubDate>Mon, 22 Apr 2024 12:54:02 +0000</pubDate></item><item><title>Adobe Premiere Proで「Sora」が使える！　年内にもOpenAI、Runwayなどのビデオ生成モデルを統合すると発表</title><link>https://ledge.ai/articles/adobe_premiere_pro_sora</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Adobeは2024年4月15日、Adobe Premiere Proへの動画生成AI機能の統合を{target=“_blank”}し、プロのビデオエディターに新たな創造的可能性を提供すると述べた。プレスリリースによると、今年中にPremiere Proに導入される新しいAIツールにより、シーン内のオブジェクトを追加または削除する、または既存クリップを拡張するなど、ビデオ編集作業が一段と効率化される見込みだ。
-
-特に注目すべきは、OpenAIが開発した「Sora」を含むビデオ生成モデルがPremiere Proに統合されることである。これにより、プロのビデオエディターは将来的にBロールを自動生成し、プロジェクトに編集可能となる。また、Pika Labsと連携したGenerative Extendツールを用いて、ショットの最後に数秒を加えることもできるようになる予定である。
-
-Generative AI in Premiere Pro powered by Adobe Firefly | Adobe Video
-@
-
-
-
-Adobeのクリエイティブ製品グループのシニアバイスプレジデントであるAshley Still氏は、「Adobeはビデオ制作と制作ワークフローのすべてのステップを再想像し、クリエーターに新しい力と柔軟性を提供して、彼らのビジョンを実現できるようにする」とコメントしている。
-
-Premiere ProではAIによるオーディオワークフローもすでに一般公開されており、新しいフェードハンドル、クリップバッジ、ダイナミックウェーブフォーム、AIベースのカテゴリタグ付けなどが導入され、オーディオ編集をより速く、簡単かつ直感的に行えるようになっている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sun, 21 Apr 2024 06:40:00 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 22 Apr 2024 12:54:02 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
