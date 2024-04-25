@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 07:06:45 +0000</lastBuildDate><item><title>バーチャルでもファッションが楽しめる！アダストリアがファッション特化型メタバース「StyMore」をオープン　サンリオ参入決定</title><link>https://ledge.ai/articles/stymore_open</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 07:06:45 +0000</lastBuildDate><item><title>ファミリーマートが生成AI導入で関連業務時間を約50％削減と発表　会社全体でAI活用を推進</title><link>https://ledge.ai/articles/familymart_aiproject</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月18日、株式会社ファミリーマートは社内に生成AIを導入し業務効率化実証実験を行った結果作業時間が約50％削減できる見込みと{target=“_blank”}した。
+
+生成AI導入で主に各種アンケート集計、社内文書及び社員教育資料作成、スーパーバイザーから社員への問い合わせ対応の業務で効果が見られた。業務時間の短縮を図り確保できた時間をメディア事業などの業務に活用する方針。導入した生成AIは人型AIアシスタント「レイチェル／アキラ」にも搭載され、スムーズなコミュニケーションが実現可能となり更なる業務効率化が期待できるという。
+
+ファミリーマートでは全社横断の「生成AIプロジェクト」を立ち上げ50人のプロジェクトメンバーが「セキュリティ・レギュレーション作成」「Q&amp;A作成・自動回答」「文書作成・要約」「定型シート作成」「法令・リスクの洗い出し」「翻訳」の6領域で新たな業務改善についての効果検証を行っている。今後は生成AI活用の効率化実績を社員の評価指標にも組み込み、社員意識改革を進め積極的に生成AIを活用していくようだ。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Apr 2024 06:13:49 +0000</pubDate></item><item><title>バーチャルでもファッションが楽しめる！アダストリアがファッション特化型メタバース「StyMore」をオープン　サンリオ参入決定</title><link>https://ledge.ai/articles/stymore_open</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -386,59 +405,7 @@ Premiere ProではAIによるオーディオワークフローもすでに一般
 :::box
 
 :::
-</description><pubDate>Fri, 19 Apr 2024 06:04:56 +0000</pubDate></item><item><title>Meta、オープンソースで商用化のLLM「Llama 3」を発表　AIアシスタント「MetaAI」も同時公開　ザッカーバーグ氏がインスタで熱弁</title><link>https://ledge.ai/articles/meta_llama3_meta-ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米Metaは2024年4月18日、新たな大規模言語モデル（LLM）の「Llama 3」を{target=“_blank”}した。この発表は、同社のCEOマーク・ザッカーバーグ氏が{target=“_blank”}でもアナウンスした。
-
-このモデルは、80億パラメータと700億パラメータの2つのバージョンで提供され、さらに4000億パラメータモデルの開発も進行中であることが明らかにされた。
-
-Llama 3は、オープンソースとして提供されるAI技術で、今後はAWS、Databricks、Google Cloud、Hugging Face、Kaggle、IBM WatsonX、Microsoft Azure、NVIDIA NIM、Snowflakeを通じて利用可能になる予定だ。この技術の開発にはAMD、AWS、Dell、Intel、NVIDIA、Qualcommといったハードウェアプラットフォームのサポートも得られているとのこと。
-
-このモデルは、前モデルの「Llama 2」に比べ、トレーニングデータセットが7倍に、コード量が4倍に増加しているという。英語以外のデータも5%以上を占めることで、多言語対応を強化した。
-
-ブログによると、「Llama 3」は以前のモデル「Llama 2」を大きく上回るパフォーマンスを実現し、業界基準のベンチマークで最高の成績を収めている。特に推論、コード生成、指示に基づくタスクの実行能力が向上しており、これによりAIはより操作しやすくなっている。
-
-**ベンチマークテストの結果**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-**人間による評価（勝っているか負けているかを聞くテスト）**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-Llama３を搭載した新しいAIアシスタント「Meta AI」の公開も同時に発表されている。日本でのサービスは現在のところ未定だ。
-
-このAIアシスタントは、学習、仕事の効率化、コンテンツの作成、コネクションの強化など、ユーザーの生活をサポートする多機能を提供するという。広範囲の用途に対応するために事前トレーニングおよび指示に基づくファインチューニングが施されているとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-同社は、このAIモデルを通じて、オープンソースがもたらす透明性とイノベーションの促進を重視している。さらに、AIモデルの責任ある使用と展開を推進するために、新しい信頼性と安全性のツール「Llama Guard 2」、「Code Shield」、および「CyberSec Eval 2」を導入している。
-
-将来的には、多言語およびマルチモダリティをサポートし、より長いコンテキストウィンドウやさらに強化されたパフォーマンスを実現する新モデルのリリースも予定しているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Apr 2024 05:59:58 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Fri, 19 Apr 2024 06:04:56 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
