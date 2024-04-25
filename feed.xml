@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Apr 2024 07:06:45 +0000</lastBuildDate><item><title>ファミリーマートが生成AI導入で関連業務時間を約50％削減と発表　会社全体でAI活用を推進</title><link>https://ledge.ai/articles/familymart_aiproject</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Apr 2024 06:47:52 +0000</lastBuildDate><item><title>Sakana AI 日本語対応の画像生成モデル「EvoSDXL-JP」発表　次世代の進化的モデルマージによる推論高速化で10倍のスピードアップを実現</title><link>https://ledge.ai/articles/sakana_ai_evosdxl-jp</link><description>:::small
+画像の出典：[SakanaAI]https://sakana.ai/evosdxl-jp/(){target=“_blank”}
+:::
+
+Sakana AIは2024年4月22日、進化的モデルマージというアルゴリズムを用いて、日本語プロンプト対応の画像生成モデル「EvoSDXL-JP」を開発し、{target=“_blank”}した。
+
+同社は3月に、進化や集合知など自然界の原理を応用して、基盤モデルの開発を自動化し、効率化する「{target=“_blank”}」という手法を公開している。
+
+この手法を発表した時点ですでに、この画像生成モデルは構築されており、近日中のお披露目を予告していた。
+
+EvoSDXL-JPは、進化的モデルマージ技術を用いて開発され、複数のオープンソースモデルを統合して構築された。この技術により、日本語の理解と日本の伝統的な要素や現代的なスタイルを含んだ画像生成が可能となり、特に推論速度の向上が見られた。従来のモデルが40ステップ必要だった推論処理を4ステップに短縮し、10倍の速度向上を実現している。
+
+!
+:::small
+画像の出典：[SakanaAI]https://sakana.ai/evosdxl-jp/(){target=“_blank”}
+:::
+
+同社によると、このモデルは教育現場での利用を想定しており、高速かつ低コストで高品質な画像を生成可能であるため、広く一般のユーザーにもアクセスしやすい。また、進化的モデルマージ技術によるモデルの自動生成機能は、新しいAI開発の可能性を広げるものであると評価されている。
+
+具体的には、EvoSDXL-JPは「可愛いゾウの編みぐるみ」や「ラーメン、浮世絵、葛飾北斎」といった日本語プロンプトに基づく画像を迅速に生成することができる。このような画像は、教育用のデモや実演など、さまざまなシナリオでの使用が期待されている。
+
+また、Sakana AIはこの技術のさらなる応用を進める計画であり、将来的には多様なモダリティに対応したモデルの開発を目指している。この技術がAIと機械学習の未来に新たな道を開くことが期待されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Apr 2024 06:47:52 +0000</pubDate></item><item><title>ファミリーマートが生成AI導入で関連業務時間を約50％削減と発表　会社全体でAI活用を推進</title><link>https://ledge.ai/articles/familymart_aiproject</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -379,33 +412,7 @@ Premiere ProではAIによるオーディオワークフローもすでに一般
 :::box
 
 :::
-</description><pubDate>Sun, 21 Apr 2024 06:36:52 +0000</pubDate></item><item><title>中国の裁判所、偽ウルトラマン画像の生成AI事業者に著作権侵害で20万円の賠償命令ーー AI生成コンテンツの著作権侵害に関する中国初の裁判</title><link>https://ledge.ai/articles/fake_ultraman_ordered_to_pay_compensation</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年2月8日、中国の広州インターネット裁判所は、ウルトラマンに酷似した画像を生成するAIサービスを提供した事業者に対して著作権侵害を認定し、損害賠償と画像生成の停止を命じる判決を下した。この判決は、AI生成コンテンツの著作権侵害に関する初の裁判として、複数の中国メディアから注目されている。
-
-被告となった事業者は、円谷プロダクションの許可なく「ウルトラマンティガ」と類似した画像をAIを用いて生成し、インターネット上で配信していた。円谷プロダクションは、中国でのライセンスを持つ代理店を通じて、これらの行為が同社の著作権を侵害しているとして訴訟を起こしたとのこと。
-
-!
-:::small
-画像の出典：判決文より抜粋
-:::
-
-裁判所は、AIによって生成された画像が円谷プロダクションの著作物の「翻案」と見なされること、及び事業者が無許可でこれらを作成・配信した行為が著作権侵害に該当すると判断した。その結果、事業者には1万元（約20万円）の損害賠償支払いが命じられた。さらに、関連画像の生成と配信の停止、及び将来にわたる類似侵害の防止措置が要求された。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Apr 2024 06:04:56 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Sun, 21 Apr 2024 06:36:52 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
