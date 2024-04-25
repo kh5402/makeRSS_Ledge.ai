@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Apr 2024 06:54:20 +0000</lastBuildDate><item><title>米PagerDuty「生成AIの安全性と倫理への懸念が大企業の導入を遅らせる」Fortune 1000企業幹部の調査結果を公表</title><link>https://ledge.ai/articles/pagerduty_study_reveals_security_concerns</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Apr 2024 07:40:15 +0000</lastBuildDate><item><title>米PagerDuty「生成AIの安全性と倫理への懸念が大企業の導入を遅らせる」Fortune 1000企業幹部の調査結果を公表</title><link>https://ledge.ai/articles/pagerduty_study_reveals_security_concerns</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1837,7 +1837,63 @@ Copilot ChatはGPT-4を使用しており、より正確なコードの提案と
 
 :::box
 
-:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>ボストン・ダイナミクスのヒト型ロボ「Atlas」油圧式が引退サヨナラ動画発表　翌日「新型Atlas」の動画公開</title><link>https://ledge.ai/articles/boston_dynamiccs_farewell_to_hd_and_hello_new_atlas</link><description>:::small
+:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>スマートグラスを超低電力で動かせるようになる「AIソナー技術」をコーネル大研究チームが開発　反響する音声を拾いAIが表情や視線を推測する</title><link>https://ledge.ai/articles/cornel_uni_ai-powered_sonar</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+コーネル大学の研究者は、ソナーのようなセンシングを通じて人の視線と顔の表情を追跡する2つの技術を{target=“_blank”}した。
+
+これらは商用スマートグラスやVR、ARヘッドセットに装着可能で、従来のカメラベースのシステムと比較して著しく低い電力で動作する。
+
+「GazeTrak」と「EyeEcho」という新たな２つの技術は、眼鏡のフレームに取り付けられたスピーカーとマイクロフォンを用い、顔や眼の動きによって生じる音波の反射を捉えるという。
+
+## GazeTrak：音響信号を利用して視線を追跡する
+@
+
+
+スピーカー１つとマイク４つをメガネの左右のフレームの内側に配置し、眼球と目の周囲からの音波を反射させ拾う。結果として得られる音声信号は、AIが視線の方向を継続的に推測するようカスタマイズした深層学習パイプラインに供給されるという。
+
+このシステムは、カメラに依存する最先端の視線追跡技術ほどにはまだ機能しないが、新しいデバイスは音声信号も有効であるという概念を実証する。最適化を進めることで、同じ精度を達成し、必要なスピーカーとマイクの数を減らすことができるとのこと。
+
+**GazeTrakより：視線をスクリーンの異なる領域に移動させたときの異なるマイクのエコープロファイル**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## EyeEcho：顔の表情をリアルタイムで検出し、アバターを通じて再現
+@
+
+
+EyeEchoのシステムは、スピーカー1つとマイク1つをメガネのヒンジの隣に配置する。表情の変化に応じて、顔の皮膚の動きを捉えるために下向きに配置する。反射された信号は AIが解釈するという。 
+
+この技術を使用することで、騒がしいカフェや路上でも、ユーザーはアバターを介してハンズフリーのビデオ通話が可能だ。一部のスマートグラスには顔を認識したり、いくつかの特定の表情を区別したりする機能があるが、現時点では EyeEcho のように継続的に表情を追跡するものはないとのこと。
+
+
+**EyeEchoより：デザインされた表情と対応する差分エコープロファイル**
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+これらのデバイスは、スマートグラスのバッテリーで数時間、VRヘッドセットでは一日以上持続する性能を持つという。
+デバイスを開発した Smart Computer Interfaces for Future Interactions (SciFi) Labを率いるコーネル大学情報科学助教授である Cheng Zhang 氏は、「小型で、低価格、超低電力なので、毎日スマートグラスに装着してもバッテリーがすぐには減らない」と語る。
+
+2つの研究を主導する博士課程の学生 Ke Li 氏は、ビデオの代わりに音声信号を利用することで、プライバシー保護にも貢献すると強調する。また「VR環境では、他のユーザーとのインタラクションを向上させるために、詳細な顔の表情と視線の動きを再現したい」と述べた。
+
+これらの技術は、VR体験の向上だけでなく、視力が低い人々のためのスクリーンリーダーのサポートや、アルツハイマー病やパーキンソン病などの神経変性疾患の進行監視にも応用可能だという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Apr 2024 07:40:15 +0000</pubDate></item><item><title>ボストン・ダイナミクスのヒト型ロボ「Atlas」油圧式が引退サヨナラ動画発表　翌日「新型Atlas」の動画公開</title><link>https://ledge.ai/articles/boston_dynamiccs_farewell_to_hd_and_hello_new_atlas</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2195,47 +2251,7 @@ Googleは実践テストを使用したパフォーマンスをテストして�
 :::box
 
 :::
-</description><pubDate>Fri, 29 Mar 2024 02:25:57 +0000</pubDate></item><item><title>Stability AIが「Stable Video 3D」を発表 　単一画像から「回しても形が崩れない」3Dビデオ生成を実現</title><link>https://ledge.ai/articles/stable_video_3d</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stability AIは2023年3月19日、単一の画像から高品質な3Dビデオを生成できる新技術「Stable Video 3D」(SV3D)を{target=“_blank”}した。
-
-2023年11月に発表された{target=“_blank”}を基盤としている。
-12月にリリースされた{target=“_blank”} と比較し、品質とマルチビューが大幅に改善され、Zero123-XLなどの他のオープンソースの代替製品よりも優れているという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-SV3Dには「SV3D_u」「SV3D_p」という２つのバリアント（異なるバージョン）がある。
-- **SV3D_u**：カメラのコンディショニングなしで単一の画像入力に基づいて軌道ビデオを生成する
-- **SV3D_p**：SVD3_u の機能を拡張したもの。単一画像と軌道ビューの両方に対応し、指定されたカメラパスに沿って3Dビデオを作成する
-
-2023年12月に同社は「Stability AIメンバーシップ」を{target=“_blank”}している。メンバーシップに加入することでStable Video 3Dの商用利用が可能となる。非商用利用の場合はHugging Faceからモデルウェイトをダウンロードでき、{target=“_blank”}も閲覧可能だ。
-
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-この技術は、従来の新規ビュー合成（NVS）の問題、特に限定されたパースペクティブや出力の不一致を克服し、どの角度からでも一貫したビューを提供する。また、3D Neural Radiance Fields （NeRF）とメッシュ表現の最適化を利用して、直接生成された3Dメッシュの品質を向上させる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 25 Mar 2024 06:36:20 +0000</pubDate></item><item><title>経済産業省 &amp; 総務省、AI事業者向けガイドラインを公表 ― 安全性、透明性、公平性ほか10の指針</title><link>https://ledge.ai/articles/government_released_guidelines_for_ai_providers</link><description>:::small
+</description><pubDate>Fri, 29 Mar 2024 02:25:57 +0000</pubDate></item><item><title>経済産業省 &amp; 総務省、AI事業者向けガイドラインを公表 ― 安全性、透明性、公平性ほか10の指針</title><link>https://ledge.ai/articles/government_released_guidelines_for_ai_providers</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 2024年4月19日、政府はAI事業者向けの新たな指針「AI事業者ガイドライン（第1.0版）」を{target=“_blank”}した。
