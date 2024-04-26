@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Apr 2024 12:24:59 +0000</lastBuildDate><item><title>なぜデル・テクノロジーズが選ばれるのか - 国内外の事例から同社の強みを紐解く</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-4</link><description>生成AIを自社でも導入しようとする企業が増えているが、それは簡単なことではない。1人のユーザーとして生成AIを使うのと、業務やビジネスに活用するのはまったく別の問題だからだ。AI導入の知見やノウハウを持たない企業にとって頼りになるのが、デル・テクノロジーズである。同社はいち早く生成AI活用を実施しており、多くのナレッジを蓄積している。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Apr 2024 12:29:45 +0000</lastBuildDate><item><title>なぜデル・テクノロジーズが選ばれるのか - 国内外の事例から同社の強みを紐解く</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-4</link><description>生成AIを自社でも導入しようとする企業が増えているが、それは簡単なことではない。1人のユーザーとして生成AIを使うのと、業務やビジネスに活用するのはまったく別の問題だからだ。AI導入の知見やノウハウを持たない企業にとって頼りになるのが、デル・テクノロジーズである。同社はいち早く生成AI活用を実施しており、多くのナレッジを蓄積している。
 
 同社はそうしたナレッジを、生成AI基盤設計のためのデザインガイド「Dell Validated Design for Generative AI」として提供しており、さらにハードウェア面でも業界最高性能のGPUサーバ「PowerEdge XE9680」をはじめとして様々な製品を用意している。
 
@@ -1817,7 +1817,47 @@ Copilot ChatはGPT-4を使用しており、より正確なコードの提案と
 
 :::box
 
-:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>国内初、AIが執刀中の外科医の視覚をリアルタイム支援するプログラム医療機器「Eureka α」の薬事承認を取得</title><link>https://ledge.ai/articles/anaut-surg_eureka-alpha</link><description>:::small
+:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>Googleの研究チーム開発の新技術「Infini-attention」無限のテキスト処理を実現ーー長大な文脈を踏まえた濃い内容の応答を可能に</title><link>https://ledge.ai/articles/google_infini_attention</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年4月、Googleの研究チームはトランスフォーマーベースの大規模言語モデル（LLM）を用いて、理論上無限のテキスト長を処理できる新技術「Infini-attention」を{target=“_blank”}した。
+
+論文のタイトルは「Leave No Context Behind（コンテキストを置き去りにしない）」
+
+Infini-attentionは、有限のメモリと計算リソースを使いつつ、入力の長さに制約を設けずに処理を可能にする。この技術の鍵は「圧縮メモリ」の導入にあり、これにより不要になったデータを完全に削除するのではなく、有用な情報を効率的に保存し、再利用することができる。具体的には、マスクされたローカルアテンションと長期リニアアテンションを一つのトランスフォーマーブロック内で統合しているという。
+
+
+**無限に長いコンテキストを処理するためのアーキテクチャ**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この技術の主な特徴は、過去のキーとバリューの状態を圧縮メモリに保存し、新たな情報を処理する際にこれらを活用することで、以前のコンテキストを用いて高精度なテキスト生成を実現する点にある。このアプローチにより、LLMは新しい情報を迅速に処理し、より正確なテキストを生成する。
+
+具体例としては、長編小説の要約や長時間にわたる会議の議事録作成など、情報の連続性を重視するシーンで、その価値が発揮されると考えられる。
+たとえば、「戦争と平和」のような長編小説を要約する際には、初期の章で登場した重要なキャラクターや出来事を圧縮メモリに保存し、それを数百ページ後の章で参照することで、物語全体の文脈を保持しながら要約を行う。また、数時間にわたる国際会議の議事を記録する際にも、会議の開始から終了までの情報を追跡し、重要な議論や決定事項を適切に記録することが可能になるなど。
+
+
+**Infini-Transformer(上)はコンテキストの全履歴を持つのに対し、Transformer-XL(下)は最後のセグメントのみのKV状態をキャッシュするため、古いコンテキストを破棄する**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Infini-attentionの導入は、LLMが扱う情報量を大幅に増やすことができ、これによりより複雑で内容の濃いテキスト応答を生成可能にする。この技術は、特に長大なテキストデータを処理する必要がある分野での応用が期待されており、学術研究や法律文書の解析、長編の文学作品の要約など、さまざまなシナリオで利用されることが考えられる。
+
+論文の実験結果によると、1Mトークンを超えるシーケンス長での言語モデリングベンチマークにおいて、従来のモデルと比較してInfini-attentionが顕著に優れた性能を示しており、特に1Bおよび8Bのモデルを使用した1Mシーケンス長のパスキー文脈ブロック取得や500K長の書籍要約タスクでのこのアプローチの有効性を実証したという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 25 Apr 2024 12:29:45 +0000</pubDate></item><item><title>国内初、AIが執刀中の外科医の視覚をリアルタイム支援するプログラム医療機器「Eureka α」の薬事承認を取得</title><link>https://ledge.ai/articles/anaut-surg_eureka-alpha</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2200,40 +2240,7 @@ Open-Sora 1.0の開発は、ビデオ生成技術の進化を目的としてお�
 :::box
 
 :::
-</description><pubDate>Sat, 30 Mar 2024 12:07:53 +0000</pubDate></item><item><title>脳インプラント術後患者の様子を「Neuralink」がライブ配信　四肢麻痺患者が脳で思考しカーソルを動かす</title><link>https://ledge.ai/articles/neuralink_live_streaming_of_post-operative_brain_implant_patient</link><description>:::small
-画像の出典：{target=“_blank”}
-
-:::
-
-イーロン・マスク氏が率いるスタートアップ企業Neuralinkニューラリンクは2024年3月21日、同社が開発したコンピュータと脳を直接つなぐインターフェースの被験者1号となる患者のインタビューをX（旧Twitter）でライブ配信した。
-
-@
-
-
-
-四肢に麻痺を持つ29歳の男性、ノーランド・アーボー氏は、この技術を用いて10年ぶりに手足を動かさずにコンピュータゲームをプレイするなど、日常生活に革新をもたらす体験をしている。
-
-イーロン・マスク氏は1月30日、Neuralinkが人間への初の脳インプラント手術を実施し、患者が順調に回復していること、さらに神経スパイクの検出において初期段階で有望な結果を示しているとX（旧Twitter）で{target=“_blank”}。2023年5月に、脳インプラントを人間に対して装着するとマスク氏が述べ、9月には治験実験が承認された。
-
-被験者第１号としてこの手術を受けたノーランド氏は、約10年前にフリーダイビングの事故でC4とC5を脱臼し、以来完全な四肢麻痺の状態にあった。しかし、同社のデバイスのおかげで、彼は思考だけでコンピュータ画面上のカーソルを動かし、チェスや『Civilization VI』といったゲームを楽しむことができるようになったという。
-
-このデバイスは、脳の信号を読み取り、それをコンピュータのコマンドに変換することで操作を可能にする。ノーランド氏は、この技術を使って日常生活での多くの制約を克服し、新たな自由を手に入れたと語る。彼は、自分の思考だけで画面上でカーソルを自在に動かす体験を「魔法のような体験」と表現し、技術の可能性に大きな期待を寄せている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 29 Mar 2024 05:34:15 +0000</pubDate></item><item><title>経済産業省 &amp; 総務省、AI事業者向けガイドラインを公表 ― 安全性、透明性、公平性ほか10の指針</title><link>https://ledge.ai/articles/government_released_guidelines_for_ai_providers</link><description>:::small
+</description><pubDate>Sat, 30 Mar 2024 12:07:53 +0000</pubDate></item><item><title>経済産業省 &amp; 総務省、AI事業者向けガイドラインを公表 ― 安全性、透明性、公平性ほか10の指針</title><link>https://ledge.ai/articles/government_released_guidelines_for_ai_providers</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 2024年4月19日、政府はAI事業者向けの新たな指針「AI事業者ガイドライン（第1.0版）」を{target=“_blank”}した。
