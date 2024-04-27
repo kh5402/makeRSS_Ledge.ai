@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Apr 2024 12:29:45 +0000</lastBuildDate><item><title>なぜデル・テクノロジーズが選ばれるのか - 国内外の事例から同社の強みを紐解く</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-4</link><description>生成AIを自社でも導入しようとする企業が増えているが、それは簡単なことではない。1人のユーザーとして生成AIを使うのと、業務やビジネスに活用するのはまったく別の問題だからだ。AI導入の知見やノウハウを持たない企業にとって頼りになるのが、デル・テクノロジーズである。同社はいち早く生成AI活用を実施しており、多くのナレッジを蓄積している。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Apr 2024 13:12:36 +0000</lastBuildDate><item><title>なぜデル・テクノロジーズが選ばれるのか - 国内外の事例から同社の強みを紐解く</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-4</link><description>生成AIを自社でも導入しようとする企業が増えているが、それは簡単なことではない。1人のユーザーとして生成AIを使うのと、業務やビジネスに活用するのはまったく別の問題だからだ。AI導入の知見やノウハウを持たない企業にとって頼りになるのが、デル・テクノロジーズである。同社はいち早く生成AI活用を実施しており、多くのナレッジを蓄積している。
 
 同社はそうしたナレッジを、生成AI基盤設計のためのデザインガイド「Dell Validated Design for Generative AI」として提供しており、さらにハードウェア面でも業界最高性能のGPUサーバ「PowerEdge XE9680」をはじめとして様々な製品を用意している。
 
@@ -2242,7 +2242,35 @@ Open-Sora 1.0の開発は、ビデオ生成技術の進化を目的としてお�
 :::box
 
 :::
-</description><pubDate>Sat, 30 Mar 2024 12:07:53 +0000</pubDate></item><item><title>経済産業省 &amp; 総務省、AI事業者向けガイドラインを公表 ― 安全性、透明性、公平性ほか10の指針</title><link>https://ledge.ai/articles/government_released_guidelines_for_ai_providers</link><description>:::small
+</description><pubDate>Sat, 30 Mar 2024 12:07:53 +0000</pubDate></item><item><title>生成AIの児童安全安全対策強化へのコミットメント：主要AIテック企業が連携「子供の安全を優先すると確約」</title><link>https://ledge.ai/articles/thorn_generative_ai_principle</link><description>:::small
+画像の出典：[THORN](https://www.thorn.org/blog/generative-ai-principles/{target=“_blank”}
+:::
+
+ThornとAll Tech Is Humanは、Amazon、Anthropic、Civitai、Google、Meta、Metaphysic、Microsoft、Mistral AI、OpenAI、Stability AIといった世界の主要なAI企業と協力し、児童の安全を保護するための「Safety by Design」原則に公式にコミットしたと{target=“_blank”}した。AI企業が、AI技術の開発、展開、および維持の各段階で子供の安全を優先することの確約である。
+
+これらの原則は、AIによって生成される児童性的虐待素材（AIG-CSAM）およびその他の性的被害を防ぐことを目的としている。
+
+公開された「生成AIによる安全設計：児童性的虐待の防止」の新しい報告書には、これらの原則が詳述されており、AI開発者、プロバイダー、データホスティングプラットフォーム、ソーシャルプラットフォーム、検索エンジンがこれらの原則を実施するための具体的な対策と戦略が定義されている。同報告書は、Thorn、All Tech Is Human、および参加企業の一部が共同で執筆した。
+
+各社は、これらの原則に基づいて進行状況を透明に公表し共有することにも合意している。ジェネレーティブAI技術および製品に「Safety by Design」原則を統合することにより、これらの企業は子供たちを保護するだけでなく、倫理的なAI革新をリードしている。
+
+生成AIの誤用は、すでに児童性的虐待の増加を加速している。技術の進展により、加害者は以前にも増して簡単に大量の内容を生成する能力を持ち、新たな虐待素材を創出したり、無害な子供の画像を性的な内容に変えたり、完全にAIで生成されたCSAMを作成することが可能となる。
+
+
+**AIを使用して画像を歪める例**
+!
+:::small
+画像の出典：[THORN](https://www.thorn.org/blog/generative-ai-principles/{target=“_blank”}
+:::
+
+
+開発からデプロイメント、メンテナンスに至るまで、これらの企業はジェネレーティブAIモデルが児童の安全リスクに積極的に対処するよう努めるとともに、トレーニングデータセットの適切な管理、フィードバックループと反復的なストレステスト戦略の導入、コンテンツの出典確認を重視することで、CSAMとCSEMの生成を防ぐための対策を実施するとした。
+
+
+:::box
+
+:::
+</description><pubDate>Fri, 26 Apr 2024 13:12:36 +0000</pubDate></item><item><title>経済産業省 &amp; 総務省、AI事業者向けガイドラインを公表 ― 安全性、透明性、公平性ほか10の指針</title><link>https://ledge.ai/articles/government_released_guidelines_for_ai_providers</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 2024年4月19日、政府はAI事業者向けの新たな指針「AI事業者ガイドライン（第1.0版）」を{target=“_blank”}した。
@@ -2593,41 +2621,7 @@ Autorité de la Concurrenceは、透明性、客観性、非差別の基準に�
 :::box
 
 :::
-</description><pubDate>Mon, 25 Mar 2024 15:56:53 +0000</pubDate></item><item><title>世田谷区のAIチャットボット「ヒデキ」を非エンジニアの職員がローコードで開発　絵文字を多用するポジティブおじさん誕生</title><link>https://ledge.ai/articles/setagaya_chatbot_hideki</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-東京都世田谷区のDX推進担当課は2024年3月12日、ChatGPTを用いたAIチャットボット「Hideki（ヒデキ）」を開発したことを{target=“_blank”}した。
-
-同課は、Microsoft Azure OpenAI Serviceを利用し、生成AI（ChatGPT）を活用する環境を構築。非エンジニア職の区職員が開発したMicrosoft Teams対応のチャットボットを全職員に提供開始した。このチャットボットは、外部委託なしで、セキュリティ要件を満たしつつ、3ヶ月で開発された。開発の背景には、区職員の業務効率化と区民の利便性向上の目的があるという。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-このチャットボットは、文章校正やWord/Excel操作に関する疑問解消、アイデアの壁打ちなど、多岐にわたる業務で活用されている。利用した職員127人のうち73%が生産性の向上を実感しており、通常業務では1日平均約34分、アイディアや企画の素案作成においては、1回当たり平均約77分の時間短縮が達成されたとのこと。
-
-#### 職員アンケート
-!
-!
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 22 Mar 2024 05:51:51 +0000</pubDate></item><item><title>AI翻訳で世界中のマンガファンと語り合える！集英社が1か月期間限定でマンガコミュニティサイト「MANGA Plus Universe by SHUEISHA」を公開中</title><link>https://ledge.ai/articles/mangaplusuniverse_byshueisha</link><description>:::small
+</description><pubDate>Mon, 25 Mar 2024 15:56:53 +0000</pubDate></item><item><title>AI翻訳で世界中のマンガファンと語り合える！集英社が1か月期間限定でマンガコミュニティサイト「MANGA Plus Universe by SHUEISHA」を公開中</title><link>https://ledge.ai/articles/mangaplusuniverse_byshueisha</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
