@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Apr 2024 13:45:53 +0000</lastBuildDate><item><title>なぜデル・テクノロジーズが選ばれるのか - 国内外の事例から同社の強みを紐解く</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-4</link><description>生成AIを自社でも導入しようとする企業が増えているが、それは簡単なことではない。1人のユーザーとして生成AIを使うのと、業務やビジネスに活用するのはまったく別の問題だからだ。AI導入の知見やノウハウを持たない企業にとって頼りになるのが、デル・テクノロジーズである。同社はいち早く生成AI活用を実施しており、多くのナレッジを蓄積している。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Apr 2024 13:55:32 +0000</lastBuildDate><item><title>なぜデル・テクノロジーズが選ばれるのか - 国内外の事例から同社の強みを紐解く</title><link>https://ledge.ai/articles/delltechnologies-2024-interview-4</link><description>生成AIを自社でも導入しようとする企業が増えているが、それは簡単なことではない。1人のユーザーとして生成AIを使うのと、業務やビジネスに活用するのはまったく別の問題だからだ。AI導入の知見やノウハウを持たない企業にとって頼りになるのが、デル・テクノロジーズである。同社はいち早く生成AI活用を実施しており、多くのナレッジを蓄積している。
 
 同社はそうしたナレッジを、生成AI基盤設計のためのデザインガイド「Dell Validated Design for Generative AI」として提供しており、さらにハードウェア面でも業界最高性能のGPUサーバ「PowerEdge XE9680」をはじめとして様々な製品を用意している。
 
@@ -457,7 +457,68 @@ Anthropicは、AIの安全性を高めるために「{target=“_blank”}」と
 
 :::
 
-</description><pubDate>Mon, 22 Apr 2024 06:37:47 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
+</description><pubDate>Mon, 22 Apr 2024 06:37:47 +0000</pubDate></item><item><title>GWに徹底理解！GPTの仕組みをめちゃくちゃ分かりやすく解説する無料動画公開</title><link>https://ledge.ai/articles/3blue1brown_transformer_attention</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+連休を自己研鑽に充てようと考える方へ朗報だ。
+
+数学と科学をビジュアルで解説する教育サイト「3Blue1Brown」が2024年4月、GPTの仕組みを分かりやすく解説する動画を公開している。ディープラーニング・第5章「But what is a GPT? - Visual intro to Transformers」というタイトルだ。この動画は、GPT（Generative Pretrained Transformer）の基本的な構造とその動作原理を詳しく説明している。
+
+
+## ディープラーニング　第5章「しかし、GPTとは何なのか」
+
+@
+
+
+GPTは、大量のデータから事前学習を行い、特定のタスクに対してさらに微調整を加えることで、テキスト生成などの機能を実現するAIモデルだ。トランスフォーマーとは、このようなAIブームの中核となる特定のニューラルネットワークの一種であり、2017年にGoogleによって導入されたもので、もともとはテキストの翻訳が主な用途であった。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+今回の動画では、GPTのモデルがどのようにテキストを生成するか、その過程を一から丁寧に解説している。特に、入力されたテキストから次に来る言葉を予測する機能は、単純ながらもテキストを生成する上で重要な役割を果たしている。GPT-2とGPT-3の違いについても触れられており、より大きなモデルであるGPT-3では、より一貫性と感覚的なストーリー生成が可能であることが示されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+3Blue1Brownの動画は、数学を直感的かつ視覚的に理解できるようにデザインされており、複雑な数学的概念や定理をアニメーションを用いて説明する。運営資金調達には、クラウドファンディングのプラットフォーム「Patreon」を採用しており、広告に頼らず視聴者の直接的な支援によって高品質のコンテンツを提供している。
+
+
+## ディープラーニング　第６章「アテンション、トランスフォーマーの心臓を視覚化」
+@
+
+
+
+4月26日に公開されたAIの核心技術の一つである 第6章「Attentionメカニズム」についての解説動画もおススメしたい。このメカニズムは、Transformer構造の中心部品として、AIによる言語理解の精度を飛躍的に向上させるものだ。
+
+「Transformer」という言葉はAIの技術者の間ではよく知られているが、その詳細な機能まで理解している人は少ないという。Transformerは、特にLLMが文章を「読む」際の基盤技術として活用されており、文章中の「トークン」と呼ばれる単位ごとに情報処理を行う。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+動画では、「トークン」として処理される各単語がどのようにAttentionメカニズムによって重要視されるかをビジュアル化しており、教育的な視点からも高い評価を受けているとのことだ。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 26 Apr 2024 13:55:32 +0000</pubDate></item><item><title>NVIDIA、生成AI分野の技術者向けにプロフェッショナル認定制度を新設</title><link>https://ledge.ai/articles/nvidia_genai_professional_certification</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1234,224 +1295,7 @@ OpenAIが大規模言語モデルGPT-4を活用するためのプロンプトエ
 :::box
 
 :::
-</description><pubDate>Thu, 28 Dec 2023 08:57:14 +0000</pubDate></item><item><title>GPTs(GPT Builder)とは｜ChatGPT新機能の特徴・料金</title><link>https://ledge.ai/articles/gpts</link><description>:::box
-**目次**
-- GPTs(GPT Builder)とは？
-- GPTsの基本｜特徴とメリット
-     - GPTsの料金・使い方
-     - ノーコードでの作成​​​​できるオリジナルGPT
-     - オリジナルGPTの公開とGPTストア
-     - 外部ツールとのAPI連携​​​​
-- GPTs | オリジナルGPT作成事例
-     - 事例1  Sous Chef  冷蔵庫の写真から料理を提案 [公式]
-     - 事例2  ピクトグラムメーカー  プレゼン用のアイコンを簡単作成
-     - 事例3  論文要約GPTs  PDFを読み込んで論文を要約
-     - 事例4  GPT Finder  GPTを検索するためのGPT
-- GPTs（GPT Builder）を使って実際にGPTを作ってみた
-     - GPTを作成するためのSTEP
-- GPTsの今後
-:::
-
-## GPTs(GPT Builder)とは？
-
-GPTsとは、ChatGPTをユーザーの目的に合わせてカスタマイズできる機能であり、作成したオリジナルGPTは第三者に公開して共有することができる。GPT Builderは新機能GPTsでGPTを作るための機能を指す。2023年11月7日に行われたOpenAI初の公式イベント「」でその概要が公開された。以下のようなGPTが作成できる。
-
-※GPT（Generative Pre-trained Transformer）はもともと言語モデルを指す略称であるが、新機能GPTsでは、カスタマイズされたChatGPTをGPTとして呼称している。
-
-:::box
-**作成できるGPTのサンプル**
-- ブログを自動で作成できるChatGPT
-- 英文添削をしてくれるChatGPT
-- 写真からファッションコーディネートを提案するChatGPT
-:::
-GPTsは以上のようなカスタマイズされたGPTをGPT Builderと対話をするだけのノーコードで作成できる。さらに2024年の初頭には収益化も可能なGPT公開・販売サイト「GPT Store」のリリースが予定されており、注目度が高まっている。
-
-## GPTsの基本｜特徴とメリット
-
-### **GPTsの料金・使い方**
-
-GPTsは有料の「GPT Plus」に入会することで利用でき、利用料金は月額 20ドル(公開時の為替で約2800円)である。有料の「GPT Plus」では無料版のGPT-3.5よりも高性能なGPT4を利用することができる。「GPT Plus」の詳細は以下の記事で確認できる。
-
-:::box
-
-:::
-
-GPTsは「GPT Plus」入会後に画面左上の[Expore]から利用できる。
-
-### **ノーコードでの作成できるオリジナルGPT**
-
-GPTsはノーコードでオリジナルのChatGPTが作成できる。
-プログラムの知識がなくとも、自社・個人のタスクに合わせたツールをChatGPTと対話することで作成することができる。業務効率化に必要なツールを、解決したい課題に合わせてChatGPT自身が選び、組み合わせて独自のタスクを解決できるチャットボットが開発できる。
-
-### **GPTsの公開・共有とGPT Store**
-GPTsで作成したツールはユーザー間で**共有が可能**である。作成したGPTのURLを発行することができ、会社などの組織内で作成したツールを共有、URLを知っている全ての人物に共有など共有範囲の選択が可能である。
-さらに、2024年度初頭に「GPT Store」の公開が予定されており、開発したGPTの共有・販売が可能となる。「GPT Store」では収益化が可能とされており、利用した人物の人数に応じて収益を得られるとのこと。副業としてもGPT開発が始まり、さらなる開発の加速が期待できる。
-
-### **外部ツールとのAPI連携**
-
-GPTsは「」を利用して**外部ツールと連携することが可能**である。
-特定のサイトの情報を取得したり、作成したGoogle スプレッドシートに アクセスすることが可能になる。
-
-:::box
-**Actionsにできること**
-- リアルタイムの情報    　　　   例: スポーツのスコア、株価、最新ニュースなど。
-- データベースの情報                  例: 会社のドキュメント、個人的なメモなど。
-- ユーザーのアクションを支援　例: 航空券の予約、出前の注文など。
-:::
-
-:::small
-公式サイトより引用して翻訳
-:::
-
-## GPTs | オリジナルGPT作成事例
-
-ここでは、GPTsの作成事例を4つご紹介する。ChatGPTのマルチモーダル機能である画像の読み込み、画像の生成、文章要約などの機能が活用されている。
-***
-**事例1**   ****  made by OpenAI
-!
-
-入力された食材から、最適な料理を提案してくれるGPT。
-さらに冷蔵庫にある食材の写真をアップロードすると、写真から食材を認識し回答を行うこともできる。
-***
-**事例2**   **** made by TOMOKI ISHIMINE
-!
-
-
-入力されたプロンプトからピクトグラムを作成することができる。
-「ジムでベンチプレスをしている人」と入力すると
-1. ジムでベンチプレスに横たわり、バーベルを持ち上げている人。
-2. ジムでベンチプレスをしている人が、大きなウェイトを追加している。
-3. ジムでベンチプレスをしている人が、スポットトレーナーにサポートされている。
-
-抽象的なプロンプトから具体的なプロンプトを３つ提案された。1を選択すると以下のような画像が生成された。
-!
-***
-**事例3** **** made by community buider (匿名)
-!
-
-PDFファイルをアップロードすれば、英語論文を要約することができる。
-***
-**事例4** **** made by  
-
-!
-
-**GPT Finder**はKnowledge機能を活用し、GPTsに関する情報を与えてられており、ユーザーが望むGPTを検索することを可能にしている。GPTsを探すGPTや、GPTsを作るためのGPTが既に有志によって作成されていることが面白いところであり、GPTsの可能性を感じさせられる。
-***
-## GPTs（GPT Builder）を使って実際にGPTを作ってみた
-
-### **STEP1 GPT Builderの起動**
-
-ではGPT BuilderでカスタマイズされたGPTを作成していく。
-ChatGPTの有料版、ChatGPT Plusにプランを変更すると画面左上にExplore(エクスプロア)が表示される。まずはExploreをクリックする。
-!
-Exploreをクリックすると以下の画面が表示される。次に、My GPTsの「Create a GPT」をクリックする。
-!
-クリックすると、GPTsの作成画面が表示される。
-画面左はGPT Builderとなっており、会話することでオリジナルのGPT作成のサポートをしてくれる。画面右はPreviewになっており、GPT Builderが自動で調整したGPTをすぐにテストすることができる。Previewで期待する回答が得られなかった場合はGPT Builderに修正内容を伝えて、修正→Previewを繰り返し、目標のGPTを作成できる。
-!
-
-
-
-### **STEP2 GPT Builderに作成したいGPTの内容を伝える。**
-
-今回は「Ledge.AIのおすすめ記事を要約して、そのリンクを紹介してくれるGPT」を作成します。GPT Builderにこの内容を伝えます。
-!
-
-
-### **STEP3 GPT BuilderがGPTのタイトルを提案**
-
-趣旨を伝えると、GPTのタイトルを提案された。
-:::box
-**ChatGPT**
-Great! We're creating a GPT that can summarize AI-related articles from Ledge.AI and provide links to those articles.
-How about we name this GPT **AI Article Summarizer**? Does that sound good to you?
-(素晴らしい！Ledge.AIからAI関連の記事を要約し、それらの記事へのリンクを提供できるGPTを作成中です。
-このGPTを**AI Article Summarizer**と名付けるのはどうだろう？いいと思う？)
-:::
-このAI Article Summarizerというタイトルで許可をする。
-
-※会話で使う言語に関して、GPT Builderではこちらが日本語で話しても、英語で回答することが多くあった。プロンプトに日本語で会話して下さいと追加すると日本語で会話できるようになる。ただし、しばらくすると英語に戻ってしまう場合も現段階では多い。
-
-### **STEP4 GPT BuilderがGPTのプロフィール写真を生成**
-タイトルの許可をすると、次にプロフィール写真が生成され、作成した画像で問題ないか確認される。このプロフィール写真で問題ない旨を伝えた。
-!
-
-
-### **STEP5 GPT Builderに作成したい機能の詳細を伝える**
-
-次に、AI Article Summarizerにどのような機能を持たせたいかを質問されます。
-以下のように、いくつかの選択肢を提案されそれを選択するだけで、開発が進む。
-:::box
-**ChatGPT**
-素晴らしいです。AI Article Summarizerのプロフィール写真が設定されました。
-　
-次に、このGPTの役割と目標について詳しくお聞かせください。どのような情報を特に重視し、どのように要約することを希望しますか？例えば、記事の特定の側面やテーマを重視する、または特定のスタイルで要約することを希望するなど、ご要望があれば教えてください。
-　
-**User**
-https://ledge.ai/のサイトの記事を、ビジネスマン向けに要約して下さい。
-　
-**ChatGPT**
-了解しました。AI Article Summarizerは、Ledge.AIのウェブサイトの記事をビジネスマン向けに要約する役割を果たします。市場の動向、ビジネスへの応用、戦略的な洞察など、ビジネスプロフェッショナルに特に関連する情報を重視して要約します。
-　
-このGPTの使用にあたって、避けるべき事項や特に注意すべき点はありますか？例えば、特定の言葉遣いや情報の取り扱いに関するガイドラインがあれば教えてください。
-　
-**User**
-https://ledge.ai/以外の記事は紹介しないでください
-　
-**ChatGPT**
-了解しました。AI Article SummarizerはLedge.AIの記事のみを要約し、他の情報源からの記事は参照または要約しないようにします。
-　
-このGPTの対話スタイルについて、どのような感じにしたいですか？例えば、公式なビジネスライクなトーン、またはもう少しカジュアルなアプローチなど、ご希望があれば教えてください。
-　
-**User**
-ビジネスライクなトーンでお願いします
-　
-**ChatGPT**
-AI Article Summarizerはビジネスライクなトーンで情報を提供します。
-　
-それでは、プレイグラウンドでこのGPTを試してみてください。フィードバックがあれば、どんな改善点でもお聞かせください。何か他に追加や変更を希望されますか？
-::: 
-
-以上の会話でGPTが完成した。早速、動作テストを行う。
-Previewで動作テストすることができるが今回は保存してからテストを行った。
-※反映が遅い時があるため
-### 作成したGPTをテストする
-「自動運転に関するおすすめ記事を教えて」と入力すると以下の回答が得られた。Webサイトからタイトルを取得できているが、期待する回答が得られていない。
-!
-次に、期待する回答が得られるようGPTを修正していく。
-
-### オリジナルのGPTをCreateからカスタマイズする
-
-**Create**から会話形式で修正することもできるが、左画面の上部**Configure**から直接GPTをカスタマイズできる。実は先ほどの会話からChatGPTが自動で**Configure**の必要項目を埋めてくれる仕組みになっている。**Instractions**には先ほど会話した内容が、要約されてまとまっている。
-!
-
-期待する回答が得られるよう**Configure**を以下のように編集した。**Instractions**には直接日本語で内容を入力し、内容を変更した。Instractionsを日本語にしておくとChatGPTが回答する際に英語になってしまう現象が少なくなった。
-!
-
-以下のように期待する回答が得られた。記事の要約とそのリンクを添付してくれている。
-!
-
-
-GPT「AI Article Summarizer」にはからアクセスできる。ただし、GPT Plusに入会している必要がある。
-
-## GPTsの今後
-
-OpenAI社の公式ブログ記事 で次のように発言されている。
-:::box
-**The best GPTs will be invented by the community** (最高の GPT はコミュニティによって発明されます)
-:::
-2024年初頭には収益化可能なGPT Storeが公開される予定で、OpenAI社はユーザーの開発競争によってより優れたGPTが生まれることを期待していることが示唆される。
-
-これまでのGPT-3からGPT-4への進化や、GPT-5の開発が進んでいる一方で、マルチモーダル機能や外部APIとの連携が容易になり、誰もが業務効率化ツールを作成できるようになっている。
-さらに、開発競争によって革新的なGPTが続々と生まれれば、App Storeのような大規模なマーケットが形成されるかもしれない。
-
-:::box
-
-:::
-
-
-
-</description><pubDate>Thu, 28 Dec 2023 07:51:46 +0000</pubDate></item><item><title>GitHub、AIによるコード脆弱性自動修正機能をパブリックベータで提供開始
+</description><pubDate>Thu, 28 Dec 2023 08:57:14 +0000</pubDate></item><item><title>GitHub、AIによるコード脆弱性自動修正機能をパブリックベータで提供開始
 </title><link>https://ledge.ai/articles/github_advanced_security_code_scanning_autofix</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
