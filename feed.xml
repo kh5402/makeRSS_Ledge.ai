@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 27 Apr 2024 11:11:04 +0000</lastBuildDate><item><title>NVIDIAのCEO、Jensen HuangがOpenAIに最新GPU「H200」を直接お届け</title><link>https://ledge.ai/articles/jensen_openai_h200</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 06:10:44 +0000</lastBuildDate><item><title>NVIDIAのCEO、Jensen HuangがOpenAIに最新GPU「H200」を直接お届け</title><link>https://ledge.ai/articles/jensen_openai_h200</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -465,7 +465,42 @@ Anthropicは、AIの安全性を高めるために「{target=“_blank”}」と
 :::
 
 
-</description><pubDate>Tue, 23 Apr 2024 02:26:54 +0000</pubDate></item><item><title>GWに徹底理解！GPTの仕組みをめちゃくちゃ分かりやすく解説する無料動画公開</title><link>https://ledge.ai/articles/3blue1brown_transformer_attention</link><description>:::small
+</description><pubDate>Tue, 23 Apr 2024 02:26:54 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Googleは2024年4月19日、Google Workspaceユーザーを対象にした新しいブログシリーズ「{target=“_blank”}」を開始した。
+
+このシリーズは、生成AIを効果的に活用するためのヒントやコツ、提案を定期的に提供することを目的としている。Google Workspaceは元々、リアルタイムおよび非同期でのコラボレーションを核として構築されており、この新技術を取り入れることで、ユーザーの生産性、創造性、および作業の質をさらに高めることが期待されているという。
+
+このブログシリーズでは、特に効果的なプロンプトの作成方法にスポットライトが当てられている。プロンプトは、AI搭載アシスタントとの対話を始めるためのトリガーとして機能し、ペルソナ（Persona）、タスク（Task）、コンテキスト（Context）、フォーマット（Format）の4つの主要な要素を含めることが推奨されている。これらの要素を組み合わせることで、より具体的かつ効果的な応答を引き出すことが可能だ。
+
+具体例としては、Google Slidesで旅行ブログの記事に添える画像を生成するプロセスが紹介されている。ユーザーは「Create image with Gemini」というプロンプトを用いて、希望するシーンの画像を生成し、選んだ画像を直接スライドに挿入することができる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「Beyond the Prompt」は、Google Workspaceを使用している全ユーザーがGeminiの機能を最大限に活用し、より効果的に作業を進めるための支援を提供していくという。
+
+またGoogleは「{target=“_blank”}」という電子ブックも公開しており、プロンプトの基本から応用まで、多岐にわたる情報を45ページにわたって提供している。このガイドは、GeminiをはじめとするAIチャットボットの活用を促進し、具体的な業務に応用するための例文も含まれているとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Apr 2024 06:10:44 +0000</pubDate></item><item><title>GWに徹底理解！GPTの仕組みをめちゃくちゃ分かりやすく解説する無料動画公開</title><link>https://ledge.ai/articles/3blue1brown_transformer_attention</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1241,69 +1276,7 @@ Ledge.aiで取り上げた記事の中からファインチューニングを利
 :::
 :::button
 
-:::</description><pubDate>Thu, 28 Dec 2023 10:15:51 +0000</pubDate></item><item><title>年末年始こそAIのリスキリング　2023-24年のおすすめ無料講座を一挙紹介！ー松尾研LLM講座・Google認定資格プログラム・プロンプトエンジニアリングなど</title><link>https://ledge.ai/articles/free_courses_in_winter2023-24</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-生成AIに追われ、慌ただしく過ぎ去った2023年。リスキリングの波に乗り、休暇をじっくりと学び、新しい年を迎える自分をエンパワーする時間に充てる人も増えているという。まとまった時間を興味ある分野の一歩に。
-
-## 東大松尾研 LLM講座
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-東京大学松尾研究室は12月27日、東京大学サマースクールで2023年9~10月に開催された「大規模言語モデル講座」のコンテンツを{target=“_blank”}。この講座には約2,000名が参加し、全7回の講義とGPUを使ったコンペティションが実施された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-## Google認定資格プログラム
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleは現在、新規会員に先着2万名限定で「Google Career Certificates」を{target=“_blank”}。このプログラムは、サイバーセキュリティとデータアナリティクスのコースを含み、キャリアアップに有効なGoogleの認定資格を取得できる。受講には学位や事前知識が不要で、オンラインで約6ヶ月間で完了可能だ。
-
-## OpenAI「ChatGPTのプロンプトの書き方」
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIが大規模言語モデルGPT-4を活用するためのプロンプトエンジニアリングの基本テキストを{target=“_blank”}。このテキストでは、GPT-4の効果的な使用方法として、6つの主要戦略とそれに関連する具体的なテクニックを紹介している。例えば質問の詳細化、ペルソナの採用、入力の区切りの明確化、必要な手順の指定など。
-
-また、効果的なプロンプトの例も提供されており、コピー＆ペーストで利用できる。OpenAIのサイトでは、これらの戦略に基づいた多数のプロンプト例も紹介されており、利用者はすぐにこれらを活用可能だ。
-
-## IBM SkillsBuild「AIの基礎」
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-{target=“_blank”}は、技術分野でのスキルアップを目指す人々に焦点を当てた無料の教育プログラムだ。IBMは、2026年末までに200万人の学習者にAIに関する学習機会を提供するコミットメントを発表し、この目標の達成のためにIBM SkillsBuildを通じて新しい生成AIのコースを提供開始した。
-
-{target=“_blank”}講座では、次の６つのコースで構成される。「人工知能の概要」「自然言語処理とコンピュータビジョン」「機械学習と深層学習」「IBM Watson Studio で AI モデルを実行する」「AI倫理」「 AIとの未来、仕事の展望」
-
-※IBM Skill Build を利用するには、まずアカウントの作成が必要となる。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 28 Dec 2023 08:57:14 +0000</pubDate></item><item><title>GitHub、AIによるコード脆弱性自動修正機能をパブリックベータで提供開始
+:::</description><pubDate>Thu, 28 Dec 2023 10:15:51 +0000</pubDate></item><item><title>GitHub、AIによるコード脆弱性自動修正機能をパブリックベータで提供開始
 </title><link>https://ledge.ai/articles/github_advanced_security_code_scanning_autofix</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
