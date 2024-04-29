@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 06:10:44 +0000</lastBuildDate><item><title>NVIDIAのCEO、Jensen HuangがOpenAIに最新GPU「H200」を直接お届け</title><link>https://ledge.ai/articles/jensen_openai_h200</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 06:14:37 +0000</lastBuildDate><item><title>Forebesが選ぶ「2024年の注目すべきAI関連企業50社」発表　シリコンバレーの投資家を動かす合計347億ドル調達の企業リストとは</title><link>https://ledge.ai/articles/forbes_ai50-2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Forbesは2024年4月11日、SequoiaおよびMeritech Capitalとのパートナーシップのもと、最も有望なAI企業を認定する年次AI 50リストを{target=“_blank”}した。
+
+このリストは、非公開のAI企業の中で最も有望なビジネスユースケースを開発している企業を選出している。選出された企業は、広範な用途でAI技術を活用し、業界に新たな潮流を生み出しているという。
+
+### 主要な企業と技術の概要
+OpenAIは評価額86億ドル。顧客はモルガン・スタンレーからアイスランド政府まで多岐にわたる。同社のライバル企業とされるAnthropicは、評価額18.4億ドルでブリッジウォーターやボストン・コンサルティング・グループを顧客に持つ。また、Databricks（評価額43億ドル）は、そのデータアナリティクスとAIデプロイメントソフトウェアをシェルやアメリカ郵政公社に販売している。
+
+### 投資と資金調達
+2024年のAI 50に選ばれた企業は、合計で347億ドル以上の資金を調達した。中でもOpenAIは、マイクロソフトからの約100億ドルを含む、全体の約3分の1を占める。他の上昇中のAI研究企業も注目されており、Anthropicは77億ドル、Cohereは4.45億ドル、Mistral AIは5.28億ドルを調達したとのこと。
+
+### 新興企業の動向
+Abridge、Harvey、Mistral AIなど、多くの新興企業が、AI技術を駆使した独自のソリューションで急成長を遂げているという。Abridgeは医師が患者との会話を記録し、それをAIが要約するサービスを提供し、10,000人以上の臨床医が使用している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+AI業界はこれまで以上に競争が激化しており、Forbes は昨年の約2倍となる1,932件の応募を受けたという。選考プロセスは、収益性、企業文化、多様性などの基準に基づいて行われ、最終的には最も魅力的な50社がリストアップされた。このリストを通じて、スタートアップ生態系における多様性と公平性の促進も目指しているが、業界内の格差は依然として大きいと見られている。
+
+### 注目の全50社リストはこちら
+社名はアルファベット順
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Apr 2024 06:14:37 +0000</pubDate></item><item><title>NVIDIAのCEO、Jensen HuangがOpenAIに最新GPU「H200」を直接お届け</title><link>https://ledge.ai/articles/jensen_openai_h200</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -433,39 +474,7 @@ EvoSDXL-JPは、進化的モデルマージ技術を用いて開発され、複�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Apr 2024 06:55:48 +0000</pubDate></item><item><title>AnthropicのCEOが警告「急増するAIモデルのトレーニングコストは数年で1兆円を超える」加速する開発に対し安全性強化の必要性を説く</title><link>https://ledge.ai/articles/training_costs_will_exceed_1trillion_in_a_few_years</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-AI開発企業AnthropicのCEO、ダリオ・アモデイ氏は2024年4月12日、AIモデルのトレーニングに必要なコストが今後数年間で1兆円を超えると{target=“_blank”}でのインタビューで述べた。この高額な投資がAI技術の発展を加速させるものの、安全性や倫理的な問題にも新たな課題を投げかけているという​。
-
-アモデイ氏によれば、AIモデルのトレーニングコストは2025年から2026年にかけて約10億ドル（約1540億円）から約100億ドル（約1兆5400億円）へと急増する見込みだ​。この急速なコスト増加は、AI研究に必要な計算リソースの高まりを示しており、特に高性能なGPUやAIアクセラレータが必要とされる状況が続いている。
-
-
-Anthropicは、AIの安全性を高めるために「{target=“_blank”}」という評価指標を導入している。AIが特定の危険な能力を示した場合には、追加の安全対策が施されるまでそのデプロイメントやトレーニングを停止するという方針を採用しているとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-さらに、アモデイ氏はAIが人類に対する脅威となりうる活動、特に生物兵器の開発などへの応用可能性に警鐘を鳴らしている。これに対抗するために、Anthropicでは「Constitutional AI」と呼ばれる新たなトレーニング手法を開発しており、AIが定められた原則に従って行動するよう訓練されている​。
-
-国際的な協力と規制の枠組みの重要性もアモデイ氏は強調しており、技術の進歩を監視し、必要に応じて調整を行うことが、AIの安全な発展を確保する上で不可欠であると述べている​。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Tue, 23 Apr 2024 02:26:54 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
+</description><pubDate>Tue, 23 Apr 2024 06:55:48 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
