@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 06:14:37 +0000</lastBuildDate><item><title>Forebesが選ぶ「2024年の注目すべきAI関連企業50社」発表　シリコンバレーの投資家を動かす合計347億ドル調達の企業リストとは</title><link>https://ledge.ai/articles/forbes_ai50-2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 12:36:32 +0000</lastBuildDate><item><title>オルツが数兆パラメータ規模の大規模言語モデル構築に着手</title><link>https://ledge.ai/articles/alts_begins_building_llm_with_trillions_of_parameters</link><description>:::small
+画像の出典：[オルツ](https://alt.ai/news/news-2710/{target=“_blank”}
+:::
+
+オルツは2024年4月26日、数兆パラメータ超規模の大規模言語モデル（LLM）の開発に着手したことを{target=“_blank”}した。同社の約10年間にわたる自然言語処理を含むAI技術の研究開発の集大成であり、ビジネスシーンや日常生活における実用的な応用を目指しているという。
+
+オルツは、高いパフォーマンスを実現しつつも、スピードとコストの効率を重視したモデル開発を進めている。開発される言語モデルは、エンドユーザーが直面する具体的な問題解決を念頭に置いた設計が施されており、実運用時の計算効率とコストパフォーマンスに優れていることが求められる。
+
+オルツの新LLMは、特に日本語処理の精度向上に特化しており、既存のモデルを超える使いやすさとカスタマイズ性の実現を目標にしているという。これには、高品質な学習データの確保と効率的なデータ管理が重要となり、エネルギー消費の観点からも、データセンターの地理的分散化やエッジコンピューティングの利用が進められている。
+
+### 技術革新に向けた多角的アプローチ
+オルツは、LLM開発を通じて以下のような技術革新を推進しているという
+- 学習データの大規模構築
+- インストラクションデータの構築と自動化
+- プロンプトエンジニアリングの自動化
+- 既存モデルの改良を可能にする生涯学習の研究加速
+- 軽量モデルによる大規模モデル同様の出力再現の研究加速
+- LLM特化チップ（TPU, LPU, NPU）の研究開発
+
+この取り組みを通じ、国内外のパートナーとの連携を積極的に推進し、グローバル市場での競争力を高めるとともに、日本発の技術革新を世界に示していく意向だという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Apr 2024 12:36:32 +0000</pubDate></item><item><title>Forebesが選ぶ「2024年の注目すべきAI関連企業50社」発表　シリコンバレーの投資家を動かす合計347億ドル調達の企業リストとは</title><link>https://ledge.ai/articles/forbes_ai50-2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -449,32 +478,7 @@ EvoSDXL-JPは、進化的モデルマージ技術を用いて開発され、複�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Apr 2024 06:58:34 +0000</pubDate></item><item><title>東工大の次世代スパコン「TSUBAME4.0」お披露目　国内2位の計算性能でAI研究を強化</title><link>https://ledge.ai/articles/titech_tsubame4-0_unveiled</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-東京工業大学は2024年4月18日、新しいスーパーコンピューター「{target=“_blank”}」の披露式を開催した。TSUBAME4.0は、理化学研究所の「富岳」に次ぐ国内2位の演算性能を誇り、科学技術計算での倍精度では66.8ペタフロップス、AI向けの半精度では952ペタフロップスの計算能力を持つ。
-
-このスーパーコンピューターは、米国半導体大手NVIDIA社のH100 Tensor Core GPUを960台搭載し、AIや高性能コンピューティング（HPC）分野の研究加速を目的としている。また、高速ネットワークを通じてSINET6に直接接続され、100Gbpsの速度で東工大すずかけ台キャンパスから直接インターネットに接続される設計だという。
-
-「もっとみんなのスパコン」というコンセプトのもと、広く国内外の研究者や民間企業に利用されることが期待されており、教育や先端研究への貢献が目指されている。特に、次世代医薬品開発などの生命科学研究において、その大規模計算能力が重要な役割を果たすことが予想される。
-
-東京工業大学はこの新しいデジタルインフラを通じて、国際競争力の強化と科学技術の発展に寄与するとしている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Apr 2024 06:55:48 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
+</description><pubDate>Tue, 23 Apr 2024 06:58:34 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
