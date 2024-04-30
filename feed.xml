@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 12:36:32 +0000</lastBuildDate><item><title>オルツが数兆パラメータ規模の大規模言語モデル構築に着手</title><link>https://ledge.ai/articles/alts_begins_building_llm_with_trillions_of_parameters</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 12:36:32 +0000</lastBuildDate><item><title>NEC、高速・高性能な大規模言語モデル「cotomi Pro」と「cotomi Light」を開発</title><link>https://ledge.ai/articles/nec_llm_cotomi-pro_cotomi-light</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NECは2024年4月24日、新たな大規模言語モデル（LLM）「cotomi Pro」と「cotomi Light」の開発を{target=“_blank”}した。これらのモデルは、グローバルトップレベルの性能を数倍から十数倍の速度で提供することが特徴だ。
+
+生成AIの急速な進展により、多くの企業や公共機関がLLMの導入を進めている中で、NECはレスポンスタイムの短縮と高いセキュリティを保ちながら、高性能なモデル提供を目指している。同社は、学習データとアーキテクチャの全面的な見直しを行い、「cotomi Pro」と「cotomi Light」を開発。これにより、大規模モデルでありながら実用的なレスポンスタイムを実現しているという。
+
+「cotomi Pro」は、GPT-4やClaude 2といったモデルに匹敵する性能を持ちつつ、GPU2枚の設定で約1/8のレスポンスタイムを達成。一方、「cotomi Light」は、GPT-3.5-Turbo相当の性能を持ちながら、さらに高速に大量のリクエストを処理可能で、実際の業務で十分な処理能力を発揮する。
+
+NECはこれまで、約4万人の社員が生成AIを活用した社内サービスで約1年間実際の業務にこれらのモデルを利用し、その結果をフィードバックして性能向上を図ってきた。この実績に基づき、新しいモデルは現実的なユースケースでの性能も大幅に向上している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「cotomi Pro」は文書検索システムでの使用例があり、ファインチューニングを施さない状態でGPT-3.5を上回る正答率を、ファインチューニング後はGPT-4を超える正答率を、およそ1/15のレスポンスタイムで達成しているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Sun, 28 Apr 2024 08:53:57 +0000</pubDate></item><item><title>オルツが数兆パラメータ規模の大規模言語モデル構築に着手</title><link>https://ledge.ai/articles/alts_begins_building_llm_with_trillions_of_parameters</link><description>:::small
 画像の出典：[オルツ](https://alt.ai/news/news-2710/{target=“_blank”}
 :::
 
@@ -462,23 +492,7 @@ EvoSDXL-JPは、進化的モデルマージ技術を用いて開発され、複�
 
 :::
 
-</description><pubDate>Mon, 15 Apr 2024 01:18:51 +0000</pubDate></item><item><title>セガフェイブ　リアルなAI猫ロボット「KIMIT ラグドール」不具合による商品回収と全額返金を発表　「電源をオフにして使用を中止を」</title><link>https://ledge.ai/articles/sega_fave_kimit_recall</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月18日、セガフェイブは、2024年2月から販売している「KIMIT ラグドール ホワイト／ブラウン」について、使用中に焦げ臭い匂いがするとの報告を受け、自主回収と全額返金を行うことを{target=“_blank”}した。同時に、現在商品を使用中の場合は「電源をオフにして使用を中止」するよう呼びかけている。
-
-同社によると、2024年3月28日に顧客からの報告を受けた後、調査を行った結果、玩具のモーターを制御するICの発熱が原因で、モーターユニットカバーに接触している生地が焼損していることが判明した。これにより、同商品の販売は直ちに停止され、回収が決定された。
-
-現在のところ、発火や顧客の怪我に関する報告はないものの、顧客の安全を確保するための措置として、また再発防止と品質管理体制の強化を図るため、この回収を決定したと同社は述べている。
-
-セガフェイブは回収対象となる「KIMIT ラグドール ホワイト／ブラウン」を購入した顧客に対して、商品を使用中止し、全額返金することを通知している。同社は今後も品質の向上に努めるとしており、顧客からの理解と協力を求めている。
-
-
-:::box
-
-:::
-</description><pubDate>Tue, 23 Apr 2024 06:58:34 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
+</description><pubDate>Mon, 15 Apr 2024 01:18:51 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
