@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 12:36:32 +0000</lastBuildDate><item><title>NEC、高速・高性能な大規模言語モデル「cotomi Pro」と「cotomi Light」を開発</title><link>https://ledge.ai/articles/nec_llm_cotomi-pro_cotomi-light</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Apr 2024 12:36:32 +0000</lastBuildDate><item><title>リコーがLLM開発に続きドイツの新興企業「ナティフAI」の買収を発表　更なるオフィス業務効率向上を目指す
+</title><link>https://ledge.ai/articles/ricoh_natif_ai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年4月22日、株式会社リコーはドイツの新興企業であるナティフAIを買収したと{target=“_blank”}した。
+
+ナティフAIは、2019年に設立されたインテリジェントキャプチャーと呼ばれるAIを活用した画像認識やOCR（Optical Character Recognition）など、文書データ情報を抽出する技術に強みを持つ企業。リコーは自社の複合機でスキャンした紙文書や手書き文書から情報抽出する機能をより強化し、自動化・高度化を実現するという。読み取りが難しいとされる手書き文書にも対応しており、この先進的な技術を取り入れ更なるオフィス業務効率化の向上を目指す。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+リコーは2019年にドイツの「ドキュウェア社」を買収している。ドキュウェア社とナティフAIの持つ技術を掛け合わせることでより高度な技術と幅広い業務領域への対応が可能になると期待できるという。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 26 Apr 2024 01:39:57 +0000</pubDate></item><item><title>NEC、高速・高性能な大規模言語モデル「cotomi Pro」と「cotomi Light」を開発</title><link>https://ledge.ai/articles/nec_llm_cotomi-pro_cotomi-light</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -463,23 +485,7 @@ EvoSDXL-JPは、進化的モデルマージ技術を用いて開発され、複�
 
 :::
 
-</description><pubDate>Mon, 15 Apr 2024 01:18:51 +0000</pubDate></item><item><title>セガフェイブ　リアルなAI猫ロボット「KIMIT ラグドール」不具合による商品回収と全額返金を発表　「電源をオフにして使用を中止を」</title><link>https://ledge.ai/articles/sega_fave_kimit_recall</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月18日、セガフェイブは、2024年2月から販売している「KIMIT ラグドール ホワイト／ブラウン」について、使用中に焦げ臭い匂いがするとの報告を受け、自主回収と全額返金を行うことを{target=“_blank”}した。同時に、現在商品を使用中の場合は「電源をオフにして使用を中止」するよう呼びかけている。
-
-同社によると、2024年3月28日に顧客からの報告を受けた後、調査を行った結果、玩具のモーターを制御するICの発熱が原因で、モーターユニットカバーに接触している生地が焼損していることが判明した。これにより、同商品の販売は直ちに停止され、回収が決定された。
-
-現在のところ、発火や顧客の怪我に関する報告はないものの、顧客の安全を確保するための措置として、また再発防止と品質管理体制の強化を図るため、この回収を決定したと同社は述べている。
-
-セガフェイブは回収対象となる「KIMIT ラグドール ホワイト／ブラウン」を購入した顧客に対して、商品を使用中止し、全額返金することを通知している。同社は今後も品質の向上に努めるとしており、顧客からの理解と協力を求めている。
-
-
-:::box
-
-:::
-</description><pubDate>Tue, 23 Apr 2024 06:58:34 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
+</description><pubDate>Mon, 15 Apr 2024 01:18:51 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
