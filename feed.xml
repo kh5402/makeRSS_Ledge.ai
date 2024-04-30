@@ -29,36 +29,7 @@ NECはこれまで、約4万人の社員が生成AIを活用した社内サー�
 
 :::
 
-</description><pubDate>Sun, 28 Apr 2024 08:53:57 +0000</pubDate></item><item><title>オルツが数兆パラメータ規模の大規模言語モデル構築に着手</title><link>https://ledge.ai/articles/alts_begins_building_llm_with_trillions_of_parameters</link><description>:::small
-画像の出典：[オルツ](https://alt.ai/news/news-2710/{target=“_blank”}
-:::
-
-オルツは2024年4月26日、数兆パラメータ超規模の大規模言語モデル（LLM）の開発に着手したことを{target=“_blank”}した。同社の約10年間にわたる自然言語処理を含むAI技術の研究開発の集大成であり、ビジネスシーンや日常生活における実用的な応用を目指しているという。
-
-オルツは、高いパフォーマンスを実現しつつも、スピードとコストの効率を重視したモデル開発を進めている。開発される言語モデルは、エンドユーザーが直面する具体的な問題解決を念頭に置いた設計が施されており、実運用時の計算効率とコストパフォーマンスに優れていることが求められる。
-
-オルツの新LLMは、特に日本語処理の精度向上に特化しており、既存のモデルを超える使いやすさとカスタマイズ性の実現を目標にしているという。これには、高品質な学習データの確保と効率的なデータ管理が重要となり、エネルギー消費の観点からも、データセンターの地理的分散化やエッジコンピューティングの利用が進められている。
-
-### 技術革新に向けた多角的アプローチ
-オルツは、LLM開発を通じて以下のような技術革新を推進しているという
-- 学習データの大規模構築
-- インストラクションデータの構築と自動化
-- プロンプトエンジニアリングの自動化
-- 既存モデルの改良を可能にする生涯学習の研究加速
-- 軽量モデルによる大規模モデル同様の出力再現の研究加速
-- LLM特化チップ（TPU, LPU, NPU）の研究開発
-
-この取り組みを通じ、国内外のパートナーとの連携を積極的に推進し、グローバル市場での競争力を高めるとともに、日本発の技術革新を世界に示していく意向だという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Apr 2024 12:36:32 +0000</pubDate></item><item><title>Forebesが選ぶ「2024年の注目すべきAI関連企業50社」発表　シリコンバレーの投資家を動かす合計347億ドル調達の企業リストとは</title><link>https://ledge.ai/articles/forbes_ai50-2024</link><description>:::small
+</description><pubDate>Sun, 28 Apr 2024 08:53:57 +0000</pubDate></item><item><title>Forebesが選ぶ「2024年の注目すべきAI関連企業50社」発表　シリコンバレーの投資家を動かす合計347億ドル調達の企業リストとは</title><link>https://ledge.ai/articles/forbes_ai50-2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -492,7 +463,23 @@ EvoSDXL-JPは、進化的モデルマージ技術を用いて開発され、複�
 
 :::
 
-</description><pubDate>Mon, 15 Apr 2024 01:18:51 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
+</description><pubDate>Mon, 15 Apr 2024 01:18:51 +0000</pubDate></item><item><title>セガフェイブ　リアルなAI猫ロボット「KIMIT ラグドール」不具合による商品回収と全額返金を発表　「電源をオフにして使用を中止を」</title><link>https://ledge.ai/articles/sega_fave_kimit_recall</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月18日、セガフェイブは、2024年2月から販売している「KIMIT ラグドール ホワイト／ブラウン」について、使用中に焦げ臭い匂いがするとの報告を受け、自主回収と全額返金を行うことを{target=“_blank”}した。同時に、現在商品を使用中の場合は「電源をオフにして使用を中止」するよう呼びかけている。
+
+同社によると、2024年3月28日に顧客からの報告を受けた後、調査を行った結果、玩具のモーターを制御するICの発熱が原因で、モーターユニットカバーに接触している生地が焼損していることが判明した。これにより、同商品の販売は直ちに停止され、回収が決定された。
+
+現在のところ、発火や顧客の怪我に関する報告はないものの、顧客の安全を確保するための措置として、また再発防止と品質管理体制の強化を図るため、この回収を決定したと同社は述べている。
+
+セガフェイブは回収対象となる「KIMIT ラグドール ホワイト／ブラウン」を購入した顧客に対して、商品を使用中止し、全額返金することを通知している。同社は今後も品質の向上に努めるとしており、顧客からの理解と協力を求めている。
+
+
+:::box
+
+:::
+</description><pubDate>Tue, 23 Apr 2024 06:58:34 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1671,7 +1658,36 @@ Copilot ChatはGPT-4を使用しており、より正確なコードの提案と
 
 :::box
 
-:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>Microsoftのトーキングヘッド生成AI「VASA-1」　1枚の静止画と音声データで、その人物があたかも喋っているような動画を生成</title><link>https://ledge.ai/articles/microsoft_vasa-1</link><description>:::small
+:::</description><pubDate>Wed, 15 Nov 2023 05:08:10 +0000</pubDate></item><item><title>オルツが数兆パラメータ規模の大規模言語モデル構築に着手</title><link>https://ledge.ai/articles/alts_begins_building_llm_with_trillions_of_parameters</link><description>:::small
+画像の出典：[オルツ](https://alt.ai/news/news-2710/{target=“_blank”}
+:::
+
+オルツは2024年4月26日、数兆パラメータ超規模の大規模言語モデル（LLM）の開発に着手したことを{target=“_blank”}した。同社の約10年間にわたる自然言語処理を含むAI技術の研究開発の集大成であり、ビジネスシーンや日常生活における実用的な応用を目指しているという。
+
+オルツは、高いパフォーマンスを実現しつつも、スピードとコストの効率を重視したモデル開発を進めている。開発される言語モデルは、エンドユーザーが直面する具体的な問題解決を念頭に置いた設計が施されており、実運用時の計算効率とコストパフォーマンスに優れていることが求められる。
+
+オルツの新LLMは、特に日本語処理の精度向上に特化しており、既存のモデルを超える使いやすさとカスタマイズ性の実現を目標にしているという。これには、高品質な学習データの確保と効率的なデータ管理が重要となり、エネルギー消費の観点からも、データセンターの地理的分散化やエッジコンピューティングの利用が進められている。
+
+### 技術革新に向けた多角的アプローチ
+オルツは、LLM開発を通じて以下のような技術革新を推進しているという
+- 学習データの大規模構築
+- インストラクションデータの構築と自動化
+- プロンプトエンジニアリングの自動化
+- 既存モデルの改良を可能にする生涯学習の研究加速
+- 軽量モデルによる大規模モデル同様の出力再現の研究加速
+- LLM特化チップ（TPU, LPU, NPU）の研究開発
+
+この取り組みを通じ、国内外のパートナーとの連携を積極的に推進し、グローバル市場での競争力を高めるとともに、日本発の技術革新を世界に示していく意向だという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Apr 2024 12:36:32 +0000</pubDate></item><item><title>Microsoftのトーキングヘッド生成AI「VASA-1」　1枚の静止画と音声データで、その人物があたかも喋っているような動画を生成</title><link>https://ledge.ai/articles/microsoft_vasa-1</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2064,40 +2080,7 @@ Appleは2024年のうちにAI関連で新たな発表をするとCEOのティム
 :::box
 
 :::
-</description><pubDate>Fri, 05 Apr 2024 13:41:28 +0000</pubDate></item><item><title>Google Research、1枚の画像から話す人物の動画を生成するAI「VLOGGER」を発表</title><link>https://ledge.ai/articles/google_reserch_vlogger</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Google Researchは2024年3月13日、人物の単一画像から話す動画を生成するAIシステム「VLOGGER」を{target=“_blank”}した。
-
-VLOGGERは、確率的拡散モデルと空間及び時間的制御を統合した新しいアーキテクチャにより、口元の動きだけでなく全顔の表情変化や手のジェスチャーまで表現可能な可変長の高品質動画を生成する。
-
-MENTORと呼ばれる80万アイデンティティを含む大規模なデータセットを用いたトレーニングにより、個々の人物に対して再トレーニングする必要がなく、多様でリアルな動画の生成を実現しているという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-VLOGGERのフレームワークは、音声からビデオへの一対多マッピングをモデル化するために確率的拡散モデルに基づいた２段階のパイプラインで構成されている。
-
-最初のネットワークは、オーディオ波形を入力として受け取り、目標ビデオの長さにわたる視線、顔の表情、及びポーズを制御する中間ボディモーションコントロールを生成する。
-
-次のネットワークは、大規模な画像拡散モデルを拡張した時間的画像から画像への変換モデルであり、予測されたボディコントロールを取って、対応するフレームを生成する。特定のアイデンティティにプロセスを条件付けるために、ネットワークはまた、人物の参照画像も取る。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 01 Apr 2024 02:35:43 +0000</pubDate></item><item><title>生成AIの児童安全安全対策強化へのコミットメント：主要AIテック企業が連携「子供の安全を優先すると確約」</title><link>https://ledge.ai/articles/thorn_generative_ai_principle</link><description>:::small
+</description><pubDate>Fri, 05 Apr 2024 13:41:28 +0000</pubDate></item><item><title>生成AIの児童安全安全対策強化へのコミットメント：主要AIテック企業が連携「子供の安全を優先すると確約」</title><link>https://ledge.ai/articles/thorn_generative_ai_principle</link><description>:::small
 画像の出典：[THORN](https://www.thorn.org/blog/generative-ai-principles/{target=“_blank”}
 :::
 
