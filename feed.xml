@@ -611,9 +611,9 @@ LLMを始めとするAI技術の発展・普及とともに、AIと人との関�
 
 ーーー
 
-レッジでは生成AIの導入支援サービスを提供している。
-その中ではAIエージェントを企業の生成AI活用の重要テーマとして包括的な支援が可能となっている。
-ご興味ある方は、下記ページよりお問い合わせいただきたい。
+レッジでは生成AIの導入支援サービスを提供しています。
+その中ではAIエージェントを企業の生成AI活用の重要テーマとして包括的な支援が可能です。
+ご興味ある方は、下記ページよりお問い合わせください。
 
 :::box
 関連ページ：
@@ -2439,7 +2439,49 @@ Autorité de la Concurrenceは、透明性、客観性、非差別の基準に�
 :::box
 
 :::
-</description><pubDate>Mon, 25 Mar 2024 15:56:53 +0000</pubDate></item><item><title>AI翻訳で世界中のマンガファンと語り合える！集英社が1か月期間限定でマンガコミュニティサイト「MANGA Plus Universe by SHUEISHA」を公開中</title><link>https://ledge.ai/articles/mangaplusuniverse_byshueisha</link><description>:::small
+</description><pubDate>Mon, 25 Mar 2024 15:56:53 +0000</pubDate></item><item><title>AI Picasso　商用利用可能なAIアート生成ツール「Emi 2」を無償公開　クリエイター尊重するAI開発　追加学習に無断転載画像用いず</title><link>https://ledge.ai/articles/ai_picasso_emi-2</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+AI Picassoは2024年4月26日、AIアートに特化した高品質画像生成ツール「Emi 2」を{target=“_blank”}した。
+
+Emi 2 は商用利用が可能で、追加学習において無断転載画像を用いていない。{target=“_blank”}より無償利用が可能だ。
+
+同モデルは、初代「{target=“_blank”}」と同様、特にイラストやアニメ、マンガ生成に特化して開発され、NVIDIA H100を用いた最先端の開発機材によって支えられている。追加学習に無断転載画像を用いず、Stable Diffusion XL 1.0と同様のライセンスで、ユーザーは安心して商用利用が可能だという。
+
+
+以下は、2023年10月に公開された第1弾のEmiとの比較画像。Emi 2は全身を描画する際に安定する傾向にあるとのこと。
+（左: Emi / 右: Emi 2）
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+同社は、クリエイターとの協力を重視しており、データの提供に対して適切な報酬を設定し、利益分配の仕組みを導入している。特に、「AIいらすとや」のプロジェクトは、内閣府の報告会においてクリエイターへの還元事例として紹介された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社は、Emi 2がEmiと同様、クリエイターたちの声を聞きながら作られたと語る。Emiだけではなく、同社はXやDiscord上などで、他のモデルを含めたモデルのあり方について、クリエイターたちと対話を続けながら、信頼関係を築いていくと述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 30 Apr 2024 01:46:37 +0000</pubDate></item><item><title>AI翻訳で世界中のマンガファンと語り合える！集英社が1か月期間限定でマンガコミュニティサイト「MANGA Plus Universe by SHUEISHA」を公開中</title><link>https://ledge.ai/articles/mangaplusuniverse_byshueisha</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2793,30 +2835,4 @@ YouTubeは2024年3月19日、クリエイターが作成したコンテンツが
 :::box
 
 :::
-</description><pubDate>Sun, 24 Mar 2024 11:41:00 +0000</pubDate></item><item><title>「相棒 season22」最終回は「ディープフェイク右京」登場。人間は生成AIに置き換えられるのか</title><link>https://ledge.ai/articles/aibou22_ai-ukyo</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-人気ドラマ「相棒 season22」の{target=“_blank”}が2024年3月13日に放送され、生成AIによるフェイク動画が登場し、話題となった。このエピソードでは、俳優の水谷豊氏が演じる主人公「杉下右京」が喋る謎の動画が、AIによって生成されたものであった、という筋書きだ。
-
-「相棒」シリーズにおいて、テクノロジーと事件を組み合わせた話題は珍しくない。過去には、ダークウェブを利用した犯罪や、ライブ配信中の事件の謎解きなど、現実社会の技術進化を反映したエピソードが多数放送されてきたという。
-
-今回の「AI右京」を中心に据えたストーリーは、生成AIの急速な進化が現実世界に与える影響に焦点を当てた。特に、フェイク動画の拡散によって生じる混乱は、社会に新たな脅威をもたらす可能性があることをドラマが明らかにしたといえる。
-
-テレ朝POSTに掲載された{target=“_blank”}で、水谷氏は生成AIと人間の関係について問われ、自身の考えを述べた。
-
-「フェイク動画を生み出す人間は世界中にいるが、AIが人の心を表現できるとは思わない。人間がAIに置き換えられることは最終的にはないけれど、悪用はできてしまう」
-
-同氏はまた、生成AIが引き起こす影響の一例として、ハリウッドの脚本家や俳優たちがAIによる影響を懸念し、ストライキに至った事例を引き合いに出した。AIに対するネガティブな捉え方とその背景に触れ、AIを悪用するのではなく、人間にとってプラスになる使い方を模索するべきだと語った。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 18 Mar 2024 02:52:18 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sun, 24 Mar 2024 11:41:00 +0000</pubDate></item></channel></rss>
