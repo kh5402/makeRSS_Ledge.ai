@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Apr 2024 06:14:30 +0000</lastBuildDate><item><title>イーロン・マスク氏「テスラは今年1.5兆円を自動運転のためのAI開発へ投資する」と発言　</title><link>https://ledge.ai/articles/tesla_invests_10b_in_self-driving-ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Apr 2024 06:14:30 +0000</lastBuildDate><item><title>日本経済新聞が「NIKKEI Language Model」の開発を発表　40年分の記事情報で磨かれた経済情報特化型大規模言語モデル</title><link>https://ledge.ai/articles/nikkei_language_model</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月24日、日本経済新聞は経済情報に特化した大規模言語モデル「NIKKEI Language Model」（略称　NiLM　にるむ）を開発したと{target=“_blank”}した。
+
+日本経済新聞社の研究開発部署である日経イノベーション・ラボは、開発にあたり約40年分もの自社グループの雑誌や新聞などの各媒体記事を学習させ、日本経済新聞にしか作れない高品質な経済情報特化型の言語モデル開発を実現した。
+
+開発したモデルはパラメータ数が130億と700億の2種類がある。パラメータ数が最大130億のモデルは既存モデルをベースとせず独自に構築しているが、パラメータ数が700億のモデルはmetaが開発した「Llama（ラマ）2」をベースにファインチューニングを行い開発。最新ニュースの幅広い知識を持ち、記事の要約などで活用できるという。また、現在はパラメータ数80億のモデルについても着手しており、こちらはmetaが4月に公開した「Llama（ラマ）3」をベースに作られている。
+
+今回開発したモデルは、日経イノベーション・ラボが推進するAIプロダクトの研究開発などで利用を検討しており、大規模言語モデルの研究開発は今後も継続し、性能改善や課題に対する検証をすすめていくという。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 30 Apr 2024 03:07:58 +0000</pubDate></item><item><title>イーロン・マスク氏「テスラは今年1.5兆円を自動運転のためのAI開発へ投資する」と発言　</title><link>https://ledge.ai/articles/tesla_invests_10b_in_self-driving-ai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -422,26 +440,7 @@ EvoSDXL-JPは、進化的モデルマージ技術を用いて開発され、複�
 :::box
 
 :::
-</description><pubDate>Wed, 24 Apr 2024 06:47:52 +0000</pubDate></item><item><title>ファミリーマートが生成AI導入で関連業務時間を約50％削減と発表　会社全体でAI活用を推進</title><link>https://ledge.ai/articles/familymart_aiproject</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月18日、株式会社ファミリーマートは社内に生成AIを導入し業務効率化実証実験を行った結果作業時間が約50％削減できる見込みと{target=“_blank”}した。
-
-生成AI導入で主に各種アンケート集計、社内文書及び社員教育資料作成、スーパーバイザーから社員への問い合わせ対応の業務で効果が見られた。業務時間の短縮を図り確保できた時間をメディア事業などの業務に活用する方針。導入した生成AIは人型AIアシスタント「レイチェル／アキラ」にも搭載され、スムーズなコミュニケーションが実現可能となり更なる業務効率化が期待できるという。
-
-ファミリーマートでは全社横断の「生成AIプロジェクト」を立ち上げ50人のプロジェクトメンバーが「セキュリティ・レギュレーション作成」「Q&amp;A作成・自動回答」「文書作成・要約」「定型シート作成」「法令・リスクの洗い出し」「翻訳」の6領域で新たな業務改善についての効果検証を行っている。今後は生成AI活用の効率化実績を社員の評価指標にも組み込み、社員意識改革を進め積極的に生成AIを活用していくようだ。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Apr 2024 06:13:49 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
+</description><pubDate>Wed, 24 Apr 2024 06:47:52 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2468,6 +2467,9 @@ Emi 2 は商用利用が可能で、追加学習において無断転載画像�
 同社は、Emi 2がEmiと同様、クリエイターたちの声を聞きながら作られたと語る。Emiだけではなく、同社はXやDiscord上などで、他のモデルを含めたモデルのあり方について、クリエイターたちと対話を続けながら、信頼関係を築いていくと述べた。
 
 
+:::box
+
+:::
 :::box
 
 :::
