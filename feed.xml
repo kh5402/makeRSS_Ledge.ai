@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 May 2024 12:13:06 +0000</lastBuildDate><item><title>Apple　オープンソースの言語モデル「OpenELM」を発表　iPhone上での効率的なAI処理が可能</title><link>https://ledge.ai/articles/apple_open-elm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 May 2024 12:16:09 +0000</lastBuildDate><item><title>チューリングがプレシリーズAで30億円の資金調達、完全自動運転の開発加速
+</title><link>https://ledge.ai/articles/turing_raised_3b_yen_in_funding</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+チューリングは2024年4月23日、独立系ベンチャーキャピタルANRIをリードとする複数のベンチャーキャピタル、事業会社、個人投資家からの出資を受け、プレシリーズAラウンドの前半で30億円の資金調達を行ったと{target=“_blank”}した。
+
+同社はカメラから取得したデータを用いて、運転に必要な判断をAIが自動で行うEnd-to-End（E2E）方式の自動運転技術に特化している。自社開発したマルチモーダル生成AI「Heron」を活用することで、従来の走行データでは対応困難な未知の状況にも倫理的に適応可能なシステムの構築を目指し、完全自動運転のレベル5達成に向けた開発を進めているという。
+
+調達した資金は、Heronの運用に必要な大規模GPUクラスタ「Gaggle Cluster」の構築、2025年までに人間の介入なしで都内を30分間自動運転する「Tokyo30」プロジェクトの実施、および必要なMLエンジニアの採用に充てられる。これにより、同社は国内トップクラスの計算資源をエンジニアに提供することが可能となる。
+
+
+「完全自動運転に向けたマルチモーダル基盤モデルの開発」を目指すチューリングは、2月に経済産業省の「ポスト5G情報通信システム基盤強化研究開発事業」の事業者として採択された。生成AI基盤の開発事業者として、Googleクラウドの計算資源を無償で利用できるよう支援を受けている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 01 May 2024 12:16:09 +0000</pubDate></item><item><title>Apple　オープンソースの言語モデル「OpenELM」を発表　iPhone上での効率的なAI処理が可能</title><link>https://ledge.ai/articles/apple_open-elm</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -376,39 +398,7 @@ MetaのCEO、マーク・ザッカーバーグ氏は、{target=“_blank”}に�
 :::box
 
 :::
-</description><pubDate>Thu, 25 Apr 2024 12:24:59 +0000</pubDate></item><item><title>米PagerDuty「生成AIの安全性と倫理への懸念が大企業の導入を遅らせる」Fortune 1000企業幹部の調査結果を公表</title><link>https://ledge.ai/articles/pagerduty_study_reveals_security_concerns</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月27日、米国 PagerDuty は、アメリカの大手企業の技術部門幹部を対象に行った生成AIの採用に関する調査結果を{target=“_blank”}した。この調査は、Fortune 1000企業におけるCIO直属の部長以上の幹部1000名を対象に実施された。
-
-調査によると、企業内でAIの可能性についての議論は活発化しているものの、調査対象者全員がAI技術に潜むセキュリティリスクに対して懸念を表明している。特に、98%の幹部が社内の生成AIプロジェクトを一時停止し、企業が適切なガイドラインを確立するまで待つべきだと回答している。これには、企業の評判や法的リスクへの懸念も含まれている。
-
-生成AIがもたらすリスクについては50%の幹部が懸念しており、著作権や法的リスクについて非常に不安に感じている幹部も51%にのぼるという​。
-
-さらに、調査対象者の46%は、適切なガイドラインなしに早急に生成AIを採用すれば、競合に遅れを取るリスクがあると感じているという。その一方で、4分の1の幹部は、生成AIを信頼していないと回答した。
-
-
-**調査対象となった経営幹部の100％が、この技術のセキュリティ・リスクについて懸念を抱いている**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-正式なガイドラインを策定済みの企業は29%に留まり、66%の企業がこれらのポリシーを策定中だ。生成AIのユースケースを試用中の企業は98%に上るが、ポリシーを策定するために一旦取り組みを中断しているケースも多い​​という。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Apr 2024 06:54:20 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
+</description><pubDate>Thu, 25 Apr 2024 12:24:59 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
