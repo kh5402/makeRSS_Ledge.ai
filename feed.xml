@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 May 2024 12:16:09 +0000</lastBuildDate><item><title>チューリングがプレシリーズAで30億円の資金調達、完全自動運転の開発加速
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 May 2024 12:18:48 +0000</lastBuildDate><item><title>Financial TimesとOpenAIが戦略的パートナーシップを締結</title><link>https://ledge.ai/articles/openai_content_partnership_with_ft</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月29日、Financial Times（FT）は、OpenAIとの戦略的パートナーシップ及びライセンス契約を{target=“_blank”}した。ChatGPTのモデルがFTのジャーナリズムを取り入れた内容で強化され、新しいAI製品やFT読者向けの機能開発に協力するという。
+
+この契約のもと、ChatGPTユーザーは関連する問い合わせに応じて、FTのジャーナリズムからの選ばれた要約、引用、リンクを閲覧できるようになる。さらに、FTは今年初めにChatGPT Enterpriseを導入し、すべてのFT従業員がこの技術を活用できるようになった。これにより、創造性と生産性の向上が図られるとのこと。
+
+FTグループのCEO、ジョン・リディング氏は「この合意は多くの点で重要である」と述べている。AIを通じてコンテンツがどのように提示されるかについての早期の洞察を得ることができ、また、FTのジャーナリズムの価値を認識しているとした。同氏はさらに、この契約がFTの作業範囲を広げ、読者の要求や関心の深い理解を促進すると付け加えた。
+
+一方、OpenAIのCOOブラッド・ライトキャップ氏は「FTとのパートナーシップ及び継続的な対話は、ニュース組織とジャーナリストをAIで強化し、世界中の何百万もの人々にリアルタイムで高品質なジャーナリズムを提供するChatGPTの体験を豊かにするための創造的かつ生産的な方法を見つけることについてだ」とコメントしている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 01 May 2024 12:18:48 +0000</pubDate></item><item><title>チューリングがプレシリーズAで30億円の資金調達、完全自動運転の開発加速
 </title><link>https://ledge.ai/articles/turing_raised_3b_yen_in_funding</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -371,34 +397,7 @@ H200は、2023年11月に発表されたNVIDIAのサーバー向け最新のGPU�
 
 :::
 
-</description><pubDate>Tue, 16 Apr 2024 01:40:46 +0000</pubDate></item><item><title>MetaがLLMに続きMRヘッドセット用OS「Meta Horizon OS」もオープンに　ASUS・Lenovoなどが連携し、各社独自のMRヘッドセットを開発開始</title><link>https://ledge.ai/articles/meta_horizon_os_open_hardware_ecosystem</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Metaは2024年4月22日、Mixed Reality（MR）ヘッドセット用のオペレーティングシステム「Meta Horizon OS」（旧Meta Quest software）をサードパーティー企業に開放すると{target=“_blank”}した。
-
-この戦略により、他の企業もMetaのOSを採用した独自のMRヘッドセットを開発できるようになる。
-
-この一環として、ASUS（台湾）、Lenovo（中国）、そしてMicrosoft（米国）との提携を進めている​という。これらの企業は、それぞれの専門知識を活かし、ゲーミング、生産性、学習、エンターテインメント向けの製品を開発しているとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-MetaのCEO、マーク・ザッカーバーグ氏は、{target=“_blank”}にて、「コンピューティングの世界において、オープンなモデルとクローズドなモデルが共存してきた」と述べ、現在のスマートフォン市場でのAppleのクローズドモデルを例示した。同氏は「メタバースはオープンであるべきだ」と、Appleの「Vision Pro」を引き合いに出し、自由で開かれた技術的環境の構築について語った。
-
-同社はまた、Meta Horizon OSにおけるアプリエコシステムを拡張するための施策も発表した。Meta HorizonストアおよびApp Labを通じて、開発者は自社のアプリケーションを容易に配信し、収益化することが可能となる。この開放的なアプローチは、MetaがXbox Cloud Gaming UltimateやSteam Link、Google Playなど他のプラットフォームと連携し、利用者が豊富なコンテンツにアクセスできる環境を整えることにもつながっているという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 25 Apr 2024 12:24:59 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
+</description><pubDate>Tue, 16 Apr 2024 01:40:46 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
