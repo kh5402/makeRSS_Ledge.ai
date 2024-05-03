@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 02 May 2024 05:06:12 +0000</lastBuildDate><item><title>トヨタ・日産が、中国テック企業とAIで提携　北京モーターショー2024で戦略的パートナーシップを発表
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 02 May 2024 09:56:50 +0000</lastBuildDate><item><title>ニューヨーク・タイムズに続き米新聞8社が著作権侵害でオープンAIを提訴　</title><link>https://ledge.ai/articles/openai_sued_newspaper_company</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+4月30日、ニューヨーク市のタブロイド紙「デイリー・ニュース」、地方紙「シカゴ・トリビューン」や「オーランド・センチネル」などアメリカの新聞8社が「Chat GPT」を手掛ける生成AI開発企業のオープンAI、同社に出資するマイクロソフトを著作権侵害で提訴したことを{target=“_blank”}した。
+
+具体的な損害賠償額は公表していないが、両社がAIデータ学習のために8社の数百万本もの記事を無許可で利用し著作権侵害をしたと主張。2023年12月には同様の理由で米ニューヨーク・タイムズ（NYT）も2社を提訴しており、コストをかけ取材した内容を対価を支払わず無断で利用していることを問題視している。
+
+一方で英フィナンシャル・タイムズは4月29日にオープンAIと提携することを{target=“_blank”}しており、引用元を明示することを条件にChat GPTによるデータの学習や要約の作成を容認している。
+
+欧州では主要メディアもオープンAIとの提携を決める動きもあり、仏紙ルモンド、{target=“_blank”}もChat GPTの記事データ学習を認めている。生成AIをめぐって企業間で対応が分かれている現状だ。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 02 May 2024 09:56:50 +0000</pubDate></item><item><title>トヨタ・日産が、中国テック企業とAIで提携　北京モーターショー2024で戦略的パートナーシップを発表
 </title><link>https://ledge.ai/articles/toyota_nissan_autochina2024</link><description>:::small
 画像：{target=“_blank”}
 :::
@@ -308,37 +332,7 @@ Phi-3-miniは128Kトークンというクラス最長のコンテキストウィ
 :::
 :::box
 
-:::</description><pubDate>Fri, 26 Apr 2024 01:39:57 +0000</pubDate></item><item><title>NEC、高速・高性能な大規模言語モデル「cotomi Pro」と「cotomi Light」を開発</title><link>https://ledge.ai/articles/nec_llm_cotomi-pro_cotomi-light</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NECは2024年4月24日、新たな大規模言語モデル（LLM）「cotomi Pro」と「cotomi Light」の開発を{target=“_blank”}した。これらのモデルは、グローバルトップレベルの性能を数倍から十数倍の速度で提供することが特徴だ。
-
-生成AIの急速な進展により、多くの企業や公共機関がLLMの導入を進めている中で、NECはレスポンスタイムの短縮と高いセキュリティを保ちながら、高性能なモデル提供を目指している。同社は、学習データとアーキテクチャの全面的な見直しを行い、「cotomi Pro」と「cotomi Light」を開発。これにより、大規模モデルでありながら実用的なレスポンスタイムを実現しているという。
-
-「cotomi Pro」は、GPT-4やClaude 2といったモデルに匹敵する性能を持ちつつ、GPU2枚の設定で約1/8のレスポンスタイムを達成。一方、「cotomi Light」は、GPT-3.5-Turbo相当の性能を持ちながら、さらに高速に大量のリクエストを処理可能で、実際の業務で十分な処理能力を発揮する。
-
-NECはこれまで、約4万人の社員が生成AIを活用した社内サービスで約1年間実際の業務にこれらのモデルを利用し、その結果をフィードバックして性能向上を図ってきた。この実績に基づき、新しいモデルは現実的なユースケースでの性能も大幅に向上している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「cotomi Pro」は文書検索システムでの使用例があり、ファインチューニングを施さない状態でGPT-3.5を上回る正答率を、ファインチューニング後はGPT-4を超える正答率を、およそ1/15のレスポンスタイムで達成しているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sun, 28 Apr 2024 08:53:57 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
+:::</description><pubDate>Fri, 26 Apr 2024 01:39:57 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
