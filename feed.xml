@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 01 May 2024 12:18:48 +0000</lastBuildDate><item><title>ニッセンが画像生成AIを活用し着用パターンを自動生成する実証実験を実施　生成された着用イメージで洋服を試着体験！</title><link>https://ledge.ai/articles/nissen_apparel_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 02 May 2024 05:02:19 +0000</lastBuildDate><item><title>OpenAI　ChatGPTの「Memory」機能をすべての有料ユーザーに向けて提供開始</title><link>https://ledge.ai/articles/openai_chatgpt_memory_for_all_plus_users</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年4月29日、ChatGPTの新機能「Memory」の提供をChatGPT Plusユーザー全員に対して開始したと{target=“_blank”}した。
+
+この機能は、ユーザーの過去のチャットを記憶し、個別の情報を繰り返し入力する手間を省く。2月よりこの機能がテストされていたが、このアップデートにより、有料会員のプラスユーザーなら全員使用できるようになったという。
+
+Memory機能は、ユーザーとの対話を通じて情報を記憶し、次回以降の対話においてその情報を反映させるというもの。対話中にMemoryが更新されると「Memory updated」と表示され、記録された内容を確認できるようになっている。
+
+たとえば「私のペットは、ゴールデンレトリバーのエリーと、メインクーンのテディ―です」と入力し、その情報を記憶させる。その後「私のペットたちがサーフボードに乗っている絵を作って」と依頼すると、ChatGPTが前述のレトリバーとメインクーンがサーフボードを乗りこなす画像を生成する。
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+Memory機能は、初期設定で「オン」に設定されており、ユーザーは設定画面からON・OFFの切り替えが可能。また、Memoryの管理（Manage）より、特定の記憶されたデータを選んで削除できる。ChatGPTとの対話で、何を記憶しているか確認し、それを忘れるように指示しデータを削除することも可能。チャット自体を削除しても記憶されたデータは消去されない。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+なお、この機能は企業向けプラン（Enterprise）およびチーム向けプラン（Teams）、そしてGPTsでの利用が予定されている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 02 May 2024 05:02:19 +0000</pubDate></item><item><title>ニッセンが画像生成AIを活用し着用パターンを自動生成する実証実験を実施　生成された着用イメージで洋服を試着体験！</title><link>https://ledge.ai/articles/nissen_apparel_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -321,32 +354,7 @@ AI業界はこれまで以上に競争が激化しており、Forbes は昨年�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Apr 2024 06:14:37 +0000</pubDate></item><item><title>NVIDIAのCEO、Jensen HuangがOpenAIに最新GPU「H200」を直接お届け</title><link>https://ledge.ai/articles/jensen_openai_h200</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-2024年4月25日、NVIDIAのCEOであるJensen Huang氏が、自らOpenAIに向けて世界初のDGX H200 GPUを手渡したことを、OpenAIの共同創設者Greg Brockman氏が、自身のX（旧Twitter）アカウントに{target=“_blank”}した。
-
-投稿画像をよくよく見ると、GPUにHuangの直筆サインが施されているのが分かる。
-
-Brockman氏は、このGPUが
-「AI、コンピューティング、そして人類の発展」のためにJensen によって捧げられた。
-と述べている。
-
-H200は、2023年11月に発表されたNVIDIAのサーバー向け最新のGPUで、「NVIDIA Hopper」アーキテクチャを使用し、生成AIやLLMなどの高度なタスクを処理するハイパフォーマンスコンピューティング（HPC）を強化するという。最大141GBのHBM3eメモリと4.8TB/sの速度を持ち、OpenAIの研究で必要とされる大規模な計算処理の高速化に貢献すると期待されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 27 Apr 2024 11:11:04 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
+</description><pubDate>Sun, 28 Apr 2024 06:14:37 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
