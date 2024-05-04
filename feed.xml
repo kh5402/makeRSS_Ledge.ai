@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 May 2024 04:38:19 +0000</lastBuildDate><item><title>ニューヨーク・タイムズに続き米新聞8社が著作権侵害でオープンAIを提訴　</title><link>https://ledge.ai/articles/openai_sued_newspaper_company</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 May 2024 04:47:10 +0000</lastBuildDate><item><title>ニューヨーク・タイムズに続き米新聞8社が著作権侵害でオープンAIを提訴　</title><link>https://ledge.ai/articles/openai_sued_newspaper_company</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1882,7 +1882,28 @@ Appleは2024年のうちにAI関連で新たな発表をするとCEOのティム
 :::box
 
 :::
-</description><pubDate>Fri, 05 Apr 2024 13:41:28 +0000</pubDate></item><item><title>生成AIの児童安全安全対策強化へのコミットメント：主要AIテック企業が連携「子供の安全を優先すると確約」</title><link>https://ledge.ai/articles/thorn_generative_ai_principle</link><description>:::small
+</description><pubDate>Fri, 05 Apr 2024 13:41:28 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+岸田文雄首相は2024年5月2日、パリで行われたOECDの会合で、AIの安全な利用を目的とした「広島AIプロセス・フレンズグループ」の設立を{target=“_blank”}した。この発表で、49カ国・地域がこの新しい枠組みに参加する予定であることが{target=“_blank”}。この国際的な取り組みは、自由や民主主義などの共通の価値を有する国々が生成AIの国際ルール作りにおける主導権を握ることを目指しているとのこと。
+
+広島AIプロセスは、偽情報の拡散抑止や生成AIが作り出したコンテンツの識別を容易にするための「電子透かし」技術の推進など、安全性と信頼性を高める技術開発を含む具体的な対応を各国に促すものだ。岸田首相は、「偽情報のリスクといったAIの影の側面と戦いつつ、その革新的な可能性を最大化するためには、国際的なガバナンスの形成が急務である」と述べている​​。
+
+さらに、岸田首相は「AIに関するグローバルパートナーシップ」（GPAI）の東京における新拠点設立の方針も発表した。この組織は、AIの責任ある使用を推進し、専門家による技術実証を支援することを目的としている​。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 03 May 2024 04:47:10 +0000</pubDate></item><item><title>生成AIの児童安全安全対策強化へのコミットメント：主要AIテック企業が連携「子供の安全を優先すると確約」</title><link>https://ledge.ai/articles/thorn_generative_ai_principle</link><description>:::small
 画像の出典：[THORN](https://www.thorn.org/blog/generative-ai-principles/{target=“_blank”}
 :::
 
@@ -2227,41 +2248,7 @@ AI専門人材を連邦政府機関全体で新たに100人雇用する計画が
 :::box
 
 :::
-</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>フランスの競争委員会がGoogleに2億5,000万ユーロの罰金を科す　Geminiの学習データめぐり</title><link>https://ledge.ai/articles/related_rights_autorite_fines_google_eu250_million</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月20日、フランスの競争規制機関であるAutorité de la Concurrenceは、著作隣接権に関するライセンス契約の交渉過程における違反を理由に、Googleに対して2億5000万ユーロの罰金を科したことを{target=“_blank”}した。
-
-この措置は、2019年4月17日のEUの著作権及び著作隣接権に関する指令を法令化する2019年7月24日のフランス法に基づき、報道機関、出版社、デジタルプラットフォーム間のバランスの取れた交渉条件を確立することを目的とした約束事項の一部を遵守していなかったためとされる。
-
-Googleは、同社開発のマルチモーダルAI「Gemini（当時は ”Bard”）」に、報道機関や出版社から提供されたコンテンツを基盤モデルの学習に使用していたが、これらの利害関係者や競争委員会に事前通知を行っていなかったという。さらに、Geminiが使用するコンテンツを、他のGoogleサービスで保護されたコンテンツの表示に影響を与えずに、報道機関や出版社がその使用からオプトアウトできる技術的解決策を提案していなかったため、報道機関や出版社が関連権に基づく報酬を交渉する能力が妨げられていたと当局は主張した。
-
-Autorité de la Concurrenceは、透明性、客観性、非差別の基準に基づく誠実な交渉、著作隣接権に対する報酬の透明な評価のための情報提供、およびGoogleと報道機関や出版社との他の経済的関係に影響を与えない交渉の保証を含む、約束事項の4つを遵守していないと判断したという。
-
-これに対してGoogleは、欧州著作権指令に基づき、280のフランスのニュース出版社と450以上の出版物をカバーするライセンス契約を締結し、年間数千万ユーロを支払うという成果を上げているにも関わらず、この制裁を受けたと{target=“_blank”}で述べている。
-
-同社はこの長期間にわたる問題を解決し、出版社との建設的な協力に焦点を当てたい意向だが、競争委員会が提起した問題に対する罰金額は、違反に対して不釣り合いに高額であると主張。また、複雑な規制環境と継続する法的行動が交渉を困難にし、将来のフランスにおける情報分野への投資を不確実にしていると指摘した。
-
-この問題に対応するため、Googleは間接収入の計算方法の見直しを含む一連の改善策を約束しており、ニュースコンテンツの実際の経済価値に関するさらなる分析を進める予定だという。
-
-フランス競争委員会との和解により、Googleは交渉過程での手続き上の問題に対処する措置を講じ、特定の出版社および出版物に関する批判に対応しているとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 25 Mar 2024 15:56:53 +0000</pubDate></item><item><title>AI Picasso　商用利用可能なAIアート生成ツール「Emi 2」を無償公開　クリエイター尊重するAI開発　追加学習に無断転載画像用いず</title><link>https://ledge.ai/articles/ai_picasso_emi-2</link><description>:::small
+</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>AI Picasso　商用利用可能なAIアート生成ツール「Emi 2」を無償公開　クリエイター尊重するAI開発　追加学習に無断転載画像用いず</title><link>https://ledge.ai/articles/ai_picasso_emi-2</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
