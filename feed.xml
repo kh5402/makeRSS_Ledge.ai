@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 02 May 2024 09:56:50 +0000</lastBuildDate><item><title>ニューヨーク・タイムズに続き米新聞8社が著作権侵害でオープンAIを提訴　</title><link>https://ledge.ai/articles/openai_sued_newspaper_company</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 May 2024 04:38:19 +0000</lastBuildDate><item><title>ニューヨーク・タイムズに続き米新聞8社が著作権侵害でオープンAIを提訴　</title><link>https://ledge.ai/articles/openai_sued_newspaper_company</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -332,7 +332,32 @@ Phi-3-miniは128Kトークンというクラス最長のコンテキストウィ
 :::
 :::box
 
-:::</description><pubDate>Fri, 26 Apr 2024 01:39:57 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
+:::</description><pubDate>Fri, 26 Apr 2024 01:39:57 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Googleが開発したトランスフォーマー技術は、自然言語処理から画像分類へとその応用範囲を広げ、新たなAIモデル「Vision Transformer（ViT）」が登場した。このモデルは、画像を小さなパッチに分割し、それぞれのパッチを独立したデータポイントとして処理することで、画像全体の文脈を捉える能力を持っているという。
+
+もともとテキストデータ向けに開発されたトランスフォーマーは、その強力な自己注意機構（Self-Attention Mechanism）により、文中の各単語がどのように相互作用するかを学習する。このメカニズムを画像データに応用したことで、ViTは画像の各部分がどのように関連しているかを効率的に解析し、従来の畳み込みニューラルネットワークモデルと比較して高精度な画像分類を実現しているとのこと。
+
+ソフトウェアエンジニアであるデニス・タープ氏は、この複雑なモデルを「{target=“_blank”}」というビジュアルガイドでわかりやすく解説している。
+
+このガイドでは、ViTの構造とデータの流れをステップバイステップで説明し、専門家でない読者にも理解しやすい内容となっている。特に、画像をパッチに分割し、それぞれのパッチがどのようにネットワーク内で処理されるかを視覚的に示している点が特徴的だ​​。
+
+「Please enjoy and start scrolling!（スクロールしてお楽しみください）」と書かれているとおり、縦スクロールで次々と解説が進む作りになっている。{target=“_blank”}から。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 03 May 2024 04:38:19 +0000</pubDate></item><item><title>AIエージェントとは｜マニアックなプロンプトエンジニアリングはいらない 注目の生成AI活用トレンド</title><link>https://ledge.ai/articles/about_ai-agent</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1067,101 +1092,7 @@ CFG Scale  7
 :::box
 
 :::
-</description><pubDate>Mon, 15 Jan 2024 02:44:39 +0000</pubDate></item><item><title>GPT Store(GPTストア)とは｜GPTを公開して収益化する方法</title><link>https://ledge.ai/articles/GPT-Store</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2023年12月の公開が予定されていたが、延期が発表されていたGPT Storeが2024年1月10日(現地時間)についに公開された。GPT Storeは、GPTsで構築されたオリジナルのGPTをユーザー全体と共有できる新しい機能だ。さらにGPT Storeは収益化が可能であり、新たなマーケットとして期待が高まっている。
-
-:::box
-**目次**
-- GPT Storeとは
-- GPT Storeの利用方法と料金
-- GPT Storeで自作のGPTを公開する方法
-- GPT StoreでGPTを公開して収益化する方法
-- GPT Storeの注意点
-:::
-
-## GPT Storeとは
-
-GPT Storeは、GPTsで構築されたGPTを全ユーザーが公開・共有・検索できるプラットフォームである。この機能により、ユーザーは特定のタスクに特化したGPTを容易に見つけることができる。例えば、Open AI公式のGPTとして、文章の添削やライティングスキルの向上に特化した「Creative Writing Coach」や冷蔵庫の中身の写真から料理を提案する「Sous Chef」が公開されている。
-
-:::box
-
-:::
-
-## GPT Storeの利用方法と料金
-
-GPT Storeは月額20ドルの「GPT Plus」に入会することで利用できる。
-さらに2024年1月10日(現地時間)に**新料金プラン**「**Team**」が追加された。
-
-新プラン「Team」の特徴は以下の通り
-
-料金は一人当たり年払いで月額25ドル (メンバー2人以上から利用可能)
-GPT-4使用時に制限があった送信できるメッセージ数の上限増加
-チーム内でのGPTsのワークスペース
-使用者のデータを学習しないこと
-
-画面左のサイドバーにある「Explore GPTs」をクリックすると以下のような画面が表示され、すぐに利用できる。有料プランに加入していなくても検索のみは可能。
-!
-左上の地球アイコンをクリックすると、Global ViewのOn・Offが切り替えられる。
-Onでは世界のランキング、Offでは日本のランキングが表示される。
-
-## GPT Storeで自作のGPTを公開する方法
-
-GPTsでオリジナルのGPTを構築後、保存する際に3つの選択肢から保存できる。
-
-- Only me (自分しかアクセスできない)
-- Anyone with a link (発行できるリンクを知っている人なら誰でも)
-- Everyone (全ての人に向けてGPT Storeで公開)
-
-Everyone に設定しGPT Storeで公開する場合、Buider ProfileのNameを有効にして、ユーザー名を公開する必要がある。また必ずを守ったGPTでなければならない。
-
-## GPT StoreでGPTを公開して収益化する方法
-
-現在GPT Storeの収益化についてOpen AIで以下のように発表されている。
-:::box
-**Builders can earn based on GPT usage**
-In Q1 we will launch a GPT builder revenue program. As a first step, US builders will be paid based on user engagement with their GPTs. We'll provide details on the criteria for payments as we get closer.
-
-第1四半期(1月~ 3月)には、GPTビルダー収益プログラムを開始します。第一段階として、米国のビルダーには、GPTへのユーザーのエンゲージメントに基づいて報酬が支払われます。支払い基準の詳細については、追ってお知らせします。
-:::
-
-第一段階は米国のビルダーと明記されているため、**日本のビルダーの収益化はまだ先**になりそうだ。またユーザーによるエンゲージメント数によって、収益が発生することが判明した。
-エンゲージメント数とはユーザーが「反応して行動した回数」である。
-
-## GPT Storeの注意点
-
-公式のガイドラインはとから確認できる。
-
-
-### 作成が禁止されているGPT(一部抜粋)
-- 違法行為のコンテンツ
-- 児童性的虐待 児童を搾取したり危害を加えたりする素材またはコンテンツ
-- 嫌がらせ、嫌がらせ、または暴力的なコンテンツの生成
-- マルウェアの生成
-- 兵器開発・軍事と戦争
-- エネルギー、交通、水の重要インフラの管理または運営
-- 自殺、切断、摂食障害などの自傷行為を促進、奨励、または描写するコンテンツ
-- ギャンブル
-- 詐欺
-- 盗作
-- 学術不正
-- アダルト コンテンツ、アダルト産業、出会い系アプリ
-
-以上のようなコンテンツが禁止されており、「競馬の予想ができるGPT」などの作成はガイドラインの禁止事項に該当する恐れがある。
-
-### GPTの名称に関して
-
-GPT の名称を「GPT」で終わらせることは推奨されていない。作成したアプリやサービスの内容に適した名称を与える必要がある。ただし、禁止されているわけではないため個人用に「〇〇GPT」という名称を与えることは問題ない。
-
-:::box
-
-:::
-
-
-
-</description><pubDate>Thu, 11 Jan 2024 05:41:21 +0000</pubDate></item><item><title>GitHub、AIによるコード脆弱性自動修正機能をパブリックベータで提供開始
+</description><pubDate>Mon, 15 Jan 2024 02:44:39 +0000</pubDate></item><item><title>GitHub、AIによるコード脆弱性自動修正機能をパブリックベータで提供開始
 </title><link>https://ledge.ai/articles/github_advanced_security_code_scanning_autofix</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
