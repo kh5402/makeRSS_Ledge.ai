@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 03 May 2024 04:47:10 +0000</lastBuildDate><item><title>ニューヨーク・タイムズに続き米新聞8社が著作権侵害でオープンAIを提訴　</title><link>https://ledge.ai/articles/openai_sued_newspaper_company</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 04 May 2024 11:02:40 +0000</lastBuildDate><item><title>アンソロピック「Claude」の無料iOSアプリ発表　デバイス間をシームレスにつなぐ生成AI体験でChatGPT追う　「Team」プランも追加</title><link>https://ledge.ai/articles/anthropic_claude_ios_and_teamplan</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国のAI開発企業アンソロピックは2024年5月1日、 ユーザーが無料でダウンロードできる対話型AI「Claude」のiOSアプリを{target=“_blank”}した。
+
+アプリのリリースにより、Claudeへのアクセスをより手軽にすることを目的としており、Web チャットとのシームレスな同期が可能なため、どのデバイスで中断した会話も、同じところから再開できるという。同社は、外出先でのアイデアのブレインストーミングや、質問に対する迅速な回答、あるいは現実世界のシーンや画像の分析などのアプリならではの使用例を挙げた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+アプリには、特に長文の理解や複雑な会話に強みを持つ Claude3 モデルを採用。このモデルは200Kトークンのコンテキストウィンドウを持ち、高度な会話能力でユーザーからの複雑な要求にも対応できるという​。月額20ドルのProプラン、あるいは後述のTeamsプランのユーザーは、アプリからそのまま加入のプランを利用可能。
+
+同じく対話型AIとして業界を先行するChatGPTがiOSアプリを{target=“_blank”}したのは昨年2023年5月だ。
+
+
+
+加えて、同社は法人向けに「Team」プランの新設も発表した。チーム固有のニーズと目標に基づくワークフローの形成を目的とし、月額30ドルで異なる性能を持つ3種類のモデルを用途に応じて選択できるようにした。このプランにより、企業は自社のニーズに合わせたAIソリューションを選択し、業務効率を高めることが可能となる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社は、セキュリティとデータ プライバシーを念頭に置いて構築されているClaudeは、機密性の高いビジネス情報の保護に役立つと述べた。今後、Teamプランでは、AI生成文書の信頼性を確保するための引用機能や、企業のデータリポジトリとの統合機能を数週間内に追加予定だという。
+
+
+@
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Sat, 04 May 2024 11:02:40 +0000</pubDate></item><item><title>ニューヨーク・タイムズに続き米新聞8社が著作権侵害でオープンAIを提訴　</title><link>https://ledge.ai/articles/openai_sued_newspaper_company</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -310,29 +357,7 @@ Phi-3-miniは128Kトークンというクラス最長のコンテキストウィ
 
 :::
 
-</description><pubDate>Sun, 28 Apr 2024 13:31:42 +0000</pubDate></item><item><title>リコーがLLM開発に続きドイツの新興企業「ナティフAI」の買収を発表　更なるオフィス業務効率向上を目指す
-</title><link>https://ledge.ai/articles/ricoh_natif_ai</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年4月22日、株式会社リコーはドイツの新興企業であるナティフAIを買収したと{target=“_blank”}した。
-
-ナティフAIは、2019年に設立されたインテリジェントキャプチャーと呼ばれるAIを活用した画像認識やOCR（Optical Character Recognition）など、文書データ情報を抽出する技術に強みを持つ企業。リコーは自社の複合機でスキャンした紙文書や手書き文書から情報抽出する機能をより強化し、自動化・高度化を実現するという。読み取りが難しいとされる手書き文書にも対応しており、この先進的な技術を取り入れ更なるオフィス業務効率化の向上を目指す。
-
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-リコーは2019年にドイツの「ドキュウェア社」を買収している。ドキュウェア社とナティフAIの持つ技術を掛け合わせることでより高度な技術と幅広い業務領域への対応が可能になると期待できるという。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 26 Apr 2024 01:39:57 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Sun, 28 Apr 2024 13:31:42 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
