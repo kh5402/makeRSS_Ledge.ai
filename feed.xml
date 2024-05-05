@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 04 May 2024 11:02:40 +0000</lastBuildDate><item><title>アンソロピック「Claude」の無料iOSアプリ発表　デバイス間をシームレスにつなぐ生成AI体験でChatGPT追う　「Team」プランも追加</title><link>https://ledge.ai/articles/anthropic_claude_ios_and_teamplan</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 04 May 2024 11:02:40 +0000</lastBuildDate><item><title>ガートナー、生成AI頼みの顧客対応を続ける企業の8割が「2027年までに顧客離れを起こす」と警告</title><link>https://ledge.ai/articles/gartner_excessive_reliance_on_genai_causes_customer_churn</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+ガートナージャパンは2024年4月24日、企業が生成AIに過度に依存することが顧客離れを引き起こす可能性があるとの見解を{target=“_blank”}した。
+
+同社は、デジタル技術の進化に伴い、企業や組織のリーダーは新たなデジタル先行の取り組みに真剣に対応する必要があると指摘している。
+
+バイスプレジデント アナリストの池田武史氏によると、2027年までに生成AIに依存した顧客対応を続ける企業の80%が、その効果を発揮できず、顧客離れを引き起こす見込み。特に、AI、IoT、デジタルツイン、5G、AR/VRなどを活用したデジタル技術の普及は進んでいるが、生成AIの未熟さと信頼性の問題が依然として存在しているという。
+
+生成AIは革新的な進化をもたらす可能性がある一方で、応答の信頼性や倫理性に課題があるため、盲目的な利用は推奨されない。池田氏は、顧客対応に生成AIを導入する企業は、顧客の感情や機嫌を適切に察知し、態度を変える機能がまだ十分ではないため、人間による直接対応とのバランスが重要であると述べている。
+
+同氏はさらに、将来的に「マシン・カスタマー」と呼ばれる、システム同士が交渉し取引を行う新しい形態の顧客も現れるだろうと指摘している。このため、企業は生成AIの利用において、どのように人間が介在するか、または完全にAIに依存するかを明確にし、顧客やパートナーの期待を適切に管理することが求められるという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 03 May 2024 04:57:23 +0000</pubDate></item><item><title>アンソロピック「Claude」の無料iOSアプリ発表　デバイス間をシームレスにつなぐ生成AI体験でChatGPT追う　「Team」プランも追加</title><link>https://ledge.ai/articles/anthropic_claude_ios_and_teamplan</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -329,35 +353,7 @@ Phi-3-miniは128Kトークンというクラス最長のコンテキストウィ
 :::box
 
 :::
-</description><pubDate>Tue, 30 Apr 2024 01:43:02 +0000</pubDate></item><item><title>大日本印刷が音声をリアルタイムで文字に変換する「DNP対話支援システム」提供開始　気持ちや情報のポイントをフォントや色・大きさに反映</title><link>https://ledge.ai/articles/dnp_dialogue_support_system</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-大日本印刷は2024年4月23日、音声をリアルタイムで文字に変換し、フォントで強調して透明スクリーンに表示する「DNP対話支援システム」を提供開始したと{target=“_blank”}した。
-
-感情や話題に応じたフォント変更が可能な「DNP感情表現フォントシステム」とアイシンの音声認識システム「YYSystem」を統合して開発されたシステムだ。主に、聴覚障がい者や高齢者、訪日外国人とのコミュニケーション支援が目的だという。
-
-@
-
-
-
-同社の「DNP感情表現フォントシステム」は、発言を素早く正確に文字化し、感情やイメージを表す単語を12種類のフォントから自動選択して表示する。さらに、透明スクリーンや指向性マイクの活用により、対面接客時にも自然なコミュニケーションが可能となるという。
-
-同システムは、自治体、調剤薬局、金融機関、保険会社の窓口業務や観光業界での使用が想定されている。現在はJR九州の小倉駅に試験的に導入されており、JR東日本の一ノ関駅にも同様の導入が予定されているとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sun, 28 Apr 2024 13:31:42 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Tue, 30 Apr 2024 01:43:02 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
