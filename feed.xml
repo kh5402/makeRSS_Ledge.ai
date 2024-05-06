@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 04 May 2024 11:02:40 +0000</lastBuildDate><item><title>ガートナー、生成AI頼みの顧客対応を続ける企業の8割が「2027年までに顧客離れを起こす」と警告</title><link>https://ledge.ai/articles/gartner_excessive_reliance_on_genai_causes_customer_churn</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 04 May 2024 16:01:24 +0000</lastBuildDate><item><title>ガートナー、生成AI頼みの顧客対応を続ける企業の8割が「2027年までに顧客離れを起こす」と警告</title><link>https://ledge.ai/articles/gartner_excessive_reliance_on_genai_causes_customer_churn</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2269,7 +2269,37 @@ AI専門人材を連邦政府機関全体で新たに100人雇用する計画が
 :::box
 
 :::
-</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>AI Picasso　商用利用可能なAIアート生成ツール「Emi 2」を無償公開　クリエイター尊重するAI開発　追加学習に無断転載画像用いず</title><link>https://ledge.ai/articles/ai_picasso_emi-2</link><description>:::small
+</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>リアル動画をインタラクティブな3Dゲーム環境に変換するAI「Video2Game」仮想環境を自動生成しコストダウンする新たなアプローチ</title><link>https://ledge.ai/articles/video2game_realtime_interactive</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+イリノイ大学などの研究グループは2024年4月15日、新しいAI技術「Video2Game」を{target=“_blank”}した。
+
+この技術は、動画を基にリアルタイムでインタラクティブな3D環境を自動生成するシステムである。主要な技術コンポーネントは、Neural Radiance Fields（NeRF）、メッシュモジュール、物理モジュールの3つから成る。
+
+NeRFモジュールはシーンの幾何学と視覚的外観を捉え、リアルなビジュアルを生成する。メッシュモジュールは、NeRFから得られる情報を基に高速なレンダリングを実現し、物理モジュールはオブジェクト間の物理的相互作用をモデル化する。これらの技術を統合することで、実世界のデジタル複製としてのインタラクティブな3D環境が構築されるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このシステムは屋内外の多様なシーンに適用可能で、リアルタイムで高品質な3Dレンダリングを実現する。また、開発の複雑さとコストを削減しながら、教育、都市計画、災害対応トレーニングなど幅広い分野での利用が期待できるという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 04 May 2024 16:01:24 +0000</pubDate></item><item><title>AI Picasso　商用利用可能なAIアート生成ツール「Emi 2」を無償公開　クリエイター尊重するAI開発　追加学習に無断転載画像用いず</title><link>https://ledge.ai/articles/ai_picasso_emi-2</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2631,41 +2661,4 @@ TacticAIは、プレミアリーグで行われた7,176回のコーナーキッ�
 :::box
 
 :::
-</description><pubDate>Fri, 29 Mar 2024 05:49:14 +0000</pubDate></item><item><title>YouTube、生成AIなどによる改変・合成コンテンツのラベル表示機能を順次導入</title><link>https://ledge.ai/articles/youtube_disclosing_ai_generated_content</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-YouTubeは2024年3月19日、クリエイターが作成したコンテンツが改変または合成によって作成された場合、その事実を視聴者に開示するための新しいツールをYouTube Creator Studioに導入したと{target=“_blank”}した。
-
-生成AIがストーリーボードのアイデア出しや創作工程のサポートツールとして活用される中、コンテンツが改変や合成によって作られたものかどうかについて、視聴者が求める透明性を確保するためのものだ。
-
-### ラベル付けが必要とされるコンテンツ
-- 実在する人物のように見せている： デジタル改変により、ある人物の顔を実在する別の人物の顔に置き換えたり、合成した人物の声を動画のナレーションに使用したりしているコンテンツ
-- 実際の出来事や場所の映像を改変している： 実在する建物で火事が発生しているように見せたり、実在する都市景観を実際とは違って見えるよう改変したりしているコンテンツ
-- 現実的な風景を生成している： 実在する都市に向かって移動している竜巻など、架空の大きな事件をリアルに描写したコンテンツ
-
-視聴者が実際の人物、場所、出来事と勘違いしやすいようなリアルに見えるコンテンツに対して、クリエイターが改変または合成されたメディア（生成AIを使用したものを含む）で作成したことを開示する必要がある。ただし、明らかに非現実的であるコンテンツ、アニメーション、特殊効果が含まれるコンテンツ、または制作作業をサポートする目的で生成AIを使用したコンテンツについては、開示の必要はない。
-
-この取り組みは、昨年11月に発表された{target=“_blank”}のアプローチの一環として、情報開示要件やラベル表示、プライバシー侵害の申し立てが更新されるなど、YouTubeのAI製品および機能に責任をもって組み込まれるよう徹底されている。
-
-### ラベル付けが不要なケース
-開示が求められる主なケースは、実在する人物のように見せかけたデジタル改変コンテンツ、実際の出来事や場所を改変したコンテンツ、現実的な風景を生成したコンテンツなどが該当する。しかし、生産性を高めるために生成 AI を使用している場合や、以下のような合成したメディアが非現実的な場合や、改変の重要度が低い場合は開示不要。
-
-- アニメーションや、ファンタジーの世界でユニコーンに乗っている人間など、明らかに非現実的なコンテンツ
-- 色の調整や照明
-- フィルタ背景ぼかしやビンテージ調などの特殊効果
-- 美肌加工フィルターやその他の視覚効果
-
-
-このラベル表示機能は、今後段階的に導入予定だという。最初はスマートフォンの YouTube アプリ、続いてパソコンとテレビで視聴する YouTube 上でも順次展開していく予定。
-
-将来的には、この情報を開示しないクリエイターに対する措置も検討予定で、改変または合成されたコンテンツが混乱や誤解を生む可能性がある場合は、クリエイターが情報を開示していなくても YouTube がラベルを追加するなどのケースも想定しているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 24 Mar 2024 11:41:00 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 29 Mar 2024 05:49:14 +0000</pubDate></item></channel></rss>
