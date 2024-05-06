@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 04 May 2024 16:01:24 +0000</lastBuildDate><item><title>ガートナー、生成AI頼みの顧客対応を続ける企業の8割が「2027年までに顧客離れを起こす」と警告</title><link>https://ledge.ai/articles/gartner_excessive_reliance_on_genai_causes_customer_churn</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 05 May 2024 05:14:29 +0000</lastBuildDate><item><title>「LLMは著作権を侵害せずトレーニング可能」仏AIスタートアップ主導プロジェクト「Common Corpus」公開</title><link>https://ledge.ai/articles/common_corpus_and_post_ocr_correction</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年3月20日、フランスのAIスタートアップPleiasは、パブリックドメインのコンテンツのみで構成されたものとしては、これまでで最大規模の言語モデルトレーニング用AIデータセット「Common Corpus」を{target=“_blank”}した。
+
+2023年12月、OpenAIとマイクロソフトがニューヨークタイムズに著作権侵害で提訴された。このとき２社は、AI製品のトレーニングに著作権で保護された作品を使用することは、著作権で保護されたマテリアルの無許可使用を管理する法原則である「フェアユース」に当たると{target=“_blank”}という。
+
+Common Corpus プロジェクトは、このような大手AI企業の主張に対抗する。
+
+著作権コンテンツを使用せずに、完全にオープンで再現可能なコーパスで大規模言語モデル（LLM）をトレーニング可能だと示すことを目的としているという。AIのオープン サイエンス アプローチに取り組むHuggingFaceなどの主要組織と連携し、LLM事前トレーニング、AI倫理、文化遺産などの研究者が参加する。
+
+{target=“_blank”}されたCommon Corpusは、約500億から700億のトークンを含む公開コーパスであり、1,800 億語を含むこれまでで最大の英語圏データセットを提供する。また、このデータセットは多言語に対応しており、フランス語で110億語、ドイツ語で30億語、スペイン語で23億語、オランダ語で18億語、イタリア語で10億語などが含まれている。さらに、低リソース言語も幅広くカバーされており、多様な文化背景を持つデータが含まれているという。
+
+
+プロジェクトは進行中で、課題はまだまだ残されている。たとえば、多くのテキストが古い文書からのOCR（光学的文字認識）によるものであるため、文字の誤認識や歪みといった問題が指摘された。これに対応するため、Pleiasは「Post-OCR-Correction」データセットを4月26日に{target=“_blank”}している。
+
+この技術は、特に文化遺産テキストで発生しやすいOCRの問題を解決することを目指している。Post-OCR-Correctionでは、デジタル化されたテキストの中で、間違えやすい単語をより正確なものに置き換えるために、LLMが使用される。このプロセスは、言語モデルが文脈全体を考慮して、人間が読むときのように語の選択を行うため、より正確なテキスト回復が期待されるとのこと。
+
+同社は、このプロジェクトにより、法的なリスクなくAIモデルを訓練する道が開かれ、AI分野における著作権問題に対する新たな解決策が示されるとしている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 05 May 2024 05:14:29 +0000</pubDate></item><item><title>ガートナー、生成AI頼みの顧客対応を続ける企業の8割が「2027年までに顧客離れを起こす」と警告</title><link>https://ledge.ai/articles/gartner_excessive_reliance_on_genai_causes_customer_churn</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -317,43 +348,7 @@ Phi-3-miniは128Kトークンというクラス最長のコンテキストウィ
 :::box
 
 :::
-</description><pubDate>Tue, 30 Apr 2024 03:07:58 +0000</pubDate></item><item><title>イーロン・マスク氏「テスラは今年1.5兆円を自動運転のためのAI開発へ投資する」と発言　</title><link>https://ledge.ai/articles/tesla_invests_10b_in_self-driving-ai</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-テスラは2024年に主に自動運転プログラム向けAIの開発へ100億ドル以上を投資する計画だ。同社CEOのイーロン・マスク氏が2024年4月28日にこのことを明らかにしたと共同通信などが報じている。
-
-この日マスク氏は自身のX（旧Twitter）アカウントにて、約100億ドル（約1.5兆円）をAIのトレーニングと推論に投資し、その主な用途は自動車内のAIであると明言。さらに、このレベルの投資を効率的に行わない企業は競争に太刀打ちできないと警告した。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-
-また、テスラは2024年8月に自動運転タクシー「ロボタクシー」を公開する予定だという。
-
-**Tesla アプリによる自動運転配車のプレビュー**
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 30 Apr 2024 01:43:02 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Tue, 30 Apr 2024 03:07:58 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
