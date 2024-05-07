@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 05 May 2024 05:14:29 +0000</lastBuildDate><item><title>「LLMは著作権を侵害せずトレーニング可能」仏AIスタートアップ主導プロジェクト「Common Corpus」公開</title><link>https://ledge.ai/articles/common_corpus_and_post_ocr_correction</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 05 May 2024 05:14:29 +0000</lastBuildDate><item><title>AIが守る！日立系ATMメーカーがAI画像検知で特殊詐欺抑止の取り組みを開始</title><link>https://ledge.ai/articles/hitachi_ch_atm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日立チャネルソリューションズ株式会社と西尾信用金庫は、2024年4月24日よりATM内蔵カメラを利用したAIの画像検知で特殊詐欺に対応するATMの稼働を{target=“_blank”}した。
+
+現在も多発している振込め詐欺などの特殊詐欺は、電話口で言葉巧みにATMに誘導し、指定した口座に送金を促すケースが多い。こういった特定の取引を効果的に抑止することを目的としATMの稼働を開始した。
+
+!
+:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+日立チャネルソリューションズは2018年にATM内蔵カメラを使用したAI画像検知システムを開発しており、この検知システムを改良し今回の振込み特殊詐欺対策に活用している。ATM利用者が携帯電話を使用しながら取引きする様子を内蔵カメラを通してリアルタイムでAIが検知。ATMでの振込み操作中に携帯電話での通話に関する注意や警告画面を表示をし、利用者の操作状況を判断し係員呼び出しや取引の中止判断をAIが行うという。
+
+すでにATMに内蔵されているカメラを使用することでコスト低減も見込めるとし、現在は西尾信用金庫数店舗のATMを対象に実施しているが、稼働状況を確認し順次信用金庫を中心にサービスを展開していく予定。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 01 May 2024 09:24:53 +0000</pubDate></item><item><title>「LLMは著作権を侵害せずトレーニング可能」仏AIスタートアップ主導プロジェクト「Common Corpus」公開</title><link>https://ledge.ai/articles/common_corpus_and_post_ocr_correction</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -330,25 +353,7 @@ Phi-3-miniは128Kトークンというクラス最長のコンテキストウィ
 :::box
 
 :::
-</description><pubDate>Tue, 30 Apr 2024 01:49:32 +0000</pubDate></item><item><title>日本経済新聞が「NIKKEI Language Model」の開発を発表　40年分の記事情報で磨かれた経済情報特化型大規模言語モデル</title><link>https://ledge.ai/articles/nikkei_language_model</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月24日、日本経済新聞は経済情報に特化した大規模言語モデル「NIKKEI Language Model」（略称　NiLM　にるむ）を開発したと{target=“_blank”}した。
-
-日本経済新聞社の研究開発部署である日経イノベーション・ラボは、開発にあたり約40年分もの自社グループの雑誌や新聞などの各媒体記事を学習させ、日本経済新聞にしか作れない高品質な経済情報特化型の言語モデル開発を実現した。
-
-開発したモデルはパラメータ数が130億と700億の2種類がある。パラメータ数が最大130億のモデルは既存モデルをベースとせず独自に構築しているが、パラメータ数が700億のモデルはmetaが開発した「Llama（ラマ）2」をベースにファインチューニングを行い開発。最新ニュースの幅広い知識を持ち、記事の要約などで活用できるという。また、現在はパラメータ数80億のモデルについても着手しており、こちらはmetaが4月に公開した「Llama（ラマ）3」をベースに作られている。
-
-今回開発したモデルは、日経イノベーション・ラボが推進するAIプロダクトの研究開発などで利用を検討しており、大規模言語モデルの研究開発は今後も継続し、性能改善や課題に対する検証をすすめていくという。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 30 Apr 2024 03:07:58 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Tue, 30 Apr 2024 01:49:32 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
