@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 05 May 2024 10:24:59 +0000</lastBuildDate><item><title>AIが守る！日立系ATMメーカーがAI画像検知で特殊詐欺抑止の取り組みを開始</title><link>https://ledge.ai/articles/hitachi_ch_atm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 May 2024 07:16:14 +0000</lastBuildDate><item><title>Google、モバイルアプリ版 「Gemini」を日本でリリース 従来型Googleアシスタントから置き換え
+</title><link>https://ledge.ai/articles/google_gemini_app</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Googleは2024年4月30日、次世代AIモデル「Gemini」を搭載したモバイルアプリを日本を含む複数地域でリリースしたことを{target=“_blank”}した。従来のGoogleアシスタントを置き換え、より高度な機能を提供することを目的としている。
+
+「Gemini」は、テキスト、画像、音声、ビデオといった複数のモダリティを統合するマルチモーダルAIで、これまでのAIモデルと比べて大幅な性能向上を実現している​​という。Geminiは、AndroidユーザーはGoogle Playストアから、iOSユーザーはGoogleアプリを通じてアクセス可能で、実際の提供は発表日の約1週間前から開始されていたとのこと。
+
+AIアシスタントは、Googleの広範なサービスと連携可能で、YouTube、Googleマップ、Googleフライト、Googleホテルなどからのリアルタイム情報を活用できる​。Geminiを利用する際は、初回起動時にGoogleアシスタントからの切り替えが求められる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 07 May 2024 07:16:14 +0000</pubDate></item><item><title>AIが守る！日立系ATMメーカーがAI画像検知で特殊詐欺抑止の取り組みを開始</title><link>https://ledge.ai/articles/hitachi_ch_atm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -313,47 +334,7 @@ OpenELMのソースコード、事前トレーニングされたモデルの重�
 :::box
 
 :::
-</description><pubDate>Wed, 01 May 2024 12:13:06 +0000</pubDate></item><item><title>Microsoftが新たな小規模言語モデル「Phi-3」を発表 ― 「Tiny but Mighty」―オフラインでも動作するモデルがアプリケーション開発を強力に支援</title><link>https://ledge.ai/articles/microsoft_slm_phi-3</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-Microsoftは2024年4月23日、新しいAIモデルシリーズ「Phi-3」のリリースを{target=“_blank”}した。
-
-このシリーズは、小規模でありながら高い性能を実現し、特に最小モデルである3.8Bパラメータの「Phi-3-mini」は、オープンモデルとしてMicrosoftのAzure AIモデルカタログ、Hugging Face、Ollamaで無料で商用利用が可能だ。
-
-Phi-3-miniは128Kトークンというクラス最長のコンテキストウィンドウをサポートし、インストラクションチューニングが施されているため、箱から出してすぐに使用可能だという。このモデルは、同サイズの他のモデルと比べて倍以上のパフォーマンスを実現していると同社は述べる。
-
-
- Phi-3の品質を表す図。Massive Multitask Language Understanding (MMLU) ベンチマークでパフォーマンスを計測し、同様のサイズの他社モデルと比較している。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-主要なベンチマークにおいて、同じサイズおよびより大きなサイズの言語モデルよりも大幅に優れたパフォーマンスを示す。
-注：Phi-3はモデル サイズが小さくなると事実を保持する容量が少なくなるため、事実知識ベンチマーク (TriviaQA など) ではそれほどパフォーマンスが高くない。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「Phi-3-mini」は、ONNX Runtimeを活用して最適化され、Windows DirectMLや様々なGPU、CPU、そしてモバイルハードウェアを含むクロスプラットフォームで利用可能となる。これにより、開発者は異なるデバイス上でモデルを効率的に運用でき、特にオフライン環境や低レイテンシが求められるシナリオでの利用が想定されるという。
-
-例えば、モバイルデバイスやPCなど、クラウドに接続しない環境での利用が可能となり、レイテンシを大幅に削減し、プライバシーを保護できる。この特性は、交通システム、工場のスマートセンサー、リモートカメラなど、様々な用途に適用可能となる。
-
-この新シリーズには、今後「Phi-3-small」（7B）、及び「Phi-3-medium」（14B）も追加され、より多様なニーズに応えるための選択肢が拡充予定とのことだ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 30 Apr 2024 01:49:32 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Wed, 01 May 2024 12:13:06 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
