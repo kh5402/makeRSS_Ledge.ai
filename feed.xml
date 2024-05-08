@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 May 2024 15:03:18 +0000</lastBuildDate><item><title>Google、モバイルアプリ版 「Gemini」を日本でリリース 従来型Googleアシスタントから置き換え
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 May 2024 15:03:18 +0000</lastBuildDate><item><title>Xに生成AI「Grok」によるニュース要約機能「ストーリーズ」を一部有料会員向けに導入</title><link>https://ledge.ai/articles/stories_on_x</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+👀 Now available: Stories on X, powered by Grok AI 👀 （ Grok AI を搭載した Stories on X が利用可能になりました）
+
+X（旧Twitter）のエンジニアチームが2024年5月3日、新たなニュース要約機能「ストーリーズ」を{target=“_blank”}した。
+
+このサービスは「Grok AI」というAIチャットボットを活用したニュース要約機能で、一部有料会員がExplore（探索）タブからアクセスできる。現時点ではWebとiOSアプリでのみ利用可能だ。
+
+ストーリーズでは、Grok AIが世界中の注目されているトレンドニュースを選択し、ユーザー向けに要約。その要約から独自のヘッドラインを生成する能力を持つという。
+
+イーロンマスク氏率いる開発会社「xAI」が開発したAI「Grok」は、長文を読解し、複雑な問いに対応する先進的な機能を備えている。最大128Kトークンの文脈を処理でき、情報の検索と取得において高精度な結果を示している​と同社はいう。
+
+この新機能の提供は、まずは米国内のプレミアムプラス会員を対象に開始され、その後、他の地域のプレミアム会員へと拡大される予定だという。Xのエンジニアリングチームは、ユーザーからのフィードバックを求めており、サービスの改善に努めている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 07 May 2024 14:59:42 +0000</pubDate></item><item><title>Google、モバイルアプリ版 「Gemini」を日本でリリース 従来型Googleアシスタントから置き換え
 </title><link>https://ledge.ai/articles/google_gemini_app</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -297,44 +320,7 @@ FTグループのCEO、ジョン・リディング氏は「この合意は多く
 :::box
 
 :::
-</description><pubDate>Wed, 01 May 2024 12:16:09 +0000</pubDate></item><item><title>Apple　オープンソースの言語モデル「OpenELM」を発表　iPhone上での効率的なAI処理が可能</title><link>https://ledge.ai/articles/apple_open-elm</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Appleは2024年4月24日、オープンソースの新しいAI言語モデル「OpenELM」を{target=“_blank”}した。（ELM：Efficient Language Model）
-
-このモデルは、効率的なパラメータ割り当てを実現するためにレイヤーごとのスケーリング戦略を採用しており、特定の層により多くの計算資源を割り当てることで全体の性能を向上させているという。
-
-OpenELMは、2億7000万、4億5000万、11億、30億の4つの異なるパラメータ数を持つモデルバリエーションで提供される。
-下図は、OpenELMの約11億パラメータモデルでそのパフォーマンスを評価した結果を表す。OLMo（Open Language Model）という言語モデルと比較して、事前トレーニングに必要なトークン数を半分に削減しつつ、パフォーマンスでは約2.36%の向上を達成しており、モデルの効率性と効果性を示しているという。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-これまでの一般的な慣行とは異なり、OpenELMのリリースには、モデルの重みや推論コードだけでなく、公開データセット上でのトレーニングと評価のための完全なフレームワーク（トレーニングログ、複数のチェックポイント、事前トレーニングの設定などを含む）が含まれる。
-
-さらに、Appleデバイス上での推論とファインチューニング用に、モデルをMLXライブラリに変換するコードも公開されているという。これによりAppleデバイス上での効率的なAI処理が可能となる。{target=“_blank”}した「MLX」とは、Appleのチップ上で動作し、開発者が機械学習アルゴリズムの開発や実装を容易にするためのライブラリやツールを提供する​​​​​​フレームワークだ。
-
-OpenELMのソースコード、事前トレーニングされたモデルの重み、およびトレーニングのレシピはオンラインで公開されており、Hugging Faceプラットフォーム上でもモデルは利用可能。
-
-この包括的なリリースは、研究の透明性を高め、データやモデルのバイアス、潜在的なリスクについての調査を容易にすることで、信頼性のある結果を保証することを目的としているという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 01 May 2024 12:13:06 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Wed, 01 May 2024 12:16:09 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
