@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 May 2024 07:16:14 +0000</lastBuildDate><item><title>Google、モバイルアプリ版 「Gemini」を日本でリリース 従来型Googleアシスタントから置き換え
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 May 2024 15:03:18 +0000</lastBuildDate><item><title>Google、モバイルアプリ版 「Gemini」を日本でリリース 従来型Googleアシスタントから置き換え
 </title><link>https://ledge.ai/articles/google_gemini_app</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -2246,7 +2246,39 @@ AI専門人材を連邦政府機関全体で新たに100人雇用する計画が
 :::box
 
 :::
-</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>1ヶ月期間限定！本が好きな人必見　「AI書店員ダ・ヴィンチさん」があなたにぴったりの本を診断</title><link>https://ledge.ai/articles/ai_davinci</link><description>:::small
+</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>正規のルートで日本のマンガを世界へ輸出　AIマンガ翻訳のオレンジが小学館などから29.2億円の資金調達を実施</title><link>https://ledge.ai/articles/orange_raises_jpy2-9b</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社オレンジは2024年5月7日、プレシリーズAラウンドで総額29.2億円の資金調達を実施したことを{target=“_blank”}した。
+
+リード投資家であるグロービス・キャピタル・パートナーズをはじめ、小学館、ANRI、SBIインベストメントなど、複数のベンチャーキャピタルおよび事業会社が出資に名を連ねている。
+
+オレンジは、AIを活用した翻訳技術により、日本のマンガを外国語に翻訳し、世界各国での合法的な流通を支援することを目指している。同社は、未翻訳のマンガを大規模に海外展開するための「マンガに特化したローカライズ支援ツール」の開発を進めており、今回の資金はその拡張に充てられる。これにより、月間500冊という日本の現状の英訳ペースを大幅に上回るスピードでの翻訳が可能になるとしている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年夏には、米国法人を通じて新たな電子マンガストア「emaqi」をローンチする計画もあり、翻訳された作品を直接消費者に提供することで、海賊版による被害の防止にも寄与するという。
+
+同社代表取締役の宇垣承宏代氏は「日本のマンガは、世界中で愛されている。しかし、言語の壁が大きな障壁となっており、非合法なコピーが横行しているのが現状だ。私たちの技術が、その問題を解決する一助となれば」と語る。
+
+投資家の1人、グロービス・キャピタル・パートナーズの磯田将太氏は、「マンガは日本のソフトパワーの土台です。オレンジのミッションには、出版社をはじめとする業界関係者が大きな共感を寄せています」とコメントしている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 07 May 2024 15:03:18 +0000</pubDate></item><item><title>1ヶ月期間限定！本が好きな人必見　「AI書店員ダ・ヴィンチさん」があなたにぴったりの本を診断</title><link>https://ledge.ai/articles/ai_davinci</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2602,38 +2634,4 @@ Soraは、テキストからリアルで想像力豊かなシーンを生成で�
 :::box
 
 :::
-</description><pubDate>Sat, 30 Mar 2024 12:11:22 +0000</pubDate></item><item><title>Google DeepMind とリバプールFCが共同開発した「TacticAI」を発表ーーサッカー戦術をAIがアシストする</title><link>https://ledge.ai/articles/google-deepmaind_tactic-ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Google DeepMind は2024年3月19日、リバプールFCとの間で数年にわたる共同研究の一環として、コーナーキックに関する戦術アドバイスを提供できるAIシステム「TacticAI」が開発されたことを、学術誌 Nature Communications に{target=“_blank”}した。
-
-このシステムは、特にコーナーキックに焦点を当て、予測および生成AIを通じて専門家に戦術的洞察を提供する。TacticAIは、コーナーキックに関する限られたゴールドスタンダードデータを使用しながらも、幾何学的ディープラーニングアプローチを用いて、より一般化されたモデルの作成を支援し、最先端の結果を達成したという。
-
-TacticAIは、プレミアリーグで行われた7,176回のコーナーキックのデータを分析し、選手をノードとして扱うグラフベースのアプローチを用いて、各選手間の複雑な相互作用と異なるコーナーキック設定の潜在的な結果をモデリングした。この方法により、どの選手がボールを受ける可能性が最も高いか、あるいはシュートを試みる可能性が高いかなど、様々なシナリオを予測し、チームパフォーマンスの向上に役立つ戦術的な推奨を提供する。
-
-!
-図(A) コーナーキックの状況をグラフ表示に変換する方法
-図(B) TacticAI が与えられたコーナーキックをどのように処理するか
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-リバプールFCのサッカー専門家からは、TacticAIの提案が実際のゲームプレイシナリオと区別がつかないほどであり、専門家たちは既存の戦術よりもTacticAIの戦略を90%の高い割合で好むという非常に肯定的な評価がなされた​​。また、このAIモデルは従来の技術よりもリバプールのコーチによって2倍有用と評価され、攻撃者の特定や守備時の注意散漫な選手の指摘に特に効果的であるとされている​​。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 29 Mar 2024 05:49:14 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sat, 30 Mar 2024 12:11:22 +0000</pubDate></item></channel></rss>
