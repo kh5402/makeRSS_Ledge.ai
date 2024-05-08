@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 May 2024 15:03:18 +0000</lastBuildDate><item><title>Xに生成AI「Grok」によるニュース要約機能「ストーリーズ」を一部有料会員向けに導入</title><link>https://ledge.ai/articles/stories_on_x</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 May 2024 15:03:18 +0000</lastBuildDate><item><title>ウォーレン・バフェット氏「AIは、ボトルから解き放たれたジニー」バークシャー・ハザウェイ株主総会でAI悪用に懸念</title><link>https://ledge.ai/articles/warren_buffett2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月4日、米国オマハで開催されたバークシャー・ハザウェイの株主総会で、同社のCEOであるウォーレン・バフェット氏は、AIの悪用について自身の見解を述べた。AI技術の比喩として「ボトルから解き放たれたジニー」という表現を使用し、その潜在的な危険性について{target=“_blank”}。
+
+バフェット氏はAIについて詳しい知識は持っていないとしながらも、この技術が持つ影響の大きさを認識している。特に、AIが生成する偽のビデオや音声による詐欺の可能性について言及し、自分自身が体験した偽ビデオの例を挙げて警告した。このビデオでは、自身が認識できないほど精巧に偽装された自分の姿が映し出され、完全に信じ込めるレベルで再現されていたという。
+
+同氏はさらにAIの良い面と悪い面が共存することを強調し、技術の発展がもたらす倫理的なジレンマについて考察を深める必要があると訴えた。また、過去に核兵器の開発を例に出し、一度解き放たれた技術が如何に人類の未来に大きな影響を与えるかを語った。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 07 May 2024 07:00:30 +0000</pubDate></item><item><title>Xに生成AI「Grok」によるニュース要約機能「ストーリーズ」を一部有料会員向けに導入</title><link>https://ledge.ai/articles/stories_on_x</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -298,29 +315,7 @@ FTグループのCEO、ジョン・リディング氏は「この合意は多く
 :::box
 
 :::
-</description><pubDate>Wed, 01 May 2024 12:18:48 +0000</pubDate></item><item><title>チューリングがプレシリーズAで30億円の資金調達、完全自動運転の開発加速
-</title><link>https://ledge.ai/articles/turing_raised_3b_yen_in_funding</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-チューリングは2024年4月23日、独立系ベンチャーキャピタルANRIをリードとする複数のベンチャーキャピタル、事業会社、個人投資家からの出資を受け、プレシリーズAラウンドの前半で30億円の資金調達を行ったと{target=“_blank”}した。
-
-同社はカメラから取得したデータを用いて、運転に必要な判断をAIが自動で行うEnd-to-End（E2E）方式の自動運転技術に特化している。自社開発したマルチモーダル生成AI「Heron」を活用することで、従来の走行データでは対応困難な未知の状況にも倫理的に適応可能なシステムの構築を目指し、完全自動運転のレベル5達成に向けた開発を進めているという。
-
-調達した資金は、Heronの運用に必要な大規模GPUクラスタ「Gaggle Cluster」の構築、2025年までに人間の介入なしで都内を30分間自動運転する「Tokyo30」プロジェクトの実施、および必要なMLエンジニアの採用に充てられる。これにより、同社は国内トップクラスの計算資源をエンジニアに提供することが可能となる。
-
-
-「完全自動運転に向けたマルチモーダル基盤モデルの開発」を目指すチューリングは、2月に経済産業省の「ポスト5G情報通信システム基盤強化研究開発事業」の事業者として採択された。生成AI基盤の開発事業者として、Googleクラウドの計算資源を無償で利用できるよう支援を受けている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 01 May 2024 12:16:09 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Wed, 01 May 2024 12:18:48 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
