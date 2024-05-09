@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 May 2024 10:31:28 +0000</lastBuildDate><item><title>ブリヂストンの社内ベンチャーがゴム人工筋肉によるやわらかいロボット「Morph」の体験コーナーを設置　5/17から</title><link>https://ledge.ai/articles/bridgestone_morph-inn</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 May 2024 11:39:04 +0000</lastBuildDate><item><title>ホロラボ・西松建設、ドローンの空撮映像にARを組み合わせた施工支援技術を開発
+</title><link>https://ledge.ai/articles/hololab-nishimatsu_xr_with_drone_vision</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月18日、株式会社ホロラボと西松建設は、共同研究によりドローンを利用した建設現場の施工支援技術を開発したことを{target=“_blank”){target=“_blank”}した。
+
+空撮映像に3Dモデルをリアルタイムで重ね合わせ、ヘッドマウントディスプレイと連携。これにより、施工の可視化及びドローンの操作性を支援するという。
+
+@
+
+
+
+
+このシステムでは、3Dモデル（CIMモデル）を活用し、現場の生産性向上と業務の効率化を図る。AR（Augmented Reality）技術を用いて、施工現場のCG視覚情報を現実世界に重ねることにより、施工の課題把握や改善提案が迅速に行えるという。
+
+この技術の特徴は、従来の地上主観視点に限定された問題を克服し、ドローンを使用して自由な視点からの確認が可能であること。
+
+ARを重ね合わせるためには、一般的にはQRコードなどのマーカーを使用する手法が使われるが、同研究では、マーカー不要の技術を採用している。DJI社のドローンMavic 3 EnterpriseにRTKモジュールを搭載し、全地球航法衛星システム（GNSS）を活用して、正確な位置情報を取得し、リアルタイムでのAR重畳（ちょうじょう）が行われる。
+
+さらに、操縦者は装着するヘッドアップディスプレイ（Trimble XR10 with HoloLens 2）を通じて空撮映像のAR重畳、ドローンのステータス、3Dモデルの操作が可能である。これにより、操縦者は手を放さずに必要な操作を行うことができるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この技術は、宮城県名取市にあるダム建設現場でのフィールド検証が行われ、全体的な現場の確認や施工計画との比較が短時間で実施できることが確認された。今後、ホロラボと西松建設はこの技術の精度向上とシステムの最適化を進め、広範な利用が可能なサービスへと展開していく計画だ。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 08 May 2024 11:39:04 +0000</pubDate></item><item><title>ブリヂストンの社内ベンチャーがゴム人工筋肉によるやわらかいロボット「Morph」の体験コーナーを設置　5/17から</title><link>https://ledge.ai/articles/bridgestone_morph-inn</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -301,40 +341,7 @@ Common Corpus プロジェクトは、このような大手AI企業の主張に�
 :::box
 
 :::
-</description><pubDate>Thu, 02 May 2024 05:06:12 +0000</pubDate></item><item><title>OpenAI　ChatGPTの「Memory」機能をすべての有料ユーザーに向けて提供開始</title><link>https://ledge.ai/articles/openai_chatgpt_memory_for_all_plus_users</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年4月29日、ChatGPTの新機能「Memory」の提供をChatGPT Plusユーザー全員に対して開始したと{target=“_blank”}した。
-
-この機能は、ユーザーの過去のチャットを記憶し、個別の情報を繰り返し入力する手間を省く。2月よりこの機能がテストされていたが、このアップデートにより、有料会員のプラスユーザーなら全員使用できるようになったという。
-
-Memory機能は、ユーザーとの対話を通じて情報を記憶し、次回以降の対話においてその情報を反映させるというもの。対話中にMemoryが更新されると「Memory updated」と表示され、記録された内容を確認できるようになっている。
-
-たとえば「私のペットは、ゴールデンレトリバーのエリーと、メインクーンのテディ―です」と入力し、その情報を記憶させる。その後「私のペットたちがサーフボードに乗っている絵を作って」と依頼すると、ChatGPTが前述のレトリバーとメインクーンがサーフボードを乗りこなす画像を生成する。
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-Memory機能は、初期設定で「オン」に設定されており、ユーザーは設定画面からON・OFFの切り替えが可能。また、Memoryの管理（Manage）より、特定の記憶されたデータを選んで削除できる。ChatGPTとの対話で、何を記憶しているか確認し、それを忘れるように指示しデータを削除することも可能。チャット自体を削除しても記憶されたデータは消去されない。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-なお、この機能は企業向けプラン（Enterprise）およびチーム向けプラン（Teams）、そしてGPTsでの利用が予定されている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 02 May 2024 05:02:19 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Thu, 02 May 2024 05:06:12 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
