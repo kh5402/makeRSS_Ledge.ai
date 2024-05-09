@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 May 2024 10:31:28 +0000</lastBuildDate><item><title>佐川グローバルロジスティクスがエピソテックと共同開発のAR技術を活用した物流オペレーションの実証実験を実施</title><link>https://ledge.ai/articles/sgl_episotech_ar</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 May 2024 10:31:28 +0000</lastBuildDate><item><title>ブリヂストンの社内ベンチャーがゴム人工筋肉によるやわらかいロボット「Morph」の体験コーナーを設置　5/17から</title><link>https://ledge.ai/articles/bridgestone_morph-inn</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ブリヂストンは2024年04月23日、社内ベンチャーであるブリヂストン ソフトロボティクス ベンチャーズとクリエイター集団Konelが、未来体験を提供するための共創型プロジェクトを立ち上げたことを{target=“_blank”}した。
+
+このプロジェクトでは、ゴム人工筋肉を用いた柔らかいロボット「Morph」に身をゆだねる新空間「Morph inn」の体験施設を公開する。期間は2024年5月17日から25日まで東京・表参道の「seeen」に設置されるとのこと。
+
+Morphは、ブリヂストンが独自に開発したゴム人工筋肉（ラバーアクチュエーター）を活用しており、自然界のリズムを模倣した動きを再現するという。この技術によりMorphは、生物の呼吸や潮の満ち引きなどの生物学的な動きの表現を可能にする。このロボットに参加者が直接触れ合うことで、互いの動きを感じ取りながら共感覚的な交流を促進するとのこと。
+
+Morph innは、ただ単に技術を展示する場ではなく、参加者が目的を持たずに自由に過ごすことができる「無目的室」として設計されている。参加者は日常の束縛から解放され、Morphとの交流を通じて新たな感覚体験が得られるという。
+
+### ブリヂストンのソフトロボティクス事業
+（{target=“_blank”}）は、同社の100年以上にわたるゴム技術の知見を活かした社内ベンチャーで、ゴムの新たな可能性を追求し、地球規模で直面する社会課題の解決に貢献することを目的としている。主に{target=“_blank”}）を活用した製品やソリューションを開発する。「新たなロボットの手足」として、また産業向けの「器用な手」TETOTEや「触れ合いにより心を動かすソフトロボティクス」umaruなどの製品を生み出している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+###  AIによる人工筋肉の計算モデル開発　京大・東大との共同研究
+
+同社は25日に、京都大学の明石望洋情報学研究科助教および東京大学の中嶋浩平准教授との共同研究を通じて、AIを活用した新たな人工筋肉の計算モデルを{target=“_blank”}した。
+
+この技術は、ソフトロボットのアクチュエータとして用いられる空気圧人工筋肉の動作をAIによるニューラルネットワーク計算で解析し、リズミカルまたはカオスと称される複雑な動作パターンを自律的に生成できることを明らかにした。
+この技術により、人工筋肉はより精密で自然な動きを実現可能となり、ロボットだけでなく、医療や介護の分野での応用が期待されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+
+</description><pubDate>Mon, 06 May 2024 10:32:46 +0000</pubDate></item><item><title>佐川グローバルロジスティクスがエピソテックと共同開発のAR技術を活用した物流オペレーションの実証実験を実施</title><link>https://ledge.ai/articles/sgl_episotech_ar</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -296,29 +334,7 @@ Memory機能は、初期設定で「オン」に設定されており、ユー�
 :::box
 
 :::
-</description><pubDate>Thu, 02 May 2024 05:02:19 +0000</pubDate></item><item><title>ニッセンが画像生成AIを活用し着用パターンを自動生成する実証実験を実施　生成された着用イメージで洋服を試着体験！</title><link>https://ledge.ai/articles/nissen_apparel_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月22日、株式会社ニッセン、BIPROGY株式会社、株式会社メタクロシスの３社は生成AIを活用した衣服着用パターンを自動生成する実証実験を実施したと{target=“_blank”}した。
-
-ECサイトの進化により実店舗へ足を運ばなくても好きな時間に手軽に買い物を楽しむことができる時代。アパレル業界でもECサイトの活用が進んでいるが、商品を実際に試着したイメージが掴みにくいという視点から、店舗スタッフやモデルの着用画像を掲載していることが多い。しかし、着用画像掲載にはコストもかかるため掲載の幅が限られている現状。このような課題を解決するため実証実験を実施した。
-
-実証実験についてはメタクロシスのアパレルDXアプリ「FIGUR（フィギュア）」の画像試着機能を活用し、ニッセンの保有データをもとに着用パターンや着用イメージを自動生成する。この機能を活用することで、ECサイトで販売している商品を実店舗に足を運ぶことなくECサイト上でイメージに近い洋服を探したり購入することができる。課題であるコスト削減や業務効率化にも期待できるという。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 30 Apr 2024 08:15:35 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Thu, 02 May 2024 05:02:19 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
