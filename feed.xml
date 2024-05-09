@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 07 May 2024 15:03:18 +0000</lastBuildDate><item><title>佐川グローバルロジスティクスがエピソテックと共同開発のAR技術を活用した物流オペレーションの実証実験を実施</title><link>https://ledge.ai/articles/sgl_episotech_ar</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 May 2024 10:31:28 +0000</lastBuildDate><item><title>佐川グローバルロジスティクスがエピソテックと共同開発のAR技術を活用した物流オペレーションの実証実験を実施</title><link>https://ledge.ai/articles/sgl_episotech_ar</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2230,7 +2230,46 @@ AI専門人材を連邦政府機関全体で新たに100人雇用する計画が
 :::box
 
 :::
-</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>正規のルートで日本のマンガを世界へ輸出　AIマンガ翻訳のオレンジが小学館などから29.2億円の資金調達を実施</title><link>https://ledge.ai/articles/orange_raises_jpy2-9b</link><description>:::small
+</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>OpenAI「Sora」が生み出した初の公式ミュージックビデオ公開</title><link>https://ledge.ai/articles/music_video_produced_using_sora</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月1日、OpenAIの動画生成AI「Sora」を使って制作された初の公式ミュージックビデオが{target=“_blank”}された。
+
+アーティスト・作家・映画監督として多方面で活躍するPaul Trillo氏と音楽アーティストWashed Out（本名：Ernest Weatherly Greene Jr.）がコラボレーションし、OpenAIのAIモデル「Sora」を使用して制作された。
+
+ビデオの特徴は、連続するズームショットを駆使して視覚的な錯覚を生み出すという斬新な手法により、視聴者を引き込む内容となっている​。Soraは、ユーザーのプロンプトに応じて最大1分間のビデオを生成する。Trillo氏は自身のSNSで、「Soraで生成した55個のクリップをAdobe Premiereで編集した」とファンに説明している。
+
+@
+
+
+Trillo氏によれば、このミュージックビデオは、愛する人を失った後の記憶と向き合い、それを手放すことの難しさを描いているという。現実の歪んだ鏡である記憶に対して、Soraの「夢のロジック」を利用して、実際には存在しない記憶を探求するアプローチを取り入れたとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ビデオは、現実とAIが創出するシュールな特性の微妙な違いを探るものとなっている。奇妙なディテールと、夢の中のような動きのロジックを通じて、歪んだ記憶の本質をより良く表現することを目指している。
+
+このミュージックビデオは、Soraの技術がどのようにしてクリエイティブな表現に革新をもたらすかを示す事例となり、AIとアーティストとの協働による新たな可能性を提示するものとなっている。
+
+Trillo氏は、未公開のAI「Sora」への初期アクセスを許されたアーティストで、これを用いた作品「Abstract」は、3月にOpenAIのブログでも紹介されているほか、TEDの40周年を記念する「TED2024」に寄せて40年後のTEDの姿をSoraを使って描く{target=“_blank”}の制作に関わった。
+
+ミュージックビデオ「The Hardest Part」は、6月28日にリリース予定のWashed Outの新アルバム「Notes From a Quiet Life」に収録されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 08 May 2024 10:31:28 +0000</pubDate></item><item><title>正規のルートで日本のマンガを世界へ輸出　AIマンガ翻訳のオレンジが小学館などから29.2億円の資金調達を実施</title><link>https://ledge.ai/articles/orange_raises_jpy2-9b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2580,42 +2619,4 @@ OpenAIはロサンゼルスの映画スタジオ、メディア幹部、タレ�
 :::box
 
 :::
-</description><pubDate>Fri, 05 Apr 2024 13:44:26 +0000</pubDate></item><item><title>OpenAI　動画生成AI「Sora」を使ったアーティストたちの映像作品を公開　AIは創造的プロセスに革新をもたらすのか</title><link>https://ledge.ai/articles/openai_sora_first_impressions</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年3月25日、動画生成AI「Sora」を使ったアーティストたちによる映像作品と、彼らが初めてSoraを使用した所感やフィードバックを{target=“_blank”}した。
-
-Soraは、テキストからリアルで想像力豊かなシーンを生成できるAIモデルとして{target=“_blank”}され、世界を揺るがせた。モデルは現在のところ一般公開には至らず、ビジュアルアーティスト、デザイナー、クリエイティブディレクター、映画制作者などに対して、アクセスを提供している。同社は、こうした制作者たちのフィードバックを受けながら、創造プロセスをどのように支援できるかを学びつつ、モデルの改善を続けているという。ㅤ
-ㅤㅤ
-## shy kids – “Air Head”
-@
-トロントを拠点とするshy kidsはマルチメディア制作会社で、風船男のショートフィルムにSoraを活用した。
-
-監督の Walter Woodman氏は「Soraは現実に見えるものを作り出す能力に優れているが、私たちを興奮させるのは、完全に超現実的なものを作り出す能力。抽象表現主義の新時代だ」と語る。
-
-より広い業界に向けて言えば「胸からはちきれそうな物語を持つ世界中の人々が、ついにその中身を世界に見せる機会を得た」と述べる。  ㅤ
-ㅤㅤ
-## Paul Trillo, Director – “Abstract”
-@
-「Abstract」を制作したPaul Trillo氏は、アーティスト、作家、映画監督として多方面で活躍する。
-
-同氏は「Soraが最もパワフルなのは、古いものを複製するのではなく、そうしなければ見る機会がなかったであろう新しく不可能なアイデアに命を吹き込むときだ」とコメントしている。
-
-そして、Soraを使った制作は「映画監督として鎖に縛られていないと感じた初めての経験。時間やお金、他人の許可に縛られることなく、大胆でエキサイティングな方法でアイデアを出し、実験できる」と述べた。ㅤ
-ㅤㅤ
-### 「奇妙さ」こそSoraの強み
-デジタルAR/XRアーティストの Don Allen Stevenson III氏は、Soraの「奇妙さ」を最大の強みとして挙げ、これが彼の創造性を純粋に集中させ、即時のビジュアライゼーションと迅速なプロトタイピングの世界を解き放つと述べている。Soraによって、従来の物理法則や思考の慣習に縛られない作品を制作することが可能になり、クリエイターたちは技術的な障壁よりも創造性に焦点を当てることができるようになった。これにより、これまでにないストーリーテリングやアート作品が生まれる土壌が整えられている。
-
-彼の作品や、その他のアーティストの映像作品は、{target=“_blank”}で紹介されている。ㅤ
-ㅤㅤ
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 30 Mar 2024 12:11:22 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 05 Apr 2024 13:44:26 +0000</pubDate></item></channel></rss>
