@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 08 May 2024 11:42:47 +0000</lastBuildDate><item><title>ウォーレン・バフェット氏「AIは、ボトルから解き放たれたジニー」バークシャー・ハザウェイ株主総会でAI悪用に懸念</title><link>https://ledge.ai/articles/warren_buffett2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 09 May 2024 12:52:43 +0000</lastBuildDate><item><title>ウォーレン・バフェット氏「AIは、ボトルから解き放たれたジニー」バークシャー・ハザウェイ株主総会でAI悪用に懸念</title><link>https://ledge.ai/articles/warren_buffett2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1066,7 +1066,34 @@ CFG Scale  7
 :::box
 
 :::
-</description><pubDate>Mon, 15 Jan 2024 02:44:39 +0000</pubDate></item><item><title>AWSが「Amazon Q」の一般提供を開始　企業内データを活用したAIアプリケーション開発の加速を目指す</title><link>https://ledge.ai/articles/amazon_aws_q</link><description>:::small
+</description><pubDate>Mon, 15 Jan 2024 02:44:39 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月7日、OpenAIとStack Overflowは、開発者向けに最適化された技術情報とAI開発ツールを提供する新しいAPIパートナーシップを{target=“_blank”}した。
+
+このパートナーシップにより、OpenAIのユーザーや顧客は、Stack Overflowが提供する正確で検証済みのデータを基に迅速な問題解決を図り、重要なタスクに集中できるよう支援されるという。
+
+この協業の一環として、OpenAIはStack Overflowの「OverflowAPI」を利用し、ユーザーにStack Overflowの検証済み技術知識を直接提供する。これにより、ChatGPTはStack Overflowの豊富な技術データベースと連携し、利用者に対してより精度の高い支援を提供できるようになる。また、Stack Overflowは、OpenAIのAIモデルを利用して「OverflowAI」の開発を行い、内部テストから得た洞察を活かしてAIモデルの性能向上を図る。
+
+このパートナーシップは、技術者が直面する課題への対応速度を向上させ、開発者コミュニティ全体の生産性とエンゲージメントの向上を目指している。両社は、開発者が必要とする情報や解決策を、より迅速かつ正確に提供できる環境を整備することで、技術開発の新たなスタンダードを築くことを目指している。
+
+Stack Overflowは2月29日にGoogle Cloudとの協業を発表しており、「Gemini for Google Cloud」との統合を進めている。この連携ではGoogle Cloudのプラットフォーム上でStack Overflowの情報を活用し、開発者が容易に重要なナレッジベース情報やコーディング支援を利用できるようになっている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 09 May 2024 12:52:43 +0000</pubDate></item><item><title>AWSが「Amazon Q」の一般提供を開始　企業内データを活用したAIアプリケーション開発の加速を目指す</title><link>https://ledge.ai/articles/amazon_aws_q</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1417,28 +1444,7 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>古いコードを最新のJavaに生成AIが自動変換「Amazon Q Code Transformation」</title><link>https://ledge.ai/articles/aws_amazonq_code_transformation</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米国Amazon.com傘下のAmazon Web Services（AWS）は2023年11月28日、ラスベガスで開催中の年次イベント「AWS re:Invent」にて「Amazon Q Code Transformation」を{target=“_blank”}した。
-
-この機能はAmazon Qを使用して、古いJavaおよび.NETのコードを最新のJavaにAIが自動変換するツールで、アプリケーションの保守と最新化を簡素化することを目的としている。現在Javaアプリケーションのバージョン8および11から17へのアップグレードが可能で、近い将来にはWindowsベースの.NET Frameworkアプリケーションをクロスプラットフォームの.NETに変換できるようになる予定だという。
-
-かつて開発者は、各アプリケーションのアップグレードに 2~ 3日かかっていたが、同社内部テストでは、手動アップグレードに通常は数日または数週間かかるのに対し、新機能を使用すると数分でアプリケーションをアップグレードでき、別の要件へ集中する時間に充当できたという。
-
-このツールは、既存のコードを自動的に分析し、変換計画を生成して、計画に基づいた変換タスクを完了する。パッケージ依存関係の特定と更新、時代遅れかつ非効率的なコードコンポーネントのリファクタリングを行い、新しい言語フレームワークへの切り替えとセキュリティのベストプラクティスの組み込みを行う。変換が完了すると、ビルドとテストの結果を含む変換されたコードをレビューし、変更を承認することができる。
-
-Amazon Q Code Transformationのプレビューは、 AWS Toolkit for IntelliJ IDEAおよびAWS Toolkit for Visual Studio Code のAmazon CodeWhisperer プロフェッショナル ティアの顧客が利用可能。組織が使用するプロファイルへのアクセスを許可する必要がある。プレビュー中の使用には追加料金不要。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 08 Dec 2023 15:20:21 +0000</pubDate></item><item><title>MITがDALL-E3など拡散モデルの処理性能を30倍にする研究を発表　分布マッチング蒸留（DMD）で品質も担保</title><link>https://ledge.ai/articles/mit_distribution_matching_distillation</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>MITがDALL-E3など拡散モデルの処理性能を30倍にする研究を発表　分布マッチング蒸留（DMD）で品質も担保</title><link>https://ledge.ai/articles/mit_distribution_matching_distillation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
