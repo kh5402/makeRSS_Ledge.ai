@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 09 May 2024 12:52:43 +0000</lastBuildDate><item><title>ウォーレン・バフェット氏「AIは、ボトルから解き放たれたジニー」バークシャー・ハザウェイ株主総会でAI悪用に懸念</title><link>https://ledge.ai/articles/warren_buffett2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 09 May 2024 13:03:46 +0000</lastBuildDate><item><title>英AIスタートアップ Wayve　ソフトバンク主導で約1,600億円を調達　「運転のための GPT」が自律型モビリティ再構築を加速</title><link>https://ledge.ai/articles/wayve_led_by_softbank_raises_10-5b</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+英国のAIスタートアップ企業「Wayve」は2024年5月7日、シリーズCの投資ラウンドで10億5000万ドル（約1600億円）を調達したと{target=“_blank”}した。
+
+この資金調達は、ソフトバンクグループが主導し、新規投資家としてNVIDIAが、既存の投資家であるマイクロソフトも出資した。この資金は、エンボディドAIを通じて自律型モビリティの再構築を加速するために使用される。
+
+「エンボディドAI（Embodied AI）」とは、車両やロボットに高度なAIを統合し、実世界の環境で人間の行動を理解し学ぶ新しい方法を提供する技術である。これにより、予測不能なドライバーや歩行者の行動など、厳密なルールに従わない状況での自動運転システムの使い勝手と安全性が向上する。
+
+Wayveの共同創設者兼CEOであるAlex Kendall氏は、エンボディドAIの可能性について以下のように説明している。
+「エンボディドAIは、物理的な世界にAIの驚異的な影響をもたらすことを可能にする。私たちの生活に最も重要な相互作用が行われるのは、この物理的な世界であり、私たちの技術がこれを強化することにより、日常生活に革命をもたらすだろう。」
+
+Wayveは2017年に設立され、公道でのエンドツーエンドのディープラーニング自動運転システムを開発・試験した最初の企業として、この分野の先駆者となる。2023年9月には、既存の自動運転ソフトウェアと大規模言語モデル（LLM）を組み合わせた{target=“_blank”}している。
+
+現在、同社は、あらゆる車両があらゆる環境を見て、考え、運転できるようにする「運転のための GPT」に似た自律性の基礎モデルを構築しているとのこと。
+
+この投資により、Wayveは生産車両向けの最初のエンボディドAI製品の開発と市場投入を行えるようになる。同社のAIモデルが進化するにつれ、これらの製品はOEM（自動車メーカー）が車をL2+アシスト運転からL4自動運転へと効率良くアップグレードできるようになると同社は述べている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 09 May 2024 13:03:46 +0000</pubDate></item><item><title>ウォーレン・バフェット氏「AIは、ボトルから解き放たれたジニー」バークシャー・ハザウェイ株主総会でAI悪用に懸念</title><link>https://ledge.ai/articles/warren_buffett2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -284,29 +311,7 @@ FTグループのCEO、ジョン・リディング氏は「この合意は多く
 :::box
 
 :::
-</description><pubDate>Wed, 01 May 2024 12:18:48 +0000</pubDate></item><item><title>チューリングがプレシリーズAで30億円の資金調達、完全自動運転の開発加速
-</title><link>https://ledge.ai/articles/turing_raised_3b_yen_in_funding</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-チューリングは2024年4月23日、独立系ベンチャーキャピタルANRIをリードとする複数のベンチャーキャピタル、事業会社、個人投資家からの出資を受け、プレシリーズAラウンドの前半で30億円の資金調達を行ったと{target=“_blank”}した。
-
-同社はカメラから取得したデータを用いて、運転に必要な判断をAIが自動で行うEnd-to-End（E2E）方式の自動運転技術に特化している。自社開発したマルチモーダル生成AI「Heron」を活用することで、従来の走行データでは対応困難な未知の状況にも倫理的に適応可能なシステムの構築を目指し、完全自動運転のレベル5達成に向けた開発を進めているという。
-
-調達した資金は、Heronの運用に必要な大規模GPUクラスタ「Gaggle Cluster」の構築、2025年までに人間の介入なしで都内を30分間自動運転する「Tokyo30」プロジェクトの実施、および必要なMLエンジニアの採用に充てられる。これにより、同社は国内トップクラスの計算資源をエンジニアに提供することが可能となる。
-
-
-「完全自動運転に向けたマルチモーダル基盤モデルの開発」を目指すチューリングは、2月に経済産業省の「ポスト5G情報通信システム基盤強化研究開発事業」の事業者として採択された。生成AI基盤の開発事業者として、Googleクラウドの計算資源を無償で利用できるよう支援を受けている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 01 May 2024 12:16:09 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Wed, 01 May 2024 12:18:48 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
