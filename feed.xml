@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 09 May 2024 13:03:46 +0000</lastBuildDate><item><title>英AIスタートアップ Wayve　ソフトバンク主導で約1,600億円を調達　「運転のための GPT」が自律型モビリティ再構築を加速</title><link>https://ledge.ai/articles/wayve_led_by_softbank_raises_10-5b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 May 2024 10:08:16 +0000</lastBuildDate><item><title>英AIスタートアップ Wayve　ソフトバンク主導で約1,600億円を調達　「運転のための GPT」が自律型モビリティ再構築を加速</title><link>https://ledge.ai/articles/wayve_led_by_softbank_raises_10-5b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1449,7 +1449,53 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>MITがDALL-E3など拡散モデルの処理性能を30倍にする研究を発表　分布マッチング蒸留（DMD）で品質も担保</title><link>https://ledge.ai/articles/mit_distribution_matching_distillation</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>NVIDIA　LLMベースの sim-to-real アプローチ「DrEureka」で、ロボット犬に玉乗りを教えるーシミュレーションから実世界への移行にかかる煩雑なプロセスを大幅に削減</title><link>https://ledge.ai/articles/dr_eureka</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAが開発したAIプラットフォーム「Eureka」が、ロボットのスキルトレーニング領域において新たな進展を遂げた。ペンシルベニア大学、テキサス大学オースティン校、NVIDIAからなる研究グループは、ロボットがヨガボールの上でバランスを取りながら歩行する技術を、シミュレーションから実世界へ移行する新しい方法を{target=“_blank”}した。
+
+@
+
+
+
+
+これにより、従来の手動での報酬設計や物理パラメータの調整という煩雑なプロセスを大幅に削減し、自動化を実現したという。
+
+大規模言語モデル（LLM）を核とした「DrEureka」という技術を用いて、目的のタスクに適した報酬関数やドメインランダマイゼーション分布を自動的に生成する。具体的には、四足歩行ロボットがシミュレーション内で学習したポリシーを実世界に移行させる際、人間の介入なしでこれを行うことが可能となる。
+
+下図は、そのDrEurekaのプロセスを表したものだ。
+
+タスクと安全に関する指示と環境のソースコードを受け取り、Eurekaを用いて規則化された報酬関数とポリシーを生成することから始まる。生成されたポリシーは、さまざまなシミュレーション条件下でテストされ、報酬に敏感な物理的先行知識を築き上げる。この先行知識はLLMに提供され、ドメインランダマイゼーション（DR）パラメータのセット生成に利用される。最後に、これらの合成された報酬とDRパラメータを用いて、実世界での展開に向けたポリシーが訓練される。この一連のプロセスにより、シミュレーションから現実へのスムーズな移行が実現し、ロボットが新しいスキルを効率的に習得し適用することが可能となる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+研究チームは、このアプローチが人間が設計した既存の構成と競合する結果を生み出すことを初めて示し、さらにはヨガボールの上でのバランス取りと歩行という新たなロボットタスクを解決する能力を展示した。
+
+
+Eurekaは、2023年10月にNVIDIAが発表した、ロボットに複雑なスキルを教えるAIエージェントだ。発表時には、高速ペン回しを教える動画が{target=“_blank”}。このほかにも、ロボットに引き出しやキャビネットを開閉する、ボールを投げてキャッチする、ハサミを操作するなど、約30のタスクをロボットに教え、学習・熟達させている。
+
+
+@
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Fri, 10 May 2024 10:08:16 +0000</pubDate></item><item><title>MITがDALL-E3など拡散モデルの処理性能を30倍にする研究を発表　分布マッチング蒸留（DMD）で品質も担保</title><link>https://ledge.ai/articles/mit_distribution_matching_distillation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1825,63 +1871,7 @@ Eureka αは手術用の内視鏡システムや手術支援ロボットから�
 
 :::
 
-</description><pubDate>Thu, 25 Apr 2024 12:21:42 +0000</pubDate></item><item><title>スマートグラスを超低電力で動かせるようになる「AIソナー技術」をコーネル大研究チームが開発　反響する音声を拾いAIが表情や視線を推測する</title><link>https://ledge.ai/articles/cornel_uni_ai-powered_sonar</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-コーネル大学の研究者は、ソナーのようなセンシングを通じて人の視線と顔の表情を追跡する2つの技術を{target=“_blank”}した。
-
-これらは商用スマートグラスやVR、ARヘッドセットに装着可能で、従来のカメラベースのシステムと比較して著しく低い電力で動作する。
-
-「GazeTrak」と「EyeEcho」という新たな２つの技術は、眼鏡のフレームに取り付けられたスピーカーとマイクロフォンを用い、顔や眼の動きによって生じる音波の反射を捉えるという。
-
-## GazeTrak：音響信号を利用して視線を追跡する
-@
-
-
-スピーカー１つとマイク４つをメガネの左右のフレームの内側に配置し、眼球と目の周囲からの音波を反射させ拾う。結果として得られる音声信号は、AIが視線の方向を継続的に推測するようカスタマイズした深層学習パイプラインに供給されるという。
-
-このシステムは、カメラに依存する最先端の視線追跡技術ほどにはまだ機能しないが、新しいデバイスは音声信号も有効であるという概念を実証する。最適化を進めることで、同じ精度を達成し、必要なスピーカーとマイクの数を減らすことができるとのこと。
-
-**GazeTrakより：視線をスクリーンの異なる領域に移動させたときの異なるマイクのエコープロファイル**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## EyeEcho：顔の表情をリアルタイムで検出し、アバターを通じて再現
-@
-
-
-EyeEchoのシステムは、スピーカー1つとマイク1つをメガネのヒンジの隣に配置する。表情の変化に応じて、顔の皮膚の動きを捉えるために下向きに配置する。反射された信号は AIが解釈するという。 
-
-この技術を使用することで、騒がしいカフェや路上でも、ユーザーはアバターを介してハンズフリーのビデオ通話が可能だ。一部のスマートグラスには顔を認識したり、いくつかの特定の表情を区別したりする機能があるが、現時点では EyeEcho のように継続的に表情を追跡するものはないとのこと。
-
-
-**EyeEchoより：デザインされた表情と対応する差分エコープロファイル**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-これらのデバイスは、スマートグラスのバッテリーで数時間、VRヘッドセットでは一日以上持続する性能を持つという。
-デバイスを開発した Smart Computer Interfaces for Future Interactions (SciFi) Labを率いるコーネル大学情報科学助教授である Cheng Zhang 氏は、「小型で、低価格、超低電力なので、毎日スマートグラスに装着してもバッテリーがすぐには減らない」と語る。
-
-2つの研究を主導する博士課程の学生 Ke Li 氏は、ビデオの代わりに音声信号を利用することで、プライバシー保護にも貢献すると強調する。また「VR環境では、他のユーザーとのインタラクションを向上させるために、詳細な顔の表情と視線の動きを再現したい」と述べた。
-
-これらの技術は、VR体験の向上だけでなく、視力が低い人々のためのスクリーンリーダーのサポートや、アルツハイマー病やパーキンソン病などの神経変性疾患の進行監視にも応用可能だという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Apr 2024 07:40:15 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
+</description><pubDate>Thu, 25 Apr 2024 12:21:42 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
