@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 May 2024 10:08:16 +0000</lastBuildDate><item><title>英AIスタートアップ Wayve　ソフトバンク主導で約1,600億円を調達　「運転のための GPT」が自律型モビリティ再構築を加速</title><link>https://ledge.ai/articles/wayve_led_by_softbank_raises_10-5b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 10 May 2024 10:12:02 +0000</lastBuildDate><item><title>英AIスタートアップ Wayve　ソフトバンク主導で約1,600億円を調達　「運転のための GPT」が自律型モビリティ再構築を加速</title><link>https://ledge.ai/articles/wayve_led_by_softbank_raises_10-5b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1449,7 +1449,38 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>NVIDIA　LLMベースの sim-to-real アプローチ「DrEureka」で、ロボット犬に玉乗りを教えるーシミュレーションから実世界への移行にかかる煩雑なプロセスを大幅に削減</title><link>https://ledge.ai/articles/dr_eureka</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>Google DeepMind　AIタンパク質予測ツール「AlphaFold 3」を発表、AI創薬への応用に期待</title><link>https://ledge.ai/articles/google_deepmind_alphafold3</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+GoogleDeepMindと、同系列のAI創薬企業 Isomorphic Labs は2024年5月8日、新たなAIモデル「AlphaFold 3」を{target=“_blank”}した。
+
+このモデルは、タンパク質、DNA、RNA、リガンドなどの分子の構造と相互作用を高精度で予測する能力を持つ。従来のドッキング手法を超えるこの技術は、医薬品開発における新しい局面を開く可能性がある​という。
+
+
+
+@
+
+
+AlphaFold 3は、3D分子構造のグローバルなデータベースでトレーニングされており、未知のタンパク質の構造を予測する能力において、前モデル「{target=“_blank”}」を大幅に上回るとのこと。
+
+AlphaFold 2は、2020年にリリースされたAlphaFoldから、タンパク質の構造予測において根本的な進歩を遂げ、マラリアワクチンの開発、がん治療法の進展、環境保護のための酵素設計など、様々な生物学的応用に利用されている。AlphaFold 3はこれらの成功に基づき、さらに広範な分子タイプへの適用を可能にしたという。
+
+これにより、医薬品設計の効率が向上し、手の届かなかった疾患の治療法開発に寄与すると同社は期待のコメントを述べている。
+
+DeepMindは「{target=“_blank”}」という新サービスを開始し、科学研究者が自由にアクセスし、タンパク質の相互作用予測を行うことができるようになっている。非営利目的での利用であればGoogleアカウントを用いて無料で利用可能とのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 10 May 2024 10:12:02 +0000</pubDate></item><item><title>NVIDIA　LLMベースの sim-to-real アプローチ「DrEureka」で、ロボット犬に玉乗りを教えるーシミュレーションから実世界への移行にかかる煩雑なプロセスを大幅に削減</title><link>https://ledge.ai/articles/dr_eureka</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1837,41 +1868,7 @@ Infini-attentionの導入は、LLMが扱う情報量を大幅に増やすこと�
 :::box
 
 :::
-</description><pubDate>Thu, 25 Apr 2024 12:29:45 +0000</pubDate></item><item><title>国内初、AIが執刀中の外科医の視覚をリアルタイム支援するプログラム医療機器「Eureka α」の薬事承認を取得</title><link>https://ledge.ai/articles/anaut-surg_eureka-alpha</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年4月12日、AI手術支援スタートアップのアナウト株式会社は、同社の開発した外科手術視覚支援プログラム「Eureka α（ユーリカアルファ）」が、厚生労働大臣から製造販売承認を取得したことを{target=“_blank”}した。
-
-
-このシステムは、手術中に疎性結合組織の位置や領域をリアルタイムで推定し、強調表示することで外科医の視覚を支援する。
-
-**「Eureka α」の製品イメージ**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Eureka αは手術用の内視鏡システムや手術支援ロボットからの映像信号を解析し、サブモニター上で疎性結合組織を強調表示する。この技術は特に胃、大腸、鼠径ヘルニア領域の手術で利用され、外科医の手術操作を視覚的に支援する。
-
-国内でこの種のプログラム医療機器が承認されるのはこれが初めて。手術用画像認識支援プログラムという新たな医療機器カテゴリーが厚生労働省により2024年1月に設立された後のことだ。
-
-
-これまでに同社は、20以上の医療機関と共同研究を行い、外科医とエンジニアが共同で開発に取り組んできたという。また、同社はすでに「Surgical Vision Eureka」として知られる教育及び研究用ソフトウェアを提供しており、今後は消化器外科領域から婦人科・泌尿器科領域への適用範囲を拡大する計画であるとのこと。
-
-この技術の導入により、外科医の疲労軽減や手術の安全性向上が期待され、さらには手術技術の継承と発展に寄与すると見られている。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 25 Apr 2024 12:21:42 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
+</description><pubDate>Thu, 25 Apr 2024 12:29:45 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
