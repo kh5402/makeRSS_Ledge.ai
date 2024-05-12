@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 11 May 2024 08:11:06 +0000</lastBuildDate><item><title>英AIスタートアップ Wayve　ソフトバンク主導で約1,600億円を調達　「運転のための GPT」が自律型モビリティ再構築を加速</title><link>https://ledge.ai/articles/wayve_led_by_softbank_raises_10-5b</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 11 May 2024 08:17:55 +0000</lastBuildDate><item><title>国産AIによる同時通訳技術開発進む　2025年大阪万博での活用ほか、国際会議想定</title><link>https://ledge.ai/articles/simultaneous_interpretation_by_domestic_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+情報通信研究機構（NICT）が、2025年大阪・関西万博での活用を見据え、自然な会話の流れで同時通訳が可能な国産AIの開発を進めていると2024年5月8日に読売新聞などが{target=“_blank”}。
+
+このAIは英語、日本語、中国語、韓国語、フランス語など複数言語に対応予定で、通訳者が話者の発言の途中から翻訳を始める従来の手法と比べ、作業の負担を大幅に軽減することを目指している。現在、日本国内で活動している日本語と英語の熟練同時通訳者は数百人に限られており、その負担は非常に大きいという。
+
+政府は、2030年頃までにこの国産AIを機密性の高い情報を扱う国際交渉での使用も想定しており、経済安全保障の観点からも国産技術の確立が求められている。さらに、NICTはこの技術をさらに発展させ、裁判や医療現場など様々な分野での応用も目指しているとのこと。{target=“_blank”}
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+このAIを技術面でサポートするのは、Toppanホールディングスのグループ会社。同社は、万博での活用が予定されている多言語同時通訳配信システムの実証実験を行うなどの開発に取り組んできた。{target=“_blank”}は「SEMICON Japan」で行われ、登壇者の発話をリアルタイムでテキスト化し、多言語に翻訳するシステムが試されたとのこと。このシステムは、大型スクリーンや参加者のスマートフォンに字幕として翻訳結果を表示することが可能だという。
+
+また同社は2月29日に総務省の委託研究として、自動同時通訳が利用されるデバイス・シーンに応じた最適なレイアウトやシステム設計のUIを{target=“_blank”}。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Sat, 11 May 2024 08:17:55 +0000</pubDate></item><item><title>英AIスタートアップ Wayve　ソフトバンク主導で約1,600億円を調達　「運転のための GPT」が自律型モビリティ再構築を加速</title><link>https://ledge.ai/articles/wayve_led_by_softbank_raises_10-5b</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -285,33 +324,7 @@ ECサイトの進化により実店舗へ足を運ばなくても好きな時間
 :::box
 
 :::
-</description><pubDate>Tue, 30 Apr 2024 08:15:35 +0000</pubDate></item><item><title>Financial TimesとOpenAIが戦略的パートナーシップを締結</title><link>https://ledge.ai/articles/openai_content_partnership_with_ft</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月29日、Financial Times（FT）は、OpenAIとの戦略的パートナーシップ及びライセンス契約を{target=“_blank”}した。ChatGPTのモデルがFTのジャーナリズムを取り入れた内容で強化され、新しいAI製品やFT読者向けの機能開発に協力するという。
-
-この契約のもと、ChatGPTユーザーは関連する問い合わせに応じて、FTのジャーナリズムからの選ばれた要約、引用、リンクを閲覧できるようになる。さらに、FTは今年初めにChatGPT Enterpriseを導入し、すべてのFT従業員がこの技術を活用できるようになった。これにより、創造性と生産性の向上が図られるとのこと。
-
-FTグループのCEO、ジョン・リディング氏は「この合意は多くの点で重要である」と述べている。AIを通じてコンテンツがどのように提示されるかについての早期の洞察を得ることができ、また、FTのジャーナリズムの価値を認識しているとした。同氏はさらに、この契約がFTの作業範囲を広げ、読者の要求や関心の深い理解を促進すると付け加えた。
-
-一方、OpenAIのCOOブラッド・ライトキャップ氏は「FTとのパートナーシップ及び継続的な対話は、ニュース組織とジャーナリストをAIで強化し、世界中の何百万もの人々にリアルタイムで高品質なジャーナリズムを提供するChatGPTの体験を豊かにするための創造的かつ生産的な方法を見つけることについてだ」とコメントしている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 01 May 2024 12:18:48 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Tue, 30 Apr 2024 08:15:35 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
