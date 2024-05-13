@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 11 May 2024 14:30:50 +0000</lastBuildDate><item><title>国産AIによる同時通訳技術開発進む　2025年大阪万博での活用ほか、国際会議想定</title><link>https://ledge.ai/articles/simultaneous_interpretation_by_domestic_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 11 May 2024 14:35:40 +0000</lastBuildDate><item><title>rinna　日本語特化型AIモデル「Llama 3 Youko 8B」をリリース　Llama3の高いテキスト生成能力を日本語にいち早く導入</title><link>https://ledge.ai/articles/rinna_llama3_youko_8b</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年5月7日、rinna株式会社は、Metaの言語モデル「Llama 3 8B」を基に、日本語のデータで継続的に事前学習を施した新AIモデル「Llama 3 Youko 8B」を{target=“_blank”}した。モデルの名称「 Youko：妖狐（ようこ）」は、日本の伝統的な妖怪に由来する。
+
+Llama 3 Youko 8Bは、日本語と英語の大規模データセットによりトレーニングされており、特に日本語における処理能力が向上しているという。80億パラメータを有するLlama 3 8Bモデルに基づき、約220億トークンの学習データを使用しており、そのうち日本語のデータが大部分を占める。
+
+モデルの日本語処理能力は、公式のベンチマークによると、基礎モデルと比較して顕著な改善が見られ、特定のタスクにおいてはその効果が更に顕著に見られるとのこと。
+
+下図は同社の公開しているベンチマークのスコア。Metaの同サイズモデルLlama3 8bなどと比較できる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社はこの新モデルをMeta Llama 3 Community Licenseの下で公開しており、開発者は自由にアクセスして使用できるという。また、モデルの効果を最大限に発揮するため、目的に応じたファインチューニングを行うことを推奨している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 11 May 2024 14:35:40 +0000</pubDate></item><item><title>国産AIによる同時通訳技術開発進む　2025年大阪万博での活用ほか、国際会議想定</title><link>https://ledge.ai/articles/simultaneous_interpretation_by_domestic_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -302,29 +329,7 @@ Memory機能は、初期設定で「オン」に設定されており、ユー�
 :::box
 
 :::
-</description><pubDate>Thu, 02 May 2024 05:02:19 +0000</pubDate></item><item><title>ニッセンが画像生成AIを活用し着用パターンを自動生成する実証実験を実施　生成された着用イメージで洋服を試着体験！</title><link>https://ledge.ai/articles/nissen_apparel_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月22日、株式会社ニッセン、BIPROGY株式会社、株式会社メタクロシスの３社は生成AIを活用した衣服着用パターンを自動生成する実証実験を実施したと{target=“_blank”}した。
-
-ECサイトの進化により実店舗へ足を運ばなくても好きな時間に手軽に買い物を楽しむことができる時代。アパレル業界でもECサイトの活用が進んでいるが、商品を実際に試着したイメージが掴みにくいという視点から、店舗スタッフやモデルの着用画像を掲載していることが多い。しかし、着用画像掲載にはコストもかかるため掲載の幅が限られている現状。このような課題を解決するため実証実験を実施した。
-
-実証実験についてはメタクロシスのアパレルDXアプリ「FIGUR（フィギュア）」の画像試着機能を活用し、ニッセンの保有データをもとに着用パターンや着用イメージを自動生成する。この機能を活用することで、ECサイトで販売している商品を実店舗に足を運ぶことなくECサイト上でイメージに近い洋服を探したり購入することができる。課題であるコスト削減や業務効率化にも期待できるという。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 30 Apr 2024 08:15:35 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Thu, 02 May 2024 05:02:19 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
