@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 11 May 2024 08:17:55 +0000</lastBuildDate><item><title>国産AIによる同時通訳技術開発進む　2025年大阪万博での活用ほか、国際会議想定</title><link>https://ledge.ai/articles/simultaneous_interpretation_by_domestic_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 11 May 2024 14:30:50 +0000</lastBuildDate><item><title>国産AIによる同時通訳技術開発進む　2025年大阪万博での活用ほか、国際会議想定</title><link>https://ledge.ai/articles/simultaneous_interpretation_by_domestic_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2245,7 +2245,36 @@ AI専門人材を連邦政府機関全体で新たに100人雇用する計画が
 :::box
 
 :::
-</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>OpenAI「Sora」が生み出した初の公式ミュージックビデオ公開</title><link>https://ledge.ai/articles/music_video_produced_using_sora</link><description>:::small
+</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>アイビスペイント「AI学習妨害機能」追加　イラスト保護のため妨害ノイズ付与し、無断学習からの生成結果を劣化させる</title><link>https://ledge.ai/articles/ibispaint_ai_learning_interference</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ 株式会社アイビスは2024年5月8日、世界中で3.9億ダウンロードを記録している人気のペイントアプリ「ibisPaint」の最新アップデートを通じて、AI学習妨害機能を導入したことを{target=“_blank”}した。この機能は、ユーザーであるクリエーターの作品が、画像生成AIによって無断で模倣されることを防ぐために設計されている。
+
+画像生成AI技術は、LoRAやDreamBoothなどの追加学習機能を利用し、特定の作風やキャラクターを模倣する能力がある。これにより、オリジナルのイラストが無断で使用され、著作権の侵害が生じる可能性が指摘されている。アイビスはこの問題に対処するため、AI学習妨害機能を開発。イラストにノイズを加えることで、AIが作風を正確に学習できなくなる仕組みを採用している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+利用者はアプリ内で「画像を保存」選択時に「AI学習妨害」をオンに設定し、ノイズの濃度をスライダーで調整可能。この操作により、画像はAIによる模倣から保護され、出力する画像の品質が劣化することで、追加学習の妨害が可能となるとのこと。
+
+同社は1月に、新たにリリースした「AIお手本機能」をリリース後1日で{target=“_blank”}。「既存のキャラクターが表示された」「アイビスペイントを使って描いたらAIで生成したと思われるのでは」といったユーザーからの反響を受けとめ、実装の中止を決定したという。このたびの「AI学習妨害機能」という同社の施策は、クリエイターの著作権保護に基づく創作活動支援へ舵を切ったと、ユーザーからの反響も大きいという。
+
+なお、この機能は、ibisPaintのプレミアム会員限定で提供され、スマートフォンやタブレット、PC（Windows）版のサブスクリプションユーザーが利用できるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 11 May 2024 14:30:50 +0000</pubDate></item><item><title>OpenAI「Sora」が生み出した初の公式ミュージックビデオ公開</title><link>https://ledge.ai/articles/music_video_produced_using_sora</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2610,28 +2639,4 @@ OpenAIはロサンゼルスの映画スタジオ、メディア幹部、タレ�
 :::box
 
 :::
-</description><pubDate>Sat, 06 Apr 2024 12:29:42 +0000</pubDate></item><item><title>自分の楽曲をAIユニットに歌わせちゃおう！AI歌声ライブラリ「LAUGH DiAMOND」シリーズ　コナミより発売</title><link>https://ledge.ai/articles/konami_laugh_diamond</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-コナミデジタルエンタテインメントは2024年4月1日、AI歌唱エンジンを用いた音声合成ソフト「VoiSona」向けのAI歌声ライブラリ「LAUGH DiAMOND」シリーズを{target=“_blank”}した。
-
-同シリーズは、実在のシンガーの歌声をディープラーニング技術で学習したもので、音声合成ソフト「VoiSona」に歌詞と音符を入力することで楽曲制作が可能だ。
-
-「LAUGH DiAMOND」シリーズの特徴は、声のモデルとなったシンガーの歌声や表現の特徴を忠実に再現し、人間らしい温かみのある歌声を表現できること、また、複数のシンガーとの組み合わせでユニット曲を容易に作成できることにある。これにより、声が混ざり合うことなく、ユニゾンでも美しいハーモニーを奏でることが可能となるという。
-
-ライブで輝くことを夢見るシンガーグループ「LAUGH DiAMOND」の4キャラクター、「山田花音」「風祭朝陽」「篁響季」「小紫桃果」をイメージしており、声のモデルには声優の木戸衣吹さん、熊沢世莉奈さん、鈴木杏奈さん、白河みずなさんが起用されている。これら4名のコメントも公式サイトで公開されている。
-
-発売を記念し、4月27日から28日にかけて千葉・幕張メッセで開催される「ニコニコ超会議2024」に参加予定であり、公式Xアカウントを通じて続報が待たれている。「LAUGH DiAMOND」シリーズの今後の展開にも注目が集まる。
-
-キービジュアルでは、大きな舞台でのライブを夢見て路上ライブをする無名の「LAUGH DiAMOND」が描かれており、持ち歌がない彼女たちが楽曲に飢えている様子が伝えられている。クリエイターには、彼女たちに曲を提供し、夢の舞台に一歩近づけるよう呼びかけている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 05 Apr 2024 13:44:26 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sat, 06 Apr 2024 12:29:42 +0000</pubDate></item></channel></rss>
