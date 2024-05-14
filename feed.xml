@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 13 May 2024 04:25:59 +0000</lastBuildDate><item><title>アルトマン氏「GPT-5でも検索エンジンでもない新しい何か」　OpenAI「Spring Update」ライブ配信　日本時間5/14午前2時スタート</title><link>https://ledge.ai/articles/openai_spring_updates</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 13 May 2024 04:34:24 +0000</lastBuildDate><item><title>オルツとStability AI　生成AIの新たなユースケース開発に向けて連携</title><link>https://ledge.ai/articles/alt_stability-ai_collaborative_research</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社オルツとStability AI Japanは2024年5月8日、音声、画像、映像を利用した生成AIの新たなユースケースの確立に向けての共同研究を開始することを{target=“_blank”}した。研究開発において、両社はそれぞれの技術を融合させ、新しいメディアコンテンツの創出や既存メディアの再構築を目指す。
+
+オルツが保有する深層学習、大規模言語モデル（LLM）などのAI技術と、Stability AIの画像生成技術「Stable Diffusion」を基盤とする生成AI技術が、この共同研究の中核をなす。特にオルツの「LHTM-2」はカスタマイズが可能で、事実に基づく正確な情報提供を目指すAIモデルとして開発されている。一方、Stability AIは、その技術を用いて医療画像解析や衛星画像から違法漁船を検出するなど、社会的な課題解決にも貢献してきたという。
+
+同連携は、日本市場における生成AIの新たな可能性を開拓することに加え、世界市場における技術革新の推進にも寄与することを目指している。両社はこの研究を通じて、AI技術の社会実装を加速させることで、日本からグローバルに向けた新しいユースケースを創出する計画とのことだ。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 13 May 2024 04:34:24 +0000</pubDate></item><item><title>アルトマン氏「GPT-5でも検索エンジンでもない新しい何か」　OpenAI「Spring Update」ライブ配信　日本時間5/14午前2時スタート</title><link>https://ledge.ai/articles/openai_spring_updates</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -299,31 +322,7 @@ AIアシスタントは、Googleの広範なサービスと連携可能で、You
 
 :::
 
-</description><pubDate>Sat, 04 May 2024 11:02:40 +0000</pubDate></item><item><title>ニューヨーク・タイムズに続き米新聞8社が著作権侵害でオープンAIを提訴　</title><link>https://ledge.ai/articles/openai_sued_newspaper_company</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-4月30日、ニューヨーク市のタブロイド紙「デイリー・ニュース」、地方紙「シカゴ・トリビューン」や「オーランド・センチネル」などアメリカの新聞8社が「Chat GPT」を手掛ける生成AI開発企業のオープンAI、同社に出資するマイクロソフトを著作権侵害で提訴したことを{target=“_blank”}した。
-
-具体的な損害賠償額は公表していないが、両社がAIデータ学習のために8社の数百万本もの記事を無許可で利用し著作権侵害をしたと主張。2023年12月には同様の理由で米ニューヨーク・タイムズ（NYT）も2社を提訴しており、コストをかけ取材した内容を対価を支払わず無断で利用していることを問題視している。
-
-一方で英フィナンシャル・タイムズは4月29日にオープンAIと提携することを{target=“_blank”}しており、引用元を明示することを条件にChat GPTによるデータの学習や要約の作成を容認している。
-
-欧州では主要メディアもオープンAIとの提携を決める動きもあり、仏紙ルモンド、{target=“_blank”}もChat GPTの記事データ学習を認めている。生成AIをめぐって企業間で対応が分かれている現状だ。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 02 May 2024 09:56:50 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Sat, 04 May 2024 11:02:40 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
