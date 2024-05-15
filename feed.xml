@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 May 2024 11:50:44 +0000</lastBuildDate><item><title>日本のAI専門組織の設置割合は海外の半分に留まり、1年後さらに差は広がる--ガートナー分析</title><link>https://ledge.ai/articles/gaetner_japans_ai-specific_organizations_are_half_of_those_overseas</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 May 2024 01:34:46 +0000</lastBuildDate><item><title>OpenAIの頭脳 イリヤ・サツケバー氏が退職「意義のある新たなプロジェクトに専念するため」</title><link>https://ledge.ai/articles/Ilya_leaves_openai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月15日、OpenAIは、同社の共同創設者であり、長年にわたりチーフサイエンティストを務めてきたイリヤ・サツケバー氏が退職することを{target=“_blank”}した。サツケバー氏は、個人的に意味のある新プロジェクトに取り組むために同社を去ると述べている。
+
+同社CEOのサム・アルトマン氏はサツケバー氏の退職について「非常に残念だが、彼の決断を尊重する。イリヤは当世代でも随一の才能を持つ科学者であり、親友でもある」と{target=“_blank”}。彼の才能とビジョンがOpenAIを支え、成長させてきたことに感謝の意を表した。
+
+後任のチーフサイエンティストとしてヤクブ・パチョッキ氏が就任することも発表された。パチョッキ氏はこれまで多くの重要プロジェクトを主導し、その業界での評価も高い。アルトマン氏は「ヤクブのリーダーシップの下、AGIが全人類に利益をもたらすという我々の使命に向けて、迅速かつ安全な進展を遂げることに期待している」と述べている。
+
+共同創設者であるグレッグ・ブロックマン氏は、サツケバー氏との共同作業に感謝の意を示しつつ、「OpenAIの今日の姿を築く上で、彼は中心的な役割を果たしてきた。彼の新たな挑戦にも期待している」と{target=“_blank”}。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 15 May 2024 01:34:46 +0000</pubDate></item><item><title>日本のAI専門組織の設置割合は海外の半分に留まり、1年後さらに差は広がる--ガートナー分析</title><link>https://ledge.ai/articles/gaetner_japans_ai-specific_organizations_are_half_of_those_overseas</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -352,28 +375,7 @@ X（旧Twitter）のエンジニアチームが2024年5月3日、新たなニュ
 :::box
 
 :::
-</description><pubDate>Tue, 07 May 2024 14:59:42 +0000</pubDate></item><item><title>Google、モバイルアプリ版 「Gemini」を日本でリリース 従来型Googleアシスタントから置き換え
-</title><link>https://ledge.ai/articles/google_gemini_app</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleは2024年4月30日、次世代AIモデル「Gemini」を搭載したモバイルアプリを日本を含む複数地域でリリースしたことを{target=“_blank”}した。従来のGoogleアシスタントを置き換え、より高度な機能を提供することを目的としている。
-
-「Gemini」は、テキスト、画像、音声、ビデオといった複数のモダリティを統合するマルチモーダルAIで、これまでのAIモデルと比べて大幅な性能向上を実現している​​という。Geminiは、AndroidユーザーはGoogle Playストアから、iOSユーザーはGoogleアプリを通じてアクセス可能で、実際の提供は発表日の約1週間前から開始されていたとのこと。
-
-AIアシスタントは、Googleの広範なサービスと連携可能で、YouTube、Googleマップ、Googleフライト、Googleホテルなどからのリアルタイム情報を活用できる​。Geminiを利用する際は、初回起動時にGoogleアシスタントからの切り替えが求められる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 07 May 2024 07:16:14 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Tue, 07 May 2024 14:59:42 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
