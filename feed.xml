@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 May 2024 05:09:10 +0000</lastBuildDate><item><title>日本のAI専門組織の設置割合は海外の半分に留まり、1年後さらに差は広がる--ガートナー分析</title><link>https://ledge.ai/articles/gaetner_japans_ai-specific_organizations_are_half_of_those_overseas</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 May 2024 11:42:45 +0000</lastBuildDate><item><title>日本のAI専門組織の設置割合は海外の半分に留まり、1年後さらに差は広がる--ガートナー分析</title><link>https://ledge.ai/articles/gaetner_japans_ai-specific_organizations_are_half_of_those_overseas</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1511,7 +1511,40 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>AIでネコを幸せに？ 英ノッティンガム大学の研究「Cat Royale（キャット・ロワイヤル）」が複数の国際賞を受賞</title><link>https://ledge.ai/articles/cat_royale</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>スパコン「富岳」を用いた国産大規模言語モデル「Fugaku-LLM」を公開--東工大・富士通など</title><link>https://ledge.ai/articles/fugaku_lllm_release</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月10日、東京工業大学、東北大学、富士通株式会社、理化学研究所、名古屋大学、株式会社サイバーエージェント、Kotoba Technologies Inc.は、共同で開発した大規模言語モデル「Fugaku-LLM」を{target=“_blank”}した。
+
+このモデルは、スーパーコンピュータ「富岳」を用いて学習され、日本語処理能力に優れるとともに、科学研究やビジネスアプリケーションでの使用が見込まれるという。
+
+日本国内外で大規模言語モデルの開発が進む中、日本の計算資源を活用し国産モデルの開発が進められている。特に「富岳」は、その計算能力を生かし、分散並列計算のための環境を整えることが求められており、2023年5月より、各機関が力を合わせて研究開発を開始した。
+
+Fugaku-LLMは、130億パラメータを有し、国内外のモデルと比較して高い性能を誇る。特に、日本語においてはJapanese MT-Benchで最高性能を達成しており、自然言語処理における敬語などの日本語特有の表現も適切に扱うことができる。また、演算速度を6倍、通信速度を3倍に高速化する技術も開発された。
+
+モデルはGitHubやHugging Faceを通じて誰でもアクセス可能で、研究や商業目的での利用が許可されている。今後、このモデルを基に、更なる効率的な学習方法の開発や、AIと科学シミュレーションの連携など、新たな研究が期待される。
+
+各機関の役割は以下の通り
+**東京工業大学：** プロジェクト全体の総括と通信性能の最適化
+**東北大学：** 学習用データの収集とモデルの選定
+**富士通株式会社：** 演算および通信の高速化
+**理化学研究所：** 分散並列化技術の開発
+**名古屋大学：** AI応用方法の研究
+**株式会社サイバーエージェント：** 学習データの提供
+**Kotoba Technologies Inc.：** 深層学習フレームワークの移植
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 14 May 2024 11:42:45 +0000</pubDate></item><item><title>AIでネコを幸せに？ 英ノッティンガム大学の研究「Cat Royale（キャット・ロワイヤル）」が複数の国際賞を受賞</title><link>https://ledge.ai/articles/cat_royale</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1895,43 +1928,7 @@ NeRFモジュールはシーンの幾何学と視覚的外観を捉え、リア�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Apr 2024 12:36:32 +0000</pubDate></item><item><title>Microsoftのトーキングヘッド生成AI「VASA-1」　1枚の静止画と音声データで、その人物があたかも喋っているような動画を生成</title><link>https://ledge.ai/articles/microsoft_vasa-1</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Microsoft Research Asia は2024年4月16日、AIモデル「VASA-1」が、1枚の静止画と音声データから、その人が話しているかのような動画をリアルタイムで生成する技術を{target=“_blank”}した。
-
-VASA-1は、単一の画像と音声クリップを用いて、話している人物のリップシンクや表情、頭の動きを含むリアルなビデオを作成可能だ。
-
-このAIは、特にリアルタイムアプリケーションにおいてその能力を発揮する。オンラインモードでは、512x512の解像度で最大40fpsのフレームレートを達成し、170ミリ秒の極めて低い遅延で動作する。また、オフラインバッチ処理モードではさらに高速で45fpsを実現するという。
-
-VASA-1は、表情の細かいニュアンスや自然な頭の動きを捉えることができ、話者の感情や意図をよりリアルに伝えるという。さらに、このモデルは外見、3D頭部ポーズ、顔の動きを分離して扱え、高度なカスタマイズを可能にする。
-
-### Controllability of generation
-視線の方向、頭の距離、感情オフセットなどのオプションの信号を条件入力した例
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### Out-of-distribution generalization
-学習分布から外れた写真や音声入力を扱う能力を示す例（芸術的な写真、歌声、英語以外の音声）データはトレーニングセットには存在しないという
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Microsoftは、この技術が誤用されることを防ぐため、製品化やAPIのリリースは行わず、研究デモンストレーションに留める方針だ。この技術の責任ある使用を確実にするため、適切な規制が整うまでオンラインデモや関連する実装の詳細を公開しないと明示している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 26 Apr 2024 13:45:53 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
+</description><pubDate>Sun, 28 Apr 2024 12:36:32 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
