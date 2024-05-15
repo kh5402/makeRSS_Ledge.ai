@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 May 2024 11:42:45 +0000</lastBuildDate><item><title>日本のAI専門組織の設置割合は海外の半分に留まり、1年後さらに差は広がる--ガートナー分析</title><link>https://ledge.ai/articles/gaetner_japans_ai-specific_organizations_are_half_of_those_overseas</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 14 May 2024 11:50:44 +0000</lastBuildDate><item><title>日本のAI専門組織の設置割合は海外の半分に留まり、1年後さらに差は広がる--ガートナー分析</title><link>https://ledge.ai/articles/gaetner_japans_ai-specific_organizations_are_half_of_those_overseas</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1928,7 +1928,40 @@ NeRFモジュールはシーンの幾何学と視覚的外観を捉え、リア�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Apr 2024 12:36:32 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
+</description><pubDate>Sun, 28 Apr 2024 12:36:32 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+コニカミノルタジャパンは2024年5月7日、学校教育向けソリューション「tomoLinks®（トモリンクス）」の新機能として、対話型生成AI機能を提供すると{target=“_blank”}した。同機能は2024年9月から大阪市立小中学校の一部で先行利用が開始される。
+
+教育現場でのAI導入の背景には、教育データの活用が深く関連している。近年、教育現場では情報技術の活用が進められており、特に学力調査データや学習支援システムのデータが豊富に蓄積されている。しかし、既存の対話型生成AIはインターネット上の情報に基づいて回答を生成するため、学校教育においては必ずしも適切な内容を提供できないという課題があった。これに対応するため、コニカミノルタジャパンは、教育内容に特化したデータを使用して安全で質の高い対話型学習支援を目指す「tomoLinks」を開発したとのこと。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+tomoLinksは、自治体や学校が保有する学力調査データや教育関連のビッグデータを基に、子どもたちの学力の経年変化や得意・不得意な単元を分析し、その結果に基づき子どもの特性に合わせた個別の対話を提供することで、個別最適な学びを支援することを目的としている。また、教材や学習指導要領などのデータを設定した対話型生成AIにより、有害なキーワードや不適切な回答を避け、子どもたちに安全で安心な学習環境を提供するという。
+
+この取り組みにおいて、大阪市教育委員会とコニカミノルタ及びコニカミノルタジャパンは、教育データの利活用を強化し、教育行政に資する相互の連携及び協力に関する協定を締結した。この協定は、AIを活用した児童生徒の多様な学び等の可能性を探ることを目的としている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 14 May 2024 11:50:44 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2252,49 +2285,7 @@ AI技術を利用して、ターゲットの選定や攻撃の実行など特定
 :::box
 
 :::
-</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>米バイデン政権　連邦政府機関のAI利用の包括的指針を発表　AI利用のリスクから国民を保護する措置を義務付け</title><link>https://ledge.ai/articles/omb_policy_in_federal_agencies_use_of_ai</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-米国行政管理予算局（OMB）は2024年3月28日、連邦政府機関がAIを利用する際に、リスクを緩和し、その利益を最大化することを目的とした指針を示す文書を[発表](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-vice-president-harris-announces-omb-policy-to-advance-governance-innovation-and-risk-management-in-federal-agencies-use-of-artificial-intelligence/
-){target=“_blank”}した。この指標は、2023年10月にバイデン大統領が署名した、安全で信頼性あるAI開発管理方針示す{target=“_blank”}に基づくものだ。
-
-この指針文書では、特にリスク管理、透明性の向上、イノベーションの推進、人材拡充、ガバナンス強化の五つの主要な領域に焦点を当てている。
-
-### ■リスク管理
-連邦政府機関が米国民の権利や安全に影響を与える可能性のあるAIを使用する場合、2024年12月1日までに、アルゴリズムによる差別を防ぐなどの具体的なセーフガード措置を講じることを義務付けた。これには、空港の顔認証システムや連邦政府系病院の診断システムが含まれる。これらの保護措置を適用できない場合、AIシステムの使用を原則中止するとのこと。
-
-具体的なケースとしては、
-・空港で旅行者は、TSAの顔認識の使用からオプトアウトでき、列での位置を失うことなく遅延なく続行できる。
-・連邦ヘルスケアシステムでAIが重要な診断決定を支援するために使用される場合、ツールの結果を検証し、医療アクセスの不平等を避けるために人間がプロセスを監視している。
-などを挙げた。
-
-### ■透明性の向上
-連邦政府機関がAIの使用に関して一層の透明性を確保することが要求されている。公衆の権利や安全に影響を与える使用ケースを特定し、関連するリスクにどのように対処しているかを一覧に含め年次報告する。
-
-### ■イノベーションの推進
-気候変動対策、自然災害対応、公衆衛生の向上、公共交通機関の安全性向上など、AIを責任ある形で活用することが奨励されている。
-
-### ■人材拡充
-AI専門人材を連邦政府機関全体で新たに100人雇用する計画が立てられており、これには2024年4月のキャリアフェアの開催も含まれる。
-
-### ■ガバナンス強化
-各連邦政府機関がAIの使用に関する説明責任、リーダーシップ、監督を担保するために最高AI責任者を配置し、AIの使用を調整・管理するためのAIガバナンス委員会の設置が求められている。
-
-
-ハリス副大統領は、これらの施策が世界的な行動のモデルになることを目指しており、AIの責任ある開発と利用に向けた国際基準の策定において、米国がリードすることを強調した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 04 Apr 2024 01:00:24 +0000</pubDate></item><item><title>アイビスペイント「AI学習妨害機能」追加　イラスト保護のため妨害ノイズ付与し、無断学習からの生成結果を劣化させる</title><link>https://ledge.ai/articles/ibispaint_ai_learning_interference</link><description>:::small
+</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>アイビスペイント「AI学習妨害機能」追加　イラスト保護のため妨害ノイズ付与し、無断学習からの生成結果を劣化させる</title><link>https://ledge.ai/articles/ibispaint_ai_learning_interference</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
