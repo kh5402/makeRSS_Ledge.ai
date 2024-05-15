@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 May 2024 01:34:46 +0000</lastBuildDate><item><title>OpenAIの頭脳 イリヤ・サツケバー氏が退職「意義のある新たなプロジェクトに専念するため」</title><link>https://ledge.ai/articles/Ilya_leaves_openai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 May 2024 07:20:03 +0000</lastBuildDate><item><title>Google I/O 2024 開催 「Gemini 新時代の幕開け」を謳う　AI一色の開発者会議</title><link>https://ledge.ai/articles/google_io_2024_the_gemini_era</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Googleは2024年5月14日、年次開発者会議「Google I/O 2024」を{target=“_blank”}した。今年の会議は「The Gemini Era」と題され、ほぼ全てのセッションでAI技術を中心としたテーマとなり、特に「Gemini」シリーズの最新の進化に注目が集まった。
+
+基調講演では、CEOのスンダー・ピチャイ氏が登壇し、AI技術の進化と社会への影響について強調した。
+
+@
+
+## 生成AI「Gemini」の進化
+Geminiモデルは発表以来、その高いパフォーマンスで多くのベンチマークをクリアしてきた。特にGemini 1.5 Proは、100万トークンの長いコンテキストを実現し、これまでの大規模言語モデル（LLM）を上回る能力を持つ。現在、1.5万人以上の開発者がこのモデルを利用し、コードのデバッグから新しい洞察の獲得、次世代AIアプリケーションの構築に至るまで、幅広い用途で活用されているという。
+
+Gemini 1.5 Proのアップデートが発表され、翻訳、コーディング、推論能力が向上。さらに、新モデル「Gemini 1.5 Flash」が導入され、高速で効率的なサービス提供が可能となる。
+
+## Google検索の「AI Overview」
+旧称「Search Generative Experience」の改良版で、より深いマルチステップリーゾニングを可能にする新機能が導入された。これにより、ユーザーは複雑なクエリに対しても、一度の質問で包括的な回答を得られるようになる。プレゼンターのエリザベス・リード氏は、2024年3月の組織改編で検索部門の新たな{target=“_blank”}し、Googleが検索における生成AIの統合を推進していた。
+
+Google検索では、これまでに数十億ものクエリに回答し、新たな検索体験を提供している。この「Search Generative Experience」は、従来よりも複雑で長いクエリへの対応が可能であり、写真を用いた検索も行えるようになった。今週から米国で「AI Overviews」が全面展開され、他国への展開も予定されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## Googleフォトの「Ask Photos with Gemini」
+ユーザーが写真に関して質問すると、Geminiが解析し関連する写真を提示する新機能。例えば、特定のイベントや物体が写った写真を簡単に見つけ出せるようになるという。
+
+ユーザーは直感的に写真を検索し、特定の記憶にアクセスできるようになった。例えば、車のナンバープレートを忘れた時には、Googleフォトが頻繁に登場する自車を識別し、ナンバープレートを教えてくれる。さらに、子供の成長記録や特定の出来事を問うなど。Geminiは異なるコンテキストを認識して、一連の情報をまとめて提供するという。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+## 新モデル「Gemma 2」と「PaliGemma」
+ Gemmaシリーズに追加される新モデル。PaliGemmaは画像キャプションや視覚的Q&amp;Aに特化している。
+
+## 日常生活に役立つエージェント「Project Astra」
+Google DeepMindのデミス・ハサビスCEOが紹介したこのプロジェクトは、リアルタイムのマルチモーダルAIアシスタントを目指す。リアルタイムのマルチモーダルAIアシスタントとして、ユーザーの行動をアシストする。例えば、失われた物を見つける手助けをする。
+
+@
+
+
+
+
+
+## 開発者は100万トークンコンテキストウィンドウをどのように使用しているか
+@
+
+
+
+この会議では、200万トークンへの拡張も発表された。開発者に対してプライベートプレビューで提供される予定だという。これにより、さらに多くの情報を扱う能力が拡張され、開発者は新たな可能性を追求できるようになる。
+
+さらに、Gemini 1.5 ProのWorkspaceへの統合によって、Gmailのような日常的なアプリケーションがよりインテリジェントになり、ユーザーのニーズに応じて情報を要約し、重要なポイントを提供する。このような機能は、特にビジネス環境において、生産性の向上と効率性の改善をもたらす。
+
+この他にも、生成AIを支える新世代のハードウェアや、音楽生成AI「Music AI Sandbox」、画像生成AI「Imagen 3」の進化など、多岐にわたるAI技術の発表が行われた。これらの進化は、Googleが如何にAI技術の発展に注力しているかを示し、開発者や消費者に新たな価値を提供し続けることを約束した。
+
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Wed, 15 May 2024 07:20:03 +0000</pubDate></item><item><title>OpenAIの頭脳 イリヤ・サツケバー氏が退職「意義のある新たなプロジェクトに専念するため」</title><link>https://ledge.ai/articles/Ilya_leaves_openai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -352,30 +418,7 @@ Wayveは2017年に設立され、公道でのエンドツーエンドのディ�
 :::box
 
 :::
-</description><pubDate>Tue, 07 May 2024 07:00:30 +0000</pubDate></item><item><title>Xに生成AI「Grok」によるニュース要約機能「ストーリーズ」を一部有料会員向けに導入</title><link>https://ledge.ai/articles/stories_on_x</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-👀 Now available: Stories on X, powered by Grok AI 👀 （ Grok AI を搭載した Stories on X が利用可能になりました）
-
-X（旧Twitter）のエンジニアチームが2024年5月3日、新たなニュース要約機能「ストーリーズ」を{target=“_blank”}した。
-
-このサービスは「Grok AI」というAIチャットボットを活用したニュース要約機能で、一部有料会員がExplore（探索）タブからアクセスできる。現時点ではWebとiOSアプリでのみ利用可能だ。
-
-ストーリーズでは、Grok AIが世界中の注目されているトレンドニュースを選択し、ユーザー向けに要約。その要約から独自のヘッドラインを生成する能力を持つという。
-
-イーロンマスク氏率いる開発会社「xAI」が開発したAI「Grok」は、長文を読解し、複雑な問いに対応する先進的な機能を備えている。最大128Kトークンの文脈を処理でき、情報の検索と取得において高精度な結果を示している​と同社はいう。
-
-この新機能の提供は、まずは米国内のプレミアムプラス会員を対象に開始され、その後、他の地域のプレミアム会員へと拡大される予定だという。Xのエンジニアリングチームは、ユーザーからのフィードバックを求めており、サービスの改善に努めている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 07 May 2024 14:59:42 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Tue, 07 May 2024 07:00:30 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
