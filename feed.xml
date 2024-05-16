@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 May 2024 15:14:59 +0000</lastBuildDate><item><title>生成AIによる服装リアルタイムデザインを実現するツール「LOOK」深センのAIスタートアップが発表</title><link>https://ledge.ai/articles/ai_fashion_design_tool</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 May 2024 15:21:49 +0000</lastBuildDate><item><title>プリファードロボティクス、自律移動ロボット「カチャカ」向け新ソフトウェア「カチャカボタンハブ」をオープンソースで公開</title><link>https://ledge.ai/articles/preferred_roboticcs_kachaka_button_hub</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+プリファードロボティクスは2024年5月9日、自社の自律移動ロボット「カチャカ」及び「カチャカプロ」の操作性を大幅に向上させる新ソフトウェア「カチャカボタンハブ」をオープンソースとして公開したことを{target=“_blank”}した。このハブを通じて、自律移動ロボット「カチャカ」をボタン一つで簡単に操作できるようになる。
+
+
+@
+
+
+
+
+「カチャカボタンハブ」は、ユーザーがロボットへの指示をボタン一つで簡単に出せるよう設計されており、日常生活や業務でよく使用される機能に特化している。同ソフトウェアは、市販のマイコンモジュール「M5Stack」にインストール可能で、ボタンビーコンなどの通信信号を発信するデバイスを通じて、ロボットを指定の場所まで動かすことができる。このプロセスにより、専用家具とのドッキングや、指定の場所への運搬が簡単に実行可能となる。
+
+同社によると、このソフトウェアの公開は、利用者からの直接的なフィードバックを受けて行われた。カチャカとカチャカプロは、一般家庭だけでなく、飲食店や歯科医院、工場など多岐にわたる業界で導入が進んでいる。これらの場では、ロボットに対する指示が頻繁にあり、より迅速かつ簡単な操作が求められていた。
+
+株式会社Preferred Roboticsは、2015年に設立され、AI技術を駆使した自律移動ロボットの研究、開発、製造、販売を行う企業である。同社は、ロボット技術の普及とともに、「すべての人にロボットを」というビジョンを掲げ、利用者の生活をより便利で快適にすることを目指している。今回の「カチャカボタンハブ」の公開も、その一環として位置づけられる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このソフトウェアは、GitHubを通じて一般に公開されており、自由にダウンロードし利用することができる。ただし、ハードウェアの設置やソフトウェアのインストールにはある程度の技術的な知識が必要となる。
+
+カチャカは以前から音声コマンドやスマートフォンアプリによる操作が可能であったが、カチャカボタンハブの導入により、利用者は更に簡単にロボットを操作できるようになる。これにより、日常生活や業務においてカチャカの利便性がさらに向上することが期待されるという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 15 May 2024 15:21:49 +0000</pubDate></item><item><title>生成AIによる服装リアルタイムデザインを実現するツール「LOOK」深センのAIスタートアップが発表</title><link>https://ledge.ai/articles/ai_fashion_design_tool</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -422,34 +460,7 @@ Llama 3 Youko 8Bは、日本語と英語の大規模データセットにより�
 
 :::
 
-</description><pubDate>Sat, 11 May 2024 08:17:55 +0000</pubDate></item><item><title>英AIスタートアップ Wayve　ソフトバンク主導で約1,600億円を調達　「運転のための GPT」が自律型モビリティ再構築を加速</title><link>https://ledge.ai/articles/wayve_led_by_softbank_raises_10-5b</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-英国のAIスタートアップ企業「Wayve」は2024年5月7日、シリーズCの投資ラウンドで10億5000万ドル（約1600億円）を調達したと{target=“_blank”}した。
-
-この資金調達は、ソフトバンクグループが主導し、新規投資家としてNVIDIAが、既存の投資家であるマイクロソフトも出資した。この資金は、エンボディドAIを通じて自律型モビリティの再構築を加速するために使用される。
-
-「エンボディドAI（Embodied AI）」とは、車両やロボットに高度なAIを統合し、実世界の環境で人間の行動を理解し学ぶ新しい方法を提供する技術である。これにより、予測不能なドライバーや歩行者の行動など、厳密なルールに従わない状況での自動運転システムの使い勝手と安全性が向上する。
-
-Wayveの共同創設者兼CEOであるAlex Kendall氏は、エンボディドAIの可能性について以下のように説明している。
-「エンボディドAIは、物理的な世界にAIの驚異的な影響をもたらすことを可能にする。私たちの生活に最も重要な相互作用が行われるのは、この物理的な世界であり、私たちの技術がこれを強化することにより、日常生活に革命をもたらすだろう。」
-
-Wayveは2017年に設立され、公道でのエンドツーエンドのディープラーニング自動運転システムを開発・試験した最初の企業として、この分野の先駆者となる。2023年9月には、既存の自動運転ソフトウェアと大規模言語モデル（LLM）を組み合わせた{target=“_blank”}している。
-
-現在、同社は、あらゆる車両があらゆる環境を見て、考え、運転できるようにする「運転のための GPT」に似た自律性の基礎モデルを構築しているとのこと。
-
-この投資により、Wayveは生産車両向けの最初のエンボディドAI製品の開発と市場投入を行えるようになる。同社のAIモデルが進化するにつれ、これらの製品はOEM（自動車メーカー）が車をL2+アシスト運転からL4自動運転へと効率良くアップグレードできるようになると同社は述べている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 09 May 2024 13:03:46 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Sat, 11 May 2024 08:17:55 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
