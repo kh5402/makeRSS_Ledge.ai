@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 May 2024 07:20:03 +0000</lastBuildDate><item><title>Google I/O 2024 開催 「Gemini 新時代の幕開け」を謳う　AI一色の開発者会議</title><link>https://ledge.ai/articles/google_io_2024_the_gemini_era</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 May 2024 07:20:03 +0000</lastBuildDate><item><title>生成AIによる服装リアルタイムデザインを実現するツール「LOOK」深センのAIスタートアップが発表</title><link>https://ledge.ai/articles/ai_fashion_design_tool</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+中国深セン市に本拠を置く新興AIテック企業「基本操作科技」は、生成AIを活用した服装デザインツール「Look」を{target=“_blank”}した。このツールは、ファッションデザインのプロセスを効率的かつ創造的に変革することを目指している。
+
+## 主な機能
+**リアルタイムデザイン変換：** デザイナーのスケッチを、LOOKの生成AI技術によって瞬時に詳細なデザイン画像へ変換する。これにより、アイデアの即時視覚化が可能となり、デザインの過程が飛躍的に速くなる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+**細部の精密調整：** LOOKのプラットフォームでは、デザインの微調整が細かく行えるため、デザイナーは最終的な製品を自分のビジョン通りに仕上げることができる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+**モデル試着：** バーチャルモデルを使用してデザインされた服を試着し、異なる体型やスタイルでの見え方を確認することができる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+**動的試着：** AIを利用して生成された動画を通じて、実際の動作中の衣服の流れやフィット感を評価できる。これにより、実際に衣服を生産する前にその機能性や外観を完全に理解することが可能となる。
+
+
+LOOK AIはプロクリエイト（Procreate）との互換性も持ち、Photoshopへの対応も計画されている。これにより、デザイナーは既存のツールを活用しながら、LOOKの高度なAI機能を組み合わせることが可能となる。
+
+同社は、この技術がデザインのプロセスを大幅に簡素化し、デザインの品質を向上させることで、ファッション業界に新たな標準をもたらす可能性があるという。また、生産前のデザインの調整にかかる時間とコストの削減、そして持続可能なファッション制作へ貢献するとしている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 14 May 2024 14:44:56 +0000</pubDate></item><item><title>Google I/O 2024 開催 「Gemini 新時代の幕開け」を謳う　AI一色の開発者会議</title><link>https://ledge.ai/articles/google_io_2024_the_gemini_era</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -401,24 +449,7 @@ Wayveは2017年に設立され、公道でのエンドツーエンドのディ�
 :::box
 
 :::
-</description><pubDate>Thu, 09 May 2024 13:03:46 +0000</pubDate></item><item><title>ウォーレン・バフェット氏「AIは、ボトルから解き放たれたジニー」バークシャー・ハザウェイ株主総会でAI悪用に懸念</title><link>https://ledge.ai/articles/warren_buffett2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年5月4日、米国オマハで開催されたバークシャー・ハザウェイの株主総会で、同社のCEOであるウォーレン・バフェット氏は、AIの悪用について自身の見解を述べた。AI技術の比喩として「ボトルから解き放たれたジニー」という表現を使用し、その潜在的な危険性について{target=“_blank”}。
-
-バフェット氏はAIについて詳しい知識は持っていないとしながらも、この技術が持つ影響の大きさを認識している。特に、AIが生成する偽のビデオや音声による詐欺の可能性について言及し、自分自身が体験した偽ビデオの例を挙げて警告した。このビデオでは、自身が認識できないほど精巧に偽装された自分の姿が映し出され、完全に信じ込めるレベルで再現されていたという。
-
-同氏はさらにAIの良い面と悪い面が共存することを強調し、技術の発展がもたらす倫理的なジレンマについて考察を深める必要があると訴えた。また、過去に核兵器の開発を例に出し、一度解き放たれた技術が如何に人類の未来に大きな影響を与えるかを語った。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 07 May 2024 07:00:30 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Thu, 09 May 2024 13:03:46 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
