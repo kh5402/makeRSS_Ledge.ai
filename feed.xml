@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 15 May 2024 15:21:49 +0000</lastBuildDate><item><title>プリファードロボティクス、自律移動ロボット「カチャカ」向け新ソフトウェア「カチャカボタンハブ」をオープンソースで公開</title><link>https://ledge.ai/articles/preferred_roboticcs_kachaka_button_hub</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 May 2024 13:05:28 +0000</lastBuildDate><item><title>プリファードロボティクス、自律移動ロボット「カチャカ」向け新ソフトウェア「カチャカボタンハブ」をオープンソースで公開</title><link>https://ledge.ai/articles/preferred_roboticcs_kachaka_button_hub</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1598,7 +1598,36 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>スパコン「富岳」を用いた国産大規模言語モデル「Fugaku-LLM」を公開--東工大・富士通など</title><link>https://ledge.ai/articles/fugaku_lllm_release</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>AIが互いに教え合い連携して学習するオープンソースLLM「WizardLM-2」を開発者が公開　Microsoftからの発表は「待った」</title><link>https://ledge.ai/articles/wizardlm2</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年4月15日、AIがお互いに教え合うことで連携して学習する新たなオープンソースの大規模言語モデル「WizardLM-2」を{target=“_blank”}した。論文は未公開だが、開発者のX（旧Twitter）で内容の一部が{target=“_blank”}されている。発表当初は、HggingFaceのMicrosoftコレクションからアクセス可能だったが、数日後削除された。開発者によると、発表前に必要であった毒性テスト（toxicity testing）のプロセスが抜けていたとのことで、近日中に再リリースの予定であるとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+### モデルの特徴と開発背景
+{target=“_blank”}の情報によると「WizardLM-2」は、Microsoftが新たに開発した大規模言語モデルで、8x22B、70B、7Bの3つのバリエーションが含まれている。これらのモデルは、「AI Align AI」（AAA）というフレームワークを通じて互いに教え合うことで、連携して学習する能力を持っている。この技術により、モデルは独自にデータを生成し、それを利用してさらに学習を進めることができるため、連続的かつ効率的な学習プロセスが実現される​という。
+
+### 性能と評価
+同モデルは、複雑な対話、多言語処理、高度な推論タスクにおいて顕著な性能を発揮してるという。特に「WizardLM-2 8x22B」は、オープンソースモデルの中で最も高い性能を持つと評価されており、人間によるブラインドテストや、複数のベンチマークテストにより、プロプライエタリモデルと競合するレベルにあるとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 16 May 2024 13:05:28 +0000</pubDate></item><item><title>スパコン「富岳」を用いた国産大規模言語モデル「Fugaku-LLM」を公開--東工大・富士通など</title><link>https://ledge.ai/articles/fugaku_lllm_release</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1986,36 +2015,7 @@ NeRFモジュールはシーンの幾何学と視覚的外観を捉え、リア�
 :::box
 
 :::
-</description><pubDate>Sat, 04 May 2024 16:01:24 +0000</pubDate></item><item><title>オルツが数兆パラメータ規模の大規模言語モデル構築に着手</title><link>https://ledge.ai/articles/alts_begins_building_llm_with_trillions_of_parameters</link><description>:::small
-画像の出典：[オルツ](https://alt.ai/news/news-2710/{target=“_blank”}
-:::
-
-オルツは2024年4月26日、数兆パラメータ超規模の大規模言語モデル（LLM）の開発に着手したことを{target=“_blank”}した。同社の約10年間にわたる自然言語処理を含むAI技術の研究開発の集大成であり、ビジネスシーンや日常生活における実用的な応用を目指しているという。
-
-オルツは、高いパフォーマンスを実現しつつも、スピードとコストの効率を重視したモデル開発を進めている。開発される言語モデルは、エンドユーザーが直面する具体的な問題解決を念頭に置いた設計が施されており、実運用時の計算効率とコストパフォーマンスに優れていることが求められる。
-
-オルツの新LLMは、特に日本語処理の精度向上に特化しており、既存のモデルを超える使いやすさとカスタマイズ性の実現を目標にしているという。これには、高品質な学習データの確保と効率的なデータ管理が重要となり、エネルギー消費の観点からも、データセンターの地理的分散化やエッジコンピューティングの利用が進められている。
-
-### 技術革新に向けた多角的アプローチ
-オルツは、LLM開発を通じて以下のような技術革新を推進しているという
-- 学習データの大規模構築
-- インストラクションデータの構築と自動化
-- プロンプトエンジニアリングの自動化
-- 既存モデルの改良を可能にする生涯学習の研究加速
-- 軽量モデルによる大規模モデル同様の出力再現の研究加速
-- LLM特化チップ（TPU, LPU, NPU）の研究開発
-
-この取り組みを通じ、国内外のパートナーとの連携を積極的に推進し、グローバル市場での競争力を高めるとともに、日本発の技術革新を世界に示していく意向だという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Apr 2024 12:36:32 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
+</description><pubDate>Sat, 04 May 2024 16:01:24 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
