@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 May 2024 13:05:28 +0000</lastBuildDate><item><title>プリファードロボティクス、自律移動ロボット「カチャカ」向け新ソフトウェア「カチャカボタンハブ」をオープンソースで公開</title><link>https://ledge.ai/articles/preferred_roboticcs_kachaka_button_hub</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 May 2024 14:07:16 +0000</lastBuildDate><item><title>ZOZOアプリ「WEAR」リニューアル　AI活用でファッションやメイクの「似合う」スタイルを提案する新機能</title><link>https://ledge.ai/articles/zozo_wear_app</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ZOZOは2024年5月9日、同社が運営するファッションコーディネートアプリ「WEAR」を「WEAR by ZOZO」としてリニューアルし、AIを活用した新機能を導入したことを{target=“_blank”}した。リニューアルにより、ファッションの個別の好みを数値化し、ユーザーに最適な「似合う」スタイルを提案することを目的としている。
+
+### ファッションジャンル診断
+ユーザーはアプリを起動後、好きなコーディネート画像を選択し、AIがこれを分析してファッションジャンルの傾向を診断する。この診断には、12のファッションジャンルがあり、ユーザーの好みを反映した円グラフで表示される。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+### WEARお試しメイク
+AR技術を利用して、ユーザーが自身のメイクをデジタルデータとしてアプリ上に登録し、他のユーザーがそのメイクを自分の顔にARで試すことができる。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+このリニューアルは、「MORE FASHION × FASHION TECH」という経営戦略の一環で、技術を活用してファッション業界での新たな体験を提供することを目指している。ZOZOTOWNとWEARのシームレスな連携により、ユーザーは購入したアイテムの着回し提案を受けられるため、新たなファッションアイテムの購入につながることが期待されるという。
+
+また、WEARはコーディネートだけでなく、メイクの提案も可能になり、ファッション情報の一元化が進んでいる。ユーザーは自分のスタイルに合ったコスメアイテムも同アプリ内で探し、購入が可能だ。また、WEAR公認のファッショニスタやショップスタッフによるリアルなコーディネートの提案が、ファッションの最新トレンドを学ぶ手助けとなっているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 16 May 2024 14:07:16 +0000</pubDate></item><item><title>プリファードロボティクス、自律移動ロボット「カチャカ」向け新ソフトウェア「カチャカボタンハブ」をオープンソースで公開</title><link>https://ledge.ai/articles/preferred_roboticcs_kachaka_button_hub</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -421,46 +459,7 @@ Llama 3 Youko 8Bは、日本語と英語の大規模データセットにより�
 :::box
 
 :::
-</description><pubDate>Sat, 11 May 2024 14:35:40 +0000</pubDate></item><item><title>国産AIによる同時通訳技術開発進む　2025年大阪万博での活用ほか、国際会議想定</title><link>https://ledge.ai/articles/simultaneous_interpretation_by_domestic_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-情報通信研究機構（NICT）が、2025年大阪・関西万博での活用を見据え、自然な会話の流れで同時通訳が可能な国産AIの開発を進めていると2024年5月8日に読売新聞などが{target=“_blank”}。
-
-このAIは英語、日本語、中国語、韓国語、フランス語など複数言語に対応予定で、通訳者が話者の発言の途中から翻訳を始める従来の手法と比べ、作業の負担を大幅に軽減することを目指している。現在、日本国内で活動している日本語と英語の熟練同時通訳者は数百人に限られており、その負担は非常に大きいという。
-
-政府は、2030年頃までにこの国産AIを機密性の高い情報を扱う国際交渉での使用も想定しており、経済安全保障の観点からも国産技術の確立が求められている。さらに、NICTはこの技術をさらに発展させ、裁判や医療現場など様々な分野での応用も目指しているとのこと。{target=“_blank”}
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-このAIを技術面でサポートするのは、Toppanホールディングスのグループ会社。同社は、万博での活用が予定されている多言語同時通訳配信システムの実証実験を行うなどの開発に取り組んできた。{target=“_blank”}は「SEMICON Japan」で行われ、登壇者の発話をリアルタイムでテキスト化し、多言語に翻訳するシステムが試されたとのこと。このシステムは、大型スクリーンや参加者のスマートフォンに字幕として翻訳結果を表示することが可能だという。
-
-また同社は2月29日に総務省の委託研究として、自動同時通訳が利用されるデバイス・シーンに応じた最適なレイアウトやシステム設計のUIを{target=“_blank”}。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sat, 11 May 2024 08:17:55 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Sat, 11 May 2024 14:35:40 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
