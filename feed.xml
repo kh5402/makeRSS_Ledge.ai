@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 May 2024 14:07:16 +0000</lastBuildDate><item><title>ZOZOアプリ「WEAR」リニューアル　AI活用でファッションやメイクの「似合う」スタイルを提案する新機能</title><link>https://ledge.ai/articles/zozo_wear_app</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 May 2024 14:09:27 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Terra Drone株式会社は2024年5月8日、九州電力送配電株式会社と協力して、AI搭載ドローンによる自動鉄塔点検システムを九州エリアの約15,000基の鉄塔に適用拡大したことを{target=“_blank”}した。このシステムは、点検作業を自動化し、時間短縮を実現するものだという。
+
+送電鉄塔は、自然界の影響を常に受ける重要なインフラで、安定した電力供給を維持するためには定期的な点検が必須となる。従来の点検方法では、ドローンを手動で操作し、22万ボルト級の鉄塔1基あたり約110分を要していた。新システムは、鉄塔の形状に応じて自動でドローンの飛行経路を生成し、AIが劣化状況を確認する「がいし」を自動検出する。これにより、ドローンの飛行、カメラの調整と撮影を自動で行い、操縦者の手動操作が不要となる。
+
+システムの導入により、操縦者と監視者の2名体制で、22万ボルト級の鉄塔点検が1基あたり約60分で完了し、従来と比べて点検時間は約50%削減された。これにより、鉄塔点検作業の効率化が図られ、人件費の削減及び作業の安全性が向上する。
+
+近年のインフラの老朽化と人手不足の問題を背景に、本システムは先端技術を導入し、効率化を実現。今後は特殊な形状の鉄塔への適用やドローン飛行の法規制緩和が進むことにより、全国各地の鉄塔への展開が期待される。また、同社はこの技術革新を通じて、引き続きインフラの保全に貢献する方針だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 16 May 2024 14:09:27 +0000</pubDate></item><item><title>ZOZOアプリ「WEAR」リニューアル　AI活用でファッションやメイクの「似合う」スタイルを提案する新機能</title><link>https://ledge.ai/articles/zozo_wear_app</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -432,34 +454,7 @@ Jump Ahead機能は、動画内でユーザーがダブルタップすると現�
 
 :::
 
-</description><pubDate>Sun, 12 May 2024 11:03:52 +0000</pubDate></item><item><title>rinna　日本語特化型AIモデル「Llama 3 Youko 8B」をリリース　Llama3の高いテキスト生成能力を日本語にいち早く導入</title><link>https://ledge.ai/articles/rinna_llama3_youko_8b</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年5月7日、rinna株式会社は、Metaの言語モデル「Llama 3 8B」を基に、日本語のデータで継続的に事前学習を施した新AIモデル「Llama 3 Youko 8B」を{target=“_blank”}した。モデルの名称「 Youko：妖狐（ようこ）」は、日本の伝統的な妖怪に由来する。
-
-Llama 3 Youko 8Bは、日本語と英語の大規模データセットによりトレーニングされており、特に日本語における処理能力が向上しているという。80億パラメータを有するLlama 3 8Bモデルに基づき、約220億トークンの学習データを使用しており、そのうち日本語のデータが大部分を占める。
-
-モデルの日本語処理能力は、公式のベンチマークによると、基礎モデルと比較して顕著な改善が見られ、特定のタスクにおいてはその効果が更に顕著に見られるとのこと。
-
-下図は同社の公開しているベンチマークのスコア。Metaの同サイズモデルLlama3 8bなどと比較できる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社はこの新モデルをMeta Llama 3 Community Licenseの下で公開しており、開発者は自由にアクセスして使用できるという。また、モデルの効果を最大限に発揮するため、目的に応じたファインチューニングを行うことを推奨している。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 11 May 2024 14:35:40 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Sun, 12 May 2024 11:03:52 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
