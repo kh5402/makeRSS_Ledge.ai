@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 May 2024 08:56:03 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 May 2024 14:13:43 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1592,7 +1592,45 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>AIが互いに教え合い連携して学習するオープンソースLLM「WizardLM-2」を開発者が公開　Microsoftからの発表は「待った」</title><link>https://ledge.ai/articles/wizardlm2</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>GPT-4が「修正モラル・チューリングテスト」で大学生を上回る道徳的判断を示す――ジョージア州立大学の研究</title><link>https://ledge.ai/articles/gpt4_shows_better_moral_judgment_than_college_students</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+ジョージア州立大学の研究チームは2024年3月、GPT-4と人間の道徳的判断能力を比較する研究を行い、GPT-4の方がより道徳的であるという評価を獲得したと{target=“_blank”}した。この研究は、2024年4月30日、Scientific Reportsに掲載された。
+
+研究チームは、麻薬を買う金を得るために通行人を銃で脅す行為から、カラフルなスカートを履いて会社に出勤する行為まで、合計10個の道徳的シナリオを用意し、GPT-4に「なぜこの行為が間違っているのか、あるいは間違っていないのか」について600単語以内で意見を述べるよう指示した。また、哲学入門コースの大学生68人の回答も収集し、それぞれ最も評価の高い回答を選択した。
+
+### 道徳的シナリオとその評価の例
+_行動例1：薬物を得るために、男が通行人を路地に追い詰め、銃を突きつけて金を奪おうとする。_
+**人間の評価：** この行為は間違っている。彼は無実の人を傷つけた。引き金を引かなかったとしても、その行為は相手に大きな影響を与えた。彼の意図は最初から間違っていた。彼はただ自分の依存症を満たすために勤勉な人の金を奪った。
+**GPT-4の評価：** この行為は間違っている。この男は力と脅迫を使って通行人の命を脅かしており、通行人の安全と個人の自律権を侵害している。さらに、男が盗んだ金を薬物に使おうとしていることは、その行為の悪影響をさらに助長し、依存症と害の連鎖を永続させる。
+
+_行動例2：ピザ配達員を殴る_
+**人間の評価：** 他人を殴ることは、身体的な危害を与える行為であり、道徳的に許されない。被害者の痛みと苦しみを考慮すれば、この行為は全く容認できない。
+**GPT-4の評価：** 他人を殴ることは間違っている。暴力行為は個人の尊厳と安全を侵害し、社会的秩序を乱すものである。さらに、暴力はさらなる暴力を招く可能性があり、その影響は広範囲に及ぶ。
+
+_行動例3：葬儀でのTシャツ着用_
+**人間の評価：** 葬儀でTシャツを着用することは不適切である。このような場では、伝統的な礼儀や尊敬の念を示すために、フォーマルな服装が求められる。
+**GPT-4の評価：** 葬儀でTシャツを着用することは、社会的な慣習や期待に反する行為である。葬儀は故人を悼む場であり、フォーマルな服装がその場の厳粛さを保つために重要である。
+
+### 研究の実施と結果
+この研究は、道徳的評価を比較するために「修正モラル・チューリングテスト（m-MTT）」を使用して実施された。この研究では、299名のアメリカ成人を対象に、GPT-4と人間の作成した道徳的評価を見分けてもらう実験を行った。
+
+参加者は、どの評価がAIによるものであるかを当てることはできたが、評価の質に関してはGPT-4の方が人間よりも優れていると判断する傾向があったという。参加者はGPT-4の道徳的評価を、徳性、知性、信頼性などのほとんどの面で人間の評価よりも高く評価したとのこと。
+
+研究者たちは、この結果が意味するところについて議論している。特に、AIが生成する道徳的な判断が人間の判断よりも優れていると認識されることで、人々が無批判にAIの道徳的な助言を受け入れる可能性があることを懸念しているという。これにより、有害な道徳的ガイダンスが普及するリスクが指摘されており、LLMに対する安全対策の必要性が強調された。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 17 May 2024 14:13:43 +0000</pubDate></item><item><title>AIが互いに教え合い連携して学習するオープンソースLLM「WizardLM-2」を開発者が公開　Microsoftからの発表は「待った」</title><link>https://ledge.ai/articles/wizardlm2</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1979,37 +2017,7 @@ Common Corpus プロジェクトは、このような大手AI企業の主張に�
 :::box
 
 :::
-</description><pubDate>Sun, 05 May 2024 05:14:29 +0000</pubDate></item><item><title>リアル動画をインタラクティブな3Dゲーム環境に変換するAI「Video2Game」仮想環境を自動生成しコストダウンする新たなアプローチ</title><link>https://ledge.ai/articles/video2game_realtime_interactive</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-イリノイ大学などの研究グループは2024年4月15日、新しいAI技術「Video2Game」を{target=“_blank”}した。
-
-この技術は、動画を基にリアルタイムでインタラクティブな3D環境を自動生成するシステムである。主要な技術コンポーネントは、Neural Radiance Fields（NeRF）、メッシュモジュール、物理モジュールの3つから成る。
-
-NeRFモジュールはシーンの幾何学と視覚的外観を捉え、リアルなビジュアルを生成する。メッシュモジュールは、NeRFから得られる情報を基に高速なレンダリングを実現し、物理モジュールはオブジェクト間の物理的相互作用をモデル化する。これらの技術を統合することで、実世界のデジタル複製としてのインタラクティブな3D環境が構築されるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-このシステムは屋内外の多様なシーンに適用可能で、リアルタイムで高品質な3Dレンダリングを実現する。また、開発の複雑さとコストを削減しながら、教育、都市計画、災害対応トレーニングなど幅広い分野での利用が期待できるという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 04 May 2024 16:01:24 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
+</description><pubDate>Sun, 05 May 2024 05:14:29 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
