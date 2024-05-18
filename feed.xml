@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 16 May 2024 14:09:27 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 May 2024 08:56:03 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2366,7 +2366,52 @@ AI技術を利用して、ターゲットの選定や攻撃の実行など特定
 :::box
 
 :::
-</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>画像の照明を自在に操る新AIツール「IC-Light」公開</title><link>https://ledge.ai/articles/ic_light</link><description>:::small
+</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>大人の事情に負けるな！　全国AIアート甲子園@i-SEIFU 開幕  高校生の創造性を育む無料の生成AIアートコンテスト</title><link>https://ledge.ai/articles/seifu_ai_art_contest_for_high_school</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月11日から6月22日まで、全国の高校生を対象に「全国AIアート甲子園@i-SEIFU」が{target=“_blank”}。
+
+このコンテストは、学校法人清風明育社主催、清風情報工科学院が運営を行う。高校生に生成AIの技術への理解と興味を深めさせ、同時にそのクリエイティビティを刺激することが目的だ。
+
+応募資格は日本国内の高校生に限られ、作品テーマは「擬人化キャラ」に関するオリジナルイラスト・アート作品。使用可能なAIツールにはCopilot（DALL-E 3）、にじジャーニー、画像生成β（Stable Diffusion）が含まれる。これらのツールを用いて、参加者は自らのオリジナルキャラクターを創出し、そのキャラクターを活用したアート作品を作成する。
+
+コンテストの結果は2024年6月22日に清風情報工科学院で発表予定。最優秀賞は賞金3万円（Amazonギフトカード）が授与される。優秀賞と佳作にもそれぞれ賞金が提供されるとのこと。
+
+### 若者が高品質な生成AIツールに触れる機会を無料で提供
+生成AIは商業デザイン分野においても広がりを見せており、多くのプロ向けデザインツールに組み込まれている。しかし、その多くが有料であるため、若年層にとってはアクセスが困難な状況があると同校は開催の背景を説明している。同コンテストでは、高品質な生成AIアートのツールを無料で提供し、学生たちが新しい技術に触れる機会を創出することで、彼らの進路選択や職業選択に貴重な体験を提供するとともに、将来的なキャリア形成への寄与を目指すとした。
+
+同校校長の平岡憲人氏も「無料で高品質な生成AIアートのツールに触れることが、生徒たちの進路選択や職業選択において価値ある体験になると確信しています」とコメントしている。
+
+**著作権の考え方と協賛企業表記の訂正について**
+コンテストの初期段階では、著作権の扱いに関して一部から批判が上がったため、主催者は規約を修正し、入賞作品の著作権に関する方針を変更した。５月11日時点で記載のあった「入賞作品の著作権を主催者が取得する」との表現に取り消し線が入れられた。13日にはコンテストの公式サイトに「著作権についての考え方」を追記している。
+
+また、当初ワコムが協賛社一覧に掲載されていたが、現在は消えているとのこと。一部報道では担当の行き違いとされている。
+
+
+!
+:::small
+画像の出展：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+
+</description><pubDate>Fri, 17 May 2024 08:56:03 +0000</pubDate></item><item><title>画像の照明を自在に操る新AIツール「IC-Light」公開</title><link>https://ledge.ai/articles/ic_light</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2762,40 +2807,4 @@ ARAのエグゼクティブディレクター、ジェン・ジェイコブセ�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Apr 2024 11:40:17 +0000</pubDate></item><item><title>Stability AI　音楽生成AI「Stable Audio 2.0」にバージョンアップ　最大3分間の高品質なフルトラックを生成　Audio-to-Audio機能も</title><link>https://ledge.ai/articles/stable_audio_2-0</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stability AIは2024年4月3日、オーディオ生成AI「Stable Audio 2.0」を{target=“_blank”}した。新しいモデルは、44.1KHzステレオで最大3分間の高品質なフルトラックを生成可能。ユーザーは自然言語のプロンプトを使用してオーディオサンプルをアップロードし、これを様々なサウンドに変換できる。
-
-@
-
-
-
-{target=“_blank”}との大きな違いは、特にオーディオからオーディオへの生成機能を導入した点にある。これにより、アーティストやミュージシャンは自らのオーディオサンプルをアップロードし、自然言語によるプロンプトを通じて変換することが可能となった。さらに、このモデルはイントロ、展開、アウトロを含む構造化されたコンポジションを含む楽曲を生成できるという。Stable Audio では45秒だった曲の長さも、2.0になり最長で3分間まで生成できる。
-
-現在、{target=“_blank”}で無料で利用でき、将来的にはStable Audio APIでも利用可能となる。
-
-### Audio-to-Audio Feature Demo
-@
-
-
-1.0モデルと同様、2.0は音楽、効果音、シングルインストゥルメントステムを含む800,000以上のオーディオファイルからなるAudioSparxのデータでトレーニングされている。オプトアウトのリクエストに対応し、クリエイターへの公正な報酬を保証することにも重点を置く。
-
-オーディオアップロードに際しては、著作権侵害を防ぐためにAudible Magicと提携し、そのコンテンツ認識（ACR）技術を利用しているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 09 Apr 2024 14:46:35 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 12 Apr 2024 11:40:17 +0000</pubDate></item></channel></rss>
