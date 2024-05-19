@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 18 May 2024 12:14:50 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 18 May 2024 12:23:38 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2374,7 +2374,40 @@ AI技術を利用して、ターゲットの選定や攻撃の実行など特定
 :::box
 
 :::
-</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>AIが「次のヒット曲」を予測する　テンセント子会社が発表　中国の音楽ストリーミングサービスで初採用</title><link>https://ledge.ai/articles/tencent_music_ai_powered_tech_predict_the_next_hit_song</link><description>:::small
+</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>清水建設　永平寺のデジタルツインを構築　伽藍内全棟をウォークスルーできるデジタル空間やオンライン参拝できるコンテンツも
+</title><link>https://ledge.ai/articles/shimizu_eiheiji_digitaltwins</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+清水建設は2024年4月26日、福井県吉田郡に位置する曹洞宗大本山「永平寺」と共同で、3次元点群測量技術を用いて永平寺伽藍内の重要文化財19棟の精緻なデジタルツインを制作し、永平寺に納品したと{target=“_blank”}した。
+
+清水建設はまた、同社のアプリ「デジトリ360」を使用して伽藍内全棟と大小100余棟を360度写真でウォークスルーできるデジタル空間と、オンラインで永平寺を巡る「デジタル参拝」のコンテンツを制作し、2023年11月に先行して納品したとのこと。
+
+日本の歴史的建造物は木造であるため、これまで多くが火災や地震で損壊してきた。約800年の歴史を持つ永平寺も複数回の火災に遭遇し、その都度関係者の尽力により再建されてきた。永平寺は、デジタルツインを通じて伽藍内の重要文化財を確実に後世に残すことができると判断し、2023年7月に清水建設との共同調査を開始した。
+
+調査では、重要文化財19棟の内外観、小屋裏、床下、彫刻などあらゆる空間と形状を3次元点群測量で捉え、任意の平面、立面、断面を切り出して表示できるようにデータを加工し、デジタルツインを構築した。測量には、デジタル技術に長けた宮大工を擁するT＆I 3Dの協力を得たという。
+
+### 山門の点群データ（外観と内部を同時に表示）
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+永平寺で伽藍の維持保全を担う直歳（しっすい）の石田純道氏は「修行の場である永平寺伽藍内の建造物群の姿を確実に後世に残すことはわれわれの使命だ。精緻なデジタルツインの作成はこのニーズを具現化する手段だと評価している。また、平面の図面から維持保全に必要な情報を得るのは難しいが、デジタルツインのデータからは誰でも必要な情報を容易に検索できるため、維持保全業務を効率化できる」と述べている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 18 May 2024 12:23:38 +0000</pubDate></item><item><title>AIが「次のヒット曲」を予測する　テンセント子会社が発表　中国の音楽ストリーミングサービスで初採用</title><link>https://ledge.ai/articles/tencent_music_ai_powered_tech_predict_the_next_hit_song</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2755,45 +2788,4 @@ UdioのX（旧Twitter）公式アカウントでは実際にUdioで生成した�
 :::
 :::box
 
-:::</description><pubDate>Fri, 19 Apr 2024 06:55:44 +0000</pubDate></item><item><title>賞金総額は20万ドル以上　クリエータープラットフォームFanvueがAI美人コンテスト「Miss AI」開催</title><link>https://ledge.ai/articles/fanvue_miss_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-2024年4月15日、ソーシャルメディアプラットフォームFanvueは、AIが生成した女性モデルを対象とした美女コンテスト「Miss AI」の開催を{target=“_blank”}した。
-
-Fanvueは、AI生成コンテンツの分野における革新を表彰し、その業績を称えることを目的としている。参加者の美しさだけでなく、テクノロジーの使用と社会的影響力を評価の軸に置くとのこと。
-
-賞金総額は20万ドル以上で、上位 3 人のミス AI 出場者には、優勝者への 5,000 ドルの現金を含む総額 20,000 ドルを超える賞品が授与される。また、優勝者にはメンターシッププログラムやPRサポートなどが提供される​​。
-
-審査員には、AIインフルエンサーのエミリー・ペレグリーニとアイタナ・ロペスが名を連ねている。これらのAIモデルは、インスタグラムで数十万人のフォロワーを持ち、自身が築いたソーシャルメディアでの成功をもとに、コンテストの参加者を審査するという。
-
-
-**審査員の2人（AI生成のインフルエンサー）左：エミリー・ペレグリーニ／右：アイタナ・ロペス**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-審査は美しさ、技術の使用、社会的影響力の3つの主要カテゴリーで行われ、参加者はそれぞれのカテゴリーで独自性と革新性をどのように発揮しているかを競うという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-応募資格は18歳以上のAIモデルクリエイターで、使用するAIツールに制限は付けないが、作品は100% AI生成でなければならない。エントリーは無料で、クリエイターは複数のAI生成モデルを持ち込むことが許されている。
-
-このイベントは「World AI Creator Awards (WAICAs)」の一部として開催され、「AIクリエイター経済のオスカー」となることを目指すとのことだ。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 20 Apr 2024 08:19:29 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Fri, 19 Apr 2024 06:55:44 +0000</pubDate></item></channel></rss>
