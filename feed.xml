@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 17 May 2024 14:13:43 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 18 May 2024 12:14:50 +0000</lastBuildDate><item><title>テラドローン✕九州電力送配電　AI搭載ドローン自動鉄塔点検システム導入で点検時間を約50％削減</title><link>https://ledge.ai/articles/terradrone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2374,7 +2374,31 @@ AI技術を利用して、ターゲットの選定や攻撃の実行など特定
 :::box
 
 :::
-</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>大人の事情に負けるな！　全国AIアート甲子園@i-SEIFU 開幕  高校生の創造性を育む無料の生成AIアートコンテスト</title><link>https://ledge.ai/articles/seifu_ai_art_contest_for_high_school</link><description>:::small
+</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>AIが「次のヒット曲」を予測する　テンセント子会社が発表　中国の音楽ストリーミングサービスで初採用</title><link>https://ledge.ai/articles/tencent_music_ai_powered_tech_predict_the_next_hit_song</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+テンセント・ミュージック・エンタテインメント・グループ（TME）は、2023年度年次報告書において、AIを活用した「PDM（予測モデル）」技術を導入し、QQミュージックのプラットフォームで「次のヒット曲」を予測することに成功したと発表した。このニュースは2024年5月8日に{target=“_blank”}が報じた。
+
+PDM技術（Predictive Model）は、ディープラーニングを利用したコンテンツ価値評価アルゴリズムを用いており、音声と歌詞に基づく楽曲の市場可能性を予測できるという。また、ユーザーごとに最適なプレイリストを提案し、アーティストデータや音楽コンテンツ、世界中の音楽トレンドの変動をAIで分析することでターゲットオーディエンスを特定可能。
+
+TMEの年次報告書では、同社の主要な音楽ストリーミングサービス「QQミュージック」が中国のオンライン音楽業界で初めてこの高精度のPDM技術を採用したことが述べられている。この技術は国際音楽情報検索協会（MIREX）からも認識されており、その精度と有用性が評価されているとのこと。
+
+PDM技術の他にも、同社はAIを広範囲に活用しているという。2023年には、音楽制作およびプロモーションプラットフォーム「Venus」にAI搭載の作曲ツールを導入し、AI生成コンテンツ（AIGC）ツールを使用してアーティストの音楽コンテンツ制作および生産効率を向上させた。また、親会社のメッセージアプリ「WeChat」に音楽ライブラリを統合することで、10億人以上のユーザーがTMEの音楽コンテンツへアクセス可能となった。
+
+また、5月13日に{target=“_blank”}TMEの2024年第1四半期の報告書では、引き続きAI技術の強化を続けているとのこと。同社は「大規模オーディオモデル」を導入し、音楽のプロモーション精度を高めるとともに、新たなAIアシスタントを導入して音楽発見をより楽しく、魅力的かつ便利にすることを目指すとした。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 18 May 2024 12:14:50 +0000</pubDate></item><item><title>大人の事情に負けるな！　全国AIアート甲子園@i-SEIFU 開幕  高校生の創造性を育む無料の生成AIアートコンテスト</title><link>https://ledge.ai/articles/seifu_ai_art_contest_for_high_school</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2772,47 +2796,4 @@ Fanvueは、AI生成コンテンツの分野における革新を表彰し、そ
 :::box
 
 :::
-</description><pubDate>Sat, 20 Apr 2024 08:19:29 +0000</pubDate></item><item><title>200名を超えるアーティストが署名「AIで音楽の価値を下げるな」ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど参加の団体が権利保護を呼びかける声明</title><link>https://ledge.ai/articles/200_artists_urge_tech_platforms_stop_devaluing_music</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Artist Rights Alliance（ARA）は2024年4月2日、200人以上のアーティストの支持を受けて、AI開発者、テクノロジー企業、プラットフォーム、デジタル音楽サービスに対し、人間のアーティストの権利を侵害し価値を減じるAIの使用を停止するよう呼びかける公開書簡を{target=“_blank”}した。
-
-ビリー・アイリッシュ、ノラ・ジョーンズ、ジョン・ボン・ジョヴィ、ケイティ・ペリー、スティービー・ワンダーなどを含む200名以上の著名アーティストがこの書簡に署名している。書簡では、AIがアーティストの芸術に「現実的な脅威」をもたらすと指摘し、音楽業界におけるAIの非倫理的な使用を非難している。
-
-AIに関連する脅威は、ディープフェイクやボイスクローニングなどが注目を集めているが、この書簡では、AIが人間の音楽作品を無断で利用してAI「コピーキャット」を訓練・製作する行為や、AI「サウンド」を使って印税の負担を薄める行為といった、深刻で無責任な使用例が指摘されている。
-
-ARAのエグゼクティブディレクター、ジェン・ジェイコブセン氏は、音楽ストリーミングサービスの普及によりアーティストが生計を立てることが難しくなっている現状を説明。「AIが生成する『ノイズの洪水』と戦うことは、アーティストとファンの両方にとって、音楽エコシステム全体の価値を下げる」と述べ、AI技術の責任ある使用をテクノロジー企業に呼びかけている。
-
-公開書簡の一部には以下のように記されている。
-
-「誤解なきように言うが、我々は、責任を持って使用された場合、AIが人間の創造性を前進させ、音楽ファンにとって新しく興奮する体験の発展と成長を可能にする莫大な潜在力を持っていると信じている。残念ながら、一部のプラットフォームや開発者が、創造性を破壊し、アーティスト、ソングライター、ミュージシャン、権利保持者を脅かすためにAIを使用している。」
-
-「我々は、プロのアーティストの声や肖像を盗むAIの捕食的な使用、創作者の権利を侵害する行為、音楽エコシステムを破壊する行為に対して保護を求める。すべてのデジタル音楽プラットフォームや音楽サービスに対して、アーティストとソングライターの人間芸術を損なうか置き換えるAI音楽生成技術、コンテンツ、ツールの開発や展開を行わないよう誓約することを求める」と訴えている。
-
-この公開書簡は、音楽におけるAIの責任ある使用について世界中で活発な議論が行われている中で発表された。すでにテネシー州は「公開の権利」を強化するいわゆるELVIS法を制定しており、同法は正式に「Likeness Voice and Image Security Act」と呼ばれている。類似の立法が米国議会および複数の米国州で議論されている。
-
-
-## 署名したアーティストのリスト
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 12 Apr 2024 11:40:17 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sat, 20 Apr 2024 08:19:29 +0000</pubDate></item></channel></rss>
