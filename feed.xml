@@ -485,7 +485,19 @@ GPT-4oは無料枠で利用でき、Plusユーザーには最大5倍のメッセ
 :::box
 
 :::
-</description><pubDate>Mon, 13 May 2024 04:34:24 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Mon, 13 May 2024 04:34:24 +0000</pubDate></item><item><title>「G検定」のシラバスを改訂　最新技術情報を網羅した第3版公式テキストが5月27日に発売！</title><link>https://ledge.ai/articles/jdla_deeplearning_for_general</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月14日、一般社団法人日本ディープラーニング協会（JDLA）は、「G検定（ジェネラリスト検定）」のシラバスを2024年11月8日実施の「G検定2024 #6」より改訂することを{target=“_blank”}した。
+
+G検定は、一般社団法人日本ディープラーニング協会（JDLA）が実施するディープラーニングの基礎知識や活用リテラシー、AIに関する技術やビジネス活用の知識を身に着けるための検定試験だ。G検定を学ぶことで生成AIの仕組みを根本から理解し活用シーンをより具体的にイメージすることができる。
+
+生成AI界隈は様々な技術が組み込まれ日々進化し続けているため、今回の改訂では新たな基盤モデルや言語モデルといった最先端の技術情報を追加し、法律・倫理についても理解しておくポイントを明確化してシラバス全体の見直しを行ったという。
+
+今回のシラバス改訂に伴い、公式テキスト第3版が5月27日に発売予定。
+!
+</description><pubDate>Fri, 17 May 2024 09:07:07 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1209,43 +1221,7 @@ CFG Scale  7
 三井物産セキュアディレクション株式会社 PS事業部 レッドチーム マネージャー 洲崎氏
 :::
 
-表彰式終了後、全体講評として三井物産セキュアディレクション株式会社 PS事業部 レッドチーム マネージャーの洲崎氏は「非常に嬉しく思ったのは、コンテストの卒業生がセキュリティ業界の一員として活躍していること。ぜひ皆さんもセキュリティ業界に来ていただき、またどこかでお会い出来たらと思う」と語った。また、同社 PS事業部 レッドチームの国分氏も「これから新たなセキュリティ技術が出てくると思うが、いち早くチャレンジして、ぜひ第一人者を目指してほしい」と、若い力への期待を露わにした。</description><pubDate>Tue, 23 Jan 2024 08:23:53 +0000</pubDate></item><item><title>大学入試の記述式対策もAI活用　駿台、AI学習教材「スルメ」で特許を取得</title><link>https://ledge.ai/articles/sundai_patented_surume</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2023年12月26日、学校法人駿河台学園（駿台）は、エスエイティーティー（SATT）との共同開発により、記述式問題対策のAI学習教材「スルメ」で特許を取得したことを{target=“_blank”}した。
-
-この教材は、難関国公私立大入試の記述式問題対策として開発され、学習者の理解度に応じた最適な「ヒント」をAIが自動で提示する仕組みが特徴とされる。
-
-**ヒント画面（解答に行き詰った際、段階的に与えられるヒントを確認する）**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-**解答画面（タブレット上で解く。解答は手書きで、自動採点される。メモやノートを取ることも可能）**
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-「スルメ」を特許取得に導いたのは、個別の学習状況及び科目特性に応じた最適な予測正答率を分析し、それに基づいて難易度調整を行うシステムの新規性と、それを裏付けるデータによるものだという。特に、電気通信大学植野真臣教授の研究を基にした予測正答率の最適化がこの特許の核心とされている。
-
-今後、駿台は「スルメ」を使用する学習者のデータに基づいて得られた分析結果を活用し、学習効果を最大化する予定だという。現在は「物理」「化学」に加えて「数学」の記述式問題に対してもこのシステムを適用し、さらに「英語」のリスニングや文法問題への適用も検討しているとのことだ。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 15 Jan 2024 02:44:39 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
+表彰式終了後、全体講評として三井物産セキュアディレクション株式会社 PS事業部 レッドチーム マネージャーの洲崎氏は「非常に嬉しく思ったのは、コンテストの卒業生がセキュリティ業界の一員として活躍していること。ぜひ皆さんもセキュリティ業界に来ていただき、またどこかでお会い出来たらと思う」と語った。また、同社 PS事業部 レッドチームの国分氏も「これから新たなセキュリティ技術が出てくると思うが、いち早くチャレンジして、ぜひ第一人者を目指してほしい」と、若い力への期待を露わにした。</description><pubDate>Tue, 23 Jan 2024 08:23:53 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
