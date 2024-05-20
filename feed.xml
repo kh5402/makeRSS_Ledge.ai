@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 19 May 2024 06:30:26 +0000</lastBuildDate><item><title>NASA、初のAI責任者にデイビッド・サルバニーニ氏を任命しAI戦略を強化</title><link>https://ledge.ai/articles/nasa_names_first_chief_ai_officer</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 May 2024 02:36:18 +0000</lastBuildDate><item><title>NASA、初のAI責任者にデイビッド・サルバニーニ氏を任命しAI戦略を強化</title><link>https://ledge.ai/articles/nasa_names_first_chief_ai_officer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1623,7 +1623,69 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>GPT-4が「修正モラル・チューリングテスト」で大学生を上回る道徳的判断を示す――ジョージア州立大学の研究</title><link>https://ledge.ai/articles/gpt4_shows_better_moral_judgment_than_college_students</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>OpenAI　超知能を制御するチームが解散「安全文化とプロセスは派手な製品に押しのけられてきた」イリヤ氏に続く共同責任者の退職</title><link>https://ledge.ai/articles/superalignment_team_effectively_dissolved</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年5月17日、OpenAIは「超知能（Superinteligence）AI」の制御を目的とした「スーパーアライメント（Superalignment・超調整）チーム」は事実上解散になると、複数のメディアが報じている。チームを率いるイリヤ・サツケヴァー氏の15日の退社報告の後を追うように、同チームの共同リーダーであるヤン・ライカ氏がOpenAIを辞めたと公表したためと見られる。
+
+サツケヴァー氏の退社表明の直後、ヤン・ライカ氏も自身のX（旧Twitter）で退社の理由を{target=“_blank”}。ライカ氏は、OpenAIの経営方針との意見の相違や、研究リソースの不足が退職の主な理由であると述べている。また、彼は自身のチームとその成果に対する深い愛情と感謝の意を表明した​。
+
+同氏の投稿には
+「この研究を行うのに世界で最適な場所だと思ってOpenAIに参加した。しかし、私はOpenAIのリーダーシップとの間で会社の核心的な優先事項について長い間意見の相違があり、最終的に限界点に達した。人間よりも賢い機械を作ることは本質的に危険な事業だ。OpenAIは全人類を代表して莫大な責任を負っている」​ など、問題点を示唆する発言が垣間見られる。
+
+「But over the past years, safety culture and processes have taken a backseat to shiny products.」
+しかし、過去数年間、安全文化とプロセスは派手な製品に押しのけられてきた。
+「We are long overdue in getting incredibly serious about the implications of AGI.」
+AGIの影響を真剣に考える時期はとっくに過ぎている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+グレッグ・ブロックマン社長とサム・アルトマンCEOは、前日に退社したライカ氏の指摘に対する{target=“_blank”}を行い、「拡張性のある監視ソリューション」「密接なフィードバックループ」「厳格なテスト」などの対策を挙げたが、具体的な詳細は明示されなかった。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+サツケヴァー氏もライカ氏も、退社に際してOpenAIがAGI（人工汎用知能）への道を正しく歩むことを期待するとしているが、具体的な対策が求められる状況は続いている。
+
+
+## 安全性をめぐるOpenAIとアライメントチームのこれまでの動き
+### スーパーアライメントチームの立ち上げ
+スーパーアライメントチームは2023年7月、AIが人間にとって安全であり続けるための新たな研究チームとして{target=“_blank”}され、OpenAIの計算資源の20%を割り当てられていた。このチームは、超知能AIシステムを安全に運用するための技術的課題に取り組むことを目的としていた。
+
+共同リーダーのイリア・サツケヴァー氏とヤン・ライカ氏は、10年以内に超知能AIが出現する可能性を指摘し、「巨大な力は非常に危険で、人類を無力化するか、あるいは絶滅させる可能性さえある」と述べ、技術改善の必要を説いた。
+### Preparedness Teamの設立
+2023年10月、OpenAIは新たに「Preparedness Team」を{target=“_blank”}。このチームは、将来の「フロンティアAIモデル」がもたらす壊滅的なリスクを管理するために結成された。
+
+特に強力なAIモデルに関連するリスク評価と内部テストに焦点を当て、サイバーセキュリティや化学・生物・放射線・核（CBRN）脅威、自律的な自己複製や適応（ARA）など、多岐にわたるリスクカテゴリに対応することを目的としている​。
+### アルトマン氏の解任騒動
+2023年11月、OpenAIのCEOであるサム・アルトマン氏が一時的に解任される騒動が起きた。サツケヴァー氏がこの解任に関与したとされる。その後の社員の反発や外部からの圧力により、アルトマン氏は復職。{target=“_blank”}は、OpenAI内部の意見の相違や経営方針に対する不満を浮き彫りにする出来事となった​。
+### イリヤ・サツケヴァー氏に続きヤン・ライカ氏の退職
+2024年5月15日にサツケヴァー氏がOpenAIを去ることを公表。その直後に、ライカ氏も自身のX（旧Twitter）で、OpenAIを退職することを発表した。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 20 May 2024 02:36:18 +0000</pubDate></item><item><title>GPT-4が「修正モラル・チューリングテスト」で大学生を上回る道徳的判断を示す――ジョージア州立大学の研究</title><link>https://ledge.ai/articles/gpt4_shows_better_moral_judgment_than_college_students</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2017,38 +2079,7 @@ OpenAIは今後、データ収集とモデル評価をさらに進め、命令�
 :::box
 
 :::
-</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>「LLMは著作権を侵害せずトレーニング可能」仏AIスタートアップ主導プロジェクト「Common Corpus」公開</title><link>https://ledge.ai/articles/common_corpus_and_post_ocr_correction</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年3月20日、フランスのAIスタートアップPleiasは、パブリックドメインのコンテンツのみで構成されたものとしては、これまでで最大規模の言語モデルトレーニング用AIデータセット「Common Corpus」を{target=“_blank”}した。
-
-2023年12月、OpenAIとマイクロソフトがニューヨークタイムズに著作権侵害で提訴された。このとき２社は、AI製品のトレーニングに著作権で保護された作品を使用することは、著作権で保護されたマテリアルの無許可使用を管理する法原則である「フェアユース」に当たると{target=“_blank”}という。
-
-Common Corpus プロジェクトは、このような大手AI企業の主張に対抗する。
-
-著作権コンテンツを使用せずに、完全にオープンで再現可能なコーパスで大規模言語モデル（LLM）をトレーニング可能だと示すことを目的としているという。AIのオープン サイエンス アプローチに取り組むHuggingFaceなどの主要組織と連携し、LLM事前トレーニング、AI倫理、文化遺産などの研究者が参加する。
-
-{target=“_blank”}されたCommon Corpusは、約500億から700億のトークンを含む公開コーパスであり、1,800 億語を含むこれまでで最大の英語圏データセットを提供する。また、このデータセットは多言語に対応しており、フランス語で110億語、ドイツ語で30億語、スペイン語で23億語、オランダ語で18億語、イタリア語で10億語などが含まれている。さらに、低リソース言語も幅広くカバーされており、多様な文化背景を持つデータが含まれているという。
-
-
-プロジェクトは進行中で、課題はまだまだ残されている。たとえば、多くのテキストが古い文書からのOCR（光学的文字認識）によるものであるため、文字の誤認識や歪みといった問題が指摘された。これに対応するため、Pleiasは「Post-OCR-Correction」データセットを4月26日に{target=“_blank”}している。
-
-この技術は、特に文化遺産テキストで発生しやすいOCRの問題を解決することを目指している。Post-OCR-Correctionでは、デジタル化されたテキストの中で、間違えやすい単語をより正確なものに置き換えるために、LLMが使用される。このプロセスは、言語モデルが文脈全体を考慮して、人間が読むときのように語の選択を行うため、より正確なテキスト回復が期待されるとのこと。
-
-同社は、このプロジェクトにより、法的なリスクなくAIモデルを訓練する道が開かれ、AI分野における著作権問題に対する新たな解決策が示されるとしている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 05 May 2024 05:14:29 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
+</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
