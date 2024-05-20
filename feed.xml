@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 19 May 2024 06:27:06 +0000</lastBuildDate><item><title>国内AIテックがLLMのハルシネーション対策を続々発表　オルツ「ハルシネーション自動評価エンジン」・ストックマーク「Stockmark-LLM-100b」</title><link>https://ledge.ai/articles/domestic_companies_launch_llm_hallucination_measures</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 19 May 2024 06:30:26 +0000</lastBuildDate><item><title>NASA、初のAI責任者にデイビッド・サルバニーニ氏を任命しAI戦略を強化</title><link>https://ledge.ai/articles/nasa_names_first_chief_ai_officer</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米航空宇宙局（NASA）は5月13日、デイビッド・サルバニーニ氏を新たなAI（人工知能）部門の最高責任者に指名したと{target=“_blank”}した。
+
+サルバニーニ氏は現在の最高データ責任者（CDO）の役割を拡大し、新たな役割を即時に開始するという。
+
+NASA長官のビル・ネルソン氏は、「人工知能はNASAで何十年にもわたって安全に使用されており、この技術の拡大は発見のペースを加速させることができる」と述べ、「我々は進歩と責任ある利用の最前線に留まることが重要だ。デイビッドは宇宙および地球上でのAIの責任ある利用を指導し、人類全体に利益をもたらすNASAの取り組みを先導する」と続けた。
+
+この任命は、バイデン大統領の「{target=“_blank”}」に基づいて行われた。サルバニーニ氏は、NASA全体でのAI使用に関する戦略ビジョンと計画を調整し、AIイノベーションの推進者として、ツールやプラットフォーム、トレーニングの開発およびリスク管理をサポートする責任を負うとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 19 May 2024 06:30:26 +0000</pubDate></item><item><title>国内AIテックがLLMのハルシネーション対策を続々発表　オルツ「ハルシネーション自動評価エンジン」・ストックマーク「Stockmark-LLM-100b」</title><link>https://ledge.ai/articles/domestic_companies_launch_llm_hallucination_measures</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -462,40 +485,7 @@ GPT-4oは無料枠で利用でき、Plusユーザーには最大5倍のメッセ
 :::box
 
 :::
-</description><pubDate>Mon, 13 May 2024 04:34:24 +0000</pubDate></item><item><title>アルトマン氏「GPT-5でも検索エンジンでもない新しい何か」　OpenAI「Spring Update」ライブ配信　日本時間5/14午前2時スタート</title><link>https://ledge.ai/articles/openai_spring_updates</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleの開発者会議「Google I/O」のまさに前日に、OpenAIからChatGPT GPT-4 に関するお知らせがあるとのこと。2024年5月11日、OpenAIがライブ配信予定を{target=“_blank”}した。この直後にCEOであるサム・アルトマン氏が
-
-“not gpt-5, not a search engine, but we’ve been hard at work on some new stuff we think people will love! feels like magic to me.”
-
-「gpt-5 でも検索エンジンでもありませんが、私たちは人々が気に入ってくれると思う新しいものに一生懸命取り組んできました。私にとっては魔法のように感じます」
-
-と付け加えた。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ライブ配信は、PT（米国太平洋時間）の5月13日（月）10時スタート。日本時間は14日（火）深夜2時となる。翌日も同時刻からGoogleの開発者会議が控えている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 13 May 2024 04:25:59 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
+</description><pubDate>Mon, 13 May 2024 04:34:24 +0000</pubDate></item><item><title>GWに徹底理解！「Vision Transformer」 LLMの基幹技術 Transformer を画像分類に応用した大注目技術が分かりやすいビジュアルガイドに</title><link>https://ledge.ai/articles/a_visual_guide_to_vision_transformer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
