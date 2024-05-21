@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 May 2024 11:08:48 +0000</lastBuildDate><item><title>大阪・関西万博「電力館」に核融合の展示ブース　電事連が検討</title><link>https://ledge.ai/articles/fusion_power_generation_on_display_at_expo2025</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 May 2024 11:40:32 +0000</lastBuildDate><item><title>大阪・関西万博「電力館」に核融合の展示ブース　電事連が検討</title><link>https://ledge.ai/articles/fusion_power_generation_on_display_at_expo2025</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2059,7 +2059,35 @@ OpenAIは今後、データ収集とモデル評価をさらに進め、命令�
 :::box
 
 :::
-</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>AIは発明家として認められず　東京地裁「発明は人間の創造的活動」と判断</title><link>https://ledge.ai/articles/ai_not_recognized_as_inventor_tokyo_district_court</link><description>:::small
+</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>欧州評議会、AIに関する初の国際条約を採択　日本ほか非加盟国なども策定に参加</title><link>https://ledge.ai/articles/cou_adopt_a_treaty_on_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+欧州評議会は2024年5月17日、AIシステムの使用において人権、法の支配、民主主義の法的基準を確保することを目的とした、史上初の国際的な法的拘束力のある条約を採択したと{target=“_blank”}した。
+
+この条約は非欧州諸国にも開放されており、AIシステムのライフサイクル全体をカバーし、そのリスクに対処しつつ、責任あるイノベーションを促進する法的枠組みを設定している。条約は、AIシステムの設計、開発、使用、および廃止に対するリスクベースのアプローチを採用しており、使用による潜在的な負の影響を慎重に考慮することを求めている。
+
+この条約「{target=“_blank”}（人権、民主主義、法の支配に関する人工知能枠組み条約）」は、ストラスブールで開催された欧州評議会の閣僚委員会の年次会合で採択された。同会合には、欧州評議会の46加盟国の外相が出席した。
+
+条約は、この46の欧州評議会加盟国のほか、欧州連合、および11の非加盟国（アルゼンチン、オーストラリア、カナダ、コスタリカ、バチカン、イスラエル、日本、メキシコ、ペルー、アメリカ合衆国、ウルグアイ）で構成される政府間機関、人工知能委員会（CAI）が2年間の作業を経て作成したものであり、民間部門、市民社会、学術界の代表もオブザーバーとして参加した。
+
+評議会の事務総長であるマリヤ・ペイチノビッチ・ブリッチ氏は「この条約は、AIが人々の権利を尊重することを保証するための初の国際条約。AIの責任ある使用が人権、法の支配、民主主義を尊重することを目指している」と述べた。
+
+条約は、公共部門および民間部門でのAIシステムの利用を規制し、透明性、監視、責任を確保するための要件を設定している。また、AIシステムが平等、差別禁止、プライバシー権を尊重することを保証し、人権侵害の被害者に法的救済手段を提供することを求めている。さらに、AIが民主的プロセスを弱体化させないようにするための措置を講じることも求めている。
+
+条約の実施を確保するために、締約国会議というフォローアップメカニズムが設けられている。枠組み条約は、2024年9月5日にリトアニアのビリニュスで署名のために開放される予定である。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Mon, 20 May 2024 11:40:32 +0000</pubDate></item><item><title>AIは発明家として認められず　東京地裁「発明は人間の創造的活動」と判断</title><link>https://ledge.ai/articles/ai_not_recognized_as_inventor_tokyo_district_court</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2396,33 +2424,7 @@ AI技術を利用して、ターゲットの選定や攻撃の実行など特定
 :::box
 
 :::
-</description><pubDate>Sat, 13 Apr 2024 13:15:16 +0000</pubDate></item><item><title>佐川急便など、レベル3.5飛行による東京都が推進するドローン宅配便配送プロジェクトを実施</title><link>https://ledge.ai/articles/sagawa_drone_parcel_delivery_project_by_tokyo</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-佐川急便は2024年3月29日、イームズロボティクス、日本気象協会、サンドラッグと共に、山間地域の利便性向上に向けたドローンレベル3.5飛行による宅配便配送の実証実験を東京都青梅市において実施したことを{target=“_blank”}した。
-
-四者は東京都が推進する「ドローン物流サービス社会実装促進事業」の支援対象として2022年7月28日に選定され、以降共同でプロジェクトを進めている。ドローンによる配送サービスの社会実装を目指し、山間地域での生活利便性の向上と持続可能な配送システムの構築が目的だという。
-
-プロジェクトでは、国土交通省により2023年12月に制度化されたドローンレベル3.5飛行を利用し、宅配便配送の実証実験を行った。青梅市の山間地域で、ドローンから受取人が直接荷物を受け取る運用や、災害時の救援物資輸送を想定した配送実験が実施された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-実証実験は2024年2月26日から3月8日にかけて平日10日間の予定で行われ、天候の影響を受けたものの、5日間は実施可能であった。期間中、イームズロボティクス社製のLAB6150を使用し、1日最大3往復6フライトを実施した。このドローンは、最大ペイロードが10kgであり、大きな荷物の輸送も可能である。
-
-東京都内で初めて実施されたこのレベルのドローン飛行による宅配便配送実験では、地域住民からの高い関心と支持を得た。実際にドローンから荷物を受け取った住民を対象にしたアンケートでは、96％の人が今後もドローン配送を利用したいと回答しており、その有効性が示されたという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 08 Apr 2024 10:04:47 +0000</pubDate></item><item><title>清水建設　永平寺のデジタルツインを構築　伽藍内全棟をウォークスルーできるデジタル空間やオンライン参拝できるコンテンツも
+</description><pubDate>Sat, 13 Apr 2024 13:15:16 +0000</pubDate></item><item><title>清水建設　永平寺のデジタルツインを構築　伽藍内全棟をウォークスルーできるデジタル空間やオンライン参拝できるコンテンツも
 </title><link>https://ledge.ai/articles/shimizu_eiheiji_digitaltwins</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
