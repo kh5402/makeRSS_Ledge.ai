@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 May 2024 02:36:18 +0000</lastBuildDate><item><title>大阪・関西万博「電力館」に核融合の展示ブース　電事連が検討</title><link>https://ledge.ai/articles/fusion_power_generation_on_display_at_expo2025</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 20 May 2024 11:08:48 +0000</lastBuildDate><item><title>大阪・関西万博「電力館」に核融合の展示ブース　電事連が検討</title><link>https://ledge.ai/articles/fusion_power_generation_on_display_at_expo2025</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2059,7 +2059,39 @@ OpenAIは今後、データ収集とモデル評価をさらに進め、命令�
 :::box
 
 :::
-</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
+</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>AIは発明家として認められず　東京地裁「発明は人間の創造的活動」と判断</title><link>https://ledge.ai/articles/ai_not_recognized_as_inventor_tokyo_district_court</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+東京地方裁判所は2024年5月16日、AIが発明した技術の特許認可を巡る訴訟で、「発明者は人間に限られる」との判決を下した。原告はAIである「ダバス」を発明者として特許出願していたが、特許庁はこれを認めず、原告の請求を{target=“_blank”}。
+
+### 判決の背景
+米国在住の原告は、AI「ダバス」を発明者として記載した特定装置に関する特許を出願。しかし、特許庁は「発明者として記載できるのは人に限られる」として補正を命じたが、原告がこれに応じなかったため出願を却下した。これに不服を抱いた原告は訴訟を提起した。
+
+### 裁判所の判断
+中島基至裁判長は、「発明は人間の創造的活動により生み出されるものと定義される」とし、特許庁の判断を適法と認めた。また、現行法が制定された時点ではAIの発展が予測されていなかったことから、AI発明に関する新たな制度設計が必要であると述べた。
+
+判決文によれば、AIを発明者として認めることは特許法に基づく「発明者」の概念を曖昧にし、発明者の権利や責任の所在が不明確になると指摘。また、AIの自律的創作能力と人間の創作能力の違いを考慮すると、現行法ではAI発明に対する適切な制度設計が難しいとされた。
+
+### 国際的な状況
+AIを発明者とする特許出願は国際的にも議論の対象となっており、例えば、英国の最高裁判所も2023年に「特許権を得られるのは人間のみであり、AIを発明者とすることはできない」との判決を下している。同じく、アメリカ合衆国（発明者は「自然人」でなければならない：2022年）、ヨーロッパ特許庁（発明者は「法的能力を持つ人物」でなければならない：2021年）、ドイツ（AIが発明者として認められるには自然人が記載されなければならない）その他、イスラエル、ニュージーランドなども同様の判決に至っている。
+
+オーストラリア連邦裁判所は2021年にAIが発明者として認められるとの判決を一旦下し話題になったが、2022年4月に大法廷にてこれを覆し、AIは発明者として認められないとした。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 20 May 2024 11:08:48 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2390,33 +2422,7 @@ AI技術を利用して、ターゲットの選定や攻撃の実行など特定
 :::box
 
 :::
-</description><pubDate>Mon, 08 Apr 2024 10:04:47 +0000</pubDate></item><item><title>大阪市、全庁で生成AIの業務活用を開始 — 効率化と品質向上を目指す</title><link>https://ledge.ai/articles/osaka_city_begins_using_genai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-大阪市は2024年4月1日、生成AIの全庁業務活用を{target=“_blank”}した。
-
-大阪市はこれまで、民間事業者との共同検証や試行利用を通じ、生成AIの本格利用に向けた検討と取り組みを進めてきた。このたび、ガイドラインの策定と安全な利用環境の整備を経て、生成AIを業務に活用することで業務の効率化と品質の向上を図るという。
-
-生成AIの利用は、大阪市全職員（水道局及び学校園を除く）を対象に、4月1日より開始する。利用内容には、文章の要約・作成・添削、企画案のたたき台作成、翻訳などを含む。ただし、市民や事業者への直接的な行政サービス提供には使用しない。
-
-議事録や膨大な資料の内容把握、文章の練り直しや誤字脱字の確認に要していた時間の短縮、ゼロからの企画案作成の労力軽減、外国人へのより伝わりやすい翻訳の提供といった業務効率化と品質向上が期待されるという。
-
-利用環境は、Microsoft社の「Azure OpenAI Service」を基にした本市独自の環境で、利用者の入力データは保存されず、生成AIの学習データとしても再利用されない。また、様々なリスクへの対応として「大阪市生成AI利用ガイドライン」に則り利用されるとのこと。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 08 Apr 2024 09:51:03 +0000</pubDate></item><item><title>清水建設　永平寺のデジタルツインを構築　伽藍内全棟をウォークスルーできるデジタル空間やオンライン参拝できるコンテンツも
+</description><pubDate>Mon, 08 Apr 2024 10:04:47 +0000</pubDate></item><item><title>清水建設　永平寺のデジタルツインを構築　伽藍内全棟をウォークスルーできるデジタル空間やオンライン参拝できるコンテンツも
 </title><link>https://ledge.ai/articles/shimizu_eiheiji_digitaltwins</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
