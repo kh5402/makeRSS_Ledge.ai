@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 21 May 2024 11:54:16 +0000</lastBuildDate><item><title>東京で「空飛ぶクルマ」初飛行　高さ10メートルをデモンストレーション</title><link>https://ledge.ai/articles/flying_car_demonstration_in_tokyo</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 21 May 2024 12:20:20 +0000</lastBuildDate><item><title>米掲示板型ニュースサイトReddit、Googleに続きOpenAIともAI学習に向けたデータパートナーシップを締結</title><link>https://ledge.ai/articles/openai-reddit_partnership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月16日、OpenAIとRedditは、両社のユーザーコミュニティに利益をもたらす新たなパートナーシップを{target=“_blank”}した。
+
+この契約により、OpenAIはRedditのデータAPIにアクセスし、リアルタイムで構造化されたコンテンツを取得してChatGPTなどの製品に導入することが可能になる​。
+
+主な契約内容は以下の通り
+**1. RedditコンテンツのChatGPTへの導入：** OpenAIはRedditの投稿をChatGPTおよびその他の製品に組み込み、ユーザーがRedditコミュニティを発見し、関与できるようにする。この取り組みにより、OpenAIのAIツールは最新のトピックに関する情報をより深く理解し、提供することができるようになる​​。
+**2. RedditのAI機能強化：** RedditはOpenAIのAIモデルを活用して、新しいAI機能をユーザーおよびモデレーターに提供する計画である。これにより、Redditのユーザー体験が向上することが期待されている。
+**3. 広告パートナーシップ：** OpenAIはRedditの広告パートナーにもなり、広告収入の面でも協力する。この協力により、両社の商業的な連携が強化される。
+
+Redditは2024年2月、Googleと同様の契約を結んでいる。OpenAIとのパートナーシップにより、Redditのデータの商業利用が進められ、AIの学習と利用の幅が広がることが期待される。なお、RedditのAPIを介してアクセスされるコンテンツは、Redditの承認なしに商業目的で使用することはできないという規約は変更されていない​。
+
+今回の契約について、OpenAIのCOOであるブラッド・ライトキャップは、「Redditと提携してChatGPTを最新で関連性の高い情報で強化し、AIによってRedditの体験を豊かにする可能性を探ることに興奮している」と述べた​。
+
+Redditの共同創設者兼CEOであるスティーブ・ハフマンも、「Redditはインターネット上で最も大規模で活発な会話のアーカイブの一つであり、このパートナーシップはインターネットの接続性を強化し、ユーザーが探している情報を見つけやすくし、新しい観客がRedditでコミュニティを見つける手助けとなる」とコメントしている​。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 21 May 2024 12:20:20 +0000</pubDate></item><item><title>東京で「空飛ぶクルマ」初飛行　高さ10メートルをデモンストレーション</title><link>https://ledge.ai/articles/flying_car_demonstration_in_tokyo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -396,60 +428,7 @@ Google DeepMindのデミス・ハサビスCEOが紹介したこのプロジェ�
 :::box
 
 :::
-</description><pubDate>Wed, 15 May 2024 01:34:46 +0000</pubDate></item><item><title>日本のAI専門組織の設置割合は海外の半分に留まり、1年後さらに差は広がる--ガートナー分析</title><link>https://ledge.ai/articles/gaetner_japans_ai-specific_organizations_are_half_of_those_overseas</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ガートナージャパンは2024年5月9日、AIへの組織的取り組み状況に関する調査結果を{target=“_blank”}した。
-
-調査によると、日本の大企業でAI専門の部門やチームを設置している割合は38%。これは海外企業の76%と比較して半分にとどまることが明らかになった。また、12カ月以内に設置を予定している割合も日本では8%であったのに対し、海外は23%と、1年後ではさらに差が広がることになるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本企業のAIに対する興味関心は海外と同様に高いと考えられることから、今回の結果は、企業としての姿勢や取り組み方の違いが表れたものと同社は見ているとのこと。
-
-調査では、AI専門の部門やチームを率いているのは誰か、という問いに対し、海外企業では、主に最高情報責任者 (CIO)、最高技術責任者 (CTO)、最高データ／アナリティクス責任者 (CDAO) の順で回答が挙げられたのに対し、日本では約3分の1の企業が、IT部門のリーダーを挙げ、その次に、CIO、IT部門以外の事業部門リーダーがAI専門の部門やチームを率いていることが明らかになった。
-
-海外では、AIとデータ関連の戦略を推進するために特定の高位の役職が存在しているのに対し、日本では多くの場合、既存のIT部門がこの役割を担っている状況が見受けられる。
-
-同社のシニア ディレクター アナリストである一志達也氏は「日本企業は専門性を自社に備えて内製するのではなく、外部に委ねようとする傾向がある。『誰が、組織としてAIを活用する機会を探求するのか』が問題となるため、AIの価値を引き出し、日々の活動に定着させるには、誰かしらがリーダーとなり、一定の専門性を備えたチームを構成して、外部リソースの活用と内部の取り組みを、責任を持って推進する必要がある」と述べた。
-
-また、調査結果から、日本の大企業においてAI技術の導入に際して最も大きな障壁となっているのは「人材の不足」であることが明らかになっている。特に大企業での人材不足は深刻で、64%が「慢性的に」または「時として」人材不足に直面していると回答しており、これは海外の同様の割合26%と比較して著しく高い。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-一志氏は、AIに対する日本企業の取り組みについて、「AI専門の部門やチームを設置する割合が海外企業と比べて低いのは、組織的なAI活用の進展に影響を及ぼす可能性がある」と指摘している。さらに、日本企業がAI技術を導入する際の他の主要な障壁として「データの収集や品質の問題」「技術的なスキルの不足」を挙げており、これに対し中堅企業では「AIのユースケースが見つからない」「事業部門を巻き込めていない」「プロジェクトの計画の問題」が上位に挙げられているという。
-
-今後、日本の企業がAI技術の導入を成功させるためには、リーダーシップ、リソース、組織的な要素、個人的な要素という4つの主要な要素を強化することが必要である。一志氏は、これらの要素が充実していない状況を「ないない尽くし」と評し、これを脱却するための具体的な戦略と取り組みが必要であると語っている。
-
-
-
-3つの調査による結果を基に分析
-・海外企業における役職者を対象に実施した調査：2023年10～12月に、米国、ドイツ、英国の703人を対象に実施
-・日本の大企業中心層を対象に実施した調査：2024年2月に446人を対象に実施、うち1,000人以上の企業が86%
-・日本の中堅企業における役職者を対象に実施した調査：2024年1月に従業員100～999人の企業の役職者400人を対象に実施
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 13 May 2024 04:42:44 +0000</pubDate></item><item><title>「G検定」のシラバスを改訂　最新技術情報を網羅した第3版公式テキストが5月27日に発売！</title><link>https://ledge.ai/articles/jdla_deeplearning_for_general</link><description>:::small
+</description><pubDate>Wed, 15 May 2024 01:34:46 +0000</pubDate></item><item><title>「G検定」のシラバスを改訂　最新技術情報を網羅した第3版公式テキストが5月27日に発売！</title><link>https://ledge.ai/articles/jdla_deeplearning_for_general</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
