@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 21 May 2024 12:20:20 +0000</lastBuildDate><item><title>米掲示板型ニュースサイトReddit、Googleに続きOpenAIともAI学習に向けたデータパートナーシップを締結</title><link>https://ledge.ai/articles/openai-reddit_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 22 May 2024 07:08:19 +0000</lastBuildDate><item><title>ソフトバンク、AIによる感情認識・音声加工技術でカスハラ対策強化へ</title><link>https://ledge.ai/articles/softbank_uses_ai_to_combat_customer_harassment</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+ソフトバンクは2024年5月15日、顧客からの通話音声を穏やかなトーンに変換するAI技術の事業化を目指すと{target=“_blank”}した。
+
+カスタマーハラスメント（カスハラ）対策の一環で、コールセンターのオペレーターの負担を軽減することを目的とする。この技術はソフトバンクの「ソフトバンクイノベンチャー」から生まれ、AIを活用した感情認識・音声加工技術により、顧客からの通話音声を穏やかな会話のトーンに変換して、オペレーターに届けることができるソリューションの開発などが、東京大学と共同で研究開発が進められているという。2025年度中の事業化を予定しているとのこと。
+
+ソフトバンクはまた、同社の{target=“_blank”}を策定し、厚生労働省のマニュアルに基づきカスハラ行為の具体例を明示。さらに、カスハラ対策として相談窓口の整備や対応マニュアルの作成を進めている。これにより、従業員の心理的安全性を確保しつつ、顧客との良好な関係を築くことを目指している​。
+
+
+:::box
+
+:::
+</description><pubDate>Wed, 22 May 2024 07:08:19 +0000</pubDate></item><item><title>米掲示板型ニュースサイトReddit、Googleに続きOpenAIともAI学習に向けたデータパートナーシップを締結</title><link>https://ledge.ai/articles/openai-reddit_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -31,35 +45,7 @@ Redditの共同創設者兼CEOであるスティーブ・ハフマンも、「Re
 :::box
 
 :::
-</description><pubDate>Tue, 21 May 2024 12:20:20 +0000</pubDate></item><item><title>東京で「空飛ぶクルマ」初飛行　高さ10メートルをデモンストレーション</title><link>https://ledge.ai/articles/flying_car_demonstration_in_tokyo</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年5月17日、東京都江東区の東京ビッグサイト駐車場とその近くの海上で「空飛ぶクルマ」の初飛行が行われた。この試験飛行は、「SusHi Tech Tokyo 2024」の一環として行われ、約500人の観客が見守る中、操縦士1人を乗せた機体が高さ約10メートルを前後左右に移動した​という。
-
-使用された機体は、米国のLIFT AIRCRAFT社製「HEXA」。1人乗りの機体で、座席の上部に18のプロペラが取り付けられており、幅4.5メートル、高さ2.6メートル、重量約196キロ​となる。
-
-空飛ぶクルマは都市の渋滞緩和や災害時の物資輸送などに多くのメリットが期待されている。このイベントでは空飛ぶクルマ以外にも自動運転バスや電動モビリティなどの次世代技術が展示されている​とのこと。
-
-デモフライトはこの日のほか5月18日、22日、23日にも予定されており、一般公開される。これらのフライトは予約不要で、入場も無料。
-
-共同通信によると、17日のセレモニーには東京都知事の小池百合子氏も登壇し、「最先端の技術をより多くの人に体感してもらいたい。空飛ぶクルマが移動の手段になるのを楽しみにしている」と述べた​とのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 21 May 2024 11:54:16 +0000</pubDate></item><item><title>ラピダス、データセンター向けAI半導体で米エスペラント・テクノロジーズと提携</title><link>https://ledge.ai/articles/rapidus_esperanto_technologies_sign_sign-memorandum_of_cooperation</link><description>:::small
+</description><pubDate>Tue, 21 May 2024 12:20:20 +0000</pubDate></item><item><title>ラピダス、データセンター向けAI半導体で米エスペラント・テクノロジーズと提携</title><link>https://ledge.ai/articles/rapidus_esperanto_technologies_sign_sign-memorandum_of_cooperation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1998,7 +1984,35 @@ OpenAIは今後、データ収集とモデル評価をさらに進め、命令�
 :::box
 
 :::
-</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>欧州評議会、AIに関する初の国際条約を採択　日本ほか非加盟国なども策定に参加</title><link>https://ledge.ai/articles/cou_adopt_a_treaty_on_ai</link><description>:::small
+</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>東京で「空飛ぶクルマ」初飛行　高さ10メートルをデモンストレーション</title><link>https://ledge.ai/articles/flying_car_demonstration_in_tokyo</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月17日、東京都江東区の東京ビッグサイト駐車場とその近くの海上で「空飛ぶクルマ」の初飛行が行われた。この試験飛行は、「SusHi Tech Tokyo 2024」の一環として行われ、約500人の観客が見守る中、操縦士1人を乗せた機体が高さ約10メートルを前後左右に移動した​という。
+
+使用された機体は、米国のLIFT AIRCRAFT社製「HEXA」。1人乗りの機体で、座席の上部に18のプロペラが取り付けられており、幅4.5メートル、高さ2.6メートル、重量約196キロ​となる。
+
+空飛ぶクルマは都市の渋滞緩和や災害時の物資輸送などに多くのメリットが期待されている。このイベントでは空飛ぶクルマ以外にも自動運転バスや電動モビリティなどの次世代技術が展示されている​とのこと。
+
+デモフライトはこの日のほか5月18日、22日、23日にも予定されており、一般公開される。これらのフライトは予約不要で、入場も無料。
+
+共同通信によると、17日のセレモニーには東京都知事の小池百合子氏も登壇し、「最先端の技術をより多くの人に体感してもらいたい。空飛ぶクルマが移動の手段になるのを楽しみにしている」と述べた​とのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 21 May 2024 11:54:16 +0000</pubDate></item><item><title>欧州評議会、AIに関する初の国際条約を採択　日本ほか非加盟国なども策定に参加</title><link>https://ledge.ai/articles/cou_adopt_a_treaty_on_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2343,27 +2357,7 @@ AI技術を利用して、ターゲットの選定や攻撃の実行など特定
 :::box
 
 :::
-</description><pubDate>Mon, 15 Apr 2024 01:27:37 +0000</pubDate></item><item><title>米ワシントン州、銃撃事件の裁判「AIで強化した動画は証拠として認めない」高等裁判所の裁定</title><link>https://ledge.ai/articles/judge_blocks_ai_enhanced_video</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-ワシントン州の裁判所が「AI技術を使用して強化されたビデオを法廷での証拠として使用することを禁じる」という初めての裁定を下した。2024年4月3日に現地の各メディアが報じたこの判決は、キング郡高等裁判所の裁判官、リロイ・マッカロー判事によって出された。事件は、2021年にシアトル近郊のバーの外で起きた銃撃事件に関連しており、被告のジョシュア・プロカは3人の命を奪い、2人を負傷させたとされている。
-
-プロカ被告の弁護団は、携帯電話の映像をAIで強化して明確化し、裁判での証拠として提出しようと試みた。しかし、この強化されたビデオは元の映像にないデータを加えたり、削除したりしており、実際の出来事を正確に反映していると証明する方法がないため、問題が発生した。さらに、AIの使用によって映像が「視覚的には魅力的に見えるが、実際のシーンを正確に表していない」という懸念が専門家から提起された​という。
-
-マッカロー判事は、AI技術が「AIが示すべきだと考える」内容を不透明な方法で表現するため、その証拠を採用することは陪審員を混乱させ、証言の信頼性を損なう恐れがあると述べた。この決定は、AIの法廷での扱いについての重要な前例となり、今後の類似の裁判において参考とされる可能性が高い。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 13 Apr 2024 13:15:16 +0000</pubDate></item><item><title>清水建設　永平寺のデジタルツインを構築　伽藍内全棟をウォークスルーできるデジタル空間やオンライン参拝できるコンテンツも
+</description><pubDate>Mon, 15 Apr 2024 01:27:37 +0000</pubDate></item><item><title>清水建設　永平寺のデジタルツインを構築　伽藍内全棟をウォークスルーできるデジタル空間やオンライン参拝できるコンテンツも
 </title><link>https://ledge.ai/articles/shimizu_eiheiji_digitaltwins</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
