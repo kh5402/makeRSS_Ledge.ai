@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 23 May 2024 13:43:09 +0000</lastBuildDate><item><title>ELYZAと他2社、NEDOのGENIACプロジェクト「競争力のある生成AI基盤モデルの開発」に追加で採択</title><link>https://ledge.ai/articles/nedo_geniac_adopted_3additional_businesses</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 May 2024 02:35:27 +0000</lastBuildDate><item><title>Microsoft Build 2024開催「AIの未来を形作る」AIツールの進化と拡大</title><link>https://ledge.ai/articles/microsoft_build2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月21日、米Microsoftは年次開発者会議「Microsoft Build 2024」をシアトルとオンラインで開催し、同社CEOのサティア・ナデラ氏が{target=“_blank”}。今年のBuildでは、AI技術の進化と開発者向けツールの拡大が強調された。
+
+同社CCO（Chief Communications Officer）のフランク・X・ショウ氏の{target=“_blank”}によると、過去1年間でMicrosoftは「Microsoft Copilot」を開発し、150以上の更新をリリースした。さらに「Copilot Stack」を構築し、開発者が自分自身のコパイロットを作成できるようにした。同社は「GitHub Copilot」を通じて180万人の有料会員を獲得し、最も広く採用されたAI開発ツールとなったという。
+
+5月20日には、新カテゴリーの「{target=“_blank”}」を紹介した。AI対応PCの中で最も高速で、開発者がエッジで差別化されたAI体験を提供できるデバイスだという。これにより、WindowsはAIのための最もオープンなプラットフォームとなり、開発者に最適な環境を提供する。
+
+@
+
+そのほかBuildでは、以下のイノベーションが発表された
+- **Microsoft Fabric：** 
+データのインジェスト時にリアルタイムで分析し、ビジネス決定を迅速化する「Real-Time Intelligence」を提供する。この新機能は現在プレビュー中であり、低/ノーコードのユーザー体験とコードリッチなUIを提供する。
+- **GitHub Copilotの新しい拡張機能：**  Azure、Docker、Sentryなどのサービスを統合し、開発速度を向上させる。
+- **新モデルGPT-4oとPhi-3-vision：** 
+OpenAIの新モデルGPT-4oやMicrosoftの新しいマルチモーダルモデル「Phi-3-vision」がAzure AIで利用可能となった。
+- **MicrosoftとKhan Academyの提携：**  AIを活用した教育支援が強化される。
+- **Cognition AIとの提携：** 複雑なタスクを支援する自律AIソフトウェアエージェントDevinが導入される。
+
+さらに、MicrosoftはAMDのMI300X AIアクセラレーターチップを搭載したAzure ND MI300X v5仮想マシンシリーズを発表し、高性能コンピューティング（HPC）とAIトレーニングのニーズに応える。
+
+Microsoft Build 2024には20万人以上が登録し、シアトルで4,000人が参加。300以上のセッションやデモ、ラボが提供され、発表される新製品・ソリューションは約60件にのぼるという。
+
+リアルタイムインテリジェンス、GitHub Copilotの拡張性、最先端のマルチモーダルモデル、教育支援の新たな提携、強力な仮想マシン、Copilotの進化など、多岐にわたる技術革新が発表された。詳細は、Microsoftの主要な幹部による基調講演で確認できる。
+
+@
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 24 May 2024 02:35:27 +0000</pubDate></item><item><title>ELYZAと他2社、NEDOのGENIACプロジェクト「競争力のある生成AI基盤モデルの開発」に追加で採択</title><link>https://ledge.ai/articles/nedo_geniac_adopted_3additional_businesses</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -345,55 +382,7 @@ AR技術を利用して、ユーザーが自身のメイクをデジタルデー
 :::box
 
 :::
-</description><pubDate>Wed, 15 May 2024 15:21:49 +0000</pubDate></item><item><title>生成AIによる服装リアルタイムデザインを実現するツール「LOOK」深センのAIスタートアップが発表</title><link>https://ledge.ai/articles/ai_fashion_design_tool</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-中国深セン市に本拠を置く新興AIテック企業「基本操作科技」は、生成AIを活用した服装デザインツール「Look」を{target=“_blank”}した。このツールは、ファッションデザインのプロセスを効率的かつ創造的に変革することを目指している。
-
-## 主な機能
-**リアルタイムデザイン変換：** デザイナーのスケッチを、LOOKの生成AI技術によって瞬時に詳細なデザイン画像へ変換する。これにより、アイデアの即時視覚化が可能となり、デザインの過程が飛躍的に速くなる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-**細部の精密調整：** LOOKのプラットフォームでは、デザインの微調整が細かく行えるため、デザイナーは最終的な製品を自分のビジョン通りに仕上げることができる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-**モデル試着：** バーチャルモデルを使用してデザインされた服を試着し、異なる体型やスタイルでの見え方を確認することができる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-**動的試着：** AIを利用して生成された動画を通じて、実際の動作中の衣服の流れやフィット感を評価できる。これにより、実際に衣服を生産する前にその機能性や外観を完全に理解することが可能となる。
-
-
-LOOK AIはプロクリエイト（Procreate）との互換性も持ち、Photoshopへの対応も計画されている。これにより、デザイナーは既存のツールを活用しながら、LOOKの高度なAI機能を組み合わせることが可能となる。
-
-同社は、この技術がデザインのプロセスを大幅に簡素化し、デザインの品質を向上させることで、ファッション業界に新たな標準をもたらす可能性があるという。また、生産前のデザインの調整にかかる時間とコストの削減、そして持続可能なファッション制作へ貢献するとしている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 14 May 2024 14:44:56 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
+</description><pubDate>Wed, 15 May 2024 15:21:49 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
