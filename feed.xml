@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 May 2024 07:27:37 +0000</lastBuildDate><item><title>Microsoft Build 2024開催「AIの未来を形作る」AIツールの進化と拡大</title><link>https://ledge.ai/articles/microsoft_build2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 May 2024 08:35:29 +0000</lastBuildDate><item><title>Microsoft Build 2024開催「AIの未来を形作る」AIツールの進化と拡大</title><link>https://ledge.ai/articles/microsoft_build2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1577,7 +1577,46 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>OpenAI　超知能を制御するチームが解散「安全文化とプロセスは派手な製品に押しのけられてきた」イリヤ氏に続く共同責任者の退職</title><link>https://ledge.ai/articles/superalignment_team_effectively_dissolved</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>スタンフォード大学　GPT-4oとGemini 1.5 Proの2つの最新マルチモーダルAIの性能の秘密を検証</title><link>https://ledge.ai/articles/many_shot_in_context_learning_in_multimordal_foundation_models</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年5月16日、スタンフォード大学の研究チームは、マルチモーダルモデルにおける多ショットコンテキスト内学習（ICL）の効果を調査した研究結果を{target=“_blank”}した。
+
+この研究では、GPT-4oとGemini 1.5 Proという2つの先進的なモデルを用いて、画像とテキストを組み合わせた大規模モデル（LLM）の性能を評価したとのこと。
+
+研究者らは、自然画像、医療画像、リモートセンシング、分子画像など10種類のデータセットを使用し、多クラス分類、多ラベル分類、詳細な分類タスクで実験を行った。特に、少数の例示（100未満）と多数の例示（最大2,000）の性能を比較した結果、多数の例示を使用することで全てのデータセットで性能が大幅に向上することが明らかになったという。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+上図は、多ショット・マルチモーダル文脈内学習とゼロショットおよび少数ショット・マルチモーダルICL（in context learning：文脈内学習）の比較だ。ゼロショットと少数ショットの設定では、それぞれ、テストクエリの前の文脈で、実証例が提供されないか、少数の実証例のみが提供される。一方、多ショットICLでは、クエリー参照を用いて一度に複数のクエリーを実行する。
+
+### 主要な発見
+**性能向上:** 多数の例示を使用することで、特にGemini 1.5 Proは、例示数が増えるにつれて対数的に性能が向上することが確認された。
+**データ効率:** Gemini 1.5 Proは、多くのデータセットでGPT-4oよりも高いデータ効率を示し、少数の例示から迅速に学習する能力があることが分かった​​​​。
+**バッチ処理の効果:** 複数のクエリを一度に処理するバッチ処理を導入することで、ゼロショットおよび多ショット設定の両方で性能が向上し、クエリごとのコストと待ち時間が大幅に削減された​​。
+
+
+研究では、各モデルのゼロショット性能および最適なデモセットサイズでの性能を比較した。結果、Gemini 1.5 Proは多くのデータセットで一貫して高いパフォーマンスを示し、特にHAM10000、FIVES、EuroSATなどで大幅な改善が見られた​​という。
+
+この研究の結果は、マルチモーダルモデルが多くの例示を使用して学習する能力を持ち、新しいタスクやドメインに迅速に適応できることを示している。今後は、他のタスクやオープンソースのマルチモーダルモデルを用いたさらなる研究が期待される。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 24 May 2024 08:35:29 +0000</pubDate></item><item><title>OpenAI　超知能を制御するチームが解散「安全文化とプロセスは派手な製品に押しのけられてきた」イリヤ氏に続く共同責任者の退職</title><link>https://ledge.ai/articles/superalignment_team_effectively_dissolved</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1983,57 +2022,7 @@ Morph innは、ただ単に技術を展示する場ではなく、参加者が�
 
 :::
 
-</description><pubDate>Mon, 06 May 2024 10:25:28 +0000</pubDate></item><item><title>OpenAI　LLMのセキュリティ強化に向けた新たなフレームワーク「The Instruction Hierarchy」を発表</title><link>https://ledge.ai/articles/openai_instruction_hierarchy</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年4月19日、OpenAIの研究チームは大規模言語モデル（LLM）のセキュリティを強化する新たな手法「The Instruction Hierarchy」を{target=“_blank”}した。このフレームワークは、異なる優先度の命令を効果的に処理し、モデルの安全性と信頼性を保証することを目指している。
-
-LLMは近年、プロンプトインジェクションやジェイルブレイクなどのサイバー攻撃により、不正な命令で操作されるリスクが高まっている。これに対応するため、研究チームは命令の優先度に基づく階層的な処理を導入。このアプローチにより、モデルは最も信頼性の高い命令のみを選択的に実行し、不適切な命令は無視するという。
-
-下図はChatGPTとの会話例。現代のLLMは、信頼できるシステムからのプロンプトから、ツールからの信頼できない出力まで、様々なタイプのメッセージを提供する。この例では、インターネット検索結果のプロンプト・インジェクション攻撃を無視するようになっている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この新システムは、特にGPT-3.5 Turboでの実験を通じてその効果が確認されており、見たことのない攻撃タイプに対してもモデルの堅牢性が向上が見られたとのこと。主要な安全性評価では最大63%、未知の攻撃タイプに対する一般化能力では34%の改善が確認されている。
-
-下図２「主な結果」では、命令階層を用いて学習したモデルは、すべての主な評価において安全性を向上させ、ロバストネス（堅牢性）を最大63%向上させたことが示されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-下図３「汎化の結果」命令階層は、トレーニングから明示的に除外した各評価基準に対しても汎化を示し、頑健性を最大34%向上させたという。これには、安全でないモデル出力をトリガーするジェイルブレイク、システムメッセージからパスワードを抽出しようとする攻撃、ツール使用によるプロンプトインジェクションが含まれる。これらの結果は、LLMが命令階層を内部化することを学習し、見たことのないプロンプトに対しても、全体的に安全で制御しやすくなったことを示唆している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-OpenAIは今後、データ収集とモデル評価をさらに進め、命令階層の精度を高めることで、LLMの堅牢性を一層強化する計画である。これにより、企業や開発者がAIをより安心して利用できる環境が整う見込みだ​。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 05 May 2024 10:24:59 +0000</pubDate></item><item><title>不謹慎・不適切・不正確発言は報告してニャン　一歩先行く横須賀市　AIチャットボット「ニャンぺい」公開</title><link>https://ledge.ai/articles/yokosuka_city_nyampei-bot</link><description>:::small
+</description><pubDate>Mon, 06 May 2024 10:25:28 +0000</pubDate></item><item><title>不謹慎・不適切・不正確発言は報告してニャン　一歩先行く横須賀市　AIチャットボット「ニャンぺい」公開</title><link>https://ledge.ai/articles/yokosuka_city_nyampei-bot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
