@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 May 2024 02:35:27 +0000</lastBuildDate><item><title>Microsoft Build 2024開催「AIの未来を形作る」AIツールの進化と拡大</title><link>https://ledge.ai/articles/microsoft_build2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 24 May 2024 07:27:37 +0000</lastBuildDate><item><title>Microsoft Build 2024開催「AIの未来を形作る」AIツールの進化と拡大</title><link>https://ledge.ai/articles/microsoft_build2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2409,7 +2409,72 @@ ThornとAll Tech Is Humanは、Amazon、Anthropic、Civitai、Google、Meta、Me
 
 :::
 
-</description><pubDate>Wed, 17 Apr 2024 06:39:03 +0000</pubDate></item><item><title>ソニー・ミュージックグループ「オプトアウト宣言」　AI学習におけるコンテンツ使用を禁止し、約700の開発者や配信企業に警告</title><link>https://ledge.ai/articles/sonymusic_declaration_of_opt_out</link><description>:::small
+</description><pubDate>Wed, 17 Apr 2024 06:39:03 +0000</pubDate></item><item><title>GPT-4o「Sky」の声がスカーレット・ヨハンソンのものだとする問題　米俳優組合はスカーレットを支持、OpenAIは彼女の模倣ではない根拠を説明</title><link>https://ledge.ai/articles/sag_aftra_statement_regarding_scarlett_johansson_and_openai_sky</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+## SAG-AFTRA、スカーレット・ヨハンソンとGPT-4o「Sky」に関する声明
+米国の俳優組合（SAG-AFTRA）は2024年5月21日、会員の声と肖像に関し、無断でデジタルレプリカが作成されることを防ぐための連邦法案を推進すると{target=“_blank”}した。
+
+SAG-AFTRAは声明で「スカーレット・ヨハンソン氏がこの重要な問題について声を上げてくれたことに感謝している。彼女の懸念を共有し、ChatGPT-4oアプライアンス『Sky』の開発に使用された声についての明確さと透明性を求める彼女の権利を全面的に支持する」と述べた。また、SAG-AFTRAは、会員の声と肖像だけでなく、全ての人々を無断複製から保護する連邦法案の必要性を強調した。
+
+また、OpenAIがこの問題に対して対応し、『Sky』の使用を一時停止することを決定したことに満足していると述べ、今後も透明で堅牢な保護を確立するために他の業界関係者と協力していく意向を示している。
+
+## OpenAI、ChatGPTの声選定に関する詳細を発表
+2024年5月19日、OpenAIは、ChatGPTの音声機能の選定プロセスに関する詳細を{target=“_blank”}した。5つの音声は、業界をリードするキャスティングおよびディレクティングの専門家と協力して、400以上の応募から選ばれたものだという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社CEOのサム・アルトマン氏は2024年5月20日に「Skyの声はスカーレット・ヨハンソン氏のものではなく、彼女を模倣する意図もなかった」と述べ、彼女への敬意を表して『Sky』の使用を一時停止したことを謝罪した。
+
+さらに同社は5月22日に声明を更新し、ヨハンソン氏とのやり取りのタイムラインを提供した。「Sky」の声のキャスティングは、ヨハンソン氏への最初の接触よりも前に行われていたという。
+
+以下に、音声機能の開発と声優の選定プロセスに関するタイムラインをまとめる。
+
+:::box
+&gt; #### **ChatGPT音声機能開発のタイムライン**
+&gt; 
+ **2023年5月10日** キャスティングエージェンシーとキャスティングディレクターが声優を募集。400以上の応募が集まる。5月中にキャスティングチームが14人の声優を選定。
+ 
+ **2023年5月末** 最終候補の声優がOpenAIに提示され、音声機能のビジョンや技術的な詳細について話し合いが行われる。
+ 
+ **2023年6月～7月** 最終選考で選ばれた声優がサンフランシスコで録音セッションを実施。
+ 
+ **2023年9月11日** サム・アルトマン氏が**スカーレット・ヨハンソン氏に接触**し、6人目の声優としての参加を打診。彼女は1週間後に辞退。
+ 
+ **2023年9月25日** 「Breeze」「Cove」「Ember」「Juniper」「Sky」の5つの声がChatGPTに実装。
+ 
+ **2024年5月10日** アルトマン氏が**ヨハンソン氏のチームに接触**し、GPT-4oのリリースについて説明。
+ 
+ **2024年5月13日** GPT-4oがリリースされ、新しいVoice ModeがChatGPT Plusユーザー向けにアルファ版で提供。
+ 
+ **2024年5月15日** 「Sky」の使用について**ヨハンソン氏のチームと協議**。
+ 
+ **2024年5月19日** ヨハンソン氏への配慮から「Sky」の使用を一時停止。
+ 
+ **2024年5月20日** アルトマン氏が「Sky」の声がヨハンソン氏のものではないことを説明し、謝罪。
+ 
+ **2024年5月22日** OpenAIがヨハンソン氏とのやり取りのタイムラインを提供。
+
+:::
+
+このプロセスを通じて、OpenAIは音声俳優の選定とサンプリングを慎重に行い、透明性と公平性を保つための措置を講じてきた。今後、ChatGPTの多様なユーザーのニーズに応えるために、さらなる音声オプションの導入を予定している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 24 May 2024 07:27:37 +0000</pubDate></item><item><title>ソニー・ミュージックグループ「オプトアウト宣言」　AI学習におけるコンテンツ使用を禁止し、約700の開発者や配信企業に警告</title><link>https://ledge.ai/articles/sonymusic_declaration_of_opt_out</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2795,38 +2860,4 @@ Emi 2 は商用利用が可能で、追加学習において無断転載画像�
 :::
 :::box
 
-:::</description><pubDate>Wed, 24 Apr 2024 08:18:13 +0000</pubDate></item><item><title>40年後のTEDはどんな感じ？OpenAI「Sora」で制作されたTED40周年記念ビデオ
-</title><link>https://ledge.ai/articles/ted2024_sora</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-“What will TED look like in 40 years? “ 「TED は 40 年後にはどのようになっているでしょうか? 」
-
-2024年4月20日、TEDのX（旧Twitter）アカウントを通じ、動画生成AI「Sora」が描く40年後のTEDの姿を描いたビデオが{target=“_blank”}され、このプロジェクトが注目を集めている。
-
-このビデオプロジェクトは、TEDの40周年を記念する「TED2024」に寄せて制作され、未来への期待とクリエイティビティを称える内容が盛り込まれている。TED2024は「The Brave and the Brilliant」というテーマで開催されたカンファレンスで、2024年4月15日から19日までカナダのバンクーバーで開催された。
-
-このビデオは、アーティスト・作家・映画監督として多方面で活躍するPaul Trillo氏とOpenAIが協力し、話題の動画生成モデル「Sora」を用いて、40年後のTEDの姿を描いたビデオを制作。TEDのロゴを除く全てがAIによって生成され、未来の可能性を映像化しているという。
-
-Paul Trillo氏は、未公開のAI「Sora」への初期アクセスを許されたアーティストで、これを用いた作品「{target=“_blank”}」は、3月にOpenAIのブログでも紹介されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-40年後のTEDを描くSoraのビデオは、近日中に{target=“_blank”}で公開されるとのことだ。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Apr 2024 07:06:45 +0000</pubDate></item></channel></rss>
+:::</description><pubDate>Wed, 24 Apr 2024 08:18:13 +0000</pubDate></item></channel></rss>
