@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 25 May 2024 08:37:05 +0000</lastBuildDate><item><title>Microsoft Build 2024開催「AIの未来を形作る」AIツールの進化と拡大</title><link>https://ledge.ai/articles/microsoft_build2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 25 May 2024 12:02:00 +0000</lastBuildDate><item><title>Microsoft Build 2024開催「AIの未来を形作る」AIツールの進化と拡大</title><link>https://ledge.ai/articles/microsoft_build2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1577,7 +1577,41 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>スタンフォード大学　GPT-4oとGemini 1.5 Proの2つの最新マルチモーダルAIの性能の秘密を検証</title><link>https://ledge.ai/articles/many_shot_in_context_learning_in_multimordal_foundation_models</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>「AIにも人の気持ちが分かるかもしれない問題」に迫る　LLMが「心の理論」テストで人間超え　--独ハンブルク大学研究チームが発表</title><link>https://ledge.ai/articles/testing_theory_of_mind_in_llm</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年5月20日、ネイチャー・ヒューマン・ビヘイビア誌に掲載された新たな研究によると、AIモデルが「心の理論」テストで人間を上回る成績を収めることが{target=“_blank”}。
+
+独ハンブルク・エッペンドルフ大学医療センターの神経科学部教授クリスティーナ・ベッキオ氏を中心とする研究チームは、OpenAIのGPT-3.5とGPT-4、MetaのLlamaモデルを使用し、AIと人間の「心の理論」能力を比較する一連のテストを実施した。心の理論とは、他者の感情、意図、信念を理解し、それに基づいて行動を予測する能力を指す。この研究では、特に次の5種類のテストが行われた。
+
+**1. 暗示タスク：** 間接的なコメントから他者の意図を推察する
+**2. 誤信念タスク：** 他者が誤った情報を信じることを理解する
+**3. 社会的失言の認識：** 社会的に不適切な発言を認識する
+**4. 奇妙な物語テスト：** 異常な行動を理解し説明する
+**5. 皮肉を理解する能力：** 皮肉を認識し、その意味を理解する
+
+
+GPT-4は暗示、誤信念、奇妙な物語のテストで人間を上回る成績を示し、皮肉の理解においても優れた結果を収めた。一方、Llamaモデルは全般的に人間の平均を下回ったが、社会的失言の認識においては人間を上回る成績を収めた。これらの結果は、AIが特定のタスクに特化して訓練された結果であり、必ずしも人間のように感情や意図を理解しているわけではないことを示唆しているという。
+
+研究チームは、これらの結果について以下のように考察した。
+- AIモデルが好成績を収めた背景には、訓練データに心の理論に関するタスクが含まれていた可能性が高い。また、AIは特定のタスクに対するパターン認識能力を高めていると考えられる。
+- AIが心の理論テストで優れた成績を収めたとしても、AIが人間のように感情や意図を理解しているわけではない。AIはデータに基づいてパターンを認識し、回答を生成しているに過ぎない。
+- AIの能力を過信することは避けねばならない。AIが心の理論を持っていると誤解することは、技術の誤用や誤解を招く可能性がある。
+- AIの進化に伴い、倫理的な問題やプライバシーの問題も浮上する可能性がある。これらの問題に対する慎重な対応が求められる。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 25 May 2024 12:02:00 +0000</pubDate></item><item><title>スタンフォード大学　GPT-4oとGemini 1.5 Proの2つの最新マルチモーダルAIの性能の秘密を検証</title><link>https://ledge.ai/articles/many_shot_in_context_learning_in_multimordal_foundation_models</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1993,36 +2027,7 @@ Morph innは、ただ単に技術を展示する場ではなく、参加者が�
 
 :::
 
-</description><pubDate>Mon, 06 May 2024 10:32:46 +0000</pubDate></item><item><title>佐川グローバルロジスティクスがエピソテックと共同開発のAR技術を活用した物流オペレーションの実証実験を実施</title><link>https://ledge.ai/articles/sgl_episotech_ar</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-佐川グローバルロジスティクス（以下SGL）とエピソテック株式会社は2024年4月24日、共同でAR技術を活用した物流業務支援システムの実証実験を実施したことを{target=“_blank”}した。エピソテックのAR手順書システム「Dive」を基に開発されたこのシステムは、熟練が不要なオペレーションの実現を目指す。
-
-この取り組みは「ヒトとARが融合する物流オペレーションの未来」の具現化を目指すという。
-期間は2024年1月から3月。SGL喜菖蒲営業所にて、倉庫内オペレーションの最適化と、AR技術の有用性の確認を目的とする。
-
-検証ポイントは以下の通り
-・作業マニュアルにARを活用し、従来の方法と比較して教育にかかる時間の削減が可能か
-・作業者の作業動線をARで表示することで、作業者が迷うことなく作業に従事できるか
-・ARコンテンツを現場スタッフでも簡単に運用可能か
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-24日の実証実験では、作業マニュアルのAR化による教育時間の削減、作業動線のAR表示による作業効率の向上、及びARコンテンツの現場適用の簡便性が検証された。その結果、想定を上回るデータが取得でき、倉庫現場におけるARの有用性を確認できたとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 06 May 2024 10:25:28 +0000</pubDate></item><item><title>生成AIの現状と日本の取り組みに対する松尾教授の考察「これまでにないスピード感」「最善手を指し続けている」AI戦略会議資料公開</title><link>https://ledge.ai/articles/ai_strategy_mtg_9th</link><description>:::small
+</description><pubDate>Mon, 06 May 2024 10:32:46 +0000</pubDate></item><item><title>生成AIの現状と日本の取り組みに対する松尾教授の考察「これまでにないスピード感」「最善手を指し続けている」AI戦略会議資料公開</title><link>https://ledge.ai/articles/ai_strategy_mtg_9th</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
