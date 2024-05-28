@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 26 May 2024 22:22:34 +0000</lastBuildDate><item><title>イーロン・マスク、ブレない主張最新版。「最大の希望は火星。最大の恐怖はAI」パリのテックカンファレンスで講演</title><link>https://ledge.ai/articles/elonmusk_in_paris_vivatech2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 May 2024 05:25:06 +0000</lastBuildDate><item><title>完全自律型AIエンジニア「Devin」をAzureより提供　AIスタートアップ新星CognitionがMicrosoftと提携</title><link>https://ledge.ai/articles/cognition_devin_released_on_microsoft_azure</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国のAIスタートアップCognitionは2024年5月22日、AIソフトウェアエージェント「Devin」を開発者に提供するためMicrosoftと提携したことを{target=“_blank”}した。
+
+この提携により、DevinはMicrosoft Azure上で稼働し、主にコードの移行とモダナイゼーション（近代化）プロジェクトをサポートする。
+
+Devinは、自律的にコードを書き、デバッグし、デプロイする能力を持つAIエージェントで、開発者の日常的なタスクを大幅に効率化することが期待されている。Microsoftは、Visual Studio CodeやGitHubなどの既存の開発者ツールとの統合を通じて、Devinを開発者のワークフローに組み込む予定。これにより開発者はより創造的な問題解決や高度なタスクに集中できるようになる​​という。
+
+Cognition のCEO、スコット・ウー氏は、Devinが自然言語入力を理解し、複雑なコーディングプロジェクトを自主的に管理する能力を持っていると同社のXアカウントで{target=“_blank”}している。また、Devinは学習リソースをオンラインで自動的に検索し、割り当てられたタスクを実行するための戦略を策定することができる​とのこと。
+
+同社は、2024年3月にシリーズA資金調達で2,100万ドルを調達し、Devinの商業化と市場拡大を加速する目的で、翌月には1億7,500万ドルの追加資金を獲得した。これにより、同社の評価額は20億ドルに跳ね上がったという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 27 May 2024 05:25:06 +0000</pubDate></item><item><title>イーロン・マスク、ブレない主張最新版。「最大の希望は火星。最大の恐怖はAI」パリのテックカンファレンスで講演</title><link>https://ledge.ai/articles/elonmusk_in_paris_vivatech2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -330,67 +351,7 @@ NASA長官のビル・ネルソン氏は、「人工知能はNASAで何十年に
 :::box
 
 :::
-</description><pubDate>Sun, 19 May 2024 06:30:26 +0000</pubDate></item><item><title>国内AIテックがLLMのハルシネーション対策を続々発表　オルツ「ハルシネーション自動評価エンジン」・ストックマーク「Stockmark-LLM-100b」</title><link>https://ledge.ai/articles/domestic_companies_launch_llm_hallucination_measures</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-国内のAIテック企業が、大規模言語モデル（LLM）の「ハルシネーション」問題への対策を強化している。
-
-ハルシネーションとは、AIによって生成された回答が、現実には存在しないものであるか、または与えられたデータやコンテキストから著しく逸脱している場合に使われる用語である。AIが幻覚（=ハルシネーション）を見ているかのように、”もっともらしい嘘”をつくため、このように名付けられた。
-
-LLMが事実に基づかない虚偽の回答を生成してしまうため、信頼性の低下を招く重大な問題とされ、各企業が対策に注力し始めている。
-
-## オルツ「ハルシネーション自動評価エンジン」を開発
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-オルツは2024年5月9日、大規模言語モデル（LLM）におけるハルシネーションをスコアリングする手法の開発に成功し、「ハルシネーション自動評価エンジン」を{target=“_blank”}した。
-
-
-このエンジンは、ハルシネーションの発生を判定し、その発生確率を自動的に評価する手法である。実験では、JcommonsenseQAデータセットから作成した擬似評価セットにおいて、72％の正解率でハルシネーションの判定が可能であることが示された。
-
-オルツ独自の軽量型大規模言語モデル「LHTM-OPT」だけでなく、GPT-3.5やLlama2など様々なLLMのハルシネーションのスコアリングが可能だという。
-
-このエンジンは同じ入力データに基づいて複数の生成プロセスを行い、それらの結果を比較することで、生成された内容の不一致や矛盾を特定し、ハルシネーションを確率的に評価する。オルツはこの技術を「alt developer」のAPIサービスを通じて提供し、より多くの開発者が利用可能となっている。
-
-@
-
-
-
-
-
-
-## ストックマーク、1,000億パラメータ規模の独自LLM「Stockmark-LLM-100b」を公開
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ストックマーク株式会社は、2024年2月に経済産業省とNEDOが主催するプロジェクト「{target=“_blank”}」に採択され、ハルシネーションを大幅に抑制し、専門的な質問にも正確に回答できる1,000億パラメータ規模の大規模言語モデル（LLM）「Stockmark-LLM-100b」の開発に成功したことを{target=“_blank”}した。このモデルは2024年5月16日より各種サイトで公開され、商用利用も可能となっている。
-
-「Stockmark-LLM-100b」は、既存のモデルを用いずにゼロから開発されたフルスクラッチの基盤モデルであり、国立研究開発法人産業技術総合研究所との共同研究の一環として開発された。独自に収集した日本語ビジネスデータを中心に事前学習を行い、日本語・ビジネスドメイン・最新の時事話題に精通していることが特徴だ。専門性の高い質問にも高い精度で回答でき、また、回答できない質問には「回答できない」と明確に答えるように訓練し、ハルシネーションの抑制に成功しているという。
-
-このモデルは、生成AIが誤った情報を生成することを防ぎ、特に厳密さが求められるビジネスシーンでの信頼性を向上させる。また、商用利用可能なオープンソースモデルとして公開され、多くのユーザーが試用可能である。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 19 May 2024 06:27:06 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
+</description><pubDate>Sun, 19 May 2024 06:30:26 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
