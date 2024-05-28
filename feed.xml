@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 May 2024 05:25:06 +0000</lastBuildDate><item><title>完全自律型AIエンジニア「Devin」をAzureより提供　AIスタートアップ新星CognitionがMicrosoftと提携</title><link>https://ledge.ai/articles/cognition_devin_released_on_microsoft_azure</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 27 May 2024 05:27:19 +0000</lastBuildDate><item><title>完全自律型AIエンジニア「Devin」をAzureより提供　AIスタートアップ新星CognitionがMicrosoftと提携</title><link>https://ledge.ai/articles/cognition_devin_released_on_microsoft_azure</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1996,7 +1996,26 @@ Morph innは、ただ単に技術を展示する場ではなく、参加者が�
 
 :::
 
-</description><pubDate>Mon, 06 May 2024 10:32:46 +0000</pubDate></item><item><title>生成AIの現状と日本の取り組みに対する松尾教授の考察「これまでにないスピード感」「最善手を指し続けている」AI戦略会議資料公開</title><link>https://ledge.ai/articles/ai_strategy_mtg_9th</link><description>:::small
+</description><pubDate>Mon, 06 May 2024 10:32:46 +0000</pubDate></item><item><title>台湾を「シリコン・アイランド」から「AIアイランド」へ　新総統の就任演説</title><link>https://ledge.ai/articles/taiwan_transformation_into_an_ai_island</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+台湾の第16期総統に就任した頼清徳氏が2024年5月20日、台北市の総統府前広場で行われた就任式で{target=“_blank”}。
+
+演説のタイトルは「民主的で平和かつ繁栄した新しい台湾を築く」
+
+同氏はまず、台湾の民主主義とその進展に言及した。1949年の戒厳令施行から1996年の初の直接選挙による総統選出、2024年の3度目の政権交代を経て、台湾が新しい時代に突入したことを強調した。そして、台湾の未来を築くために国の団結と協力について、行政と立法の協力が不可欠であり、民意を尊重しながら国政を進める必要があると述べた。
+
+また、台湾のAI技術と半導体産業の重要性に触れ、台湾を「シリコン・アイランド」から「AIアイランド」へと進化させることを表明した。AI技術の導入と革新を加速し、台湾の産業、軍事、労働力、経済を強化することを目指すと述べた。さらに、量子コンピューティング、ロボティクス、メタバース、精密医療などの先端技術への投資を推進し、台湾の若者に夢を追う機会を提供することを誓った。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 27 May 2024 05:27:19 +0000</pubDate></item><item><title>生成AIの現状と日本の取り組みに対する松尾教授の考察「これまでにないスピード感」「最善手を指し続けている」AI戦略会議資料公開</title><link>https://ledge.ai/articles/ai_strategy_mtg_9th</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2346,39 +2365,7 @@ ThornとAll Tech Is Humanは、Amazon、Anthropic、Civitai、Google、Meta、Me
 :::box
 
 :::
-</description><pubDate>Fri, 19 Apr 2024 03:34:03 +0000</pubDate></item><item><title>Microsoft「米国大統領選が標的に」最新の脅威報告で、中国のAI操作による選挙介入を警告　韓国、インドの選挙にも同様の警告</title><link>https://ledge.ai/articles/microsoft_threat_intelligence_warned_chinese_ai_io</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月4日、Microsoftの脅威分析センターは、中国がAIを利用したサイバー攻撃および情報操作を強化していると{target=“_blank”}した。同社は、特に中国がAIを活用してアメリカ、韓国、インドの選挙に影響を与えようとするだろうと指摘している。
-
-このレポートでは、2024年1月に行われた台湾の総統選挙で、中国がAI生成のオーディオやビデオを用いた介入がすでに行われていたことが示唆されている。
-
-台湾での選挙介入では、AIが生成したコンテンツが政治的なメッセージを強化し、特定の候補者を支持するかのような偽の情報が流された。この活動は、Microsoftの{target="_blank"}で初めて明らかにされ、以降その手法はさらに洗練されているという。
-
-**台湾選挙におけるAIの影響**
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-上図で紹介されている「Storm-1376」の活動は、前回の脅威レポート以降に活発化しているという。Storm-1376は、中国共産党（CCP）に関連する情報操作グループで、特に台湾の政治家や中国の反体制派を標的に、AIを活用した情報操作を行っているとのこと。このグループはAI生成のニュースアンカーやミームを用いて、視聴者を欺くキャンペーンを展開しており、台湾だけでなく、アメリカや韓国など他の国々でも同様の活動が行われていることが報告されている。
-
-これらのキャンペーンはいくつかの重要な進化を遂げている。視聴者を欺くためにAIが生成した写真を取り入れたり、陰謀論的なコンテンツ（特に米国政府に対するもの）を煽ったり、ローカライズされたコンテンツで韓国などの新たな人口をターゲットにしたりしているとのことだ。
-
-
-中国はさらに、南太平洋諸島や南シナ海地域、米国防産業基地に対するサイバー攻撃を行っており、これらの攻撃は政治的および経済的な利益を追求するものだという。
-
-同社は、AIを活用した情報操作が、選挙期間以外にも国際的な緊張を引き起こす潜在的なリスクを持つと報告している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 18 Apr 2024 06:32:36 +0000</pubDate></item><item><title>GPT-4o「Sky」の声がスカーレット・ヨハンソンのものだとする問題　米俳優組合はスカーレットを支持、OpenAIは彼女の模倣ではない根拠を説明</title><link>https://ledge.ai/articles/sag_aftra_statement_regarding_scarlett_johansson_and_openai_sky</link><description>:::small
+</description><pubDate>Fri, 19 Apr 2024 03:34:03 +0000</pubDate></item><item><title>GPT-4o「Sky」の声がスカーレット・ヨハンソンのものだとする問題　米俳優組合はスカーレットを支持、OpenAIは彼女の模倣ではない根拠を説明</title><link>https://ledge.ai/articles/sag_aftra_statement_regarding_scarlett_johansson_and_openai_sky</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
