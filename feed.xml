@@ -27,29 +27,7 @@ AIへの注力については、AIがビジネスの成長を加速させる最�
 :::box
 
 :::
-</description><pubDate>Tue, 28 May 2024 06:26:06 +0000</pubDate></item><item><title>生成AI悪用でソースコード入手　ランサムウエア作成の容疑で逮捕者</title><link>https://ledge.ai/articles/ransomware_creator_using_genai_arrested</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-警視庁が川崎市に住む無職の男性を不正指令電磁的記録作成の疑いで逮捕したと2024年5月28日に{target=“_blank”}などが報じた。2023年3月に複数の生成AIを利用してコンピューターウイルスの設計図であるソースコードを入手し、実際にウイルスを作成した疑いが持たれている。
-
-この男性は、ネット上に存在する対策が不十分な生成AIを使用してウイルスを作成したとされる。作成されたウイルスは、標的データを暗号化し、暗号資産を要求するランサムウェアであったという。警視庁によると、男は「ランサムウェアを作って金を稼ごうと思った」と供述しているとのこと。しかし、現時点でこのウイルスによる実際の被害は確認されていない。
-
-警視庁は3月に、この男性を偽造の身分証を使用して携帯電話用SIMカードを不正に取得した詐欺容疑で逮捕していた。その捜査の過程で、この男が作成したウイルスが発見され、今回の逮捕に至った。
-
-日本の刑法では、不正指令電磁的記録の作成や提供は実際の被害が発生しなくても違法とされる（刑法第168条の2、3）。生成AI技術の悪用を防ぐため、AI提供企業は悪意のある指示に対するフィルタリングの強化や利用状況のモニタリングシステムの導入が求められている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 28 May 2024 06:21:09 +0000</pubDate></item><item><title>世界初 AI キャビンクルー「Sama 2.0」がカタール航空から ドバイのマーケットイベントに参加</title><link>https://ledge.ai/articles/qatar_airway_sama2-0</link><description>:::small
+</description><pubDate>Tue, 28 May 2024 06:26:06 +0000</pubDate></item><item><title>世界初 AI キャビンクルー「Sama 2.0」がカタール航空から ドバイのマーケットイベントに参加</title><link>https://ledge.ai/articles/qatar_airway_sama2-0</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -358,7 +336,31 @@ Redditの共同創設者兼CEOであるスティーブ・ハフマンも、「Re
 :::box
 
 :::
-</description><pubDate>Tue, 21 May 2024 12:20:20 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
+</description><pubDate>Tue, 21 May 2024 12:20:20 +0000</pubDate></item><item><title>ラピダス、データセンター向けAI半導体で米エスペラント・テクノロジーズと提携</title><link>https://ledge.ai/articles/rapidus_esperanto_technologies_sign_sign-memorandum_of_cooperation</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ラピダスは2024年5月15日、データセンター向けAI半導体の開発と生産において、米国のエスペラント・テクノロジーズと提携したと{target=“_blank”}した。エスペラント・テクノロジーズは、RISC-V命令セットアーキテクチャに基づく高性能かつエネルギー効率の高いAIおよび高性能コンピューティング（HPC）ソリューションの開発で知られる。
+
+この提携により、両社は低消費電力のAI半導体を共同開発し、データセンターにおけるエネルギー効率の向上を目指す。ラピダスは2023年9月に北海道千歳市でIIM（Innovative Integration for Manufacturing）の建設を開始しており、2025年にパイロット生産ラインの稼働を予定している。量産は2027年から開始される計画だ​。
+
+エスペラント・テクノロジーズのCEOであるアート・スウィフト氏は、ラピダスとの戦略的提携が日本での事業拡大に重要な役割を果たすと述べている。また、ラピダスのCEOである小池淳義氏は、この提携がエネルギー効率の高い半導体設計と製造に向けた大きな一歩であると強調した​。
+
+データセンターの電力消費は、生成AIやHPCアプリケーションの普及に伴い急増している。国際エネルギー機関（IEA）の予測によれば、2026年までにデータセンターの総電力消費は1,000テラワット時（TWh）に達する見込みであり、これは日本全体の電力消費量に相当するという。このような背景から、エネルギー効率の向上が求められている​。
+
+両社は提携により次世代半導体の設計と製造の最適化を進め、データセンターのエネルギー消費問題に対応するためのソリューションの提供を目指すとした。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 21 May 2024 11:50:56 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
@@ -2003,7 +2005,29 @@ Morph innは、ただ単に技術を展示する場ではなく、参加者が�
 
 :::
 
-</description><pubDate>Mon, 06 May 2024 10:32:46 +0000</pubDate></item><item><title>台湾を「シリコン・アイランド」から「AIアイランド」へ　新総統の就任演説</title><link>https://ledge.ai/articles/taiwan_transformation_into_an_ai_island</link><description>:::small
+</description><pubDate>Mon, 06 May 2024 10:32:46 +0000</pubDate></item><item><title>生成AI悪用でソースコード入手　ランサムウエア作成の容疑で逮捕者</title><link>https://ledge.ai/articles/ransomware_creator_using_genai_arrested</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+警視庁が川崎市に住む無職の男性を不正指令電磁的記録作成の疑いで逮捕したと2024年5月28日に{target=“_blank”}などが報じた。2023年3月に複数の生成AIを利用してコンピューターウイルスの設計図であるソースコードを入手し、実際にウイルスを作成した疑いが持たれている。
+
+この男性は、ネット上に存在する対策が不十分な生成AIを使用してウイルスを作成したとされる。作成されたウイルスは、標的データを暗号化し、暗号資産を要求するランサムウェアであったという。警視庁によると、男は「ランサムウェアを作って金を稼ごうと思った」と供述しているとのこと。しかし、現時点でこのウイルスによる実際の被害は確認されていない。
+
+警視庁は3月に、この男性を偽造の身分証を使用して携帯電話用SIMカードを不正に取得した詐欺容疑で逮捕していた。その捜査の過程で、この男が作成したウイルスが発見され、今回の逮捕に至った。
+
+日本の刑法では、不正指令電磁的記録の作成や提供は実際の被害が発生しなくても違法とされる（刑法第168条の2、3）。生成AI技術の悪用を防ぐため、AI提供企業は悪意のある指示に対するフィルタリングの強化や利用状況のモニタリングシステムの導入が求められている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 28 May 2024 06:21:09 +0000</pubDate></item><item><title>台湾を「シリコン・アイランド」から「AIアイランド」へ　新総統の就任演説</title><link>https://ledge.ai/articles/taiwan_transformation_into_an_ai_island</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2334,45 +2358,7 @@ ThornとAll Tech Is Humanは、Amazon、Anthropic、Civitai、Google、Meta、Me
 :::box
 
 :::
-</description><pubDate>Sun, 21 Apr 2024 06:33:59 +0000</pubDate></item><item><title>自民党「キャッチコピーはAIが提案」新ポスター発表記者会見で「自民党AI」を披露　複数モデルを選択でき、API連携で利用</title><link>https://ledge.ai/articles/jiminto_ai_made_cach-copies</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-自民党は2024年4月15日、新たな政治活動用ポスターを{target=“_blank”}した。
-
-ポスターのキャッチコピー「経済再生 実感をあなたに。」の発案・選定や、デザイン制作に「自民党AI」が用いられたという。このAIは、過去3年間の党政策パンフレットや岸田文雄首相の演説データを基に、500案以上のフレーズを生成し候補を絞り込んだ。最終的には、岸田首相含む人間たちの目で評価し、コピーが確定したという。AIを活用することで「より多くの国民に政策の成果を実感してもらえるよう工夫した」とのこと。
-
-さらに、このポスターのビジュアルには、AIが生成した複数のデザイン要素が採用されており、従来の政治広報とは一線を画する新しい試みだという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この日、党の広報本部長である平井卓也氏は、スピーチ作成や政策立案への活用などに用いられるとして1月に各メディアが{target=“_blank”}自民党AIを、記者会見の場で公開した。最も特徴的なのは、AIモデルを１つに限定することなく、ユーザーが異なるモデルから最適なものを選択し、APIと連携して利用できるインターフェースであると述べた。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-記者からの「ポスターのキャッチコピー作成時のプロンプトはどのようなものか？」という質問に平井氏は、もともと自民党AIには「キャッチコピー案作成」というアシスト機能が付与されており、ポスターに限らずプロジェクトに最適なコピーを生成すると回答した。このたびの「経済再生」というテーマをポスター作成の主軸に置こうと判断したのはあくまで「人間」であると強調。
-
-平井氏はまた、生成AIはプロンプトの良し悪しでその生成結果が大きく左右されることも多い。そのAIの機能を最大限引き出せるようなプロンプトを誰でも簡単に出せるようなアシスト機能を目指すとした。
-
-今のところ、党の広報だけが、限定的に自民党AIを取り扱うことができるという。学習についての権限も同様とのこと。今後、広報の立場を越えて使う場合のAIガバナンスについては、引き続き検討しながら、開発を続けていきたいと述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Apr 2024 03:34:03 +0000</pubDate></item><item><title>GPT-4o「Sky」の声がスカーレット・ヨハンソンのものだとする問題　米俳優組合はスカーレットを支持、OpenAIは彼女の模倣ではない根拠を説明</title><link>https://ledge.ai/articles/sag_aftra_statement_regarding_scarlett_johansson_and_openai_sky</link><description>:::small
+</description><pubDate>Sun, 21 Apr 2024 06:33:59 +0000</pubDate></item><item><title>GPT-4o「Sky」の声がスカーレット・ヨハンソンのものだとする問題　米俳優組合はスカーレットを支持、OpenAIは彼女の模倣ではない根拠を説明</title><link>https://ledge.ai/articles/sag_aftra_statement_regarding_scarlett_johansson_and_openai_sky</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
