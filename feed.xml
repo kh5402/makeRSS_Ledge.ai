@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 29 May 2024 11:23:36 +0000</lastBuildDate><item><title>Canvaが「いらすとや」と提携　生成AIの登場によるデザインソフト市場での競争激化に対応したローカライズ戦略</title><link>https://ledge.ai/articles/canva_irasutoya_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 29 May 2024 11:38:28 +0000</lastBuildDate><item><title>OpenAI 　新モデル「GTP-５?」の学習開始と安全保障委員会設立　退社したライケ氏、競合Anthropicで安全チーム立ち上げ</title><link>https://ledge.ai/articles/openai_has_recently_begun_training_gpt5</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年5月28日、同社が「次世代フロンティアモデルのトレーニングを開始しており、その結果よりAGI（汎用人工知能）への道が次の段階へと進む能力をもたらすシステムとなることに期待を寄せている」と述べ、「GPT5（と想像されるモデル）」がすでにトレーニング段階にあることを表明した。
+
+同社はこの日、安全保障委員会を設立し、AIの安全性とセキュリティに対する取り組みを強化すると{target=“_blank”}した。
+
+新たに設立された安全保障委員会には、取締役のブレット・テイラー氏を委員長とし、CEOのサム・アルトマン氏、取締役のアダム・ディアンジェロ氏とニコール・セリグマン氏などが参加する。この委員会は今後90日間でOpenAIのプロセスと保護措置を評価し、取締役会に提言を行う予定だ​という。
+
+一方で、同月17日にOpenAIを退社したヤン・ライケ氏は競合のAnthropicに移り、安全チームを立ち上げることが{target=“_blank”}より明らかになった。
+
+ライケ氏は、OpenAIで人間より賢いAIの制御を目指すSuperalignmentチームのトップを務めていたが、安全性が後回しにされていると批判し、退社を決意した。同氏は、Anthropicでスケーラブルな監視や自動化されたアライメント研究に取り組む予定であり、新しい「Alignment Science」チームの設立を目指しているとのこと。
+
+
+
+!
+:::small
+画像の出展：{target=“_blank”}
+:::
+
+Anthropicは、2021年に設立されたカリフォルニア州サンフランシスコに拠点を置く非公開企業であり、創業者でCEOのダリオ・アモディ氏は元GoogleおよびOpenAIの研究者である。彼は、GPT-3の開発に携わった後、Anthropicを立ち上げた​。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 29 May 2024 11:38:28 +0000</pubDate></item><item><title>Canvaが「いらすとや」と提携　生成AIの登場によるデザインソフト市場での競争激化に対応したローカライズ戦略</title><link>https://ledge.ai/articles/canva_irasutoya_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -324,39 +360,7 @@ Kotoba Technologies Japanは、音声認識や音声生成を包括的に扱う�
 :::box
 
 :::
-</description><pubDate>Wed, 22 May 2024 07:08:19 +0000</pubDate></item><item><title>米掲示板型ニュースサイトReddit、Googleに続きOpenAIともAI学習に向けたデータパートナーシップを締結</title><link>https://ledge.ai/articles/openai-reddit_partnership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年5月16日、OpenAIとRedditは、両社のユーザーコミュニティに利益をもたらす新たなパートナーシップを{target=“_blank”}した。
-
-この契約により、OpenAIはRedditのデータAPIにアクセスし、リアルタイムで構造化されたコンテンツを取得してChatGPTなどの製品に導入することが可能になる​。
-
-主な契約内容は以下の通り
-**1. RedditコンテンツのChatGPTへの導入：** OpenAIはRedditの投稿をChatGPTおよびその他の製品に組み込み、ユーザーがRedditコミュニティを発見し、関与できるようにする。この取り組みにより、OpenAIのAIツールは最新のトピックに関する情報をより深く理解し、提供することができるようになる​​。
-**2. RedditのAI機能強化：** RedditはOpenAIのAIモデルを活用して、新しいAI機能をユーザーおよびモデレーターに提供する計画である。これにより、Redditのユーザー体験が向上することが期待されている。
-**3. 広告パートナーシップ：** OpenAIはRedditの広告パートナーにもなり、広告収入の面でも協力する。この協力により、両社の商業的な連携が強化される。
-
-Redditは2024年2月、Googleと同様の契約を結んでいる。OpenAIとのパートナーシップにより、Redditのデータの商業利用が進められ、AIの学習と利用の幅が広がることが期待される。なお、RedditのAPIを介してアクセスされるコンテンツは、Redditの承認なしに商業目的で使用することはできないという規約は変更されていない​。
-
-今回の契約について、OpenAIのCOOであるブラッド・ライトキャップは、「Redditと提携してChatGPTを最新で関連性の高い情報で強化し、AIによってRedditの体験を豊かにする可能性を探ることに興奮している」と述べた​。
-
-Redditの共同創設者兼CEOであるスティーブ・ハフマンも、「Redditはインターネット上で最も大規模で活発な会話のアーカイブの一つであり、このパートナーシップはインターネットの接続性を強化し、ユーザーが探している情報を見つけやすくし、新しい観客がRedditでコミュニティを見つける手助けとなる」とコメントしている​。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 21 May 2024 12:20:20 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
+</description><pubDate>Wed, 22 May 2024 07:08:19 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
