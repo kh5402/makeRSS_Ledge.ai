@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 30 May 2024 12:16:00 +0000</lastBuildDate><item><title>「アイファモ (AI Fashion Model)」人間が着用したかのようなリアルなビジュアルを生成し撮影コストを大幅削減できるサービス</title><link>https://ledge.ai/articles/hopelives_aifamo</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 31 May 2024 02:12:41 +0000</lastBuildDate><item><title>ENEOSとPFN、世界初のAIによる原油処理装置自動運転を開始</title><link>https://ledge.ai/articles/eneos_and_pfn_started_auto_operation_of_crude_oil_processing_equipment</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月24日、ENEOSとPreferred Networks (PFN)は、川崎製油所において、原油処理を行う常圧蒸留装置でAIシステムによる安定的な自動運転を開始したことを{target=“_blank”}した。複雑で大規模な石油精製プラントにおいて、AI技術を駆使した自動運転が実現した世界初の事例であるとのこと。
+
+このAIシステムは、従来人の技量に依存していたプラント運転の安定性を大幅に向上させることを目指して開発された。両社は2018年から共同でこのシステムの研究開発を進め、運転ノウハウの継承が課題となる中で、安全性と効率性の向上を図ってきた​という。
+
+常圧蒸留装置では、24個の運転重要因子と930個のセンサーを用いて、温度や圧力、流量などの複数の要素を制御する必要がある。AIシステムはこれらのデータをリアルタイムで解析し、13個のバルブを同時に操作することで、原油の種類や処理量の変動に対応し、常に安定した運転を実現している​。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+実際の運用において、AIシステムは外気温の変化や天候、冷却水の温度変化などの外部要因にも対応し、安定した制御を維持しており、手動操作を超える経済的かつ効率的なプラント運転が可能となったという。
+
+今後両社は、このAIシステムを他の製油所にも展開し、さらにはソリューションパッケージとして一般販売する計画を立てているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 31 May 2024 02:12:41 +0000</pubDate></item><item><title>「アイファモ (AI Fashion Model)」人間が着用したかのようなリアルなビジュアルを生成し撮影コストを大幅削減できるサービス</title><link>https://ledge.ai/articles/hopelives_aifamo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -437,44 +463,7 @@ Anthropicは新たなポリシーを近日中に公開する予定であり、�
 :::box
 
 :::
-</description><pubDate>Sun, 26 May 2024 11:09:22 +0000</pubDate></item><item><title>Microsoft Build 2024開催「AIの未来を形作る」AIツールの進化と拡大</title><link>https://ledge.ai/articles/microsoft_build2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年5月21日、米Microsoftは年次開発者会議「Microsoft Build 2024」をシアトルとオンラインで開催し、同社CEOのサティア・ナデラ氏が{target=“_blank”}。今年のBuildでは、AI技術の進化と開発者向けツールの拡大が強調された。
-
-同社CCO（Chief Communications Officer）のフランク・X・ショウ氏の{target=“_blank”}によると、過去1年間でMicrosoftは「Microsoft Copilot」を開発し、150以上の更新をリリースした。さらに「Copilot Stack」を構築し、開発者が自分自身のコパイロットを作成できるようにした。同社は「GitHub Copilot」を通じて180万人の有料会員を獲得し、最も広く採用されたAI開発ツールとなったという。
-
-5月20日には、新カテゴリーの「{target=“_blank”}」を紹介した。AI対応PCの中で最も高速で、開発者がエッジで差別化されたAI体験を提供できるデバイスだという。これにより、WindowsはAIのための最もオープンなプラットフォームとなり、開発者に最適な環境を提供する。
-
-@
-
-そのほかBuildでは、以下のイノベーションが発表された
-- **Microsoft Fabric：** 
-データのインジェスト時にリアルタイムで分析し、ビジネス決定を迅速化する「Real-Time Intelligence」を提供する。この新機能は現在プレビュー中であり、低/ノーコードのユーザー体験とコードリッチなUIを提供する。
-- **GitHub Copilotの新しい拡張機能：**  Azure、Docker、Sentryなどのサービスを統合し、開発速度を向上させる。
-- **新モデルGPT-4oとPhi-3-vision：** 
-OpenAIの新モデルGPT-4oやMicrosoftの新しいマルチモーダルモデル「Phi-3-vision」がAzure AIで利用可能となった。
-- **MicrosoftとKhan Academyの提携：**  AIを活用した教育支援が強化される。
-- **Cognition AIとの提携：** 複雑なタスクを支援する自律AIソフトウェアエージェントDevinが導入される。
-
-さらに、MicrosoftはAMDのMI300X AIアクセラレーターチップを搭載したAzure ND MI300X v5仮想マシンシリーズを発表し、高性能コンピューティング（HPC）とAIトレーニングのニーズに応える。
-
-Microsoft Build 2024には20万人以上が登録し、シアトルで4,000人が参加。300以上のセッションやデモ、ラボが提供され、発表される新製品・ソリューションは約60件にのぼるという。
-
-リアルタイムインテリジェンス、GitHub Copilotの拡張性、最先端のマルチモーダルモデル、教育支援の新たな提携、強力な仮想マシン、Copilotの進化など、多岐にわたる技術革新が発表された。詳細は、Microsoftの主要な幹部による基調講演で確認できる。
-
-@
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 24 May 2024 02:35:27 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Sun, 26 May 2024 11:09:22 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
