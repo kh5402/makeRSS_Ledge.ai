@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 29 May 2024 11:41:28 +0000</lastBuildDate><item><title>Databricks、日本市場における企業AIブームによる記録的成長を発表ーー 企業による 生成AI 活用の急増</title><link>https://ledge.ai/articles/databricks_japan_to_double_its_local_headcount</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 30 May 2024 10:37:29 +0000</lastBuildDate><item><title>「アイファモ (AI Fashion Model)」人間が着用したかのようなリアルなビジュアルを生成し撮影コストを大幅削減できるサービス</title><link>https://ledge.ai/articles/hopelives_aifamo</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ホープリヴス株式会社は5月14日、AIを活用してモデル撮影のプロセスを効率化する新サービス「アイファモ (AI Fashion Modelの略)」を開始したことを{target=“_blank”}した。アパレル業界の撮影にかかる時間とコストを削減し、マーケティング活動の効率化を実現するという。
+
+アイファモは、クライアントから提供されたトルソーやマネキンに着用された商品の画像を基に、実際の人物が着用しているかのようなリアルなビジュアルを生成AIを用いて作成する。このプロセスにより、従来のモデル撮影に必要な時間、人件費、スタジオのスケジュール調整といった手間を省き、効率的かつ経済的に高品質なモデル画像を提供することが可能になる​とのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+クライアントのニーズに応じたカスタマイズにも対応可能。自社専属のAIモデルの生成依頼や、異なるポーズや背景での画像生成にも対応し、多様なファッションスタイルに適したビジュアルを提供する。これにより、アパレル企業は多様なプロモーション活動を効果的に展開できる​という。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 30 May 2024 10:37:29 +0000</pubDate></item><item><title>Databricks、日本市場における企業AIブームによる記録的成長を発表ーー 企業による 生成AI 活用の急増</title><link>https://ledge.ai/articles/databricks_japan_to_double_its_local_headcount</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -443,40 +474,7 @@ Microsoft Build 2024には20万人以上が登録し、シアトルで4,000人�
 :::box
 
 :::
-</description><pubDate>Fri, 24 May 2024 02:35:27 +0000</pubDate></item><item><title>ELYZAと他2社、NEDOのGENIACプロジェクト「競争力のある生成AI基盤モデルの開発」に追加で採択</title><link>https://ledge.ai/articles/nedo_geniac_adopted_3additional_businesses</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）は2024年5月17日、ELYZAをはじめとする3つの事業者を、日本の生成AIの開発力強化を目的としたプロジェクト「GENIAC（Generative AI Accelerator Challenge）」のもと、2月に追加公募した「ポスト5G情報通信システム基盤強化研究開発事業／競争力ある生成AI基盤モデルの開発（助成）」に採択したと{target=“_blank”}した。採択事業者は、計算資源の支援などを受けることになる。
-
-
-### 各事業者の採択事業テーマ
-
-**株式会社ELYZA：モデル組み合わせによる日本語大規模基盤モデル開発と半自動データ作成フレームの構築**
-東京大学松尾研究室発のスタートアップ「ELYZA」は、大規模言語モデル（LLM）の社会実装を進める企業。今回のプロジェクトにおいて、計算資源の提供や関係者間の連携促進などの支援を受け、{target=“_blank”}に取り組む予定である。なお、東京大学松尾研究室はすでにGENIACの第１期の採択事業者に選ばれている。
-
-
-**株式会社 Kotoba Technologies Japan：End-to-End 音声基盤モデルの開発**
-Kotoba Technologies Japanは、音声認識や音声生成を包括的に扱う「End-to-End音声基盤モデル」の開発を目指す。同社は米国と日本の最新NLP（自然言語処理）およびHPC（高性能計算）の専門知識を融合し、音声における基盤モデル技術の研究開発を行うスタートアップ。このたびの{target=“_blank”}を受け、同社は日英両言語に対応できる音声基盤モデルの大規模な開発に取り組み、そこで得た知見を広く公開していくという。
-
-**富士通株式会社：論理推論を可能とする大規模言語モデルの研究開発**
-富士通は、ビジネスにおける業務効率化に貢献するAI技術の開発に取り組む企業。「Fugaku（富岳）-LLM」をはじめとする基盤モデルの開発、複数の生成AIモデルを組み合わせる混合技術と、安心して業務活用するためのトラスト技術の研究開発を行っている。
-同社は、正確性の高い出力が求められる分野でも業務に使える生成AIを提供することを目的に、この採択を受け、{target=“_blank”}に取り組むという。
-
-
-{target=“_blank”}
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 23 May 2024 13:34:26 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
+</description><pubDate>Fri, 24 May 2024 02:35:27 +0000</pubDate></item><item><title>42 Tokyo、知ってますか？　AIも学べるパリ発の究極のエンジニアスクール　特別インタビュー【第1回】事務局長 佐藤大吾氏</title><link>https://ledge.ai/articles/42tokyo-1</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
