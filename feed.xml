@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 30 May 2024 10:37:29 +0000</lastBuildDate><item><title>「アイファモ (AI Fashion Model)」人間が着用したかのようなリアルなビジュアルを生成し撮影コストを大幅削減できるサービス</title><link>https://ledge.ai/articles/hopelives_aifamo</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 30 May 2024 10:41:34 +0000</lastBuildDate><item><title>「アイファモ (AI Fashion Model)」人間が着用したかのようなリアルなビジュアルを生成し撮影コストを大幅削減できるサービス</title><link>https://ledge.ai/articles/hopelives_aifamo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2472,7 +2472,23 @@ ThornとAll Tech Is Humanは、Amazon、Anthropic、Civitai、Google、Meta、Me
 :::box
 
 :::
-</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>GPT-4o「Sky」の声がスカーレット・ヨハンソンのものだとする問題　米俳優組合はスカーレットを支持、OpenAIは彼女の模倣ではない根拠を説明</title><link>https://ledge.ai/articles/sag_aftra_statement_regarding_scarlett_johansson_and_openai_sky</link><description>:::small
+</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>YouTube Music、Android版にAI鼻歌検索機能を追加</title><link>https://ledge.ai/articles/youtube_hum_to_serch</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+YouTubeが提供する音楽配信サービス「YouTube Music」のAndroidアプリに、鼻歌（ハミング）での楽曲検索機能が追加された。2024年5月24日に米{target=“_blank”}などで報じられた​。
+
+新しい検索機能は、アプリのバージョン7.02.51で利用可能となっており、アプリ内の右上にある虫眼鏡（検索）アイコンをタップすると、さらに音波形アイコンが表示される。このアイコンをタップし、鼻歌を歌ったり、楽器を演奏したりすると、数秒で楽曲の検索結果が表示される仕組みだ。検索結果からは、楽曲の再生やプレイリストへの登録ができるという​。
+
+この機能は、Google検索アプリでは2020年から、YouTubeアプリでは昨年10月から利用可能となっており、今回の更新でYouTube Musicにも対応が拡大された。iOS版については、現時点では未対応だが、将来的には提供される可能性があるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 30 May 2024 10:41:34 +0000</pubDate></item><item><title>GPT-4o「Sky」の声がスカーレット・ヨハンソンのものだとする問題　米俳優組合はスカーレットを支持、OpenAIは彼女の模倣ではない根拠を説明</title><link>https://ledge.ai/articles/sag_aftra_statement_regarding_scarlett_johansson_and_openai_sky</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2902,25 +2918,4 @@ Emi 2 は商用利用が可能で、追加学習において無断転載画像�
 
 :::
 
-</description><pubDate>Tue, 30 Apr 2024 01:46:37 +0000</pubDate></item><item><title>AI翻訳で世界中のマンガファンと語り合える！集英社が1か月期間限定でマンガコミュニティサイト「MANGA Plus Universe by SHUEISHA」を公開中</title><link>https://ledge.ai/articles/mangaplusuniverse_byshueisha</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月12日、株式会社集英社は株式会社アルと共同でマンガコミュニティサイト「MANGA Plus Universe by SHUEISHA」の提供を{target=“_blank”}した。
-
-「MANGA Plus Universe by SHUEISHA」は、集英社が運営するマンガアプリ「少年ジャンプ＋」で配信している人気タイトル15作品について語り合えるコミュニティサイト。日本語だけではなく英語、スペイン語、タイ語、フランス語など9言語に対応しており、翻訳機能とマイクロソフトの生成AIを活用しより自然な会話を楽しむことができる。
-
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-最新話が配信されると様々な国のユーザーの書き込みで賑わい、国内外問わずリアルタイムで世界中のマンガファンと言語の壁を越えて自由に語り合える魅力的なサイトだ。2024年5月13日までの期間限定公開で期間中は無料で利用することができる。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 24 Apr 2024 08:18:13 +0000</pubDate></item></channel></rss>
+</description><pubDate>Tue, 30 Apr 2024 01:46:37 +0000</pubDate></item></channel></rss>
