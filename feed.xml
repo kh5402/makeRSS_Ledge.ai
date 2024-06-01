@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 31 May 2024 02:12:41 +0000</lastBuildDate><item><title>ENEOSとPFN、世界初のAIによる原油処理装置自動運転を開始</title><link>https://ledge.ai/articles/eneos_and_pfn_started_auto_operation_of_crude_oil_processing_equipment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 31 May 2024 12:45:51 +0000</lastBuildDate><item><title>ENEOSとPFN、世界初のAIによる原油処理装置自動運転を開始</title><link>https://ledge.ai/articles/eneos_and_pfn_started_auto_operation_of_crude_oil_processing_equipment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1513,7 +1513,46 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>「AIにも人の気持ちが分かるかもしれない問題」に迫る　LLMが「心の理論」テストで人間超え　--独ハンブルク大学研究チームが発表</title><link>https://ledge.ai/articles/testing_theory_of_mind_in_llm</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>AnthropicがAIの「ブラックボックス」の一部解明に成功</title><link>https://ledge.ai/articles/anthropic_successfully_decrypts_ais_black_box</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+「Claude3」の開発企業 Anthropicは2024年5月21日、AIの「ブラックボックス」を解読することに初めて成功したと{target=“_blank”}した。この研究成果は、AIの内部作動原理を理解し、安全で信頼性の高いAIの開発に向けた重要な一歩となる。
+
+2024年5月21日、AIモデルの内部構造に関する重要な進展が報告された。Anthropicの研究者は、大規模言語モデル「Claude Sonnet」内部の数百万の概念がどのように表現されているかを特定した。これは現代の実用的な大規模言語モデルの内部を詳細に解析した初めての試みであり、この解釈可能性の発見は将来的にAIモデルをより安全にする助けとなる可能性がある。
+
+
+Anthropicは、同社のLLM Claude3シリーズの1つである「Claude Sonnet」を用いて「ディクショナリーランニング」という技法を駆使し、AIの内部で数百万個の「特徴」を抽出・概念化した。これにより、AIがどのように情報を処理し、概念を内部で組織化しているかを明らかにした​。
+
+@
+
+
+## AIの「ブラックボックス」とは？
+これまで、AIの作動原理は「ブラックボックス」と呼ばれてきた。これは、AIがどのようにして特定の回答にたどり着くのかが開発者にも理解できないためである。しかし、このたびの研究により、このブラックボックスの一部が解明され、AIの思考過程の一端が明らかになったと同社は述べる。
+## 研究の具体的成果
+研究の一例を挙げると、研究チームは、Claude Sonnet 内部の「ゴールデンゲートブリッジ」という単語に関連する特徴を解析した。その結果、関連する他の概念（アルカトラズ島、カリフォルニア州知事、ヒッチコック映画『めまい』など）が活性化することが確認されたという​。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+さらに、これらの特徴を人工的に増幅または抑制することで、AIの生成結果を変えることができることが示された。例えば「ゴールデンゲートブリッジ」に対するバイアスを強めると、Claude Sonnet は「私はゴールデンゲートブリッジだ」と答えるようになるという。この技術により、AIの生成するテキストの内容を操作し、より安全でバイアスの少ない結果を得ることが期待される​とした。
+
+## 研究の重要性と今後の展望
+研究チームは、この研究成果が、AIのハルシネーション（幻覚）やバイアスの問題を減らす可能性があり、特に医療や金融、司法などの重要な分野でのAIの安全性と信頼性向上に寄与するという。同社はさらにこの研究がAIの解釈性を高め、より透明で説明可能なシステムの開発に繋がることを目指すとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 31 May 2024 12:45:51 +0000</pubDate></item><item><title>「AIにも人の気持ちが分かるかもしれない問題」に迫る　LLMが「心の理論」テストで人間超え　--独ハンブルク大学研究チームが発表</title><link>https://ledge.ai/articles/testing_theory_of_mind_in_llm</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1925,45 +1964,7 @@ ARを重ね合わせるためには、一般的にはQRコードなどのマー�
 :::box
 
 :::
-</description><pubDate>Wed, 08 May 2024 11:39:04 +0000</pubDate></item><item><title>ブリヂストンの社内ベンチャーがゴム人工筋肉によるやわらかいロボット「Morph」の体験コーナーを設置　5/17から</title><link>https://ledge.ai/articles/bridgestone_morph-inn</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ブリヂストンは2024年04月23日、社内ベンチャーであるブリヂストン ソフトロボティクス ベンチャーズとクリエイター集団Konelが、未来体験を提供するための共創型プロジェクトを立ち上げたことを{target=“_blank”}した。
-
-このプロジェクトでは、ゴム人工筋肉を用いた柔らかいロボット「Morph」に身をゆだねる新空間「Morph inn」の体験施設を公開する。期間は2024年5月17日から25日まで東京・表参道の「seeen」に設置されるとのこと。
-
-Morphは、ブリヂストンが独自に開発したゴム人工筋肉（ラバーアクチュエーター）を活用しており、自然界のリズムを模倣した動きを再現するという。この技術によりMorphは、生物の呼吸や潮の満ち引きなどの生物学的な動きの表現を可能にする。このロボットに参加者が直接触れ合うことで、互いの動きを感じ取りながら共感覚的な交流を促進するとのこと。
-
-Morph innは、ただ単に技術を展示する場ではなく、参加者が目的を持たずに自由に過ごすことができる「無目的室」として設計されている。参加者は日常の束縛から解放され、Morphとの交流を通じて新たな感覚体験が得られるという。
-
-### ブリヂストンのソフトロボティクス事業
-（{target=“_blank”}）は、同社の100年以上にわたるゴム技術の知見を活かした社内ベンチャーで、ゴムの新たな可能性を追求し、地球規模で直面する社会課題の解決に貢献することを目的としている。主に{target=“_blank”}）を活用した製品やソリューションを開発する。「新たなロボットの手足」として、また産業向けの「器用な手」TETOTEや「触れ合いにより心を動かすソフトロボティクス」umaruなどの製品を生み出している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-###  AIによる人工筋肉の計算モデル開発　京大・東大との共同研究
-
-同社は25日に、京都大学の明石望洋情報学研究科助教および東京大学の中嶋浩平准教授との共同研究を通じて、AIを活用した新たな人工筋肉の計算モデルを{target=“_blank”}した。
-
-この技術は、ソフトロボットのアクチュエータとして用いられる空気圧人工筋肉の動作をAIによるニューラルネットワーク計算で解析し、リズミカルまたはカオスと称される複雑な動作パターンを自律的に生成できることを明らかにした。
-この技術により、人工筋肉はより精密で自然な動きを実現可能となり、ロボットだけでなく、医療や介護の分野での応用が期待されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-
-</description><pubDate>Mon, 06 May 2024 10:32:46 +0000</pubDate></item><item><title>岐阜市　学校現場における生成AI活用の実証事業開始　子どもたちの学びと教職員の校務負担軽減の両面から</title><link>https://ledge.ai/articles/gifu_studypocket</link><description>:::small
+</description><pubDate>Wed, 08 May 2024 11:39:04 +0000</pubDate></item><item><title>岐阜市　学校現場における生成AI活用の実証事業開始　子どもたちの学びと教職員の校務負担軽減の両面から</title><link>https://ledge.ai/articles/gifu_studypocket</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2316,7 +2317,35 @@ ThornとAll Tech Is Humanは、Amazon、Anthropic、Civitai、Google、Meta、Me
 :::box
 
 :::
-</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>YouTube Music、Android版にAI鼻歌検索機能を追加</title><link>https://ledge.ai/articles/youtube_hum_to_serch</link><description>:::small
+</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>AIを活用した音声合成ソフト「CeVIO AI 梵そよぎ トークボイス」発表　梶裕貴氏は“人間とAIの共存”を考える</title><link>https://ledge.ai/articles/soyogi_fractal</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月27日、人気声優・梶裕貴氏が自身の声で自由に喋らせることができる「CeVIO Al 梵そよぎ トークボイス」の製品化を{target=“_blank”}した。
+
+梶氏は、自身の活動20周年を記念した音声AIプロジェクト「そよぎフラクタル」を発足し、プロジェクトの一環として歌声音声ソフト「梵そよぎ」の製品化に向けたクラウドファンディングを開始した。本クラウドファンディングは、目標金額の1000万円を見事に達成し、『CeVIO AI 梵そよぎ ソングボイス』の製品化が実現した。さらに、新たに設定された1500万円のストレッチゴールも達成し、今回発表された『CeVIO AI 梵そよぎ「トークボイス」』の製品化が実現した。
+
+トークボイス製品化決定とともに、梶氏はX（旧Twitter）で以下のようにメッセージを公開した。
+今回の製品化にあたり悪用のリスクを懸念していたが、あたたかいメッセージや声援が届き製品化に踏み切ったと語っている。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+公式YouTubeでは実際に「CeVIO Al 梵そよぎ トークボイス」を使用して朗読をしている動画が公開されており、動画を視聴したファンが本人の声と比較して盛り上がっている。
+@
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 31 May 2024 02:22:04 +0000</pubDate></item><item><title>YouTube Music、Android版にAI鼻歌検索機能を追加</title><link>https://ledge.ai/articles/youtube_hum_to_serch</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 YouTubeが提供する音楽配信サービス「YouTube Music」のAndroidアプリに、鼻歌（ハミング）での楽曲検索機能が追加された。2024年5月24日に米{target=“_blank”}などで報じられた​。
@@ -2717,49 +2746,4 @@ Trillo氏は、未公開のAI「Sora」への初期アクセスを許された�
 :::box
 
 :::
-</description><pubDate>Thu, 02 May 2024 10:04:57 +0000</pubDate></item><item><title>AI Picasso　商用利用可能なAIアート生成ツール「Emi 2」を無償公開　クリエイター尊重するAI開発　追加学習に無断転載画像用いず</title><link>https://ledge.ai/articles/ai_picasso_emi-2</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-AI Picassoは2024年4月26日、AIアートに特化した高品質画像生成ツール「Emi 2」を{target=“_blank”}した。
-
-Emi 2 は商用利用が可能で、追加学習において無断転載画像を用いていない。{target=“_blank”}より無償利用が可能だ。
-
-同モデルは、初代「{target=“_blank”}」と同様、特にイラストやアニメ、マンガ生成に特化して開発され、NVIDIA H100を用いた最先端の開発機材によって支えられている。追加学習に無断転載画像を用いず、Stable Diffusion XL 1.0と同様のライセンスで、ユーザーは安心して商用利用が可能だという。
-
-
-以下は、2023年10月に公開された第1弾のEmiとの比較画像。Emi 2は全身を描画する際に安定する傾向にあるとのこと。
-（左: Emi / 右: Emi 2）
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-同社は、クリエイターとの協力を重視しており、データの提供に対して適切な報酬を設定し、利益分配の仕組みを導入している。特に、「AIいらすとや」のプロジェクトは、内閣府の報告会においてクリエイターへの還元事例として紹介された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社は、Emi 2がEmiと同様、クリエイターたちの声を聞きながら作られたと語る。Emiだけではなく、同社はXやDiscord上などで、他のモデルを含めたモデルのあり方について、クリエイターたちと対話を続けながら、信頼関係を築いていくと述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 30 Apr 2024 01:46:37 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 02 May 2024 10:04:57 +0000</pubDate></item></channel></rss>
