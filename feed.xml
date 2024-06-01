@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 31 May 2024 12:45:51 +0000</lastBuildDate><item><title>ENEOSとPFN、世界初のAIによる原油処理装置自動運転を開始</title><link>https://ledge.ai/articles/eneos_and_pfn_started_auto_operation_of_crude_oil_processing_equipment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 31 May 2024 12:49:47 +0000</lastBuildDate><item><title>美容＆ファッションAIアシスタントのフレームワーク「PerfectGPT」発表　パーフェクト株式会社の新たな美のAIソリューション</title><link>https://ledge.ai/articles/perfect_gpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+パーフェクト株式会社は2024年5月22日、生成AIを活用した新たな美容のAIアシスタントフレームワーク「PerfectGPT」を{target=“_blank”}した。メイクアップ、スキンケア、ファッションの領域での消費者のお悩み解決を目的に開発されたこの​フレームワークを、同社は5月22日から25日までパリで開催された「VIVATech2024」で披露したという。
+
+## PerfectGPTの主な機能
+### 1. BeautyGPT（メイクアップAIアシスタント）
+大規模言語モデル（LLM）を活用し、美容愛好家やメイクブランドの特有のニーズに応えるよう調整されている。チャット機能、バーチャルメイク機能、顔の属性分析によるメイクアップ提案、肌色分析に基づくファンデーションのカラー提案、ステップ・バイ・ステップのメイクアップハウツー提案、ユーザーのメイクの好みに基づいた製品およびカラーの提案など。
+
+### 2. SkincareGPT（スキンケアAIアシスタント）
+独自にトレーニングされたこのモデルは、スキンケアの要件に対応するよう開発されている。ユーザーは肌の悩みに関する具体的な質問をAIチャットで行い、AI肌解析の結果に基づくスキンケアアイテムや手入れ方法の提案、各自のスキンケアニーズに応じた製品やトリートメントメニューの提案を受ける。
+
+### 3. HD（高解像度）AI肌解析
+同社の従来型のAI肌解析ソリューションに高解像度モードを追加したもの。このモードは、皮膚科医の検証を経て開発されており、より高画質で顔写真を解析することで、精度の高い解析結果を提供する。さらに、部位別の解析機能が追加され、よりパーソナライズされた製品のレコメンドが可能だという。
+### 4. AIメイクアップトランスファー
+参考画像からアイメイク、ベースメイク、リップメイクを抽出し、AR技術を用いてユーザーの顔にメイクフィルターを再現する技術。ユーザーはそのメイクを自身の顔にフルフェイスで試すことができ、メイクの色味や質感、パターン、スタイルも再現される。メイクブランドのアイテムを紐づけてレコメンド可能。
+### 5. Skincare PROシミュレーション機能
+iOS端末向けAI肌解析アプリ「Skincare PRO」には、新たにボトックスやレーザー治療、フェイスリフト施術などの非外科的施術のシミュレーション機能が追加された。この機能により、ユーザーはさまざまな施術の効果をシミュレート可能だ。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 31 May 2024 12:49:47 +0000</pubDate></item><item><title>ENEOSとPFN、世界初のAIによる原油処理装置自動運転を開始</title><link>https://ledge.ai/articles/eneos_and_pfn_started_auto_operation_of_crude_oil_processing_equipment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -437,33 +465,7 @@ Anthropicは新たなポリシーを近日中に公開する予定であり、�
 :::box
 
 :::
-</description><pubDate>Sun, 26 May 2024 11:15:27 +0000</pubDate></item><item><title>メディア大手との提携続くOpenAI　「News Corp」とのパートナーシップでウォール・ストリート・ジャーナルなどの記事活用</title><link>https://ledge.ai/articles/openai_newscorp_partnership</link><description>米メディア大手ニューズ・コーポレーションは2024年5月22日、OpenAIと提携し、ウォール・ストリート・ジャーナル（WSJ）などの記事データをAI学習や要約作成に使用する契約を結んだと{target=“_blank”}した。この契約は複数年にわたるものとなる。
-
-この契約により、OpenAIはニューズ・コーポレーション傘下の複数メディアからのコンテンツを使用する権利を得る。具体的には、WSJや米投資情報誌「バロンズ」、英紙タイムズ、豪紙オーストラリアンなどが含まれるが、データベースサービス「ファクティバ」のコンテンツは除外されている。また、最新記事は即時にはChatGPTに反映されない方針だ​という​。
-
-ニューズ・コーポレーションのCEOロバート・トムソン氏は「この提携は報道機関とOpenAIの美しい友情関係の始まりである」とコメントした​。この提携により、OpenAIはニューズ・コーポレーションのジャーナリスティックな専門知識も活用し、高いジャーナリズム基準を維持することを目指す。
-
-欧米メディアの間では、OpenAIとの提携が相次いでいる。フィナンシャル・タイムズ（FT）は記事の要約作成を認める契約を結び、ルモンドやエルパイス、アクセル・シュプリンガーも同様の提携を行った。
-
-その一方で、ニューヨーク・タイムズ（NYT）はOpenAIとマイクロソフトを提訴し、記事の無断使用による損害は数十億ドルに上ると主張している​という。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 26 May 2024 11:09:22 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Sun, 26 May 2024 11:15:27 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
