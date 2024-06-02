@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 31 May 2024 12:49:47 +0000</lastBuildDate><item><title>美容＆ファッションAIアシスタントのフレームワーク「PerfectGPT」発表　パーフェクト株式会社の新たな美のAIソリューション</title><link>https://ledge.ai/articles/perfect_gpt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 01 Jun 2024 13:04:15 +0000</lastBuildDate><item><title>ChatGPT-4o対応のマルチモーダルAIメガネ「Frame」をBrilliant Labsが全世界で発売開始</title><link>https://ledge.ai/articles/briliant_labs_frame_is_now_available_worldwide</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Brilliant Labsは2024年5月16日、ChatGPT-4o対応のマルチモーダルAIメガネ「Frame」の全世界発売を{target=“_blank”}し、出荷を開始した。これに伴い、全世界の開発者向けに新たな開発者パートナー・プログラムも開始された。
+
+{target=“_blank”}された「Frame」は、オープンソースAIアシスタント「Noa」を搭載しており、開発者は多様なAIアプリケーションを創造するためのプラットフォームとして活用できる。このプログラムにはすでに8,000人以上の開発者が参加しており、ブレイン・マシン・インターフェース（BMI）、記憶拡張、ロボット工学など多岐にわたるAIアプリケーションの開発が進められている​という。
+
+同社は、AnthropicのClaude 3、Llama 3、Stable Diffusion、そしてChatGPT-4oを含む複数の大規模言語モデル（LLM）のサポートを拡大した。これにより、Noaを活用したプロアクティブなAI主導のコミュニケーションが可能になり、新機能「ワイルドカード・モード」によってユーザーの質問や興味に基づいて情報を提供できるとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社の共同創設者兼CEO、Bobak Tavangar氏は、「Frameが世界中の開発者に届くことを嬉しく思います。これはAIデバイスとして理想的なフォームファクターであり、利用者が自由に動きながら世界と対話できるようにします。しかし、それ以上に重要なのは、私たちがクローズド・ソース・モデルを覆し、より公平なイノベーションを推進している点です。新たなAIの時代では、信頼、プライバシー、オープン性が以前にも増して重要です。これらのテクノロジーを使用するコミュニティが真の力を持つべきです」と述べている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 01 Jun 2024 13:04:15 +0000</pubDate></item><item><title>美容＆ファッションAIアシスタントのフレームワーク「PerfectGPT」発表　パーフェクト株式会社の新たな美のAIソリューション</title><link>https://ledge.ai/articles/perfect_gpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -420,52 +451,7 @@ AI開発の透明性と説明責任についても言及し、AIは真実に基�
 :::box
 
 :::
-</description><pubDate>Sun, 26 May 2024 22:22:34 +0000</pubDate></item><item><title>OpenAI「安全性のチーム解散」Anthropic「既存ポリシー反省」新たなAIの安全性に関するポリシー構築へ</title><link>https://ledge.ai/articles/anthropic_reflections_on_theie_responsible_scaling-policy</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Anthropicは2024年5月20日、AIの安全性に関する既存ポリシーの反省点を公開し、新たなポリシーの構築に向けた計画を{target=“_blank”}した。
-
-3月に発表した同社のAI「Claude3」シリーズを含む、性能向上に伴うAIのリスクを適切に管理するためのものである。
-
-Anthropicは、AIのリスクを「AI安全レベル（ASL）」という指標で分類している。ASLは、米国政府のバイオセーフティレベル（BSL）に類似しており、モデルの潜在的なリスクに応じて安全、セキュリティ、運用基準を設定するものだという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Claudeを含む現行のAIはASL-2に該当すると同社は述べる。このレベルのAIは、生物兵器の製造方法を指示する能力など、危険な機能の初期の兆候を示しているものの、信頼性が不十分であったり、検索エンジンでは提供できない情報を提供しなかったりするため、情報はまだ役に立たないシステムを指している。
-ASL-3レベルは、検索エンジンや教科書と比較して壊滅的なリスクをもたらす可能性があるAIを指すとのこと。
-
-### Anthropicの挙げる既存ポリシーの反省点
-- 新世代モデルの予測困難性: 各モデルごとに異なる新機能が追加されるため、将来のモデルの特性を正確に予測することが困難
-- 専門家の意見の相違: 化学、生物学、放射性物質、核といった確立された分野であっても、リスクの影響についての専門家の意見が一致しない
-
-これに対し、同社は外部の研究者や企業との協力を強化し、リスク評価のプロセスを外部にも開示する計画だという。また、評価手法の多様化を図り、質問応答データセットから複雑なタスクの自動評価まで、多様な評価手法を用いてモデルのリスクを定量化するとのこと。
-
-### 新ポリシーの展望
-Anthropicは、新たなポリシーの構築に向けて、反省点を踏まえた改善を進めている。新ポリシーは、ASL-3に該当するAIの安全基準を確立し、「レッドライン機能」を安全に取り扱うための新標準の開発および実装を含むものである。これにより、AIの安全性と信頼性を一層高めることを目指すとした。
-
-AnthropicのCEOであるダリオ・アモデイ氏は、現状のAIとはかけ離れた性能を持ち、危険度を定義できないASL-4に該当するAIが2025年から2028年の間に登場すると予測している。
-
-Anthropicは新たなポリシーを近日中に公開する予定であり、これによりAI技術の安全な発展を目指している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 26 May 2024 11:15:27 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Sun, 26 May 2024 22:22:34 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
