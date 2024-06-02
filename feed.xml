@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 01 Jun 2024 13:04:15 +0000</lastBuildDate><item><title>ChatGPT-4o対応のマルチモーダルAIメガネ「Frame」をBrilliant Labsが全世界で発売開始</title><link>https://ledge.ai/articles/briliant_labs_frame_is_now_available_worldwide</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 01 Jun 2024 13:09:36 +0000</lastBuildDate><item><title>Unitree、ヒューマノイド型ロボット「Unitree G1」を発表　お手頃？価格の約250万円</title><link>https://ledge.ai/articles/unitree_g1</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年5月、中国のロボット開発メーカー「Unitree」が、新たなヒューマノイド型ロボット「Unitree G1」の発売を{target=“_blank”}した。このロボットは、価格が1万6000ドル（約250万円）からで、他の競合製品と比較してリーズナブルな設定だという。
+
+@
+
+
+「Unitree G1」は、高さ1270mm、幅450mm、厚さ200mm、重量は約35kg。折りたたむと、690mm×450mm×300mm というコンパクトなサイズになり、持ち運びに便利な設計が特徴だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+このロボットは、Livox製のLiDARセンサー「Mid-360」とIntel RealSense Depth Camera D435を内蔵しており、対象物の距離や奥行きを正確に測定できる。また、計23個のジョイントを持ち、最高時速7.2kmで歩行や走行が可能で、倒れても自ら立ち上がるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+「Unitree G1」は、独自設計のハードウェアやモーターを使用することでコスト削減を実現しており、これによりリーズナブルな価格設定を可能にしている。また、研究機関や教育機関向けのプラットフォームとしても利用可能で、高性能な計算能力を持つオプションのNVIDIA Jetson Orinモジュールも提供されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 01 Jun 2024 13:09:36 +0000</pubDate></item><item><title>ChatGPT-4o対応のマルチモーダルAIメガネ「Frame」をBrilliant Labsが全世界で発売開始</title><link>https://ledge.ai/articles/briliant_labs_frame_is_now_available_worldwide</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -416,42 +458,7 @@ Cognition のCEO、スコット・ウー氏は、Devinが自然言語入力を�
 :::box
 
 :::
-</description><pubDate>Mon, 27 May 2024 05:25:06 +0000</pubDate></item><item><title>イーロン・マスク、ブレない主張最新版。「最大の希望は火星。最大の恐怖はAI」パリのテックカンファレンスで講演</title><link>https://ledge.ai/articles/elonmusk_in_paris_vivatech2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年5月23日、パリで開催されたテックカンファレンス「VivaTech 2024」に、イーロン・マスク氏がリモートで登壇し、AI技術とその未来について{target=“_blank”}。
-
-## AIの進展と懸念
-マスク氏は{target=“_blank”}について説明し、脳とコンピュータを接続する技術の進展が、人々の生活を大きく変える可能性があると述べた。この技術は特に脳や脊髄に損傷を負った人々にとって革命的なものであり、将来的には視覚障害者の視力を回復させることも可能になると期待されているとのこと。また、AIと人間のインターフェース帯域幅を向上させることで、よりスムーズな情報交換が可能になると述べた。
-
-また、同氏がCEOを務めるAIスタートアップ{target=“_blank”}についても言及し、現在のAI開発に対する懸念を示した。マスク氏は、大手AIプログラムが政治的正しさに配慮しすぎて真実を歪める傾向があると批判した。xAIは、真実追求と好奇心を最大限に重視し、{target=“_blank”}が現実を正確に反映するよう設計されていると説明した。
-
-## AIの影響と未来予測
-Q&amp;Aセッションでは、AIの進展がどのように仕事のダイナミクスを変えるかについて多くの質問が寄せられた。マスク氏は、AI技術の急速な進歩が多くの職業を自動化し、人間の役割が大きく変わる可能性が高いと指摘した。この変化に対応するために、新しいスキルの習得や教育が重要になると述べた。
-
-AI開発の透明性と説明責任についても言及し、AIは真実に基づいて訓練されるべきだと強調した。規制監督の重要性を強調し、AI技術が人類に利益をもたらすよう、適切なガバナンスが必要であると述べた。
-
-また、AIがもたらす社会的影響についても触れ、特にAIが仕事や教育の在り方をどのように変えるかについて予測した。AIの進化により、仕事のダイナミクスが劇的に変化し、普遍的な高収入をもたらす可能性があると述べた。同時に、AIの影響が増す中で、価値観の教育における親の役割が重要であると強調した。
-
-
-セッションの締めくくりに、マスク氏は「最大の希望は火星。最大の恐怖はAI」と述べ、人類の生存と宇宙探査の進展への希望を表明した。AI技術の発展が人類の未来を形作る上で重要な役割を果たすことを強調した。そのための適切な管理とガバナンスの必要性を訴えた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 26 May 2024 22:22:34 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Mon, 27 May 2024 05:25:06 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
