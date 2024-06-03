@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 01 Jun 2024 13:09:36 +0000</lastBuildDate><item><title>バッド・ロケーションに賑わいをもたらす　地方創生プロジェクトはITの前にマーケティングが重要　山中 哲男氏×鶴保 庸介議員 特別対談【第2回】</title><link>https://ledge.ai/articles/tsuruho-yamanaka_2</link><description>地方創生と地域活性化に向けた取り組みが各地で加速している。人口減少や高齢化が進む中、その地域独自の資源を活かした開発や新しいビジネスモデルの導入が求められている。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 02 Jun 2024 14:32:14 +0000</lastBuildDate><item><title>OpenAI、ロボット開発を再始動　FigureAIが道筋示す</title><link>https://ledge.ai/articles/openai_is_rebooting_robotics_teams</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+AI搭載ロボットへの投資で世界が活発化している中、OpenAIが以前中止していたロボット開発の取り組みを正式に再始動することが明らかになった。この動きを{target=“_blank”}が捉え、2024年5月31日に報じた。
+## チームの再建と新たな募集
+OpenAIは2020年「訓練データの不足」を理由に一度閉鎖したロボティクスチームを再建するため、現在研究エンジニアの募集を開始している。同社の求人情報によれば、新たなチームメンバーは「チームの最初のメンバーの一人」として迎えられる予定である。このチームは2カ月前に発足したとされ、具体的な取り組みの詳細はまだ公表されていないが、進展は見られているとのこと。
+
+## 過去一年間の投資活動
+ここ1年ほどの間で、OpenAIの投資部門は複数のヒューマノイドロボット企業に出資している。その中でも特に注目されるのは、マイクロソフトやエヌビディアから6億7500万ドルを調達した{target=“_blank”}である。Figure AIは、OpenAIのモデルを搭載し、初歩的な言語能力と推論能力を持つロボットの動画を公開しており、この取り組みがOpenAIのロボット開発再始動の一端を担っているという。
+
+資金調達した同じ日にOpenAIとの{target=“_blank”}したFigureのCEOであるBrett Adcock氏によれば、同社のロボットが人と対話し、物を見たり、物理的なタスクを実行するためのAIモデルの開発が加速されると述べた。これらのAIモデルは、OpenAIの最新のGPTモデルに基づいて開発され、Figureが収集したロボティクスアクションデータに特化して訓練されるとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 02 Jun 2024 14:32:14 +0000</pubDate></item><item><title>バッド・ロケーションに賑わいをもたらす　地方創生プロジェクトはITの前にマーケティングが重要　山中 哲男氏×鶴保 庸介議員 特別対談【第2回】</title><link>https://ledge.ai/articles/tsuruho-yamanaka_2</link><description>地方創生と地域活性化に向けた取り組みが各地で加速している。人口減少や高齢化が進む中、その地域独自の資源を活かした開発や新しいビジネスモデルの導入が求められている。
 
 今回は、淡路島西海岸エリア開発を実現した山中哲男氏を招き、成功事例や課題解決のための戦略、地域コミュニティとの連携を通じた持続可能な発展の可能性について熱く語り合っていただいた。本稿は第2回目（全2回）
 
@@ -583,38 +607,7 @@ AIへの注力については、AIがビジネスの成長を加速させる最�
 :::box
 
 :::
-</description><pubDate>Tue, 28 May 2024 06:26:06 +0000</pubDate></item><item><title>世界初 AI キャビンクルー「Sama 2.0」がカタール航空から ドバイのマーケットイベントに参加</title><link>https://ledge.ai/articles/qatar_airway_sama2-0</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-カタール航空は、2024年5月6日から9日にかけて開催されたアラビアントラベルマーケット（ATM）ドバイに参加し、世界初のAIデジタルキャビンクルー、Sama 2.0を{target=“_blank”}し、訪問が直接対話できる機会を提供した。
-
-ATMの第31回目のテーマ「イノベーションの力：起業家精神を通じた旅行の変革」に合わせ、カタールの国営航空会社であるカタール航空は、湾岸地域およびそれ以外の地域からの業界専門家や旅行パートナーを招待し、世界初のAIデジタルクルーの第2世代であるSama 2.0と交流する機会を提供した。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-顧客と乗客は「QVerse」カタール航空の没入型デジタルプラットフォーム、またはカタール航空のアプリを通じてSamaとのシームレスな対話を確保する。Sama 2.0はリアルタイムで質問に答え、旅行業界における卓越したサービスとホスピタリティの未来を体現するという。旅行者にカスタマイズされた旅行体験のデザインを支援し、カタール航空のFAQ、目的地、サポートのヒントなどに関する回答を提供した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 27 May 2024 05:30:56 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Tue, 28 May 2024 06:26:06 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
