@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 03 Jun 2024 02:43:16 +0000</lastBuildDate><item><title>OpenAIから「教育版ChatGPT」登場　大学向けにAI導入の新提案　企業版より安価に提供</title><link>https://ledge.ai/articles/openai_chatgpt_edu</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 03 Jun 2024 09:40:39 +0000</lastBuildDate><item><title>OpenAIから「教育版ChatGPT」登場　大学向けにAI導入の新提案　企業版より安価に提供</title><link>https://ledge.ai/articles/openai_chatgpt_edu</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2383,7 +2383,40 @@ ThornとAll Tech Is Humanは、Amazon、Anthropic、Civitai、Google、Meta、Me
 :::box
 
 :::
-</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>AIを活用した音声合成ソフト「CeVIO AI 梵そよぎ トークボイス」発表　梶裕貴氏は“人間とAIの共存”を考える</title><link>https://ledge.ai/articles/soyogi_fractal</link><description>:::small
+</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>自動で作詞・作曲・演奏する音楽生成AI「Suno」が賞金総額100万ドルのコンテスト「Summer of Suno」開催中</title><link>https://ledge.ai/articles/summer_of_suno_vol1</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+Sunoは、2024年のトップクリエイターに総額100万ドルを支払うことを{target=“_blank”}した。
+
+最初のイベント「Summer of Suno（SoS）」が、2024年6月1日から開始されている。このイベントは、ユーザーがSunoを利用して制作した楽曲を評価し、その成果に応じて報酬を提供するものだという。
+
+Sunoは与えられたプロンプト（テキストの指示）から音楽を生み出すAIだ。作詞作曲を行い、その曲をボーカル付きの楽曲音声として生成する。同社は8か月前に初のプロダクトをリリースし、誰でもシンプルなアイデアで楽曲を作成できるようにした。
+
+これまでに1,200万人がSunoを使って音楽を制作しており、友人同士でのミーム交換や、カップル間でのラブソングのやりとり、大規模な観客との共同制作など、さまざまな形で音楽が共有されてきたという。
+
+2024年の残りの期間、Sunoは音楽を通じて人々をつなぐクリエイターに対して総額100万ドルを支払う予定だ。その第一弾として開催されるイベントが「Summer of Suno」である。これは、コミュニティ全体を感動させる楽曲を祝うイベントであり、頭を揺らしたり、足を踏み鳴らしたり、笑ったり、泣いたり、「すごい」と感じさせる楽曲を対象としている。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+SoS Vol. 1は2024年6月1日より始まっており、6月中にSunoで作成されたトップ500の楽曲のクリエイターに総額 100 万ドルの賞金プールのうち最初の 10 万ドルが支払われる。1位の賞金は10,000ドルで、上位のクリエイターには順次賞金が授与される。公開した楽曲は自動的にエントリーされ、SNSの再生回数、いいね、共有数の組み合わせで人気度が評価されるとのことだ。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 03 Jun 2024 09:40:39 +0000</pubDate></item><item><title>AIを活用した音声合成ソフト「CeVIO AI 梵そよぎ トークボイス」発表　梶裕貴氏は“人間とAIの共存”を考える</title><link>https://ledge.ai/articles/soyogi_fractal</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2784,32 +2817,4 @@ Trillo氏は、未公開のAI「Sora」への初期アクセスを許された�
 :::box
 
 :::
-</description><pubDate>Tue, 07 May 2024 15:03:18 +0000</pubDate></item><item><title>1ヶ月期間限定！本が好きな人必見　「AI書店員ダ・ヴィンチさん」があなたにぴったりの本を診断</title><link>https://ledge.ai/articles/ai_davinci</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-4月26日、株式会社KADOKAWAは生成AIを活用した体験型コンテンツ「AI書店員ダ・ヴィンチさん」を全国5店舗で展開することを{target=“_blank”}した。
-
-「AI書店員ダ・ヴィンチさん」から投げかけられる質問に回答していくと、自社の書籍から質問者に合ったタイトルを自動で診断してくれるコンテンツ。AI技術を駆使し、購入履歴の傾向から判断するのではなく、質問者の回答に基づいた「今のあなたにおすすめ」のタイトルを提案してくれるという面白いサービスだ。回答内容に応じて「なぜこの本がおすすめなのか」などコメントもその場で生成される。
-
-もともと読書が好きな人はもちろん、何を選んだら良いか分からない、普段とは違う新しいジャンルに挑戦したいなど、本を読みたい気持ちがあれば誰でも有効に活用できる。
-
-5月26日までの期間限定サービスのため新しい本に出会いたい人はこの機会をお見逃しなく。
-
-:::box
-【展開店舗は下記の5店舗】
-・蔦屋書店 イオンタウン仙台泉大沢店（宮城県）
-・丸善 日本橋店（東京都）
-・有隣堂 横浜駅西口店（神奈川県）
-・大垣書店 イオンモールKYOTO店（京都府）
-・紀伊國屋書店 天王寺ミオ店（大阪府）
-:::
-
-:::box
-
-:::
-
-:::box
-
-:::
-</description><pubDate>Thu, 02 May 2024 10:04:57 +0000</pubDate></item></channel></rss>
+</description><pubDate>Tue, 07 May 2024 15:03:18 +0000</pubDate></item></channel></rss>
