@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 03 Jun 2024 09:40:39 +0000</lastBuildDate><item><title>OpenAIから「教育版ChatGPT」登場　大学向けにAI導入の新提案　企業版より安価に提供</title><link>https://ledge.ai/articles/openai_chatgpt_edu</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 03 Jun 2024 09:43:26 +0000</lastBuildDate><item><title>日立とGoogle Cloud、生成AIを活用したイノベーション加速と生産性向上を目指し戦略的アライアンスを締結</title><link>https://ledge.ai/articles/hitachi_googlecloud_accelerate_innovation_with_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日立とGoogle Cloudは2024年5月29日、生成AIを活用して企業のイノベーションと生産性向上を加速するため、複数年にわたる戦略的アライアンスを締結したことを{target=“_blank”}した。
+
+日立は、Google Cloudの生成AIモデル「Gemini」やAIプラットフォーム「Vertex AI」、およびその他のクラウド技術を活用し、企業の課題解決を支援する新たな組織を設立する。この提携により、日立はデジタル事業の中核であるLumadaの成長を加速し、全社の業務効率化と生産性向上を推進するとのこと。
+
+具体的な取り組みとして、両社は日立の子会社「GlobalLogic」内に「Hitachi Google Cloud Business Unit」と「Google Cloud Center of Excellence」を設立し、Google Cloudの技術を迅速に提供する体制を整える。また、日立の「Gen AI Professional」育成プログラムにGoogle Cloudの生成AI関連技術の研修を取り入れ、専門性を強化するとした。
+
+両社はこれまで15年以上にわたり協力関係を築いており、今回の提携によりさらに連携を強化する方針だという。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 03 Jun 2024 09:43:26 +0000</pubDate></item><item><title>OpenAIから「教育版ChatGPT」登場　大学向けにAI導入の新提案　企業版より安価に提供</title><link>https://ledge.ai/articles/openai_chatgpt_edu</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -503,33 +521,7 @@ iOS端末向けAI肌解析アプリ「Skincare PRO」には、新たにボトッ
 :::box
 
 :::
-</description><pubDate>Thu, 30 May 2024 10:37:29 +0000</pubDate></item><item><title>Databricks、日本市場における企業AIブームによる記録的成長を発表ーー 企業による 生成AI 活用の急増</title><link>https://ledge.ai/articles/databricks_japan_to_double_its_local_headcount</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-データ管理基盤を手がけるスタートアップ企業、データブリックスの日本法人は2024年5月22日、過去の会計年度において日本市場で100％以上の成長を達成したと{target=“_blank”}した。日本企業におけるデータとAI技術への需要の急増が主な要因だという。
-
-同社はまた、6月から国内で独自の生成AIを低コストで作成できるシステムの提供を開始する。2023年に買収した米モザイクMLの技術を活用し、企業が権利問題のないデータを使用して生成AIモデルを開発できるようにするものだという​。
-
-「モザイクAIトレーニング」は、画像処理半導体（GPU）の利用を必要最低限に調整し、比較的低コストでオリジナルの大規模言語モデル（LLM）を作成できるシステムだ。ユーザーが学習したいデータやパラメーター数を設定すると、システムが必要なGPU数や利用期間を計算し、アマゾン・ウェブ・サービス（AWS）など複数のクラウドサービスから予約を行う。
-
-開発中やテスト期間中など、GPUを多用しないと予想される期間には予約数を減らし、必要な期間だけのGPUを予約することでコストを低減する。また、GPUを使用した学習時に頻発するエラーにも高速で対応し、想定外に時間がかかるケースを減少させることで、計画通りの期間で学習を進められるという。
-
-まず、テキスト生成を行うLLMモデルを作成するサービスから開始するが、今後は画像生成などにもサービスを拡大する予定だ。これにより、企業は権利関係に問題のないデザインデータなどを使用して、独自の小規模なモデルを業務に活用できるようになる。
-
-今回の発表は、データブリックスが日本市場での事業拡大を図る一環として行われたものであり、同社は日本国内でのAI活用の促進を目指している。
-
-同社の日本法人代表である笹俊文氏は「この新しいサービスが、日本企業のデジタル変革を支援する重要なツールになる」と語った。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 29 May 2024 11:41:28 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Thu, 30 May 2024 10:37:29 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
