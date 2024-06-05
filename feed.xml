@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 03 Jun 2024 09:43:26 +0000</lastBuildDate><item><title>日立とGoogle Cloud、生成AIを活用したイノベーション加速と生産性向上を目指し戦略的アライアンスを締結</title><link>https://ledge.ai/articles/hitachi_googlecloud_accelerate_innovation_with_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 04 Jun 2024 11:41:30 +0000</lastBuildDate><item><title>Amazonのドローン配送　操縦者の視界外まで飛行可能に　規制当局が承認し米国での配送サービス拡充</title><link>https://ledge.ai/articles/amazon_drone_prime_faa_approval</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Amazonは2024年5月30日、連邦航空局（FAA）から視界外飛行（BVLOS）の認可を受け、Prime Airのドローン配送サービスをさらに拡大できるようになったことを{target=“_blank”}した。
+
+この認可により、Amazonはドローンを操縦者の直接の視界内に置く必要がなくなり、より多くの顧客に迅速な配送を提供することが可能となる。
+
+FAAは、すべての商業用ドローンオペレーターに対し、安全に視界外での飛行を可能にする技術が承認されるまで、ドローンを操縦者の視界内に維持することを求めている。
+
+Amazonの「Beyond Visual Line of Sight（BVLOS）」技術は、操縦者が直接ドローンを見ることなく、遠隔で操作可能。同技術には、空中の障害物を検知して回避するための「オンボード検知・回避システム」が含まれるという。
+
+FAAの要件を満たすために、同社はこのシステムを開発・テストし、実際の飛行機やヘリコプター、熱気球の近くでの実演飛行を行い、その安全性をFAAに証明したとのこと。
+
+新たな認可により、テキサス州カレッジステーションの配送センター周辺でのドローン配送が拡大され、より多くのAmazon顧客が家庭用品やドラッグストア商品などのドローン配送を利用できるようになるという。2024年後半には、ドローン配送がAmazonの即日配送ネットワークに統合され、さらに迅速な配送が可能となる予定だ。
+
+Amazonは、2029年までに年間5億件のドローン配送を実現することを目指しており、この新たな認可はその目標に向けた大きな一歩となる。同社は、視界外飛行技術を駆使して、より広範囲での30分以内のパッケージ配送を目指しているとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 04 Jun 2024 11:41:30 +0000</pubDate></item><item><title>日立とGoogle Cloud、生成AIを活用したイノベーション加速と生産性向上を目指し戦略的アライアンスを締結</title><link>https://ledge.ai/articles/hitachi_googlecloud_accelerate_innovation_with_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -490,38 +516,7 @@ iOS端末向けAI肌解析アプリ「Skincare PRO」には、新たにボトッ
 :::box
 
 :::
-</description><pubDate>Fri, 31 May 2024 02:12:41 +0000</pubDate></item><item><title>「アイファモ (AI Fashion Model)」人間が着用したかのようなリアルなビジュアルを生成し撮影コストを大幅削減できるサービス</title><link>https://ledge.ai/articles/hopelives_aifamo</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ホープリヴス株式会社は5月14日、AIを活用してモデル撮影のプロセスを効率化する新サービス「アイファモ (AI Fashion Modelの略)」を開始したことを{target=“_blank”}した。アパレル業界の撮影にかかる時間とコストを削減し、マーケティング活動の効率化を実現するという。
-
-アイファモは、クライアントから提供されたトルソーやマネキンに着用された商品の画像を基に、実際の人物が着用しているかのようなリアルなビジュアルを生成AIを用いて作成する。このプロセスにより、従来のモデル撮影に必要な時間、人件費、スタジオのスケジュール調整といった手間を省き、効率的かつ経済的に高品質なモデル画像を提供することが可能になる​とのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-クライアントのニーズに応じたカスタマイズにも対応可能。自社専属のAIモデルの生成依頼や、異なるポーズや背景での画像生成にも対応し、多様なファッションスタイルに適したビジュアルを提供する。これにより、アパレル企業は多様なプロモーション活動を効果的に展開できる​という。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 30 May 2024 10:37:29 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Fri, 31 May 2024 02:12:41 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
