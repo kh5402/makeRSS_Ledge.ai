@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 04 Jun 2024 11:47:33 +0000</lastBuildDate><item><title>韓国のデジタルヒューマンスタートアップが「Twinit」で生成AIでによる美のシミュレーションを提供</title><link>https://ledge.ai/articles/entre_reality_twinit</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 04 Jun 2024 11:53:08 +0000</lastBuildDate><item><title>韓国のデジタルヒューマンスタートアップが「Twinit」で生成AIでによる美のシミュレーションを提供</title><link>https://ledge.ai/articles/entre_reality_twinit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2369,7 +2369,64 @@ ThornとAll Tech Is Humanは、Amazon、Anthropic、Civitai、Google、Meta、Me
 :::box
 
 :::
-</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>自動で作詞・作曲・演奏する音楽生成AI「Suno」が賞金総額100万ドルのコンテスト「Summer of Suno」開催中</title><link>https://ledge.ai/articles/summer_of_suno_vol1</link><description>:::small
+</description><pubDate>Mon, 22 Apr 2024 12:47:54 +0000</pubDate></item><item><title>NVIDIAが ゲーム体験を変革するAIアシスタント「Project G-Assist」を発表</title><link>https://ledge.ai/articles/nvidia_project_g_assist</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2024年6月2日、Computex 2024にてRTX搭載のAIアシスタント技術デモ「Project G-Assist」を{target=“_blank”}した。
+
+このプロジェクトは、PCゲームやアプリケーションに対してコンテキストに基づいたヘルプを提供し、ユーザー体験を強化することを目的としている。
+### ゲームAIアシスタントの仕組み
+Project G-Assistは、プレイヤーからの音声またはテキスト入力と、ゲームウィンドウのスナップショットを取り込み、それをAIビジョンモデルに入力することで動作する。このビジョンモデルは、大規模言語モデル（LLM）と連携してゲーム知識データベース（例えばWiki）にアクセスし、プレイヤーに対してコンテキストに基づいた回答を提供する。
+
+これにより、プレイヤーはゲームやシステムパフォーマンスに関する質問を簡単に行うことができ、AIアシスタントがその場で適切な回答を返す。例えば、特定のクエストやアイテム、ボス攻略法などについての質問に対しても即座に答えてくれるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+### ARK: Survival Ascendedでのデモ
+Studio Wildcardと提携し、ARK: Survival Ascendedを用いた技術デモが実施された。このデモでは、ホットキーやウェイクフレーズを使用してAIアシスタントを起動し、クエストやアイテム、ボス攻略に関する質問に答える。
+
+AIアシスタントは、ゲーム固有の知識を提供するための仲介役となる。プレイヤーがよく調べるような質問、例えば「初期ゲームでの最良の武器は何か、またそのクラフト材料はどこで見つかるか？」といった質問にも応答する。また、アシスタントは画面上の状況も理解できるため、見慣れない恐竜を見つけた際にその情報やテイム方法を教えてくれる。
+
+下図：AI アシスタントは、AI ビジョン モデルを活用してゲーム ウィンドウ内で何が起こっているかを理解し、画面上の恐竜を避けるべきかどうか、または特定の獣を飼いならすための別のアプローチをアドバイスしている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+さらに、プレイヤーの進行状況に応じた推奨事項を提供することもできる。レベルアップやクラフトレシピのアンロックに必要なポイントがたまっているが、次に何を選ぶべきか迷った時などに役立つ。また、公式Wikiへのリンクをクリックしてさらに深掘りすることも可能だ。
+
+@
+
+
+
+
+### パフォーマンスチューニング
+スムーズで没入感のあるゲームプレイを実現するために求められる、システムにとっての最高のパフォーマンスをチューニングするときも、Project G-Assistは非常に役立つという。
+
+AIアシスタントはシステムを理解し、最適化の手助けをする。FPSやPCレイテンシーなどのパフォーマンス指標を提供し、システムの調整を手助けする。ディスプレイの能力を最大限に活用できていない場合など、問題をスキャンして見つけ出し、推奨設定を提案することも可能だ。
+
+下図は、AI アシスタントがフレーム レート、電力使用量、PC のレイテンシ、その他のハードウェア統計を追跡してグラフ化し、プロンプトが表示されたら改善方法を提案している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Project G-Assistは、ゲームやアプリケーションの体験を一層向上させるために、開発者によってカスタマイズ可能な高精度なAIモデルを提供する。この技術は、クラウドで実行することも、GeForce RTX AI PCやラップトップでローカルに加速することも可能だという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 04 Jun 2024 11:53:08 +0000</pubDate></item><item><title>自動で作詞・作曲・演奏する音楽生成AI「Suno」が賞金総額100万ドルのコンテスト「Summer of Suno」開催中</title><link>https://ledge.ai/articles/summer_of_suno_vol1</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2771,36 +2828,4 @@ Trillo氏は、未公開のAI「Sora」への初期アクセスを許された�
 
 :::
 
-</description><pubDate>Wed, 08 May 2024 10:31:28 +0000</pubDate></item><item><title>正規のルートで日本のマンガを世界へ輸出　AIマンガ翻訳のオレンジが小学館などから29.2億円の資金調達を実施</title><link>https://ledge.ai/articles/orange_raises_jpy2-9b</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-株式会社オレンジは2024年5月7日、プレシリーズAラウンドで総額29.2億円の資金調達を実施したことを{target=“_blank”}した。
-
-リード投資家であるグロービス・キャピタル・パートナーズをはじめ、小学館、ANRI、SBIインベストメントなど、複数のベンチャーキャピタルおよび事業会社が出資に名を連ねている。
-
-オレンジは、AIを活用した翻訳技術により、日本のマンガを外国語に翻訳し、世界各国での合法的な流通を支援することを目指している。同社は、未翻訳のマンガを大規模に海外展開するための「マンガに特化したローカライズ支援ツール」の開発を進めており、今回の資金はその拡張に充てられる。これにより、月間500冊という日本の現状の英訳ペースを大幅に上回るスピードでの翻訳が可能になるとしている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年夏には、米国法人を通じて新たな電子マンガストア「emaqi」をローンチする計画もあり、翻訳された作品を直接消費者に提供することで、海賊版による被害の防止にも寄与するという。
-
-同社代表取締役の宇垣承宏代氏は「日本のマンガは、世界中で愛されている。しかし、言語の壁が大きな障壁となっており、非合法なコピーが横行しているのが現状だ。私たちの技術が、その問題を解決する一助となれば」と語る。
-
-投資家の1人、グロービス・キャピタル・パートナーズの磯田将太氏は、「マンガは日本のソフトパワーの土台です。オレンジのミッションには、出版社をはじめとする業界関係者が大きな共感を寄せています」とコメントしている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 07 May 2024 15:03:18 +0000</pubDate></item></channel></rss>
+</description><pubDate>Wed, 08 May 2024 10:31:28 +0000</pubDate></item></channel></rss>
