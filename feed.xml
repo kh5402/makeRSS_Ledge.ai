@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 04 Jun 2024 11:41:30 +0000</lastBuildDate><item><title>Amazonのドローン配送　操縦者の視界外まで飛行可能に　規制当局が承認し米国での配送サービス拡充</title><link>https://ledge.ai/articles/amazon_drone_prime_faa_approval</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 04 Jun 2024 11:47:33 +0000</lastBuildDate><item><title>韓国のデジタルヒューマンスタートアップが「Twinit」で生成AIでによる美のシミュレーションを提供</title><link>https://ledge.ai/articles/entre_reality_twinit</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+韓国のデジタルヒューマンスタートアップ「アントレ・リアリティ（Entre Reality）」が、生成AIによるビューティーシミュレーション「Twinit」を発表したことを2024年6月1日に{target=“_blank”}などが報じている。
+
+Twinit は、モバイル デバイスからの画像から1分以内に3Dデジタル ヒューマンを作成する生成 AIソリューションだ。360度の立体分析データに基づいたAI顔分析やパーソナルカラーソリューションを特徴としており、ユーザーは自身の顔特性に最適なビューティー製品を見つけやすくなる。この技術は、CES2024で{target=“_blank”}を受賞しており、韓国内外のコスメブランドや美容医療SaaS企業にとって大きな関心を集めているという。
+
+Twinitは以下の技術を提供する
+- **3D Face Scanning AI：** 高度なモバイルエンジンを使用して顔の形状や色を分析し、パーソナライズされた製品を推薦する。
+- **Face Analysis In a snap：** Twinit3D AIスキャナーを使用して、1分以内に100種類の顔特性とパーソナルカラーを分析する。
+- **AI Beauty Try-On：** Twinit3Dビューティーシミュレーターを使用して、化粧品、フィットネス、アンチエイジング、整形手術のシミュレーションを可能にする。
+- **Only for you, Personal fit：** オンラインショップにおける購買転換率を高め、返品率を低減するための最大限のポテンシャルを引き出す。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 04 Jun 2024 11:47:33 +0000</pubDate></item><item><title>Amazonのドローン配送　操縦者の視界外まで飛行可能に　規制当局が承認し米国での配送サービス拡充</title><link>https://ledge.ai/articles/amazon_drone_prime_faa_approval</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -490,33 +515,7 @@ iOS端末向けAI肌解析アプリ「Skincare PRO」には、新たにボトッ
 :::box
 
 :::
-</description><pubDate>Fri, 31 May 2024 12:49:47 +0000</pubDate></item><item><title>ENEOSとPFN、世界初のAIによる原油処理装置自動運転を開始</title><link>https://ledge.ai/articles/eneos_and_pfn_started_auto_operation_of_crude_oil_processing_equipment</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年5月24日、ENEOSとPreferred Networks (PFN)は、川崎製油所において、原油処理を行う常圧蒸留装置でAIシステムによる安定的な自動運転を開始したことを{target=“_blank”}した。複雑で大規模な石油精製プラントにおいて、AI技術を駆使した自動運転が実現した世界初の事例であるとのこと。
-
-このAIシステムは、従来人の技量に依存していたプラント運転の安定性を大幅に向上させることを目指して開発された。両社は2018年から共同でこのシステムの研究開発を進め、運転ノウハウの継承が課題となる中で、安全性と効率性の向上を図ってきた​という。
-
-常圧蒸留装置では、24個の運転重要因子と930個のセンサーを用いて、温度や圧力、流量などの複数の要素を制御する必要がある。AIシステムはこれらのデータをリアルタイムで解析し、13個のバルブを同時に操作することで、原油の種類や処理量の変動に対応し、常に安定した運転を実現している​。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-実際の運用において、AIシステムは外気温の変化や天候、冷却水の温度変化などの外部要因にも対応し、安定した制御を維持しており、手動操作を超える経済的かつ効率的なプラント運転が可能となったという。
-
-今後両社は、このAIシステムを他の製油所にも展開し、さらにはソリューションパッケージとして一般販売する計画を立てているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 31 May 2024 02:12:41 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Fri, 31 May 2024 12:49:47 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
