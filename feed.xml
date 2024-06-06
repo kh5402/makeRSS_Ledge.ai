@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 04 Jun 2024 11:53:08 +0000</lastBuildDate><item><title>韓国のデジタルヒューマンスタートアップが「Twinit」で生成AIでによる美のシミュレーションを提供</title><link>https://ledge.ai/articles/entre_reality_twinit</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 04 Jun 2024 11:57:05 +0000</lastBuildDate><item><title>GPT-4活用した「英作文1000本ノック」東進と日本マイクロソフトが連携</title><link>https://ledge.ai/articles/toshin_english_composition_1000knocks</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東進ハイスクール・東進衛星予備校を運営する株式会社ナガセは2024年5月20日、日本マイクロソフトと連携して生成AIを活用した自動英作文添削講座「英作文1000本ノック」を4月より正式に開講したことを{target=“_blank”}した。
+
+この講座は、基礎から難関大学入試レベルまで対応する1,000題の和文英訳問題を含み、最新の生成AI技術であるGPT-4を利用して即時に添削指導を行うものだ。
+
+「英作文1000本ノック」は、東進の採点ノウハウとGPT-4の生成AIを融合し、個別の指導を行うことで生徒一人ひとりに合わせたアドバイスを提供する。また、正答した場合には他の表現方法も提示し、表現力や語彙力の向上を図るという。このシステムは、マイクロソフトのAzure OpenAI Service上で展開されており、高いセキュリティと安定性が確保されている。
+
+開発は2023年から始まり、2024年2月以降に東進生向けのトライアルや石川県の生徒への無償提供を実施。約13万人以上の演習結果を元に精度を向上させた。同社はこれにより、高校教員や塾講師の負担を大幅に軽減し、効率的な英作文指導の実現を目指す。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 04 Jun 2024 11:57:05 +0000</pubDate></item><item><title>韓国のデジタルヒューマンスタートアップが「Twinit」で生成AIでによる美のシミュレーションを提供</title><link>https://ledge.ai/articles/entre_reality_twinit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -487,35 +512,7 @@ Brilliant Labsは2024年5月16日、ChatGPT-4o対応のマルチモーダルAI�
 :::box
 
 :::
-</description><pubDate>Sat, 01 Jun 2024 13:04:15 +0000</pubDate></item><item><title>美容＆ファッションAIアシスタントのフレームワーク「PerfectGPT」発表　パーフェクト株式会社の新たな美のAIソリューション</title><link>https://ledge.ai/articles/perfect_gpt</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-パーフェクト株式会社は2024年5月22日、生成AIを活用した新たな美容のAIアシスタントフレームワーク「PerfectGPT」を{target=“_blank”}した。メイクアップ、スキンケア、ファッションの領域での消費者のお悩み解決を目的に開発されたこの​フレームワークを、同社は5月22日から25日までパリで開催された「VIVATech2024」で披露したという。
-
-## PerfectGPTの主な機能
-### 1. BeautyGPT（メイクアップAIアシスタント）
-大規模言語モデル（LLM）を活用し、美容愛好家やメイクブランドの特有のニーズに応えるよう調整されている。チャット機能、バーチャルメイク機能、顔の属性分析によるメイクアップ提案、肌色分析に基づくファンデーションのカラー提案、ステップ・バイ・ステップのメイクアップハウツー提案、ユーザーのメイクの好みに基づいた製品およびカラーの提案など。
-
-### 2. SkincareGPT（スキンケアAIアシスタント）
-独自にトレーニングされたこのモデルは、スキンケアの要件に対応するよう開発されている。ユーザーは肌の悩みに関する具体的な質問をAIチャットで行い、AI肌解析の結果に基づくスキンケアアイテムや手入れ方法の提案、各自のスキンケアニーズに応じた製品やトリートメントメニューの提案を受ける。
-
-### 3. HD（高解像度）AI肌解析
-同社の従来型のAI肌解析ソリューションに高解像度モードを追加したもの。このモードは、皮膚科医の検証を経て開発されており、より高画質で顔写真を解析することで、精度の高い解析結果を提供する。さらに、部位別の解析機能が追加され、よりパーソナライズされた製品のレコメンドが可能だという。
-### 4. AIメイクアップトランスファー
-参考画像からアイメイク、ベースメイク、リップメイクを抽出し、AR技術を用いてユーザーの顔にメイクフィルターを再現する技術。ユーザーはそのメイクを自身の顔にフルフェイスで試すことができ、メイクの色味や質感、パターン、スタイルも再現される。メイクブランドのアイテムを紐づけてレコメンド可能。
-### 5. Skincare PROシミュレーション機能
-iOS端末向けAI肌解析アプリ「Skincare PRO」には、新たにボトックスやレーザー治療、フェイスリフト施術などの非外科的施術のシミュレーション機能が追加された。この機能により、ユーザーはさまざまな施術の効果をシミュレート可能だ。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 31 May 2024 12:49:47 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Sat, 01 Jun 2024 13:04:15 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
