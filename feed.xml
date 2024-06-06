@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 04 Jun 2024 11:57:05 +0000</lastBuildDate><item><title>GPT-4活用した「英作文1000本ノック」東進と日本マイクロソフトが連携</title><link>https://ledge.ai/articles/toshin_english_composition_1000knocks</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 05 Jun 2024 06:30:49 +0000</lastBuildDate><item><title>NVIDIAのCEO「すべてを加速する」COMPUTEX 2024　故郷香港での基調講演　新たな産業革命の到来を予告</title><link>https://ledge.ai/articles/nvidia_computex2024_jensenhuang_keynote</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAの創業者兼CEOであるジェンセン・フアン氏は、2024年6月2日に台北で開催されたCOMPUTEX 2024に先立ち、「すべてを加速する」（Accelerate Everything）というテーマで{target=“_blank”}を行った。
+
+フアン氏は、AIと加速コンピューティングの交差点が未来を再定義することを強調し、新たな産業革命の到来を予告した。
+
+講演では、コスト削減と持続可能性を強調し、データセンター、工場、消費者デバイス、ロボットなどを支える新しい半導体、ソフトウェア、システムについて詳述。
+
+「生成AIが業界を再構築し、イノベーションと成長の新たな機会を開いている」
+「今日、我々はコンピューティングの大きな転換点に立っている」
+
+と同氏は語った​。
+
+@
+
+
+
+
+### 毎年新たな半導体を登場させるロードマップ
+フアン氏は 1 年ごとに登場予定の新しい半導体のロードマップを明らかにした。NVIDIAの革新的なAIと加速コンピューティングの技術が次の技術的進歩の波を推進していることを強調した。RubinプラットフォームがBlackwellプラットフォームの後継として登場し、新しいGPU、ArmベースのCPU「Vera」、NVLink 6、CX9 SuperNIC、X1600収束インフィニバンド/イーサネットスイッチを搭載すると発表した。NVIDIAは毎年新しい半導体をリリースする一貫したリズムを維持し、技術の限界に挑戦し続けると述べた。
+### 持続可能なコンピューティングとAIファクトリー
+フアン氏は、「加速コンピューティングは持続可能なコンピューティングである」と強調し、GPUとCPUの組み合わせにより、電力消費を3倍に増やすだけで100倍のスピードアップを実現し、CPU単体に比べて25倍の性能を発揮することが可能であると説明した​。
+
+台湾の主要なコンピュータメーカーは、NVIDIAのGPUとネットワーキングソリューションを採用し、クラウド、オンプレミス、エッジAIシステムを構築している。ASRock Rack、ASUS、GIGABYTE、Pegatron、Supermicroなどが新製品を発表しており、NVIDIAのMGXモジュラーリファレンスデザインプラットフォームもBlackwellをサポートする。
+### ネットワーキングの革新と開発者向けツール
+フアン氏は、AI向けに構築された初のイーサネットファブリックであるNVIDIA Spectrum-Xを発表し、従来のイーサネットファブリックよりも1.6倍のネットワーク性能を提供すると述べた。これにより、AIワークロードの処理、分析、実行が加速され、AIソリューションの開発と展開が促進される​。
+
+さらに、NVIDIA NIMを利用することで、全世界の2800万人の開発者が生成AIアプリケーションを簡単に作成できるようになる。NIMは、クラウド、データセンター、ワークステーションで展開可能な最適化されたコンテナとしてモデルを提供する​。
+
+### AIアシスタントとロボティクスの未来
+NVIDIAのRTX AI PCは、RTX技術を活用して消費者体験を革新し、200以上のRTX AIノートPCと500以上のAI対応アプリケーションとゲームを提供する。フアン氏は、NVIDIA ACEデジタルヒューマンプラットフォーム向けの新しいPCベースのNIM推論マイクロサービスを紹介し、AIのアクセシビリティに対するコミットメントを強調した​。
+
+NVIDIAは、Foxconnなどの台湾の製造業者が同社の技術を使用して工場を変革し、ビジョンAIとロボット開発ツールを組み合わせたデジタルツインを作成していることを紹介した。フアン氏は、「次のAIの波は物理AIである」と述べ、ロボティクスとAIの重要性を強調した​ 。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+COMPUTEX 2024は、6月3日から6日まで台北の南港展示センターで開催され、1500以上の出展者と5万人の来場者が予想されている。このイベントは、台湾を中心とした活気ある技術エコシステムを展示し、AIをグローバルにスケールするための最先端システムの発表の場となっている​。NVIDIAのパートナー企業も多数参加し、Acer、ASUS、GIGABYTE、MSI、Supermicroなどが新製品を発表している。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 05 Jun 2024 06:30:49 +0000</pubDate></item><item><title>GPT-4活用した「英作文1000本ノック」東進と日本マイクロソフトが連携</title><link>https://ledge.ai/articles/toshin_english_composition_1000knocks</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -481,38 +533,7 @@ OpenAIは2020年「訓練データの不足」を理由に一度閉鎖したロ�
 :::box
 
 :::
-</description><pubDate>Sat, 01 Jun 2024 13:09:36 +0000</pubDate></item><item><title>ChatGPT-4o対応のマルチモーダルAIメガネ「Frame」をBrilliant Labsが全世界で発売開始</title><link>https://ledge.ai/articles/briliant_labs_frame_is_now_available_worldwide</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Brilliant Labsは2024年5月16日、ChatGPT-4o対応のマルチモーダルAIメガネ「Frame」の全世界発売を{target=“_blank”}し、出荷を開始した。これに伴い、全世界の開発者向けに新たな開発者パートナー・プログラムも開始された。
-
-{target=“_blank”}された「Frame」は、オープンソースAIアシスタント「Noa」を搭載しており、開発者は多様なAIアプリケーションを創造するためのプラットフォームとして活用できる。このプログラムにはすでに8,000人以上の開発者が参加しており、ブレイン・マシン・インターフェース（BMI）、記憶拡張、ロボット工学など多岐にわたるAIアプリケーションの開発が進められている​という。
-
-同社は、AnthropicのClaude 3、Llama 3、Stable Diffusion、そしてChatGPT-4oを含む複数の大規模言語モデル（LLM）のサポートを拡大した。これにより、Noaを活用したプロアクティブなAI主導のコミュニケーションが可能になり、新機能「ワイルドカード・モード」によってユーザーの質問や興味に基づいて情報を提供できるとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社の共同創設者兼CEO、Bobak Tavangar氏は、「Frameが世界中の開発者に届くことを嬉しく思います。これはAIデバイスとして理想的なフォームファクターであり、利用者が自由に動きながら世界と対話できるようにします。しかし、それ以上に重要なのは、私たちがクローズド・ソース・モデルを覆し、より公平なイノベーションを推進している点です。新たなAIの時代では、信頼、プライバシー、オープン性が以前にも増して重要です。これらのテクノロジーを使用するコミュニティが真の力を持つべきです」と述べている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 01 Jun 2024 13:04:15 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Sat, 01 Jun 2024 13:09:36 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
