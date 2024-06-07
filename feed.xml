@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 06 Jun 2024 06:07:30 +0000</lastBuildDate><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 06 Jun 2024 08:10:02 +0000</lastBuildDate><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -475,7 +475,52 @@ OpenAIは2020年「訓練データの不足」を理由に一度閉鎖したロ�
 :::box
 
 :::
-</description><pubDate>Sun, 02 Jun 2024 14:32:14 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
+</description><pubDate>Sun, 02 Jun 2024 14:32:14 +0000</pubDate></item><item><title>大人にもお薦め！ Microsoftが無料公開　中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Microsoft は2024年6月、教育者と中高生が授業で利用できる生成AIのツールキット「Unlocking Generative AI Safely and Responsibly（生成AIを安全に責任を持って活用するために）」の日本語版をMicrosoft Learnで{target=“_blank”}した。
+
+生成AIは近年教育分野においてもその可能性を広げている。しかし新しい技術の導入には慎重さが求められるため、学生が生成AIを責任を持って使用できるよう教育することが重要だと同社は述べる。同ツールキットは、13歳から15歳の学生と教育者を対象に、デジタルリテラシーとオンライン安全性のスキルを高めることを目的としている。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+教材は、指導情報と、物語パートを組み合わせて作られている。生徒は、物語の主人公Ginaと共に生成AIのケーススタディを通して、内容の捏造、プライバシーの考慮、バイアスの認識、精神的健康などの重要なトピックを学ぶ。教育者はこのリソースを単一のレッスンとして使用することも、4つのパートに分けて使用することもできる。
+
+**プロンプトの解説の例**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+**Ginaと一緒に学ぶアクティビティの例**
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+学生はまた、Microsoft Copilotやプロンプトエンジニアリング技術など、さまざまな生成AIツールを探求する演習に参加することで、ファクトチェック、良好なデジタル衛生習慣の育成、データプライバシーの保護、精神的健康の管理などのスキルを身につけることができる。
+
+教材はMicrosoftとシンガポールのテック企業Cyberliteとの協力で開発された。リソースセットは現在、英語（US、UK）、日本語、中国語（ZH）、韓国語（KO）でも提供されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>公務員からリスキリングで機械学習エンジニアに転身　42 Tokyo特別インタビュー【第2回】第1期生　鈴木昂太さん</title><link>https://ledge.ai/articles/42tokyo-2</link><description>:::box
 
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
@@ -1125,29 +1170,7 @@ JDLAは、ディープラーニング技術を日本の産業競争力向上の�
 :::box
 
 :::
-</description><pubDate>Wed, 28 Feb 2024 05:54:19 +0000</pubDate></item><item><title>日本最大級のDX推進コンテスト『日本DX大賞2024』応募開始</title><link>https://ledge.ai/articles/dx_taisho_2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-一般社団法人日本デジタルトランスフォーメーション推進協会は2024年2月6日、民間企業や自治体のDX取り組みを表彰する「日本DX大賞 2024」の応募受付を開始したと{target=“_blank”}した。
-
-コンテストは、DXの成功事例を発掘し共有することで、日本全体のDX推進を加速させることを目的としている。昨年行われた「日本DX大賞2023」への応募数は111件。今年はサステナビリティトランスフォーメーションやビジネスモデルの変革、顧客体験の向上など、多様なカテゴリーでのDX取り組みが対象となる​。
-
-**募集期間**： 2024年2月6日から4月26日まで
-**応募対象**：「DX推進」に取り組んでいる民間企業、公的機関、自治体等の変革を実現した事例や成果をあげた事例。または、ユーザー企業・団体が取り組んだ事例
-
-
-日本DX大賞サイト：{target=“_blank”}
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 06 Feb 2024 10:45:28 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
+</description><pubDate>Wed, 28 Feb 2024 05:54:19 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
