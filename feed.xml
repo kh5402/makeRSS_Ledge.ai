@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 07 Jun 2024 05:56:41 +0000</lastBuildDate><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 07 Jun 2024 10:38:00 +0000</lastBuildDate><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1548,7 +1548,45 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>AGIと超知能がもたらす未来を予見：元OpenAIメンバーが描く衝撃のシナリオ「世界は間もなく気付くが、現時点でそれを理解している者は数百人のみ」</title><link>https://ledge.ai/articles/former_openai_member_warns_situational_awareness</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>ソクラテスに人生相談？生成AIで西洋古典学に新たな風「ヒューマニテクスト」名古屋大などの研究チームが開発　一般公開予定</title><link>https://ledge.ai/articles/humanitext</link><description>:::small
+画像の出典：[Dall-E3により ledge.ai が生成
+:::
+
+名古屋大学、桜美林大学、国立情報学研究所（NII）で構成される研究チームが2024年5月30日、生成AI技術を用いた西洋古典学の研究と教育に新たなアプローチを提供するシステム「ヒューマニテクスト」（Humanitext Antiqua）を開発したと{target=“_blank”}した。このシステムは、6月1-2日開催の日本西洋古典学会で限定公開された。今後は一般に向けて公開予定とのこと。
+
+ヒューマニテクストは、西洋古典原典のデータベースを再整備し、生成内容の出典情報をユーザーが常に参照できる信頼性の高い専門的解釈システムを構築したもの。このような試みは国内外でも初めてであり、言葉の意味を基にした文脈探索が可能となることで、専門外の人々も興味に合わせて文学・歴史・哲学の原典を気軽に参照できるようになるという。
+
+研究チームは、生成AI技術の活用により、西洋古典学の研究と教育において、新たなアプローチを提供することを目指している。特に、偽情報生成問題に対処するため、学術的水準を保った回答を出力するシステムを開発し、生成内容の出典を確認できる機能も搭載しているとのこと。
+
+ヒューマニテクストの具体的な機能としては、「著者および著作選択機能」「出力カスタマイズ機能」「典拠確認機能」などが挙げられる。ユーザーは、自由に設定して著者および著作の範囲で文脈探索を行うことができ、出力カスタマイズ機能を用いて、回答に用いる文脈数や創造性を調整することが可能である。また、典拠確認機能により、出力された回答に用いられた典拠を一覧で表示し、簡単に原典テクストを確認できる。
+
+ヒューマニテクストのX（旧Twitter）{target=“_blank”}では、同システムの多様な使用例が紹介されている。
+
+たとえば、ローマ皇帝マルクス・アウレリウスに「あなたの著書をAmazonで発売したらどのように評価されると思いますか？5点満点で何点つくか予想してください」などと問いかけることができる。回答は以下の通りだ。
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+そのほかにも、死の恐怖を克服するにはどうしたらよいか？古代ローマの給与体系はどのようなものだったか？など、自由な質問が飛び交っている。一般公開が楽しみになってくる対話がたくさん綴られている。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 07 Jun 2024 10:38:00 +0000</pubDate></item><item><title>AGIと超知能がもたらす未来を予見：元OpenAIメンバーが描く衝撃のシナリオ「世界は間もなく気付くが、現時点でそれを理解している者は数百人のみ」</title><link>https://ledge.ai/articles/former_openai_member_warns_situational_awareness</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1976,26 +2014,7 @@ Eurekaは、2023年10月にNVIDIAが発表した、ロボットに複雑なス�
 :::
 
 
-</description><pubDate>Fri, 10 May 2024 10:08:16 +0000</pubDate></item><item><title>MITがDALL-E3など拡散モデルの処理性能を30倍にする研究を発表　分布マッチング蒸留（DMD）で品質も担保</title><link>https://ledge.ai/articles/mit_distribution_matching_distillation</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月21日、米マサチューセッツ工科大学（MIT）はDALL-E3など既存モデルの処理速度を30倍高速化が期待できるという研究の成果を{target=“_blank”}した。
-
-AI画像生成ツールは主に拡散モデルで複数の単語を認識し独自の画像を生成する。ノイズの多い初期画像データに繰り返し構造を追加し画質を向上させるが、画像が完成するまで何度も反復する必要があり処理に時間を要していた。
-
-この課題に対してMIT コンピューター科学・人工知能研究所 (CSAIL) の研究者は、複雑な構造のオリジナルのモデルを「教師モデル」とし、教師モデルの動作を「生徒モデル」に模倣させ拡散モデルの複雑な処理のプロセスを1ステップに簡素化することを実現したという。このアプローチは「分布マッチング蒸留（DMD: Distribution Matching Distillation）」として知られており、生成される画像を高品質な状態で高速生成を可能にした。
-
-DMDによる詳しい動作は、まず回帰損失によりマッピングが固定され画像構成のトレーニングが安定し、分布マッチング損失により元の画像と生成した画像の違いを理解し相違を最小化できるようにトレーニングをする。こうした研究により、高速化が実現できるという。
-
-この研究成果は6月に開催される「Conference on Computer Vision and Pattern Recognition（コンピュータービジョンとパターン認識に関する国際会議）」で発表予定だ。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Wed, 08 May 2024 05:21:22 +0000</pubDate></item><item><title>AI学習データの権利者に対価を　技術の進歩と知的保護両面から「知的財産推進計画2024」決定を発表</title><link>https://ledge.ai/articles/ai_and_intellectual_property</link><description>:::small
+</description><pubDate>Fri, 10 May 2024 10:08:16 +0000</pubDate></item><item><title>AI学習データの権利者に対価を　技術の進歩と知的保護両面から「知的財産推進計画2024」決定を発表</title><link>https://ledge.ai/articles/ai_and_intellectual_property</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
