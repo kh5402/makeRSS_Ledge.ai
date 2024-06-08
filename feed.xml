@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 06 Jun 2024 08:10:02 +0000</lastBuildDate><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 07 Jun 2024 05:56:41 +0000</lastBuildDate><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1548,7 +1548,43 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>AnthropicがAIの「ブラックボックス」の一部解明に成功</title><link>https://ledge.ai/articles/anthropic_successfully_decrypts_ais_black_box</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>AGIと超知能がもたらす未来を予見：元OpenAIメンバーが描く衝撃のシナリオ「世界は間もなく気付くが、現時点でそれを理解している者は数百人のみ」</title><link>https://ledge.ai/articles/former_openai_member_warns_situational_awareness</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+元OpenAIのSuperalignmentチームメンバーであるレオポルド・アッシェンブレナー氏は2024年6月、AIのセキュリティ上の懸念を取締役会に伝えたためにOpenAIを解雇されたと主張していることが、各メディアで報じられている。
+
+同氏は「{target=“_blank”}」というブログ記事を公開し、AI技術の進展とその影響について詳細なシナリオを提示した。同記事では、特にAGI（人工汎用知能）の進展とその後のスーパーインテリジェンスへの移行に伴う課題とリスクについて述べられている。この記事の内容は、現時点で世界中で数百人しか理解していないとアッシェンブレナー氏は述べている。
+## AGIの実現と技術進歩
+アッシェンブレナー氏によると、2027年までにAGIが実現する可能性が非常に高いとのこと。GPT-4レベルのAIモデルは公開されている技術情報に基づいて作成されているが、それ以上のモデルについては非公開の技術が多く、オープンソースやアカデミックな研究では追いつけなくなる可能性が高い。特に、データ不足を解決するための自己対戦強化学習（Self-Play RL）の技術が鍵となるが、その詳細は公開されていないという。
+
+同氏はAGIがAI研究を自動化し、数百万の自動化された研究者が登場することで、科学技術の進歩が急速に進むと述べている。この進展は、数ヶ月から1年で人類史を劇的に変える可能性があると指摘している。 
+## 経済と軍事の影響
+アメリカのメガテック企業は、数兆ドル規模のGPU製造と電力インフラの強化を進めており、これにより経済は戦時体制に移行する見込みだという。AGIの進展によりAI研究が自動化され、科学技術の進歩が急速に加速すると予測される。AGIが最も優秀な専門家レベルに達すると、既存の核抑止体制が崩壊し、新しい軍事技術のパラダイムが登場する可能性があるとのこと。
+
+また同氏は、億単位のGPUを製造するためにアメリカ経済を戦時体制にし、全てのインフラを強化する必要があると述べている。これにより、アメリカの電力生産が数十パーセント増加し、数百万人のAGIが稼働することになると予測されるという。
+
+## 国家安全保障のリスク
+中国がスパイ活動を強化し、アメリカのAIアルゴリズムを盗む可能性があるとアッシェンブレナー氏は警告している。現状のセキュリティではこの脅威に対処するのが難しく、アルゴリズムが盗まれた場合、計算資源の差はあまり関係なくなり、危険な競争に突入する可能性があるという。
+
+超知能の出現によって、既存の軍事技術の均衡が崩れ、先制攻撃や国際的な緊張が高まる可能性がある。同氏はこのようなシナリオが現実化する前に国際的な協力と安全保障対策が必要であると強調している。
+
+## 国際的な競争と協力の必要性
+同氏は、AGIの開発とその後の超知能の出現が国家間の緊張を高めると予測している。特に、アメリカと中国の競争が激化し、安全性を犠牲にしてまで開発競争が行われる可能性がある。これを避けるためには、国際的な協力と安全保障対策が不可欠であると強調している。
+
+ブログは「イリヤ・サツケヴァーに捧ぐ」と締めくくられた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 07 Jun 2024 05:56:41 +0000</pubDate></item><item><title>AnthropicがAIの「ブラックボックス」の一部解明に成功</title><link>https://ledge.ai/articles/anthropic_successfully_decrypts_ais_black_box</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1959,47 +1995,7 @@ DMDによる詳しい動作は、まず回帰損失によりマッピングが�
 :::
 :::box
 
-:::</description><pubDate>Wed, 08 May 2024 05:21:22 +0000</pubDate></item><item><title>ホロラボ・西松建設、ドローンの空撮映像にARを組み合わせた施工支援技術を開発
-</title><link>https://ledge.ai/articles/hololab-nishimatsu_xr_with_drone_vision</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月18日、株式会社ホロラボと西松建設は、共同研究によりドローンを利用した建設現場の施工支援技術を開発したことを{target=“_blank”){target=“_blank”}した。
-
-空撮映像に3Dモデルをリアルタイムで重ね合わせ、ヘッドマウントディスプレイと連携。これにより、施工の可視化及びドローンの操作性を支援するという。
-
-@
-
-
-
-
-このシステムでは、3Dモデル（CIMモデル）を活用し、現場の生産性向上と業務の効率化を図る。AR（Augmented Reality）技術を用いて、施工現場のCG視覚情報を現実世界に重ねることにより、施工の課題把握や改善提案が迅速に行えるという。
-
-この技術の特徴は、従来の地上主観視点に限定された問題を克服し、ドローンを使用して自由な視点からの確認が可能であること。
-
-ARを重ね合わせるためには、一般的にはQRコードなどのマーカーを使用する手法が使われるが、同研究では、マーカー不要の技術を採用している。DJI社のドローンMavic 3 EnterpriseにRTKモジュールを搭載し、全地球航法衛星システム（GNSS）を活用して、正確な位置情報を取得し、リアルタイムでのAR重畳（ちょうじょう）が行われる。
-
-さらに、操縦者は装着するヘッドアップディスプレイ（Trimble XR10 with HoloLens 2）を通じて空撮映像のAR重畳、ドローンのステータス、3Dモデルの操作が可能である。これにより、操縦者は手を放さずに必要な操作を行うことができるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この技術は、宮城県名取市にあるダム建設現場でのフィールド検証が行われ、全体的な現場の確認や施工計画との比較が短時間で実施できることが確認された。今後、ホロラボと西松建設はこの技術の精度向上とシステムの最適化を進め、広範な利用が可能なサービスへと展開していく計画だ。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 08 May 2024 11:39:04 +0000</pubDate></item><item><title>AI学習データの権利者に対価を　技術の進歩と知的保護両面から「知的財産推進計画2024」決定を発表</title><link>https://ledge.ai/articles/ai_and_intellectual_property</link><description>:::small
+:::</description><pubDate>Wed, 08 May 2024 05:21:22 +0000</pubDate></item><item><title>AI学習データの権利者に対価を　技術の進歩と知的保護両面から「知的財産推進計画2024」決定を発表</title><link>https://ledge.ai/articles/ai_and_intellectual_property</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
