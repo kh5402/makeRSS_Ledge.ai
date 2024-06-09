@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 07 Jun 2024 10:38:00 +0000</lastBuildDate><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 08 Jun 2024 14:01:22 +0000</lastBuildDate><item><title>OpenAI　GPT-4o Voice Modeの最新デモ動画を公開　キャラクター設定に合わせ声色を七変化させるAI　近日中にリリース予定</title><link>https://ledge.ai/articles/openai_gpt4o_new_voice_mode_demo</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIのYouTubeチャンネルで2024年6月5日、「GPT-4o」を使った最新のデモ動画を{target=“_blank”}した。
+
+動画では、一般リリースが待たれているGPT-4のVoice Modeを使用して、様々なキャラクターの声を生成するデモンストレーションが行われた。
+
+@
+
+
+スタッフが、ユーザーがライオンの王、ネズミ、フクロウ、悪役のキツネなどのキャラクターを指定し、それぞれのキャラクターの声を生成する様子が紹介されている。特に、ユーザーの指示に応じて声のトーンや性格を微調整できる点が注目に値する。例えば、ネズミの声をもっと高くしたり、悪役の笑い声をもっと低くしたりすることが可能だ。
+
+さらに、OpenAIは動画の概要欄で以下のように説明している。
+
+:::box
+2024/06/05
+New voice mode coming
+Voice mode is already available for all users in the ChatGPT app (tap the 🎧on the bottom right!) but our new voice and vision &gt;capabilities with GPT-4o (demonstrated here) will be rolling out in the coming weeks.
+:::
+
+Voice Mode自体は、既にテキストの読み上げ機能としてChatGPTアプリで利用可能となっているが、動画でデモンストレーションされている新しい音声およびビジョン機能は、今後数週間で展開される予定とのこと。
+
+{target=“_blank”}によると、新しいGPT-4oのリアルタイムVoice Modeは、数週間以内にChatGPT Plusユーザー向けに限定的なアルファ版としてリリースされる予定だと記されている。さらに数ヶ月以内にPlusユーザー向けに広く提供されるという。
+
+以前のGPT-4では、音声モードを使用してChatGPTと会話する場合、平均で2.8秒（GPT-3.5）および5.4秒（GPT-4）のレイテンシがあった。これは、音声をテキストに変換するモデル、テキストを処理するGPT-3.5またはGPT-4、そしてテキストを再び音声に変換するモデルという3つの異なるモデルのパイプラインによって実現されていた。しかし、このプロセスでは、GPT-4が直接トーンや複数の話者、背景のノイズを観察することができず、笑い声や歌、感情を表現することもできなかった。
+
+GPT-4oでは、テキスト、ビジョン、オーディオを統合した新しい単一のモデルをエンドツーエンドでトレーニングしている。これにより、すべての入力と出力が同じニューラルネットワークによって処理されるとのこと。すべてのモダリティを組み合わせた最初のモデルのため、何ができるのか、その限界はどうなのかはまだ調査段階だという。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 08 Jun 2024 14:01:22 +0000</pubDate></item><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -451,31 +492,7 @@ AIエージェントの普及に伴う課題として、バイアスやハルシ
 :::box
 
 :::
-</description><pubDate>Sun, 02 Jun 2024 14:40:14 +0000</pubDate></item><item><title>OpenAI、ロボット開発を再始動　FigureAIが道筋示す</title><link>https://ledge.ai/articles/openai_is_rebooting_robotics_teams</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-AI搭載ロボットへの投資で世界が活発化している中、OpenAIが以前中止していたロボット開発の取り組みを正式に再始動することが明らかになった。この動きを{target=“_blank”}が捉え、2024年5月31日に報じた。
-## チームの再建と新たな募集
-OpenAIは2020年「訓練データの不足」を理由に一度閉鎖したロボティクスチームを再建するため、現在研究エンジニアの募集を開始している。同社の求人情報によれば、新たなチームメンバーは「チームの最初のメンバーの一人」として迎えられる予定である。このチームは2カ月前に発足したとされ、具体的な取り組みの詳細はまだ公表されていないが、進展は見られているとのこと。
-
-## 過去一年間の投資活動
-ここ1年ほどの間で、OpenAIの投資部門は複数のヒューマノイドロボット企業に出資している。その中でも特に注目されるのは、マイクロソフトやエヌビディアから6億7500万ドルを調達した{target=“_blank”}である。Figure AIは、OpenAIのモデルを搭載し、初歩的な言語能力と推論能力を持つロボットの動画を公開しており、この取り組みがOpenAIのロボット開発再始動の一端を担っているという。
-
-資金調達した同じ日にOpenAIとの{target=“_blank”}したFigureのCEOであるBrett Adcock氏によれば、同社のロボットが人と対話し、物を見たり、物理的なタスクを実行するためのAIモデルの開発が加速されると述べた。これらのAIモデルは、OpenAIの最新のGPTモデルに基づいて開発され、Figureが収集したロボティクスアクションデータに特化して訓練されるとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 02 Jun 2024 14:32:14 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+</description><pubDate>Sun, 02 Jun 2024 14:40:14 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
