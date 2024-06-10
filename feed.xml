@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 08 Jun 2024 14:06:06 +0000</lastBuildDate><item><title>OpenAI　GPT-4o Voice Modeの最新デモ動画を公開　キャラクター設定に合わせ声色を七変化させるAI　近日中にリリース予定</title><link>https://ledge.ai/articles/openai_gpt4o_new_voice_mode_demo</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 09 Jun 2024 08:13:16 +0000</lastBuildDate><item><title>OpenAI　GPT-4o Voice Modeの最新デモ動画を公開　キャラクター設定に合わせ声色を七変化させるAI　近日中にリリース予定</title><link>https://ledge.ai/articles/openai_gpt4o_new_voice_mode_demo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2031,7 +2031,54 @@ Eurekaは、2023年10月にNVIDIAが発表した、ロボットに複雑なス�
 :::
 
 
-</description><pubDate>Fri, 10 May 2024 10:08:16 +0000</pubDate></item><item><title>AI学習データの権利者に対価を　技術の進歩と知的保護両面から「知的財産推進計画2024」決定を発表</title><link>https://ledge.ai/articles/ai_and_intellectual_property</link><description>:::small
+</description><pubDate>Fri, 10 May 2024 10:08:16 +0000</pubDate></item><item><title>東大松尾研出身のAIエンジニア 安野たかひろ氏の都知事選出馬表明　東京都民は次なるオードリー・タンを選ぶのか</title><link>https://ledge.ai/articles/ai-engineer_announces_run_for_governor</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月6日、AIエンジニアで起業家、そしてSF作家の安野たかひろ氏（33歳）が東京都知事選への出馬を表明した。安野氏はこれまでの経歴や経験を活かし、「テクノロジーで誰も取り残さない東京」をビジョンに、東京都の未来を描くために立候補を決意したという。
+## テクノロジーで未来のビジョンを描く
+安野氏は、テクノロジーの急速な進化によって社会が大きく変わる今こそ、東京の未来のビジョンを描くことが重要だと述べた。現状の政治家たちは短期的な政治ゲームに終始し、未来のビジョンについて語ることが少ないと指摘。安野氏はAIエンジニア、起業家、作家としての視点から、長期的な未来のビジョンを都民に提示し、議論を深めることを目指すとしている。
+
+AIエンジニアのバックグラウンドを持つ同氏は、東京大学工学部入学後、松尾研究室に進学。AIテック事業を興し、AIサスペンス小説でコンテストに入賞した。このたびの出馬との関連について、一見するとばらばらなことをしているようにも思えるが、そのどれもが「テクノロジーで未来のビジョンを描く」という目的から行っており、常にただ一つのことをやっていると同氏は述べた。
+
+## 主要政策
+安野氏は「テクノロジーで誰も取り残さない東京」をビジョンに掲げ、以下の3つの分野でのアップデートを訴えた。
+### 暮らしのアップデート:
+自動運転技術の解禁と活用により、誰もが自由に移動できる社会を目指す
+高度医療技術や未病対策を推進し、健康寿命の向上を図る
+サイバー犯罪対策やネット上の暴言対策を強化し、安全なデジタル環境を整備する
+デジタル防災対策を強化し、災害に強い街づくりを推進する
+出産や子育てのインフラ整備を進め、未来世代の育成に注力する
+### 経済のアップデート:
+規制緩和や支援策を通じて、テクノロジーを活用した新産業の創出を推進する
+AIスタートアップの経営経験を活かし、革新的な産業を育成する環境を整備する
+### 政治のアップデート:
+テクノロジーを活用し、民主的な意思決定プロセスをサポートする
+ネット選挙の解禁や新しい投票システムの導入で、民意を反映した行政運営を実現
+行政サービスのデジタルトランスフォーメーションを進め、効率化を図る
+## 選挙期間中のキャンペーン
+安野氏は選挙期間中に以下の3つの日本初のキャンペーンを実施することを発表した。
+**直接投票:** スマートフォンを使った電子投票を導入し、得られた民意のデータを解析・可視化し、柔軟にマニフェストに反映させる。
+**オープンソースでのマニフェスト改訂:** オープンソースのツール「GitHub」を活用し、誰でも政策変更提案ができる仕組みを構築。
+**AIタウンミーティング:** YouTubeライブで24時間連続のタウンミーティングを実施。安野氏のマニフェストを学習したAIが都民からの質問や要望に応える。
+
+安野氏は、これらの取り組みを通じて選挙のやり方自体をアップデートし、より多くの有権者の声を聞くことを目指している。また、これらのキャンペーンに使用したプログラムやソースコードは全てオープンソースで公開し、今後の選挙活動における新しいモデルを提示する予定だと述べた。
+## オードリー・タン氏の助言とエール
+デジタル民主主義における世界的なリーダーであるオードリー・タン氏を長年にわたり尊敬していた安野氏は、出馬にあたりオンライン会議を通じ、タン氏のアドバイスを受けたという。安野氏の「ブロードリスニング（広く意見を聞く）」というアプローチをタン氏は高く評価。テクノロジーを使い有権者の意見を集め、マニフェストに反映させる手法だ。
+また、オープンソース精神、つまり政策を公開し、誰もが参加できる形で議論を行うという方法についても「安野さんは抗議活動をしているのではない。私はそこがすごく好きだ。彼は『私たちは良い方向に変われる』と言っている」と評し、その挑戦を支持したとのこと。
+
+
+
+
+@
+
+
+
+
+:::box
+
+:::
+</description><pubDate>Sun, 09 Jun 2024 08:13:16 +0000</pubDate></item><item><title>AI学習データの権利者に対価を　技術の進歩と知的保護両面から「知的財産推進計画2024」決定を発表</title><link>https://ledge.ai/articles/ai_and_intellectual_property</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2373,28 +2420,7 @@ tomoLinksは、自治体や学校が保有する学力調査データや教育�
 
 :::
 
-</description><pubDate>Tue, 14 May 2024 11:50:44 +0000</pubDate></item><item><title>岸田首相、生成AIの国際的枠組み「広島AIプロセス・フレンズグループ」設立を発表　パリOECD会合にて</title><link>https://ledge.ai/articles/hiroshimaaiprocess_friends_group</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-岸田文雄首相は2024年5月2日、パリで行われたOECDの会合で、AIの安全な利用を目的とした「広島AIプロセス・フレンズグループ」の設立を{target=“_blank”}した。この発表で、49カ国・地域がこの新しい枠組みに参加する予定であることが{target=“_blank”}。この国際的な取り組みは、自由や民主主義などの共通の価値を有する国々が生成AIの国際ルール作りにおける主導権を握ることを目指しているとのこと。
-
-広島AIプロセスは、偽情報の拡散抑止や生成AIが作り出したコンテンツの識別を容易にするための「電子透かし」技術の推進など、安全性と信頼性を高める技術開発を含む具体的な対応を各国に促すものだ。岸田首相は、「偽情報のリスクといったAIの影の側面と戦いつつ、その革新的な可能性を最大化するためには、国際的なガバナンスの形成が急務である」と述べている​​。
-
-さらに、岸田首相は「AIに関するグローバルパートナーシップ」（GPAI）の東京における新拠点設立の方針も発表した。この組織は、AIの責任ある使用を推進し、専門家による技術実証を支援することを目的としている​。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 03 May 2024 04:47:10 +0000</pubDate></item><item><title>AIが生成する画像の「奇妙さ」をホラー作品に昇華　YouTubeショート「群馬旅行の思い出」を見よ</title><link>https://ledge.ai/articles/youtube_short_the_memory_of_gunma</link><description>:::small
+</description><pubDate>Tue, 14 May 2024 11:50:44 +0000</pubDate></item><item><title>AIが生成する画像の「奇妙さ」をホラー作品に昇華　YouTubeショート「群馬旅行の思い出」を見よ</title><link>https://ledge.ai/articles/youtube_short_the_memory_of_gunma</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
