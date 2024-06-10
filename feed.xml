@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 10 Jun 2024 00:47:41 +0000</lastBuildDate><item><title>2024年上半期のAIを捉える「Ledge.ai EXPO 2024 Summer」を本日より公開開始</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、6月10日（月）より、オンライン特設サイトにて「{target=“_blank”}」を公開開始しました。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 10 Jun 2024 02:37:40 +0000</lastBuildDate><item><title>2024年上半期のAIを捉える「Ledge.ai EXPO 2024 Summer」を本日より公開開始</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、6月10日（月）より、オンライン特設サイトにて「{target=“_blank”}」を公開開始しました。
 
 :::button
 {target=“_blank”}
@@ -2413,7 +2413,39 @@ tomoLinksは、自治体や学校が保有する学力調査データや教育�
 
 :::
 
-</description><pubDate>Tue, 14 May 2024 11:50:44 +0000</pubDate></item><item><title>AIが生成する画像の「奇妙さ」をホラー作品に昇華　YouTubeショート「群馬旅行の思い出」を見よ</title><link>https://ledge.ai/articles/youtube_short_the_memory_of_gunma</link><description>:::small
+</description><pubDate>Tue, 14 May 2024 11:50:44 +0000</pubDate></item><item><title>ElevenLabs テキストから効果音を生成するモデル「Sound Effects」公開</title><link>https://ledge.ai/articles/elevenlabs_sound_effects</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ElevenLabsは2024年6月1日、新しいAIオーディオモデル「Sound Effects」を{target=“_blank”}した。このツールは、ユーザーがテキストプロンプトを入力するだけで多様な効果音を生成でき、映画、テレビ、ゲーム、ポッドキャストなどのコンテンツ制作に活用できるという。
+
+Sound Effectsは、ユーザーがテキストで必要なサウンドを記述し、生成ボタンをクリックするだけで、即座に関連するサウンドを生成する。各リクエストには少なくとも4つのバリエーションが提供され、ユーザーは最適なものを選んでダウンロードが可能だ。
+
+様々なシチュエーションを演出するプロンプトと生成された音のサンプルが、X（旧Twitter）で{target=“_blank”}されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+開発にはShutterstockが協力しており、同社の豊富なオーディオライブラリからライセンスされたトラックを使用してモデルがチューニングされているとのこと。これにより、高品質で多様な効果音を簡単に生成できるようになっている。
+
+Sound Effectsは無料で利用可能だが、商業利用には有料サブスクリプションが必要となる。無料ユーザーは生成したコンテンツを公開する際に「elevenlabs.io」とクレジットを付ける必要があるとのこと。
+
+無料ユーザーは月に10,000文字までのプロンプト入力制限があり、デフォルトの音声クリップの長さであれば1リクエストごとに200文字が消費される。
+
+競合サービスとしては、Stability AIが2023年にリリースした音楽や効果音を生成する「Stable Audio」や、Metaの提供する自然音を生成するモデル「AudioCraft」などが挙げられる。
+
+ElevenLabsは今後、APIアクセスの提供を予定しており、より多くの開発者や企業がこのツールを活用できるようになるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 10 Jun 2024 02:37:40 +0000</pubDate></item><item><title>AIが生成する画像の「奇妙さ」をホラー作品に昇華　YouTubeショート「群馬旅行の思い出」を見よ</title><link>https://ledge.ai/articles/youtube_short_the_memory_of_gunma</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2831,33 +2863,4 @@ IC-LightはHDR空間での照明の特性を利用しており、異なる光源
 :::box
 
 :::
-</description><pubDate>Wed, 15 May 2024 15:14:59 +0000</pubDate></item><item><title>アイビスペイント「AI学習妨害機能」追加　イラスト保護のため妨害ノイズ付与し、無断学習からの生成結果を劣化させる</title><link>https://ledge.ai/articles/ibispaint_ai_learning_interference</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
- 株式会社アイビスは2024年5月8日、世界中で3.9億ダウンロードを記録している人気のペイントアプリ「ibisPaint」の最新アップデートを通じて、AI学習妨害機能を導入したことを{target=“_blank”}した。この機能は、ユーザーであるクリエーターの作品が、画像生成AIによって無断で模倣されることを防ぐために設計されている。
-
-画像生成AI技術は、LoRAやDreamBoothなどの追加学習機能を利用し、特定の作風やキャラクターを模倣する能力がある。これにより、オリジナルのイラストが無断で使用され、著作権の侵害が生じる可能性が指摘されている。アイビスはこの問題に対処するため、AI学習妨害機能を開発。イラストにノイズを加えることで、AIが作風を正確に学習できなくなる仕組みを採用している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-利用者はアプリ内で「画像を保存」選択時に「AI学習妨害」をオンに設定し、ノイズの濃度をスライダーで調整可能。この操作により、画像はAIによる模倣から保護され、出力する画像の品質が劣化することで、追加学習の妨害が可能となるとのこと。
-
-同社は1月に、新たにリリースした「AIお手本機能」をリリース後1日で{target=“_blank”}。「既存のキャラクターが表示された」「アイビスペイントを使って描いたらAIで生成したと思われるのでは」といったユーザーからの反響を受けとめ、実装の中止を決定したという。このたびの「AI学習妨害機能」という同社の施策は、クリエイターの著作権保護に基づく創作活動支援へ舵を切ったと、ユーザーからの反響も大きいという。
-
-なお、この機能は、ibisPaintのプレミアム会員限定で提供され、スマートフォンやタブレット、PC（Windows）版のサブスクリプションユーザーが利用できるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 11 May 2024 14:30:50 +0000</pubDate></item></channel></rss>
+</description><pubDate>Wed, 15 May 2024 15:14:59 +0000</pubDate></item></channel></rss>
