@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 09 Jun 2024 08:13:16 +0000</lastBuildDate><item><title>OpenAI　GPT-4o Voice Modeの最新デモ動画を公開　キャラクター設定に合わせ声色を七変化させるAI　近日中にリリース予定</title><link>https://ledge.ai/articles/openai_gpt4o_new_voice_mode_demo</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 09 Jun 2024 15:18:08 +0000</lastBuildDate><item><title>OpenAI　GPT-4o Voice Modeの最新デモ動画を公開　キャラクター設定に合わせ声色を七変化させるAI　近日中にリリース予定</title><link>https://ledge.ai/articles/openai_gpt4o_new_voice_mode_demo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1565,7 +1565,35 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>ソクラテスに人生相談？生成AIで西洋古典学に新たな風「ヒューマニテクスト」名古屋大などの研究チームが開発　一般公開予定</title><link>https://ledge.ai/articles/humanitext</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>切り立った崖をよじ登る四足ロボット「LORIS」、カーネギーメロン大学で開発</title><link>https://ledge.ai/articles/loris_cmu_robotic</link><description>:::small
+画像の出典：{target=“_blank”} / {target=“_blank”}
+:::
+
+カーネギーメロン大学の研究チームは2024年5月、極限地形の探査に特化した新しい軽量フリークライミングロボット「LORIS（Lightweight Observation Robot for Irregular Slopes）」を{target=“_blank”}した。このロボットは、従来の大型で遅いクライミングロボットや、比較的平坦な表面しか登れないロボットとは一線を画す設計となっており、サルの手足から着想を得て設計され、特に「Microspine」グリッパーという技術を使用しているという。
+
+@
+
+## ロボット設計と機能
+LORISは、1肢あたり3つのジョイントアクチュエーターを持つ四足歩行ロボットで、肩、ウィング（外転/内転）、膝の関節を操作する。各肢の末端には3自由度の受動型手首と受動型マイクロスパイングリッパーがあり、不規則な地形に適応しやすくなっている。
+### パッシブとアクティブの組み合わせ
+LORISの設計には、パッシブ（受動的）なグリッパーとアクティブ（能動的）な制御の両方の利点が組み込まれている。これにより、ロボットは軽量でエネルギー効率が高く、安定した登攀が可能である。グリッパーはパッシブな手首関節に接続され、オンボードの深度感知カメラとマイクロプロセッサを使用して、戦略的に足を動かすことができる​という。 
+### マイクロスパイングリッパー
+LORISのマイクロスパイングリッパーは、±45度に傾斜した2つのキャリッジを持ち、接触面に対して鋭い角度で引っかかることで強力なグリップを提供する。これにより、ロボットは横方向の負荷にも対応可能となる（図a）。図bは、3つのキャリッジを持つスプレイグリッパーの自由体図を示し、青色で示された有効な変位と赤色で示された有効な荷重を表示している。角度はグリッパー軸に対して定義されている。
+
+さらに、図cはグリッパーキャリッジの幾何学による最大荷重角度をプロットしたものである。最後に、図dは埋め込まれた魚釣り針と蛇行する屈曲を持つ3Dプリントされたマイクロスパインを示している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+LORISはNASAとの共同プロジェクトの一環として開発されており、特に火星の険しい地形での使用が期待されている。このロボットは、従来のローバーが到達できない場所にアクセスできるよう設計されているという。また、地球上では、災害救助や地質調査などの多様な用途での利用が見込まれているという。LORISは、カーネギーメロン大学のロボメカニクス研究所による多数のプロジェクトの一部で、今後、この技術がどのように発展し、どのように実用化されるかが注目される。
+
+
+:::box
+
+:::
+</description><pubDate>Sun, 09 Jun 2024 15:18:08 +0000</pubDate></item><item><title>ソクラテスに人生相談？生成AIで西洋古典学に新たな風「ヒューマニテクスト」名古屋大などの研究チームが開発　一般公開予定</title><link>https://ledge.ai/articles/humanitext</link><description>:::small
 画像の出典：[Dall-E3により ledge.ai が生成
 :::
 
@@ -1985,53 +2013,7 @@ DeepMindは「{target=“_blank”}」という新サービスを開始し、科
 :::box
 
 :::
-</description><pubDate>Fri, 10 May 2024 10:12:02 +0000</pubDate></item><item><title>NVIDIA　LLMベースの sim-to-real アプローチ「DrEureka」で、ロボット犬に玉乗りを教えるーシミュレーションから実世界への移行にかかる煩雑なプロセスを大幅に削減</title><link>https://ledge.ai/articles/dr_eureka</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAが開発したAIプラットフォーム「Eureka」が、ロボットのスキルトレーニング領域において新たな進展を遂げた。ペンシルベニア大学、テキサス大学オースティン校、NVIDIAからなる研究グループは、ロボットがヨガボールの上でバランスを取りながら歩行する技術を、シミュレーションから実世界へ移行する新しい方法を{target=“_blank”}した。
-
-@
-
-
-
-
-これにより、従来の手動での報酬設計や物理パラメータの調整という煩雑なプロセスを大幅に削減し、自動化を実現したという。
-
-大規模言語モデル（LLM）を核とした「DrEureka」という技術を用いて、目的のタスクに適した報酬関数やドメインランダマイゼーション分布を自動的に生成する。具体的には、四足歩行ロボットがシミュレーション内で学習したポリシーを実世界に移行させる際、人間の介入なしでこれを行うことが可能となる。
-
-下図は、そのDrEurekaのプロセスを表したものだ。
-
-タスクと安全に関する指示と環境のソースコードを受け取り、Eurekaを用いて規則化された報酬関数とポリシーを生成することから始まる。生成されたポリシーは、さまざまなシミュレーション条件下でテストされ、報酬に敏感な物理的先行知識を築き上げる。この先行知識はLLMに提供され、ドメインランダマイゼーション（DR）パラメータのセット生成に利用される。最後に、これらの合成された報酬とDRパラメータを用いて、実世界での展開に向けたポリシーが訓練される。この一連のプロセスにより、シミュレーションから現実へのスムーズな移行が実現し、ロボットが新しいスキルを効率的に習得し適用することが可能となる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-研究チームは、このアプローチが人間が設計した既存の構成と競合する結果を生み出すことを初めて示し、さらにはヨガボールの上でのバランス取りと歩行という新たなロボットタスクを解決する能力を展示した。
-
-
-Eurekaは、2023年10月にNVIDIAが発表した、ロボットに複雑なスキルを教えるAIエージェントだ。発表時には、高速ペン回しを教える動画が{target=“_blank”}。このほかにも、ロボットに引き出しやキャビネットを開閉する、ボールを投げてキャッチする、ハサミを操作するなど、約30のタスクをロボットに教え、学習・熟達させている。
-
-
-@
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Fri, 10 May 2024 10:08:16 +0000</pubDate></item><item><title>東大松尾研出身のAIエンジニア 安野たかひろ氏の都知事選出馬表明　東京都民は次なるオードリー・タンを選ぶのか</title><link>https://ledge.ai/articles/ai-engineer_announces_run_for_governor</link><description>:::small
+</description><pubDate>Fri, 10 May 2024 10:12:02 +0000</pubDate></item><item><title>東大松尾研出身のAIエンジニア 安野たかひろ氏の都知事選出馬表明　東京都民は次なるオードリー・タンを選ぶのか</title><link>https://ledge.ai/articles/ai-engineer_announces_run_for_governor</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
