@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 09 Jun 2024 15:18:08 +0000</lastBuildDate><item><title>OpenAI　GPT-4o Voice Modeの最新デモ動画を公開　キャラクター設定に合わせ声色を七変化させるAI　近日中にリリース予定</title><link>https://ledge.ai/articles/openai_gpt4o_new_voice_mode_demo</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 10 Jun 2024 00:47:41 +0000</lastBuildDate><item><title>2024年上半期のAIを捉える「Ledge.ai EXPO 2024 Summer」を本日より公開開始</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、6月10日（月）より、オンライン特設サイトにて「{target=“_blank”}」を公開開始しました。
+
+:::button
+{target=“_blank”}
+:::
+
+## Ledge.ai EXPOについて
+Ledge.ai EXPOは、DXを実現するプロダクトやサービスの情報を発信するオンラインイベントです。国内最大級のAI関連メディアであるLedge.aiが主催するイベントとして、AI、IoT、DXに興味関心の高いビジネス層が多数訪れています。参加費は無料です。
+
+第7回目となる今夏は「Next Gen AI ＆Business」のテーマで、各企業で導入・活用が進められている「生成AI」について、AI活用のトレンド／リスク／ユースケース／活用を促進するためのツールや企業紹介など、様々な観点から情報を発信いたします。
+
+また、LLM比較記事やLedge.ai読者を中心に生成AI活用状況や取り組みに関するアンケート結果の掲載など、お役立ちコンテンツも豊富に掲載いたしますので、是非ご一読ください。
+
+## 掲載コンテンツ
+**【キーノートウェビナー】**
+
+**NLP（自然言語処理)これまでの80年とこれからの20年**
+マイクロソフト ディベロップメント株式会社　Zhan (Cliff) Chen / 陳 湛 氏
+
+**生成AI時代のUXデザイン**
+LINEヤフー株式会社　データG管掌 / データソリューショデザイン責任者 駒宮 大己 氏
+LINEヤフー株式会社　データソリューション デザイン責任者 / UXデザイナー 横内 寿樹 氏
+ 
+**【注目のキーワード解説】**
+- マルチモーダルAI
+- AIエージェント
+- 独自データ活用
+
+**【限定ウェビナー】**
+- デル・テクノロジーズ株式会社｜エンタープライズ企業が押さえておくべきAIイノベーション加速への切り札“Dell AI Factory”とは？
+- Ledgeのプロジェクトマネージャーが15分で解説！マルチモーダルAIとは？
+- Ledgeのプロジェクトマネージャーが15分で解説！AIエージェントとは？
+
+ほか
+
+**【生成AI活用事例インタビュー】**
+- 株式会社博報堂｜生成AIで生活者発想を支援するサービスプロトタイプを開発独自の生活者調査データベースから7,000タイプのバーチャル生活者を生成
+- GMOインターネットグループ株式会社｜生成AIを活用して業務時間10万6,000時間を創出
+
+**【その他コンテンツ】**
+- 企業が生成AIを活用する際のリスク
+- LLMモデル比較記事
+- 上半期の重要なAIニュース
+- 生成AI活用状況アンケート
+
+:::button
+{target=“_blank”}
+:::
+
+## 開催概要
+イベント名：Ledge.ai EXPO 2024 summer
+主催：株式会社レッジ
+URL：{target=“_blank”}
+開催形式：オンライン（特設サイト）</description><pubDate>Mon, 10 Jun 2024 00:47:41 +0000</pubDate></item><item><title>OpenAI　GPT-4o Voice Modeの最新デモ動画を公開　キャラクター設定に合わせ声色を七変化させるAI　近日中にリリース予定</title><link>https://ledge.ai/articles/openai_gpt4o_new_voice_mode_demo</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -450,49 +503,7 @@ AI関連も生成AIをはじめ多数の出展が見られた。その中でも�
 
 香港エレクトロニクス・フェアは年に2回、春と秋に開催されている。少しでも興味を持った方は、今年の秋の開催予定をぜひお見逃しなく。
 
-!</description><pubDate>Fri, 31 May 2024 10:23:03 +0000</pubDate></item><item><title>アクセンチュア、生成AIと人間の共進化をテーマに「テクノロジービジョン2024」を解説  より人間的なテクノロジーを受け入れる方向性に</title><link>https://ledge.ai/articles/accenture_technology_vision2024</link><description>:::small
-画像の出典：{target=“_blank
-:::
-
-アクセンチュアは2024年5月27日、東京都内で「{target=“_blank”}」の説明会を開催し、生成AIと人間の共進化に関する最新のトレンドを発表した。今年のテーマは「Human by Design ──人間性を組み込む」で、生成AIがどのように人間の可能性を広げるかが強調された。
-
-今回のビジョンは、2つの現実に基づいている。第一に、テクノロジーがビジネスのあらゆる部分に影響を与える再発明の波を引き起こしていること。第二に、この新技術がより「人間的」な性質を持ち始めており、これが本質的に人々に超人的な能力を与えることであるとした。
-
-アクセンチュアが発表した主要なトレンドは以下の４つ：
-
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-### １．AIによる出会い（A match made in AI）：
-知識との関係が再構築され、AIが知識探求を新たなレベルに引き上げる。生成AIチャットボットが人間のアドバイザーとして機能し、データとの新しい関わり方を提供する。
-### ２．自分専用エージェントとの出会い（Meet my Agent）：
-個々のニーズに応じたエコシステムが構築され、個人専用のAIエージェントが誕生する。これにより、個人のスキルや経験に応じたサポートが提供される。
-### ３．私たちが必要とする空間（The space we need）：
-新しい現実の中で価値を創出し、生活と仕事の質を向上させる空間が提供される。Apple Vision Proなどの新しい空間コンピューティングデバイスがその例である。
-### ４．デジタル化された私たちの身体（Our bodies electronic）：
-人間とテクノロジーの融合が進み、新しいヒューマン・インターフェースが登場する。これは、人間の身体とデジタル技術の統合を促進する​​。
-
-## 実用例と未来展望
-説明会では、GitHub Copilot X、Adobe Firefly、Microsoft Copilot for Microsoft 365など、既に実用化されているAIエージェントの事例が紹介された。これらの事例を通じて、AIエージェントが人間の行動や物理世界に与える影響が強調された。また、将来のAIエージェントがどのように人間と共に成長し、学び合うかについても言及された。
-## 課題とガバナンス
-AIエージェントの普及に伴う課題として、バイアスやハルシネーションのチェック、入力情報の漏洩、倫理違反、著作権侵害などのリスクが挙げられた。これらの課題に対応するためのガバナンスが必要とされている。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 02 Jun 2024 14:40:14 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+!</description><pubDate>Fri, 31 May 2024 10:23:03 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
