@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 10 Jun 2024 16:26:54 +0000</lastBuildDate><item><title>マイクロソフトのAI新機能「Recall」セキュリティ専門家らの批判受けデフォルト「オフ」で対策</title><link>https://ledge.ai/articles/microsoft_copilot_plus_pc_recall</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 11 Jun 2024 03:09:38 +0000</lastBuildDate><item><title>マイクロソフトのAI新機能「Recall」セキュリティ専門家らの批判受けデフォルト「オフ」で対策</title><link>https://ledge.ai/articles/microsoft_copilot_plus_pc_recall</link><description>:::small
 画像の出典：{target=“_blank”} / {target=“_blank”}
 :::
 
@@ -2001,7 +2001,42 @@ DeepMindは「{target=“_blank”}」という新サービスを開始し、科
 :::box
 
 :::
-</description><pubDate>Fri, 10 May 2024 10:12:02 +0000</pubDate></item><item><title>東大松尾研出身のAIエンジニア 安野たかひろ氏の都知事選出馬表明　東京都民は次なるオードリー・タンを選ぶのか</title><link>https://ledge.ai/articles/ai-engineer_announces_run_for_governor</link><description>:::small
+</description><pubDate>Fri, 10 May 2024 10:12:02 +0000</pubDate></item><item><title>つくば市、生成AIを活用した政策提言システムを国内で初めて導入へ　2024年度中にも</title><link>https://ledge.ai/articles/tsukuba_supercity_strategy_on_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+茨城県つくば市は、2024年度中に生成AIを活用した政策提言システムを導入する予定だと{target=“_blank”}が2024年6月4日に報じた。
+このシステムは、市議会の質疑や市民の意見をAIで分析し、優先課題を「見える化」することで、効果的な行政サービスを提供することを目指している。
+
+つくば市は、この新しいシステムにより、市民の声をより迅速かつ正確に反映した政策提言が可能になると期待している。具体的には、市民の意見や市議会での質疑を収集し、生成AIを用いて分析。これにより、重要な課題を優先順位付けし、行政の意思決定プロセスを効率化するという。同市によれば、AIの深層学習機能を使う政策提言システムの構築に乗り出すのは国内で初めての試みだという。
+## スーパーシティ構想に基づく住民参加型行政サービスの実証調査
+2024年3月、つくば市において住民参加型行政サービスの提供を目指す調査検討業務の{target=“_blank”}が発表された。報告書は、KPMGコンサルティング株式会社が内閣府の委託を受け、令和5年度に実施されたもの。
+
+つくば市は、1963年の筑波研究学園都市建設以降、多様な人材が集まり、科学技術と高等教育の中心地として発展してきた。2022年にはスーパーシティ型国家戦略特区に指定され、「つくばスーパーサイエンスシティ構想」に基づき、住民参加を基盤とした住民中心のスーパーシティを目指している。
+
+しかし、2019年の市民意識調査では「市政に市民が参加できる環境が整っている」と答えた市民はわずか29.4%であり、行政への住民参加が十分でないことが課題となっていた。そこで、生成AIを活用し、住民の声を可視化することで、さらなる市政への住民参加の促進を図ることが本事業の目的としている。
+
+実証調査の結果、生成AIによる住民の声の収集・分析が有効であることが確認された。市職員や住民からは「市民の感じる課題と政策のギャップを埋めるツールとして活用していきたい」との期待の声が寄せられた。また、ダッシュボード形式での課題の可視化が、住民と行政の双方向コミュニケーションを促進することが明らかになった。
+
+今後、つくば市は議会議事録以外の住民の声も収集し、データ連携基盤を活用したさらなる行政サービスの改善を目指す。具体的なユースケースとしては、オンデマンドタクシーの運行ルートや停留所の位置の改善などが検討されているという。
+
+今回の調査結果を踏まえ、つくば市は生成AIを活用した住民参加型行政サービスの実装に向けた具体的な計画を進めていく予定だ。これにより、住民の多様なニーズに応えるとともに、市政への積極的な参加を促進し、住民中心のスーパーシティの実現を目指すとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 11 Jun 2024 03:09:38 +0000</pubDate></item><item><title>東大松尾研出身のAIエンジニア 安野たかひろ氏の都知事選出馬表明　東京都民は次なるオードリー・タンを選ぶのか</title><link>https://ledge.ai/articles/ai-engineer_announces_run_for_governor</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2357,40 +2392,7 @@ AIを発明者とする特許出願は国際的にも議論の対象となって
 
 :::
 
-</description><pubDate>Mon, 20 May 2024 11:08:48 +0000</pubDate></item><item><title>コニカミノルタ　教育専門知識とビッグデータを活用した対話型生成AI「tomoLinks」を大阪市立小中学校で先行導入</title><link>https://ledge.ai/articles/konicminolta_tomolinks_genai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-コニカミノルタジャパンは2024年5月7日、学校教育向けソリューション「tomoLinks®（トモリンクス）」の新機能として、対話型生成AI機能を提供すると{target=“_blank”}した。同機能は2024年9月から大阪市立小中学校の一部で先行利用が開始される。
-
-教育現場でのAI導入の背景には、教育データの活用が深く関連している。近年、教育現場では情報技術の活用が進められており、特に学力調査データや学習支援システムのデータが豊富に蓄積されている。しかし、既存の対話型生成AIはインターネット上の情報に基づいて回答を生成するため、学校教育においては必ずしも適切な内容を提供できないという課題があった。これに対応するため、コニカミノルタジャパンは、教育内容に特化したデータを使用して安全で質の高い対話型学習支援を目指す「tomoLinks」を開発したとのこと。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-tomoLinksは、自治体や学校が保有する学力調査データや教育関連のビッグデータを基に、子どもたちの学力の経年変化や得意・不得意な単元を分析し、その結果に基づき子どもの特性に合わせた個別の対話を提供することで、個別最適な学びを支援することを目的としている。また、教材や学習指導要領などのデータを設定した対話型生成AIにより、有害なキーワードや不適切な回答を避け、子どもたちに安全で安心な学習環境を提供するという。
-
-この取り組みにおいて、大阪市教育委員会とコニカミノルタ及びコニカミノルタジャパンは、教育データの利活用を強化し、教育行政に資する相互の連携及び協力に関する協定を締結した。この協定は、AIを活用した児童生徒の多様な学び等の可能性を探ることを目的としている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 14 May 2024 11:50:44 +0000</pubDate></item><item><title>AI美女コンテスト「Miss AI」ファイナリストはこの10名だ！　容姿・影響力・クリエイターの技術力を評価し選考</title><link>https://ledge.ai/articles/fanvue_miss_ai_finalists</link><description>:::small
+</description><pubDate>Mon, 20 May 2024 11:08:48 +0000</pubDate></item><item><title>AI美女コンテスト「Miss AI」ファイナリストはこの10名だ！　容姿・影響力・クリエイターの技術力を評価し選考</title><link>https://ledge.ai/articles/fanvue_miss_ai_finalists</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
