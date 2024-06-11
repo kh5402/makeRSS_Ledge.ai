@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 10 Jun 2024 02:37:40 +0000</lastBuildDate><item><title>2024年上半期のAIを捉える「Ledge.ai EXPO 2024 Summer」を本日より公開開始</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、6月10日（月）より、オンライン特設サイトにて「{target=“_blank”}」を公開開始しました。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 10 Jun 2024 16:12:22 +0000</lastBuildDate><item><title>2024年上半期のAIを捉える「Ledge.ai EXPO 2024 Summer」を本日より公開開始</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、6月10日（月）より、オンライン特設サイトにて「{target=“_blank”}」を公開開始しました。
 
 :::button
 {target=“_blank”}
@@ -2413,7 +2413,70 @@ tomoLinksは、自治体や学校が保有する学力調査データや教育�
 
 :::
 
-</description><pubDate>Tue, 14 May 2024 11:50:44 +0000</pubDate></item><item><title>ElevenLabs テキストから効果音を生成するモデル「Sound Effects」公開</title><link>https://ledge.ai/articles/elevenlabs_sound_effects</link><description>:::small
+</description><pubDate>Tue, 14 May 2024 11:50:44 +0000</pubDate></item><item><title>AI美女コンテスト「Miss AI」ファイナリストはこの10名だ！　容姿・影響力・クリエイターの技術力を評価し選考</title><link>https://ledge.ai/articles/fanvue_miss_ai_finalists</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+世界初のAI美人コンテスト「Miss AI」の最終選考に残った10人のAIモデルが{target=“_blank”}された。
+{target=“_blank”}によると、このコンテストには約1500人の応募があり、その中から選ばれた10人のAI生成モデルが最終的な優勝を目指して競い合うことになる​。
+
+4月にソーシャルメディアプラットフォームFanvueが開催発表した「Miss AI」は、AI生成のモデルを対象にした初の美人コンテストで、ルックスや振る舞いといった従来の基準に加え、ソーシャルメディアでの影響力やクリエイターの技術力も評価の対象となる。優勝者は5,000ドルの現金とプロモーションサポートを受けることができる
+
+審査員には、AIインフルエンサーのエミリー・ペレグリーニとアイタナ・ロペスが名を連ねている。これらのAIモデルは、インスタグラムで数十万人のフォロワーを持ち、自身が築いたソーシャルメディアでの成功をもとに、コンテストの参加者を審査するという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## ファイナリスト10名はこちら
+
+### {target=“_blank”}
+!
+
+### {target=“_blank”}
+!
+
+### {target=“_blank”}
+!
+
+### {target=“_blank”}
+!
+
+### {target=“_blank”}
+!
+
+### {target=“_blank”}
+!
+
+### {target=“_blank”}
+!
+
+
+### {target=“_blank”}
+!
+
+### {target=“_blank”}
+!
+
+### {target=“_blank”}
+!
+
+
+これらのファイナリストはそれぞれInstagramで活動しており、フォロワー数や投稿内容が審査の一環として評価されている。例えば、LGBTQ+の支持者でありDJでもあるアイヤナ・レインボーや、環境保全団体のアンバサダーを務めるアン・ケルディなど、各モデルはそれぞれのメッセージを発信している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 10 Jun 2024 16:12:22 +0000</pubDate></item><item><title>ElevenLabs テキストから効果音を生成するモデル「Sound Effects」公開</title><link>https://ledge.ai/articles/elevenlabs_sound_effects</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2799,68 +2862,4 @@ PDM技術の他にも、同社はAIを広範囲に活用しているという。
 
 
 
-</description><pubDate>Fri, 17 May 2024 08:56:03 +0000</pubDate></item><item><title>画像の照明を自在に操る新AIツール「IC-Light」公開</title><link>https://ledge.ai/articles/ic_light</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年5月7日、画像の照明を自在に操作できる新しいツール「IC-Light（Imposing Consistent Light）」が{target=“_blank”}された。このツールは、前景となる画像を入力し、テキストプロンプトや背景画像を指定することで、異なる照明条件下で撮影されたかのような画像を生成することができる。
-
-IC-Lightは、「テキスト条件付きリライティング モデル」と「背景条件付きモデル」の 2 種類のモデルをリリースしており、{target=“_blank”}にアクセスして誰でも利用可能だ。
-
-## テキスト条件付きモデル
-このモデルでは、前景画像とテキストプロンプト、そして照明の初期設定を入力として使用する。例えば、プロンプトに「美しい女性、暖かい雰囲気、寝室」を指定し、照明の初期状態として「左からの光」と設定することで、指定されたシーンに見合った照明が施された画像を生成することが可能だ。
-
-### プロンプト: 美しい女性、詳細な顔、光と影
-
-照明設定: 左
-!
-
-
-(美しい女性、詳細な顔、柔らかいスタジオ照明)
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### プロンプト: 仏陀、詳細な顔、SF RGB 発光、サイバーパンク
-
-照明設定: 左
-!
-
-
-
-### プロンプト: 仏像、詳細な顔、自然光
-
-照明設定: 左
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 背景条件付きモデル
-このモデルでは、前景画像と背景画像、そしてテキストプロンプトを入力として使用する。背景画像の照明を解析し、それに合わせて前景の照明を調整することで、自然で一貫性のある画像を生成する。この技術はBriaRMBGというドメイン適応技術を利用しており、前景と背景の統計分布を複数のスケールでマッチングさせることで、照明の一貫性を保ちながら画像を合成するという。
-
-!
-!
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-IC-LightはHDR空間での照明の特性を利用しており、異なる光源からの光が独立して振る舞うため、複数の照明条件を自然に組み合わせることができる。このようにして、IC-Lightはリアルで効果的な画像照明の操作を実現しているとのことだ。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 15 May 2024 15:14:59 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 17 May 2024 08:56:03 +0000</pubDate></item></channel></rss>
