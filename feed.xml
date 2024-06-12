@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 11 Jun 2024 10:45:14 +0000</lastBuildDate><item><title>＜生成AIでここまでできる＞月間10万6,000時間の余白を作り出した組織の企業風土とAI導入の仕掛けとは？GMOインターネットグループ株式会社が次フェーズで見据えるもの（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-gmo-short</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 11 Jun 2024 10:53:01 +0000</lastBuildDate><item><title>AIでゲームの没入感アップ！ MicrosoftがNPUを活用した「Automatic Super Resolution」発表 - Windows OSに統合</title><link>https://ledge.ai/articles/microsoft_automatic_super_resolution</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Microsoftは2024年6月6日に、NPU（Neural Processing Unit）を活用した「Automatic Super Resolution（Auto SR）」機能を{target=“_blank”}した。
+
+「Auto SR」とは、ゲームの実レンダリング解像度を低くし、AIを使用して高解像度に引き伸ばすことで、フレームレートを向上させつつ詳細なビジュアルを維持する技術を指す。この新機能はWindows OSに統合されており、現在はQualcomm Snapdragon Xシリーズを搭載したCopilot+ PCでのみ利用可能とのこと。
+
+**Super Resolution（超解像度：SR）** とは、ゲームの視覚品質を向上させながらフレームレートを増加させる技術だ。ゲームを低解像度でレンダリングし、その後、AIを含む高度なアルゴリズムを用いてアップスケーリングと視覚の強化を行う。これにより、ゲームプレイヤーはフレームレートと視覚品質のバランスが取れた、より没入感のあるゲーム体験を享受できる。
+
+近年のゲームでは、グラフィック処理の負荷を軽減するために、低解像度で描画した後に超解像技術を用いて引き延ばすアプローチが一般的となっている。これに対し、MicrosoftはWindowsそのものに超解像機能を統合することで、異なるGPUベンダーの互換性の問題を解消しようとしている。Auto SRは、Microsoft独自のAIモデルを使用しており、これによりパフォーマンスとクオリティの両方を向上させるという。
+
+さらに、Microsoftはゲーム側に統合される「DirectSR」も開発中であり、これによりゲーム開発者が超解像技術を簡単に導入できるようにする。Auto SRとDirectSRの両方を組み合わせることで、既存のゲームと新しいゲームの両方に対して総合的な超解像ソリューションを提供することが可能になるとのこと。
+
+Auto SRは既にローンチされており、11の対応ゲームで利用可能だという。Snapdragon Xシリーズを搭載したCopilot+ PCのユーザーは、この機能を通じてゲーム体験の質を向上させることができる。また、AI機能に特化したNPUを使用するため、超解像処理にGPUを利用することなく、より効率的にビジュアル向上を体験可能。
+
+以下は Auto SR によって強化された画像との比較例だ。ほぼ同時に撮影された 2 つの異なるプレイスルー: (左) ネイティブ 1440p、(右) Auto SR で強化された 720p。（シーンの違いはゲーム自体によるもの）
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 11 Jun 2024 10:53:01 +0000</pubDate></item><item><title>＜生成AIでここまでできる＞月間10万6,000時間の余白を作り出した組織の企業風土とAI導入の仕掛けとは？GMOインターネットグループ株式会社が次フェーズで見据えるもの（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-gmo-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
@@ -519,33 +556,7 @@ Twinitは以下の技術を提供する
 :::box
 
 :::
-</description><pubDate>Tue, 04 Jun 2024 11:47:33 +0000</pubDate></item><item><title>Amazonのドローン配送　操縦者の視界外まで飛行可能に　規制当局が承認し米国での配送サービス拡充</title><link>https://ledge.ai/articles/amazon_drone_prime_faa_approval</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Amazonは2024年5月30日、連邦航空局（FAA）から視界外飛行（BVLOS）の認可を受け、Prime Airのドローン配送サービスをさらに拡大できるようになったことを{target=“_blank”}した。
-
-この認可により、Amazonはドローンを操縦者の直接の視界内に置く必要がなくなり、より多くの顧客に迅速な配送を提供することが可能となる。
-
-FAAは、すべての商業用ドローンオペレーターに対し、安全に視界外での飛行を可能にする技術が承認されるまで、ドローンを操縦者の視界内に維持することを求めている。
-
-Amazonの「Beyond Visual Line of Sight（BVLOS）」技術は、操縦者が直接ドローンを見ることなく、遠隔で操作可能。同技術には、空中の障害物を検知して回避するための「オンボード検知・回避システム」が含まれるという。
-
-FAAの要件を満たすために、同社はこのシステムを開発・テストし、実際の飛行機やヘリコプター、熱気球の近くでの実演飛行を行い、その安全性をFAAに証明したとのこと。
-
-新たな認可により、テキサス州カレッジステーションの配送センター周辺でのドローン配送が拡大され、より多くのAmazon顧客が家庭用品やドラッグストア商品などのドローン配送を利用できるようになるという。2024年後半には、ドローン配送がAmazonの即日配送ネットワークに統合され、さらに迅速な配送が可能となる予定だ。
-
-Amazonは、2029年までに年間5億件のドローン配送を実現することを目指しており、この新たな認可はその目標に向けた大きな一歩となる。同社は、視界外飛行技術を駆使して、より広範囲での30分以内のパッケージ配送を目指しているとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 04 Jun 2024 11:41:30 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+</description><pubDate>Tue, 04 Jun 2024 11:47:33 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
