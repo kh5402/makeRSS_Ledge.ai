@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 11 Jun 2024 03:09:38 +0000</lastBuildDate><item><title>マイクロソフトのAI新機能「Recall」セキュリティ専門家らの批判受けデフォルト「オフ」で対策</title><link>https://ledge.ai/articles/microsoft_copilot_plus_pc_recall</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 11 Jun 2024 10:35:43 +0000</lastBuildDate><item><title>「SORAと同等クオリティでは？！」話題騒然の動画生成AI「KLING」中国のアプリ開発チーム「快手」が公開</title><link>https://ledge.ai/articles/kling-ai_equivalent_to_sora_in_openai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+中国のショート動画共有アプリ開発企業「快手」（Kuaishou）が2024年6月8日、新たなビデオ生成モデル「可灵大模型」（KLING）を{target=“_blank”}した。テキストから高品質な動画を生成する能力を持ち、その性能はOpenAIの動画生成AI「Sora」と競合するモデルとして注目されている。
+
+KLINGは、自社開発の3D VAE（Variational Autoencoder）に基づいており、テキストから最大2分間の動画を30fpsのフルHDで生成できる。この技術により、ユーザーは高度な動画コンテンツを簡単に作成できるという。
+
+またKLINGは、静止画像内の人物をポーズシーケンス（骨格動画）に基づいて動かすアニメーション生成機能も備えている。この機能により、1枚の画像からリアルで滑らかな動きを持つアニメーションを作成することが可能だ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+KLINGの実用性を試すには、快手が提供するアプリ「快影」をインストールする必要がある。このアプリは、専用ページからダウンロードできるが、使用には中国の電話番号が必要となる。
+
+{target=“_blank”}には多数のサンプル動画が掲載されており、そのクオリティの高さが話題となっている。快手の技術チームによると、KLINGはエンターテインメントや広告業界など、さまざまな分野での活用が期待されているとのことだ。
+
+@
+:::small
+動画の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 11 Jun 2024 10:35:43 +0000</pubDate></item><item><title>マイクロソフトのAI新機能「Recall」セキュリティ専門家らの批判受けデフォルト「オフ」で対策</title><link>https://ledge.ai/articles/microsoft_copilot_plus_pc_recall</link><description>:::small
 画像の出典：{target=“_blank”} / {target=“_blank”}
 :::
 
@@ -459,32 +494,7 @@ OpenAIは2024年5月30日に、教育機関向けの新しいAIプラットフ�
 :::box
 
 :::
-</description><pubDate>Mon, 03 Jun 2024 02:43:16 +0000</pubDate></item><item><title>NEC、2025年大阪・関西万博に顔認証システム導入を発表</title><link>https://ledge.ai/articles/nec_expo_facial_recognition</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NECは2024年5月23日、2025年に開催される日本国際博覧会（大阪・関西万博）において、顔認証システムを導入することを{target=“_blank”}した。万博会場での店舗決済と入場管理に利用され、手ぶら決済の利便性向上と、なりすまし防止による安全・安心で効率的な運営を実現する。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-万博会場内の店舗においては、通期パスや夏パスのチケット購入者、そして入場チケットの種類に関わらず大阪・関西万博の独自電子マネー「ミャクペ!」に会員登録した利用者を対象に、顔認証による決済サービスを提供。事前に顔情報と決済方法を登録することで、対象店舗で顔認証を行うだけでスマホやカードを使用せずに手ぶらで決済が可能となる。決済方法は「ミャクペ!」またはクレジットカード等の選択が可能であり、電子マネーと顔認証が連携した決済システムとして国内最大規模となるという。
-
-NECの顔認証技術は、米国国立標準技術研究所（NIST）のベンチマークテストで世界第1位の評価を複数回獲得しており、これまでに世界50以上の国と地域で顔認証事業を展開してきた。空港での導入数は延べ80を数え、出入国管理や搭乗手続きなどで広く活用されている。国内では、顔認証クラウドサービスの利用者数が100万を超えるとのことだ。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 03 Jun 2024 02:40:40 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+</description><pubDate>Mon, 03 Jun 2024 02:43:16 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
