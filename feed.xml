@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 12 Jun 2024 13:13:34 +0000</lastBuildDate><item><title>ラピダス✕北海道大学　半導体産業の振興と人材育成のための包括連携協定を締結　2nm半導体の評価／分析も</title><link>https://ledge.ai/articles/rapidus-hokkaidouniv_comprehensive_collaboration_agreement</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 12 Jun 2024 13:13:34 +0000</lastBuildDate><item><title>UX-CXを生成AIで自動化！？生成AI時代のUXデザイン（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-ly-short</link><description>:::box
+本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
+:::
+## 生成AI時代のUXデザイン 
+LINEヤフーのデータソリューションデザイン責任者である駒宮氏と横内氏をお迎えし、生成AIの活用が進む中でデザインがどのように進化していくのか、そしてLINEヤフーが生成AIをどのように活用しているのかについて語っていただいた。
+
+:::box
+!
+**LINEヤフー株式会社**
+データG管掌 / データソリューション
+デザイン責任者
+駒宮 大己 氏
+
+!
+**LINEヤフー株式会社**
+データソリューション
+デザイン責任者 / UXデザイナー
+横内 寿樹 氏
+:::
+
+:::button
+{target=“_blank”}
+:::
+
+## UXデザインは生成AIの力をプラスすることで進化する 
+
+**駒宮氏**
+生成AIの登場によってHyper Presonalizationがより進んでいくと考えられます。Hyper Presonalizationとは、顧客のデモグラフィックやサイト上の行動などをデータとして取得し、顧客ごとに最適化されたコミュニケーションを実施する手法を指します。
+
+データ活用が進んでから、デザイナーにとってもデータは身近になっており、より最適なクリエイティブは何かを考えるために、データを活用してPDCAを回してきました。デザイン領域においてデータでカバーしやすい分野としては、調査や評価-提供が挙げられますが、今回、生成AI活用が進む中で注目されてきたのが、クリエイティブの分野です。
+
+!
+
+今後、どのような時代になるかについてですが、一人ひとりに最適なクリエイティブが提供されるようになると考えており、デザイン4つの分野の4つの領域すべてにデータ活用と生成AIが活用されるようになると思います。
+
+その中で弊社は現在、CXとUXにおいて、生成AIを使った業務の自動化にチャレンジしています。将来的な「全AIデザイン時代」に向けて、我々がどのようにアプローチしているのか、今回の動画でご紹介します。
+
+**横内氏**
+ここから、UXデザインに生成AIを用いた事例を紹介させていただきます。動画を見ている方には言うまでもありませんが、テキスト生成AIが非常に高度化しています。
+
+その中で、CXUX分野を見渡してみると、ユーザー分析に生成AIを活用しやすいのではないか、という仮説を立てました。生成AIを用いることで、現在抱えている課題についても解決できるのではないかという期待もあります。
+
+!
+
+ではここから具体的な生成AIを用いたユーザー分析のプロセスについて解説します。
+
+※続きは特設サイトよりご覧ください 
+
+:::button
+{target=“_blank”}
+:::
+
+## 開催概要
+イベント名：Ledge.ai EXPO 2024 summer
+主催：株式会社レッジ
+URL：{target=“_blank”}
+開催形式：オンライン（特設サイト）</description><pubDate>Wed, 12 Jun 2024 03:06:36 +0000</pubDate></item><item><title>ラピダス✕北海道大学　半導体産業の振興と人材育成のための包括連携協定を締結　2nm半導体の評価／分析も</title><link>https://ledge.ai/articles/rapidus-hokkaidouniv_comprehensive_collaboration_agreement</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -512,59 +568,7 @@ Skytrax社の”5-Star Airline”、北米を拠点とする航空非営利団�
 
 :::box
 {target=“_blank”}
-:::</description><pubDate>Tue, 04 Jun 2024 05:15:37 +0000</pubDate></item><item><title>NVIDIAのCEO「すべてを加速する」COMPUTEX 2024　故郷台湾での基調講演　新たな産業革命の到来を予告</title><link>https://ledge.ai/articles/nvidia_computex2024_jensenhuang_keynote</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAの創業者兼CEOであるジェンセン・フアン氏は、2024年6月2日に台北で開催されたCOMPUTEX 2024に先立ち、「すべてを加速する」（Accelerate Everything）というテーマで{target=“_blank”}を行った。
-
-フアン氏は、AIと加速コンピューティングの交差点が未来を再定義することを強調し、新たな産業革命の到来を予告した。
-
-講演では、コスト削減と持続可能性を強調し、データセンター、工場、消費者デバイス、ロボットなどを支える新しい半導体、ソフトウェア、システムについて詳述。
-
-「生成AIが業界を再構築し、イノベーションと成長の新たな機会を開いている」
-「今日、我々はコンピューティングの大きな転換点に立っている」
-
-と同氏は語った​。
-
-@
-
-
-
-
-### 毎年新たな半導体を登場させるロードマップ
-フアン氏は 1 年ごとに登場予定の新しい半導体のロードマップを明らかにした。NVIDIAの革新的なAIと加速コンピューティングの技術が次の技術的進歩の波を推進していることを強調した。RubinプラットフォームがBlackwellプラットフォームの後継として登場し、新しいGPU、ArmベースのCPU「Vera」、NVLink 6、CX9 SuperNIC、X1600収束インフィニバンド/イーサネットスイッチを搭載すると発表した。NVIDIAは毎年新しい半導体をリリースする一貫したリズムを維持し、技術の限界に挑戦し続けると述べた。
-### 持続可能なコンピューティングとAIファクトリー
-フアン氏は、「加速コンピューティングは持続可能なコンピューティングである」と強調し、GPUとCPUの組み合わせにより、電力消費を3倍に増やすだけで100倍のスピードアップを実現し、CPU単体に比べて25倍の性能を発揮することが可能であると説明した​。
-
-台湾の主要なコンピュータメーカーは、NVIDIAのGPUとネットワーキングソリューションを採用し、クラウド、オンプレミス、エッジAIシステムを構築している。ASRock Rack、ASUS、GIGABYTE、Pegatron、Supermicroなどが新製品を発表しており、NVIDIAのMGXモジュラーリファレンスデザインプラットフォームもBlackwellをサポートする。
-### ネットワーキングの革新と開発者向けツール
-フアン氏は、AI向けに構築された初のイーサネットファブリックであるNVIDIA Spectrum-Xを発表し、従来のイーサネットファブリックよりも1.6倍のネットワーク性能を提供すると述べた。これにより、AIワークロードの処理、分析、実行が加速され、AIソリューションの開発と展開が促進される​。
-
-さらに、NVIDIA NIMを利用することで、全世界の2800万人の開発者が生成AIアプリケーションを簡単に作成できるようになる。NIMは、クラウド、データセンター、ワークステーションで展開可能な最適化されたコンテナとしてモデルを提供する​。
-
-### AIアシスタントとロボティクスの未来
-NVIDIAのRTX AI PCは、RTX技術を活用して消費者体験を革新し、200以上のRTX AIノートPCと500以上のAI対応アプリケーションとゲームを提供する。フアン氏は、NVIDIA ACEデジタルヒューマンプラットフォーム向けの新しいPCベースのNIM推論マイクロサービスを紹介し、AIのアクセシビリティに対するコミットメントを強調した​。
-
-NVIDIAは、Foxconnなどの台湾の製造業者が同社の技術を使用して工場を変革し、ビジョンAIとロボット開発ツールを組み合わせたデジタルツインを作成していることを紹介した。フアン氏は、「次のAIの波は物理AIである」と述べ、ロボティクスとAIの重要性を強調した​ 。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-COMPUTEX 2024は、6月3日から6日まで台北の南港展示センターで開催され、1500以上の出展者と5万人の来場者が予想されている。このイベントは、台湾を中心とした活気ある技術エコシステムを展示し、AIをグローバルにスケールするための最先端システムの発表の場となっている​。NVIDIAのパートナー企業も多数参加し、Acer、ASUS、GIGABYTE、MSI、Supermicroなどが新製品を発表している。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 05 Jun 2024 06:30:49 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+:::</description><pubDate>Tue, 04 Jun 2024 05:15:37 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
