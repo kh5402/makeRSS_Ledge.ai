@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 11 Jun 2024 10:53:01 +0000</lastBuildDate><item><title>AIでゲームの没入感アップ！ MicrosoftがNPUを活用した「Automatic Super Resolution」発表 - Windows OSに統合</title><link>https://ledge.ai/articles/microsoft_automatic_super_resolution</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 12 Jun 2024 05:28:36 +0000</lastBuildDate><item><title>NTTグループのAI推進体制を強化、「NTTグループAI憲章」制定し最高AI責任者とAIガバナンス室を設定</title><link>https://ledge.ai/articles/ntt_co-caio</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+NTTは2024年6月7日、社会に急速に浸透するAI技術の適切な利用を目指し、NTTグループ全体でAIガバナンス規程類を制定し、AIガバナンスの推進体制として、AIに関する最高責任者（Co-CAIO）およびAIガバナンス室を新設することを{target=“_blank”}した。
+
+ディープラーニングなどの技術革新により、急速に社会に浸透するAIをグループ各社が活用する基本的な方針として、「NTTグループAI憲章」を制定。この憲章の下、グループ全体でAIリスクマネジメントに取り組むという。また、AIの不適切な利用がもたらすリスクを管理するため、広島AIプロセスをはじめとする国際的に認知されたリスクベース・アプローチを採用するとのこと。
+
+AIリスクは「禁止レベル」「ハイリスク」「限定的リスク」に分類され、各ユースケースごとに評価される。評価はAIプロジェクトマネージャと所属会社のAIリスクマネジメント責任者が二重に行い、評価の精度を確保する。禁止レベルと評価されたプロジェクトは見直しが行われ、その他のリスクはAIリスクマネジメント責任者が適切に対処する。
+
+同社はさらに、AIガバナンス規程類として、AI憲章のほか「NTTグループAIガバナンスポリシー」「NTTグループ生成AI利用ガイドライン」を制定。これにより、グループ全体でAIリスクの共通定義と管理を行い、AIの適切な利用を推進するとのこと。
+
+AIガバナンス推進体制として、AIに関する最高責任者「Co-CAIO」を配置し、AIガバナンス室を設置する。これにより、NTTグループ全体でAIガバナンス規程類の整備・改訂、グループ会社のAIリスクマネジメント状況のモニタリング・評価を行う。また、各グループ会社にAIリスクマネジメント責任者を定め、リスク評価とリスク低減のフォローを行う。Co-CAIO、AIガバナンス室、各グループ会社のAIリスクマネジメント責任者が協力し、適切なAIリスクマネジメントとAIガバナンスを推進していくという。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 12 Jun 2024 05:28:36 +0000</pubDate></item><item><title>AIでゲームの没入感アップ！ MicrosoftがNPUを活用した「Automatic Super Resolution」発表 - Windows OSに統合</title><link>https://ledge.ai/articles/microsoft_automatic_super_resolution</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -535,32 +555,7 @@ COMPUTEX 2024は、6月3日から6日まで台北の南港展示センターで�
 :::box
 
 :::
-</description><pubDate>Tue, 04 Jun 2024 11:57:05 +0000</pubDate></item><item><title>韓国のデジタルヒューマンスタートアップが「Twinit」で生成AIでによる美のシミュレーションを提供</title><link>https://ledge.ai/articles/entre_reality_twinit</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-韓国のデジタルヒューマンスタートアップ「アントレ・リアリティ（Entre Reality）」が、生成AIによるビューティーシミュレーション「Twinit」を発表したことを2024年6月1日に{target=“_blank”}などが報じている。
-
-Twinit は、モバイル デバイスからの画像から1分以内に3Dデジタル ヒューマンを作成する生成 AIソリューションだ。360度の立体分析データに基づいたAI顔分析やパーソナルカラーソリューションを特徴としており、ユーザーは自身の顔特性に最適なビューティー製品を見つけやすくなる。この技術は、CES2024で{target=“_blank”}を受賞しており、韓国内外のコスメブランドや美容医療SaaS企業にとって大きな関心を集めているという。
-
-Twinitは以下の技術を提供する
-- **3D Face Scanning AI：** 高度なモバイルエンジンを使用して顔の形状や色を分析し、パーソナライズされた製品を推薦する。
-- **Face Analysis In a snap：** Twinit3D AIスキャナーを使用して、1分以内に100種類の顔特性とパーソナルカラーを分析する。
-- **AI Beauty Try-On：** Twinit3Dビューティーシミュレーターを使用して、化粧品、フィットネス、アンチエイジング、整形手術のシミュレーションを可能にする。
-- **Only for you, Personal fit：** オンラインショップにおける購買転換率を高め、返品率を低減するための最大限のポテンシャルを引き出す。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 04 Jun 2024 11:47:33 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+</description><pubDate>Tue, 04 Jun 2024 11:57:05 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
