@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 12 Jun 2024 05:28:36 +0000</lastBuildDate><item><title>NTTグループのAI推進体制を強化、「NTTグループAI憲章」制定し最高AI責任者とAIガバナンス室を設定</title><link>https://ledge.ai/articles/ntt_co-caio</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 12 Jun 2024 13:13:34 +0000</lastBuildDate><item><title>ラピダス✕北海道大学　半導体産業の振興と人材育成のための包括連携協定を締結　2nm半導体の評価／分析も</title><link>https://ledge.ai/articles/rapidus-hokkaidouniv_comprehensive_collaboration_agreement</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ラピダスと北海道大学は2024年6月5日、半導体産業を通じた日本の科学技術力の向上および人材の育成を目的とした包括連携協定を締結したことを{target=“_blank”}した。
+
+この協定は、北海道における半導体産業の振興と人材育成、研究開発の加速を目指すものであり、特に2025年4月から予定されているラピダスのパイロットラインの稼働開始と、2027年の量産開始を見据えた長期的な人材育成と先端半導体研究の協力を目的としている​という。
+
+連携内容は以下のとおり
+
+**🔳半導体人材の育成教育**
+Rapidusエンジニアの北海道大学への実務家教員派遣による講義
+北海道大学の最新研究成果をRapidusエンジニアが学ぶ機会の提供
+
+**🔳先端半導体研究の協力**
+2ナノメートル半導体の評価・分析を行う拠点を北海道大学キャンパス内に設置
+北海道大学の研究成果を活用した先端半導体研究の推進
+
+**🔳施設・設備の利用**
+北海道大学の施設および設備を活用し、先端研究を行うための環境を整備
+
+
+ラピダスの社長である小池淳義氏は、「学生が最先端半導体の製造過程を直接学ぶことができる環境を提供し、将来の半導体産業を担う人材を育成する」と述べた。北海道大学の寶金清博総長は、「この連携が北海道の半導体産業の成長に大きく貢献することを期待している」と語った。
+
+今後、2024年中には、北海道大学キャンパス内に2ナノメートル半導体の評価・分析を行う施設が設置される予定であり、これは2025年のパイロットライン稼働開始および2027年の量産に向けた重要なステップとなるとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 12 Jun 2024 13:13:34 +0000</pubDate></item><item><title>NTTグループのAI推進体制を強化、「NTTグループAI憲章」制定し最高AI責任者とAIガバナンス室を設定</title><link>https://ledge.ai/articles/ntt_co-caio</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -530,32 +564,7 @@ COMPUTEX 2024は、6月3日から6日まで台北の南港展示センターで�
 :::box
 
 :::
-</description><pubDate>Wed, 05 Jun 2024 06:30:49 +0000</pubDate></item><item><title>GPT-4活用した「英作文1000本ノック」東進と日本マイクロソフトが連携</title><link>https://ledge.ai/articles/toshin_english_composition_1000knocks</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-東進ハイスクール・東進衛星予備校を運営する株式会社ナガセは2024年5月20日、日本マイクロソフトと連携して生成AIを活用した自動英作文添削講座「英作文1000本ノック」を4月より正式に開講したことを{target=“_blank”}した。
-
-この講座は、基礎から難関大学入試レベルまで対応する1,000題の和文英訳問題を含み、最新の生成AI技術であるGPT-4を利用して即時に添削指導を行うものだ。
-
-「英作文1000本ノック」は、東進の採点ノウハウとGPT-4の生成AIを融合し、個別の指導を行うことで生徒一人ひとりに合わせたアドバイスを提供する。また、正答した場合には他の表現方法も提示し、表現力や語彙力の向上を図るという。このシステムは、マイクロソフトのAzure OpenAI Service上で展開されており、高いセキュリティと安定性が確保されている。
-
-開発は2023年から始まり、2024年2月以降に東進生向けのトライアルや石川県の生徒への無償提供を実施。約13万人以上の演習結果を元に精度を向上させた。同社はこれにより、高校教員や塾講師の負担を大幅に軽減し、効率的な英作文指導の実現を目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 04 Jun 2024 11:57:05 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+</description><pubDate>Wed, 05 Jun 2024 06:30:49 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
