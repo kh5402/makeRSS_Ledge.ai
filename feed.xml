@@ -519,7 +519,41 @@ GPT-4oでは、テキスト、ビジョン、オーディオを統合した新�
 :::box
 
 :::
-</description><pubDate>Thu, 06 Jun 2024 06:07:30 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
+</description><pubDate>Thu, 06 Jun 2024 06:07:30 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
+本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
+:::
+
+生成AIの発展は目覚ましいものである。その中で特に「マルチモーダルAI」「AIエージェント」「独自データ活用」の3つは、今期の企業の生成AI活用において、押さえておきたい重要キーワードだ。
+
+「マルチモーダルAI」とは、テキストや画像、音声など複数の情報形式を統合的に理解・生成する技術で、「AIエージェント」とは特定のタスクを自律的に実行するAIプログラムであり、ビジネスプロセスの自動化と効率化を実現できるものである。また、最近の生成AI活用事例で多く耳にするようになった「独自データ活用」は、企業が保有するデータを活用してAIモデルのトレーニングを行う、または、保有データを参照して企業に特化した回答を生成する手法だ。
+
+この3つのキーワードは、生成AIの未来を切り拓くために不可欠な要素であり、企業の競争力を高め、ビジネスの成長を加速させるものである。生成AIの社内活用を推進している、または、今後更なるAI活用を検討するユーザーは必見の内容だ。ぜひ特集サイトから一読いただきたい。
+
+:::button
+{target=“_blank”}
+:::
+## 目次
+1. マルチモーダルAI：データの壁を越える技術
+2. AIエージェント：企業のパートナーとしての役割
+3. 独自データ活用：基盤モデルをベースに競争力強化
+4. まとめ
+
+## マルチモーダルAI：データの壁を越える技術
+マルチモーダルAIは、テキスト、画像、音声などの複数のデータ形式を同時に解析する技術だ。これにより、単一のデータ形式では得られない洞察を引き出すことができる。例えば、画像とテキストを組み合わせることで、物体認識とその説明を同時に行うことが可能となる。こうした技術は、特に多様なデータを扱う現代のビジネス環境において非常に重要だろう。
+
+技術的な中核には…
+
+※続きは特設サイトよりご覧ください。
+
+:::button
+{target=“_blank”}
+:::
+
+## 開催概要
+イベント名：Ledge.ai EXPO 2024 summer
+主催：株式会社レッジ
+URL：{target=“_blank”}
+開催形式：オンライン（特設サイト）</description><pubDate>Thu, 13 Jun 2024 03:47:03 +0000</pubDate></item><item><title>Microsoftが無料公開　大人にもお薦め！ 中高生向け生成AI教育教材「生成AIを安全かつ責任を持って活用するために」日本語版も利用可能に</title><link>https://ledge.ai/articles/microsoft_unlocking_genai_safely_and_responsibly</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1189,32 +1223,7 @@ NVIDIAのデベロッパープログラム担当バイスプレジデント、�
 :::box
 
 :::
-</description><pubDate>Thu, 29 Feb 2024 03:36:19 +0000</pubDate></item><item><title>JDLAが「生成AIの利用ガイドライン（画像編）」を公開</title><link>https://ledge.ai/articles/jdla_guideline_for_image_generating_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本ディープラーニング協会（JDLA）は2024年2月13日、「生成AIの利用ガイドライン（画像編）」を{target=“_blank”}した。
-
-このガイドラインは、2023年5月に公開された「{target=“_blank”}」の続編として作成されており、主に画像生成AIに特化した内容となる。
-
-ガイドラインの目的は、画像生成AIを事業において利用する企業等に向け、ルール策定時に検討が必要な法的論点を解説することにある。具体的には、画像生成AIの利用に際して、社内体制の整備、プロンプトの入力ルール、AI生成物の利用規則など、遵守すべきポイントが詳述されている。
-
-JDLAは、ディープラーニング技術を日本の産業競争力向上の核とし、その普及と適用を目指して活動している組織だ。今回のガイドライン公開も、その一環として行われたもので、画像生成AIの健全な利用と発展の促進を期待してのことだとされる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 28 Feb 2024 05:54:19 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
+</description><pubDate>Thu, 29 Feb 2024 03:36:19 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
