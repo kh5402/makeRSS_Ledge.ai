@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 13 Jun 2024 11:07:33 +0000</lastBuildDate><item><title>ついに出た　AppleのAIは「Apple Intelligence」開発者会議 「WWDC2024」ざっくりまとめ　ChatGPT連携とイーロン・マスクの反応など</title><link>https://ledge.ai/articles/apple_wwdc2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 13 Jun 2024 11:14:53 +0000</lastBuildDate><item><title>ついに出た　AppleのAIは「Apple Intelligence」開発者会議 「WWDC2024」ざっくりまとめ　ChatGPT連携とイーロン・マスクの反応など</title><link>https://ledge.ai/articles/apple_wwdc2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2049,7 +2049,41 @@ Cat Royale は、ブリスベンのWorld Science FestivalやロンドンのScien
 :::box
 
 :::
-</description><pubDate>Sat, 11 May 2024 08:11:06 +0000</pubDate></item><item><title>国内初、AIを活用した医療技術が診療報酬項目として承認される　AI搭載医療機器「nodoca®」を用いたインフルエンザ診断</title><link>https://ledge.ai/articles/newly_established_as_a_nodoca_medical_fee</link><description>:::small
+</description><pubDate>Sat, 11 May 2024 08:11:06 +0000</pubDate></item><item><title>広島市、AIを被爆の語り部に　AI活用の被爆証言応答装置を製作へ</title><link>https://ledge.ai/articles/hiroshima_to_use_ai_to_tell_the_story_of_the_atomic_bombing</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+広島市は2024年6月5日、AI技術を活用した「被爆証言応答装置」を製作すると{target=“_blank”}した。
+
+被爆者との対話が困難になる将来を見据え、利用者が画面上の被爆者と疑似的に対話できる装置であり、被爆80年を迎える2025年の夏までに5台の完成を目指す。
+
+## プロジェクトの背景と目的
+市長の松井 一實氏は「被爆者の高齢化が進み、確実に被爆者がいなくなる時代が近づいている。人類史上初の被爆の惨禍を経験した方々の心の内を伝えることが重要な課題である」と述べた。従来、被爆証言をビデオに記録し市民が語る取り組みを行ってきたが、被爆証言者がいなくなると直接質問する機会が失われるため、AI技術を活用して次世代に証言を伝える手段を模索していたという。
+## 装置の仕組みと設置予定
+この装置は、利用者が被爆体験や平和への思いを質問すると、AIが内容を分析し、事前に収録された被爆者のインタビュー映像から最適な回答を再生する仕組みだ。虚偽の情報が含まれないように生成AIは使用されない。松井市長は、「AI技術の進歩により、証言者の思いをフォローしてその方に近い答えを提供できるようになった」と説明した。
+
+装置は広島平和文化センターが進めるプロジェクトの一環で、英語が話せる被爆者を含む5人にインタビューを依頼し、今夏から実施される予定である。完成した装置は広島平和記念資料館と国立広島原爆死没者追悼平和祈念館に1台ずつ設置され、残りの3台は市内の学校などに貸し出されるとのこと。
+
+## 正確性の担保と予算
+市長はまた、AI技術の進歩とともに正確性を担保するために、被爆証言者の思いや価値観を整理し、多角的な質問に対する回答を累計化することを考えていると述べた。質問に応じられない場合には「お答えできません」と表示する予備装置を工夫することも検討しているという。
+
+このプロジェクトには約6820万円の予算が計上され、2024年度一般会計の6月補正予算案に含まれている。広島市はこの装置を通じて、被爆者の貴重な証言をより多くの人々に届け、平和の大切さを広めることを目指すとした。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 13 Jun 2024 11:14:53 +0000</pubDate></item><item><title>国内初、AIを活用した医療技術が診療報酬項目として承認される　AI搭載医療機器「nodoca®」を用いたインフルエンザ診断</title><link>https://ledge.ai/articles/newly_established_as_a_nodoca_medical_fee</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2419,35 +2453,7 @@ AI分野では、生成AIによる誤情報や偽情報の拡散について、�
 :::box
 
 :::
-</description><pubDate>Thu, 23 May 2024 13:43:09 +0000</pubDate></item><item><title>東京で「空飛ぶクルマ」初飛行　高さ10メートルをデモンストレーション</title><link>https://ledge.ai/articles/flying_car_demonstration_in_tokyo</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年5月17日、東京都江東区の東京ビッグサイト駐車場とその近くの海上で「空飛ぶクルマ」の初飛行が行われた。この試験飛行は、「SusHi Tech Tokyo 2024」の一環として行われ、約500人の観客が見守る中、操縦士1人を乗せた機体が高さ約10メートルを前後左右に移動した​という。
-
-使用された機体は、米国のLIFT AIRCRAFT社製「HEXA」。1人乗りの機体で、座席の上部に18のプロペラが取り付けられており、幅4.5メートル、高さ2.6メートル、重量約196キロ​となる。
-
-空飛ぶクルマは都市の渋滞緩和や災害時の物資輸送などに多くのメリットが期待されている。このイベントでは空飛ぶクルマ以外にも自動運転バスや電動モビリティなどの次世代技術が展示されている​とのこと。
-
-デモフライトはこの日のほか5月18日、22日、23日にも予定されており、一般公開される。これらのフライトは予約不要で、入場も無料。
-
-共同通信によると、17日のセレモニーには東京都知事の小池百合子氏も登壇し、「最先端の技術をより多くの人に体感してもらいたい。空飛ぶクルマが移動の手段になるのを楽しみにしている」と述べた​とのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 21 May 2024 11:54:16 +0000</pubDate></item><item><title>AI美女コンテスト「Miss AI」ファイナリストはこの10名だ！　容姿・影響力・クリエイターの技術力を評価し選考</title><link>https://ledge.ai/articles/fanvue_miss_ai_finalists</link><description>:::small
+</description><pubDate>Thu, 23 May 2024 13:43:09 +0000</pubDate></item><item><title>AI美女コンテスト「Miss AI」ファイナリストはこの10名だ！　容姿・影響力・クリエイターの技術力を評価し選考</title><link>https://ledge.ai/articles/fanvue_miss_ai_finalists</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
