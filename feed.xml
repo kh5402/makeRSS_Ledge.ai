@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 13 Jun 2024 11:14:53 +0000</lastBuildDate><item><title>ついに出た　AppleのAIは「Apple Intelligence」開発者会議 「WWDC2024」ざっくりまとめ　ChatGPT連携とイーロン・マスクの反応など</title><link>https://ledge.ai/articles/apple_wwdc2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 14 Jun 2024 12:51:51 +0000</lastBuildDate><item><title>ついに出た　AppleのAIは「Apple Intelligence」開発者会議 「WWDC2024」ざっくりまとめ　ChatGPT連携とイーロン・マスクの反応など</title><link>https://ledge.ai/articles/apple_wwdc2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1601,7 +1601,41 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>ラピダス✕北海道大学　半導体産業の振興と人材育成のための包括連携協定を締結　2nm半導体の評価／分析も</title><link>https://ledge.ai/articles/rapidus-hokkaidouniv_comprehensive_collaboration_agreement</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>OpenAI　GPT-4の内部理解のための新たなアプローチを発表　1600万の解釈可能な特徴の分解に成功</title><link>https://ledge.ai/articles/openai_sparse_autoencoders</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+OpenAIは2024年6月6日、大規模言語モデル（LLM）の内部構造を解明するための新しい方法論を{target=“_blank”}した。
+
+新手法では、スパース オートエンコーダーを大規模にトレーニングする方法を改善し、GPT-4 の内部表現を 1,600 万の特徴に分解。これらの特徴は、解釈可能な概念に対応していることが多いという。また、従来の手法に比べてスケーラビリティに優れた特徴を持つ。
+
+同社はこの研究成果を論文およびコードと共に公開し、研究コミュニティに貢献することを目指すとのこと。
+### 研究の背景と目的
+LLMは膨大なテキストデータから学習し、人間のような自然言語処理を可能にする。しかし、その内部表現は高次元で複雑なため、解釈が難しいブラックボックスとなっている。LLMの内部構造を理解し、制御するためには、内部表現を解釈可能な特徴に分解する必要があり、スパース・オートエンコーダーは、この分解作業に有望なアプローチを提供するとのこと。
+
+### スパース・オートエンコーダーの役割
+オートエンコーダーは、データを低次元の潜在表現（小さなデータ）に圧縮し、そこから元のデータを再構成するニューラルネットワークである。スパース制約を加えることで、圧縮されたデータの中で重要な部分だけが強調され、データの本質的な特徴が少数の次元に集約される。これにより、言語モデルの内部表現が解釈可能な形で抽出されるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+### 研究成果と今後の展望
+OpenAIの研究チームは、GPT-4の内部表現を分解し、1,600万の解釈可能な特徴を抽出することに成功した。この成果は、言語モデルの内部構造の理解を深めるだけでなく、AIの安全性や制御性の向上にも寄与することが期待されているという。また、今回の研究で使用されたコードやビジュアライザーも公開されており、他の研究者がこの手法を活用してさらなる研究を行うことが可能となっている。
+ 
+論文の最後には、Superalignmentチームを率い、この研究を可能にする研究環境を作り、そして5月にOpenAIを去ったJan Leike氏とIlya Sutskever氏に深く感謝するとの謝辞が述べられている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 14 Jun 2024 12:51:51 +0000</pubDate></item><item><title>ラピダス✕北海道大学　半導体産業の振興と人材育成のための包括連携協定を締結　2nm半導体の評価／分析も</title><link>https://ledge.ai/articles/rapidus-hokkaidouniv_comprehensive_collaboration_agreement</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2011,45 +2045,7 @@ Fugaku-LLMは、130億パラメータを有し、国内外のモデルと比較�
 :::box
 
 :::
-</description><pubDate>Tue, 14 May 2024 11:42:45 +0000</pubDate></item><item><title>AIでネコを幸せに？ 英ノッティンガム大学の研究「Cat Royale（キャット・ロワイヤル）」が複数の国際賞を受賞</title><link>https://ledge.ai/articles/cat_royale</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-英ノッティンガム大学の研究チームは、猫とAIロボットが共存する環境をデザインし、それが猫の幸福にどのように影響を与えるかを探求する実験「Cat Royale」の成果を{target=“_blank”}した。この研究が評価され、複数の国際賞を受賞したことを、研究の支援団体が2024年5月2日に{target=“_blank”}した。
-
-この研究は、Blast Theoryとノッティンガム大学のMixed Reality Labが共同で開発したプロジェクトで、猫たちがAIによってコントロールされる環境内で自由に生活できる「猫のユートピア」を実現しようとする取り組みだ。
-
-Cat Royale は、ブリスベンのWorld Science FestivalやロンドンのScience Galleryで展示され、AIが創り出すユートピアについて、観客に信頼と自律という深い問題を問う機会を提供したとのこと。
-
-研究では、3匹の猫「クローバー」「パンプキン」「ゴーストバスター」が12日間、特別に設計された室内環境で、1日6時間ロボットと交流した。
-
-@
-
-プロジェクトでは、500以上の異なる遊びを提供するロボットアームが導入され、猫の反応に基づいてAIが次のアクティビティを提案するシステムが組み込まれている。この環境内では、猫用のおもちゃやキャットツリー、水飲み場、植物が豊富に用意されており、ロボットアームは猫じゃらし風のおもちゃやボールで遊びを演出した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-猫たちは、これらの遊びに自発的に反応し、高いストレスを示すことなく、研究期間中自ら進んで環境に入室していたとのこと。猫の行動専門家と飼い主の分析によると、猫たちはこの新しい環境に心地よさを感じており、AIとの相互作用を楽しんでいたという。ロボットの活動は人間の監視のもとで行われ、猫たちの安全と健康が確保されていた。
-
-このプロジェクトは、AIとロボット技術がどのようにして動物の幸福に寄与できるかを示すものであり、将来的には人間と動物の共生環境の質的向上に貢献する可能性があるとのこと。
-
-「Cat Royale」は、Webby Awardsの「Best Integrated Experience in the AI, Metaverse &amp; Virtual」カテゴリーで{target=“_blank”}を受賞。また、2024年5月11日から16日の会期で開催中の学会「CHI 2024」では、投稿論文の上位1パーセントとされる{target=“_blank”}で表彰されている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 11 May 2024 08:11:06 +0000</pubDate></item><item><title>広島市、AIを被爆の語り部に　AI活用の被爆証言応答装置を製作へ</title><link>https://ledge.ai/articles/hiroshima_to_use_ai_to_tell_the_story_of_the_atomic_bombing</link><description>:::small
+</description><pubDate>Tue, 14 May 2024 11:42:45 +0000</pubDate></item><item><title>広島市、AIを被爆の語り部に　AI活用の被爆証言応答装置を製作へ　ハルシネーション防止のため生成AIは使用せず</title><link>https://ledge.ai/articles/hiroshima_to_use_ai_to_tell_the_story_of_the_atomic_bombing</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
