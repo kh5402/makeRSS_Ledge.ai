@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 14 Jun 2024 12:51:51 +0000</lastBuildDate><item><title>ついに出た　AppleのAIは「Apple Intelligence」開発者会議 「WWDC2024」ざっくりまとめ　ChatGPT連携とイーロン・マスクの反応など</title><link>https://ledge.ai/articles/apple_wwdc2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 14 Jun 2024 12:56:50 +0000</lastBuildDate><item><title>JAPAN AI、日本人の自然な写真画像生成機能を「JAPAN AI MARKETING」に実装</title><link>https://ledge.ai/articles/japan_ai_marketing</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+JAPAN AI株式会社は2024年6月5日、マーケティング特化AIサービス「JAPAN AI MARKETING」において、日本人の特徴を捉えた人物画像を生成する機能のβ版を{target=“_blank”}した。この新機能により、日本市場向けの広告やマーケティング、コンテンツ制作において、より自然でリアルな日本人画像を使用することが可能となった。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+同機能は、従来の生成AIモデルに独自の素材を組み合わせ、日本人特有の顔立ちや髪型、ファッションなどを学習させることで実現したもの。これにより、従来の海外製モデルでは難しかった「日本人らしさ」を反映した画像を生成できるようになった​という。
+
+例えば、「ライトブルーのスーツを着た日本人男性がマイクを持って笑顔で話している様子」といったプロンプトに基づいて、よりリアルな日本人の画像が生成される。これにより、マーケティング、広告、コンテンツ制作などのビジュアル素材を効果的に作成できるようになる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+さらに、今回のβ版リリースにより、背景除去やテンプレート生成、類似画像生成などの既存機能も引き続き使用可能で、様々なカスタマイズに対応できる点も強調されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+同社は今後も独自のAIモデル開発を通じて、日本市場におけるマーケティングやコンテンツ制作のイノベーションを牽引していく方針だ。今回のβ版リリースを皮切りに、継続的な機能拡張と性能向上に努めるとしている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 14 Jun 2024 12:56:50 +0000</pubDate></item><item><title>ついに出た　AppleのAIは「Apple Intelligence」開発者会議 「WWDC2024」ざっくりまとめ　ChatGPT連携とイーロン・マスクの反応など</title><link>https://ledge.ai/articles/apple_wwdc2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -484,42 +519,7 @@ GPT-4oでは、テキスト、ビジョン、オーディオを統合した新�
 :::box
 
 :::
-</description><pubDate>Sat, 08 Jun 2024 14:01:22 +0000</pubDate></item><item><title>富士通　企業向け「特化型生成AIを自動生成する」フレームワークを発表</title><link>https://ledge.ai/articles/fujitsu_enterprise_genai_framework</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-富士通は2024年6月4日、企業の多様なニーズに対応する特化型生成AIを自動生成する技術を{target=“_blank”}した。
-
-企業データをナレッジグラフで構造化し、信頼度の高い生成AI出力を実現するエンタープライズ生成AIフレームワークだという。7月より「Fujitsu Kozuchi」のラインナップとして提供を開始する。
-
-汎用の対話型大規模言語モデル（LLM）だけでなく、特化型生成AIモデルの必要性が高まる中、企業での大規模データの取り扱い、コスト、応答速度、企業規則や法令の準拠が課題となっているという。これらの課題に対応するため、富士通は3つの主要技術を用いた生成AIフレームワークを開発した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-### ナレッジグラフ拡張RAG：
-企業の大規模データをナレッジグラフで自動構造化し、生成AIに関連文書を参照させる技術。これにより、生成AIは1,000万トークン以上のデータを正確に参照でき、論理推論や出力根拠を提供できる。
-### 生成AI混合技術：
-複数の特化型生成AIモデルから最適なものを自動選択し、組み合わせる技術。企業の多様なニーズに応じて高性能な特化型生成AIを迅速に生成し、リソース消費を抑える。
-### 生成AI監査技術：
-生成AIの回答が企業規則や法令に準拠しているかを監査する技術。生成AIの内部動作状態を解析し、回答の根拠を示すことで、高信頼な生成AI出力を実現する。
-
-すでに同社は、このフレームワークを用いた実証実験を行い、契約書順守チェックやサポートデスクの作業効率向上、運輸業のドライバー配置計画の効率化など、多くの効果を確認しているという。今後は、さらなる特化型生成AIモデルの開発を進め、企業の生成AI活用を支援していくとのこと。
-
-また、経済産業省が推進する「GENIAC」プロジェクトにおいて、富士通のナレッジグラフ生成LLM開発事業が採択され、セキュアなオンプレミス環境でも利用可能な技術の提供が期待されているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 06 Jun 2024 06:07:30 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
+</description><pubDate>Sat, 08 Jun 2024 14:01:22 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
