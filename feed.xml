@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 14 Jun 2024 12:59:28 +0000</lastBuildDate><item><title>無料で5秒動画が毎月30本作成できる動画生成AI「Dream Machine」LumaAIよりリリース</title><link>https://ledge.ai/articles/luna-ai_dream_machine</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 15 Jun 2024 04:24:38 +0000</lastBuildDate><item><title>Apple幹部「Google の Gemini も選択できるように」複数のモデルを統合する意向を示す</title><link>https://ledge.ai/articles/apple_hopes_to_add_google_gemini_and_other_aimodels</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月10日、Appleの年次開発者会議WWDC2024において、Appleは新たなパーソナルAI「Apple Intelligence」を{target=“_blank”}した。また、OpenAIとの提携で、ChatGPTをiOS 18、iPadOS 18、macOS Sequoiaに統合する計画も発表した。このパートナーシップにより、ユーザーはSiriを介してChatGPTの機能を利用できるようになる。
+
+基調講演後、人気YouTuberの iJustine氏が、Steve Jobs Theaterでフォローアップインタビューを行い、Appleのソフトウェアエンジニアリング担当シニアバイスプレジデントであるクレイグ・フェデリギ氏と、機械学習およびAI戦略担当シニアバイスプレジデントであるジョン・ジャナンドレア氏の対談をモデレートした。インタビューの様子は、{target=“_blank”}が報じている。
+
+インタビュー中、フェデリギ氏は、Apple が最終的にApple Intelligence で使用するモデルをユーザーが選択できるようにしたいと考えていることに特に言及したという。現時点では OpenAI の ChatGPT が唯一の選択肢だが、フェデリギ氏は将来的には Google Gemini も選択肢の 1 つになる可能性があると示唆した。
+
+「最終的には、クリエイティブ ライティングに最適なモデルやコーディングに適したモデルなど、ユーザーが使いたい特定のモデルを好むようになると思います。そのため、最終的にはユーザーが自分の選んだモデルを持ち込めるようにしたいと考えています。そのため、将来的には Google Gemini のようなさまざまなモデルとの統合も検討しています。現時点で発表できることは何もありませんが、それが私たちの方向性です。」
+
+フェデリギ氏によると、最初に ChatGPT に重点を置くことにしたのは、Apple が「最高のものから始めよう」と考えていたためだという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 15 Jun 2024 04:24:38 +0000</pubDate></item><item><title>無料で5秒動画が毎月30本作成できる動画生成AI「Dream Machine」LumaAIよりリリース</title><link>https://ledge.ai/articles/luna-ai_dream_machine</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -58,6 +82,9 @@ JAPAN AI株式会社は2024年6月5日、マーケティング特化AIサービ�
 同社は今後も独自のAIモデル開発を通じて、日本市場におけるマーケティングやコンテンツ制作のイノベーションを牽引していく方針だ。今回のβ版リリースを皮切りに、継続的な機能拡張と性能向上に努めるとしている。
 
 
+:::box
+
+:::
 :::box
 
 :::
@@ -455,60 +482,7 @@ Recall機能は、Windows搭載のCopilot+ PC向けのAIツールで、すべて
 :::box
 
 :::
-</description><pubDate>Mon, 10 Jun 2024 16:26:54 +0000</pubDate></item><item><title>2024年上半期のAIを捉える「Ledge.ai EXPO 2024 Summer」を本日より公開開始</title><link>https://ledge.ai/articles/ledgeai-expo-2024-summer</link><description>「AIをはじめとする最先端テクノロジーを社会になめらかに浸透させる」をミッションに掲げ、国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、6月10日（月）より、オンライン特設サイトにて「{target=“_blank”}」を公開開始しました。
-
-:::button
-{target=“_blank”}
-:::
-
-## Ledge.ai EXPOについて
-Ledge.ai EXPOは、DXを実現するプロダクトやサービスの情報を発信するオンラインイベントです。国内最大級のAI関連メディアであるLedge.aiが主催するイベントとして、AI、IoT、DXに興味関心の高いビジネス層が多数訪れています。参加費は無料です。
-
-第7回目となる今夏は「Next Gen AI ＆Business」のテーマで、各企業で導入・活用が進められている「生成AI」について、AI活用のトレンド／リスク／ユースケース／活用を促進するためのツールや企業紹介など、様々な観点から情報を発信いたします。
-
-また、LLM比較記事やLedge.ai読者を中心に生成AI活用状況や取り組みに関するアンケート結果の掲載など、お役立ちコンテンツも豊富に掲載いたしますので、是非ご一読ください。
-
-## 掲載コンテンツ
-**【キーノートウェビナー】**
-
-**NLP（自然言語処理)これまでの80年とこれからの20年**
-マイクロソフト ディベロップメント株式会社　Zhan (Cliff) Chen / 陳 湛 氏
-
-**生成AI時代のUXデザイン**
-LINEヤフー株式会社　データG管掌 / データソリューショデザイン責任者 駒宮 大己 氏
-LINEヤフー株式会社　データソリューション デザイン責任者 / UXデザイナー 横内 寿樹 氏
- 
-**【注目のキーワード解説】**
-- マルチモーダルAI
-- AIエージェント
-- 独自データ活用
-
-**【限定ウェビナー】**
-- デル・テクノロジーズ株式会社｜エンタープライズ企業が押さえておくべきAIイノベーション加速への切り札“Dell AI Factory”とは？
-- Ledgeのプロジェクトマネージャーが15分で解説！マルチモーダルAIとは？
-- Ledgeのプロジェクトマネージャーが15分で解説！AIエージェントとは？
-
-ほか
-
-**【生成AI活用事例インタビュー】**
-- 株式会社博報堂｜生成AIで生活者発想を支援するサービスプロトタイプを開発独自の生活者調査データベースから7,000タイプのバーチャル生活者を生成
-- GMOインターネットグループ株式会社｜生成AIを活用して業務時間10万6,000時間を創出
-
-**【その他コンテンツ】**
-- 企業が生成AIを活用する際のリスク
-- LLMモデル比較記事
-- 上半期の重要なAIニュース
-- 生成AI活用状況アンケート
-
-:::button
-{target=“_blank”}
-:::
-
-## 開催概要
-イベント名：Ledge.ai EXPO 2024 summer
-主催：株式会社レッジ
-URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Mon, 10 Jun 2024 00:47:41 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
+</description><pubDate>Mon, 10 Jun 2024 16:26:54 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
