@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 14 Jun 2024 12:56:50 +0000</lastBuildDate><item><title>JAPAN AI、日本人の自然な写真画像生成機能を「JAPAN AI MARKETING」に実装</title><link>https://ledge.ai/articles/japan_ai_marketing</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 14 Jun 2024 12:59:28 +0000</lastBuildDate><item><title>無料で5秒動画が毎月30本作成できる動画生成AI「Dream Machine」LumaAIよりリリース</title><link>https://ledge.ai/articles/luna-ai_dream_machine</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Luma AIは2024年6月12日、テキストや画像から高品質でリアルかつ幻想的な動画を作成できるAIモデル「Dream Machine」を{target=“_blank”}した。
+
+Dream Machineは、スケーラブルで効率的なマルチモーダルトランスフォーマーアーキテクチャ上に構築され、直接動画でトレーニングされているため、物理的に正確で一貫性のあるアクション満載のシーンを生成することができる。ユーザーは無料で毎月30本の5秒間（120フレーム）の動画作成が可能だ。
+
+@
+
+
+
+Dream Machineは、これまでの画像アニメーションモデルとは異なり、真の動画生成モデルである。高速であることが特徴であり、Luma AIはさらなる効率化を図る予定だ。これにより、ユーザーの創造性が制限されることなく、自由に動画を生成できる​。
+
+同モデルは、Amazon Web Services（AWS）および高性能なAI用ビデオボード「NVIDIA H100」を使用したSageMaker HyperPodを利用してトレーニングされた。早期フィードバックは好評で、無限の創造性が解放されるような感覚をもたらしているという​。
+
+Luma AIは、人々が美しく、力強く、創造的なものを作る手助けをするために、一般的なAIシステムの構築を目指している。Dream Machineは、この目的を達成するための最初のモデルであり、今後もさらに多くのモデルが登場する予定だ。これにより、ユーザーはイメージ、動画、テキストなど多様な入力を使って、新しい世界を創造することが可能になる​。
+
+Luma AIのチームは、小規模ながらも非常に才能豊かな研究者、エンジニア、デザイナーで構成されており、一般知能を最も美しく有用な形で実現することに情熱を注いでいる。同社は、共創環境で最高のリソースを活用しながら、限界を超えるべく取り組んでいる​。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 14 Jun 2024 12:59:28 +0000</pubDate></item><item><title>JAPAN AI、日本人の自然な写真画像生成機能を「JAPAN AI MARKETING」に実装</title><link>https://ledge.ai/articles/japan_ai_marketing</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -478,48 +508,7 @@ LINEヤフー株式会社　データソリューション デザイン責任者
 イベント名：Ledge.ai EXPO 2024 summer
 主催：株式会社レッジ
 URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Mon, 10 Jun 2024 00:47:41 +0000</pubDate></item><item><title>OpenAI　GPT-4o Voice Modeの最新デモ動画を公開　キャラクター設定に合わせ声色を七変化させるAI　近日中にリリース予定</title><link>https://ledge.ai/articles/openai_gpt4o_new_voice_mode_demo</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIのYouTubeチャンネルで2024年6月5日、「GPT-4o」を使った最新のデモ動画を{target=“_blank”}した。
-
-動画では、一般リリースが待たれているGPT-4のVoice Modeを使用して、様々なキャラクターの声を生成するデモンストレーションが行われた。
-
-@
-
-
-スタッフが、ユーザーがライオンの王、ネズミ、フクロウ、悪役のキツネなどのキャラクターを指定し、それぞれのキャラクターの声を生成する様子が紹介されている。特に、ユーザーの指示に応じて声のトーンや性格を微調整できる点が注目に値する。例えば、ネズミの声をもっと高くしたり、悪役の笑い声をもっと低くしたりすることが可能だ。
-
-さらに、OpenAIは動画の概要欄で以下のように説明している。
-
-:::box
-2024/06/05
-New voice mode coming
-Voice mode is already available for all users in the ChatGPT app (tap the 🎧on the bottom right!) but our new voice and vision &gt;capabilities with GPT-4o (demonstrated here) will be rolling out in the coming weeks.
-:::
-
-Voice Mode自体は、既にテキストの読み上げ機能としてChatGPTアプリで利用可能となっているが、動画でデモンストレーションされている新しい音声およびビジョン機能は、今後数週間で展開される予定とのこと。
-
-{target=“_blank”}によると、新しいGPT-4oのリアルタイムVoice Modeは、数週間以内にChatGPT Plusユーザー向けに限定的なアルファ版としてリリースされる予定だと記されている。さらに数ヶ月以内にPlusユーザー向けに広く提供されるという。
-
-以前のGPT-4では、音声モードを使用してChatGPTと会話する場合、平均で2.8秒（GPT-3.5）および5.4秒（GPT-4）のレイテンシがあった。これは、音声をテキストに変換するモデル、テキストを処理するGPT-3.5またはGPT-4、そしてテキストを再び音声に変換するモデルという3つの異なるモデルのパイプラインによって実現されていた。しかし、このプロセスでは、GPT-4が直接トーンや複数の話者、背景のノイズを観察することができず、笑い声や歌、感情を表現することもできなかった。
-
-GPT-4oでは、テキスト、ビジョン、オーディオを統合した新しい単一のモデルをエンドツーエンドでトレーニングしている。これにより、すべての入力と出力が同じニューラルネットワークによって処理されるとのこと。すべてのモダリティを組み合わせた最初のモデルのため、何ができるのか、その限界はどうなのかはまだ調査段階だという。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 08 Jun 2024 14:01:22 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
+開催形式：オンライン（特設サイト）</description><pubDate>Mon, 10 Jun 2024 00:47:41 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
