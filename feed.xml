@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 16 Jun 2024 08:17:06 +0000</lastBuildDate><item><title>Meta　欧州のSNSユーザーに向け「一般公開された投稿コンテンツはLlamaのトレーニングに使う」と伝える</title><link>https://ledge.ai/articles/meta_to_train_ai_models_on_user_content_in_europe</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 16 Jun 2024 22:54:17 +0000</lastBuildDate><item><title>職場における「BYOAI = 自前のAIツール」利用が急増：マイクロソフトの調査結果</title><link>https://ledge.ai/articles/microsoft_linkedin_reserch_byoai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+マイクロソフトとLinkedInが共同で実施した{target=“_blank”}によると、職場におけるAIツールの利用が急速に進んでおり、特に自前のAIツールを職場に持ち込む「Bring Your Own AI (BYOAI)」の傾向が顕著であることが明らかになった。この調査は、2024年2月15日から3月28日にかけて、31の市場における31,000人のフルタイム勤務者および自営業のナレッジワーカーを対象に行われた。
+## 職場でのAI利用の現状
+調査結果によると、職場におけるAIツールの利用率は地域ごとに異なり、北米では66%、アジアでは83%、欧州では65%となっている。全体的にみると、従業員の75%がAIを使用しており、そのうち46%は使用し始めてから半年未満のユーザーだという。その一方で、日本における利用率は32%にとどまっており、言語的な問題や生成AIサービスの成熟度が影響していることが示唆された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 自前のAIツール（BYOAI）の利用状況
+調査によると、多くの従業員が企業の正式な導入計画を待たずに、自前のAIツールを職場に持ち込んでいるという。世界全体でAIを利用している人の78%が自前のAIツールを職場に持ち込んでおり、この現象は全年齢層で見られる。特に中小企業の従業員において顕著だという。日本でも、AI利用率は低いものの、BYOAIの割合は世界平均と同じく78%に達している​​ことが{target=“_blank”}より読み取れる。
+
+## AI導入の重要性
+ビジネスリーダーの79%が「競争力を維持するために自社でのAI導入が不可欠である」と回答しており、AI技術の導入が企業にとって重要な課題であることが浮き彫りになった。しかし、60%のリーダーは組織のリーダーシップがAIの導入計画やビジョンを欠いていると懸念している​​。
+
+日本では、67％のリーダーがAI導入の必要性を感じているが、49％がその計画やビジョンが不足していると回答している。調査では、このギャップが迅速なAI導入を妨げている要因の一つであるとしている。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 16 Jun 2024 22:54:17 +0000</pubDate></item><item><title>Meta　欧州のSNSユーザーに向け「一般公開された投稿コンテンツはLlamaのトレーニングに使う」と伝える</title><link>https://ledge.ai/articles/meta_to_train_ai_models_on_user_content_in_europe</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -456,33 +489,7 @@ GMOインターネットグループの生成AI活用プロジェクトロゴ
 イベント名：Ledge.ai EXPO 2024 summer
 主催：株式会社レッジ
 URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Tue, 11 Jun 2024 10:23:10 +0000</pubDate></item><item><title>ファッションセンターしまむら、AIモデル「瑠菜」を起用したプロモーションを開始</title><link>https://ledge.ai/articles/shimamura_ai_model</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-2024年6月5日、ファッションセンターしまむらは、タキヒヨー株式会社およびAI model株式会社と共同で、AIモデル「瑠菜（るな）」を活用したプロモーションプロジェクトを{target=“_blank”}した。このプロジェクトは、生成AI技術を用いて作成されたファッションモデルを使い、販促活動を強化することを目的としている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「瑠菜」は20歳の服飾専門学生という設定で、親しみやすいキャラクターを持つ。特技は可愛いものを見つけることで、趣味は家族にコーディネートを披露することだという。AIモデルの特徴を生かし、迅速かつ効果的なプロモーションが可能となり、特に10代から20代の若年層をターゲットにした販促活動が期待されている​。
-
-プロジェクトの一環として、2024年5月23日にオープンした東京都杉並区のファッションセンターしまむら下高井戸店で、ポスター掲示やチラシ配布などの販促活動が行われた。AIモデルの導入により、広告制作のリードタイム短縮やコスト削減が見込まれるという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 11 Jun 2024 10:45:14 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
+開催形式：オンライン（特設サイト）</description><pubDate>Tue, 11 Jun 2024 10:23:10 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
