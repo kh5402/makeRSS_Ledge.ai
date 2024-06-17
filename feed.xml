@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 15 Jun 2024 04:27:29 +0000</lastBuildDate><item><title>LLMに視覚を与える　サイバーエージェントが独自の日本語VLM「CyberAgentLM2」を公開</title><link>https://ledge.ai/articles/cyberagent_llava-calm2_japanese_vlm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 16 Jun 2024 08:17:06 +0000</lastBuildDate><item><title>Meta　欧州のSNSユーザーに向け「一般公開された投稿コンテンツはLlamaのトレーニングに使う」と伝える</title><link>https://ledge.ai/articles/meta_to_train_ai_models_on_user_content_in_europe</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年6月10日、米メタ・プラットフォームズは、欧州においてインスタグラムやフェイスブックのユーザーが一般公開用に投稿したコンテンツを、同社のAI大規模言語モデル「Llama（ラマ）」の訓練データとして利用する方針を発表したことを{target=“_blank”}が報じた。
+
+
+同社はこれまで欧州の厳格な個人情報保護規制のため、AI訓練用データの利用に慎重な姿勢を示していた。しかし、この新方針により、欧州と他の地域での対応がほぼ同等になる見通しだという。
+
+2023年9月、ロイターのインタビューで、フェイスブックとインスタグラムに一般公開用に投稿されたコンテンツをラマの訓練用に使用すると述べた。ただし、ユーザーが共有範囲を「自分のみ」もしくは「友人のみ」に限定したコンテンツは訓練用に使わないと明言していた。
+
+今年4月、メタはラマの最新バージョンをリリースした際、欧州においても正しい手法に取り組んでいると説明した。また、先月にはプラットフォームに投稿された情報をAIの改善と開発にどのように利用するかを欧州および英国のユーザーに通知すると発表した。
+
+5月には、英国とEUの人々に「メタの製品やサービスで共有された公開情報を、それぞれのプライバシー法の範囲内でメタのAIの開発と改善にどのように使用するか」について{target=“_blank”}という。
+
+
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 16 Jun 2024 08:17:06 +0000</pubDate></item><item><title>LLMに視覚を与える　サイバーエージェントが独自の日本語VLM「CyberAgentLM2」を公開</title><link>https://ledge.ai/articles/cyberagent_llava-calm2_japanese_vlm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -448,42 +482,7 @@ URL：{target=“_blank”}
 :::box
 
 :::
-</description><pubDate>Tue, 11 Jun 2024 10:45:14 +0000</pubDate></item><item><title>「SORAと同等クオリティでは？！」話題騒然の動画生成AI「KLING」中国のアプリ開発チーム「快手」が公開</title><link>https://ledge.ai/articles/kling-ai_equivalent_to_sora_in_openai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-中国のショート動画共有アプリ開発企業「快手」（Kuaishou）が2024年6月8日、新たなビデオ生成モデル「可灵大模型」（KLING）を{target=“_blank”}した。テキストから高品質な動画を生成する能力を持ち、その性能はOpenAIの動画生成AI「Sora」と競合するモデルとして注目されている。
-
-KLINGは、自社開発の3D VAE（Variational Autoencoder）に基づいており、テキストから最大2分間の動画を30fpsのフルHDで生成できる。この技術により、ユーザーは高度な動画コンテンツを簡単に作成できるという。
-
-またKLINGは、静止画像内の人物をポーズシーケンス（骨格動画）に基づいて動かすアニメーション生成機能も備えている。この機能により、1枚の画像からリアルで滑らかな動きを持つアニメーションを作成することが可能だ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-KLINGの実用性を試すには、快手が提供するアプリ「快影」をインストールする必要がある。このアプリは、専用ページからダウンロードできるが、使用には中国の電話番号が必要となる。
-
-{target=“_blank”}には多数のサンプル動画が掲載されており、そのクオリティの高さが話題となっている。快手の技術チームによると、KLINGはエンターテインメントや広告業界など、さまざまな分野での活用が期待されているとのことだ。
-
-@
-:::small
-動画の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 11 Jun 2024 10:35:43 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
+</description><pubDate>Tue, 11 Jun 2024 10:45:14 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
