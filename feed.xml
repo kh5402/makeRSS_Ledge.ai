@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 15 Jun 2024 04:24:38 +0000</lastBuildDate><item><title>Apple幹部「Google の Gemini も選択できるように」複数のモデルを統合する意向を示す</title><link>https://ledge.ai/articles/apple_hopes_to_add_google_gemini_and_other_aimodels</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 15 Jun 2024 04:27:29 +0000</lastBuildDate><item><title>LLMに視覚を与える　サイバーエージェントが独自の日本語VLM「CyberAgentLM2」を公開</title><link>https://ledge.ai/articles/cyberagent_llava-calm2_japanese_vlm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+サイバーエージェントは2024年6月13日、75億パラメータを持つ日本語視覚言語モデル（VLM）「CyberAgentLM2」を{target=“_blank”}した。同モデルは商用利用が可能であり、Apache-2.0ライセンスで提供される。
+
+近年、OpenAI社の「GPT-4o」など、画像も扱えるLLMが急速に進化し、さまざまな業界で活用が進んでいる。サイバーエージェントも、2023年5月にデジタル広告のクリエイティブ制作に画像を考慮した「広告コピー自動生成機能」を実装するなど、画像とテキストの複合領域での研究開発に取り組んできた。しかし、既存のVLMのほとんどは英語を中心に学習されており、日本語や日本文化に強いVLMは少ない状況である。
+
+こうした背景を受けて、サイバーエージェントは日本語VLMの開発を進め、このたびベースモデルの一部をHugging Face Hubにて{target=“_blank”}した。このモデルは、社内で開発された高性能な日本語LLMを用いて生成されたデータセットを基に学習されており、商用利用可能とのこと。
+
+このモデルをベースにチューニングを行うことで、画像を加味した対話AIの開発も可能となり、より多くの研究者や開発者が日本語の視覚言語モデルに関する最先端の研究に取り組むことができるという。
+
+また、研究用に開発されたさらに高性能なモデルも一部公開されており、{target=“_blank”}を通じて試すことが可能。ただし、デモは研究用途に限られる。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 15 Jun 2024 04:27:29 +0000</pubDate></item><item><title>Apple幹部「Google の Gemini も選択できるように」複数のモデルを統合する意向を示す</title><link>https://ledge.ai/articles/apple_hopes_to_add_google_gemini_and_other_aimodels</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -452,37 +483,7 @@ KLINGの実用性を試すには、快手が提供するアプリ「快影」を
 :::box
 
 :::
-</description><pubDate>Tue, 11 Jun 2024 10:35:43 +0000</pubDate></item><item><title>マイクロソフトのAI新機能「Recall」セキュリティ専門家らの批判受けデフォルト「オフ」で対策</title><link>https://ledge.ai/articles/microsoft_copilot_plus_pc_recall</link><description>:::small
-画像の出典：{target=“_blank”} / {target=“_blank”}
-:::
-
-Microsoftは2024年6月7日、Windows+デバイス部門の企業副社長であるパバン・ダヴルリ氏が、Copilot＋PC向け「Recall」（プレビュー）機能に関する最新情報を{target=“_blank”}した。
-
-Recall機能は、Windows搭載のCopilot+ PC向けのAIツールで、すべてのアクティビティを追跡する機能だが、セキュリティ専門家からは潜在的なハッキングリスクが指摘されていた。同機能は、ユーザーの操作をスクリーンショットとして記録し、後から自然言語で簡単に検索できるようにするもの。Microsoftはこの機能を2024年5月20日に発表し、6月18日にCopilot＋PCの新世代モデルとともに発売する予定だ。
-
-この「Recall」機能のセキュリティリスクを実証するため、1人のホワイトハッカーが「TotalRecall」というツールを開発し、Githubで{target=“_blank”}した。ツールは、Recallが保存するスナップショットとSQLiteデータベースから情報を抽出し、ユーザーが指定したアーティファクト（例：パスワード、検索語、クレジットカード情報）を解析するものだという。
-
-## 顧客のフィードバックを反映した改善点
-同社は、Recall機能の提供開始前からフィードバックを受け、Copilot+ PCの設定プロセスを改善し、プライバシーとセキュリティの強化を行ってきたという。これに基づき、プレビューが顧客に提供される6月18日よりも前に、以下の更新が実施されると述べた。
-- リコールを有効にするかどうかを明確に選択できるように、Copilot+ PCの設定体験を更新する。ユーザーが明示的に有効化しない限り、リコールはデフォルトでオフになっている
-- リコールを有効にするにはWindows Helloの登録が必要であり、タイムラインを表示したり検索したりする際には、本人確認も必要となる。
--  Windows Hello Enhanced Sign-in Security（ESS）による「ジャストインタイム」暗号解除を追加し、リコールのスナップショットはユーザーが認証した場合にのみ復号・アクセス可能とする。さらに、検索インデックスデータベースも暗号化される。
-
-さらに、Recallが生成するスナップショットはローカルにのみ保存され、クラウドに送信されることはないことが強調された。Microsoftは、デジタル著作権管理されたコンテンツや「InPrivate」ブラウジングモードで閲覧したコンテンツがスナップショットに保存されないことも明らかにした。
-
-
-同社は今後も、ユーザーのフィードバックをもとにプライバシーやセキュリティを最優先に改善を続けるとしている。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 10 Jun 2024 16:26:54 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
+</description><pubDate>Tue, 11 Jun 2024 10:35:43 +0000</pubDate></item><item><title>生成AIの未来を掴むための3つのキーワード（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-keyword-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
