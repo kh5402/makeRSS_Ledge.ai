@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 18 Jun 2024 01:03:20 +0000</lastBuildDate><item><title>「すべての企業がインテリジェンス製造企業になる」　デル・テクノロジーズ AI スペシャリストに聞く、AI導入における適切なアプローチ（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-dell-short</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 18 Jun 2024 01:03:20 +0000</lastBuildDate><item><title>Oracle　OpenAI、Google Cloud それぞれと新たなパートナーシップを発表</title><link>https://ledge.ai/articles/oracle_partnerships_with_openai_and_googlecloud</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+## マルチクラウド戦略の進展とAIインフラの強化
+Oracle は2024年6月11日、{target=“_blank”} および {target=“_blank”}との戦略的パートナーシップを発表した。この動きにより、AIインフラとクラウドサービスの連携がさらに強化される。
+
+### OpenAIとの提携
+OpenAIは、Microsoft Azure AI プラットフォームの拡張に Oracle Cloud Infrastructure（OCI） を選択した。Oracleは、Microsoft Azure Al プラットフォームをOCIに拡張し、OpenAl に追加の容量を提供する。この提携により、OpenAIはOCIのAIインフラを活用し、スケーリング能力を向上させる。
+
+OpenAIは、月間1億人以上のユーザーに生成AIサービスを提供している。同社のCEOであるサム・アルトマン氏は、「MicrosoftおよびOracleと協力できることを嬉しく思う。OCIはAzureのプラットフォームを拡張し、OpenAIがさらにスケールすることを可能にする」と述べている。
+
+Oracleの会長兼CTOであるラリー・エリソン氏は、
+「OCIは世界最速かつコスト効果の高いAIインフラであり、多くのリーダー企業が選択している」と述べ、OCIの優れたAIインフラがAIイノベーションを加速させると強調している。OpenAIは既に多くのAI企業と共にOCIスーパークラスターを使用して次世代AIモデルのトレーニングと推論を行っているという。
+
+### Google Cloudとの提携
+また、Google CloudはOCIデータベースサービスとOracleとの高速ネットワーク相互接続を提供する。このパートナーシップにより、OCIデータベースサービスがGoogle Cloudで利用可能となる。これにより、顧客はクラウド移行やマルチクラウド展開を簡素化し、管理を容易にできる。この提携は、オラクルの最先端データベース技術とGoogle Cloudの革新的なプラットフォーム及びAI機能をシームレスに結びつけるという。
+
+GoogleのCEOであるサンダー・ピチャイ氏は、
+「この新しいパートナーシップは、OracleのデータベースとアプリケーションをGoogle Cloudの革新的なプラットフォームと組み合わせることで、顧客に大きな利益をもたらす」と述べている。また、Oracleのエリソン氏は「顧客が複数のクラウドを利用する柔軟性を求めている」とし、Google CloudとOracleの連携がその需要に応えると強調した。
+
+この提携により、顧客はGoogle Cloudデータセンター内でOCIを利用し、高性能なデータベースとネットワーク機能を享受することができる。特に、金融サービス、ヘルスケア、小売、製造業など、多岐にわたる業界に対して、この新しいオファリングは大きな価値を提供するとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 17 Jun 2024 12:07:29 +0000</pubDate></item><item><title>「すべての企業がインテリジェンス製造企業になる」　デル・テクノロジーズ AI スペシャリストに聞く、AI導入における適切なアプローチ（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-dell-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
@@ -416,63 +449,7 @@ OpenAI側は、非営利の使命を達成するためには膨大な資金と�
 :::box
 
 :::
-</description><pubDate>Thu, 13 Jun 2024 11:07:33 +0000</pubDate></item><item><title>UX-CXを生成AIで自動化！？生成AI時代のUXデザイン（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-ly-short</link><description>:::box
-本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
-:::
-## 生成AI時代のUXデザイン 
-LINEヤフーのデータソリューションデザイン責任者である駒宮氏と横内氏をお迎えし、生成AIの活用が進む中でデザインがどのように進化していくのか、そしてLINEヤフーが生成AIをどのように活用しているのかについて語っていただいた。
-
-:::box
-!
-**LINEヤフー株式会社**
-データG管掌 / データソリューション
-デザイン責任者
-駒宮 大己 氏
-
-!
-**LINEヤフー株式会社**
-データソリューション
-デザイン責任者 / UXデザイナー
-横内 寿樹 氏
-:::
-
-:::button
-{target=“_blank”}
-:::
-
-## UXデザインは生成AIの力をプラスすることで進化する 
-
-**駒宮氏**
-生成AIの登場によってHyper Presonalizationがより進んでいくと考えられます。Hyper Presonalizationとは、顧客のデモグラフィックやサイト上の行動などをデータとして取得し、顧客ごとに最適化されたコミュニケーションを実施する手法を指します。
-
-データ活用が進んでから、デザイナーにとってもデータは身近になっており、より最適なクリエイティブは何かを考えるために、データを活用してPDCAを回してきました。デザイン領域においてデータでカバーしやすい分野としては、調査や評価-提供が挙げられますが、今回、生成AI活用が進む中で注目されてきたのが、クリエイティブの分野です。
-
-!
-
-今後、どのような時代になるかについてですが、一人ひとりに最適なクリエイティブが提供されるようになると考えており、デザイン4つの分野の4つの領域すべてにデータ活用と生成AIが活用されるようになると思います。
-
-その中で弊社は現在、CXとUXにおいて、生成AIを使った業務の自動化にチャレンジしています。将来的な「全AIデザイン時代」に向けて、我々がどのようにアプローチしているのか、今回の動画でご紹介します。
-
-**横内氏**
-ここから、UXデザインに生成AIを用いた事例を紹介させていただきます。動画を見ている方には言うまでもありませんが、テキスト生成AIが非常に高度化しています。
-
-その中で、CXUX分野を見渡してみると、ユーザー分析に生成AIを活用しやすいのではないか、という仮説を立てました。生成AIを用いることで、現在抱えている課題についても解決できるのではないかという期待もあります。
-
-!
-
-ではここから具体的な生成AIを用いたユーザー分析のプロセスについて解説します。
-
-※続きは特設サイトよりご覧ください 
-
-:::button
-{target=“_blank”}
-:::
-
-## 開催概要
-イベント名：Ledge.ai EXPO 2024 summer
-主催：株式会社レッジ
-URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Wed, 12 Jun 2024 03:06:36 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
+</description><pubDate>Thu, 13 Jun 2024 11:07:33 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
