@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 18 Jun 2024 07:23:46 +0000</lastBuildDate><item><title>サカナAI、国内最速の設立から1年でユニコーン企業に成長</title><link>https://ledge.ai/articles/sakana-ai_becomes_a_unicorn_company_in_a_year</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 18 Jun 2024 13:18:13 +0000</lastBuildDate><item><title>トヨタ 未来の都市 Woven City「2025年の年末に最初の住民が暮らし始める」実証実験が本格始動</title><link>https://ledge.ai/articles/toyota_woven_city</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+トヨタが開発中の「Woven City（ウーブン・シティ）」が、2024年5月22日から25日にパリで開催されたスタートアップ向けのテックイベント「Viva Technology（VivaTech）」に出展した。ウーブン・バイ・トヨタのCEOである隈部肇氏がステージでスピーチを行い、Woven Cityのビジョンと具体的な技術について{target=“_blank”}した。
+
+## 建設中の未来都市「Woven City」
+{target=“_blank”}は静岡県裾野市に建設中の未来都市で、トヨタが提案するモビリティのための新たなテストコースである。このプロジェクトは2020年に発表され、2025年から実証実験が開始される予定だという。Woven Cityは、自動運転車、AI、ロボティクス、スマートホーム技術などの先端技術の実証実験を行う場として設計されている​。
+## Digital Twin と Vision AI
+VivaTechで隈部氏は、Woven Cityの主要技術である「Digital Twin」と「Vision AI」を紹介した。「Digital Twin」は、現実世界をデジタル上で再現し、街中での様々なサービスやハードウェアのシミュレーションを可能にする技術である。また、「Vision AI」は映像データとAIを活用し、人やモノの動線や行動を理解する技術で、分析の自動化や省人化を実現する​とのこと。
+
+隈部氏はスピーチの中で、Woven Cityの住民が2025年の年末に最初に生活を開始する予定であることを述べた。この住民にはトヨタの社員とその家族、退職者、研究者、技術者、起業家などが含まれる予定だ​という。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 未来の当たり前を創造
+Woven Cityのブースには多くのスタートアップや技術関係者が訪れ、活発な交流とフィードバックが行われたという。隈部氏は「未来の当たり前を作り出す発明家の方々をサポートできるよう、2025年の実証開始に向けて準備を進めている」と語った。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 18 Jun 2024 13:18:13 +0000</pubDate></item><item><title>サカナAI、国内最速の設立から1年でユニコーン企業に成長</title><link>https://ledge.ai/articles/sakana-ai_becomes_a_unicorn_company_in_a_year</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -350,98 +384,7 @@ JAPAN AI株式会社は2024年6月5日、マーケティング特化AIサービ�
 :::box
 
 :::
-</description><pubDate>Fri, 14 Jun 2024 12:56:50 +0000</pubDate></item><item><title>ついに出た　AppleのAIは「Apple Intelligence」開発者会議 「WWDC2024」ざっくりまとめ　ChatGPT連携とイーロン・マスクの反応など</title><link>https://ledge.ai/articles/apple_wwdc2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Appleは2024年6月10-14日、カリフォルニア州サンノゼで年次開発者会議「WWDC 2024」を開催し、「Apple Intelligence」と呼ばれる最新のAI技術と新機能を{target=“_blank”}した。
-## Apple Intelligence: 次世代のパーソナルAI
-Appleは「Apple Intelligence」と呼ばれる新しいAIツールのスイートを{target=“_blank”}した。このツールはiOS、iPadOS、macOS、watchOS全体に統合され、デバイス上での処理によってプライバシーとセキュリティを強化している。
-
-主な機能には以下が含まれる：
-- **カスタム絵文字の作成：** ユーザーのテキストや音声の入力に基づいて絵文字を生成
-- **写真編集：** 音声やテキストコマンドを使用した高度な写真編集
-- **音声書き起こし：** リアルタイムの音声録音のテキスト化
-- **コンテンツの要約：** Safariでのページ要約機能
-
-同社CEOであるTim Cook氏は、
-「私たちの目標は、パワフルでパーソナルな製品を作り、人々の毎日を豊かにすることだ。Apple Intelligenceは、ユーザーの生活に深く結びつき、直感的で使いやすく、プライバシーを守ることを重視している。これは単なる人工知能ではなく、ユーバーの習慣や人間関係、コミュニケーションに根ざしたパーソナルAIとなる」
-と述べている。 
-
-### ChatGPTとの連携で進化したSiri
-同社は、Apple Intelligence だけでなく、外部のモデルを使用できるように組み込むと述べた。そしてこれを最高のパートナーとスタートするとし、Appleのプラットフォーム全体にOpenAIのChatGPTおよびGPT-4oを統合すると発表した。
-
-iOS 18、iPadOS 18、macOS Sequoia内での体験にChatGPTへのアクセスを統合し、ユーザーがツールの間を行ったり来たりしなくても、ChatGPTの専門知識や画像と文書を理解する機能にアクセスできるようになる。
-
-特にSiriはChatGPTとの統合により大幅にアップグレードされ、より自然で高度な対話が可能になった。このOpenAIとの提携により、Siriは例えば以下のような高度なAI機能を提供する：
-
-- **リアルタイムの音声書き起こしと要約：** メモアプリや電話アプリで音声を録音し、即座に書き起こしと要約が可能。録音が完了すると、Apple Intelligenceが自動的に要約を生成し、重要なポイントを一目で確認できる
-- **シームレスな統合：** SiriがChatGPTの専門知識を活用し、質問に対して最適な回答を提供。例えば、食事のメニューや家庭菜園のアドバイスを求める場合、SiriはChatGPTに問い合わせて解決策を提示する
-- **幅広い質問の対応：** 写真や書類、プレゼンテーションPDFの内容についても質問できる。例えば、装飾に関するアドバイスを写真付きで求めることができ、SiriがChatGPTに質問を共有してアイデアを提示する
-- **Composeとの連携：** ChatGPTを使用して文章や画像を生成できる。例えば、子供向けのおとぎ話を作成する場合、ChatGPTにアイデアを送り、ストーリーや挿絵を生成できる
-
-強化されたプライバシー保護機能により、ユーザーのリクエスト内容や情報は記録されない。また、Siriは勝手にChatGPTを使用することはなく、必ずユーザーの意向を確認する。使用は完全にユーザーの制御下にあるとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Apple Intelligenceに対して、イーロン・マスク氏は「スパイウェアのようだ」と批判的なコメントを出している。同氏はプライバシーとデータセキュリティに対する懸念を表明し、「AppleがOSレベルでOpenAIを統合した場合、私の会社ではAppleデバイスの使用を禁止する。許容できないセキュリティ違反だ」と自身のX（旧Twitter）で発言した。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-Apple Intelligenceは2024年夏から米国英語で試験的に利用可能となり、iOS 18、iPadOS 18、macOS Sequoiaの一部として2024年秋にベータ版が提供される予定だ。他の言語とプラットフォームは2025年にかけて順次追加される見込みだという。
-
-## iOS 18: AIを駆使した新機能
-iOS 18には、多くのAI強化機能が搭載されている：
-
-- **ホーム画面のカスタマイズ：** アプリやウィジェットを自由に配置可能で、ダークモード用のアイコンも追加
-- **RCSメッセージングサポート：** Androidユーザーとのメッセージング体験が向上
-- **写真アプリの大幅な改良：** ライブラリとFor Youタブを統合し、新しいコレクションとカルーセルビューを導入
-
-## macOS SequoiaとiPadOS 18: AIによる生産性向上
-デスクトップおよびタブレットのOSにもAI駆動の更新が加えられている：
-### macOS Sequoia：
-- **iPhoneミラーリング：** Mac上でiPhoneの操作が可能
-- **パスワードアプリ：** パスワード管理機能を一元化した新しいアプリ
- ### iPadOS 18：
-- **計算機と数学ノート：** 待望の計算機アプリと高度な手書き計算機能
-- **ノートアプリのスマートスクリプト：** 流動的な手書き認識と改善された組織化ツール
-
-## Vision ProとvisionOS 2
-AppleのAR/VRヘッドセット、Vision ProはvisionOS 2で以下の新機能を搭載：
-
-- **スペーシャルフォト：** 2D画像を臨場感あふれるスペーシャルフォトに変換
-- **ジェスチャー操作とMacバーチャルディスプレイ：** ジェスチャーコントロールと高解像度のバーチャルディスプレイで生産性を向上
-
-### watchOS 11: 健康とフィットネスの革新
-最新のApple Watch OSは以下の新しい健康とフィットネス機能を導入：
-
-- **Vitalsアプリ：** 主要な健康指標を監視し、異常が検出された場合に通知
-- **トレーニングロード：** ワークアウトの強度と持続時間を追跡
-
-## プライバシーとセキュリティの強化
-Appleはプライバシーを重視し、すべてのAI機能がユーザーのデータを保護するためにデバイス上で処理されることを強調している。これにより、ユーザーデータがクラウドに保存されず、安全に利用できるとのこと。
-
-@
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 13 Jun 2024 10:55:23 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
+</description><pubDate>Fri, 14 Jun 2024 12:56:50 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
