@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 18 Jun 2024 07:16:27 +0000</lastBuildDate><item><title>Oracle　OpenAI、Google Cloud それぞれと新たなパートナーシップを発表</title><link>https://ledge.ai/articles/oracle_partnerships_with_openai_and_googlecloud</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 18 Jun 2024 07:23:46 +0000</lastBuildDate><item><title>サカナAI、国内最速の設立から1年でユニコーン企業に成長</title><link>https://ledge.ai/articles/sakana-ai_becomes_a_unicorn_company_in_a_year</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+Google出身のAI研究トップ２が東京に設立したスタートアップ「SakanaAI」が、2024年6月中にも約200億円の資金を調達すると14日の{target=“_blank”}が報じた。
+
+同社の企業価値は11億ドル（約1700億円）を超え、2023年7月の創業からわずか1年以内にユニコーン企業（企業価値10億ドル以上の未上場企業）となる見込みである。これは、日本国内発の企業として最速の達成とみられている。
+
+サカナAIは設立当初から生成AI技術に注力し、多様な産業向けに革新的なソリューションを提供してきた。同社は、生成AI技術を用いてコンテンツの自動生成やクリエイティブなプロセスの効率化を図り、各業界での応用を進めている。その技術力と市場適応力が評価され、設立から短期間で大規模な資金調達を成功させているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 18 Jun 2024 07:23:46 +0000</pubDate></item><item><title>Oracle　OpenAI、Google Cloud それぞれと新たなパートナーシップを発表</title><link>https://ledge.ai/articles/oracle_partnerships_with_openai_and_googlecloud</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 ## マルチクラウド戦略の進展とAIインフラの強化
@@ -421,35 +441,7 @@ Appleはプライバシーを重視し、すべてのAI機能がユーザーの�
 :::box
 
 :::
-</description><pubDate>Thu, 13 Jun 2024 10:55:23 +0000</pubDate></item><item><title>イーロン・マスク、非営利性をめぐるOpenAIとの訴訟を取り下げ</title><link>https://ledge.ai/articles/elon_musk_drops_suit_against_openai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-イーロン・マスク氏が2024年2月にOpenAIおよびCEOサム・アルトマン氏に対して提起した訴訟を、6月11日に{target=“_blank”}ことが明らかになった。この訴訟は、OpenAIが設立時の非営利目的から逸脱し、Microsoftとのパートナーシップを通じて営利目的にシフトしたとするものだった。
-
-Appleの開発者会議「WWDC」で同社がOpenAIの技術をOSレベルでAppleのプラットフォームに統合するならば、自社でのAppleデバイスの使用を禁じる、とXで{target=“_blank”}した翌日のことだ。
-
-## 訴訟の背景
-マスク氏は、OpenAIが2015年に設立された当初は、非営利であり、AI技術を人類全体の利益のために開発することを使命としていたと主張している。しかし、同氏の訴訟によれば、OpenAIはMicrosoftとの大規模なパートナーシップを結び、技術を閉鎖的にし、商業的利益を優先するようになったとされる。特に、GPT-4が商業的理由で公開されておらず、その内部設計が秘密にされている点が問題視された​。
-## OpenAIの反論
-OpenAI側は、非営利の使命を達成するためには膨大な資金と計算資源が必要であり、そのために営利企業としての転換が不可避だったと説明している。また、OpenAIはGPT-4の開発と公開に関して、商業的な理由だけでなく安全性の考慮もあると主張している​。
-
-## 訴訟の取り下げ
-訴訟が取り下げられた具体的な理由については明らかにされていない。カリフォルニア州サンフランシスコ上級裁判所において、マスク氏側が取り下げを伝えたことが確認されているという。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 13 Jun 2024 11:07:33 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
+</description><pubDate>Thu, 13 Jun 2024 10:55:23 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
