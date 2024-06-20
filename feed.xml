@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 19 Jun 2024 05:32:36 +0000</lastBuildDate><item><title>トヨタ 未来の都市 Woven City「2025年の年末に最初の住民が暮らし始める」実証実験が本格始動</title><link>https://ledge.ai/articles/toyota_woven_city</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 19 Jun 2024 07:42:21 +0000</lastBuildDate><item><title>産総研と米IBM、次世代量子コンピューターの共同開発へ：性能75倍、日本産業界の活性化を目指す</title><link>https://ledge.ai/articles/aist_ibm_quantum_computer</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月17日、産業技術総合研究所（産総研）と米IBMは、量子技術の産業化に向けた連携を強化するための研究協力覚書（MOU）を5月10日に締結したことを{target=“_blank”}した。この連携により、両者は次世代量子コンピュータおよびそのサプライチェーンの開発を推進し、日本の産業界の活性化を目指す。
+
+協力により、量子ビット数が1万を超えることを目指しており、現行機の75倍以上の性能を持つことが期待されている。このプロジェクトは、日本の量子技術イノベーション戦略の一環として進められ、様々な分野での応用が期待されているという。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 19 Jun 2024 07:42:21 +0000</pubDate></item><item><title>トヨタ 未来の都市 Woven City「2025年の年末に最初の住民が暮らし始める」実証実験が本格始動</title><link>https://ledge.ai/articles/toyota_woven_city</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -346,45 +367,7 @@ Luma AIのチームは、小規模ながらも非常に才能豊かな研究者�
 :::box
 
 :::
-</description><pubDate>Fri, 14 Jun 2024 12:59:28 +0000</pubDate></item><item><title>JAPAN AI、日本人の自然な写真画像生成機能を「JAPAN AI MARKETING」に実装</title><link>https://ledge.ai/articles/japan_ai_marketing</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-JAPAN AI株式会社は2024年6月5日、マーケティング特化AIサービス「JAPAN AI MARKETING」において、日本人の特徴を捉えた人物画像を生成する機能のβ版を{target=“_blank”}した。この新機能により、日本市場向けの広告やマーケティング、コンテンツ制作において、より自然でリアルな日本人画像を使用することが可能となった。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-同機能は、従来の生成AIモデルに独自の素材を組み合わせ、日本人特有の顔立ちや髪型、ファッションなどを学習させることで実現したもの。これにより、従来の海外製モデルでは難しかった「日本人らしさ」を反映した画像を生成できるようになった​という。
-
-例えば、「ライトブルーのスーツを着た日本人男性がマイクを持って笑顔で話している様子」といったプロンプトに基づいて、よりリアルな日本人の画像が生成される。これにより、マーケティング、広告、コンテンツ制作などのビジュアル素材を効果的に作成できるようになる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-さらに、今回のβ版リリースにより、背景除去やテンプレート生成、類似画像生成などの既存機能も引き続き使用可能で、様々なカスタマイズに対応できる点も強調されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-同社は今後も独自のAIモデル開発を通じて、日本市場におけるマーケティングやコンテンツ制作のイノベーションを牽引していく方針だ。今回のβ版リリースを皮切りに、継続的な機能拡張と性能向上に努めるとしている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 14 Jun 2024 12:56:50 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
+</description><pubDate>Fri, 14 Jun 2024 12:59:28 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
