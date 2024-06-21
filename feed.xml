@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 20 Jun 2024 07:01:42 +0000</lastBuildDate><item><title>アリババクラウド、ALIBABA CLOUD GLOBAL SUMMITをフランス パリで開催。最新のビジネスプランやAI技術について発表</title><link>https://ledge.ai/articles/alibaba-global-summit</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 20 Jun 2024 07:01:42 +0000</lastBuildDate><item><title>プリファードネットワークス　1,000億パラメータの独自LLM「PLaMo-100B」の事前学習が完了　提供に向け着々</title><link>https://ledge.ai/articles/pfn_plamo_100b_pre-study_completed</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+Preferred Networksの子会社であるPreferred Elements（以下PFE）は、2024年2月より1,000億パラメータ規模の大規模言語モデル（LLM）「PLaMo-100B」の開発を開始し、5月には事前学習を完了したと開発者のブログで{target=“_blank”}した。
+
+このプロジェクトは、経済産業省主導の生成AI開発プロジェクト「{target=“_blank”}」の一環として、NEDOの助成事業に採択され、計算資源の提供支援を受けて実施されている。
+
+PLaMo-100Bは、日本語と英語のテキストデータを合計2兆トークン学習し、公開データセットと独自に作成したデータを使用して開発された。特に日本語ベンチマークJGLUEで高精度を目指しており、PFEはデータ収集から事前学習までを自社で行うことで、LLMの品質と制御を確保しているという。
+
+### ベンチマーク評価結果
+PLaMo-100Bは、事前学習モデルと簡単に指示学習を行ったモデルで日本語評価としてJaster、英語評価としてMMLUの結果を以下のように示し、GPT-4 turboやSwallow-70bなどの他の大規模モデルと比較しても、高いスコアを達成しているとした。
+
+
+
+
+!
+:::small
+表の出典：{target=“_blank”}
+:::
+
+PFEは、現在進行中の指示学習やマルチモーダルモデルの開発、さらには1兆パラメータ規模のモデルの検証準備を進めている。この助成事業を通じて得られた成果は、安全性などを検証したうえで、1000億パラメータのモデルのウェイトやファインチューニング用コードを公開する予定で、日本国内のAI開発力の向上と技術の蓄積、イノベーションの促進に貢献していく。採択された研究開発は、2024年8月15日までの完了を予定している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 20 Jun 2024 05:58:12 +0000</pubDate></item><item><title>アリババクラウド、ALIBABA CLOUD GLOBAL SUMMITをフランス パリで開催。最新のビジネスプランやAI技術について発表</title><link>https://ledge.ai/articles/alibaba-global-summit</link><description>:::small
 Vice President of Alibaba Group; President of Alibaba Cloud International　Selina YUAN氏 
 :::
 
@@ -362,31 +392,7 @@ NVIDIAは、このモデルシリーズが「8つのGPUを備える単一のDGX 
 :::box
 
 :::
-</description><pubDate>Sat, 15 Jun 2024 04:27:29 +0000</pubDate></item><item><title>Apple幹部「Google の Gemini も選択できるように」複数のモデルを統合する意向を示す</title><link>https://ledge.ai/articles/apple_hopes_to_add_google_gemini_and_other_aimodels</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月10日、Appleの年次開発者会議WWDC2024において、Appleは新たなパーソナルAI「Apple Intelligence」を{target=“_blank”}した。また、OpenAIとの提携で、ChatGPTをiOS 18、iPadOS 18、macOS Sequoiaに統合する計画も発表した。このパートナーシップにより、ユーザーはSiriを介してChatGPTの機能を利用できるようになる。
-
-基調講演後、人気YouTuberの iJustine氏が、Steve Jobs Theaterでフォローアップインタビューを行い、Appleのソフトウェアエンジニアリング担当シニアバイスプレジデントであるクレイグ・フェデリギ氏と、機械学習およびAI戦略担当シニアバイスプレジデントであるジョン・ジャナンドレア氏の対談をモデレートした。インタビューの様子は、{target=“_blank”}が報じている。
-
-インタビュー中、フェデリギ氏は、Apple が最終的にApple Intelligence で使用するモデルをユーザーが選択できるようにしたいと考えていることに特に言及したという。現時点では OpenAI の ChatGPT が唯一の選択肢だが、フェデリギ氏は将来的には Google Gemini も選択肢の 1 つになる可能性があると示唆した。
-
-「最終的には、クリエイティブ ライティングに最適なモデルやコーディングに適したモデルなど、ユーザーが使いたい特定のモデルを好むようになると思います。そのため、最終的にはユーザーが自分の選んだモデルを持ち込めるようにしたいと考えています。そのため、将来的には Google Gemini のようなさまざまなモデルとの統合も検討しています。現時点で発表できることは何もありませんが、それが私たちの方向性です。」
-
-フェデリギ氏によると、最初に ChatGPT に重点を置くことにしたのは、Apple が「最高のものから始めよう」と考えていたためだという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 15 Jun 2024 04:24:38 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
+</description><pubDate>Sat, 15 Jun 2024 04:27:29 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
