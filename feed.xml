@@ -418,7 +418,20 @@ NVIDIAは、このモデルシリーズが「8つのGPUを備える単一のDGX 
 :::box
 
 :::
-</description><pubDate>Sun, 16 Jun 2024 22:54:17 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
+</description><pubDate>Sun, 16 Jun 2024 22:54:17 +0000</pubDate></item><item><title>AWSが新AI認定試験を発表　2024年8月13日より開始、初の「ベータ試験」での日本語試験も提供</title><link>https://ledge.ai/articles/aws_crtified_ai_practitioner</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年6月14日、Amazon Web Services, Inc.（AWS）は、AI人材育成に関する説明会で、AIスキルを証明できる「AWS Certified AI Practitioner」と「AWS Certified Machine Learning Engineer（MLA）」の2種の新しい認定試験が2024年8月13日から開始することを{target=“_blank”}した。
+
+**「AWS Certified AI Practitioner」**
+AI、機械学習（ML）、および生成AIのコンセプトやツールに精通していることを証明する際に役立つ、AIに特化した資格だ。この資格は、AWS認定試験の4つのレベルの中でも基礎的な知識習得を目的とした「Foundational」のカテゴリに位置づけられる。
+
+**「AWS Certified Machine Learning Engineer（MLA）」**
+こちらは、AIやMLソリューションの構築、デプロイ、保守に必要なスキルを証明するものであり、モデルパフォーマンスの最適化、計算資源の管理、モデルのバージョンアップ、AIソリューションの保護などをスキル対象とする技術者向けの認定資格だ。AWS認定試験の「ASSOCIATE」のカテゴリに位置づけられる。
+
+新たな2種の認定資格は、2024年8月13日から「ベータ試験」として登録を開始する。通常は英語での実施だが、このベータ試験は同社として初の試みである日本語試験も提供をする予定だという。
+</description><pubDate>Thu, 20 Jun 2024 09:19:07 +0000</pubDate></item><item><title>その日から使えるデモも実演！「マルチモーダルAI」の概念を15分で丁寧に解説するウェビナーが公開中</title><link>https://ledge.ai/articles/expo2024-webinar-multimodalai</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
@@ -1145,32 +1158,7 @@ NVIDIAのデベロッパープログラム担当バイスプレジデント、�
 :::box
 
 :::
-</description><pubDate>Sun, 17 Mar 2024 05:03:19 +0000</pubDate></item><item><title>Anthropic、チャットAI「Claude 3」向け公式プロンプト集を公開</title><link>https://ledge.ai/articles/anthropic_claude3_prompt_library</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年3月11日、AIスタートアップのAnthropicは、同社が開発したチャットAI「Claude 3」向けの公式プロンプト集を{target=“_blank”}した。
-
-現在64種類の使用例が集められているこのプロンプト集は、「プロンプトライブラリ」でアクセス可能だ。公開されたプロンプト集は、英語と日本語の両方に対応しており、ユーザーはこれを利用してClaude 3の応用範囲を広げることができる。
-
-プロンプトライブラリには、クリエイティブな執筆、データ分析、キャラクターロールプレイといった様々な用途に合わせたプロンプトが含まれている。Anthropicは、このライブラリを通じて、Claude 3を最大限に活用するためのガイドラインを提供し、ユーザーが特定のタスクを効果的に達成できるよう支援している。
-
-また、Anthropicは「{target=“_blank”}」も公開しており、プロンプトの作成とテストのプロセスを通じて、Claude 3のパフォーマンスをさらに向上させる方法について説明している。これにより、ユーザーはより具体的なユースケースに対してClaude 3の応答を微調整することが可能となる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 14 Mar 2024 07:21:11 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
+</description><pubDate>Sun, 17 Mar 2024 05:03:19 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
