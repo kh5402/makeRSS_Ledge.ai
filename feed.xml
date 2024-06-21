@@ -1540,7 +1540,36 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>ChatGPTを活用したドローン編隊飛行システム「SwarmGPT」ミュンヘン工科大学の研究チームが発表</title><link>https://ledge.ai/articles/tum_swarm_gpt</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>NTT、遠隔地の複数データセンター間の秘密計算によるAI分析を実証　IOWN APN活用</title><link>https://ledge.ai/articles/ntt_iown_apn_ai_analysis_through_secure_computation</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NTTは2024年6月12日、IOWNオールフォトニクスネットワーク（APN）を活用し、低遅延通信により複数データセンター（DC）に分散配置された秘密計算サーバを用いたAI分析環境の実用性を実証したことを{target=“_blank”}した。これにより、遠隔地にあるDCを安全に接続し、効率的なデータ活用が可能となるプラットフォームの実現が期待されるという。
+
+## 秘密計算の背景と課題
+NTTはこれまで、ICT技術を通じた社会システムの高度化やプライバシー保護のため、秘密計算技術の開発に取り組んできた。この技術はISO国際標準にも採択されており、セキュアなデータ利活用が可能である。一方、従来の秘密計算システムは大量の通信が発生するため、全てのサーバを一つのDCに配置することが一般的だった。
+
+## IOWN APNの導入とその効果
+NTTは今回、IOWN APNによる大容量・低遅延な通信を利用して、地域に分散したDCに秘密計算サーバを配置し、その実用性を検証した。具体的には、NTT西日本が構築したIOWN APNを通じて、分散配置されたサーバによる秘密計算システムを構築し、ネットワークの影響を評価したとのこと。
+
+実験では、10万件のダミーデータセットを用いたAIモデルの学習処理を実施。一般的なネットワーク接続では約157分かかる学習が、IOWN APNでは約22分で完了した。これは、同一DC内での接続に比べてもわずか1.5倍の時間であり、実用的な時間内で処理可能であることが確認されたという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同実験により、IOWN APNを用いた分散DC間の秘密計算システムが実現可能であることが示されたと同社は述べる。今後は、複数事業者間でのセキュアなデータ利活用や、地域DCを統合した計算リソースの活用といったユースケースの検証、実導入に向けた運用課題の解決に取り組む予定とのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:
+</description><pubDate>Thu, 20 Jun 2024 07:23:38 +0000</pubDate></item><item><title>ChatGPTを活用したドローン編隊飛行システム「SwarmGPT」ミュンヘン工科大学の研究チームが発表</title><link>https://ledge.ai/articles/tum_swarm_gpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1914,69 +1943,7 @@ GPT-4は暗示、誤信念、奇妙な物語のテストで人間を上回る成
 
 :::
 
-</description><pubDate>Fri, 24 May 2024 08:35:29 +0000</pubDate></item><item><title>OpenAI　超知能を制御するチームが解散「安全文化とプロセスは派手な製品に押しのけられてきた」イリヤ氏に続く共同責任者の退職</title><link>https://ledge.ai/articles/superalignment_team_effectively_dissolved</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年5月17日、OpenAIは「超知能（Superinteligence）AI」の制御を目的とした「スーパーアライメント（Superalignment・超調整）チーム」は事実上解散になると、複数のメディアが報じている。チームを率いるイリヤ・サツケヴァー氏の15日の退社報告の後を追うように、同チームの共同リーダーであるヤン・ライカ氏がOpenAIを辞めたと公表したためと見られる。
-
-サツケヴァー氏の退社表明の直後、ヤン・ライカ氏も自身のX（旧Twitter）で退社の理由を{target=“_blank”}。ライカ氏は、OpenAIの経営方針との意見の相違や、研究リソースの不足が退職の主な理由であると述べている。また、彼は自身のチームとその成果に対する深い愛情と感謝の意を表明した​。
-
-同氏の投稿には
-「この研究を行うのに世界で最適な場所だと思ってOpenAIに参加した。しかし、私はOpenAIのリーダーシップとの間で会社の核心的な優先事項について長い間意見の相違があり、最終的に限界点に達した。人間よりも賢い機械を作ることは本質的に危険な事業だ。OpenAIは全人類を代表して莫大な責任を負っている」​ など、問題点を示唆する発言が垣間見られる。
-
-「But over the past years, safety culture and processes have taken a backseat to shiny products.」
-しかし、過去数年間、安全文化とプロセスは派手な製品に押しのけられてきた。
-「We are long overdue in getting incredibly serious about the implications of AGI.」
-AGIの影響を真剣に考える時期はとっくに過ぎている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-グレッグ・ブロックマン社長とサム・アルトマンCEOは、前日に退社したライカ氏の指摘に対する{target=“_blank”}を行い、「拡張性のある監視ソリューション」「密接なフィードバックループ」「厳格なテスト」などの対策を挙げたが、具体的な詳細は明示されなかった。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-サツケヴァー氏もライカ氏も、退社に際してOpenAIがAGI（人工汎用知能）への道を正しく歩むことを期待するとしているが、具体的な対策が求められる状況は続いている。
-
-
-## 安全性をめぐるOpenAIとアライメントチームのこれまでの動き
-### スーパーアライメントチームの立ち上げ
-スーパーアライメントチームは2023年7月、AIが人間にとって安全であり続けるための新たな研究チームとして{target=“_blank”}され、OpenAIの計算資源の20%を割り当てられていた。このチームは、超知能AIシステムを安全に運用するための技術的課題に取り組むことを目的としていた。
-
-共同リーダーのイリア・サツケヴァー氏とヤン・ライカ氏は、10年以内に超知能AIが出現する可能性を指摘し、「巨大な力は非常に危険で、人類を無力化するか、あるいは絶滅させる可能性さえある」と述べ、技術改善の必要を説いた。
-### Preparedness Teamの設立
-2023年10月、OpenAIは新たに「Preparedness Team」を{target=“_blank”}。このチームは、将来の「フロンティアAIモデル」がもたらす壊滅的なリスクを管理するために結成された。
-
-特に強力なAIモデルに関連するリスク評価と内部テストに焦点を当て、サイバーセキュリティや化学・生物・放射線・核（CBRN）脅威、自律的な自己複製や適応（ARA）など、多岐にわたるリスクカテゴリに対応することを目的としている​。
-### アルトマン氏の解任騒動
-2023年11月、OpenAIのCEOであるサム・アルトマン氏が一時的に解任される騒動が起きた。サツケヴァー氏がこの解任に関与したとされる。その後の社員の反発や外部からの圧力により、アルトマン氏は復職。{target=“_blank”}は、OpenAI内部の意見の相違や経営方針に対する不満を浮き彫りにする出来事となった​。
-### イリヤ・サツケヴァー氏に続きヤン・ライカ氏の退職
-2024年5月15日にサツケヴァー氏がOpenAIを去ることを公表。その直後に、ライカ氏も自身のX（旧Twitter）で、OpenAIを退職することを発表した。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 20 May 2024 02:36:18 +0000</pubDate></item><item><title>「スピーチライターに ”お前クビな” って言っちゃったよ」トランプ氏がAIに原稿を添削させてみた結果</title><link>https://ledge.ai/articles/trump_said_you_are_fired_to_his_speech_writer</link><description>:::small
+</description><pubDate>Fri, 24 May 2024 08:35:29 +0000</pubDate></item><item><title>「スピーチライターに ”お前クビな” って言っちゃったよ」トランプ氏がAIに原稿を添削させてみた結果</title><link>https://ledge.ai/articles/trump_said_you_are_fired_to_his_speech_writer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
