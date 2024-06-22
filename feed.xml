@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 21 Jun 2024 08:33:26 +0000</lastBuildDate><item><title>Sora以後、動画生成AIモデルのリリース続く　Runwayも「Gen-3 Alpha」を発表</title><link>https://ledge.ai/articles/runway_gen-3alpha</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 21 Jun 2024 08:41:22 +0000</lastBuildDate><item><title>Sora以後、動画生成AIモデルのリリース続く　Runwayも「Gen-3 Alpha」を発表</title><link>https://ledge.ai/articles/runway_gen-3alpha</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1572,7 +1572,34 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>NTT、遠隔地の複数データセンター間の秘密計算によるAI分析を実証　IOWN APN活用</title><link>https://ledge.ai/articles/ntt_iown_apn_ai_analysis_through_secure_computation</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>やっぱり運転手がいると安心？人型ロボットが運転もこなす未来: 筋骨格ヒューマノイドの挑戦</title><link>https://ledge.ai/articles/autonomous_driving_by_musculoskeletal_humanoids</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月11日、RA-Magazineに採択された論文「Toward Autonomous Driving by Musculoskeletal Humanoids: A Study of Developed Hardware and Learning-Based Software」がarXivとYouTubeで{target=“_blank”}された。
+論文は、柔らかなハードウェアと学習ベースのソフトウェアを組み合わせた筋骨格ヒューマノイド「ムサシ」による自動運転技術について詳述している。
+
+@
+
+
+
+研究の主な目的は、従来の自動運転技術に比べて安心感を高めることができる人間らしい運転動作を実現することだという。筋骨格を模倣したヒューマノイドのハードウェアは、自然な運転動作を可能にし、柔らかい素材を使用することで衝撃吸収性と適応性が向上する。これにより、運転中の安全性が大幅に強化されるとのこと。
+
+研究チームは、運転動作を学習するためのソフトウェアを開発し、多様なシナリオに対応できるように進化した学習アルゴリズムを導入しており、これにより、柔らかいハードウェアの欠点を克服し、実際の運転において高い適応力を発揮するという。
+
+## 自動運転技術との比較と利点
+従来の自動運転技術は、その信頼性と効率性が注目されてきたが、人間らしさや安心感には欠けることが多かった。筋骨格ヒューマノイドは、これらの課題に対処し、人間に近い運転動作を再現することで、より自然で安心感のある運転体験を提供するという。
+
+柔らかいハードウェアは、ヒューマノイドの運転動作をより自然にし、衝撃吸収性と適応性を向上させる。また、衝突時の安全性が高まるため、乗客や歩行者にとっても安全性が確保されるとのこと。
+
+また、学習ベースのソフトウェアは、ヒューマノイドが様々な運転状況に適応するための重要な要素である。進化した学習アルゴリズムにより、ヒューマノイドは運転中の複雑なシナリオにも対応し、従来の自動運転システムでは難しかった柔軟な対応が可能となる。
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Fri, 21 Jun 2024 08:41:22 +0000</pubDate></item><item><title>NTT、遠隔地の複数データセンター間の秘密計算によるAI分析を実証　IOWN APN活用</title><link>https://ledge.ai/articles/ntt_iown_apn_ai_analysis_through_secure_computation</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1936,46 +1963,7 @@ GPT-4は暗示、誤信念、奇妙な物語のテストで人間を上回る成
 :::box
 
 :::
-</description><pubDate>Sat, 25 May 2024 12:02:00 +0000</pubDate></item><item><title>スタンフォード大学　GPT-4oとGemini 1.5 Proの2つの最新マルチモーダルAIの性能の秘密を検証</title><link>https://ledge.ai/articles/many_shot_in_context_learning_in_multimordal_foundation_models</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年5月16日、スタンフォード大学の研究チームは、マルチモーダルモデルにおける多ショットコンテキスト内学習（ICL）の効果を調査した研究結果を{target=“_blank”}した。
-
-この研究では、GPT-4oとGemini 1.5 Proという2つの先進的なモデルを用いて、画像とテキストを組み合わせた大規模モデル（LLM）の性能を評価したとのこと。
-
-研究者らは、自然画像、医療画像、リモートセンシング、分子画像など10種類のデータセットを使用し、多クラス分類、多ラベル分類、詳細な分類タスクで実験を行った。特に、少数の例示（100未満）と多数の例示（最大2,000）の性能を比較した結果、多数の例示を使用することで全てのデータセットで性能が大幅に向上することが明らかになったという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-上図は、多ショット・マルチモーダル文脈内学習とゼロショットおよび少数ショット・マルチモーダルICL（in context learning：文脈内学習）の比較だ。ゼロショットと少数ショットの設定では、それぞれ、テストクエリの前の文脈で、実証例が提供されないか、少数の実証例のみが提供される。一方、多ショットICLでは、クエリー参照を用いて一度に複数のクエリーを実行する。
-
-### 主要な発見
-**性能向上:** 多数の例示を使用することで、特にGemini 1.5 Proは、例示数が増えるにつれて対数的に性能が向上することが確認された。
-**データ効率:** Gemini 1.5 Proは、多くのデータセットでGPT-4oよりも高いデータ効率を示し、少数の例示から迅速に学習する能力があることが分かった​​​​。
-**バッチ処理の効果:** 複数のクエリを一度に処理するバッチ処理を導入することで、ゼロショットおよび多ショット設定の両方で性能が向上し、クエリごとのコストと待ち時間が大幅に削減された​​。
-
-
-研究では、各モデルのゼロショット性能および最適なデモセットサイズでの性能を比較した。結果、Gemini 1.5 Proは多くのデータセットで一貫して高いパフォーマンスを示し、特にHAM10000、FIVES、EuroSATなどで大幅な改善が見られた​​という。
-
-この研究の結果は、マルチモーダルモデルが多くの例示を使用して学習する能力を持ち、新しいタスクやドメインに迅速に適応できることを示している。今後は、他のタスクやオープンソースのマルチモーダルモデルを用いたさらなる研究が期待される。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Fri, 24 May 2024 08:35:29 +0000</pubDate></item><item><title>「スピーチライターに ”お前クビな” って言っちゃったよ」トランプ氏がAIに原稿を添削させてみた結果</title><link>https://ledge.ai/articles/trump_said_you_are_fired_to_his_speech_writer</link><description>:::small
+</description><pubDate>Sat, 25 May 2024 12:02:00 +0000</pubDate></item><item><title>「スピーチライターに ”お前クビな” って言っちゃったよ」トランプ氏がAIに原稿を添削させてみた結果</title><link>https://ledge.ai/articles/trump_said_you_are_fired_to_his_speech_writer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
