@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 21 Jun 2024 08:41:22 +0000</lastBuildDate><item><title>Sora以後、動画生成AIモデルのリリース続く　Runwayも「Gen-3 Alpha」を発表</title><link>https://ledge.ai/articles/runway_gen-3alpha</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 22 Jun 2024 12:16:37 +0000</lastBuildDate><item><title>Sora以後、動画生成AIモデルのリリース続く　Runwayも「Gen-3 Alpha」を発表</title><link>https://ledge.ai/articles/runway_gen-3alpha</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2355,7 +2355,43 @@ AI分野では、生成AIによる誤情報や偽情報の拡散について、�
 :::box
 
 :::
-</description><pubDate>Mon, 27 May 2024 05:27:19 +0000</pubDate></item><item><title>Silverside AIが小説を映像化できるAIプラットフォーム「Hypnovels」を発表</title><link>https://ledge.ai/articles/silverside_ai_Hypnovels</link><description>:::small
+</description><pubDate>Mon, 27 May 2024 05:27:19 +0000</pubDate></item><item><title>演奏会出演辞退する高橋洋子氏「想い異なり、アーティストとして向き合えない」　生成AI画像使用に対し</title><link>https://ledge.ai/articles/ikeaniphil_singer_withdraws_from_concert_because_of_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+歌手の高橋洋子氏は、2024年7月10日開催予定の「池袋アニメーションフィルハーモニー第一回演奏会」への出演辞退することを6月19日、自身のSNSで{target=“_blank”}した。
+
+出演辞退の理由は、同オーケストラがイベントのチラシやホームページに生成AIで作成した画像を使用していたことに起因するという。高橋氏は「運営の姿勢につきまして、高橋洋子の想いと異なり、アーティストとして向き合うことができない出来事がございました」と報告した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同じ日、池袋アニメーションフィルハーモニーの実行委員会もSNSの公式アカウントでこの事態について{target=“_blank”}し、「アニメ音楽に関わる立場として、こうした状況での出演は好ましくない」という高橋氏側の意見を受けての辞退であることを明らかにした。
+
+そして「アニメを愛する楽団を名乗っているにもかかわらず、昨今の生成AIを取り巻く問題について自覚が足りなかったことを恥じております。また、作品に対する配慮、アニメやそれに関わるクリエイティブを愛する皆様の気持ちを汲み取れなかったことに気付き、実行委員一同深く反省しております」と謝罪した。
+
+ポスターは手描きイラストに差し替えることを決定し、6月20日以降はポスターやWebサイトに掲載している画像をイラストレーターに依頼した手描きイラストに差し替えた。また、チケットを既に購入した方にはキャンセル・返金対応を行うと発表した。
+## 事態の発端
+池袋アニメフィルのポスターには、生成AIによる画像が使用されているとの指摘がインターネット上で広まり、アニメ専門オーケストラが生成AI画像を使うことに対する批判が高まった。実行委員会は6月19日に公式声明を発表し、ポスターを手描きイラストに差し替えることを決定。
+## 実行委員会の対応
+代表の松下洋氏は、生成AI画像を意図して使用したわけではなく、商用利用可能な画像素材からデザインを選んだ際に「AI生成」のタグを見落としたと説明した。実行委員会は「生成AIを取り巻く問題について自覚が足りなかったことを恥じている」とし、今後はより一層の注意を払うと述べた。
+
+## 高橋洋子氏の辞退
+この問題を受け、ゲスト出演予定だった歌手の高橋洋子氏は、運営の姿勢に対する違和感から出演を辞退した。同氏は、人気アニメ「新世紀エヴァンゲリオン」の主題歌「残酷な天使のテーゼ」などのヒット曲で知られている。
+
+高橋氏の出演辞退のほか、同演奏家への企業による協賛辞退や、運営メンバーの実行委員会からの脱退および出演辞退などの影響が続いている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Sat, 22 Jun 2024 12:16:37 +0000</pubDate></item><item><title>Silverside AIが小説を映像化できるAIプラットフォーム「Hypnovels」を発表</title><link>https://ledge.ai/articles/silverside_ai_Hypnovels</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2759,28 +2795,4 @@ SMGは約700のAI開発者および音楽ストリーミング企業に対して
 :::box
 
 :::
-</description><pubDate>Sat, 18 May 2024 12:23:38 +0000</pubDate></item><item><title>AIが「次のヒット曲」を予測する　テンセント子会社が発表　中国の音楽ストリーミングサービスで初採用</title><link>https://ledge.ai/articles/tencent_music_ai_powered_tech_predict_the_next_hit_song</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-テンセント・ミュージック・エンタテインメント・グループ（TME）は、2023年度年次報告書において、AIを活用した「PDM（予測モデル）」技術を導入し、QQミュージックのプラットフォームで「次のヒット曲」を予測することに成功したと発表した。このニュースは2024年5月8日に{target=“_blank”}が報じた。
-
-PDM技術（Predictive Model）は、ディープラーニングを利用したコンテンツ価値評価アルゴリズムを用いており、音声と歌詞に基づく楽曲の市場可能性を予測できるという。また、ユーザーごとに最適なプレイリストを提案し、アーティストデータや音楽コンテンツ、世界中の音楽トレンドの変動をAIで分析することでターゲットオーディエンスを特定可能。
-
-TMEの年次報告書では、同社の主要な音楽ストリーミングサービス「QQミュージック」が中国のオンライン音楽業界で初めてこの高精度のPDM技術を採用したことが述べられている。この技術は国際音楽情報検索協会（MIREX）からも認識されており、その精度と有用性が評価されているとのこと。
-
-PDM技術の他にも、同社はAIを広範囲に活用しているという。2023年には、音楽制作およびプロモーションプラットフォーム「Venus」にAI搭載の作曲ツールを導入し、AI生成コンテンツ（AIGC）ツールを使用してアーティストの音楽コンテンツ制作および生産効率を向上させた。また、親会社のメッセージアプリ「WeChat」に音楽ライブラリを統合することで、10億人以上のユーザーがTMEの音楽コンテンツへアクセス可能となった。
-
-また、5月13日に{target=“_blank”}TMEの2024年第1四半期の報告書では、引き続きAI技術の強化を続けているとのこと。同社は「大規模オーディオモデル」を導入し、音楽のプロモーション精度を高めるとともに、新たなAIアシスタントを導入して音楽発見をより楽しく、魅力的かつ便利にすることを目指すとした。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 18 May 2024 12:14:50 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sat, 18 May 2024 12:23:38 +0000</pubDate></item></channel></rss>
