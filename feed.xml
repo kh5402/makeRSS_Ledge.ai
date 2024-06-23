@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 22 Jun 2024 12:16:37 +0000</lastBuildDate><item><title>Sora以後、動画生成AIモデルのリリース続く　Runwayも「Gen-3 Alpha」を発表</title><link>https://ledge.ai/articles/runway_gen-3alpha</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 22 Jun 2024 12:16:37 +0000</lastBuildDate><item><title>スターダストプロモーションなどがAI音声対話型デジタルヒューマン“AIマコト”を発表　シニア向け介護施設での活用を目指し実証実験を開始</title><link>https://ledge.ai/articles/ai_makoto</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月18日、野々村真氏の所属事務所である、スターダストプロモーションが野々村真氏をモデルにしたAI音声対話型デジタルヒューマン“AIマコト”を{target=“_blank”}した。
+
+AIデジタルヒューマンプロジェクト運営事務局の発表によると、シニア向け介護施設での活用を目的としており、高齢者の会話のテンポに合わせた会話を提供する。AIとの会話は音声だけではなく字幕表示機能も搭載しており、高齢者との会話をよりスムーズに進めることができるとのこと。
+
+このプロジェクトには、スターダストプロモーション、Spiral.AIを始め全9社の企業と、韓国IT企業のESTsoftが参加しており、AI関連の技術はSpiral.AIとESTsoftが提供している。現段階では、介護施設での実証実験を始めており、2025年サービス提供開始を目指しているという。
+
+
+@
+
+:::small
+出典：[野々村真氏公式YouTube]
+:::
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 20 Jun 2024 09:52:48 +0000</pubDate></item><item><title>Sora以後、動画生成AIモデルのリリース続く　Runwayも「Gen-3 Alpha」を発表</title><link>https://ledge.ai/articles/runway_gen-3alpha</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -374,40 +397,7 @@ URL：{target=“_blank”}
 :::box
 
 :::
-</description><pubDate>Mon, 17 Jun 2024 06:32:47 +0000</pubDate></item><item><title>NVIDIA、LLMの訓練に必要なデータセットを生成するモデル「Nemotron-4 340B」を発表　商用利用可</title><link>https://ledge.ai/articles/nvidia_nemotron_4_340</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAは2024年6月14日、大規模言語モデル（LLM）のトレーニングに最適な合成データ生成モデルシリーズ「Nemotron-4 340B」を{target=“_blank”}した。このモデルシリーズは、商用アプリケーション向けのLLMトレーニングに必要なデータセットを生成することができ、商用利用も可能だという。
-
-LLMの開発には高品質で多様なデータセットが不可欠だが、ネットなどから収集されたデータには偏りや不正確なものが含まれる可能性があり、データ量にも限界がある。そのため、合成データの生成が注目されている​。
-
-Nemotron-4 340Bは、合成データ生成のためのbase、instruct、rewardの3つのモデルから成る。baseモデルは9兆個のトークンでトレーニングされた基盤モデルで、ユーザーの独自データを組み込むことでカスタマイズが可能である。instructモデルは現実世界のデータの特性を模倣した多様な合成データを生成するよう設計されており、特定のドメインに特化したトレーニングテキストを生成する。rewardモデルは生成されたデータの品質を評価し、設定された基準に基づいてスコアを付けることで、AIシステムの品質を向上させるという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-開発者からのドメイン固有の入力クエリがNemotron-4 340B Instructモデルに送信され、合成レスポンスデータが生成される
-生成された合成レスポンスデータは、Nemotron-4 340B Rewardモデルによって評価され、レスポンススコアが付与される
-高品質の合成データはフィルタリングされ、最終的に合成データセットとして保存される
-
-NVIDIAは、このモデルシリーズが「8つのGPUを備える単一のDGX H100システムに収まるサイズ」であると発表している。さらに、NVIDIAのオープンソースフレームワークであるNeMoおよびTensorRT-LLMライブラリを使用して推論用に最適化されており、すべてのデータは{target=“_blank”}で入手可能だ。
-
-この発表により、AIの研究者や開発者は高品質な合成データを利用してLLMをトレーニングすることが容易になり、商用アプリケーションにおけるAIのトレーニングと展開が大幅に簡素化されると期待されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 17 Jun 2024 06:26:45 +0000</pubDate></item><item><title>【主要LLMの最上位モデルを比較】GPT-4o、Gemini Pro1.5、Claude 3 Opus 仕事で使えるLLMはどれか？まとめ記事公開中！</title><link>https://ledge.ai/articles/expo2024-llm-comparison</link><description>:::box
+</description><pubDate>Mon, 17 Jun 2024 06:32:47 +0000</pubDate></item><item><title>【主要LLMの最上位モデルを比較】GPT-4o、Gemini Pro1.5、Claude 3 Opus 仕事で使えるLLMはどれか？まとめ記事公開中！</title><link>https://ledge.ai/articles/expo2024-llm-comparison</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
@@ -2355,30 +2345,7 @@ AI分野では、生成AIによる誤情報や偽情報の拡散について、�
 :::box
 
 :::
-</description><pubDate>Mon, 27 May 2024 05:27:19 +0000</pubDate></item><item><title>スターダストプロモーションなどがAI音声対話型デジタルヒューマン“AIマコト”を発表　シニア向け介護施設での活用を目指し実証実験を開始</title><link>https://ledge.ai/articles/ai_makoto</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月18日、野々村真氏の所属事務所である、スターダストプロモーションが野々村真氏をモデルにしたAI音声対話型デジタルヒューマン“AIマコト”を{target=“_blank”}した。
-
-AIデジタルヒューマンプロジェクト運営事務局の発表によると、シニア向け介護施設での活用を目的としており、高齢者の会話のテンポに合わせた会話を提供する。AIとの会話は音声だけではなく字幕表示機能も搭載しており、高齢者との会話をよりスムーズに進めることができるとのこと。
-
-このプロジェクトには、スターダストプロモーション、Spiral.AIを始め全9社の企業と、韓国IT企業のESTsoftが参加しており、AI関連の技術はSpiral.AIとESTsoftが提供している。現段階では、介護施設での実証実験を始めており、2025年サービス提供開始を目指しているという。
-
-
-@
-
-:::small
-出典：[野々村真氏公式YouTube]
-:::
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 20 Jun 2024 09:52:48 +0000</pubDate></item><item><title>演奏会出演辞退する高橋洋子氏「想い異なり、アーティストとして向き合えない」　生成AI画像使用に対し</title><link>https://ledge.ai/articles/ikeaniphil_singer_withdraws_from_concert_because_of_genai</link><description>:::small
+</description><pubDate>Mon, 27 May 2024 05:27:19 +0000</pubDate></item><item><title>演奏会出演辞退する高橋洋子氏「想い異なり、アーティストとして向き合えない」　生成AI画像使用に対し</title><link>https://ledge.ai/articles/ikeaniphil_singer_withdraws_from_concert_because_of_genai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2785,4 +2752,37 @@ SMGは約700のAI開発者および音楽ストリーミング企業に対して
 :::box
 
 :::
-</description><pubDate>Wed, 22 May 2024 07:11:42 +0000</pubDate></item></channel></rss>
+</description><pubDate>Wed, 22 May 2024 07:11:42 +0000</pubDate></item><item><title>清水建設　永平寺のデジタルツインを構築　伽藍内全棟をウォークスルーできるデジタル空間やオンライン参拝できるコンテンツも
+</title><link>https://ledge.ai/articles/shimizu_eiheiji_digitaltwins</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+清水建設は2024年4月26日、福井県吉田郡に位置する曹洞宗大本山「永平寺」と共同で、3次元点群測量技術を用いて永平寺伽藍内の重要文化財19棟の精緻なデジタルツインを制作し、永平寺に納品したと{target=“_blank”}した。
+
+清水建設はまた、同社のアプリ「デジトリ360」を使用して伽藍内全棟と大小100余棟を360度写真でウォークスルーできるデジタル空間と、オンラインで永平寺を巡る「デジタル参拝」のコンテンツを制作し、2023年11月に先行して納品したとのこと。
+
+日本の歴史的建造物は木造であるため、これまで多くが火災や地震で損壊してきた。約800年の歴史を持つ永平寺も複数回の火災に遭遇し、その都度関係者の尽力により再建されてきた。永平寺は、デジタルツインを通じて伽藍内の重要文化財を確実に後世に残すことができると判断し、2023年7月に清水建設との共同調査を開始した。
+
+調査では、重要文化財19棟の内外観、小屋裏、床下、彫刻などあらゆる空間と形状を3次元点群測量で捉え、任意の平面、立面、断面を切り出して表示できるようにデータを加工し、デジタルツインを構築した。測量には、デジタル技術に長けた宮大工を擁するT＆I 3Dの協力を得たという。
+
+### 山門の点群データ（外観と内部を同時に表示）
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+永平寺で伽藍の維持保全を担う直歳（しっすい）の石田純道氏は「修行の場である永平寺伽藍内の建造物群の姿を確実に後世に残すことはわれわれの使命だ。精緻なデジタルツインの作成はこのニーズを具現化する手段だと評価している。また、平面の図面から維持保全に必要な情報を得るのは難しいが、デジタルツインのデータからは誰でも必要な情報を容易に検索できるため、維持保全業務を効率化できる」と述べている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 18 May 2024 12:23:38 +0000</pubDate></item></channel></rss>
