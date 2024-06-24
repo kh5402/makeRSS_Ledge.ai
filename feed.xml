@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 22 Jun 2024 12:22:51 +0000</lastBuildDate><item><title>スターダストプロモーションなどがAI音声対話型デジタルヒューマン“AIマコト”を発表　シニア向け介護施設での活用を目指し実証実験を開始</title><link>https://ledge.ai/articles/ai_makoto</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 23 Jun 2024 06:24:04 +0000</lastBuildDate><item><title>Googleと東大松尾研　生成AIモデル実装とAI人材育成で47都道府県の地域課題を解決する取り組みを発表</title><link>https://ledge.ai/articles/google_for_japan_2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Googleは2024年6月19日に開催した「Google for Japan 2024」で、AI技術を用いて日本の社会課題解決に向けた新たなプロジェクトを{target=“_blank”}した。Googleは、東京大学 松尾・岩澤研究室と協力し、2027年までに47都道府県の地域課題を解決するための生成AIモデルの実装とAI人材の育成を進める計画を明らかにした。
+## 地域課題解決への生成AI活用
+Googleは日本が抱える高齢化や労働人口の減少といった社会課題に対処するため、生成AIの力を活用する方針を示した。具体的には、AIを用いて労働力の生産性向上や企業の競争力強化、高齢者の健康支援を目指す。第一弾として、{target=“_blank”}と協力して雇用のミスマッチ解消に取り組む。このプロジェクトでは、AIが就業希望者に適性職種を提案し、企業には採用マーケティング支援を行うという。
+## 新たなAI機能と教育プログラム
+また、日本向けの新機能として「Googleナウキャスト」を発表。{target=“_blank”}との協力により、最大12時間先までの5分ごとの降水量予測が可能となる。また、ハッシュタグを用いた検索機能も追加され、ユーザーはソーシャルメディアからの最新トレンド情報を容易に取得できるようになるとのこと。
+
+## AIの責任ある活用とサイバーセキュリティ
+Google は、インターネット全体の安全性を向上させるため、2023 年 10 月に日本に日本をサイバーセキュリティ研究の拠点とし、政府や教育機関、そして産業界と連携し、知識共有や研究支援、トレーニングプログラムの提供など多岐に渡る取り組みを推進している。
+この日同社は、国内大学や研究機関を対象とした研究支援プログラム「Cybersecurity Research Award」の{target=“_blank”}し、医療分野を含む幅広いセキュリティ研究への支援を行うことを発表した。
+
+Googleは、AI技術を活用し、日本社会が抱える様々な課題解決に取り組む姿勢を明確にし、未来のイノベーションを支えるための取り組みを一層強化する意向を示した。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 23 Jun 2024 06:24:04 +0000</pubDate></item><item><title>スターダストプロモーションなどがAI音声対話型デジタルヒューマン“AIマコト”を発表　シニア向け介護施設での活用を目指し実証実験を開始</title><link>https://ledge.ai/articles/ai_makoto</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -368,36 +395,7 @@ AI技術の導入は、企業の競争力を大きく左右する。
 イベント名：Ledge.ai EXPO 2024 summer
 主催：株式会社レッジ
 URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Tue, 18 Jun 2024 01:03:20 +0000</pubDate></item><item><title>電通デジタル、生成AIを活用した営業DXサービス「∞AI Chat for Sales」を発表</title><link>https://ledge.ai/articles/dentsu_digital_mugen_ai_chat_for_sales</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-電通デジタルは6月13日、生成AIを活用した営業デジタルトランスフォーメーション（DX）サービス「∞AI Chat for Sales」を開始したことを{target=“_blank”}した。顧客インサイトの解像度を高め、効果的な営業活動を支援することを目的としているという。
-
-## 顧客データを活用した高度なパーソナライゼーション
-∞AI Chat for Sales は、顧客から直接取得したゼロパーティデータや企業が保有する1stパーティデータに加え、電通が持つ大規模調査データを活用する。これらのデータを大規模言語モデル（LLM）に入力し、詳細なペルソナ像を生成する。その後、ペルソナに対して最適なメッセージを生成することで、質の高いパーソナライズドメッセージを提供する​という仕組みだ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-このサービスにより、一般的なLLMによる文章生成と比較して、顧客の意識や価値観を踏まえた仮説を提示できるだけでなく、その根拠となる参考調査データも示すことができる。これにより、ユーザーエクスペリエンス（UX）の改善、コンバージョン率の向上、インサイドセールスのアポイント獲得率の向上、フィールドセールスの成約率の向上と属人化解消が期待される​とのこと。
-
-## APIとしての提供とAWSとの連携
-∞AI Chat for Sales はAPIとして提供され、各企業の既存システムに容易に統合可能である。生成されたパーソナライズメッセージは、既存のチャットボットやSFA（営業支援システム）、BI（ビジネスインテリジェンス）、MA（マーケティングオートメーション）ツールと連携して活用可能だ。
-
-さらに、このサービスの基盤にはAmazon Web Services（AWS）のAmazon Bedrockが使用されており、利用企業のAWS環境ともシームレスに接続できるとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 17 Jun 2024 06:32:47 +0000</pubDate></item><item><title>【主要LLMの最上位モデルを比較】GPT-4o、Gemini Pro1.5、Claude 3 Opus 仕事で使えるLLMはどれか？まとめ記事公開中！</title><link>https://ledge.ai/articles/expo2024-llm-comparison</link><description>:::box
+開催形式：オンライン（特設サイト）</description><pubDate>Tue, 18 Jun 2024 01:03:20 +0000</pubDate></item><item><title>【主要LLMの最上位モデルを比較】GPT-4o、Gemini Pro1.5、Claude 3 Opus 仕事で使えるLLMはどれか？まとめ記事公開中！</title><link>https://ledge.ai/articles/expo2024-llm-comparison</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
