@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 23 Jun 2024 06:24:04 +0000</lastBuildDate><item><title>Googleと東大松尾研　生成AIモデル実装とAI人材育成で47都道府県の地域課題を解決する取り組みを発表</title><link>https://ledge.ai/articles/google_for_japan_2024</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 23 Jun 2024 06:32:52 +0000</lastBuildDate><item><title>元OpenAIのサツケバー氏、新AI企業「セーフ・スーパーインテリジェンス」設立を発表 - 安全な超知能を目指す</title><link>https://ledge.ai/articles/ilya_started_ssi_inc</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIの共同創設者であり元チーフサイエンティストのイリヤ・サツケバー氏が現地時間の2024年6月19日、新たなAI企業「Safe Superintelligence Inc.（SSI）」の設立を{target=“_blank”}した。
+## SSIの目的とビジョン
+SSIは「安全な超知能」の構築を唯一の目標とし、この目標達成のために全力を注ぐ企業である。同社は、安全性と能力の向上を同時に追求し、革命的なエンジニアリングと科学的突破によって技術的な問題を解決することを目指している。サツケバー氏は「安全性を常に最優先にしながら、可能な限り迅速に機能を進化させる予定だ。こうすることで、安心して規模を拡大することができる」と述べている​。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 背景と新しい取り組み
+サツケバー氏は、OpenAIでヤン・ライケ氏と共に「Superalignment」チームを統括し、人間より賢いAIの制御を目指していたが、AIの安全性への取り組み方を巡って幹部と対立し、2024年5月に退社した。{target=“_blank”}し、現在はOpenAIの競合企業であるAnthropicに入社している。
+## SSIの特徴と目標
+SSIは、カリフォルニア州パロアルトとイスラエルのテルアビブに拠点を構え、世界中からトップクラスのエンジニアや研究者を集めることを目指している。サツケバー氏の他、OpenAIを6月に退社したダニエル・レヴィ氏と、米Y CombinatorでAIプログラムを立ち上げた起業家であるダニエル・グロス氏が名を連ねている​。
+
+新会社SSIは、安全性、セキュリティ、進歩を短期的な商業的プレッシャーから隔離するビジネスモデルを採用し、管理費や製品サイクルに気を取られることなく、超知能の安全な開発に集中することを目指すとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 23 Jun 2024 06:32:52 +0000</pubDate></item><item><title>Googleと東大松尾研　生成AIモデル実装とAI人材育成で47都道府県の地域課題を解決する取り組みを発表</title><link>https://ledge.ai/articles/google_for_japan_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -349,53 +383,7 @@ GoogleのCEOであるサンダー・ピチャイ氏は、
 :::box
 
 :::
-</description><pubDate>Mon, 17 Jun 2024 12:07:29 +0000</pubDate></item><item><title>「すべての企業がインテリジェンス製造企業になる」　デル・テクノロジーズ AI スペシャリストに聞く、AI導入における適切なアプローチ（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-dell-short</link><description>:::box
-本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
-:::
-
-## AI技術の導入
-AI技術の導入は、企業の競争力を大きく左右する。
-デル・テクノロジーズ株式会社のウェビナーでは、現在デル・テクノロジーズのAIスペシャリストおよびCTO Ambassadorとして活躍する増月氏より、最新のAIソリューション「Dell AI Factory」と、その実践的な応用方法について学ぶ。
-
-:::box
-!
-**デル・テクノロジーズ株式会社**
-**データワークロード・ソリューション本部 シニア・ビジネス開発マネージャー AI** **Specialist / CTO Ambassador**
-**増月 孝信**
-:::
-
-:::button
-{target=“_blank”}
-:::
-
-**増月氏**
-今、AIというと様々な活用がされていますが、1つのアプローチで課題を解決しようとすると難しく、”万能なアプローチはない” ということを認識しておく必要があります。
-
-企業におけるユースケースについて、我々は製造業ですが、製品開発だけではなく、セールスマーケティングや、場合によっては保守サービスを行う部門、一般的な企業ですと、人事部や総務部などの管理部門もありますので、ものすごい数のユースケースが存在します。
-
-!
-
-これらをすべて集めたとき、必ず出てくる議論として「どこから手を付けてよいか？」という話になりますが、先ほども言ったように、ユースケースに合わせて様々なアプローチがあるため、まずはそこを整理する必要があります。
-
-（四象限の）縦軸を事業価値、横軸を実現可能性で表したとき、集めたユースケースをマッピングしていくと、右上が事業価値も高く実現可能性も高いものとなりますが、その中で一番重要なのは「データ」です。
-
-!
-
-データが大きな差別化要因となってくるので、「データが使える状態になっているのか」「データそのものの品質はどうか」を鑑みて、ユースケースにどのように適合するか。それがキーとなり、最終的な投資の最適化につながっていくのです。
-
-「データが使える状態になっている」というのは簡単に言うと…
-
-※続きは特設サイトよりご覧ください 
-
-:::button
-{target=“_blank”}
-:::
-
-## 開催概要
-イベント名：Ledge.ai EXPO 2024 summer
-主催：株式会社レッジ
-URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Tue, 18 Jun 2024 01:03:20 +0000</pubDate></item><item><title>【主要LLMの最上位モデルを比較】GPT-4o、Gemini Pro1.5、Claude 3 Opus 仕事で使えるLLMはどれか？まとめ記事公開中！</title><link>https://ledge.ai/articles/expo2024-llm-comparison</link><description>:::box
+</description><pubDate>Mon, 17 Jun 2024 12:07:29 +0000</pubDate></item><item><title>【主要LLMの最上位モデルを比較】GPT-4o、Gemini Pro1.5、Claude 3 Opus 仕事で使えるLLMはどれか？まとめ記事公開中！</title><link>https://ledge.ai/articles/expo2024-llm-comparison</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
