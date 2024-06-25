@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 12:33:56 +0000</lastBuildDate><item><title>米マクドナルドがIBMとのAIドライブスルー試験運用を断念「音声注文の正確性に課題」次は Google Cloudと挑戦か</title><link>https://ledge.ai/articles/mcdonalds_to_end_ibm_ai_drivethru_test</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 12:33:56 +0000</lastBuildDate><item><title>【ハッキング実演動画あり】標的は国内CMS構築サイトの82.7%　生成AI時代により増加？WordPressサイトの脆弱性</title><link>https://ledge.ai/articles/expo2024-interview-forez</link><description>:::box
+本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
+:::
+
+:::box
+!
+
+**中谷 圭佑氏**
+株式会社フォアーゼット
+サイバー攻撃耐性を攻撃者視点で検証を行うデジタル監査会社。
+セキュリティ対策のコンサルティング業務を中心に活動している。
+:::
+
+:::box
+!
+
+**蔀 綾人氏**
+株式会社フォアーゼット
+サイバー攻撃耐性を攻撃者視点で検証を行うデジタル監査会社。
+コンピュータのハッキングに関する研究やクライアントの脆弱性チェック業務に携わっている。
+:::
+
+
+## 日本では特に多いWordPressで構築されたウェブサイト
+
+公開中のLedge.ai EXPO 2024 Summerでは、生成AIの技術や応用法を中心に多くの利点についてお伝えしている。そんな中で、その裏側にあるリスクやクリアーにすべきルールについて有識者の話を伺ったのが「生成AIの魔法の裏側：企業が直面する法的リスクとセキュリティ対策」の記事だ。本記事は同記事の後編にあたる「WordPressで構築されたウェブサイトによくある脆弱性について」の内容を紹介する。
+
+新たな技術を取り入れることは、企業にとって新たな競争力の獲得につながることが多いため、積極的に検討が進みやすいだろう。一方で、従来から活用してきている技術に対しては見直しがされにくい。長らく使い続けているWordPressサイトなどはその好例ではないだろうか。
+
+本インタビューに答えてくれた株式会社フォアーゼットの中谷 圭佑氏と蔀 綾人氏によると、全世界のWeb上の43%はWordPressで作られている。これは日本に限ると、CMSを使った日本のWebサイト全体の82.7%がWordPressで構築されているとのデータがあるそうだ。
+
+そしてこれだけ多く利用されているWordPressにも近年のうちに重大な脆弱性が見つかっている。
+
+## これまでに発見された代表的な脆弱性は？
+!
+
+インタビューの中で、これまでに発見されたWordPressの代表的な脆弱性の事例が紹介された。いずれも、多くの企業・個人でWordPressを利用しているユーザーにとっては他人事ではない。
+
+そして今回のインタビューの中では、現役ホワイトハッカーによるハッキングシーンの実演も行われた。（※同社がインタビュー用に構築した検証環境での実施）
+
+脆弱性を突くのに生成AIが悪用されるようなケースも考えられ、今後一層対策が求められる分野になるだろう。詳しい内容は、以下の特設サイトから確認できる。Fore-Zは本インタビューを見て同社に問い合わせをした企業に対し、無料の脆弱性診断レポートを提供すると答えている。「自社は大丈夫だろうか」と少しでも気になった読者は今すぐチェックしてみてほしい。
+
+:::button
+{target=“_blank”}
+:::</description><pubDate>Mon, 24 Jun 2024 10:48:50 +0000</pubDate></item><item><title>米マクドナルドがIBMとのAIドライブスルー試験運用を断念「音声注文の正確性に課題」次は Google Cloudと挑戦か</title><link>https://ledge.ai/articles/mcdonalds_to_end_ibm_ai_drivethru_test</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -360,41 +404,7 @@ Ilario CORNA氏は「オリンピックの独自性の為に様々なチャレ�
 :::box
 
 :::
-</description><pubDate>Wed, 19 Jun 2024 07:42:21 +0000</pubDate></item><item><title>トヨタ 未来の都市 Woven City「2025年の年末に最初の住民が暮らし始める」実証実験が本格始動</title><link>https://ledge.ai/articles/toyota_woven_city</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-トヨタが開発中の「Woven City（ウーブン・シティ）」が、2024年5月22日から25日にパリで開催されたスタートアップ向けのテックイベント「Viva Technology（VivaTech）」に出展した。ウーブン・バイ・トヨタのCEOである隈部肇氏がステージでスピーチを行い、Woven Cityのビジョンと具体的な技術について{target=“_blank”}した。
-
-## 建設中の未来都市「Woven City」
-{target=“_blank”}は静岡県裾野市に建設中の未来都市で、トヨタが提案するモビリティのための新たなテストコースである。このプロジェクトは2020年に発表され、2025年から実証実験が開始される予定だという。Woven Cityは、自動運転車、AI、ロボティクス、スマートホーム技術などの先端技術の実証実験を行う場として設計されている​。
-## Digital Twin と Vision AI
-VivaTechで隈部氏は、Woven Cityの主要技術である「Digital Twin」と「Vision AI」を紹介した。「Digital Twin」は、現実世界をデジタル上で再現し、街中での様々なサービスやハードウェアのシミュレーションを可能にする技術である。また、「Vision AI」は映像データとAIを活用し、人やモノの動線や行動を理解する技術で、分析の自動化や省人化を実現する​とのこと。
-
-隈部氏はスピーチの中で、Woven Cityの住民が2025年の年末に最初に生活を開始する予定であることを述べた。この住民にはトヨタの社員とその家族、退職者、研究者、技術者、起業家などが含まれる予定だ​という。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 未来の当たり前を創造
-Woven Cityのブースには多くのスタートアップや技術関係者が訪れ、活発な交流とフィードバックが行われたという。隈部氏は「未来の当たり前を作り出す発明家の方々をサポートできるよう、2025年の実証開始に向けて準備を進めている」と語った。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 18 Jun 2024 13:18:13 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
+</description><pubDate>Wed, 19 Jun 2024 07:42:21 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
 :::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
