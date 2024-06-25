@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 23 Jun 2024 12:41:54 +0000</lastBuildDate><item><title>元OpenAIのサツケバー氏、新AI企業「セーフ・スーパーインテリジェンス」設立を発表 - 安全な超知能を目指す</title><link>https://ledge.ai/articles/ilya_started_ssi_inc</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 05:54:23 +0000</lastBuildDate><item><title>ソフトバンクと元Google,元Meta,元OpenAIら設立のPerplexityが提携、AI検索エンジンの有料版を1年間無料で提供</title><link>https://ledge.ai/articles/softbank_perplexity_partnership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ソフトバンクは2024年6月17日、AIテックのスタートアップとして注目を集める 米国 Perplexity（パープレキシティ）と戦略的提携を開始したことを{target=“_blank”}した。
+
+この提携により、ソフトバンク、ワイモバイル、LINEMOの3ブランドのユーザーが、AI検索エンジン「Perplexity」の有料版「Perplexity Pro」を1年間無料で利用できるとのこと。
+
+Perplexityは、ウェブブラウザーやアプリを通じて使用できるAI検索エンジンで、ユーザーが入力した質問に対してインターネット上の最新情報を基に高精度な回答を情報源とともに提供する。
+
+Perplexity Proでは、GPT-4oやClaude3などの複数の高度な大規模言語モデル（LLM）を選択でき、より包括的な情報検索が可能となる。また、検索内容に合わせた高品質な画像生成機能、無制限のファイルアップロード、検索履歴の保存、AIプロフィール機能、チャットツールでのサポートなど、多彩な機能が利用できるという。申し込みは、6月19日から開始されているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 24 Jun 2024 05:54:23 +0000</pubDate></item><item><title>元OpenAIのサツケバー氏、新AI企業「セーフ・スーパーインテリジェンス」設立を発表 - 安全な超知能を目指す</title><link>https://ledge.ai/articles/ilya_started_ssi_inc</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -356,53 +378,7 @@ GoogleのCEOであるサンダー・ピチャイ氏は、
 :::box
 
 :::
-</description><pubDate>Mon, 17 Jun 2024 12:07:29 +0000</pubDate></item><item><title>「すべての企業がインテリジェンス製造企業になる」　デル・テクノロジーズ AI スペシャリストに聞く、AI導入における適切なアプローチ（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-dell-short</link><description>:::box
-本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
-:::
-
-## AI技術の導入
-AI技術の導入は、企業の競争力を大きく左右する。
-デル・テクノロジーズ株式会社のウェビナーでは、現在デル・テクノロジーズのAIスペシャリストおよびCTO Ambassadorとして活躍する増月氏より、最新のAIソリューション「Dell AI Factory」と、その実践的な応用方法について学ぶ。
-
-:::box
-!
-**デル・テクノロジーズ株式会社**
-**データワークロード・ソリューション本部 シニア・ビジネス開発マネージャー AI** **Specialist / CTO Ambassador**
-**増月 孝信**
-:::
-
-:::button
-{target=“_blank”}
-:::
-
-**増月氏**
-今、AIというと様々な活用がされていますが、1つのアプローチで課題を解決しようとすると難しく、”万能なアプローチはない” ということを認識しておく必要があります。
-
-企業におけるユースケースについて、我々は製造業ですが、製品開発だけではなく、セールスマーケティングや、場合によっては保守サービスを行う部門、一般的な企業ですと、人事部や総務部などの管理部門もありますので、ものすごい数のユースケースが存在します。
-
-!
-
-これらをすべて集めたとき、必ず出てくる議論として「どこから手を付けてよいか？」という話になりますが、先ほども言ったように、ユースケースに合わせて様々なアプローチがあるため、まずはそこを整理する必要があります。
-
-（四象限の）縦軸を事業価値、横軸を実現可能性で表したとき、集めたユースケースをマッピングしていくと、右上が事業価値も高く実現可能性も高いものとなりますが、その中で一番重要なのは「データ」です。
-
-!
-
-データが大きな差別化要因となってくるので、「データが使える状態になっているのか」「データそのものの品質はどうか」を鑑みて、ユースケースにどのように適合するか。それがキーとなり、最終的な投資の最適化につながっていくのです。
-
-「データが使える状態になっている」というのは簡単に言うと…
-
-※続きは特設サイトよりご覧ください 
-
-:::button
-{target=“_blank”}
-:::
-
-## 開催概要
-イベント名：Ledge.ai EXPO 2024 summer
-主催：株式会社レッジ
-URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Tue, 18 Jun 2024 01:03:20 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
+</description><pubDate>Mon, 17 Jun 2024 12:07:29 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
 :::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
