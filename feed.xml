@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 06:07:38 +0000</lastBuildDate><item><title>ソフトバンクと元Google,元Meta,元OpenAIら設立のPerplexityが提携、AI検索エンジンの有料版を1年間無料で提供</title><link>https://ledge.ai/articles/softbank_perplexity_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 12:19:28 +0000</lastBuildDate><item><title>全ビジネスパーソン必読！　生成AI活用時の法的リスクと対策を弁護士が解説
+</title><link>https://ledge.ai/articles/expo2024-interview-matsuda_and_partners</link><description>:::box
+本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「Ledge.ai EXPO 2024 summer」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
+:::
+
+生成AIを活用する際には、AIを利用して生成をする「利用者」と、GPT等の大規模言語モデル（LLM）をベースにコンテンツを生成するサービスを提供する「事業者」のどちらもが、既存の著作物の権利を侵害していないか？と常に細心の注意を払う必要がある。しかし、急速に普及が進む生成AIに対して、法的な観点については理解と対策側が軽視されているとまでは言い切れないものの、遅れを取っていることは指摘できるのではないか。
+
+Ledge.aiが特集として公開中の「Ledge.ai EXPO 2024 Summer」では、その利便性の高さから昨今のAIに関する話題を語る上で欠かせない生成AIに関する利点を多く紹介しているが、合わせて法的リスクへの警鐘として有識者に話を聞いた。
+インタビューでは松田綜合法律事務所の森田岳人弁護士と梅澤隼弁護士の見解を交えながら、生成AIに関わる全てのビジネスパーソンが持つべき知識について解説いただいた。
+
+全編通して専門知識がなくとも分かりやすい解説となっているが、公的な文書のうちソフトロー（法的拘束力を持たないものの、検討の基準となるガイドラインの類）として機能しており、生成AIを利用するにあたって必読の書類を3選紹介している。国内外での判例についても触れながら、今後の展開予測にも役立つ情報として話を聞いた。
+
+:::button
+
+:::
+
+:::box
+!
+
+**森田 岳人氏**
+個人情報・プライバシー関連法務／AI・データ関連法務／自動運転・モビリティサービス関連法務／IT関連法務／M&amp;A・投資関連法務／事業再生関連法務／企業法務・ベンチャー企業法務／親族・相続関連法務／訴訟関連
+IT関連の法務を始め、幅広い分野に携わっている。
+:::
+
+:::box
+!
+**梅澤 隼 氏**
+経済産業省商務情報政策局コンテンツ産業課でコンテンツ産業振興に関する政策に従事するとともに、関係省庁として著作権法改正業務を担当し、現在、弁護士として上場企業の著作権侵害に関する法律相談、大手IPコンテンツに関する著作権利用許諾契約の交渉、企業作成動画内での他の著作物の利用に関する法律相談、著作権侵害に基づくインターネット上の投稿の削除請求の事案に携わっている。
+:::
+
+## 日本における最新ガイドラインと法的規則
+
+一般的に著作権と一括りにしているが、著作権というのは複製権や上映権、譲渡権、貸与権など複数の権利を束にした総称だ。例えば、著作物をコピーをしたら複製権を侵害しているかもしれないし、そのコピーをさらに譲渡や頒布した場合には譲渡権、頒布権の侵害に当たるかもしれない。生成AIを利用し生成物を扱う場合には、様々な観点での注意が求められる。
+
+インタビュー時点で、まだ日本には生成AIによる著作権侵害の判例はなく、世界的にもまだ明確に結論に至っている例は少ない。そうした中で現時点で拠り所になるのは公的機関から発表されているガイドラインに示されている考え方などになる。
+
+どのような文書に目を通すべきであるか、どのような点を基礎知識として抑えておくべきかについては詳しくインタビューの中で説明されている。生成AIを扱う全ての人々が、活用するにあたって権利を侵害しないために最低限の法的知識は学んでおかなければならないということを、改めて本記事を通してお伝えしたい。
+
+:::button
+
+:::
+ 
+ 
+ ## 開催概要
+
+イベント名：Ledge.ai EXPO 2024 summer
+主催：株式会社レッジ
+URL：https://ledgeai-expo-2024-summer.studio.site
+開催形式：オンライン（特設サイト）</description><pubDate>Mon, 24 Jun 2024 12:19:28 +0000</pubDate></item><item><title>ソフトバンクと元Google,元Meta,元OpenAIら設立のPerplexityが提携、AI検索エンジンの有料版を1年間無料で提供</title><link>https://ledge.ai/articles/softbank_perplexity_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -345,40 +393,7 @@ Google出身のAI研究トップ２が東京に設立したスタートアップ
 :::box
 
 :::
-</description><pubDate>Tue, 18 Jun 2024 07:23:46 +0000</pubDate></item><item><title>Oracle　OpenAI、Google Cloud それぞれと新たなパートナーシップを発表</title><link>https://ledge.ai/articles/oracle_partnerships_with_openai_and_googlecloud</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-## マルチクラウド戦略の進展とAIインフラの強化
-Oracle は2024年6月11日、{target=“_blank”} および {target=“_blank”}との戦略的パートナーシップを発表した。この動きにより、AIインフラとクラウドサービスの連携がさらに強化される。
-
-### OpenAIとの提携
-OpenAIは、Microsoft Azure AI プラットフォームの拡張に Oracle Cloud Infrastructure（OCI） を選択した。Oracleは、Microsoft Azure Al プラットフォームをOCIに拡張し、OpenAl に追加の容量を提供する。この提携により、OpenAIはOCIのAIインフラを活用し、スケーリング能力を向上させる。
-
-OpenAIは、月間1億人以上のユーザーに生成AIサービスを提供している。同社のCEOであるサム・アルトマン氏は、「MicrosoftおよびOracleと協力できることを嬉しく思う。OCIはAzureのプラットフォームを拡張し、OpenAIがさらにスケールすることを可能にする」と述べている。
-
-Oracleの会長兼CTOであるラリー・エリソン氏は、
-「OCIは世界最速かつコスト効果の高いAIインフラであり、多くのリーダー企業が選択している」と述べ、OCIの優れたAIインフラがAIイノベーションを加速させると強調している。OpenAIは既に多くのAI企業と共にOCIスーパークラスターを使用して次世代AIモデルのトレーニングと推論を行っているという。
-
-### Google Cloudとの提携
-また、Google CloudはOCIデータベースサービスとOracleとの高速ネットワーク相互接続を提供する。このパートナーシップにより、OCIデータベースサービスがGoogle Cloudで利用可能となる。これにより、顧客はクラウド移行やマルチクラウド展開を簡素化し、管理を容易にできる。この提携は、オラクルの最先端データベース技術とGoogle Cloudの革新的なプラットフォーム及びAI機能をシームレスに結びつけるという。
-
-GoogleのCEOであるサンダー・ピチャイ氏は、
-「この新しいパートナーシップは、OracleのデータベースとアプリケーションをGoogle Cloudの革新的なプラットフォームと組み合わせることで、顧客に大きな利益をもたらす」と述べている。また、Oracleのエリソン氏は「顧客が複数のクラウドを利用する柔軟性を求めている」とし、Google CloudとOracleの連携がその需要に応えると強調した。
-
-この提携により、顧客はGoogle Cloudデータセンター内でOCIを利用し、高性能なデータベースとネットワーク機能を享受することができる。特に、金融サービス、ヘルスケア、小売、製造業など、多岐にわたる業界に対して、この新しいオファリングは大きな価値を提供するとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 17 Jun 2024 12:07:29 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
+</description><pubDate>Tue, 18 Jun 2024 07:23:46 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
 :::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
