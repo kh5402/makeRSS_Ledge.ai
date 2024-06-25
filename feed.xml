@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 05:54:23 +0000</lastBuildDate><item><title>ソフトバンクと元Google,元Meta,元OpenAIら設立のPerplexityが提携、AI検索エンジンの有料版を1年間無料で提供</title><link>https://ledge.ai/articles/softbank_perplexity_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 06:07:38 +0000</lastBuildDate><item><title>ソフトバンクと元Google,元Meta,元OpenAIら設立のPerplexityが提携、AI検索エンジンの有料版を1年間無料で提供</title><link>https://ledge.ai/articles/softbank_perplexity_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1539,7 +1539,42 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>やっぱり運転手がいると安心？人型ロボットが運転もこなす未来: 筋骨格ヒューマノイドの挑戦</title><link>https://ledge.ai/articles/autonomous_driving_by_musculoskeletal_humanoids</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>メタの新技術「AudioSeal」がAI音声詐欺防止に貢献</title><link>https://ledge.ai/articles/meta_audio_seal</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+MetaのFAIR研究所とInriaの共同研究チームは2024年6月6日、ウィーンで開催された国際機械学習会議（ICML）において、新たなAI音声生成検出技術「AudioSeal」を{target=“_blank”}した。AIによって生成された音声を特定するための新しいオーディオウォーターマーキング技術だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 背景と目的
+音声生成モデルの急速な進化により、偽音声の作成がますます容易となっている。特にディープフェイク技術の普及により、誤情報の拡散が大きな問題となっている。過去には、偽の音声を用いて米国の有権者に投票を控えるよう呼びかける{target=“_blank”}も発生しており、このようなリスクを低減するために、規制当局や政府はAIコンテンツの透明性と追跡性を確保する対策を講じている。このような問題に対応するために、AudioSeal は開発されたという。
+## 技術の特徴
+AudioSealは、AI生成音声の局所的な検出を可能にする初のオーディオウォーターマーキング技術であり、以下の特徴を持つ。
+
+1. **局所的検出:**  音声サンプルレベルでのウォーターマーク検出を実現し、音声のどの部分がAI生成かを正確に特定することができる。
+2. **高い秘匿性:**  聴覚マスキングに基づく新しい知覚損失を採用し、人間の耳にはほとんど認識されないウォーターマークを実現している。
+3. **高い耐久性:**  現実の音声操作に対する耐久性が高く、自動および人間による評価基準で最先端の性能を達成している。
+4. 高速検出: 既存のモデルよりも最大で100倍以上の速度で検出を実現し、大規模かつリアルタイムのアプリケーションに最適である。
+## 評価と性能
+AudioSealは、多様な音声操作に対する耐久性試験で、従来のウォーターマーキング手法を上回る性能を示したという。また、リアルタイム検出を可能にする効率性も高く、ソーシャルメディアプラットフォームなどでの大規模なAI生成コンテンツの追跡に適しているとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 24 Jun 2024 06:07:38 +0000</pubDate></item><item><title>やっぱり運転手がいると安心？人型ロボットが運転もこなす未来: 筋骨格ヒューマノイドの挑戦</title><link>https://ledge.ai/articles/autonomous_driving_by_musculoskeletal_humanoids</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1896,41 +1931,7 @@ Anthropicは、同社のLLM Claude3シリーズの1つである「Claude Sonnet�
 :::box
 
 :::
-</description><pubDate>Fri, 31 May 2024 12:45:51 +0000</pubDate></item><item><title>「AIにも人の気持ちが分かるかもしれない問題」に迫る　LLMが「心の理論」テストで人間超え　--独ハンブルク大学研究チームが発表</title><link>https://ledge.ai/articles/testing_theory_of_mind_in_llm</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年5月20日、ネイチャー・ヒューマン・ビヘイビア誌に掲載された新たな研究によると、AIモデルが「心の理論」テストで人間を上回る成績を収めることが{target=“_blank”}。
-
-独ハンブルク・エッペンドルフ大学医療センターの神経科学部教授クリスティーナ・ベッキオ氏を中心とする研究チームは、OpenAIのGPT-3.5とGPT-4、MetaのLlamaモデルを使用し、AIと人間の「心の理論」能力を比較する一連のテストを実施した。心の理論とは、他者の感情、意図、信念を理解し、それに基づいて行動を予測する能力を指す。この研究では、特に次の5種類のテストが行われた。
-
-**1. 暗示タスク：** 間接的なコメントから他者の意図を推察する
-**2. 誤信念タスク：** 他者が誤った情報を信じることを理解する
-**3. 社会的失言の認識：** 社会的に不適切な発言を認識する
-**4. 奇妙な物語テスト：** 異常な行動を理解し説明する
-**5. 皮肉を理解する能力：** 皮肉を認識し、その意味を理解する
-
-
-GPT-4は暗示、誤信念、奇妙な物語のテストで人間を上回る成績を示し、皮肉の理解においても優れた結果を収めた。一方、Llamaモデルは全般的に人間の平均を下回ったが、社会的失言の認識においては人間を上回る成績を収めた。これらの結果は、AIが特定のタスクに特化して訓練された結果であり、必ずしも人間のように感情や意図を理解しているわけではないことを示唆しているという。
-
-研究チームは、これらの結果について以下のように考察した。
-- AIモデルが好成績を収めた背景には、訓練データに心の理論に関するタスクが含まれていた可能性が高い。また、AIは特定のタスクに対するパターン認識能力を高めていると考えられる。
-- AIが心の理論テストで優れた成績を収めたとしても、AIが人間のように感情や意図を理解しているわけではない。AIはデータに基づいてパターンを認識し、回答を生成しているに過ぎない。
-- AIの能力を過信することは避けねばならない。AIが心の理論を持っていると誤解することは、技術の誤用や誤解を招く可能性がある。
-- AIの進化に伴い、倫理的な問題やプライバシーの問題も浮上する可能性がある。これらの問題に対する慎重な対応が求められる。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 25 May 2024 12:02:00 +0000</pubDate></item><item><title>デジタル庁、テキスト生成AIのリスク対策ガイドブック（α版）を公開</title><link>https://ledge.ai/articles/digital_agency_genai_guidebook</link><description>:::small
+</description><pubDate>Fri, 31 May 2024 12:45:51 +0000</pubDate></item><item><title>デジタル庁、テキスト生成AIのリスク対策ガイドブック（α版）を公開</title><link>https://ledge.ai/articles/digital_agency_genai_guidebook</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
