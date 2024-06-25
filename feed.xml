@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 12:19:28 +0000</lastBuildDate><item><title>全ビジネスパーソン必読！　生成AI活用時の法的リスクと対策を弁護士が解説
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 12:33:56 +0000</lastBuildDate><item><title>米マクドナルドがIBMとのAIドライブスルー試験運用を断念「音声注文の正確性に課題」次は Google Cloudと挑戦か</title><link>https://ledge.ai/articles/mcdonalds_to_end_ibm_ai_drivethru_test</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+マクドナルドはIBMとのパートナーシップによるAIドライブスルー技術の試験運用を終了すると{target=“_blank”}が報じている。この試験運用は100店舗以上で行われ、CNBCが入手した先週末にフランチャイズ店に送られたメモによると、7月26日までに完全に停止される予定だ​という。
+
+この試験運用は、音声認識技術を利用した「自動注文受付システム（AOT）」を導入し、ドライブスルーでの注文プロセスを簡素化し、迅速化することを目的としていた。しかし、この技術は様々なアクセントや方言を正確に理解することが難しく、注文の正確性に課題があったという​。
+
+マクドナルドの米国シニアバイスプレジデント兼チーフレストランオフィサーのメイソン・スムート氏は、「これまでの成功もありましたが、音声注文ソリューションをより広く探求する機会があると感じています。慎重に検討した結果、IBMとの現在のパートナーシップを終了することを決定しました」とメモで述べていたとのこと。
+
+CNBCの取材を受け、マクドナルドは、将来的にはAIドライブスルー技術の導入を予定していると語った。同社はGoogle Cloudと新たなパートナーシップを結び、生成AIやクラウド技術を活用した音声注文ソリューションの開発を継続する予定だ。Googleの技術を活用することで、ドライブスルーの効率化と顧客体験の向上を目指している​という。
+
+Googleとの提携について、AlphabetのCEOであるサンダー・ピチャイ氏は「マクドナルドが我々の生成AI、クラウド、およびエッジコンピューティングツールを使用して、世界中の従業員と顧客にとっての象徴的なダイニング体験を改善するのを楽しみにしています」と述べているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 24 Jun 2024 12:33:56 +0000</pubDate></item><item><title>全ビジネスパーソン必読！　生成AI活用時の法的リスクと対策を弁護士が解説
 </title><link>https://ledge.ai/articles/expo2024-interview-matsuda_and_partners</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「Ledge.ai EXPO 2024 summer」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
@@ -373,27 +394,7 @@ Woven Cityのブースには多くのスタートアップや技術関係者が�
 :::box
 
 :::
-</description><pubDate>Tue, 18 Jun 2024 13:18:13 +0000</pubDate></item><item><title>サカナAI、国内最速の設立から1年でユニコーン企業に成長</title><link>https://ledge.ai/articles/sakana-ai_becomes_a_unicorn_company_in_a_year</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Google出身のAI研究トップ２が東京に設立したスタートアップ「SakanaAI」が、2024年6月中にも約200億円の資金を調達すると14日の{target=“_blank”}が報じた。
-
-同社の企業価値は11億ドル（約1700億円）を超え、2023年7月の創業からわずか1年以内にユニコーン企業（企業価値10億ドル以上の未上場企業）となる見込みである。これは、日本国内発の企業として最速の達成とみられている。
-
-サカナAIは設立当初から生成AI技術に注力し、多様な産業向けに革新的なソリューションを提供してきた。同社は、生成AI技術を用いてコンテンツの自動生成やクリエイティブなプロセスの効率化を図り、各業界での応用を進めている。その技術力と市場適応力が評価され、設立から短期間で大規模な資金調達を成功させているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 18 Jun 2024 07:23:46 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
+</description><pubDate>Tue, 18 Jun 2024 13:18:13 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
 :::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
