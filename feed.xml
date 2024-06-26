@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 25 Jun 2024 09:35:47 +0000</lastBuildDate><item><title>OpenAIが2社買収で企業向けAIサービス強化目指す：検索とデータ分析「Rockset」・Web会議ツール「Multi」</title><link>https://ledge.ai/articles/openai_acquires_rockset_and_multi</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 25 Jun 2024 13:36:46 +0000</lastBuildDate><item><title>OpenAIが2社買収で企業向けAIサービス強化目指す：検索とデータ分析「Rockset」・Web会議ツール「Multi」</title><link>https://ledge.ai/articles/openai_acquires_rockset_and_multi</link><description>:::small
 画像の出典：Rockset, Multi のサイトより編集
 :::
 
@@ -395,7 +395,40 @@ PFEは、現在進行中の指示学習やマルチモーダルモデルの開�
 :::box
 
 :::
-</description><pubDate>Thu, 20 Jun 2024 05:58:12 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
+</description><pubDate>Thu, 20 Jun 2024 05:58:12 +0000</pubDate></item><item><title>【6/27 15:00開始】 最新モデル「Claude 3.5 Sonnet」の実力に迫るLIVE配信をレッジが開催！GPT-4oやGemini 1.5 Proとの違いなど徹底解説</title><link>https://ledge.ai/articles/expo2024_claude3-5_sonnet_live</link><description>:::box
+本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している特設サイト「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
+:::
+
+## 突如発表された最新モデル「Claude 3.5 Sonnet」 その実力を検証するLIVE配信の開催が決定
+2024年6月21日にAnthropicが突如として最新AIモデル「Claude 3.5 Sonnet」を発表した。
+
+:::box
+{target=“_blank”}
+:::
+
+Claude 3.5 Sonnetは、コードの生成やイメージの認識の性能が大幅に向上し、前バージョンの上位モデルであるClaude 3 OpusやGPT-4oなどの競合モデルを上回る性能を持っているという。
+
+現在公開中の「{target=“_blank”}」では、LLM比較というテーマで、GPT-4o（OpenAI）、Gemini 1.5 Pro（Google）、Claude 3 Opus（Anthropic）といった主要LLMの最上位モデルの比較結果のまとめ記事（{target=“_blank”}）を公開している。
+
+今回の発表を受け、EXPO特設サイトでは、上記記事の追加企画として、Anthropicの最新LLM「Claude 3.5 Sonnet」について解説するLIVE配信を行う。
+
+前バージョンのモデルであるClaude 3 Opusとの違いや、GPT-4oやGemini 1.5 Proといった他LLMとの違いを実際のデモを通じて比較しながら、リアルな使用感をお届けする。
+主要LLMの最新情報をアップデートしたい読者は、是非視聴してみてほしい。
+
+ーーー
+LIVE配信の視聴をご希望の方は、下記より参加登録が必要になります。
+:::button
+{target=“_blank”}
+:::
+※ 既に参加登録済みの方には、別途メールにて視聴のご案内をさせていただきます。
+
+## 開催概要
+イベント名： 【追加企画】Ledge.ai EXPO 2024 summer  LIVE配信
+主催：株式会社レッジ
+URL：{target=“_blank”}
+配信形式：zoomウェビナー（LIVE）
+配信日時：2024年06月27日（木） 15:00〜15:30
+視聴には事前の参加登録（無料）が必要になります。</description><pubDate>Tue, 25 Jun 2024 13:36:46 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
 :::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
@@ -1143,42 +1176,7 @@ LLMを始めとするAI技術の発展・普及とともに、AIと人との関�
 
 :::box
 関連ページ：
-:::</description><pubDate>Tue, 30 Apr 2024 06:14:30 +0000</pubDate></item><item><title>Google の無料教材公開「Beyond the Prompt」「Prompting guide 101」生成AIの効果的な活用法やヒントを紹介</title><link>https://ledge.ai/articles/google_prompt_guide</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleは2024年4月19日、Google Workspaceユーザーを対象にした新しいブログシリーズ「{target=“_blank”}」を開始した。
-
-このシリーズは、生成AIを効果的に活用するためのヒントやコツ、提案を定期的に提供することを目的としている。Google Workspaceは元々、リアルタイムおよび非同期でのコラボレーションを核として構築されており、この新技術を取り入れることで、ユーザーの生産性、創造性、および作業の質をさらに高めることが期待されているという。
-
-このブログシリーズでは、特に効果的なプロンプトの作成方法にスポットライトが当てられている。プロンプトは、AI搭載アシスタントとの対話を始めるためのトリガーとして機能し、ペルソナ（Persona）、タスク（Task）、コンテキスト（Context）、フォーマット（Format）の4つの主要な要素を含めることが推奨されている。これらの要素を組み合わせることで、より具体的かつ効果的な応答を引き出すことが可能だ。
-
-具体例としては、Google Slidesで旅行ブログの記事に添える画像を生成するプロセスが紹介されている。ユーザーは「Create image with Gemini」というプロンプトを用いて、希望するシーンの画像を生成し、選んだ画像を直接スライドに挿入することができる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「Beyond the Prompt」は、Google Workspaceを使用している全ユーザーがGeminiの機能を最大限に活用し、より効果的に作業を進めるための支援を提供していくという。
-
-またGoogleは「{target=“_blank”}」という電子ブックも公開しており、プロンプトの基本から応用まで、多岐にわたる情報を45ページにわたって提供している。このガイドは、GeminiをはじめとするAIチャットボットの活用を促進し、具体的な業務に応用するための例文も含まれているとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Apr 2024 06:10:44 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
+:::</description><pubDate>Tue, 30 Apr 2024 06:14:30 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
