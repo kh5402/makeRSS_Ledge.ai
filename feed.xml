@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 25 Jun 2024 13:36:46 +0000</lastBuildDate><item><title>OpenAIが2社買収で企業向けAIサービス強化目指す：検索とデータ分析「Rockset」・Web会議ツール「Multi」</title><link>https://ledge.ai/articles/openai_acquires_rockset_and_multi</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 25 Jun 2024 13:36:46 +0000</lastBuildDate><item><title>鉄道会社では初　東京メトロが生成AIを活用した顧客対応システムを導入へ　忘れ物対応の効率も大幅にアップ</title><link>https://ledge.ai/articles/tokyometro_allganize_chatbot</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京メトロは2024年6月18日、Allganize Japanと提携し、生成AIを活用した新しいお客様対応システムの導入を{target=“_blank”}した。鉄道会社として初めての試みだというこのシステムは、2024年秋の導入を目指す。
+## 背景と目的
+東京メトロのお客様センターは、年間約25万件のお問い合わせに対応しており、その多くは電話、メール、チャットボットを通じて行われている。多様化するお客様のニーズに対応するため、従来のシステムでは限界が生じていた。これを受け、東京メトロはAllganizeの生成AI技術を活用することで、問い合わせ対応の効率化と利便性向上を図ることとなったという。
+
+## システムの概要
+### 1. 想定外の問いにチャットボットが回答を生成
+従来のチャットボットはFAQに基づく応答型であったが、生成AIを導入することで、公式Webサイトからの情報を基にした適切な回答を自動生成できるようになる。これにより、チャットボットで対応可能な問い合わせの範囲が拡大し、より迅速かつ的確な回答が可能となる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+### 2. 忘れ物に関する問い合わせの改善
+メールで忘れ物の問い合わせがあった場合、従来は複数回の確認が必要となるケースがあったが、生成AIを活用したチャットボットを導入することで、会話形式で必要な情報を収集し、確認の手間を軽減する。また、オペレーターの業務効率も向上し、より多くの問い合わせに迅速に対応できるようになるという。
+
+### 3. メール対応支援ソリューション
+生成AIを用いて、メールでの問い合わせ内容の把握、必要な情報の検索、回答案の生成を自動化する。これにより、オペレーターが手作業で行っていた業務を効率化し、多くの問い合わせに迅速に対応できるようになる。
+
+
+これらの取り組みには、LLMプラットフォーム開発企業「Allganize」の「Alli LLM App Market (ALAM)」が使用される。ALAMはOpenAIのGPTシリーズ、MicrosoftのAzure OpenAI、GoogleのGeminiシリーズなどから最適なモデルを選択し、特許取得中のRAG（検索拡張生成）技術を組み込んでいる。これにより、図表や手書きを含む文書の理解も可能となり、回答精度が向上するとのこと。
+
+@
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 25 Jun 2024 09:40:13 +0000</pubDate></item><item><title>OpenAIが2社買収で企業向けAIサービス強化目指す：検索とデータ分析「Rockset」・Web会議ツール「Multi」</title><link>https://ledge.ai/articles/openai_acquires_rockset_and_multi</link><description>:::small
 画像の出典：Rockset, Multi のサイトより編集
 :::
 
@@ -365,37 +405,7 @@ Web/アプリはもちろん、リアル/デジタルイベント、メタバー
 イベント名：Ledge.ai EXPO 2024 summer
 主催：株式会社レッジ
 URL：
-開催形式：オンライン（特設サイト）</description><pubDate>Thu, 20 Jun 2024 08:27:13 +0000</pubDate></item><item><title>プリファードネットワークス　1,000億パラメータの独自LLM「PLaMo-100B」の事前学習が完了　提供に向け着々</title><link>https://ledge.ai/articles/pfn_plamo_100b_pre-study_completed</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Preferred Networksの子会社であるPreferred Elements（以下PFE）は、2024年2月より1,000億パラメータ規模の大規模言語モデル（LLM）「PLaMo-100B」の開発を開始し、5月には事前学習を完了したと開発者のブログで{target=“_blank”}した。
-
-このプロジェクトは、経済産業省主導の生成AI開発プロジェクト「{target=“_blank”}」の一環として、NEDOの助成事業に採択され、計算資源の提供支援を受けて実施されている。
-
-PLaMo-100Bは、日本語と英語のテキストデータを合計2兆トークン学習し、公開データセットと独自に作成したデータを使用して開発された。特に日本語ベンチマークJGLUEで高精度を目指しており、PFEはデータ収集から事前学習までを自社で行うことで、LLMの品質と制御を確保しているという。
-
-### ベンチマーク評価結果
-PLaMo-100Bは、事前学習モデルと簡単に指示学習を行ったモデルで日本語評価としてJaster、英語評価としてMMLUの結果を以下のように示し、GPT-4 turboやSwallow-70bなどの他の大規模モデルと比較しても、高いスコアを達成しているとした。
-
-
-
-
-!
-:::small
-表の出典：{target=“_blank”}
-:::
-
-PFEは、現在進行中の指示学習やマルチモーダルモデルの開発、さらには1兆パラメータ規模のモデルの検証準備を進めている。この助成事業を通じて得られた成果は、安全性などを検証したうえで、1000億パラメータのモデルのウェイトやファインチューニング用コードを公開する予定で、日本国内のAI開発力の向上と技術の蓄積、イノベーションの促進に貢献していく。採択された研究開発は、2024年8月15日までの完了を予定している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 20 Jun 2024 05:58:12 +0000</pubDate></item><item><title>【6/27 15:00開始】 最新モデル「Claude 3.5 Sonnet」の実力に迫るLIVE配信をレッジが開催！GPT-4oやGemini 1.5 Proとの違いなど徹底解説</title><link>https://ledge.ai/articles/expo2024_claude3-5_sonnet_live</link><description>:::box
+開催形式：オンライン（特設サイト）</description><pubDate>Thu, 20 Jun 2024 08:27:13 +0000</pubDate></item><item><title>【6/27 15:00開始】 最新モデル「Claude 3.5 Sonnet」の実力に迫るLIVE配信をレッジが開催！GPT-4oやGemini 1.5 Proとの違いなど徹底解説</title><link>https://ledge.ai/articles/expo2024_claude3-5_sonnet_live</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している特設サイト「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
