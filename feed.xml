@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 24 Jun 2024 12:33:56 +0000</lastBuildDate><item><title>【ハッキング実演動画あり】標的は国内CMS構築サイトの82.7%　生成AI時代により増加？WordPressサイトの脆弱性</title><link>https://ledge.ai/articles/expo2024-interview-forez</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 25 Jun 2024 09:31:13 +0000</lastBuildDate><item><title>AwwがNVIDIAと提携しAI駆動のバーチャルヒューマンインフルエンサー「imma（イマ）」を強化</title><link>https://ledge.ai/articles/nvidia_aww_virtual_human_imma</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+バーチャルヒューマンを開発するAIテックのAww（アウ）は2024年6月17日、NVIDIAと技術提携を{target=“_blank”}した。この提携により、Awwは人気バーチャルヒューマン「imma（イマ）」の制作効率と品質を大幅に向上させることを目指している。
+
+Awwは、NVIDIAのACE（Audio2Face）技術やNIM（NVIDIA Inference Manager）を活用することで、バーチャルヒューマンのリアルタイムアニメーションや自然なリップシンクを実現する。この技術により、バーチャルヒューマンとのインタラクションがこれまで以上にリアルで自然なものになる。さらに、エンターテインメント、教育、カスタマーサービスなど、さまざまなビジネスシーンでの応用が期待できるという。
+
+Awwが独自に開発している大規模言語モデル（LLM）とNVIDIAの最先端技術を組み合わせることで、高性能なバーチャルヒューマンの短期間での量産が可能になる。これにより、提供スピードの大幅な向上が見込まれている。同社は、「制作プロセスの効率化による提供スピードの大幅な向上を目指している」と説明している。
+
+同社のバーチャルヒューマンインフルエンサー「imma」は、すでに世界中で150万人以上のフォロワーを持ち、Amazon、Coach、Porsche、IKEAなどのブランドと提携している。このimmaがAI駆動の新形態「AI imma」として生まれ変わったという。
+
+NVIDIAの創設者兼CEOであるジェンセン・ファン氏は
+「デジタルヒューマンは業界を革命する。マルチモーダル大規模言語モデルとニューラルグラフィックスのブレークスルーは、NVIDIA ACEによって私たちの開発者エコシステムにもたらされ、意図駆動型コンピューティングの未来に近づいている。コンピュータとの対話が人間との対話と同じくらい自然になる日が来るのだ。」
+と述べた。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 25 Jun 2024 09:31:13 +0000</pubDate></item><item><title>【ハッキング実演動画あり】標的は国内CMS構築サイトの82.7%　生成AI時代により増加？WordPressサイトの脆弱性</title><link>https://ledge.ai/articles/expo2024-interview-forez</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
@@ -383,28 +411,7 @@ Ilario CORNA氏は「オリンピックの独自性の為に様々なチャレ�
 ## イベントを通じて
 アリババクラウドの製品アップデートに関する情報はもちろんメインであったが、IOCやLVMHといった各界のトップランナーとのコラボレーション、また教育プログラムにおける様々な企業や教育機関との提携など非常に期待が持てる内容が公表されていた。
 特に教育に関して、AI専門家等の先端技術者育成は各国の課題であり関心事項でもあるが、アリババクラウドが各国との提携においてコンテンツやノウハウ、またリソースを提供することは社会的にも大きな貢献をし、拠点の拡大にも伴ってますます存在感を増していくだろう。
-そして開催直近となるパリオリンピックが、前回の東京と比較してどのようにアップデートされるのか、開催を楽しみに待ちたいと思う。</description><pubDate>Thu, 20 Jun 2024 07:01:42 +0000</pubDate></item><item><title>産総研と米IBM、次世代量子コンピューターの共同開発へ：性能75倍、日本産業界の活性化を目指す</title><link>https://ledge.ai/articles/aist_ibm_quantum_computer</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月17日、産業技術総合研究所（産総研）と米IBMは、量子技術の産業化に向けた連携を強化するための研究協力覚書（MOU）を5月10日に締結したことを{target=“_blank”}した。この連携により、両者は次世代量子コンピュータおよびそのサプライチェーンの開発を推進し、日本の産業界の活性化を目指す。
-
-協力により、量子ビット数が1万を超えることを目指しており、現行機の75倍以上の性能を持つことが期待されている。このプロジェクトは、日本の量子技術イノベーション戦略の一環として進められ、様々な分野での応用が期待されているという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 19 Jun 2024 07:42:21 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
+そして開催直近となるパリオリンピックが、前回の東京と比較してどのようにアップデートされるのか、開催を楽しみに待ちたいと思う。</description><pubDate>Thu, 20 Jun 2024 07:01:42 +0000</pubDate></item><item><title>NLP（自然言語処理)これまでの80年とこれからの20年（一部公開）</title><link>https://ledge.ai/articles/expo2024-interview-msd-short</link><description>
 :::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
