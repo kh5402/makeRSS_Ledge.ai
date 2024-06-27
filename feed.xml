@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 27 Jun 2024 00:58:09 +0000</lastBuildDate><item><title>AIとロボットは”相思相愛”　GMOインターネットグループが新会社“GMO AIR”設立を発表　松尾豊氏が顧問に就任</title><link>https://ledge.ai/articles/gmo_air</link><description>2024年6月18日、GMOインターネットグループは、AI（人工知能）とロボットの導入や活用を支援する新会社「GMO AI＆ロボティクス商事株式会社（略称：GMO AIR＝ジーエムオーエアー）」を設立したと記者会見で{target=“_blank”}した。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 27 Jun 2024 00:58:09 +0000</lastBuildDate><item><title>UberやNVIDIAも出資　カナダの自動運転スタートアップWaabiが2億ドルを調達　2025年に完全無人トラックの発売を目指す</title><link>https://ledge.ai/articles/waabi_reaches_200m_in_fully_automated_trucks</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+カナダの自動運転スタートアップWaabiは、2024年6月20日、シリーズBラウンドで2億ドル（約315億円）の資金調達を{target=“_blank”}した。この資金は、2025年に完全自動運転のトラックを市場に投入するために使用されるという。
+
+今回の資金調達には、UberやNVIDIA、Volvo Group Venture Capital、Porsche Automobil Holding SE、Scania Invest、Ingka Investmentsなどの著名な企業が参加している。これにより、Waabiの総資金調達額は2億8,000万ドルを超えた。
+
+Waabiの創業者兼CEOであるRaquel Urtasun氏は、ブログで次のように述べている。
+「3年前、私はこの素晴らしい技術を世界に紹介するためにWaabiを設立し、自動運転トラックに焦点を当てた。物流業界は供給チェーン全体で多くの非効率を抱えており、トラックドライバーの不足が迫っている。自動運転トラックはこれらの課題に対応し、資産利用率の向上、二酸化炭素排出量の削減、道路安全の改善、そしてトラックドライバーのキャリア展望と生活の質の向上に寄与する可能性がある」
+
+Waabiは、デジタルシミュレーター「Waabi World」を使用してAIシステムを訓練する独自のアプローチを採用している。このシステムは、高確率で失敗を引き起こすシナリオを効率的に生成し、全ての可能な失敗をカバーすることで、テスト効率を飛躍的に向上させているという。また、Waabi Worldが実世界のデータよりも豊富で情報量の多い例を作成することで、訓練とテストの時間を大幅に短縮し、コスト削減を可能にするとのこと。
+
+@
+
+
+
+UberのCEOであるDara Khosrowshahi氏は、「自動運転技術が輸送業界を変革し、より安全で持続可能な未来を実現する可能性を信じている」と述べ、NVIDIAの創業者兼CEOであるJensen Huang氏も、「Waabiの技術は物理世界に最先端の生成AIを適用することで自動運転トラックを開発している」としてWaabiのビジョンを支持している。
+
+また、WaabiはUber Freightとの提携により、フォーチュン500企業や一流の荷主に対して自動運転の出荷を提供することを目指しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 26 Jun 2024 12:42:30 +0000</pubDate></item><item><title>AIとロボットは”相思相愛”　GMOインターネットグループが新会社“GMO AIR”設立を発表　松尾豊氏が顧問に就任</title><link>https://ledge.ai/articles/gmo_air</link><description>2024年6月18日、GMOインターネットグループは、AI（人工知能）とロボットの導入や活用を支援する新会社「GMO AI＆ロボティクス商事株式会社（略称：GMO AIR＝ジーエムオーエアー）」を設立したと記者会見で{target=“_blank”}した。
 
 ## AIとロボットは“相思相愛”の関係にある
 
@@ -399,41 +427,7 @@ Perplexity Proでは、GPT-4oやClaude3などの複数の高度な大規模言�
 :::box
 
 :::
-</description><pubDate>Mon, 24 Jun 2024 05:54:23 +0000</pubDate></item><item><title>元OpenAIのサツケバー氏、新AI企業「セーフ・スーパーインテリジェンス」設立を発表 - 安全な超知能を目指す</title><link>https://ledge.ai/articles/ilya_started_ssi_inc</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIの共同創設者であり元チーフサイエンティストのイリヤ・サツケバー氏が現地時間の2024年6月19日、新たなAI企業「Safe Superintelligence Inc.（SSI）」の設立を{target=“_blank”}した。
-## SSIの目的とビジョン
-SSIは「安全な超知能」の構築を唯一の目標とし、この目標達成のために全力を注ぐ企業である。同社は、安全性と能力の向上を同時に追求し、革命的なエンジニアリングと科学的突破によって技術的な問題を解決することを目指している。サツケバー氏は「安全性を常に最優先にしながら、可能な限り迅速に機能を進化させる予定だ。こうすることで、安心して規模を拡大することができる」と述べている​。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 背景と新しい取り組み
-サツケバー氏は、OpenAIでヤン・ライケ氏と共に「Superalignment」チームを統括し、人間より賢いAIの制御を目指していたが、AIの安全性への取り組み方を巡って幹部と対立し、2024年5月に退社した。{target=“_blank”}し、現在はOpenAIの競合企業であるAnthropicに入社している。
-## SSIの特徴と目標
-SSIは、カリフォルニア州パロアルトとイスラエルのテルアビブに拠点を構え、世界中からトップクラスのエンジニアや研究者を集めることを目指している。サツケバー氏の他、OpenAIを6月に退社したダニエル・レヴィ氏と、米Y CombinatorでAIプログラムを立ち上げた起業家であるダニエル・グロス氏が名を連ねている​。
-
-新会社SSIは、安全性、セキュリティ、進歩を短期的な商業的プレッシャーから隔離するビジネスモデルを採用し、管理費や製品サイクルに気を取られることなく、超知能の安全な開発に集中することを目指すとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 23 Jun 2024 06:32:52 +0000</pubDate></item><item><title>【6/27 15:00開始】 最新モデル「Claude 3.5 Sonnet」の実力に迫るLIVE配信をレッジが開催！GPT-4oやGemini 1.5 Proとの違いなど徹底解説</title><link>https://ledge.ai/articles/expo2024_claude3-5_sonnet_live</link><description>:::box
+</description><pubDate>Mon, 24 Jun 2024 05:54:23 +0000</pubDate></item><item><title>【6/27 15:00開始】 最新モデル「Claude 3.5 Sonnet」の実力に迫るLIVE配信をレッジが開催！GPT-4oやGemini 1.5 Proとの違いなど徹底解説</title><link>https://ledge.ai/articles/expo2024_claude3-5_sonnet_live</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している特設サイト「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
