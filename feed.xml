@@ -1,5 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 25 Jun 2024 13:36:46 +0000</lastBuildDate><item><title>NappsTechnologies　月960円からのAI社員採用プラットフォーム「ナッピーワークス」リニューアルオープンを発表</title><link>https://ledge.ai/articles/napps_technologies_aishain</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 26 Jun 2024 12:47:29 +0000</lastBuildDate><item><title>生成AI導入1年「労働時間を18.6万時間削減」パナソニックコネクト </title><link>https://ledge.ai/articles/panasonic_connect_genai_reduced_working_hours_by_186000h</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+パナソニック コネクトは2024年6月25日、OpenAIの大規模言語モデルをベースに開発した自社向けAIアシスタントサービス「ConnectAI」の2023年6月～2024年5月までの活用実績と今後の活用構想を{target=“_blank”}した。
+
+## 1年間の活用実績
+2023年2月より同社は、ChatGPTを基盤とする「ConnectAI」を国内全社員約12,400人に展開した。導入目的は、生成AIによる業務生産性向上、社員のAIスキル向上、シャドーAI利用リスクの軽減だ。
+
+### 労働時間削減の成果
+社員の回答をもとに、1回あたり平均約20分の労働時間を削減できたことが確認され、年間で延べ18.6万時間の削減を達成した。具体的な利用例として、検索エンジン代わりの単純な質問から、戦略策定の基礎データ作成に至るまで幅広い。
+### 生成AI導入目標の達成
+**業務生産性向上：** 全社員で18.6万時間の労働時間削減。12ヶ月間のアクセス回数は1,396,639回、直近3か月の利用回数は前年同期間比で41％増。
+**社員のAIスキル向上：** 戦略策定や商品企画など1時間以上の生産性向上に繋がる利用が増加。製造業特有の素材や製造工程に関する質問も増加。
+**シャドーAI利用リスクの軽減：** 16か月間で情報漏洩や著作権侵害の問題は発生せず。
+## AIプロンプト添削機能の追加
+2024年6月17日より、社員がConnectAIに的確なプロンプトを入力できるよう、プロンプト添削機能を追加した。これにより、さらに迅速で正確な回答が得られるようになり、生産性の向上が期待できるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 自社特化AIの実用化
+2023年9月に、自社固有の公開情報を基に回答する「自社特化AI」の試験運用を全社員対象に実施し、一定の精度で回答できることを確認した。その結果、2024年4月からは社外秘情報である品質管理にも対応するAIを導入。品質管理規定や過去の事例に基づく質問が可能になり、回答の引用元を表示する機能も実装された。
+## 品質管理における課題と今後の展望
+製造業における品質管理の課題には、経験者のノウハウに依存する情報の共有の難しさや、事例の検索と精査に時間がかかることがある。ConnectAIはこれらの課題を解決するため、社内の品質管理規定や過去の事例を参照できる機能を提供し、社員から高評価を得ている。
+
+今後は、自社データの整備を進め、「パナソニック コネクトコーパス」を構築し、生成AIの精度向上を図る。品質管理以外にも、人事の研修サポートや社内ITサポート、カスタマーセンターなどの業務にも活用範囲を拡大していく。また、個人の職種や権限に応じた「個人特化AI」の導入も検討しているとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 26 Jun 2024 03:58:45 +0000</pubDate></item><item><title>国産LLMがビッグ・テックを猛追！　ELYZAの最新モデルLLMが日本語性能で「GPT-4」を超える性能を達成</title><link>https://ledge.ai/articles/elyza_llm_for_jp_llama3_elyza_jp_70b-8b</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東大松尾研究室発のスタートアップELYZAは2024年6月26日、日本語に特化した大規模言語モデル（LLM）「ELYZA LLM for JP」シリーズの最新モデルを{target=“_blank”}した。
+
+新たに公開された「Llama-3-ELYZA-JP-70B」と「Llama-3-ELYZA-JP-8B」は、Meta社の「Llama 3」をベースに開発され、700億パラメータのモデルは、日本語性能において「GPT-4」を上回る性能を達成したとのこと。
+## Llama-3-ELYZA-JP-70B
+「Llama-3-ELYZA-JP-70B」は、Meta社の「Llama-3-70B」を基に日本語追加事前学習・指示学習を施したモデルだ。このモデルは、国内外のベンチマークテストで「GPT-4」や「Claude 3 Sonnet」を上回る性能を示しているという。ELYZAは、この高性能モデルを企業向けに提供する予定で、安全なAPIサービスや共同開発プロジェクトとして順次提供を開始するとのこと。
+
+無料で利用可能なチャット形式の{target=“_blank”}も用意されており、利用者はその性能を体験できる。
+## Llama-3-ELYZA-JP-8B
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「Llama-3-ELYZA-JP-8B」は、Meta社の「Llama-3-8B」を基に開発された軽量モデルだ。このモデルも日本語追加事前学習・指示学習を行い、日本語性能を向上させた結果、「GPT-3.5 Turbo」や「Claude 3 Haiku」に匹敵する性能を実現しているという。ELYZAは、このモデルを{target=“_blank”}
+しており、LLAMA 3 COMMUNITY LICENSEに準拠して研究や商業利用が可能な形になっているという。
+
+## ELYZAの取り組みと目標
+ELYZAは、日本語のLLMに特化した研究開発を継続しており、企業との共同研究やクラウドサービスの開発を通じて、LLMの社会実装と研究開発の発展を支援する。今後も「Llama」シリーズをはじめとしたオープンなモデルの日本語化や独自のLLMの開発に投資を続け、国内におけるLLMの社会実装と研究開発の支援に努める方針だという。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 26 Jun 2024 12:47:29 +0000</pubDate></item><item><title>NappsTechnologies　月960円からのAI社員採用プラットフォーム「ナッピーワークス」リニューアルオープンを発表</title><link>https://ledge.ai/articles/napps_technologies_aishain</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -326,71 +409,7 @@ AIデジタルヒューマンプロジェクト運営事務局の発表による
 :::box
 
 :::
-</description><pubDate>Thu, 20 Jun 2024 09:52:48 +0000</pubDate></item><item><title>Sora以後、動画生成AIモデルのリリース続く　Runwayも「Gen-3 Alpha」を発表</title><link>https://ledge.ai/articles/runway_gen-3alpha</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月17日、AI開発企業のRunwayが、最新の動画生成AIモデル「Gen-3 Alpha」を{target=“_blank”}した。このモデルは、大規模なマルチモーダル学習のために構築された新しいインフラストラクチャ上でトレーニングされており、前モデル「Gen-2」から大幅に向上しているという。特に、映像の忠実度、一貫性、動きにおいて大きく進歩し、同社の目指す「General World Models」の構築に向けた一歩となるとのこと。
-
-新モデルGen-3 Alphaは、動画と画像の両方を用いてトレーニングされており、RunwayのText to Video、Image to Video、Text to Imageツールを強化する。また同モデルには、モーションブラシや高度なカメラコントロール機能が搭載されており、ユーザーはクリエイティブな出力を細かく調整できるという。さらに、改良されたビジュアルモデレーションシステムや、デジタルコンテンツの信ぴょう性を証明する「C2PA標準」などの安全対策も備える。
-
-同社は、Gen-3モデルファミリーの一員であるGen-3 Alphaのカスタムバージョンも、大手エンターテインメント企業やメディア組織と協力して開発中であると述べた。これにより、特定の芸術的および物語的な要件に応じた一貫性のあるキャラクター生成が可能となるという。
-
-Gen-3 Alphaは、数日以内に一般ユーザーが利用できるようになる予定とされている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 21 Jun 2024 08:33:26 +0000</pubDate></item><item><title>スピードは2倍、視覚も “Opus越え”　Anthropicが生成AI基盤モデル「Claude3.5 Sonnet」を発表</title><link>https://ledge.ai/articles/anthropic_claude3-5_sonnet</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Anthropicは2024年6月21日、新しいAIモデル「Claude 3.5 Sonnet」を{target=“_blank”}した。Claude 3.5モデルファミリーの最初のリリースで、業界標準を引き上げる性能を持つ。Claude 3.5 Sonnetは、他の競合モデルおよび前モデルであるClaude 3 Opusを上回る広範な評価で優れた成績を示しているという。
-
-無料でClaude.aiおよびClaudeのiOSアプリでの利用が可能で、Claude ProおよびTeamプランの加入者は、より高いレート制限でアクセスできる。さらに、Anthropic API、Amazon Bedrock、およびGoogle CloudのVertex AIを通じても利用でき、コストは入力トークン100万あたり3ドル、出力トークン100万あたり15ドル、200Kトークンのコンテキストウィンドウを備えているという。
-
-## スピードはOpusの2倍　最先端のインテリジェンスを実現
-Claude 3.5 Sonnetは、大学院レベルの推論（GPQA）、学士レベルの知識（MMLU）、およびコーディングの熟達度（HumanEval）において新たな業界ベンチマークを設定した。特に、ニュアンスの理解、ユーモア、複雑な指示への対応力において顕著な向上を見せ、高品質なコンテンツを自然で親しみやすいトーンで執筆する能力に優れている。
-
-このモデルは、Claude 3 Opusの2倍の速度で動作し、コストパフォーマンスに優れているため、コンテキストに敏感な顧客サポートや多段階のワークフローの調整といった複雑なタスクに最適だという。内部エージェントコーディング評価では、Claude 3.5 Sonnetは64％の問題を解決し、38％の解決率であったClaude 3 Opusを上回った。この評価は、自然言語で記述された改善指示に基づいてバグを修正したり、新機能を追加する能力をテストするもの。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 視覚処理能力の向上
-Claude 3.5 Sonnetは、視覚的推論を要するタスク（例：チャートやグラフの解釈）において顕著な改善を見せ、標準的なビジョン ベンチマークではClaude 3 Opusを上回る性能を発揮している。特に、不完全な画像からのテキストの正確な転写が可能で、小売業、物流、金融サービスなどの分野で有用な能力を持つとのこと。
-
-
-@
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 21 Jun 2024 07:18:29 +0000</pubDate></item><item><title>【6/27 15:00開始】 最新モデル「Claude 3.5 Sonnet」の実力に迫るLIVE配信をレッジが開催！GPT-4oやGemini 1.5 Proとの違いなど徹底解説</title><link>https://ledge.ai/articles/expo2024_claude3-5_sonnet_live</link><description>:::box
+</description><pubDate>Thu, 20 Jun 2024 09:52:48 +0000</pubDate></item><item><title>【6/27 15:00開始】 最新モデル「Claude 3.5 Sonnet」の実力に迫るLIVE配信をレッジが開催！GPT-4oやGemini 1.5 Proとの違いなど徹底解説</title><link>https://ledge.ai/articles/expo2024_claude3-5_sonnet_live</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している特設サイト「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容について紹介するものである。
 :::
 
