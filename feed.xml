@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 27 Jun 2024 00:58:09 +0000</lastBuildDate><item><title>UberやNVIDIAも出資　カナダの自動運転スタートアップWaabiが2億ドルを調達　2025年に完全無人トラックの発売を目指す</title><link>https://ledge.ai/articles/waabi_reaches_200m_in_fully_automated_trucks</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 27 Jun 2024 11:34:00 +0000</lastBuildDate><item><title>UberやNVIDIAも出資　カナダの自動運転スタートアップWaabiが2億ドルを調達　2025年に完全無人トラックの発売を目指す</title><link>https://ledge.ai/articles/waabi_reaches_200m_in_fully_automated_trucks</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1586,7 +1586,41 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>メタの新技術「AudioSeal」がAI音声詐欺防止に貢献</title><link>https://ledge.ai/articles/meta_audio_seal</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>NTT　世界初、ハイスピードカメラとAIによる高精細な「音の見える化」を実現</title><link>https://ledge.ai/articles/ntt_sound_digital_twin</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NTTは2024年6月17日、ハイスピードカメラとAI処理を組み合わせた技術で音の波を高精細に「見える化」する技術を世界で初めて開発したと{target=“_blank”}した。この技術は、音の物理特性を考慮した独自の深層学習モデルを用いることで、ノイズを除去し高感度に音場を捉えることが可能だという。
+
+NTTは、音響デバイスの設計や音に関わる現象の理解、さらには将来的な「音のデジタルツイン」実現への貢献が期待されるとしている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## 技術の背景と成果
+音は空気の圧力変動として伝わり、これを見える化する試みはこれまで困難であった。NTTでは光学的音場イメージング技術を用い、音を高感度に検出することに成功した。従来のマイクロホンアレイと比較して約100倍の空間分解能を持つこの技術は、レーザー光とハイスピードカメラを用いて音波を動画像として捉えるものである。
+
+## 独自の深層学習モデルによるノイズ除去
+今回の成果では、ハイスピードカメラで撮影されたノイズを含む画像から、音波成分のみを抽出するニューラルネットワークを適用することで高精細な音の画像化を実現した。特に、独自の深層学習モデルを用いることで、音の物理的な性質に基づいたノイズ除去を行い、従来技術を大幅に上回る精度を達成している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+NTTはIOWN構想の中でデジタルツインコンピューティングを提唱し、その研究開発を進めている。今回の技術を活用して「音のデジタルツイン」技術の実現を目指している。これは、空間に存在する音を完全にデジタル化することで、音環境の最適化を図るものである。NTTは今後も、心地よい音環境の創出に向けて研究を進めるとともに、音響デバイスの開発や騒音評価など多方面への応用を目指すとしている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 27 Jun 2024 11:34:00 +0000</pubDate></item><item><title>メタの新技術「AudioSeal」がAI音声詐欺防止に貢献</title><link>https://ledge.ai/articles/meta_audio_seal</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1939,46 +1973,7 @@ LORISはNASAとの共同プロジェクトの一環として開発されてお�
 :::box
 
 :::
-</description><pubDate>Fri, 07 Jun 2024 05:56:41 +0000</pubDate></item><item><title>AnthropicがAIの「ブラックボックス」の一部解明に成功</title><link>https://ledge.ai/articles/anthropic_successfully_decrypts_ais_black_box</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-「Claude3」の開発企業 Anthropicは2024年5月21日、AIの「ブラックボックス」を解読することに初めて成功したと{target=“_blank”}した。この研究成果は、AIの内部作動原理を理解し、安全で信頼性の高いAIの開発に向けた重要な一歩となる。
-
-2024年5月21日、AIモデルの内部構造に関する重要な進展が報告された。Anthropicの研究者は、大規模言語モデル「Claude Sonnet」内部の数百万の概念がどのように表現されているかを特定した。これは現代の実用的な大規模言語モデルの内部を詳細に解析した初めての試みであり、この解釈可能性の発見は将来的にAIモデルをより安全にする助けとなる可能性がある。
-
-
-Anthropicは、同社のLLM Claude3シリーズの1つである「Claude Sonnet」を用いて「ディクショナリーランニング」という技法を駆使し、AIの内部で数百万個の「特徴」を抽出・概念化した。これにより、AIがどのように情報を処理し、概念を内部で組織化しているかを明らかにした​。
-
-@
-
-
-## AIの「ブラックボックス」とは？
-これまで、AIの作動原理は「ブラックボックス」と呼ばれてきた。これは、AIがどのようにして特定の回答にたどり着くのかが開発者にも理解できないためである。しかし、このたびの研究により、このブラックボックスの一部が解明され、AIの思考過程の一端が明らかになったと同社は述べる。
-## 研究の具体的成果
-研究の一例を挙げると、研究チームは、Claude Sonnet 内部の「ゴールデンゲートブリッジ」という単語に関連する特徴を解析した。その結果、関連する他の概念（アルカトラズ島、カリフォルニア州知事、ヒッチコック映画『めまい』など）が活性化することが確認されたという​。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-さらに、これらの特徴を人工的に増幅または抑制することで、AIの生成結果を変えることができることが示された。例えば「ゴールデンゲートブリッジ」に対するバイアスを強めると、Claude Sonnet は「私はゴールデンゲートブリッジだ」と答えるようになるという。この技術により、AIの生成するテキストの内容を操作し、より安全でバイアスの少ない結果を得ることが期待される​とした。
-
-## 研究の重要性と今後の展望
-研究チームは、この研究成果が、AIのハルシネーション（幻覚）やバイアスの問題を減らす可能性があり、特に医療や金融、司法などの重要な分野でのAIの安全性と信頼性向上に寄与するという。同社はさらにこの研究がAIの解釈性を高め、より透明で説明可能なシステムの開発に繋がることを目指すとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 31 May 2024 12:45:51 +0000</pubDate></item><item><title>デジタル庁、テキスト生成AIのリスク対策ガイドブック（α版）を公開</title><link>https://ledge.ai/articles/digital_agency_genai_guidebook</link><description>:::small
+</description><pubDate>Fri, 07 Jun 2024 05:56:41 +0000</pubDate></item><item><title>デジタル庁、テキスト生成AIのリスク対策ガイドブック（α版）を公開</title><link>https://ledge.ai/articles/digital_agency_genai_guidebook</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
