@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 27 Jun 2024 11:34:00 +0000</lastBuildDate><item><title>UberやNVIDIAも出資　カナダの自動運転スタートアップWaabiが2億ドルを調達　2025年に完全無人トラックの発売を目指す</title><link>https://ledge.ai/articles/waabi_reaches_200m_in_fully_automated_trucks</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 27 Jun 2024 11:40:27 +0000</lastBuildDate><item><title>UberやNVIDIAも出資　カナダの自動運転スタートアップWaabiが2億ドルを調達　2025年に完全無人トラックの発売を目指す</title><link>https://ledge.ai/articles/waabi_reaches_200m_in_fully_automated_trucks</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1973,7 +1973,39 @@ LORISはNASAとの共同プロジェクトの一環として開発されてお�
 :::box
 
 :::
-</description><pubDate>Fri, 07 Jun 2024 05:56:41 +0000</pubDate></item><item><title>デジタル庁、テキスト生成AIのリスク対策ガイドブック（α版）を公開</title><link>https://ledge.ai/articles/digital_agency_genai_guidebook</link><description>:::small
+</description><pubDate>Fri, 07 Jun 2024 05:56:41 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+総務省は自動運転車両の実証実験に必要な電波基地局の設置に関する行政手続きを短縮する方針だと2024年6月23日に{target=“_blank”}が報じている。
+
+従来は半年程度かかっていたこの手続きを数週間に短縮することを目指しており、2025年度から新しい制度の運用を開始する予定とのこと。この動きは、特定の条件下で運転手が操作をしない「レベル4」の自動運転車両の普及を促進するためのものだという。
+
+従来、実験用基地局を設置する際には、同じ周波数帯を使用する放送事業者との電波干渉を確認する必要があり、この手続きが長期化する要因となっていた。新制度では、この確認手続きを簡略化し、迅速に基地局の設置を進められるようにするとのこと。
+
+下図の資料は「中間とりまとめ骨子（案）」より、①5.9GHz帯V2X通信システムの実用化に向けた方策から抜粋したもの。6月6日開催の会議「自動運転時代の“次世代のITS通信”研究会（第8回）」にて{target=“_blank”}されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+
+</description><pubDate>Thu, 27 Jun 2024 11:40:27 +0000</pubDate></item><item><title>デジタル庁、テキスト生成AIのリスク対策ガイドブック（α版）を公開</title><link>https://ledge.ai/articles/digital_agency_genai_guidebook</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2346,46 +2378,7 @@ AIスタートアップの経営経験を活かし、革新的な産業を育成
 :::box
 
 :::
-</description><pubDate>Thu, 06 Jun 2024 06:03:41 +0000</pubDate></item><item><title>日本政府 AIや核融合発電など先端技術への投資拡大「統合イノベーション戦略2024」発表</title><link>https://ledge.ai/articles/integrated_innovation_strategy2024_jp_gov</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月3日、日本政府は「統合イノベーション戦略2024」を{target=“_blank”}した。この戦略は、先端技術の開発と支援、国際ルール策定の主導、AI分野の研究開発強化と安全確保を3本柱としている。
-
-統合イノベーション戦略2024は、日本が科学技術とイノベーションを通じて経済成長と社会課題の解決を目指すものである。具体的には、AIや核融合発電といった先端技術への投資を拡大し、国際ルール作りを主導することが国際競争力の向上に不可欠だと強調している。この戦略は総合科学技術・イノベーション会議で決定され、近く閣議決定される見込みだ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-戦略の背景には、過去数十年間に民間企業の研究開発投資が相対的に低下したことがある。しかし、2024年度の企業の設備投資は約105兆円に達し、バブル期以来の最高水準を更新する見込みだ。これを経済成長に繋げるため、AIの活用推進や若手研究者の育成が必要とされている。
-
-AI分野では、生成AIによる誤情報や偽情報の拡散について、表現の自由に配慮しつつ国際的な連携を強化する方針が示された。日本もEUのAI規制法に倣い、具体的な法規制の検討に着手する予定だ。
-
-核融合技術も戦略の重要な柱とされており、核融合発電を次世代のクリーンエネルギーとして早期実現を目指す。政府は、発電の産業化に備えて安全確保や規制の基本方針を定める予定だ。
-
-さらに、バイオテクノロジー分野では、循環型社会の実現に向けてバイオマス関連市場の拡大を目指し、産官学の連携を推進する。国際競争力を高めるため、主要7カ国（G7）や東南アジア諸国連合（ASEAN）との協力を強化し、2025年春までに「国家標準戦略」をまとめる計画である。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-研究開発の強化や人材育成は、10兆円規模の大学ファンドを活用して支援される。国際卓越研究大学の認定を通じ、世界トップレベルの研究水準を目指すとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 06 Jun 2024 02:29:01 +0000</pubDate></item><item><title>AI音楽生成サービスSunoとUdioを著作権侵害で提訴　ユニバーサル、ソニー、ワーナー含む大手音楽企業</title><link>https://ledge.ai/articles/suno_and_udio_sued_for_copyright_infringement</link><description>:::small
+</description><pubDate>Thu, 06 Jun 2024 06:03:41 +0000</pubDate></item><item><title>AI音楽生成サービスSunoとUdioを著作権侵害で提訴　ユニバーサル、ソニー、ワーナー含む大手音楽企業</title><link>https://ledge.ai/articles/suno_and_udio_sued_for_copyright_infringement</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
