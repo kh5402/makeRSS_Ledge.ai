@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 27 Jun 2024 15:26:08 +0000</lastBuildDate><item><title>OpenAIとTIME、101年のアーカイブを活用した戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/openai_time_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 28 Jun 2024 06:37:53 +0000</lastBuildDate><item><title>OpenAIとTIME、101年のアーカイブを活用した戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/openai_time_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1450,7 +1450,37 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>中国のAIスタートアップ「跨維智能（DexForce）」エンボディド(身体性)AIとSim2Real技術でロボット操作をトレーニング</title><link>https://ledge.ai/articles/dexforce_enbodied_ai_sim2real</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>ロボットに生きた皮膚を密着させる技術　東京大学研究チームが開発　ソフトロボット・美容整形医療にも</title><link>https://ledge.ai/articles/tokyo_univ_robots_with_bio_skin</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京大学の研究チームが2024年6月26日、人の皮膚細胞から作製した“培養皮膚”を利用し、細胞由来の生きた皮膚を持つ顔型のロボットを開発したことを{target=“_blank”}した。
+
+研究は東京大学大学院情報理工学系研究科の竹内昌治教授と河井理雄（現ハーバード大学博士課程）らが中心となって行われた。培養皮膚を利用し、細胞由来の生きた皮膚を持つ顔型ロボットの開発を実現した。
+
+人間の皮膚支帯構造から着想を得、生体組織と人工物とを接着する手法を考案、スムーズに接着された顔型のロボットは笑顔を作ることも可能だという。同技術は、生体機能を有するソフトロボットの活用の他、美容・整形医療分野での応用も期待できるとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+従来、ロボットはシリコンゴムで覆われることで人間らしい外見を持たせていたが、自己修復やセンシング、発汗などの機能が欠けていた。これに対し、研究チームは培養皮膚をロボットの皮膚として活用することで、人間らしい機能を持つロボットの開発に取り組んだとのこと。
+
+皮膚支帯構造に着想を得た「穴型アンカー構造」を開発し、人工物に培養皮膚をスムーズに固定する手法を確立した。実験では、3D顔型模型に生体皮膚を密着させることに成功し、皮膚の収縮を抑制する効果が確認された。また、ロボットの顔に表情を持たせるために、シリコン層を用いたスライド機構を組み合わせ、自然な笑顔を表現できることも示されたという。
+
+今回の研究成果は、人型ロボットの開発にとどまらず、美容・整形医療分野への応用にも期待できるとのこと。シワの形成メカニズムの理解や表情の生理学の解明、化粧品開発や薬剤効能解析のモデルとしても活用が見込まれている。
+
+環境に優しい素材でできたソフトロボットの開発に加え、移植素材としての医療分野や生体素材を用いた人工物の製造分野にも貢献することが期待されているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 28 Jun 2024 06:37:53 +0000</pubDate></item><item><title>中国のAIスタートアップ「跨維智能（DexForce）」エンボディド(身体性)AIとSim2Real技術でロボット操作をトレーニング</title><link>https://ledge.ai/articles/dexforce_enbodied_ai_sim2real</link><description>:::small
 画像の出典：DexForce
 :::
 
@@ -1794,45 +1824,7 @@ LORISはNASAとの共同プロジェクトの一環として開発されてお�
 :::box
 
 :::
-</description><pubDate>Sun, 09 Jun 2024 15:18:08 +0000</pubDate></item><item><title>ソクラテスに人生相談？生成AIで西洋古典学に新たな風「ヒューマニテクスト」名古屋大などの研究チームが開発　一般公開予定</title><link>https://ledge.ai/articles/humanitext</link><description>:::small
-画像の出典：[Dall-E3により ledge.ai が生成
-:::
-
-名古屋大学、桜美林大学、国立情報学研究所（NII）で構成される研究チームが2024年5月30日、生成AI技術を用いた西洋古典学の研究と教育に新たなアプローチを提供するシステム「ヒューマニテクスト」（Humanitext Antiqua）を開発したと{target=“_blank”}した。このシステムは、6月1-2日開催の日本西洋古典学会で限定公開された。今後は一般に向けて公開予定とのこと。
-
-ヒューマニテクストは、西洋古典原典のデータベースを再整備し、生成内容の出典情報をユーザーが常に参照できる信頼性の高い専門的解釈システムを構築したもの。このような試みは国内外でも初めてであり、言葉の意味を基にした文脈探索が可能となることで、専門外の人々も興味に合わせて文学・歴史・哲学の原典を気軽に参照できるようになるという。
-
-研究チームは、生成AI技術の活用により、西洋古典学の研究と教育において、新たなアプローチを提供することを目指している。特に、偽情報生成問題に対処するため、学術的水準を保った回答を出力するシステムを開発し、生成内容の出典を確認できる機能も搭載しているとのこと。
-
-ヒューマニテクストの具体的な機能としては、「著者および著作選択機能」「出力カスタマイズ機能」「典拠確認機能」などが挙げられる。ユーザーは、自由に設定して著者および著作の範囲で文脈探索を行うことができ、出力カスタマイズ機能を用いて、回答に用いる文脈数や創造性を調整することが可能である。また、典拠確認機能により、出力された回答に用いられた典拠を一覧で表示し、簡単に原典テクストを確認できる。
-
-ヒューマニテクストのX（旧Twitter）{target=“_blank”}では、同システムの多様な使用例が紹介されている。
-
-たとえば、ローマ皇帝マルクス・アウレリウスに「あなたの著書をAmazonで発売したらどのように評価されると思いますか？5点満点で何点つくか予想してください」などと問いかけることができる。回答は以下の通りだ。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-そのほかにも、死の恐怖を克服するにはどうしたらよいか？古代ローマの給与体系はどのようなものだったか？など、自由な質問が飛び交っている。一般公開が楽しみになってくる対話がたくさん綴られている。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 07 Jun 2024 10:38:00 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
+</description><pubDate>Sun, 09 Jun 2024 15:18:08 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
