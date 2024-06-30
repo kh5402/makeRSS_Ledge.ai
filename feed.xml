@@ -2212,7 +2212,28 @@ AIスタートアップの経営経験を活かし、革新的な産業を育成
 :::box
 
 :::
-</description><pubDate>Thu, 06 Jun 2024 06:03:41 +0000</pubDate></item><item><title>Google DeepMindが動画に合うBGMや効果音を生成するAI「Video to Audio」を発表</title><link>https://ledge.ai/articles/google_deepmind_v2a</link><description>:::small
+</description><pubDate>Thu, 06 Jun 2024 06:03:41 +0000</pubDate></item><item><title>KRAFTON JAPAN　GPT-4o搭載の推理アドベンチャーゲーム『Uncover the Smoking Gun』を正式リリース</title><link>https://ledge.ai/articles/uncover_the_smoking_gun</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月25日、KRAFTON JAPAN株式会社は、AI技術を搭載した推理アドベンチャーゲーム『Uncover the Smoking Gun』をリリースしたと{target=“_blank”}した。
+
+『Uncover the Smoking Gun』は、KRAFTON JAPAN傘下のクリエイティブスタジオ「ReLU Games」が制作した、ロボットと人間が共存する近未来を舞台にした没入型推理アドベンチャーゲームだ。プレイヤーがAI専門の探偵となり、事件の手がかりを追いながら、容疑者であるロボットに対してチャットで尋問していく。
+
+OpenAIがリリースした「GPT-4o」を搭載しており、容疑者のロボットは単純に質問に回答するだけではなく、プレイヤーの性格に合わせた口調で、まるで実際に人とチャットで会話しているような感覚で楽しめるという。ロボットの曖昧な証言を見極め、真実にたどり着くために鋭い質問を投げかけながら、事件解決を目指す没入型の推理ゲーム。
+
+『Uncover the Smoking Gun』は、現在Steamでダウンロード可能。日本語、韓国語、英語、中国語など全8言語に対応しており、詳細はSteamページおよびReLU Games公式サイトで確認できる。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 27 Jun 2024 03:57:02 +0000</pubDate></item><item><title>Google DeepMindが動画に合うBGMや効果音を生成するAI「Video to Audio」を発表</title><link>https://ledge.ai/articles/google_deepmind_v2a</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2625,69 +2646,4 @@ YouTubeが提供する音楽配信サービス「YouTube Music」のAndroidア�
 :::box
 
 :::
-</description><pubDate>Thu, 30 May 2024 10:41:34 +0000</pubDate></item><item><title>GPT-4o「Sky」の声がスカーレット・ヨハンソンのものだとする問題　米俳優組合はスカーレットを支持、OpenAIは彼女の模倣ではない根拠を説明</title><link>https://ledge.ai/articles/sag_aftra_statement_regarding_scarlett_johansson_and_openai_sky</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-## SAG-AFTRA、スカーレット・ヨハンソンとGPT-4o「Sky」に関する声明
-米国の俳優組合（SAG-AFTRA）は2024年5月21日、会員の声と肖像に関し、無断でデジタルレプリカが作成されることを防ぐための連邦法案を推進すると{target=“_blank”}した。
-
-SAG-AFTRAは声明で「スカーレット・ヨハンソン氏がこの重要な問題について声を上げてくれたことに感謝している。彼女の懸念を共有し、ChatGPT-4oアプライアンス『Sky』の開発に使用された声についての明確さと透明性を求める彼女の権利を全面的に支持する」と述べた。また、SAG-AFTRAは、会員の声と肖像だけでなく、全ての人々を無断複製から保護する連邦法案の必要性を強調した。
-
-また、OpenAIがこの問題に対して対応し、『Sky』の使用を一時停止することを決定したことに満足していると述べ、今後も透明で堅牢な保護を確立するために他の業界関係者と協力していく意向を示している。
-
-## OpenAI、ChatGPTの声選定に関する詳細を発表
-2024年5月19日、OpenAIは、ChatGPTの音声機能の選定プロセスに関する詳細を{target=“_blank”}した。5つの音声は、業界をリードするキャスティングおよびディレクティングの専門家と協力して、400以上の応募から選ばれたものだという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社CEOのサム・アルトマン氏は2024年5月20日に「Skyの声はスカーレット・ヨハンソン氏のものではなく、彼女を模倣する意図もなかった」と述べ、彼女への敬意を表して『Sky』の使用を一時停止したことを謝罪した。
-
-さらに同社は5月22日に声明を更新し、ヨハンソン氏とのやり取りのタイムラインを提供した。「Sky」の声のキャスティングは、ヨハンソン氏への最初の接触よりも前に行われていたという。
-
-以下に、音声機能の開発と声優の選定プロセスに関するタイムラインをまとめる。
-
-:::box
-&gt; #### **ChatGPT音声機能開発のタイムライン**
-&gt; 
- **2023年5月10日** キャスティングエージェンシーとキャスティングディレクターが声優を募集。400以上の応募が集まる。5月中にキャスティングチームが14人の声優を選定。
- 
- **2023年5月末** 最終候補の声優がOpenAIに提示され、音声機能のビジョンや技術的な詳細について話し合いが行われる。
- 
- **2023年6月～7月** 最終選考で選ばれた声優がサンフランシスコで録音セッションを実施。
- 
- **2023年9月11日** サム・アルトマン氏が**スカーレット・ヨハンソン氏に接触**し、6人目の声優としての参加を打診。彼女は1週間後に辞退。
- 
- **2023年9月25日** 「Breeze」「Cove」「Ember」「Juniper」「Sky」の5つの声がChatGPTに実装。
- 
- **2024年5月10日** アルトマン氏が**ヨハンソン氏のチームに接触**し、GPT-4oのリリースについて説明。
- 
- **2024年5月13日** GPT-4oがリリースされ、新しいVoice ModeがChatGPT Plusユーザー向けにアルファ版で提供。
- 
- **2024年5月15日** 「Sky」の使用について**ヨハンソン氏のチームと協議**。
- 
- **2024年5月19日** ヨハンソン氏への配慮から「Sky」の使用を一時停止。
- 
- **2024年5月20日** アルトマン氏が「Sky」の声がヨハンソン氏のものではないことを説明し、謝罪。
- 
- **2024年5月22日** OpenAIがヨハンソン氏とのやり取りのタイムラインを提供。
-
-:::
-
-このプロセスを通じて、OpenAIは音声俳優の選定とサンプリングを慎重に行い、透明性と公平性を保つための措置を講じてきた。今後、ChatGPTの多様なユーザーのニーズに応えるために、さらなる音声オプションの導入を予定している。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 24 May 2024 07:27:37 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 30 May 2024 10:41:34 +0000</pubDate></item></channel></rss>
