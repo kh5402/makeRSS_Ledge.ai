@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 28 Jun 2024 15:42:17 +0000</lastBuildDate><item><title>Metaザッカーバーグ氏、生成AIのクローズドソース競合企業を「神か何かを創造しているとでも思っているかのよう」と強く批判</title><link>https://ledge.ai/articles/zuckerberg_disses_closed_ai_competitors_as_trying_to_create_god</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 29 Jun 2024 12:55:12 +0000</lastBuildDate><item><title>Metaザッカーバーグ氏、生成AIのクローズドソース競合企業を「神か何かを創造しているとでも思っているかのよう」と強く批判</title><link>https://ledge.ai/articles/zuckerberg_disses_closed_ai_competitors_as_trying_to_create_god</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1433,7 +1433,33 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>ロボットに生きた皮膚を密着させる技術　東京大学研究チームが開発　ソフトロボット・美容整形医療にも</title><link>https://ledge.ai/articles/tokyo_univ_robots_with_bio_skin</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>最高時速510kmを達成した世界最速ドローン、ギネス認定</title><link>https://ledge.ai/articles/worlds_fastest_drone</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年4月21日、最高時速510kmに到達したドローンが世界最速としてギネスに{target=“_blank”}された。ドローンを制作したのはルーク・マキシモ・ベル氏。カーボンファイバー製フレームを使用し、バッテリー、モーター、プロペラを厳選して組み合わせたとのこと。
+
+@
+
+ベル氏らのドローン、Peregreen 2は、カーボンファイバー製のフレーム、最適化されたモーター、プロペラ、バッテリーを組み合わせて作られた。この設計には数ヶ月を要し、テスト中にはバッテリーの火災やその他のトラブルが発生したが、最終的には大幅な改良を経て、この速度を達成したとのこと。このドローンは、時速510 kmに達することもでき、前回の記録を大きく上回る結果となったが、公式に認定されたギネス記録は時速480.23となったという。
+
+この記録は「バッテリー駆動の遠隔操作クワッドコプター」というカテゴリーで認定され、同時にカメラ付きドローンとしても世界最速となった。
+
+なお、今回の記録更新は、かつてエナジードリンクメーカーの{target=“_blank”}がF1レースの撮影用に開発したドローンの記録を上回るものだ。当時、レッドブルのドローンは最高時速350kmで世界最速とされていたが、ベル氏のドローンはその記録を大きく更新した。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 29 Jun 2024 12:55:12 +0000</pubDate></item><item><title>ロボットに生きた皮膚を密着させる技術　東京大学研究チームが開発　ソフトロボット・美容整形医療にも</title><link>https://ledge.ai/articles/tokyo_univ_robots_with_bio_skin</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1779,35 +1805,7 @@ Rapidusエンジニアの北海道大学への実務家教員派遣による講�
 :::box
 
 :::
-</description><pubDate>Wed, 12 Jun 2024 13:13:34 +0000</pubDate></item><item><title>切り立った崖をよじ登る四足ロボット「LORIS」、カーネギーメロン大学で開発</title><link>https://ledge.ai/articles/loris_cmu_robotic</link><description>:::small
-画像の出典：{target=“_blank”} / {target=“_blank”}
-:::
-
-カーネギーメロン大学の研究チームは2024年5月、極限地形の探査に特化した新しい軽量フリークライミングロボット「LORIS（Lightweight Observation Robot for Irregular Slopes）」を{target=“_blank”}した。このロボットは、従来の大型で遅いクライミングロボットや、比較的平坦な表面しか登れないロボットとは一線を画す設計となっており、サルの手足から着想を得て設計され、特に「Microspine」グリッパーという技術を使用しているという。
-
-@
-
-## ロボット設計と機能
-LORISは、1肢あたり3つのジョイントアクチュエーターを持つ四足歩行ロボットで、肩、ウィング（外転/内転）、膝の関節を操作する。各肢の末端には3自由度の受動型手首と受動型マイクロスパイングリッパーがあり、不規則な地形に適応しやすくなっている。
-### パッシブとアクティブの組み合わせ
-LORISの設計には、パッシブ（受動的）なグリッパーとアクティブ（能動的）な制御の両方の利点が組み込まれている。これにより、ロボットは軽量でエネルギー効率が高く、安定した登攀が可能である。グリッパーはパッシブな手首関節に接続され、オンボードの深度感知カメラとマイクロプロセッサを使用して、戦略的に足を動かすことができる​という。 
-### マイクロスパイングリッパー
-LORISのマイクロスパイングリッパーは、±45度に傾斜した2つのキャリッジを持ち、接触面に対して鋭い角度で引っかかることで強力なグリップを提供する。これにより、ロボットは横方向の負荷にも対応可能となる（図a）。図bは、3つのキャリッジを持つスプレイグリッパーの自由体図を示し、青色で示された有効な変位と赤色で示された有効な荷重を表示している。角度はグリッパー軸に対して定義されている。
-
-さらに、図cはグリッパーキャリッジの幾何学による最大荷重角度をプロットしたものである。最後に、図dは埋め込まれた魚釣り針と蛇行する屈曲を持つ3Dプリントされたマイクロスパインを示している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-LORISはNASAとの共同プロジェクトの一環として開発されており、特に火星の険しい地形での使用が期待されている。このロボットは、従来のローバーが到達できない場所にアクセスできるよう設計されているという。また、地球上では、災害救助や地質調査などの多様な用途での利用が見込まれているという。LORISは、カーネギーメロン大学のロボメカニクス研究所による多数のプロジェクトの一部で、今後、この技術がどのように発展し、どのように実用化されるかが注目される。
-
-
-:::box
-
-:::
-</description><pubDate>Sun, 09 Jun 2024 15:18:08 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
+</description><pubDate>Wed, 12 Jun 2024 13:13:34 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
