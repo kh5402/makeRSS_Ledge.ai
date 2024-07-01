@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 01:16:40 +0000</lastBuildDate><item><title>ソフトバンクグループとTempus、医療データとAI活用のジョイントベンチャー「SB TEMPUS」設立
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 02:33:39 +0000</lastBuildDate><item><title>ソフトバンクグループとTempus、医療データとAI活用のジョイントベンチャー「SB TEMPUS」設立
 </title><link>https://ledge.ai/articles/sb_tempus</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -1420,7 +1420,51 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>最高時速510kmを達成した世界最速ドローン、ギネス認定</title><link>https://ledge.ai/articles/worlds_fastest_drone</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>AIがAIを訂正する世界への一歩ーーOpenAIが「CriticGPT」を発表　ChatGPTのエラー検出を支援</title><link>https://ledge.ai/articles/openai_criticgpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年6月27日、GPT-4ベースの新しいモデル「CriticGPT」を(https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/){target=“_blank”}した。このモデルは、ChatGPTなどの大規模言語モデル（LLM）の出力における誤りを検出し、人間のAIトレーナーによるトレーニングの精度向上を支援することを目的としている。
+## 誤り検出を支援するCriticGPTの開発
+CriticGPTは、ChatGPTの回答に含まれる不正確な点を指摘するために設計されている。このモデルは、RLHF（人間からのフィードバックによる強化学習）という手法を使用して訓練されており、AIトレーナーがChatGPTの異なる回答を比較評価する際に役立つ。RLHFは、AIトレーナーが提供するフィードバックを通じてモデルの性能を向上させるが、モデルの推論能力が高度化するにつれ、誤りの検出が困難になるという課題があった。
+## CriticGPTのトレーニング方法
+CriticGPTのトレーニングには、誤りを含む大量の入力データが使用される。具体的には、AIトレーナーがChatGPTによって生成されたコードに意図的に誤りを挿入し、その誤りを発見した際にどのようなフィードバックを行うかを記述した例を学習データとして使用する。その後、同じトレーナーが修正されたコードに対する複数の批評文を比較し、どの批評文が挿入された誤りを正確に指摘しているかを評価する。
+## 効果と利点
+CriticGPTの導入により、AIトレーナーはモデルの回答の誤りをより効果的に発見できるようになる。研究結果によれば、CriticGPTの支援を受けたトレーナーは、支援なしの場合に比べて約60％の確率でパフォーマンスが向上することが確認されている。また、CriticGPTを使用することで、トレーナーはより包括的な批評文を作成でき、モデル単独での批評よりも誤った指摘を減らすことができる。
+
+下図：CriticGPT は、トレーナーが支援なしの場合よりも包括的な批評を書くのを助け、モデルのみからの批評よりも幻覚が少なくなるという
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## ヤン・ライケ氏のコメント
+CriticGPTの発表に対し、かつてOpenAIでSuperalignmentチームのトップを務め、人間より賢いAIの制御を目指していたヤン・ライケ氏も反応している。ライケ氏は、安全性が後回しにされていると批判し、2023年5月17日にOpenAIを退社したが、自身のX（旧Twitter）で「これが公開されたことを非常に喜ばしく思う」とコメントしている。
+
+OpenAIに在籍中のことに触れ、「私たちはコードのバグを見つけるためにLLM批評モデルを訓練し、人間が見逃していた生産タスクの欠陥を発見する手助けをしている。RLHFは人間の評価能力に制約されるため、AIを使って人間の評価を助けるスケーラブルな監視が必要だ。ここでは、批評家を訓練して欠陥を指摘させるというシンプルなアイデアを試した」と述べた。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+現時点でCriticGPTは比較的短いChatGPTの回答を対象にトレーニングされているが、OpenAIは将来的により長文で複雑なタスクを評価できるようモデルを改良する計画を立てている。これにより、AIトレーナーが高度なAIシステムをより効果的に調整できるようになることが期待されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 01 Jul 2024 02:33:39 +0000</pubDate></item><item><title>最高時速510kmを達成した世界最速ドローン、ギネス認定</title><link>https://ledge.ai/articles/worlds_fastest_drone</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1758,41 +1802,7 @@ OpenAIの研究チームは、GPT-4の内部表現を分解し、1,600万の解�
 :::box
 
 :::
-</description><pubDate>Fri, 14 Jun 2024 12:51:51 +0000</pubDate></item><item><title>ラピダス✕北海道大学　半導体産業の振興と人材育成のための包括連携協定を締結　2nm半導体の評価／分析も</title><link>https://ledge.ai/articles/rapidus-hokkaidouniv_comprehensive_collaboration_agreement</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ラピダスと北海道大学は2024年6月5日、半導体産業を通じた日本の科学技術力の向上および人材の育成を目的とした包括連携協定を締結したことを{target=“_blank”}した。
-
-この協定は、北海道における半導体産業の振興と人材育成、研究開発の加速を目指すものであり、特に2025年4月から予定されているラピダスのパイロットラインの稼働開始と、2027年の量産開始を見据えた長期的な人材育成と先端半導体研究の協力を目的としている​という。
-
-連携内容は以下のとおり
-
-**🔳半導体人材の育成教育**
-Rapidusエンジニアの北海道大学への実務家教員派遣による講義
-北海道大学の最新研究成果をRapidusエンジニアが学ぶ機会の提供
-
-**🔳先端半導体研究の協力**
-2ナノメートル半導体の評価・分析を行う拠点を北海道大学キャンパス内に設置
-北海道大学の研究成果を活用した先端半導体研究の推進
-
-**🔳施設・設備の利用**
-北海道大学の施設および設備を活用し、先端研究を行うための環境を整備
-
-
-ラピダスの社長である小池淳義氏は、「学生が最先端半導体の製造過程を直接学ぶことができる環境を提供し、将来の半導体産業を担う人材を育成する」と述べた。北海道大学の寶金清博総長は、「この連携が北海道の半導体産業の成長に大きく貢献することを期待している」と語った。
-
-今後、2024年中には、北海道大学キャンパス内に2ナノメートル半導体の評価・分析を行う施設が設置される予定であり、これは2025年のパイロットライン稼働開始および2027年の量産に向けた重要なステップとなるとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 12 Jun 2024 13:13:34 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
+</description><pubDate>Fri, 14 Jun 2024 12:51:51 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
