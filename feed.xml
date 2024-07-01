@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 29 Jun 2024 13:01:25 +0000</lastBuildDate><item><title>OpenAI、中国からのアクセスをブロックへ - 中国AI企業は自社AIに乗り換え提案続々</title><link>https://ledge.ai/articles/openai_will_block_people_in_china</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 01:16:40 +0000</lastBuildDate><item><title>ソフトバンクグループとTempus、医療データとAI活用のジョイントベンチャー「SB TEMPUS」設立
+</title><link>https://ledge.ai/articles/sb_tempus</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ソフトバンクグループ（SBG）は2024年6月27日、米国のAIと精密医療のリーディングカンパニーTempus AIとの共同事業「SB TEMPUS株式会社」を8月1日に設立すると{target=“_blank”}した。合弁契約は2024年5月に締結され、2024年7月にもクロージングが完了する見込みだ。
+
+両社はそれぞれ150億円を出資し、遺伝子検査、医療データの収集・解析、AIによる治療提案を提供するサービスを日本で展開する。特にがん治療に焦点を当て、患者一人ひとりに適した個別化医療の提供を目指すとのこと。
+
+Tempusは、米国で約50％の腫瘍医と連携し、業界最大規模の分子、臨床、画像データを保有する企業だという。そのAI対応プラットフォームは、診断をインテリジェントにし、医療提供者や製薬会社の意思決定を支援する。
+
+SB TEMPUSは、Tempusの技術と知見を活用し、がんゲノム医療の中核を担う病院や関連企業と協力して、医療データをAIで解析し、個別化医療を推進する予定だという。SBGは、Tempusとの提携を通じて、日本の医療の進歩に貢献することを目指すとのこと。
+
+SBG代表の孫正義氏は、「AIを駆使した個別化医療の推進で人々の悲しみを減らし、幸せを増やしたい」と述べている。TempusのCEO、Eric Lefkofsky氏も、「SBGとのパートナーシップで日本にAIを活用したヘルスケアソリューションを提供し、患者がより健康な生活を送れるようサポートする」と述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 01 Jul 2024 01:16:40 +0000</pubDate></item><item><title>OpenAI、中国からのアクセスをブロックへ - 中国AI企業は自社AIに乗り換え提案続々</title><link>https://ledge.ai/articles/openai_will_block_people_in_china</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -375,51 +400,7 @@ NVIDIAの創設者兼CEOであるジェンセン・ファン氏は
 
 :::
 
-</description><pubDate>Tue, 25 Jun 2024 09:31:13 +0000</pubDate></item><item><title>【ハッキング実演動画あり】標的は国内CMS構築サイトの82.7%　生成AI時代により増加？WordPressサイトの脆弱性</title><link>https://ledge.ai/articles/expo2024-interview-forez</link><description>:::box
-本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
-:::
-
-:::box
-!
-
-**中谷 圭佑氏**
-株式会社フォアーゼット
-サイバー攻撃耐性を攻撃者視点で検証を行うデジタル監査会社。
-セキュリティ対策のコンサルティング業務を中心に活動している。
-:::
-
-:::box
-!
-
-**蔀 綾人氏**
-株式会社フォアーゼット
-サイバー攻撃耐性を攻撃者視点で検証を行うデジタル監査会社。
-コンピュータのハッキングに関する研究やクライアントの脆弱性チェック業務に携わっている。
-:::
-
-
-## 日本では特に多いWordPressで構築されたウェブサイト
-
-公開中のLedge.ai EXPO 2024 Summerでは、生成AIの技術や応用法を中心に多くの利点についてお伝えしている。そんな中で、その裏側にあるリスクやクリアーにすべきルールについて有識者の話を伺ったのが「生成AIの魔法の裏側：企業が直面する法的リスクとセキュリティ対策」の記事だ。本記事は同記事の後編にあたる「WordPressで構築されたウェブサイトによくある脆弱性について」の内容を紹介する。
-
-新たな技術を取り入れることは、企業にとって新たな競争力の獲得につながることが多いため、積極的に検討が進みやすいだろう。一方で、従来から活用してきている技術に対しては見直しがされにくい。長らく使い続けているWordPressサイトなどはその好例ではないだろうか。
-
-本インタビューに答えてくれた株式会社フォアーゼットの中谷 圭佑氏と蔀 綾人氏によると、全世界のWeb上の43%はWordPressで作られている。これは日本に限ると、CMSを使った日本のWebサイト全体の82.7%がWordPressで構築されているとのデータがあるそうだ。
-
-そしてこれだけ多く利用されているWordPressにも近年のうちに重大な脆弱性が見つかっている。
-
-## これまでに発見された代表的な脆弱性は？
-!
-
-インタビューの中で、これまでに発見されたWordPressの代表的な脆弱性の事例が紹介された。いずれも、多くの企業・個人でWordPressを利用しているユーザーにとっては他人事ではない。
-
-そして今回のインタビューの中では、現役ホワイトハッカーによるハッキングシーンの実演も行われた。（※同社がインタビュー用に構築した検証環境での実施）
-
-脆弱性を突くのに生成AIが悪用されるようなケースも考えられ、今後一層対策が求められる分野になるだろう。詳しい内容は、以下の特設サイトから確認できる。Fore-Zは本インタビューを見て同社に問い合わせをした企業に対し、無料の脆弱性診断レポートを提供すると答えている。「自社は大丈夫だろうか」と少しでも気になった読者は今すぐチェックしてみてほしい。
-
-:::button
-{target=“_blank”}
-:::</description><pubDate>Mon, 24 Jun 2024 10:48:50 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
+</description><pubDate>Tue, 25 Jun 2024 09:31:13 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
 </title><link>https://ledge.ai/articles/google_ai_essentials</link><description>:::small
 画像の出典：[日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/news/248
 ){target=“_blank”}
