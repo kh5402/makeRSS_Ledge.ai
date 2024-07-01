@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 29 Jun 2024 12:55:12 +0000</lastBuildDate><item><title>Metaザッカーバーグ氏、生成AIのクローズドソース競合企業を「神か何かを創造しているとでも思っているかのよう」と強く批判</title><link>https://ledge.ai/articles/zuckerberg_disses_closed_ai_competitors_as_trying_to_create_god</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 29 Jun 2024 13:01:25 +0000</lastBuildDate><item><title>OpenAI、中国からのアクセスをブロックへ - 中国AI企業は自社AIに乗り換え提案続々</title><link>https://ledge.ai/articles/openai_will_block_people_in_china</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年7月9日以降、中国を含むサポート対象外の国や地域からのアクセスをブロックする。同社がサポート対象外とする国のユーザーに送ったメールの文面が6月25日、OpenAIのコミュニティフォーラムに{target=“_blank”}されている。この決定により、中国からのOpenAIのAPIサービスの利用ができなくなるという。 
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+サポート対象地域は{target=“_blank”}から確認できる。
+
+この発表を受けて、中国のAI企業は迅速に対応策を打ち出していることを{target=“_blank”}が報じている。
+
+AIユニコーン企業の智譜AI（Zhipu AI）は、OpenAIのAPIユーザー向けに特別な乗り換えプランを提供すると発表した。自社のLLM「GLM」シリーズを1億5000万トークン提供し、乗り換えに向けたトレーニングも実施する計画だという。同じく、Baidu AI Cloud、Alibaba Cloudなどが、OpenAIからの乗り換え支援プログラムを発表。同社のクラウドプラットフォームを活用し、AI開発者がスムーズに移行できるよう支援を強化している​とのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 29 Jun 2024 13:01:25 +0000</pubDate></item><item><title>Metaザッカーバーグ氏、生成AIのクローズドソース競合企業を「神か何かを創造しているとでも思っているかのよう」と強く批判</title><link>https://ledge.ai/articles/zuckerberg_disses_closed_ai_competitors_as_trying_to_create_god</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -392,28 +419,7 @@ NVIDIAの創設者兼CEOであるジェンセン・ファン氏は
 
 :::button
 {target=“_blank”}
-:::</description><pubDate>Mon, 24 Jun 2024 10:48:50 +0000</pubDate></item><item><title>米マクドナルドがIBMとのAIドライブスルー試験運用を断念「音声注文の正確性に課題」次は Google Cloudと挑戦か</title><link>https://ledge.ai/articles/mcdonalds_to_end_ibm_ai_drivethru_test</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-マクドナルドはIBMとのパートナーシップによるAIドライブスルー技術の試験運用を終了すると{target=“_blank”}が報じている。この試験運用は100店舗以上で行われ、CNBCが入手した先週末にフランチャイズ店に送られたメモによると、7月26日までに完全に停止される予定だ​という。
-
-この試験運用は、音声認識技術を利用した「自動注文受付システム（AOT）」を導入し、ドライブスルーでの注文プロセスを簡素化し、迅速化することを目的としていた。しかし、この技術は様々なアクセントや方言を正確に理解することが難しく、注文の正確性に課題があったという​。
-
-マクドナルドの米国シニアバイスプレジデント兼チーフレストランオフィサーのメイソン・スムート氏は、「これまでの成功もありましたが、音声注文ソリューションをより広く探求する機会があると感じています。慎重に検討した結果、IBMとの現在のパートナーシップを終了することを決定しました」とメモで述べていたとのこと。
-
-CNBCの取材を受け、マクドナルドは、将来的にはAIドライブスルー技術の導入を予定していると語った。同社はGoogle Cloudと新たなパートナーシップを結び、生成AIやクラウド技術を活用した音声注文ソリューションの開発を継続する予定だ。Googleの技術を活用することで、ドライブスルーの効率化と顧客体験の向上を目指している​という。
-
-Googleとの提携について、AlphabetのCEOであるサンダー・ピチャイ氏は「マクドナルドが我々の生成AI、クラウド、およびエッジコンピューティングツールを使用して、世界中の従業員と顧客にとっての象徴的なダイニング体験を改善するのを楽しみにしています」と述べているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 24 Jun 2024 12:33:56 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
+:::</description><pubDate>Mon, 24 Jun 2024 10:48:50 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
 </title><link>https://ledge.ai/articles/google_ai_essentials</link><description>:::small
 画像の出典：[日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/news/248
 ){target=“_blank”}
