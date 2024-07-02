@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 02:33:39 +0000</lastBuildDate><item><title>ソフトバンクグループとTempus、医療データとAI活用のジョイントベンチャー「SB TEMPUS」設立
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 07:28:19 +0000</lastBuildDate><item><title>ソフトバンクグループとTempus、医療データとAI活用のジョイントベンチャー「SB TEMPUS」設立
 </title><link>https://ledge.ai/articles/sb_tempus</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -1802,7 +1802,31 @@ OpenAIの研究チームは、GPT-4の内部表現を分解し、1,600万の解�
 :::box
 
 :::
-</description><pubDate>Fri, 14 Jun 2024 12:51:51 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
+</description><pubDate>Fri, 14 Jun 2024 12:51:51 +0000</pubDate></item><item><title>イギリスの鉄道駅でAmazonのAI監視技術が国民に伝えられることなく試験導入されていた</title><link>https://ledge.ai/articles/uk_train_stations_trialled_amazon_emotion_detection</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+過去2年間、イギリスの主要な8つの鉄道駅でAmazonのAI監視技術がテスト導入され、乗客の年齢、性別、感情を分析していたことが{target=“_blank”}。このことは2024年6月18日、イギリスに拠点を置く監視社会に対する監視と人権擁護を目的とする市民団体「Big Brother Watch」の調査により判明した。この技術の導入は、乗客の安全確保と特定の犯罪の減少を目的としていたが、広告目的にも利用される可能性があったという。
+
+問題となったテストは、ロンドンのユーストン駅やウォータールー駅、マンチェスターのピカデリー駅を含む主要な鉄道駅で実施された。その他にも複数の小規模な駅が対象となったとのこと。導入されたシステムは、CCTVカメラを使用して乗客の動向を監視し、AI技術を用いて年齢、性別、感情を分析することで、駅スタッフに安全インシデントを警告する。
+## プライバシーの懸念
+市民団体である Big Brother Watch は、個人のプライバシー保護、政府の監視プログラムの透明性確保、テクノロジーの倫理的利用を推進しており、監視技術やプライバシー侵害に対する監視活動、調査、キャンペーンを行っている。ビッグデータやAI技術の利用に対する警鐘を鳴らし、公共の利益と個人の権利を守るための活動を展開しているとのこと。
+
+調査チーム長のジェイク・ハーフート氏は、「Network Railが英国の主要駅で通勤者に対して信頼性に欠ける感情認識技術を使用する権利はない」と述べ、情報コミッショナーへの苦情を提出した。
+
+同氏はさらに、「技術が鉄道の安全性を高める役割を果たす可能性はあるが、その必要性と適切性についての公開討論が必要だ」と強調した。特に、Network Railが安全技術と疑わしい感情認識ツールを混在させ、広告業者にデータを提供する可能性があることが問題視されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 01 Jul 2024 07:28:19 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -2157,57 +2181,7 @@ AIスタートアップの経営経験を活かし、革新的な産業を育成
 :::box
 
 :::
-</description><pubDate>Sun, 09 Jun 2024 08:13:16 +0000</pubDate></item><item><title>AI学習データの権利者に対価を　技術の進歩と知的保護両面から「知的財産推進計画2024」決定を発表</title><link>https://ledge.ai/articles/ai_and_intellectual_property</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本政府は2024年6月4日、総理大臣官邸で知的財産戦略本部を開催し「知的財産推進計画2024」を決定したことを{target=“_blank”}した。計画は、イノベーションを創出・促進する知的財産エコシステムの再構築と「新たなクールジャパン戦略」を推進することを目指している。
-
-国際的な政治・経済情勢リスクの高まりや、生成AIの急速な発展に伴う知的財産権やプライバシーの懸念に対応するため、G7「広島AIプロセス」などの国際的なルールを踏まえ、知的財産権と生成AIを巡る懸念・リスクへの対応が強調されているという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-計画の主要な内容は以下の通り
-### 知的財産の創造:
-- 国内のイノベーション投資の促進
-- 知財・無形資産への投資による価値創造
-- AIと知的財産権の適切な保護の両立
-### 知的財産の保護:
-- 技術流出の防止
-- 海賊版・模倣品対策の強化
-### 知的財産の活用:
-- 産学連携による社会実装の推進
-- 標準の戦略的活用の推進
-- デジタルアーカイブ社会の実現とデータ流通・利活用環境の整備
-### 高度知財人材の育成・活躍:
-- 研究開発における人材育成・流動化
-- コンテンツ開発や利活用における人材育成
-- 知財活用を支える人材基盤の強化
-### 新たなクールジャパン戦略・コンテンツ戦略:
-- クールジャパン関連産業を基幹産業と位置付け、2033年までに海外展開規模を50兆円とする目標を設定
-- 高付加価値化やインバウンド誘致、農林水産物・食品の輸出の推進
-
-計画では、関係府省庁の連携による周知啓発や、AI技術の進歩と知的財産権の保護が両立するエコシステムの実現など、特に生成AIの発展に伴う偽情報や知的財産権侵害リスクへの対応が強調されている。
-
-また、国内のイノベーション投資の促進や、技術流出の防止にも重点が置かれている。特に、不正競争防止法（営業秘密保護）の改訂や、大学や研究機関における研究の健全性・公正性の自律的確保が強化される見通しである。
-
-生成AIに関するデータの扱いについても、AIガバナンスの取り組みとの連動が求められ、法・技術・契約の各手段を組み合わせた包括的なアプローチが強調されている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 06 Jun 2024 06:03:41 +0000</pubDate></item><item><title>Mantraが7.8億円調達を実施　画像認識とLLM（大規模言語モデル）を併用したマンガ特化の翻訳ツール開発　</title><link>https://ledge.ai/articles/mantra_engine_ai_manga</link><description>:::small
+</description><pubDate>Sun, 09 Jun 2024 08:13:16 +0000</pubDate></item><item><title>Mantraが7.8億円調達を実施　画像認識とLLM（大規模言語モデル）を併用したマンガ特化の翻訳ツール開発　</title><link>https://ledge.ai/articles/mantra_engine_ai_manga</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
