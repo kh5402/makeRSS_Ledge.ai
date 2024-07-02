@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 07:28:19 +0000</lastBuildDate><item><title>ソフトバンクグループとTempus、医療データとAI活用のジョイントベンチャー「SB TEMPUS」設立
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 07:30:36 +0000</lastBuildDate><item><title>生成AI活用の波が法務業界に：トムソン・ロイターが「CoCounsel」を発表</title><link>https://ledge.ai/articles/thomsonreuters_cocounsel</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+情報サービス大手のトムソン・ロイターは、2024年5月21日、Microsoft Build 2024の基調講演で、同社の最新AIアシスタント「CoCounsel」を{target=“_blank”}した。
+法務、メディア、税務、会計、輸出入管理、FTA、コンプライアンス管理業務に強い同社が提供するこのプラットフォームは、最新情報と革新的なテクノロジーを結びつけるものとして注目を集めている。
+
+## CoCounselの背景
+「CoCounsel」の誕生の背景には、2023年6月にトムソン・ロイターが買収したカナダの法務AIスタートアップ、Casetextがある。2013年にロースクール出身の創設者が設立したCasetextは、情報へのアクセスの悪さを改善することを目指し、設立当初からクラウドベースの法曹界用「ウィキペディア」を目指し成長してきたという。
+
+スタートアップインキュベーターのY Combinatorのアクセラレータプログラムに参加し、シードステージで180万ドルを調達するなど、急速に成長を遂げた。2016年には、AI駆動の検索技術「CARA AI」を開発し、法律検索に革新をもたらした。この技術は、キーワード入力で関連する判例を「おすすめ」する機能を持ち、法務調査のためのSpotifyのようなものだという。
+
+現在、Casetextはアメリカのトップ100社を含む1万以上の法律事務所や企業の法務部を顧客に持ち、小規模から大規模の事務所、社内法務部まで幅広く対応している。
+## 法務の自動化と効率化
+「CoCounsel」は専門的な法務業務を支援するAIアシスタントで、OpenAIのGPT-4を活用している。このAIは、法律実務とデータセキュリティの専門知識で強化されており、顧客データを使用しない最もセキュアなAIリーガルテックとされている。
+
+CoCounselは、法務業務の自動化と効率化を促進する。2022年9月から先行アクセスを開始し、利用した法律事務所からは「重要かつ非常に時間がかかるタスクを自動化することで、弁護士がより影響力のある業務に集中できる」との評価が寄せられている。競争に勝ち抜くためには、このような自動化の導入が不可欠であると強調されている。
+
+
+トムソン・ロイターは、現在先行販売中で7月に発売予定の「CoCounsel Drafting」などの新たなスキルや製品を追加し、単一のプロフェッショナルグレードのAIアシスタントというビジョンを実現し続けている。
+
+「CoCounsel Drafting」を使用すると、顧客はMicrosoft Wordを離れることなく、契約書や社内プレイブックなどのさまざまな種類の法的コンテンツを作成し、AIを使用して文書を改良およびレビューして一般的なライティングエラーを修正し、より高品質な作業を行うための最適な開始点を簡単に見つけることができる​という。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 01 Jul 2024 07:30:36 +0000</pubDate></item><item><title>ソフトバンクグループとTempus、医療データとAI活用のジョイントベンチャー「SB TEMPUS」設立
 </title><link>https://ledge.ai/articles/sb_tempus</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -372,35 +405,7 @@ Multiのブログでは、デスクトップコンピューターがマルチプ
 :::box
 
 :::
-</description><pubDate>Tue, 25 Jun 2024 09:35:47 +0000</pubDate></item><item><title>AwwがNVIDIAと提携しAI駆動のバーチャルヒューマンインフルエンサー「imma（イマ）」を強化</title><link>https://ledge.ai/articles/nvidia_aww_virtual_human_imma</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-バーチャルヒューマンを開発するAIテックのAww（アウ）は2024年6月17日、NVIDIAと技術提携を{target=“_blank”}した。この提携により、Awwは人気バーチャルヒューマン「imma（イマ）」の制作効率と品質を大幅に向上させることを目指している。
-
-Awwは、NVIDIAのACE（Audio2Face）技術やNIM（NVIDIA Inference Manager）を活用することで、バーチャルヒューマンのリアルタイムアニメーションや自然なリップシンクを実現する。この技術により、バーチャルヒューマンとのインタラクションがこれまで以上にリアルで自然なものになる。さらに、エンターテインメント、教育、カスタマーサービスなど、さまざまなビジネスシーンでの応用が期待できるという。
-
-Awwが独自に開発している大規模言語モデル（LLM）とNVIDIAの最先端技術を組み合わせることで、高性能なバーチャルヒューマンの短期間での量産が可能になる。これにより、提供スピードの大幅な向上が見込まれている。同社は、「制作プロセスの効率化による提供スピードの大幅な向上を目指している」と説明している。
-
-同社のバーチャルヒューマンインフルエンサー「imma」は、すでに世界中で150万人以上のフォロワーを持ち、Amazon、Coach、Porsche、IKEAなどのブランドと提携している。このimmaがAI駆動の新形態「AI imma」として生まれ変わったという。
-
-NVIDIAの創設者兼CEOであるジェンセン・ファン氏は
-「デジタルヒューマンは業界を革命する。マルチモーダル大規模言語モデルとニューラルグラフィックスのブレークスルーは、NVIDIA ACEによって私たちの開発者エコシステムにもたらされ、意図駆動型コンピューティングの未来に近づいている。コンピュータとの対話が人間との対話と同じくらい自然になる日が来るのだ。」
-と述べた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 25 Jun 2024 09:31:13 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
+</description><pubDate>Tue, 25 Jun 2024 09:35:47 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
 </title><link>https://ledge.ai/articles/google_ai_essentials</link><description>:::small
 画像の出典：[日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/news/248
 ){target=“_blank”}
