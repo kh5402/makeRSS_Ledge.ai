@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 13:23:40 +0000</lastBuildDate><item><title>生成AI活用の波が法務業界に：トムソン・ロイターが「CoCounsel」を発表</title><link>https://ledge.ai/articles/thomsonreuters_cocounsel</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 13:30:06 +0000</lastBuildDate><item><title>JR東海が山梨リニア実験線で生成AI活用による保全業務効率化へ　AWS導入で技術を活用</title><link>https://ledge.ai/articles/jr_amazon</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月21日、JR東海は山梨リニア実験線での運営において、Amazon Web Services, Inc.（AWS）の技術を活用すると{target=“_blank”}した。これはリニア中央新幹線のデータドリブンな運営を目指し、機械学習とIoT技術を駆使した設備保全を行う取り組みだという。
+
+リニア中央新幹線は、超電導リニア技術を用い、時速500キロで東京・名古屋間を40分、東京・大阪間を67分で結ぶ次世代の高速鉄道。このプロジェクトは東海道新幹線に続く大動脈のバイパスとしての役割を担うとのことだ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+山梨リニア実験線では2024年1月から、AWSのIoTサービスを活用した概念実証（PoC）が開始された。これにより、送電設備や保守用車の状態データを取得し、機械学習を用いて故障予兆を検知する仕組みを構築した。このシステムにはAmazon SageMakerとAmazon QuickSightが使用されており、故障の早期対応が可能となったという。
+
+JR東海は今後、生成AIを活用して保全業務のさらなる効率化を図る。Amazon Bedrockを用いて設備情報や保守作業記録の検索を効率化し、社員の働きやすさを向上させることを目指す。また、デジタル人材育成も強化され、機械学習の専門知識を持つ社員がAWSの支援プログラムに参加しているとのこと。
+
+この取り組みを進めるにあたり、AWSは日本国内でのクラウドインフラへの投資を拡大する計画を発表しており、2027年までに約3兆7,700億円を投資する見込み。この投資は、日本のGDPに約5兆5,700億円の貢献を見込んでいるという。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 01 Jul 2024 13:30:06 +0000</pubDate></item><item><title>生成AI活用の波が法務業界に：トムソン・ロイターが「CoCounsel」を発表</title><link>https://ledge.ai/articles/thomsonreuters_cocounsel</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -372,40 +398,7 @@ AI社員は、同社ウェブサイトから1ヶ月単位で月額960円から�
 :::box
 
 :::
-</description><pubDate>Tue, 25 Jun 2024 09:40:13 +0000</pubDate></item><item><title>OpenAIが2社買収で企業向けAIサービス強化目指す：検索とデータ分析「Rockset」・Web会議ツール「Multi」</title><link>https://ledge.ai/articles/openai_acquires_rockset_and_multi</link><description>:::small
-画像の出典：Rockset, Multi のサイトより編集
-:::
-
-OpenAIが企業向けのAIサービスの強化を目的とした買収を進めている。
-
-## OpenAIとRockset
-2024年6月21日、データ分析スタートアップのRocksetの買収を{target=“_blank”}した。
-
-Rocksetは、元メタ（Facebook）の技術者たちが設立した企業で、法人向けに検索やデータ分析サービスを提供している。同社は2023年8月に4400万ドルの資金調達を行い、累計調達額は約1億ドルに達している。OpenAIはこの買収により、Rocksetの高度なデータ分析技術と人材を取り込み、自社のAI機能をさらに向上させる計画だという。
-
-「Rocksetのインフラストラクチャは企業がデータを行動可能なインテリジェンスに変えるのを支援します。Rocksetの基盤をOpenAI製品に統合することで、顧客にこれらの利点を提供できることを楽しみにしています」とOpenAIのCOOであるBrad Lightcap氏は述べている。
-
-RocksetのCEOであるVenkat Venkataramani氏も、「私たちは、ユーザー、企業、開発者がデータを完全に活用できるように、強力な検索機能をAIに組み込むためにOpenAIに参加することを楽しみにしています」とコメントしている。
-
-## OpenAI と Multi
-さらに、OpenAIはWeb会議ツールを手掛けるMultiも買収した。Multiは6月24日、公式ブログでこの買収を{target=“_blank”}発表し、OpenAIの企業向けコミュニケーションツールの提供能力を強化することを明らかにした​。
-
-Multiのブログでは、デスクトップコンピューターがマルチプレイヤーであるべきか、オペレーティングシステムがアプリと同等の地位に人々を配置するべきかといった問いを探求してきたことが述べられている。さらに、同社はAIと共に働く方法についても考察し、これが現代の重要なプロダクトの問いの一つであると強調している。
-
-この買収により、Multiは新規チームのサインアップを終了し、現在のアクティブチームは2024年7月24日までアプリを使用でき、その後は全てのユーザーデータが削除される予定だと述べた。ユーザーに対しては、必要に応じて代替案の提案や延長の手続きをサポートすることも表明している。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 25 Jun 2024 09:35:47 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
+</description><pubDate>Tue, 25 Jun 2024 09:40:13 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
 </title><link>https://ledge.ai/articles/google_ai_essentials</link><description>:::small
 画像の出典：[日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/news/248
 ){target=“_blank”}
