@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 02 Jul 2024 04:38:05 +0000</lastBuildDate><item><title>西鉄ストア　ECサイトの口コミ・購買データを活用したAI生成POPで隠れた需要を掘り起こす</title><link>https://ledge.ai/articles/nishitetsu_store_retail_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 02 Jul 2024 08:48:56 +0000</lastBuildDate><item><title>オルツ　AIクローン技術を事業継承に活用　進和建設工業と共同で経営者の想いやノウハウを次世代につなぐ</title><link>https://ledge.ai/articles/alts_shinwa_aiclone</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+オルツは2024年6月19日、大阪の進和建設工業と共同で、経営者のデジタルクローンを用いた事業承継の取り組みを{target=“_blank”}した。現社長の西田芳明氏が会長に就任し、副社長の西田泰久氏が新社長に昇格する6月21日に、初めてこのAIクローンを披露した。
+
+進和建設工業は、地域密着型の土地活用を手掛ける建設会社で、これまでに718棟以上の実績を持つ。独自の工法を駆使し、工期の短縮や省コスト、高付加価値の建築を実現してきたという。
+
+## 労働人口の減少と事業承継の課題
+日本経済では労働人口の急減が予測され、企業の貴重な雇用や技術が失われる危機に直面している。事業承継においては、経営者の地位や事業だけでなく、その想いやノウハウを次世代に継承することが不可欠だといわれる。この課題に対して、オルツと進和建設工業は、デジタルクローン技術を用いた新たな解決策を提示するとのこと。
+
+## AIクローンの開発とその活用
+オルツの開発する「CLONEdev（クローンデブ）」を活用し、西田社長の特徴や考え方を再現したAIクローンを制作。AIクローンは英語や中国語など多言語に対応し、進和建設工業の理念や価値観を学習することで、次世代の経営に寄与することが期待されている。両社は今後、面談やセミナー、講演での活用を通じて、進和建設工業の技術ノウハウを学習・継承する本格的なAIクローン育成を目指すとした。
+
+日本では、経営者の高齢化に伴う事業承継が大きな社会課題となっている。後継者不在による黒字廃業のリスクを抱える企業は全国で60万社を超え、約22兆円のGDPが失われるリスクがある。オルツは、このデジタルクローンによる事業継承への試みが、AI技術が日本の生産性向上と競争力低下の抑止力となり得ると述べる。この取り組みを通し同社は、社会課題の抜本的な解決を目指すという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 02 Jul 2024 08:48:56 +0000</pubDate></item><item><title>西鉄ストア　ECサイトの口コミ・購買データを活用したAI生成POPで隠れた需要を掘り起こす</title><link>https://ledge.ai/articles/nishitetsu_store_retail_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -366,41 +393,7 @@ ELYZAは、日本語のLLMに特化した研究開発を継続しており、企
 :::box
 
 :::
-</description><pubDate>Wed, 26 Jun 2024 12:47:29 +0000</pubDate></item><item><title>NappsTechnologies　月960円からのAI社員採用プラットフォーム「ナッピーワークス」リニューアルオープンを発表</title><link>https://ledge.ai/articles/napps_technologies_aishain</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月20日、株式会社NappsTechnologiesは、AI社員採用プラットフォーム「ナッピーワークス」のリニューアルオープンを{target=“_blank”}した。
-
-AI社員は、依頼フォームに希望する業務を入力するだけで、24時間365日、いつでも簡単に業務に適したAI社員を採用することができる。専門知識を要する業務も、新たに人材を採用し研修する時間をかけることなくすぐに業務に取り組めるため、業務効率化にも繋がるという。
-
-AI社員第一弾は、「営業社員」、「マーケティング社員」、「ライティング社員」と発表されており、主な業務内容は以下の通りだ。
-
-**営業社員**
-主に名刺や顧客リストから企業情報を自動的に紐づけ、詳細な顧客データベースを構築し、このデータベースをもとにマーケティングメールを送信する。効果的に顧客にアプローチすることができ、コストを削減しながら営業成績を向上させる手助けをしてくれる。
-
-**マーケティング社員**
-InstagramやTwitterなどのSNS投稿戦略を立案から投稿までを一括して行い、マーケティング活動を効率化させる。ブランドの認知度、エンゲージメント向上を目指すことができる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-**ライティング社員**
-テーマをもとにプロットや記事の作成、SEO対策をすべて自動で実施。ライティング社員を使用することで、例えば着物の販売サイトが着付けの記事など基本的なコンテンツを自動で作成できる。
-
-AI社員は、同社ウェブサイトから1ヶ月単位で月額960円から利用可能。今後は人事や受注、カスタマーサポートなど、様々な場面で活躍するAI社員を展開し、企業をサポートしていくそうだ。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Tue, 25 Jun 2024 07:33:01 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
+</description><pubDate>Wed, 26 Jun 2024 12:47:29 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
 </title><link>https://ledge.ai/articles/google_ai_essentials</link><description>:::small
 画像の出典：[日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/news/248
 ){target=“_blank”}
