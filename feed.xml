@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 01 Jul 2024 13:30:06 +0000</lastBuildDate><item><title>JR東海が山梨リニア実験線で生成AI活用による保全業務効率化へ　AWS導入で技術を活用</title><link>https://ledge.ai/articles/jr_amazon</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 02 Jul 2024 04:38:05 +0000</lastBuildDate><item><title>西鉄ストア　ECサイトの口コミ・購買データを活用したAI生成POPで隠れた需要を掘り起こす</title><link>https://ledge.ai/articles/nishitetsu_store_retail_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月10日、福岡県の西鉄ストアと東京都港区のマインディアは、リテールAI研究会と協力し、ECサイトに投稿された口コミや購買データを基にAIでPOPを生成する取り組みを行い、新たな売り場作りと需要の掘り起こしに成功したと{target=“_blank”}した。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## 取り組みの背景と目的
+**スーパーマーケットの課題**
+食品スーパーでは、POP作成の手間や費用から、重点商品に限定されるケースが多い。そのため、定番商品の販促は価格訴求が中心となり、利益を圧迫する要因となっていた。
+
+**メーカーの課題**
+広告費や販促費をかけられないメーカーの商品は、消費者の認知を得ることが難しく、新規ユーザーの獲得が困難であった。
+
+**消費者の課題**
+現状の売り場では、限られた情報しか提供されず、商品選びの幅が狭まる。また、提供される情報は中立性に欠けることが多かった。
+
+## 実施内容
+データ解析: 西鉄ストアのID-POSデータをAIで解析し、顧客層の特性と購買傾向を解明
+対象商品の選定: 潜在需要が見込め、種類が多く訴求が難しいカレーカテゴリと韓国のりを選定
+口コミデータの解析: マインディアのEC口コミ・購買データをAIで解析し、商品ごとの消費者評価の傾向を特定
+商品説明文の自動生成: AIで自動生成した商品説明文をPOPとして店舗に展開。
+
+2024年4月24日から5月21日の4週間、福岡県内の「レガネット 牛頸」と「レガネット 東郷」の2店舗で、カレーカテゴリと韓国のりの棚にAI生成のPOPを展開した。
+
+## 成果
+売り場提案力の向上: 実験店舗のカレーカテゴリの対象SKU売上構成比が全店平均を6.5ポイント上回る67.5％に達した。
+カテゴリ売上の増加: カレーカテゴリの売上が前年対比105.5％となり、全店平均を0.9ポイント上回った。
+POP作成の効率化: 購買につながるPOPを工数をかけずに自動で作成することが可能となった。
+
+これらの成果は、メーカーが販促費をかけることなく消費者との新たな出会いを創出し、小売業者、メーカー、消費者の3者にとってメリットをもたらしたとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 02 Jul 2024 04:38:05 +0000</pubDate></item><item><title>JR東海が山梨リニア実験線で生成AI活用による保全業務効率化へ　AWS導入で技術を活用</title><link>https://ledge.ai/articles/jr_amazon</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -358,47 +400,7 @@ AI社員は、同社ウェブサイトから1ヶ月単位で月額960円から�
 :::
 :::box
 
-:::</description><pubDate>Tue, 25 Jun 2024 07:33:01 +0000</pubDate></item><item><title>鉄道会社では初　東京メトロが生成AIを活用した顧客対応システムを導入へ　忘れ物対応の効率も大幅にアップ</title><link>https://ledge.ai/articles/tokyometro_allganize_chatbot</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-東京メトロは2024年6月18日、Allganize Japanと提携し、生成AIを活用した新しいお客様対応システムの導入を{target=“_blank”}した。鉄道会社として初めての試みだというこのシステムは、2024年秋の導入を目指す。
-## 背景と目的
-東京メトロのお客様センターは、年間約25万件のお問い合わせに対応しており、その多くは電話、メール、チャットボットを通じて行われている。多様化するお客様のニーズに対応するため、従来のシステムでは限界が生じていた。これを受け、東京メトロはAllganizeの生成AI技術を活用することで、問い合わせ対応の効率化と利便性向上を図ることとなったという。
-
-## システムの概要
-### 1. 想定外の問いにチャットボットが回答を生成
-従来のチャットボットはFAQに基づく応答型であったが、生成AIを導入することで、公式Webサイトからの情報を基にした適切な回答を自動生成できるようになる。これにより、チャットボットで対応可能な問い合わせの範囲が拡大し、より迅速かつ的確な回答が可能となる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### 2. 忘れ物に関する問い合わせの改善
-メールで忘れ物の問い合わせがあった場合、従来は複数回の確認が必要となるケースがあったが、生成AIを活用したチャットボットを導入することで、会話形式で必要な情報を収集し、確認の手間を軽減する。また、オペレーターの業務効率も向上し、より多くの問い合わせに迅速に対応できるようになるという。
-
-### 3. メール対応支援ソリューション
-生成AIを用いて、メールでの問い合わせ内容の把握、必要な情報の検索、回答案の生成を自動化する。これにより、オペレーターが手作業で行っていた業務を効率化し、多くの問い合わせに迅速に対応できるようになる。
-
-
-これらの取り組みには、LLMプラットフォーム開発企業「Allganize」の「Alli LLM App Market (ALAM)」が使用される。ALAMはOpenAIのGPTシリーズ、MicrosoftのAzure OpenAI、GoogleのGeminiシリーズなどから最適なモデルを選択し、特許取得中のRAG（検索拡張生成）技術を組み込んでいる。これにより、図表や手書きを含む文書の理解も可能となり、回答精度が向上するとのこと。
-
-@
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 25 Jun 2024 09:40:13 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
+:::</description><pubDate>Tue, 25 Jun 2024 07:33:01 +0000</pubDate></item><item><title>日本リスキリングコンソーシアム　最新の生成AI講座「 Google AI Essentials」を先着1万人に無料提供
 </title><link>https://ledge.ai/articles/google_ai_essentials</link><description>:::small
 画像の出典：[日本リスキリングコンソーシアム](https://japan-reskilling-consortium.jp/news/248
 ){target=“_blank”}
