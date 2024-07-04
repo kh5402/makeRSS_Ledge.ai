@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 03 Jul 2024 11:17:46 +0000</lastBuildDate><item><title>Llama3を超えた？4兆円超予算のアリババの研究所が開発したオープンソースLLM「Qwen」</title><link>https://ledge.ai/articles/alibaba-lightblue</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 03 Jul 2024 13:37:54 +0000</lastBuildDate><item><title>パナソニックHDとストックマーク　1,000億パラメータの日本語LLM開発で協業</title><link>https://ledge.ai/articles/panasonic_llm_100b_with_stockmark</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+パナソニックHDは2024年7月2日、ストックマーク株式会社と、国内最大規模となる1,000億パラメータの日本語大規模言語モデル（LLM）「Panasonic-LLM-100b」の共同開発を{target=“_blank”}した。この協業により、パナソニックグループの専用LLMが構築されるという。
+
+パナソニックHDとストックマークは、ストックマークの独自LLM「Stockmark-LLM-100b」にパナソニックの社内データを追加学習させた「Panasonic-LLM-100b」を開発する。同モデルは、1,000億パラメータを持ち、国内企業が開発する自社専用LLMとしては最大規模となる予定だという。従来、多くの企業は70～130億パラメータのモデルを使用していたが、今回のプロジェクトでは大規模な社内データを活用し、より高精度で信頼性の高いLLMを目指す。
+
+## 背景
+生成AIの利用拡大に伴い、汎用型モデルの利用コストやビジネス領域における知識不足といった課題が浮上している。これらの課題を解決するため、パナソニックHDは自社データを活用した独自LLMの開発に着手したとのこと。自社のデータを学習させることで、業界特有の用語や知識に対応し、業務オペレーションの効率化やリスクの低減を図る。
+
+## 「Stockmark-LLM-100b」との連携
+「Stockmark-LLM-100b」は、経済産業省とNEDOが主催するプロジェクト「{target=“_blank”}」に採択され、2024年5月に商用利用可能な形式で公開されたLLMである。同モデルは、1,000億パラメータを持ち、日本語のビジネスデータを中心に学習されており、ハルシネーションの抑止に成功している。今回の協業により、パナソニックグループの社内データを追加学習し、さらに精度を高めた「Panasonic-LLM-100b」が構築される。
+
+「Panasonic-LLM-100b」は、パナソニックHDが開発中のマルチモーダル基盤モデルに統合され、パナソニックHDおよび各事業会社におけるAI開発や社会実装を加速させる予定である。ストックマークの技術とパナソニックHDの膨大なデータ・ドメイン知識のシナジーにより、パナソニックHDのAI技術戦略「Scalable AI」および「Responsible AI」の実現が期待される。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 03 Jul 2024 13:37:54 +0000</pubDate></item><item><title>Llama3を超えた？4兆円超予算のアリババの研究所が開発したオープンソースLLM「Qwen」</title><link>https://ledge.ai/articles/alibaba-lightblue</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -452,35 +479,7 @@ OpenAIの最高執行責任者（COO）であるブラッド・ライトキャ�
 :::box
 
 :::
-</description><pubDate>Thu, 27 Jun 2024 15:26:08 +0000</pubDate></item><item><title>UberやNVIDIAも出資　カナダの自動運転スタートアップWaabiが2億ドルを調達　2025年に完全無人トラックの発売を目指す</title><link>https://ledge.ai/articles/waabi_reaches_200m_in_fully_automated_trucks</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-カナダの自動運転スタートアップWaabiは、2024年6月20日、シリーズBラウンドで2億ドル（約315億円）の資金調達を{target=“_blank”}した。この資金は、2025年に完全自動運転のトラックを市場に投入するために使用されるという。
-
-今回の資金調達には、UberやNVIDIA、Volvo Group Venture Capital、Porsche Automobil Holding SE、Scania Invest、Ingka Investmentsなどの著名な企業が参加している。これにより、Waabiの総資金調達額は2億8,000万ドルを超えた。
-
-Waabiの創業者兼CEOであるRaquel Urtasun氏は、ブログで次のように述べている。
-「3年前、私はこの素晴らしい技術を世界に紹介するためにWaabiを設立し、自動運転トラックに焦点を当てた。物流業界は供給チェーン全体で多くの非効率を抱えており、トラックドライバーの不足が迫っている。自動運転トラックはこれらの課題に対応し、資産利用率の向上、二酸化炭素排出量の削減、道路安全の改善、そしてトラックドライバーのキャリア展望と生活の質の向上に寄与する可能性がある」
-
-Waabiは、デジタルシミュレーター「Waabi World」を使用してAIシステムを訓練する独自のアプローチを採用している。このシステムは、高確率で失敗を引き起こすシナリオを効率的に生成し、全ての可能な失敗をカバーすることで、テスト効率を飛躍的に向上させているという。また、Waabi Worldが実世界のデータよりも豊富で情報量の多い例を作成することで、訓練とテストの時間を大幅に短縮し、コスト削減を可能にするとのこと。
-
-@
-
-
-
-UberのCEOであるDara Khosrowshahi氏は、「自動運転技術が輸送業界を変革し、より安全で持続可能な未来を実現する可能性を信じている」と述べ、NVIDIAの創業者兼CEOであるJensen Huang氏も、「Waabiの技術は物理世界に最先端の生成AIを適用することで自動運転トラックを開発している」としてWaabiのビジョンを支持している。
-
-また、WaabiはUber Freightとの提携により、フォーチュン500企業や一流の荷主に対して自動運転の出荷を提供することを目指しているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 26 Jun 2024 12:42:30 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
+</description><pubDate>Thu, 27 Jun 2024 15:26:08 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
