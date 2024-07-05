@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Jul 2024 11:26:15 +0000</lastBuildDate><item><title>パナソニックHDとストックマーク　1,000億パラメータの日本語LLM開発で協業</title><link>https://ledge.ai/articles/panasonic_llm_100b_with_stockmark</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Jul 2024 11:28:58 +0000</lastBuildDate><item><title>国産クラウド強化の動き　さくらインターネットが防衛省と約7.5億円の契約を締結</title><link>https://ledge.ai/articles/sakura_internet_signs_750million_contract_with_ministry_of_defense</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+さくらインターネットは2024年7月1日、防衛装備庁と「サプライチェーン調査に必要な役務の提供等」に関する約7.5億円の役務請負契約を締結したこと{target=“_blank”}した。契約に基づき、同社のIaaS型パブリッククラウド「さくらのクラウド」が防衛省のサプライチェーン調査に利用されるという。
+
+防衛省が実施するサプライチェーン調査は、防衛産業の装備品等の安定的な製造を確保するため、サプライチェーンにおけるリスクを把握し、必要な対応を図ることを目的としている。今回の契約により、さくらインターネットの「さくらのクラウド」がクラウドインフラとして採用されるとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「さくらのクラウド」は「政府情報システムのためのセキュリティ評価制度」（ISMAP）に登録されており、日本政府の求めるセキュリティ要件を満たしている。また、2023年度にデジタル庁が募集した「ガバメントクラウド整備のためのクラウドサービス」にも条件付きで認定された実績があるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 04 Jul 2024 11:28:58 +0000</pubDate></item><item><title>パナソニックHDとストックマーク　1,000億パラメータの日本語LLM開発で協業</title><link>https://ledge.ai/articles/panasonic_llm_100b_with_stockmark</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -454,32 +477,7 @@ MetaのCEOであるマーク・ザッカーバーグ氏は2024年6月27日、You
 :::box
 
 :::
-</description><pubDate>Fri, 28 Jun 2024 15:42:17 +0000</pubDate></item><item><title>OpenAIとTIME、101年のアーカイブを活用した戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/openai_time_partnership</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIとTIMEは2024年6月27日（現地時間）、TIMEの信頼されるジャーナリズムをOpenAIの製品、特にChatGPTに提供するための複数年にわたるコンテンツ契約と戦略的パートナーシップを{target=“_blank”}した。
-
-この協力により、OpenAIは過去101年間にわたるTIMEの広範なアーカイブの最新および歴史的なコンテンツにアクセスできるようになるとのこと。このコンテンツは、ユーザーの問い合わせに対する応答として表示される際に、出典として元のソースであるTime.comへのリンクが付される。この新しいパートナーシップは、信頼性の高い情報へのグローバルなアクセス拡大を目指すTIMEの取り組みをさらに進めるものであるという。
-
-TIMEの最高執行責任者（COO）であるマーク・ハワード氏は以下のように述べている。
-「101年の歴史を通じて、TIMEは技術の進化に伴い、信頼されるジャーナリズムの提供方法を革新してきた。今回のOpenAIとのパートナーシップは、我々の信頼できる情報へのアクセスをグローバルに拡大する使命を進めるものであり、TIMEのジャーナリズムを新しい形で世界中の読者に届けるための革新的な手段を模索し続ける」
-
-OpenAIの最高執行責任者（COO）であるブラッド・ライトキャップ氏は、「我々はTIMEと提携し、AIツールを通じて人々がニュースコンテンツに簡単にアクセスできるようにし、元のソースに適切な帰属を提供することで信頼性のあるジャーナリズムを支援している」と述べている。
-
-このパートナーシップにより、TIMEはOpenAIの技術にアクセスし、新しい製品の開発や、ジャーナリズムの提供方法を洗練し強化するためのフィードバックを提供する機会も得ることになる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 27 Jun 2024 15:26:08 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
+</description><pubDate>Fri, 28 Jun 2024 15:42:17 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
