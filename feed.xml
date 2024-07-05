@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Jul 2024 11:28:58 +0000</lastBuildDate><item><title>みずほ銀行、生成AIを活用した次世代コンタクトセンターシステムをリリース　PKSHAが開発を支援</title><link>https://ledge.ai/articles/pksha_mizuho_bank</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Jul 2024 11:34:56 +0000</lastBuildDate><item><title>アリババの言語モデル「Qwen2-72B-Instruct」がLlama3を抜いて1位に　Hugging Face のオープンソースLLMランキング</title><link>https://ledge.ai/articles/alibaba_qwen2_overtakes_llama3_for_1st_place</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Hugging Faceが2024年6月29日に公開した最新版の「{target=“_blank”}」（オープンソース言語モデル評価ランキング）で、アリババが開発した「Qwen2-72B-Instruct」が公開時に第1位の座についた（リンク先のランキングは適宜更新される）。
+
+このランキングは、世界中の様々な言語モデルを対象に、その性能を評価し順位付けを行うもの。1位のモデル Qwen2-72B-Instruct は、知識評価、長文脈推論、複雑な数学問題解決、指示追従能力といった4つの主要タスクで他のモデルを上回る成績を収めた​という。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## 評価基準とベンチマーク
+各言語モデルの評価には、以下の6つのベンチマークが用いられた：
+
+- **MMLU-Pro：** 複数選択肢から正解を選ぶ形式のベンチマークで、質問に対する深い理解を必要とする
+- **GPQA：** 高度な専門知識を要求される質問に対するモデルの性能を測る
+- **MuSR：** 殺人事件の謎解きなど、長文脈を必要とする複雑な推論問題を含む
+- **MATH：** 高校レベルの数学問題に挑む
+- **IFEval：** 指示に従う能力を評価する
+- **BBH：** 人間の興味を引くような回答を生成する能力を測る
+## Qwen2-72B-Instructの優位性
+Qwen2-72B-Instructは、平均評価点が40点台に到達した唯一のモデルであり、他のモデルと一線を画す性能を示した。このモデルは、アリババクラウドによる高度なトレーニング手法と、中国語と英語に加え27の異なる言語を含む広範なデータセットによって強化されている。
+
+Qwen2シリーズには、基本的な言語モデルおよび命令調整済みの言語モデルが含まれ、そのパラメータサイズは0.5億から720億まで多岐にわたる。また、Mixture-of-Experts（MoE）モデルも提供されている。
+
+このアップデートにより、Qwen2はコラボレーションAIプラットフォームであるHugging FaceのOpen LLM Leaderboardで首位を獲得し、商業用途および研究用途で利用可能となったという。
+
+
+Alibaba Cloudの最高技術責任者（CTO）である周景仁氏は、「AI時代において最もオープンなクラウドを構築し、計算能力をより包括的にし、AIをよりアクセスしやすくしたい」と述べている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 04 Jul 2024 11:34:56 +0000</pubDate></item><item><title>みずほ銀行、生成AIを活用した次世代コンタクトセンターシステムをリリース　PKSHAが開発を支援</title><link>https://ledge.ai/articles/pksha_mizuho_bank</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -462,34 +507,7 @@ SBG代表の孫正義氏は、「AIを駆使した個別化医療の推進で人
 :::box
 
 :::
-</description><pubDate>Mon, 01 Jul 2024 01:16:40 +0000</pubDate></item><item><title>OpenAI、中国からのアクセスをブロックへ - 中国AI企業は自社AIに乗り換え提案続々</title><link>https://ledge.ai/articles/openai_will_block_people_in_china</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年7月9日以降、中国を含むサポート対象外の国や地域からのアクセスをブロックする。同社がサポート対象外とする国のユーザーに送ったメールの文面が6月25日、OpenAIのコミュニティフォーラムに{target=“_blank”}されている。この決定により、中国からのOpenAIのAPIサービスの利用ができなくなるという。 
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-サポート対象地域は{target=“_blank”}から確認できる。
-
-この発表を受けて、中国のAI企業は迅速に対応策を打ち出していることを{target=“_blank”}が報じている。
-
-AIユニコーン企業の智譜AI（Zhipu AI）は、OpenAIのAPIユーザー向けに特別な乗り換えプランを提供すると発表した。自社のLLM「GLM」シリーズを1億5000万トークン提供し、乗り換えに向けたトレーニングも実施する計画だという。同じく、Baidu AI Cloud、Alibaba Cloudなどが、OpenAIからの乗り換え支援プログラムを発表。同社のクラウドプラットフォームを活用し、AI開発者がスムーズに移行できるよう支援を強化している​とのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 29 Jun 2024 13:01:25 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
+</description><pubDate>Mon, 01 Jul 2024 01:16:40 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
