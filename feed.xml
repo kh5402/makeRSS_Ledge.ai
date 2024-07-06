@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 04 Jul 2024 11:34:56 +0000</lastBuildDate><item><title>アリババの言語モデル「Qwen2-72B-Instruct」がLlama3を抜いて1位に　Hugging Face のオープンソースLLMランキング</title><link>https://ledge.ai/articles/alibaba_qwen2_overtakes_llama3_for_1st_place</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Jul 2024 07:31:03 +0000</lastBuildDate><item><title>アリババの言語モデル「Qwen2-72B-Instruct」がLlama3を抜いて1位に　Hugging Face のオープンソースLLMランキング</title><link>https://ledge.ai/articles/alibaba_qwen2_overtakes_llama3_for_1st_place</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2322,7 +2322,30 @@ nodoca®の開発には、累計100施設以上の国内医療機関が関わり
 :::box
 
 :::
-</description><pubDate>Tue, 11 Jun 2024 04:02:23 +0000</pubDate></item><item><title>大阪・関西万博に実物大ガンダム登場へ　バンダイナムコHDが展示計画を発表
+</description><pubDate>Tue, 11 Jun 2024 04:02:23 +0000</pubDate></item><item><title>ハリウッド撮影クルー、AI使用も雇用維持で合意</title><link>https://ledge.ai/articles/hollywood_iatse_amptp_agreement</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+全米のエンターテインメント産業の撮影現場で働く労働者の組合「IATSE」と主要スタジオを代表する「AMPTP」は2024年6月27日、AIの使用を認めながらも雇用を維持することで合意に達したと{target=“_blank”}した。
+この合意は、「ハリウッド基本合意」と「ビデオテープ合意」の枠組みで成立し、IATSEの約50,000人のメンバーに影響を与えるものだという。
+## 合意の詳細
+今回の合意には、AIの使用に関する新たな保護措置が含まれている。具体的には、AIが労働者の職を奪うことがないようにするための条項が盛り込まれ、労働者がAIプロンプトを提供する場合でも、それが雇用喪失につながらないようにする対策が取られている​。また、賃金の引き上げも合意され、契約期間中3年間で7%、4%、3.5%のスケール賃金率の引き上げを予定しているとのこと。
+
+## 交渉の背景
+IATSEは衣装デザイナーやヘアスタイリスト、照明技術者、カメラオペレーターなど、多岐にわたる職種の労働者を代表している。今回の合意は、生成AIの台頭により雇用の危機感が高まる中で、労働条件の是正を求め{target=“_blank”}したものだ。特にコロナ禍のパンデミック以降、ハリウッドの労働者たちは自身の権利と雇用条件についてより積極的に声を上げている。
+
+この合意はまだIATSEのメンバーによる批准が必要だが、正式に承認されれば、ハリウッドの労働環境におけるAIの影響を適切に管理しながら、労働者の権利と雇用を保護する新たな枠組みが確立されることになる見通し。また、同様の合意が他の労働組合との間でも期待されており、エンターテインメント産業全体での労働環境の改善が見込まれているという。
+
+全米の映画俳優組合（SAG-AFTRA）によるストもAMPTPとの暫定合意に達し、2023年11月に終結している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Fri, 05 Jul 2024 07:31:03 +0000</pubDate></item><item><title>大阪・関西万博に実物大ガンダム登場へ　バンダイナムコHDが展示計画を発表
 </title><link>https://ledge.ai/articles/bandainamco_gundam</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -2725,37 +2748,4 @@ Project G-Assistは、ゲームやアプリケーションの体験を一層向�
 :::box
 
 :::
-</description><pubDate>Tue, 04 Jun 2024 11:53:08 +0000</pubDate></item><item><title>自動で作詞・作曲・演奏する音楽生成AI「Suno」が賞金総額100万ドルのコンテスト「Summer of Suno」開催中</title><link>https://ledge.ai/articles/summer_of_suno_vol1</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Sunoは、2024年のトップクリエイターに総額100万ドルを支払うことを{target=“_blank”}した。
-
-最初のイベント「Summer of Suno（SoS）」が、2024年6月1日から開始されている。このイベントは、ユーザーがSunoを利用して制作した楽曲を評価し、その成果に応じて報酬を提供するものだという。
-
-Sunoは与えられたプロンプト（テキストの指示）から音楽を生み出すAIだ。作詞作曲を行い、その曲をボーカル付きの楽曲音声として生成する。同社は8か月前に初のプロダクトをリリースし、誰でもシンプルなアイデアで楽曲を作成できるようにした。
-
-これまでに1,200万人がSunoを使って音楽を制作しており、友人同士でのミーム交換や、カップル間でのラブソングのやりとり、大規模な観客との共同制作など、さまざまな形で音楽が共有されてきたという。
-
-2024年の残りの期間、Sunoは音楽を通じて人々をつなぐクリエイターに対して総額100万ドルを支払う予定だ。その第一弾として開催されるイベントが「Summer of Suno」である。これは、コミュニティ全体を感動させる楽曲を祝うイベントであり、頭を揺らしたり、足を踏み鳴らしたり、笑ったり、泣いたり、「すごい」と感じさせる楽曲を対象としている。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-SoS Vol. 1は2024年6月1日より始まっており、6月中にSunoで作成されたトップ500の楽曲のクリエイターに総額 100 万ドルの賞金プールのうち最初の 10 万ドルが支払われる。1位の賞金は10,000ドルで、上位のクリエイターには順次賞金が授与される。公開した楽曲は自動的にエントリーされ、SNSの再生回数、いいね、共有数の組み合わせで人気度が評価されるとのことだ。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 03 Jun 2024 09:40:39 +0000</pubDate></item></channel></rss>
+</description><pubDate>Tue, 04 Jun 2024 11:53:08 +0000</pubDate></item></channel></rss>
