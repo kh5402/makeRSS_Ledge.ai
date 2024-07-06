@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Jul 2024 07:31:03 +0000</lastBuildDate><item><title>アリババの言語モデル「Qwen2-72B-Instruct」がLlama3を抜いて1位に　Hugging Face のオープンソースLLMランキング</title><link>https://ledge.ai/articles/alibaba_qwen2_overtakes_llama3_for_1st_place</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Jul 2024 07:35:19 +0000</lastBuildDate><item><title>アリババの言語モデル「Qwen2-72B-Instruct」がLlama3を抜いて1位に　Hugging Face のオープンソースLLMランキング</title><link>https://ledge.ai/articles/alibaba_qwen2_overtakes_llama3_for_1st_place</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2322,7 +2322,32 @@ nodoca®の開発には、累計100施設以上の国内医療機関が関わり
 :::box
 
 :::
-</description><pubDate>Tue, 11 Jun 2024 04:02:23 +0000</pubDate></item><item><title>ハリウッド撮影クルー、AI使用も雇用維持で合意</title><link>https://ledge.ai/articles/hollywood_iatse_amptp_agreement</link><description>:::small
+</description><pubDate>Tue, 11 Jun 2024 04:02:23 +0000</pubDate></item><item><title>生成される画像の価値とは何なのか？　ライゾマティクスが「AIと生成芸術」がテーマの個展を開催中</title><link>https://ledge.ai/articles/rhizomatiks_beyond_perception</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+クリエーター集団のライゾマティクスが、AI技術を活用した新しいアートの形を提案している。KOTARO NUKAGA（天王洲）の拡張移転に伴い、2024年6月29日から9月28日までの3ヶ月間にわたり、「AIと生成芸術」をテーマに個展「Rhizomatiks Beyond Perception」を{target=“_blank”}する。
+
+展覧会では、ライゾマティクスが独自に作成した画像のみを学習したAIモデルを新たに開発し、その成果を展示する。現代において誰もがAIを使って画像を生成できる中、ライゾマティクスは「生成される画像の価値とは何なのか？」という問いを観客に投げかける。
+
+展示作品の一環として、初めて販売されるのは “AIモデルデータ” である。購入者はこのAIモデルを使って入力を変えることにより、無限に画像を生成する体験が可能となる。このAIモデルデータは、ライゾマティクス自身の作品108本の映像を静止画に変換した約17万枚の画像を学習データとして使用し、既存の基盤モデルを一切使用せずにゼロから開発されたものだという。
+
+### 展覧会概要
+**会期:** 2024年6月29日（土） – 9月28日（土）
+**開廊時間:** 11:00 – 18:00（火曜日から土曜日、日月祝休廊）
+**会場:** KOTARO NUKAGA（天王洲）
+**住所:** 東京都品川区東品川1-32-8 TERRADA Art Complex II 1F
+**アクセス:** 東京臨海高速鉄道りんかい線「天王洲アイル駅」から徒歩約8分、東京モノレール羽田空港線「天王洲アイル駅」から徒歩約10分、京急本線「新馬場駅」から徒歩約8分
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 05 Jul 2024 07:35:19 +0000</pubDate></item><item><title>ハリウッド撮影クルー、AI使用も雇用維持で合意</title><link>https://ledge.ai/articles/hollywood_iatse_amptp_agreement</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 全米のエンターテインメント産業の撮影現場で働く労働者の組合「IATSE」と主要スタジオを代表する「AMPTP」は2024年6月27日、AIの使用を認めながらも雇用を維持することで合意に達したと{target=“_blank”}した。
@@ -2691,61 +2716,4 @@ STRANGE LOVE氏のチャンネルには、この動画のほかにも「茨城�
 :::box
 
 :::
-</description><pubDate>Sat, 08 Jun 2024 14:06:06 +0000</pubDate></item><item><title>NVIDIAが ゲーム体験を変革するAIアシスタント「Project G-Assist」を発表</title><link>https://ledge.ai/articles/nvidia_project_g_assist</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAは2024年6月2日、Computex 2024にてRTX搭載のAIアシスタント技術デモ「Project G-Assist」を{target=“_blank”}した。
-
-このプロジェクトは、PCゲームやアプリケーションに対してコンテキストに基づいたヘルプを提供し、ユーザー体験を強化することを目的としている。
-### ゲームAIアシスタントの仕組み
-Project G-Assistは、プレイヤーからの音声またはテキスト入力と、ゲームウィンドウのスナップショットを取り込み、それをAIビジョンモデルに入力することで動作する。このビジョンモデルは、大規模言語モデル（LLM）と連携してゲーム知識データベース（例えばWiki）にアクセスし、プレイヤーに対してコンテキストに基づいた回答を提供する。
-
-これにより、プレイヤーはゲームやシステムパフォーマンスに関する質問を簡単に行うことができ、AIアシスタントがその場で適切な回答を返す。例えば、特定のクエストやアイテム、ボス攻略法などについての質問に対しても即座に答えてくれるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-### ARK: Survival Ascendedでのデモ
-Studio Wildcardと提携し、ARK: Survival Ascendedを用いた技術デモが実施された。このデモでは、ホットキーやウェイクフレーズを使用してAIアシスタントを起動し、クエストやアイテム、ボス攻略に関する質問に答える。
-
-AIアシスタントは、ゲーム固有の知識を提供するための仲介役となる。プレイヤーがよく調べるような質問、例えば「初期ゲームでの最良の武器は何か、またそのクラフト材料はどこで見つかるか？」といった質問にも応答する。また、アシスタントは画面上の状況も理解できるため、見慣れない恐竜を見つけた際にその情報やテイム方法を教えてくれる。
-
-下図：AI アシスタントは、AI ビジョン モデルを活用してゲーム ウィンドウ内で何が起こっているかを理解し、画面上の恐竜を避けるべきかどうか、または特定の獣を飼いならすための別のアプローチをアドバイスしている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-さらに、プレイヤーの進行状況に応じた推奨事項を提供することもできる。レベルアップやクラフトレシピのアンロックに必要なポイントがたまっているが、次に何を選ぶべきか迷った時などに役立つ。また、公式Wikiへのリンクをクリックしてさらに深掘りすることも可能だ。
-
-@
-
-
-
-
-### パフォーマンスチューニング
-スムーズで没入感のあるゲームプレイを実現するために求められる、システムにとっての最高のパフォーマンスをチューニングするときも、Project G-Assistは非常に役立つという。
-
-AIアシスタントはシステムを理解し、最適化の手助けをする。FPSやPCレイテンシーなどのパフォーマンス指標を提供し、システムの調整を手助けする。ディスプレイの能力を最大限に活用できていない場合など、問題をスキャンして見つけ出し、推奨設定を提案することも可能だ。
-
-下図は、AI アシスタントがフレーム レート、電力使用量、PC のレイテンシ、その他のハードウェア統計を追跡してグラフ化し、プロンプトが表示されたら改善方法を提案している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Project G-Assistは、ゲームやアプリケーションの体験を一層向上させるために、開発者によってカスタマイズ可能な高精度なAIモデルを提供する。この技術は、クラウドで実行することも、GeForce RTX AI PCやラップトップでローカルに加速することも可能だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 04 Jun 2024 11:53:08 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sat, 08 Jun 2024 14:06:06 +0000</pubDate></item></channel></rss>
