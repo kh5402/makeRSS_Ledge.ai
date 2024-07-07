@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jul 2024 11:33:21 +0000</lastBuildDate><item><title>SMBCグループが、大阪・関西万博独自の電子マネー「ミャクペ！」を7月1日より提供開始　会場内外問わず利用可能</title><link>https://ledge.ai/articles/myaku_pe_expo2025</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jul 2024 16:34:09 +0000</lastBuildDate><item><title>SMBCグループが、大阪・関西万博独自の電子マネー「ミャクペ！」を7月1日より提供開始　会場内外問わず利用可能</title><link>https://ledge.ai/articles/myaku_pe_expo2025</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1593,7 +1593,64 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>NICTとKDDI、ハルシネーション抑制とマルチモーダルデータ対応の高性能LLM共同研究を開始</title><link>https://ledge.ai/articles/nict_kddi_launch_llm_collaboration</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>長尺のビデオを理解する「LongVA」大規模マルチモーダルモデルの進化　シンガポールの研究グループが発表</title><link>https://ledge.ai/articles/long_va_lmms_lab</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年6月25日、シンガポールの研究チームが{target=“_blank”}した「LongVA（Long Video Assistant）」が、大規模マルチモーダルモデル（LMMs）の長尺ビデオ理解における新たな指標を示した。
+## 主要な特徴と技術的背景
+近年、大規模なマルチモーダルモデル（LMMs）が注目を集めているが、長時間の動画理解には限界がある。この問題に対し、研究者たちは新たなアプローチとして「LongVA」（Long Video Assistant）を開発した。このモデルは、従来の方法とは異なり、言語モデルのコンテキスト長を拡張することで、長時間の動画理解能力を飛躍的に向上させているという。
+
+LongVAという新たなアプローチでは、まず言語モデルの文脈長を拡張し、その後、画像データを用いて視覚と文脈の整合性を図ることで、長いビデオの理解を可能にする。
+
+下図: LongVAのアプローチ。左側は従来の視覚トークン削減手法を示し、右側はLongVAが言語モデルの長い文脈を視覚データに転移させる方法を示している。短い画像データで訓練し、テスト時には非常に長いビデオをゼロショットで処理する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+これにより、従来の視覚トークン削減の手法を使わずに、2000フレーム以上、200K以上の視覚トークンを処理できるようになったという。
+
+## 性能評価と結果
+LongVAは、特に「V-NIAH（Visual Needle-In-A-Haystack）」という新たなベンチマークテストで、その性能を発揮している。このテストは、非常に長いビデオの中から特定のフレームを見つけ出し、その内容を理解する能力を測定するものである。
+
+V-NIAHテスト結果は下図の通り。x軸はビデオ全体のフレーム数を示し、y軸は針（特定フレーム）の位置を示している。黒の点線は言語モデルの訓練文脈長を示し、各フレームは144トークンに相当する。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+実験の結果、LongVAは2000フレーム以上の入力に対しても高い精度で情報を取得できることが示された。また、他のビデオベンチマーク（Video-MME）においても、LongVAは7Bスケールのモデルの中で最先端の性能を達成している。特に、フレームを密にサンプリングすることで、その性能がさらに向上することが確認されたという。
+## Video-MMEベンチマークでの最高性能
+LongVAは、Video-MMEベンチマークにおいて、7B規模のモデルの中で最高性能を達成した。特に、入力フレーム数を増やすと性能が向上し、長い動画での性能向上が顕著であった​とのこと。
+
+## 定性的な結果
+LongVA-DPOの定性的な結果も評価されている。このモデルは、短いビデオと長いビデオの両方に対して優れた理解能力を示している。例えば、短いビデオでは、人々が調味料で遊んでいるシーンを正確に説明し、長いビデオでは、列車の色やシーン内で使用されている傘の色など、特定の詳細を識別する能力を示している。
+
+下図は、LongVA-DPOの定性的結果。モデルは短いビデオや長いビデオにおける特定の詳細を正確に識別し、理解する能力を示している。
+
+!
+:::small
+画像の出典：{target=“_blank”}{target=“_blank”}
+:::
+
+LongVAのコード、デモ、およびモデルは、{target=“_blank”}および{target=“_blank”}でオープンソースとして公開されている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>NICTとKDDI、ハルシネーション抑制とマルチモーダルデータ対応の高性能LLM共同研究を開始</title><link>https://ledge.ai/articles/nict_kddi_launch_llm_collaboration</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1942,37 +1999,7 @@ Auroraの研究は、地球科学分野における基礎モデルの可能性�
 :::box
 
 :::
-</description><pubDate>Wed, 19 Jun 2024 05:32:36 +0000</pubDate></item><item><title>かぶせるように相づちが打てる「あいづちボット」に人は親しみを覚える　早稲田大学研究チームの新たな会話アプローチ</title><link>https://ledge.ai/articles/synlogue_with_aizuchi-bot</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年5月11日、早稲田大学とクロスラボ研究所の共同研究チームが、会話における新たなアプローチ「共話（synlogue）」を取り入れたAIボット「あいづちボット」を開発したことを{target=“_blank”}した。
-
-研究では、会話におけるターンテイク（順番交代）ではなく、協調的なオーバーラップ（声が重なり合わさること）やあいづちの打ち合いによって進行する共話（synlogue）という概念に基づいたコミュニケーションデザインの在り方を論じている。研究チームは、あいづちを打つボットを用いた実験を通して、共話のもたらす様々な価値を提示した。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 実験と成果
-研究では、カメラをオフにしたオンラインビデオ通話をシミュレートし、あいづちボットを使用した実験が行われた。参加者の評価によれば、あいづちボットが会話に介入することで、より親しみやすく協力的な会話が実現された。また、参加者はボットに対して「人間らしさ」を感じ、自然な会話が可能であることが確認された​という。
-
-## 共話のメリットと社会的影響
-共話的なアプローチは、コミュニケーションの質の向上、社会的分断の緩和、教育や学習の促進、そしてメンタルヘルスの向上といった多岐にわたるメリットが期待されている。例えば、異なる立場の人々が共話を通じて相互理解を深め、協調関係を築くことで社会的分断の緩和が期待される。また、教育現場においては、共話を活用することでより効果的な学習環境が構築される可能性がある​ 
-
-共話の観点を取り入れることで、人間とコンピュータのインタラクションデザインに新たな視点が加わり、コンピュータを介したユーザ同士のやりとりにおいても、より親しみやすく協調的な関係性を築けるようなインターフェースの実現が期待されるとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 18 Jun 2024 07:16:27 +0000</pubDate></item><item><title>テネシー州　AIによる無断歌声使用を防ぐ新たな法律「エルビス法」を施行　違反には最大2,500ドルの罰金も</title><link>https://ledge.ai/articles/elvis_law</link><description>:::small
+</description><pubDate>Wed, 19 Jun 2024 05:32:36 +0000</pubDate></item><item><title>テネシー州　AIによる無断歌声使用を防ぐ新たな法律「エルビス法」を施行　違反には最大2,500ドルの罰金も</title><link>https://ledge.ai/articles/elvis_law</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
