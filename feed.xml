@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jul 2024 11:33:21 +0000</lastBuildDate><item><title>OpenAIのCTO「そのような仕事は最初から存在しない方がよかったかもしれない」AIがクリエイティブな仕事に与える影響を語る</title><link>https://ledge.ai/articles/mira_murati_said_some_creative_jobs_maybe_will_go_away</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jul 2024 11:33:21 +0000</lastBuildDate><item><title>SMBCグループが、大阪・関西万博独自の電子マネー「ミャクペ！」を7月1日より提供開始　会場内外問わず利用可能</title><link>https://ledge.ai/articles/myaku_pe_expo2025</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+2024年7月1日、三井住友フィナンシャルグループ、傘下の三井住友銀行、三井住友カードは、NECとともに大阪・関西万博独自の電子マネー「ミャクペ！」のサービス開始を{target=“_blank”}した。
+
+電子マネーの「ミャクペ！」は、SMBCグループが開発し提供する万博独自の電子マネーだ。大阪・関西万博のウォレットサービス「EXPO2025デジタルウォレット」で提供するサービスに含まれる。万博会場内で「ミャクペ！」を利用する際は顔認証での決済も可能で、独自電子マネーが顔認証と紐づく事例としては国内最大規模の取り組みだという。また、会場内で決済すると、「ミャクペ！」という可愛い決済音も聞くことができるそうだ。
+
+独自の電子マネーだが会場外でも利用することができる。「Visaのタッチ決済」と「iD決済」に対応した店や交通機関、「Visa」が利用できるECサイトなどであれば、万博の会期前から「ミャクペ！」での決済も可能とのこと。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 04 Jul 2024 07:57:00 +0000</pubDate></item><item><title>OpenAIのCTO「そのような仕事は最初から存在しない方がよかったかもしれない」AIがクリエイティブな仕事に与える影響を語る</title><link>https://ledge.ai/articles/mira_murati_said_some_creative_jobs_maybe_will_go_away</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -476,40 +499,7 @@ JR東海は今後、生成AIを活用して保全業務のさらなる効率化�
 :::box
 
 :::
-</description><pubDate>Mon, 01 Jul 2024 13:30:06 +0000</pubDate></item><item><title>生成AI活用の波が法務業界に：トムソン・ロイターが「CoCounsel」を発表</title><link>https://ledge.ai/articles/thomsonreuters_cocounsel</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-情報サービス大手のトムソン・ロイターは、2024年5月21日、Microsoft Build 2024の基調講演で、同社の最新AIアシスタント「CoCounsel」を{target=“_blank”}した。
-法務、メディア、税務、会計、輸出入管理、FTA、コンプライアンス管理業務に強い同社が提供するこのプラットフォームは、最新情報と革新的なテクノロジーを結びつけるものとして注目を集めている。
-
-## CoCounselの背景
-「CoCounsel」の誕生の背景には、2023年6月にトムソン・ロイターが買収したカナダの法務AIスタートアップ、Casetextがある。2013年にロースクール出身の創設者が設立したCasetextは、情報へのアクセスの悪さを改善することを目指し、設立当初からクラウドベースの法曹界用「ウィキペディア」を目指し成長してきたという。
-
-スタートアップインキュベーターのY Combinatorのアクセラレータプログラムに参加し、シードステージで180万ドルを調達するなど、急速に成長を遂げた。2016年には、AI駆動の検索技術「CARA AI」を開発し、法律検索に革新をもたらした。この技術は、キーワード入力で関連する判例を「おすすめ」する機能を持ち、法務調査のためのSpotifyのようなものだという。
-
-現在、Casetextはアメリカのトップ100社を含む1万以上の法律事務所や企業の法務部を顧客に持ち、小規模から大規模の事務所、社内法務部まで幅広く対応している。
-## 法務の自動化と効率化
-「CoCounsel」は専門的な法務業務を支援するAIアシスタントで、OpenAIのGPT-4を活用している。このAIは、法律実務とデータセキュリティの専門知識で強化されており、顧客データを使用しない最もセキュアなAIリーガルテックとされている。
-
-CoCounselは、法務業務の自動化と効率化を促進する。2022年9月から先行アクセスを開始し、利用した法律事務所からは「重要かつ非常に時間がかかるタスクを自動化することで、弁護士がより影響力のある業務に集中できる」との評価が寄せられている。競争に勝ち抜くためには、このような自動化の導入が不可欠であると強調されている。
-
-
-トムソン・ロイターは、現在先行販売中で7月に発売予定の「CoCounsel Drafting」などの新たなスキルや製品を追加し、単一のプロフェッショナルグレードのAIアシスタントというビジョンを実現し続けている。
-
-「CoCounsel Drafting」を使用すると、顧客はMicrosoft Wordを離れることなく、契約書や社内プレイブックなどのさまざまな種類の法的コンテンツを作成し、AIを使用して文書を改良およびレビューして一般的なライティングエラーを修正し、より高品質な作業を行うための最適な開始点を簡単に見つけることができる​という。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 01 Jul 2024 07:30:36 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
+</description><pubDate>Mon, 01 Jul 2024 13:30:06 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
