@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 05 Jul 2024 07:35:19 +0000</lastBuildDate><item><title>アリババの言語モデル「Qwen2-72B-Instruct」がLlama3を抜いて1位に　Hugging Face のオープンソースLLMランキング</title><link>https://ledge.ai/articles/alibaba_qwen2_overtakes_llama3_for_1st_place</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jul 2024 11:33:21 +0000</lastBuildDate><item><title>OpenAIのCTO「そのような仕事は最初から存在しない方がよかったかもしれない」AIがクリエイティブな仕事に与える影響を語る</title><link>https://ledge.ai/articles/mira_murati_said_some_creative_jobs_maybe_will_go_away</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+OpenmAIの最高技術責任者（CTO）であるミラ・ムラティ氏は、アメリカのダートマス大学で開催された「AI Everywhere」イベントにおいて、AI技術がクリエイティブな仕事に与える影響について{target=“_blank”}。
+
+ムラティ氏は、AIが一部のクリエイティブな仕事を奪う可能性があることを認めつつも、「そのような仕事は最初から存在しない方がよかったかもしれない」との見解を示した。この発言は、質の低いコンテンツを生み出す仕事が淘汰される可能性と、AIが創造性を向上させるツールとしての役割を強調している。
+
+AIの導入により一部のクリエイティブな仕事が消える可能性があると同氏は述べ、そのような仕事が質の低いコンテンツを生み出していた可能性があると指摘した。また、AIを教育や創造性のツールとして活用することで、人間の知能や創造性、想像力が広がると強調した。
+
+「AIをツールとして利用することで、私たちの知能や創造性、想像力が拡大することができる」とムラティ氏は述べ、AIが単なる労働力の置き換えではなく、質の向上をもたらす手段であるという考えを示した。
+
+## 雇用とAIの影響
+AIが雇用に与える影響についてもムラティ氏は言及し、現時点でその全貌はまだ理解されていないと述べた。AIシステムの能力を理解し、それを労働フローに統合することが第一歩であり、その後、影響を予測・予見することが重要であると強調した。反復的な仕事はAIによって置き換えられる可能性が高いが、新たな仕事も創出されると予測されているが、具体的な影響についてはまだ未知数であるとした。
+
+## 教育におけるAIの役割
+教育分野において、AIは質の高い教育を誰にでも提供できるようにする大きな可能性を秘めているとムラティ氏は述べた。個々の学習スタイルに合わせたカスタマイズされた教育の提供が可能になり、一対一の指導を補完し、学習方法の改善にも寄与することが期待されている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 06 Jul 2024 11:33:21 +0000</pubDate></item><item><title>アリババの言語モデル「Qwen2-72B-Instruct」がLlama3を抜いて1位に　Hugging Face のオープンソースLLMランキング</title><link>https://ledge.ai/articles/alibaba_qwen2_overtakes_llama3_for_1st_place</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -482,32 +509,7 @@ CoCounselは、法務業務の自動化と効率化を促進する。2022年9月
 :::box
 
 :::
-</description><pubDate>Mon, 01 Jul 2024 07:30:36 +0000</pubDate></item><item><title>ソフトバンクグループとTempus、医療データとAI活用のジョイントベンチャー「SB TEMPUS」設立
-</title><link>https://ledge.ai/articles/sb_tempus</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ソフトバンクグループ（SBG）は2024年6月27日、米国のAIと精密医療のリーディングカンパニーTempus AIとの共同事業「SB TEMPUS株式会社」を8月1日に設立すると{target=“_blank”}した。合弁契約は2024年5月に締結され、2024年7月にもクロージングが完了する見込みだ。
-
-両社はそれぞれ150億円を出資し、遺伝子検査、医療データの収集・解析、AIによる治療提案を提供するサービスを日本で展開する。特にがん治療に焦点を当て、患者一人ひとりに適した個別化医療の提供を目指すとのこと。
-
-Tempusは、米国で約50％の腫瘍医と連携し、業界最大規模の分子、臨床、画像データを保有する企業だという。そのAI対応プラットフォームは、診断をインテリジェントにし、医療提供者や製薬会社の意思決定を支援する。
-
-SB TEMPUSは、Tempusの技術と知見を活用し、がんゲノム医療の中核を担う病院や関連企業と協力して、医療データをAIで解析し、個別化医療を推進する予定だという。SBGは、Tempusとの提携を通じて、日本の医療の進歩に貢献することを目指すとのこと。
-
-SBG代表の孫正義氏は、「AIを駆使した個別化医療の推進で人々の悲しみを減らし、幸せを増やしたい」と述べている。TempusのCEO、Eric Lefkofsky氏も、「SBGとのパートナーシップで日本にAIを活用したヘルスケアソリューションを提供し、患者がより健康な生活を送れるようサポートする」と述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 01 Jul 2024 01:16:40 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
+</description><pubDate>Mon, 01 Jul 2024 07:30:36 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
