@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jul 2024 02:44:02 +0000</lastBuildDate><item><title>第3回 日本DX大賞2024授賞式を開催　132エントリーの中から選ばれた優れた取り組みを発表</title><link>https://ledge.ai/articles/dx_taisho_3</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jul 2024 02:44:02 +0000</lastBuildDate><item><title>ぶっちぎりの中国　生成AI特許出願数で独走1位　2位の米国引き離す　日本は4位</title><link>https://ledge.ai/articles/china_based_inventors_filing_most_genai_patents_wipo_data_shows</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+世界知的所有権機関（WIPO）が2024年7月3日に{target=“_blank”}したレポートによると、中国は過去10年間で生成AIに関する特許出願数において圧倒的なリードを示しており、総計3万8000件以上を出願している。この数字は世界全体の生成AI特許出願数5万4000件の約70％に相当し、2位のアメリカ（6276件）の約6倍に上る​という。
+## 特許出願数の順位
+**中国:**  3万8000件以上
+**アメリカ:**  6276件
+**韓国:** 4155件
+**日本:** 3409件
+**インド:** 1350件
+## 上位特許出願企業
+**テンセント**: 2074件
+**平安保険** : 1564件
+**Baidu:**  1234件
+**中国科学院:**  607件
+**IBM:** 601件
+**アリババ・グループ:**  571件
+**サムスン電子:**  468件
+**アルファベット:**  443件
+**ByteDance:**  418件
+**Microsoft:**  377件
+
+## 特許の内訳
+**画像・映像データ関連:** 1万7996件
+**テキスト関連:** 1万3494件
+**音声・音楽関連:** 1万3480件
+**分子・遺伝子・タンパク質データ関連:** 過去5年間で年平均成長率78％
+
+
+WIPOによると、2017年にディープニューラルネットワークのアーキテクチャが登場して以降、生成AI特許数は急増し、2023年時点でその数は8倍に増加。2023年に公開された生成AI関連の特許は全体の25％以上に達する一方、全AI特許のうち生成AIの割合はまだ6％と低い​。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 07 Jul 2024 11:43:37 +0000</pubDate></item><item><title>第3回 日本DX大賞2024授賞式を開催　132エントリーの中から選ばれた優れた取り組みを発表</title><link>https://ledge.ai/articles/dx_taisho_3</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -579,42 +619,7 @@ RAGを使う中、弊社としては利用するデータの準備からお客�
 :::box
 
 :::
-</description><pubDate>Wed, 03 Jul 2024 03:42:05 +0000</pubDate></item><item><title>米トイザらス　Soraを使用した新CMを発表するも不評の嵐　不気味の谷越えられなかったか</title><link>https://ledge.ai/articles/toysrus_sora</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-玩具量販店の米ToysRUsは6月21日、動画生成AI「Sora」を使用したWebコマーシャルを{target=“_blank”}した。動画は創業者チャールズ・ラザラス氏の幼少期を描いたもので、同社のマスコットキャラクター「ジェフリー」との交流が描かれている。動画は同社の公式Webサイトで公開され、多くの視聴者から反響を呼んでいるが、様々な批判も集まっているという。
-
-@
-
-
-
-## 技術的な問題と視覚的な不快感
-動画の質については、複数のメディアが技術的な問題を指摘することとなった。特に、キャラクターの身体特徴や衣装がシーンごとに変わるため、視覚的な連続性が欠けているとの批判が目立つ。また映像が「不気味の谷」現象を乗り越えられておらず、視聴者に不快感を与えるとの指摘もある​。
-
-「奇妙な夢を見たときのように、見るたびに違う人になって現れる」
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-{target=“_blank”}は、同社の社長であり、4度のエミー賞を受賞したプロデューサー、キム・ミラー・オルコ氏がエグゼクティブプロデューサーを務め、Native Foreignのクリエイティブディレクターであるニク・クレベロフが監督を務めた。Soraの技術を活用し、リアルなシーンや複数のキャラクターをわずか数週間で作り上げたものだという。
-
-AIを使用することで雇用が失われることへの懸念や、AI広告は「予算不足」を示すとの意見もあり、不気味の谷以外にも乗り越えねばならない問題が控えている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 02 Jul 2024 08:55:32 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
+</description><pubDate>Wed, 03 Jul 2024 03:42:05 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
