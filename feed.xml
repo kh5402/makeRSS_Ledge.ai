@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jul 2024 16:34:09 +0000</lastBuildDate><item><title>SMBCグループが、大阪・関西万博独自の電子マネー「ミャクペ！」を7月1日より提供開始　会場内外問わず利用可能</title><link>https://ledge.ai/articles/myaku_pe_expo2025</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 06 Jul 2024 16:37:22 +0000</lastBuildDate><item><title>「未来型食品工場コンソーシアム」発足：国内食品メーカーとロボット開発会社が協力</title><link>https://ledge.ai/articles/future_food_plant_consortium</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月4日、カゴメ、キユーピー、永谷園、ニチレイフーズ、日清製粉グループ、TECHMAGIC株式会社が、食品工場の非競争領域の共通課題解決を目指して「未来型食品工場コンソーシアム」を結成したことを{target=“_blank”}した。
+
+同コンソーシアムは、食品工場が直面する「労働力不足」や「原価高騰」といった課題に対し、高度なロボットテクノロジーを活用した持続可能な食インフラの構築を目指すものだという。産業課題の抽出、要求仕様の策定、共通基盤の構築、製造プロセス効率化に関する勉強会を通じて、食品工場の未来について協議・協力する。
+
+まずは共通課題である秤量工程の自動化に向けて分科会を立ち上げ、解決策を検討するとのこと。TECHMAGIC社と参画企業が共同で開発を進めることで、開発コストの分散、ソリューションの汎用化、専門的技術やノウハウの共有、市場導入のスピードアップを図るという。
+
+これにより、各社の課題解決のみならず、食産業全体の課題解決に寄与することが期待されているという。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 06 Jul 2024 16:37:22 +0000</pubDate></item><item><title>SMBCグループが、大阪・関西万博独自の電子マネー「ミャクペ！」を7月1日より提供開始　会場内外問わず利用可能</title><link>https://ledge.ai/articles/myaku_pe_expo2025</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -473,33 +491,7 @@ POP作成の効率化: 購買につながるPOPを工数をかけずに自動で
 :::box
 
 :::
-</description><pubDate>Tue, 02 Jul 2024 04:38:05 +0000</pubDate></item><item><title>JR東海が山梨リニア実験線で生成AI活用による保全業務効率化へ　AWS導入で技術を活用</title><link>https://ledge.ai/articles/jr_amazon</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月21日、JR東海は山梨リニア実験線での運営において、Amazon Web Services, Inc.（AWS）の技術を活用すると{target=“_blank”}した。これはリニア中央新幹線のデータドリブンな運営を目指し、機械学習とIoT技術を駆使した設備保全を行う取り組みだという。
-
-リニア中央新幹線は、超電導リニア技術を用い、時速500キロで東京・名古屋間を40分、東京・大阪間を67分で結ぶ次世代の高速鉄道。このプロジェクトは東海道新幹線に続く大動脈のバイパスとしての役割を担うとのことだ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-山梨リニア実験線では2024年1月から、AWSのIoTサービスを活用した概念実証（PoC）が開始された。これにより、送電設備や保守用車の状態データを取得し、機械学習を用いて故障予兆を検知する仕組みを構築した。このシステムにはAmazon SageMakerとAmazon QuickSightが使用されており、故障の早期対応が可能となったという。
-
-JR東海は今後、生成AIを活用して保全業務のさらなる効率化を図る。Amazon Bedrockを用いて設備情報や保守作業記録の検索を効率化し、社員の働きやすさを向上させることを目指す。また、デジタル人材育成も強化され、機械学習の専門知識を持つ社員がAWSの支援プログラムに参加しているとのこと。
-
-この取り組みを進めるにあたり、AWSは日本国内でのクラウドインフラへの投資を拡大する計画を発表しており、2027年までに約3兆7,700億円を投資する見込み。この投資は、日本のGDPに約5兆5,700億円の貢献を見込んでいるという。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 01 Jul 2024 13:30:06 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
+</description><pubDate>Tue, 02 Jul 2024 04:38:05 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
