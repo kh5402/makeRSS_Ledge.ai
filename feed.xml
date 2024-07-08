@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jul 2024 02:44:02 +0000</lastBuildDate><item><title>ぶっちぎりの中国　生成AI特許出願数で独走1位　2位の米国引き離す　日本は4位</title><link>https://ledge.ai/articles/china_based_inventors_filing_most_genai_patents_wipo_data_shows</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jul 2024 02:44:02 +0000</lastBuildDate><item><title>Gateboxが、GPT-4oを活用した飲食店向けサービス「AI幹事」を開発　乾杯の挨拶もAIにおまかせ</title><link>https://ledge.ai/articles/gatebox_ai_kanji</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月3日Gatebox株式会社は、飲食店向けAI接客サービス「AI幹事」の開発を{target=“_blank”}した。
+
+AI幹事は、飲食店に特化したAIの接客サービスだ。顧客がグラスを手にして乾杯しようとすると、AI幹事が率先して乾杯の挨拶を行ってくれる。
+
+このサービスはOpenAI社の生成AI「GPT-4o」の画像認識技術を活用しており、カメラを通してグラスの空き具合や、料理の残量をAIがリアルタイムで把握する。さらに、おすすめの料理やドリンクの追加注文を提案してくれる機能も搭載しており、人間が出席者の状況を小まめに確認することなくAIがその役割を果たしてくれる便利なサービスだ。
+
+タブレットに表示されるキャラクターは雰囲気に合わせて自由にカスタマイズが可能とのこと。
+@
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 08 Jul 2024 01:56:14 +0000</pubDate></item><item><title>ぶっちぎりの中国　生成AI特許出願数で独走1位　2位の米国引き離す　日本は4位</title><link>https://ledge.ai/articles/china_based_inventors_filing_most_genai_patents_wipo_data_shows</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -593,33 +616,7 @@ RAGを使う中、弊社としては利用するデータの準備からお客�
 :::
 
 **■株式会社Lightblue**
-株式会社Lightblueは、AIの民主化を目指すスタートアップ企業です。生成AI・LLMの研究開発に特化したチーム「LLab」を設立し、安全性と透明性を重視したAIモデルの開発に取り組んでいます。AI技術の活用範囲を広げ、社会にポジティブな変革をもたらすことを目指しています。</description><pubDate>Tue, 02 Jul 2024 08:43:58 +0000</pubDate></item><item><title>マイクロソフトAI責任者、ウェブ上のコンテンツの「フリーウェア」発言で議論を巻き起こす</title><link>https://ledge.ai/articles/microsoft_ai_suleyman_social_contract_freeware</link><description>:::small
-画像の出典：NBC News{target=“_blank”}
-:::
-
-マイクロソフトのAI部門責任者であるムスタファ・スレイマン氏が、公開ウェブ上のコンテンツは「フリーウェア」であり、自由にコピーや使用が可能であると発言し、大きな議論を引き起こしている。2024年6月29日に開催されたアスペン・アイデアズ・フェスティバルでのインタビューにおいて、スレイマンは1990年代以降、ウェブ上のコンテンツは「フェアユース」の対象として扱われていると述べた。
-
-このことに対して、米テック系メディアの{target=“_blank”}などが批判コメントを掲載している。
-
-@
-
-
-
-この発言は、マイクロソフトとそのパートナーであるOpenAIが、AIモデルのトレーニングに著作権で保護された素材を無断で使用しているとして複数の訴訟に直面している最中に行われたもの。これらの訴訟は、オンラインに公開された瞬間に著作権で自動的に保護される米国の著作権法に違反していると主張するものだ。
-
-スレイマン氏は、フェアユースが社会契約によって定義されていると述べたが、各メディアの反応は、フェアユースの法的定義に基づいた批判が多く見られる。フェアユースは法的に裁判所によって個別に判断されるものであり、スレイマン氏の主張するような「社会契約」によって自動的に認められるものではなく、広範な再利用を許可するものではないという。また、スレイマン氏の発言が著作権侵害訴訟の文脈で行われたものであることに対する批判も見られた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 03 Jul 2024 03:42:05 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
+株式会社Lightblueは、AIの民主化を目指すスタートアップ企業です。生成AI・LLMの研究開発に特化したチーム「LLab」を設立し、安全性と透明性を重視したAIモデルの開発に取り組んでいます。AI技術の活用範囲を広げ、社会にポジティブな変革をもたらすことを目指しています。</description><pubDate>Tue, 02 Jul 2024 08:43:58 +0000</pubDate></item><item><title>松尾研インターンから42へ　基礎カリキュラムを最速で終了した学生がAI開発企業の人事統括になるまで　42Tokyo特別インタビュー【第3回】松本悠秀さん</title><link>https://ledge.ai/articles/42tokyo-3</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
