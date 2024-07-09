@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jul 2024 02:46:52 +0000</lastBuildDate><item><title>GPT-4o? Claude3.5？無料でどの回答がよいか選べる「天秤AI byGMO」GMOインターネットグループが公開</title><link>https://ledge.ai/articles/gmo_tenbin_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jul 2024 11:55:05 +0000</lastBuildDate><item><title>GPT-4o? Claude3.5？無料でどの回答がよいか選べる「天秤AI byGMO」GMOインターネットグループが公開</title><link>https://ledge.ai/articles/gmo_tenbin_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1987,7 +1987,27 @@ Auroraの研究は、地球科学分野における基礎モデルの可能性�
 :::box
 
 :::
-</description><pubDate>Wed, 19 Jun 2024 05:32:36 +0000</pubDate></item><item><title>テネシー州　AIによる無断歌声使用を防ぐ新たな法律「エルビス法」を施行　違反には最大2,500ドルの罰金も</title><link>https://ledge.ai/articles/elvis_law</link><description>:::small
+</description><pubDate>Wed, 19 Jun 2024 05:32:36 +0000</pubDate></item><item><title>岸田首相　東南アジア諸国のLLM開発支援を表明　各国の豊かな言語と文化に根ざした取り組みが必要</title><link>https://ledge.ai/articles/asia_business_summit</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月5日、東京で開催された「アジア・ビジネス・サミット」において、岸田文雄首相は東南アジア諸国に対するAI基盤整備支援を{target=“_blank”}した。日本は東南アジアの言語と文化に適応した生成AI技術の基盤構築を技術と財政の両面で支援する。これは、先端技術での遅れを懸念する東南アジア諸国と協力し、地域全体のAI開発環境を向上させる狙いだという。
+
+岸田首相はスピーチの中で、AIが産業競争力と国力を左右する重要な技術であると強調し、特に大規模言語モデル（LLM）の開発において、各国の豊かな言語と文化に根ざした取り組みが必要であると述べた。日本のAI技術者のノウハウが他のアジア諸国のLLM開発に貢献できるとし、具体例として、日本のスタートアップであるイライザがタイ語を学習したLLMを開発中であることを紹介した。このような取り組みを日本政府として支援し、シンガポール、マレーシア、ベトナムなどの主要企業との連携を促進するとした。
+
+さらに、岸田首相は5年間で10万人の高度デジタル人材を育成する計画を明らかにし、日本とアジアの人材交流を進めることによって、AIイノベーションを推進するコミュニティをアジアに築くことを目指すと述べた。また、昨年の広島G7サミットで開始された「広島AIプロセス」に基づき、生成AIのリスクに対処するための国際的な取り組みを推進し、安全で信頼できるAIの実現に向けてアジア諸国と協力する意向を示した。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 08 Jul 2024 11:55:05 +0000</pubDate></item><item><title>テネシー州　AIによる無断歌声使用を防ぐ新たな法律「エルビス法」を施行　違反には最大2,500ドルの罰金も</title><link>https://ledge.ai/articles/elvis_law</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2283,53 +2303,7 @@ nodoca®の開発には、累計100施設以上の国内医療機関が関わり
 :::box
 
 :::
-</description><pubDate>Wed, 12 Jun 2024 13:16:24 +0000</pubDate></item><item><title>中央政策研究所 日本企業のサイバーセキュリティーに関するナレッジベース「CVL」を公表</title><link>https://ledge.ai/articles/chuseiken_cvl</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年6月1日、中央政策研究所は、日本の企業を対象としたサイバーセキュリティに関するリスク、情報漏洩についての注意喚起・警鐘を目的とした情報データベース“Chuseiken Vulnerability List（CVL）”を{target=“_blank”}した。
-
-## Chuseiken Vulnerability List（CVL）について
-
-中央政策研究所は、日本企業におけるセキュリティの脆弱性について分析や調査を行う機関だ。
-
-今回発表されたCVLは、中央政策研究所が独自に開発した日本企業の脆弱性や情報漏洩に関する情報データベースであり、企業から流出した個人情報、様々な機密情報が多く集まると言われるダークウェブにて情報が公開されていると報告があった企業について、脅威に対する分析を行い、脅威となり得る脆弱性や企業の情報漏洩に関する情報を“Chuseiken Vulnerability List（CVL）”にデータを追加し、注意喚起を行うことを目的としている。
-
-情報については、リスティングを行い、以下の3つに分類される。企業の情報漏洩や脆弱性に関する情報は誰でもCVLに情報追加が可能だが、以下の分類については、中央政策研究所にて脆弱性の再現性を確認した上で追加を行うという。
-- 「日本企業のドメインに関する脆弱性」（CVL-Domains・CVL-D）CVL-Domains・CVL-D
-- 「日本企業に関連する製品に関する脆弱性」（CVL-Products・CVL-P）
-- 「インターネットにおいて漏洩した企業情報」（CVL-Leakages・CVL-L）
-
-## 類似データベースとの比較
-
-また、CVLと類似のデータベースも存在し、各データベースは位置づけが異なる。
-
-{target=“_blank”}は、米国MITRE社が管理する脆弱性情報のデータベース。世界中のプロダクトに関する脆弱性情報を収集し、管理することを目的としており、{target=“_blank”}は、日本のJPCERT/CCと独立行政法人情報処理推進機構（IPA）が管理する脆弱性情報のデータベース。JVNは、主に製品やサイトの脆弱性情報を収集し、管理することを目的としている。
-
-これらに対して、CVLは「脆弱性情報や漏洩情報を公表し素早い注意喚起を行う」というポリシーのもと、情報のリスティングを行っており防衛手段としては非常に有用と述べている。両社との比較については以下の通り。
-
-１）企業の製品だけでなくドメインに関しても脆弱性情報を公開します。
-２）「インターネットにおいて漏洩した企業情報」に関する情報を公開します。
-３）情報を追加するに当たり、該当企業への調整がなく掲載までの時間が高速です。
-
-## 報告と掲載方法
-
-報告があった内容については速やかに調査を進め、確認が完了次第、該当の組織に告知を行う。告知の1日後にCVLへの追加及び、中央政策研究所サイト内に掲載される。リスティングの分類により調査方法や掲載までの期間は異なるが、高度な分析技術を駆使し、脆弱性の特定を続けている。
-
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-
-:::box
-
-:::
-</description><pubDate>Tue, 11 Jun 2024 04:02:23 +0000</pubDate></item><item><title>生成される画像の価値とは何なのか？　ライゾマティクスが「AIと生成芸術」がテーマの個展を開催中</title><link>https://ledge.ai/articles/rhizomatiks_beyond_perception</link><description>:::small
+</description><pubDate>Wed, 12 Jun 2024 13:16:24 +0000</pubDate></item><item><title>生成される画像の価値とは何なのか？　ライゾマティクスが「AIと生成芸術」がテーマの個展を開催中</title><link>https://ledge.ai/articles/rhizomatiks_beyond_perception</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
