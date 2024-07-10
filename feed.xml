@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 08 Jul 2024 12:00:49 +0000</lastBuildDate><item><title>IVS 2024閉幕　生成AI・核融合・宇宙ビジネスなどのセッションに注目が集まる</title><link>https://ledge.ai/articles/ivs2024_kyoto</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jul 2024 04:08:11 +0000</lastBuildDate><item><title>IVS 2024閉幕　生成AI・核融合・宇宙ビジネスなどのセッションに注目が集まる</title><link>https://ledge.ai/articles/ivs2024_kyoto</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1660,7 +1660,55 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>長尺のビデオを理解する「LongVA」大規模マルチモーダルモデルの進化　シンガポールの研究グループが発表</title><link>https://ledge.ai/articles/long_va_lmms_lab</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>Meta　従来の3～10倍速、60秒以内で高品質3Dアセットを生成する「Meta 3D Gen」を発表</title><link>https://ledge.ai/articles/meta_3d_gen</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Metaは2024年7月2日、新しいAIツール「Meta 3D Gen」を{target=“_blank”}した。テキストから高品質な3Dアセットを60秒以内に生成でき、従来の3～10倍の速度で3Dモデルを作成するツールだ。
+
+Meta 3D Genは、シェーディングビューとアルベドビューを作成するAssetGenと、テクスチャを改良するTextureGenの二段階プロセスを採用している。これにより、ゲーム開発、建築設計、VR/AR分野での利用が期待されるという。
+## Meta 3D Genの特徴
+- **高速生成:** テキストプロンプトから60秒以内に3Dアセットを生成
+- **高品質な3Dモデル:** 立体の造形とテクスチャを両方生成
+- **多彩なテクスチャ:** プロンプトに忠実なテクスチャを生成
+
+## 生成プロセス
+**1. AssetGen：** テキストプロンプトから3DメッシュとPBR（物理ベースレンダリング）マテリアルを生成
+**2. TextureGen：** AssetGenで生成されたテクスチャを改良し、ビュー空間とUV空間を統合して一貫性のあるモデルを作成
+　※物理ベースレンダリング（PBR）: 高品質なリライト（再照明）が可能な3Dアセットを生成する
+　※高忠実度: 複雑なテキストプロンプトに対しても高い忠実度を保つ
+
+下図：Meta 3D Genの概要。このパイプラインは、テキストプロンプトを入力としてテキストから3D生成を行い（ステージI）、その後テクスチャの改良を行う（ステージII）。ステージIIは、ユーザーが提供する新しいテキストプロンプトに基づいて生成またはアーティストが作成した3Dメッシュのリテクスチャリングにも使用できる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 利用例
+- **ゲーム開発:** 環境やキャラクターのプロトタイプを迅速に作成
+- **建築:** テキストから詳細な3Dモデルを生成
+- **VR/AR:** 没入型の環境やオブジェクトを簡単に作成
+
+下図：すべての業界ベースラインと比較したテキストプロンプト忠実度の定性的比較（挑戦的なプロンプトで）。Meta 3D Genは、他の方法と比べて複雑なプロンプトに対しても高い忠実度を保つ。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Meta 3D Genは、物理ベースレンダリング（PBR）をサポートし、リアルな3Dアセットの生成が可能となる。この技術の導入により、3Dコンテンツの作成プロセスが大幅に効率化されることが期待されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 09 Jul 2024 04:08:11 +0000</pubDate></item><item><title>長尺のビデオを理解する「LongVA」大規模マルチモーダルモデルの進化　シンガポールの研究グループが発表</title><link>https://ledge.ai/articles/long_va_lmms_lab</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2032,41 +2080,7 @@ Schoellig教授は、SwarmGPTの技術が産業用ロボットなど他の分野
 :::box
 
 :::
-</description><pubDate>Thu, 20 Jun 2024 06:30:53 +0000</pubDate></item><item><title>Microsoft　初のAIによる”大規模大気モデル”「Aurora」発表　わずか1分で10日間の世界の天気と5日間の大気汚染を予測</title><link>https://ledge.ai/articles/microsoft_aurora</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Microsoftは、新たに開発したAIモデル「Aurora」を{target=“_blank”}した。
-
-Auroraは天気と大気のプロセスを高解像度で予測する基盤モデルだ。従来のスーパーコンピューターによる天気予報を凌駕する計算速度と精度を持つという。
-## 10日間の天気予報と大気汚染予測を1分で
-Auroraは13億パラメーターを持つ基盤モデルで、3D Swin Transformerアーキテクチャを採用している。膨大なデータセットでトレーニングされており、気温や風速、二酸化窒素などの複雑な大気変数を高精度で予測できる。このモデルは、従来の数値予報モデルと比べて5000倍の計算速度を誇り、世界中の大気汚染を正確に予測する初のAIモデルとしても注目されているという。
-
-また、異なる解像度や変数、圧力レベルを持つ複数の異質なデータセットを使って最適化され、短期間予測から長期間予測まで多様なシナリオに対応する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 膨大なデータセットと多様な訓練
-Auroraは、気温や風速だけでなく、大気汚染物質や温室効果ガスの濃度も正確に予測できる。特に、Copernicus Atmosphere Monitoring Service（CAMS）のデータを用いた大気汚染予測では、5日間の予測で0.4°の解像度を実現し、74%のターゲットで従来の大気化学シミュレーションを上回る性能を示したという。
-
-Aurora」の性能向上の鍵は、多様なデータセットでの事前学習にある。気候シミュレーション、再解析データ、運用予測データを組み合わせることで、より一般化された大気のダイナミクスの表現を学習できる。これにより、専門的なディープラーニングアプローチや数値予測モデルを幅広いタスクと解像度で上回るとのこと。
-
-## 地球システムモデリングのパラダイムシフト
-Auroraの研究は、地球科学分野における基礎モデルの可能性を示し、包括的な地球システムモデルの開発に道を開く。特にデータの乏しい地域での正確な気象・気候情報の提供が可能となり、農業、交通、エネルギー収集、災害対策などの分野に大きな影響を与える可能性がある。
-
-将来的には、Auroraのような基礎モデルが運用気象・気候予測システムの中核となり、世界中の意思決定者や一般市民に対して、タイムリーで正確な洞察を提供することが期待されるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 19 Jun 2024 05:32:36 +0000</pubDate></item><item><title>岸田首相　東南アジア諸国のLLM開発支援を表明　各国の豊かな言語と文化に根ざした取り組みが必要</title><link>https://ledge.ai/articles/asia_business_summit</link><description>:::small
+</description><pubDate>Thu, 20 Jun 2024 06:30:53 +0000</pubDate></item><item><title>岸田首相　東南アジア諸国のLLM開発支援を表明　各国の豊かな言語と文化に根ざした取り組みが必要</title><link>https://ledge.ai/articles/asia_business_summit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
