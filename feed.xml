@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jul 2024 07:45:37 +0000</lastBuildDate><item><title>「イメージングから何ができるか」 エレクトロニクス情報プラットフォーマーのレスターが語る マルチモーダルAIによる社会課題の解決</title><link>https://ledge.ai/articles/expo2024-interview-restar-short</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jul 2024 07:45:37 +0000</lastBuildDate><item><title>NEC「匠の熟練の技」をLLMが受け継ぐ　RAGを活用したナレッジ継承支援システムを開発　</title><link>https://ledge.ai/articles/nec_knowledge_sucsession</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NECは2024年6月18日、製造業におけるナレッジ継承の課題を解決するために、大規模言語モデル（LLM）を活用した新しい支援システムを開発したと{target=“_blank”}した。2024年度中の提供開始を目指すとのこと。
+## システム概要
+NECの新システムは、工場で発生する設備や品質不良、生産効率低下などのトラブルに対応する。作業員がシステムに問い合わせを行うと、LLMが過去のトラブル対応情報や業務ノウハウを基に最適な対処法を提示するとのこと。
+
+システムには、熟練工の知見をデジタル化して構造化したデータモデルテンプレートと、問い合わせを効率化するプロンプトテンプレートが組み込まれており、高精度な回答が可能だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社が3月に実施した技術検証によると、この実証実験では、RAG（検索拡張生成）の仕組みを用いることで、AIのハルシネーションを抑制しつつ、高精度な情報提供を実現したという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 09 Jul 2024 07:39:26 +0000</pubDate></item><item><title>「イメージングから何ができるか」 エレクトロニクス情報プラットフォーマーのレスターが語る マルチモーダルAIによる社会課題の解決</title><link>https://ledge.ai/articles/expo2024-interview-restar-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
@@ -473,52 +499,7 @@ AIが雇用に与える影響についてもムラティ氏は言及し、現時
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jul 2024 11:33:21 +0000</pubDate></item><item><title>アリババの言語モデル「Qwen2-72B-Instruct」がLlama3を抜いて1位に　Hugging Face のオープンソースLLMランキング</title><link>https://ledge.ai/articles/alibaba_qwen2_overtakes_llama3_for_1st_place</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Hugging Faceが2024年6月29日に公開した最新版の「{target=“_blank”}」（オープンソース言語モデル評価ランキング）で、アリババが開発した「Qwen2-72B-Instruct」が公開時に第1位の座についた（リンク先のランキングは適宜更新される）。
-
-このランキングは、世界中の様々な言語モデルを対象に、その性能を評価し順位付けを行うもの。1位のモデル Qwen2-72B-Instruct は、知識評価、長文脈推論、複雑な数学問題解決、指示追従能力といった4つの主要タスクで他のモデルを上回る成績を収めた​という。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-## 評価基準とベンチマーク
-各言語モデルの評価には、以下の6つのベンチマークが用いられた：
-
-- **MMLU-Pro：** 複数選択肢から正解を選ぶ形式のベンチマークで、質問に対する深い理解を必要とする
-- **GPQA：** 高度な専門知識を要求される質問に対するモデルの性能を測る
-- **MuSR：** 殺人事件の謎解きなど、長文脈を必要とする複雑な推論問題を含む
-- **MATH：** 高校レベルの数学問題に挑む
-- **IFEval：** 指示に従う能力を評価する
-- **BBH：** 人間の興味を引くような回答を生成する能力を測る
-## Qwen2-72B-Instructの優位性
-Qwen2-72B-Instructは、平均評価点が40点台に到達した唯一のモデルであり、他のモデルと一線を画す性能を示した。このモデルは、アリババクラウドによる高度なトレーニング手法と、中国語と英語に加え27の異なる言語を含む広範なデータセットによって強化されている。
-
-Qwen2シリーズには、基本的な言語モデルおよび命令調整済みの言語モデルが含まれ、そのパラメータサイズは0.5億から720億まで多岐にわたる。また、Mixture-of-Experts（MoE）モデルも提供されている。
-
-このアップデートにより、Qwen2はコラボレーションAIプラットフォームであるHugging FaceのOpen LLM Leaderboardで首位を獲得し、商業用途および研究用途で利用可能となったという。
-
-
-Alibaba Cloudの最高技術責任者（CTO）である周景仁氏は、「AI時代において最もオープンなクラウドを構築し、計算能力をより包括的にし、AIをよりアクセスしやすくしたい」と述べている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 04 Jul 2024 11:34:56 +0000</pubDate></item><item><title>【無料LIVEウェビナー】RAGの活用方法や最新AIツールを紹介！生成AIを活用する時に知っておきたい重要トピックを解説</title><link>https://ledge.ai/articles/expo2024-live-webinar</link><description>:::box
+</description><pubDate>Sat, 06 Jul 2024 11:33:21 +0000</pubDate></item><item><title>【無料LIVEウェビナー】RAGの活用方法や最新AIツールを紹介！生成AIを活用する時に知っておきたい重要トピックを解説</title><link>https://ledge.ai/articles/expo2024-live-webinar</link><description>:::box
 Ledge.aiが6月に開催したオンラインイベント「{target=“_blank”}」のうち、終盤に実施したライブ配信による解説ウェビナーには多くの好評をいただいた。この反響を受け、イベントの追加コンテンツとして、7月31日までLIVEウェビナーの追加企画を実施している。また、それに伴って一部コンテンツは延長公開中だ。気になるコンテンツがあれば、是非チェックしていただきたい。
 :::
 
