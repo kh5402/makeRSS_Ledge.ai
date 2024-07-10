@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jul 2024 04:08:11 +0000</lastBuildDate><item><title>IVS 2024閉幕　生成AI・核融合・宇宙ビジネスなどのセッションに注目が集まる</title><link>https://ledge.ai/articles/ivs2024_kyoto</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jul 2024 07:45:37 +0000</lastBuildDate><item><title>IVS 2024閉幕　生成AI・核融合・宇宙ビジネスなどのセッションに注目が集まる</title><link>https://ledge.ai/articles/ivs2024_kyoto</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1660,7 +1660,54 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>Meta　従来の3～10倍速、60秒以内で高品質3Dアセットを生成する「Meta 3D Gen」を発表</title><link>https://ledge.ai/articles/meta_3d_gen</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>神経系と連携し「義足が自分の体の一部と感じられる」自然な歩行を可能に　MITの研究チームが発表</title><link>https://ledge.ai/articles/mit_continuous_neural_control_of_a_bionic_limb</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+マサチューセッツ工科大学（MIT）の研究チームが2024年7月1日に{target=“_blank”}した研究によると、特殊な外科処置と神経系で直接制御できる義足の組み合わせにより、脚を失った患者が従来よりも自然な歩行が可能になることが明らかになった。
+
+{target=“_blank”}
+!
+:::small
+動画の出典：{target=“_blank”}
+:::
+
+
+## 残存する神経を義足に接続し、神経フィードバックを得る
+従来の義足技術では、事前に定義された歩行アルゴリズムに基づいて動作するため、動きが限定され、患者は自然な歩行感覚を得ることが難しかった。しかし、研究チームは残存する神経を義足に接続し、神経フィードバックを得られるようにする特殊な外科処置を開発。この新しい義足は、患者の神経系からの信号を受け取り、その信号に基づいて動作するため、より柔軟で自然な動きを実現するという。
+
+実験では、義足を装着した患者が従来の義足と比較して、より自然に歩行できることが確認された。神経フィードバックを得ることで、歩行の安定性やバランス感覚も向上し、患者は義足を自分の体の一部として感じることができると報告している。
+
+
+### 特殊な外科処置と神経フィードバックを得るための神経接続を示した図
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+研究を主導したMITの研究者は、「この技術は、義肢使用者の生活の質を大幅に向上させる可能性がある」と述べている。今後の研究では、さらに多くの患者に対する実験や、長期間の使用による効果の検証が行われる予定だ。
+
+
+### 義足の自律的な制御と神経系との接続方法を示す詳細な図
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この画期的な技術は、義足技術の新たな可能性を示しており、事故や病気で脚を失った人々の生活に大きな変革をもたらすと期待されていると研究チームは述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 09 Jul 2024 07:45:37 +0000</pubDate></item><item><title>Meta　従来の3～10倍速、60秒以内で高品質3Dアセットを生成する「Meta 3D Gen」を発表</title><link>https://ledge.ai/articles/meta_3d_gen</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2052,35 +2099,7 @@ NTTは今回、IOWN APNによる大容量・低遅延な通信を利用して、
 :::box
 
 :
-</description><pubDate>Thu, 20 Jun 2024 07:23:38 +0000</pubDate></item><item><title>ChatGPTを活用したドローン編隊飛行システム「SwarmGPT」ミュンヘン工科大学の研究チームが発表</title><link>https://ledge.ai/articles/tum_swarm_gpt</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月29日、ミュンヘン工科大学（TUM）は、Angela Schoellig教授の研究チームがChatGPTを用いてドローン群を音楽に合わせて飛行させることに成功したと{target=“_blank”}した。大規模言語モデル（LLM）をロボット工学に応用した初の事例のひとつであり、ロボティクス分野における新たな可能性を示すものだという。
-
-## 研究の概要
-研究チームは、特定の音楽に合わせてドローンの振り付けを生成するためにChatGPTを活用した。学生のMartin Schuck氏が音楽を選び、ChatGPTに振り付けの指示を入力すると、アルゴリズムが飛行経路を計算し、シミュレーション映像を表示する。システムは、6機のドローンが円を描くように飛行する様子をシミュレーションで確認できる。
-
-@
-
-
-
-
-ドローンの飛行を安全に行うために、研究チームは追加の安全フィルターを導入した。このフィルターは、ドローンの物理的限界とChatGPTが提案する振り付け経路の間のギャップを埋め、空中衝突を回避するように設計されている​​。その結果、SwarmGPTは高い安全性を確保しながら、複雑な編隊飛行を実現することができるようになったという。
-
-Schoellig教授は、SwarmGPTの技術が産業用ロボットなど他の分野にも応用できると述べた。例えば、音声コマンドを使用して、専門知識やプログラミングスキルがなくてもロボットの動作を簡単にプログラムすることが可能になる。これにより、工場の自動化や物流の効率化など、さまざまな分野での活用が期待されるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 20 Jun 2024 06:30:53 +0000</pubDate></item><item><title>岸田首相　東南アジア諸国のLLM開発支援を表明　各国の豊かな言語と文化に根ざした取り組みが必要</title><link>https://ledge.ai/articles/asia_business_summit</link><description>:::small
+</description><pubDate>Thu, 20 Jun 2024 07:23:38 +0000</pubDate></item><item><title>岸田首相　東南アジア諸国のLLM開発支援を表明　各国の豊かな言語と文化に根ざした取り組みが必要</title><link>https://ledge.ai/articles/asia_business_summit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
