@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Jul 2024 12:36:46 +0000</lastBuildDate><item><title>サイバーエージェント　225億パラメータの独自日本語LLM「CyberAgentLM3」を公開　既存モデルを使わずスクラッチで開発</title><link>https://ledge.ai/articles/cyberagent_japanese_llm_ver3</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Jul 2024 12:36:46 +0000</lastBuildDate><item><title>「日本語でできるのか？」 国産LLM開発の苦労をAIスタートアップが明かす</title><link>https://ledge.ai/articles/expo2024-interview-alibaba-short</link><description>:::box
+本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
+:::
+
+## 「Qwen」での国産LLM開発
+アリババクラウド・ジャパンサービス株式会社のウェビナーでは、同社 藤川氏より、AI 系サービスの開発を4兆円超の予算で行っているアリババグループのAI研究所「DAMOアカデミー」についての紹介や、今回のメイントピックであるオープンソースLLM「Qwen」について紹介いただいた。
+
+また、「Qwen」を用いて国産LLM「Karasu」「Qarasu」を開発した株式会社Lightblue の谷口氏にもご登壇いただき、独自開発したLLMについてや開発の苦労まで幅広く話を伺った。
+
+:::box
+!
+**アリババクラウド・ジャパンサービス株式会社**
+**AI/Big Data ソリューションアーキテクト**
+**藤川 裕一氏**
+大手通信会社入社後、経営コンサルティングファームを経て独立。Web/モバイルアプリ、AIに関する新規事業立ち上げや開発案件を多数経験。その後、スタートアップのCTOを経て、現在はアリババクラウドにて主にAI案件に参画している。
+:::
+
+:::box
+!
+**株式会社Lightblue**
+**取締役｜上級研究員**
+**谷口 俊一氏**
+東京大学大学院工学系研究科修了。建設現場、インフラ等を主に手掛ける。Lightblueでは開発に従事。
+:::
+
+:::button
+{target=“_blank”}
+:::
+
+**藤川氏**
+約7年前の2017年にアリババはDAMOアカデミーというテクノロジーの研究施設を設立しました。この研究所のミッションは、「科学技術の研究とイノベーションを通して未知なるものを探求すること」です。ミッションを実現するために、合計4兆8000億円という莫大な予算を費やし、世界トップクラスのAI研究者を集め、 中国だけでなくアメリカにも研究施設を構え、最先端のAI技術を研究しております。このようにして生み出された AI技術を実際にお客様にも提供しており、このDAMOアカデミーの発足以降、アリババクラウドのAIソリューションは大きく進化いたしました。設立当初は画像予測などのシンプルなAI技術でしたが、近年では、LLMと呼ばれる 生成系AIの開発に非常に力を入れています。
+
+「Qwen（クウェン）」という名前のオープンソースLLMを公開していますが、頻繁にアップデートしておりまして、2024年6月7日にバージョン2.0を公開しました。こちらは多言語能力がアップしているのと、トークンサイズも伸びておりまして、非常に重要なアップデートとなっています。Hugging Faceから利用いただけますので、ぜひ1度お試しいただきたいです。
+
+**──実際にQwenを用いて開発をされた谷口様にお伺いします。LLMの基盤モデルは世界的にも数多くあると思いますが、その中でQwenを利用しようと思ったきっかけを教えてください。**
+
+**谷口氏**
+何をベースに開発するのが良いかの議論を社内で行いましたが、当然、その当時で一番良いモデルを使いたいという要望はあり、Llama2やMistral Largeも方法としてはありましたが、言語対応において、日本語対応できる点では、Qwenが公開されていたものでトップだと判断したんです。日本語が喋れるモデルをベースにファインチューニングすると精度が全然違う、という点でQwenを選定しました。
+
+弊社のLLM「Karasu」「Qarasu」の特徴としては、エンジニアが手を動かして、日々どういったデータセットがよいかを議論しながらブラッシュアップしているところで、特に日本語に強い点が特徴です。
+
+!
+:::small
+Lightblue提供資料
+:::
+**──開発過程で困難だったことはありますか。**
+
+**谷口氏**
+特徴でもある、データセットを…
+
+※続きは特設サイトよりご覧ください 
+
+:::button
+{target=“_blank”}
+:::
+
+## 開催概要
+イベント名：Ledge.ai EXPO 2024 summer
+主催：株式会社レッジ
+URL：{target=“_blank”}
+開催形式：オンライン（特設サイト）</description><pubDate>Wed, 10 Jul 2024 01:11:38 +0000</pubDate></item><item><title>サイバーエージェント　225億パラメータの独自日本語LLM「CyberAgentLM3」を公開　既存モデルを使わずスクラッチで開発</title><link>https://ledge.ai/articles/cyberagent_japanese_llm_ver3</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -473,30 +533,7 @@ DPAの設立により、コンテンツ制作者の権利保護が強化され�
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jul 2024 16:37:22 +0000</pubDate></item><item><title>SMBCグループが、大阪・関西万博独自の電子マネー「ミャクペ！」を7月1日より提供開始　会場内外問わず利用可能</title><link>https://ledge.ai/articles/myaku_pe_expo2025</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-2024年7月1日、三井住友フィナンシャルグループ、傘下の三井住友銀行、三井住友カードは、NECとともに大阪・関西万博独自の電子マネー「ミャクペ！」のサービス開始を{target=“_blank”}した。
-
-電子マネーの「ミャクペ！」は、SMBCグループが開発し提供する万博独自の電子マネーだ。大阪・関西万博のウォレットサービス「EXPO2025デジタルウォレット」で提供するサービスに含まれる。万博会場内で「ミャクペ！」を利用する際は顔認証での決済も可能で、独自電子マネーが顔認証と紐づく事例としては国内最大規模の取り組みだという。また、会場内で決済すると、「ミャクペ！」という可愛い決済音も聞くことができるそうだ。
-
-独自の電子マネーだが会場外でも利用することができる。「Visaのタッチ決済」と「iD決済」に対応した店や交通機関、「Visa」が利用できるECサイトなどであれば、万博の会期前から「ミャクペ！」での決済も可能とのこと。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 04 Jul 2024 07:57:00 +0000</pubDate></item><item><title>【無料LIVEウェビナー】RAGの活用方法や最新AIツールを紹介！生成AIを活用する時に知っておきたい重要トピックを解説</title><link>https://ledge.ai/articles/expo2024-live-webinar</link><description>:::box
+</description><pubDate>Sat, 06 Jul 2024 16:37:22 +0000</pubDate></item><item><title>【無料LIVEウェビナー】RAGの活用方法や最新AIツールを紹介！生成AIを活用する時に知っておきたい重要トピックを解説</title><link>https://ledge.ai/articles/expo2024-live-webinar</link><description>:::box
 Ledge.aiが6月に開催したオンラインイベント「{target=“_blank”}」のうち、終盤に実施したライブ配信による解説ウェビナーには多くの好評をいただいた。この反響を受け、イベントの追加コンテンツとして、7月31日までLIVEウェビナーの追加企画を実施している。また、それに伴って一部コンテンツは延長公開中だ。気になるコンテンツがあれば、是非チェックしていただきたい。
 :::
 
