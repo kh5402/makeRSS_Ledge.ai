@@ -1670,7 +1670,50 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>神経系と連携し「義足が自分の体の一部と感じられる」自然な歩行を可能に　MITの研究チームが発表</title><link>https://ledge.ai/articles/mit_continuous_neural_control_of_a_bionic_limb</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>内省メカニズムで進化するLLMエージェント「悪魔の代弁者」　GoogleDeepMindなどの研究チームが発表</title><link>https://ledge.ai/articles/google_deepmind_devils_adovocate</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+Google DeepMindとペンシルベニア大学研究チームは2024年6月、大規模言語モデル（LLM）エージェントの適応力と一貫性を向上させるための内省メカニズムを導入する新たなアプローチを{target=“_blank”}した。LLMエージェントが複雑なタスクを効率的に解決できるようにすることが主な研究目的だという。
+
+研究のタイトル「Devil’s Advocate: Anticipatory Reflection for LLM Agents（「悪魔の代弁者」LLMエージェントのための予期されたリフレクション）」は、人間の内省プロセスにおける「悪魔の代弁者」的な役割をエージェントに持たせることを示唆している。つまり、エージェントが自らの決定や行動を事前に批判的に見直すことで、潜在的な失敗を予測し、より効果的な対策が立てられるというアプローチである。
+
+## 内省メカニズムの概要
+研究では、LLMエージェントがタスクをサブタスクに分解し、行動と結果について内省を行うように促す以下の3つの内省メカニズムが提案された。
+
+**1. 予期的内省 (Anticipatory Reflection)：** 
+行動実行前に潜在的な失敗を予測し、代替案を考慮する。これにより、計画がスムーズに実行されるようになる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+**2. 行動後の評価とバックトラッキング (Post-action Evaluation and Backtracking)：** 
+各行動の実行後、その行動と結果がサブタスクの目的と一致しているかを評価し、一致しない場合は前の状態に戻り、代替行動を取る
+
+**3. 計画修正 (Plan Revision)：** 
+計画が失敗した場合、実行された行動と記録を見直し、問題を特定して未来の計画を改善する​。
+
+
+## 実験と結果
+この内省アプローチを用いた実験は、WebArenaというシミュレーション環境で実施された。812のタスクにおいて、LLMエージェントの適応力と一貫性が評価されたとのこと。実験結果は以下の通り。
+
+- **適応力の向上:** 予期せぬ状況に柔軟に対応できるようになった
+- **一貫性の維持:** 計画の頻繁な変更が減少し、エージェントの混乱が防止された
+- **効率性の向上:** タスク達成までの時間が短縮された
+
+提案された内省アプローチを用いることで、試行回数と計画修正回数が45%削減され、成功率は既存の手法に比べて3.5%向上したという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 10 Jul 2024 05:44:10 +0000</pubDate></item><item><title>神経系と連携し「義足が自分の体の一部と感じられる」自然な歩行を可能に　MITの研究チームが発表</title><link>https://ledge.ai/articles/mit_continuous_neural_control_of_a_bionic_limb</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2080,36 +2123,7 @@ AudioSealは、多様な音声操作に対する耐久性試験で、従来の�
 :::
 :::box
 
-:::</description><pubDate>Fri, 21 Jun 2024 08:41:22 +0000</pubDate></item><item><title>NTT、遠隔地の複数データセンター間の秘密計算によるAI分析を実証　IOWN APN活用</title><link>https://ledge.ai/articles/ntt_iown_apn_ai_analysis_through_secure_computation</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NTTは2024年6月12日、IOWNオールフォトニクスネットワーク（APN）を活用し、低遅延通信により複数データセンター（DC）に分散配置された秘密計算サーバを用いたAI分析環境の実用性を実証したことを{target=“_blank”}した。これにより、遠隔地にあるDCを安全に接続し、効率的なデータ活用が可能となるプラットフォームの実現が期待されるという。
-
-## 秘密計算の背景と課題
-NTTはこれまで、ICT技術を通じた社会システムの高度化やプライバシー保護のため、秘密計算技術の開発に取り組んできた。この技術はISO国際標準にも採択されており、セキュアなデータ利活用が可能である。一方、従来の秘密計算システムは大量の通信が発生するため、全てのサーバを一つのDCに配置することが一般的だった。
-
-## IOWN APNの導入とその効果
-NTTは今回、IOWN APNによる大容量・低遅延な通信を利用して、地域に分散したDCに秘密計算サーバを配置し、その実用性を検証した。具体的には、NTT西日本が構築したIOWN APNを通じて、分散配置されたサーバによる秘密計算システムを構築し、ネットワークの影響を評価したとのこと。
-
-実験では、10万件のダミーデータセットを用いたAIモデルの学習処理を実施。一般的なネットワーク接続では約157分かかる学習が、IOWN APNでは約22分で完了した。これは、同一DC内での接続に比べてもわずか1.5倍の時間であり、実用的な時間内で処理可能であることが確認されたという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同実験により、IOWN APNを用いた分散DC間の秘密計算システムが実現可能であることが示されたと同社は述べる。今後は、複数事業者間でのセキュアなデータ利活用や、地域DCを統合した計算リソースの活用といったユースケースの検証、実導入に向けた運用課題の解決に取り組む予定とのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:
-</description><pubDate>Thu, 20 Jun 2024 07:23:38 +0000</pubDate></item><item><title>経産省　ゲーム・アニメ・広告を対象に「コンテンツ制作のための生成AI利活用ガイドブック」を公開　スクエニ、伊藤園、パルコなど実例満載</title><link>https://ledge.ai/articles/meti_ai_guidebook</link><description>:::small
+:::</description><pubDate>Fri, 21 Jun 2024 08:41:22 +0000</pubDate></item><item><title>経産省　ゲーム・アニメ・広告を対象に「コンテンツ制作のための生成AI利活用ガイドブック」を公開　スクエニ、伊藤園、パルコなど実例満載</title><link>https://ledge.ai/articles/meti_ai_guidebook</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
