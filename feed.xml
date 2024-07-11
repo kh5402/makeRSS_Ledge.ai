@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 09 Jul 2024 07:45:37 +0000</lastBuildDate><item><title>NEC「匠の熟練の技」をLLMが受け継ぐ　RAGを活用したナレッジ継承支援システムを開発　</title><link>https://ledge.ai/articles/nec_knowledge_sucsession</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Jul 2024 12:36:46 +0000</lastBuildDate><item><title>サイバーエージェント　225億パラメータの独自日本語LLM「CyberAgentLM3」を公開　既存モデルを使わずスクラッチで開発</title><link>https://ledge.ai/articles/cyberagent_japanese_llm_ver3</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+サイバーエージェントは2024年7月9日、新たに225億パラメータを持つ日本語大規模言語モデル（LLM）「CyberAgentLM3」を{target=“_blank”}した。このモデルは、既存のモデルを使用せずスクラッチから開発されたという。
+
+同社は2023年5月に独自の日本語LLM「{target=“_blank”}」を公開。その後も改良を重ね、11月には「{target=“_blank”}」を、2024年6月には視覚機能を追加した大規模視覚言語モデル{target=“_blank”}を公開してきた。これらの技術は、同社の提供する「極予測AI」などのサービスで広く活用されているとのこと。
+
+今回公開された「CyberAgentLM3-22B-Chat」は、既存モデルをベースにせず、まっさらな状態からの開発モデルだ。Nejumi LLMリーダーボード3において、700億パラメータのMeta-Llama-3-70B-Instructと同等の性能を示しており、オープンな日本語LLMとしてはトップクラスの性能を誇るという。
+
+{target=“_blank”}はHuggingfaceにて公開されており、{target=“_blank”}ページでは実際に動作を確認できる。
+
+今回公開された「CyberAgentLM3-22B-Chat」は、商用利用が可能なApache License 2.0で提供されており、多くの企業や研究機関が利用できるようになっている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 10 Jul 2024 11:56:24 +0000</pubDate></item><item><title>NEC「匠の熟練の技」をLLMが受け継ぐ　RAGを活用したナレッジ継承支援システムを開発　</title><link>https://ledge.ai/articles/nec_knowledge_sucsession</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -472,34 +496,7 @@ DPAの設立により、コンテンツ制作者の権利保護が強化され�
 :::box
 
 :::
-</description><pubDate>Thu, 04 Jul 2024 07:57:00 +0000</pubDate></item><item><title>OpenAIのCTO「そのような仕事は最初から存在しない方がよかったかもしれない」AIがクリエイティブな仕事に与える影響を語る</title><link>https://ledge.ai/articles/mira_murati_said_some_creative_jobs_maybe_will_go_away</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-OpenmAIの最高技術責任者（CTO）であるミラ・ムラティ氏は、アメリカのダートマス大学で開催された「AI Everywhere」イベントにおいて、AI技術がクリエイティブな仕事に与える影響について{target=“_blank”}。
-
-ムラティ氏は、AIが一部のクリエイティブな仕事を奪う可能性があることを認めつつも、「そのような仕事は最初から存在しない方がよかったかもしれない」との見解を示した。この発言は、質の低いコンテンツを生み出す仕事が淘汰される可能性と、AIが創造性を向上させるツールとしての役割を強調している。
-
-AIの導入により一部のクリエイティブな仕事が消える可能性があると同氏は述べ、そのような仕事が質の低いコンテンツを生み出していた可能性があると指摘した。また、AIを教育や創造性のツールとして活用することで、人間の知能や創造性、想像力が広がると強調した。
-
-「AIをツールとして利用することで、私たちの知能や創造性、想像力が拡大することができる」とムラティ氏は述べ、AIが単なる労働力の置き換えではなく、質の向上をもたらす手段であるという考えを示した。
-
-## 雇用とAIの影響
-AIが雇用に与える影響についてもムラティ氏は言及し、現時点でその全貌はまだ理解されていないと述べた。AIシステムの能力を理解し、それを労働フローに統合することが第一歩であり、その後、影響を予測・予見することが重要であると強調した。反復的な仕事はAIによって置き換えられる可能性が高いが、新たな仕事も創出されると予測されているが、具体的な影響についてはまだ未知数であるとした。
-
-## 教育におけるAIの役割
-教育分野において、AIは質の高い教育を誰にでも提供できるようにする大きな可能性を秘めているとムラティ氏は述べた。個々の学習スタイルに合わせたカスタマイズされた教育の提供が可能になり、一対一の指導を補完し、学習方法の改善にも寄与することが期待されている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 06 Jul 2024 11:33:21 +0000</pubDate></item><item><title>【無料LIVEウェビナー】RAGの活用方法や最新AIツールを紹介！生成AIを活用する時に知っておきたい重要トピックを解説</title><link>https://ledge.ai/articles/expo2024-live-webinar</link><description>:::box
+</description><pubDate>Thu, 04 Jul 2024 07:57:00 +0000</pubDate></item><item><title>【無料LIVEウェビナー】RAGの活用方法や最新AIツールを紹介！生成AIを活用する時に知っておきたい重要トピックを解説</title><link>https://ledge.ai/articles/expo2024-live-webinar</link><description>:::box
 Ledge.aiが6月に開催したオンラインイベント「{target=“_blank”}」のうち、終盤に実施したライブ配信による解説ウェビナーには多くの好評をいただいた。この反響を受け、イベントの追加コンテンツとして、7月31日までLIVEウェビナーの追加企画を実施している。また、それに伴って一部コンテンツは延長公開中だ。気になるコンテンツがあれば、是非チェックしていただきたい。
 :::
 
@@ -2075,7 +2072,70 @@ NTTは今回、IOWN APNによる大容量・低遅延な通信を利用して、
 :::box
 
 :
-</description><pubDate>Thu, 20 Jun 2024 07:23:38 +0000</pubDate></item><item><title>岸田首相　東南アジア諸国のLLM開発支援を表明　各国の豊かな言語と文化に根ざした取り組みが必要</title><link>https://ledge.ai/articles/asia_business_summit</link><description>:::small
+</description><pubDate>Thu, 20 Jun 2024 07:23:38 +0000</pubDate></item><item><title>経産省　ゲーム・アニメ・広告を対象に「コンテンツ制作のための生成AI利活用ガイドブック」を公開　スクエニ、伊藤園、パルコなど実例満載</title><link>https://ledge.ai/articles/meti_ai_guidebook</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+経済産業省は7月5日、生成AI技術をコンテンツ制作に活用するための「コンテンツ制作のための生成AI利活用ガイドブック」を{target=“_blank”}した。このガイドブックは、生成AIの利活用によるコンテンツ制作の新たな方向性を示すもので、特にゲーム、アニメ、広告といった産業での具体的な利用事例や法的留意点を網羅している。
+## ガイドブックの目的と内容
+
+ガイドブックの内容は以下の通り
+**１．生成AIの利活用の方向性：**
+コンテンツ産業における生成AIの適切な利活用の方向性を示すため、知的財産権等の権利・利益の保護に十分に配慮しつつ、生成AIの活用事例を紹介
+**２．具体的な利活用事例：**
+ゲーム、アニメ、広告の各産業における生成AIの活用ケースを詳細に紹介し、それぞれの制作工程での具体的な活用方法を提示
+**３．法的留意点と対応策：**
+生成AIを利用する際の著作権や肖像権などの法的問題点について、具体的な対応策を示し、クリエイターが安心して生成AIを活用できるよう支援
+
+生成AIが進化し続ける中、その可能性に着目してきたという経産省。今回のガイドブックは、生成AIの利活用を促進するために、特に注目すべき利用ケースと法的問題点を整理したものだ。
+
+スクウェア・エニックス、伊藤園、パルコなど、企業による生成AI活用事例が紹介されている。例えば、画像生成AIを用いて線画に彩色や仕上げを行う方法や、テキスト生成AIを使用して広告コピーを作成する方法などが具体的に説明されている。また、著作権や肖像権の侵害を避けるための留意点や対応策も詳細に記載されている。
+
+
+利活用例：ガイドブックより抜粋
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 関連省庁とガイドブックの位置づけ
+下図は、生成AIに関連するガイドラインとその関係省庁の役割を示す。経済産業省、総務省、内閣府、文化庁などが連携し、AIの利活用に関する統一的な指針を提供する枠組みを説明している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同ガイドブックは、「令和5年度コンテンツ海外展開促進事業（コンテンツ産業における先端的技術活用に関する調査）」の成果物として作成され、{target=“_blank”}と一体となっている。同報告書も80ページにわたるボリュームで、精度の高いレポートがまとめられている。
+
+コンテンツ制作に携わる企業にとって、生成AIは効率化や新たなクリエイティビティの創出に寄与する強力なツールとなる。しかし、法的な留意点をしっかりと理解し、適切な対応策を講じることが重要である。経済産業省のガイドブックは、そのための具体的な指針を提供するものとなる。なお、ガイドブックの表紙デザインには生成AIが活用されているとのこと。
+
+ガイドブックは経済産業省の公式サイトから{target=“_blank”}可能。コンテンツ制作に携わるすべての企業やクリエイターにとって必携の資料となり得る。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 10 Jul 2024 12:36:46 +0000</pubDate></item><item><title>岸田首相　東南アジア諸国のLLM開発支援を表明　各国の豊かな言語と文化に根ざした取り組みが必要</title><link>https://ledge.ai/articles/asia_business_summit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2370,28 +2430,7 @@ AI技術がもたらす脅威として、ディープフェイクの利用が懸
 
 :::
 
-</description><pubDate>Thu, 13 Jun 2024 11:14:53 +0000</pubDate></item><item><title>国内初、AIを活用した医療技術が診療報酬項目として承認される　AI搭載医療機器「nodoca®」を用いたインフルエンザ診断</title><link>https://ledge.ai/articles/newly_established_as_a_nodoca_medical_fee</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月10日、アイリス株式会社（本社：東京都中央区、代表取締役：沖山翔）は、自社が開発したAI搭載の咽頭内視鏡システムnodoca®を用いたインフルエンザ検査が、2024年度の診療報酬改定により正式な技術区分で保険収載されたことを{target=“_blank”}した。
-
-2024年度の診療報酬改定により、厚生労働省が示す医科診療報酬点数表に新たに「内視鏡用テレスコープを用いた咽頭画像等解析（インフルエンザの診断の補助に用いるもの）」が設けられた。これにより、305点の診療報酬点数が設定され、AIを用いた医療機器が新技術区分で保険適用された初の事例となったとのこと。
-
-{target=“_blank”}は、熟練医師の視診を再現するAIを搭載した新医療機器だ。咽頭の画像と問診情報をAIが解析し、インフルエンザに特徴的な所見を検出することで診断を補助する。この技術は、2022年12月1日より保険適用されていたが、今回の改定により正式な技術区分として認められたことは、日本において初めての事例だという。
-
-nodoca®の開発には、累計100施設以上の国内医療機関が関わり、日本救急医学会の推薦、NEDOの事業化支援、国立研究開発法人産業技術総合研究所のスーパーコンピューター「ABCI」の活用など、多くの産官学医連携プロジェクトが貢献​。
-
-2年に1度行われる診療報酬の改定は、社会情勢や経済環境を踏まえ、厚生労働省の諮問に対し、中医協の審議と同意を経て決定される。今回のnodoca®の事例は、AIを活用した医療技術が正式に認められた初のケースとなる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 12 Jun 2024 13:16:24 +0000</pubDate></item><item><title>生成される画像の価値とは何なのか？　ライゾマティクスが「AIと生成芸術」がテーマの個展を開催中</title><link>https://ledge.ai/articles/rhizomatiks_beyond_perception</link><description>:::small
+</description><pubDate>Thu, 13 Jun 2024 11:14:53 +0000</pubDate></item><item><title>生成される画像の価値とは何なのか？　ライゾマティクスが「AIと生成芸術」がテーマの個展を開催中</title><link>https://ledge.ai/articles/rhizomatiks_beyond_perception</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
