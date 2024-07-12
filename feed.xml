@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jul 2024 13:17:57 +0000</lastBuildDate><item><title>国産EPRベンダー先駆けワークスアプリケーションズが「HUE」と「Microsoft Copilot」の連携開始</title><link>https://ledge.ai/articles/worksap_hue_collaborate_with_microsoft_copilot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jul 2024 13:17:57 +0000</lastBuildDate><item><title>コーレ株式会社が、広告DXサービス「AI MIX AD PROMOTION」を提供開始　AIモデルとリアル商品を自然に組み合わせて画像を生成</title><link>https://ledge.ai/articles/ai_mix_ad_promotion</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月8日、コーレ株式会社は、AIモデルとリアルな商品の物撮りを組み合わせた広告・プロモーション画像を制作するタレント広告DXサービス「AI MIX AD PROMOTION」の提供を{target=“_blank”}した。
+
+「AI MIX AD PROMOTION」は、AIで生成したモデルやタレントと実際に撮影された商品画像を組み合わせ、自然なシーンを作り出すサービス。ターゲット層や商品イメージに合わせて、国籍、性別、年齢、髪型、肌の色、服装、ポージング、背景などをカスタマイズできる点が特徴だ。
+## 実例
+例えば、スキンケア商品「HERBNEIGE」の広告画像を作成する場合
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+従来の画像生成AIでは商品画像を読み込ませても、ロゴや色、材質が変わってしまい、別商品の広告になってしまう。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+しかし、「AI MIX AD PROMOTION」では元の商品画像をそのままに、AIモデルに自然に商品を持たせることが可能であり、理想的な広告画像を作成することができる。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+従来の画像生成AIでは、商品画像をもとに新しく画像を生成するため、本来の商品画像とは異なる画像が生成されるが、本サービスではリアルな商品画像を維持しながら多様な広告パターンを高速で生成できる。これにより、企業は効率的かつ効果的に広告制作を行い、大幅なコスト削減を実現することが可能だという。
+
+:::box
+
+:::
+
+:::box
+
+:::
+
+:::box
+
+:::</description><pubDate>Thu, 11 Jul 2024 05:20:42 +0000</pubDate></item><item><title>国産EPRベンダー先駆けワークスアプリケーションズが「HUE」と「Microsoft Copilot」の連携開始</title><link>https://ledge.ai/articles/worksap_hue_collaborate_with_microsoft_copilot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -516,43 +556,7 @@ Oliveのプロジェクトを進めていく段階で、若者向けのアプリ
 
 株式会社成田デンタル
 プロジェクト：強い営業組織を作るためのマネジメントDX
-</description><pubDate>Mon, 08 Jul 2024 02:44:02 +0000</pubDate></item><item><title>ピクスタ、AI学習データ権利保護の新団体「DPA」を設立　権利者が適正な報酬を受け取れる仕組み</title><link>https://ledge.ai/articles/pixta_dataset_providers_alliance</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ストックフォトサービス大手のPIXTAは2024年7月1日、米国およびドイツの企業と共同で、生成AIの学習素材の権利保護を目指す団体「Dataset Providers Alliance（DPA）」を設立したことを{target=“_blank”} した。
-
-DPAは、AI開発者による無断学習を防ぎ、画像や動画、音楽などのコンテンツ制作者や提供企業が適正な報酬を受け取れるように働きかけることを目的とする。
-## 参加企業と目的
-DPAの設立には、ピクスタを含む日米独の計7社が参加している。米国の音楽ライセンス代理店ライツファイや、AI学習用画像取引プラットフォームを提供するvAIsualなどが含まれている。日本企業としては、ピクスタが唯一の参加企業である。
-
-DPAの目的は、コンテンツ制作者の権利を保護し、AI開発者に高品質な学習データを提供することである。具体的には、権利者が適正な報酬を得られるモデルの構築や、反倫理的な生成を防ぐための学習データの選別・加工手法の普及を行う。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-生成AIは、大量の文章や画像データを学習することでその性能を高めてきた。しかし、これまでの学習素材は無料公開データが中心であり、無断で学習されたとして権利者側がAI企業を提訴する例が増加している。これを受けて、日本を含む各国政府がAI学習における知的財産権のルール整備を進めているという。
-
-## ピクスタの取り組み
-ピクスタは、カメラマンやクリエーターが投稿した画像や動画計9300万点を企業などに販売している。2024年4月には、生成AI開発企業に学習素材として画像などを販売する方針を{target=“_blank”}しており、同社を通じて収益の一部を撮影した権利者に還元する仕組みを導入している。また、希望する権利者は自身の素材を学習対象から外すことも可能。
-
-DPAの設立により、コンテンツ制作者の権利保護が強化されるとともに、AI開発のための高品質なデータ提供が進むことが期待される。権利者が適正な報酬を受け取れる仕組みが整うことで、生成AIの学習に使用されるデータの質も向上し、より倫理的で公平なAI開発が促進されるだろう。
-
-ピクスタとDPAの取り組みは、AI開発と知的財産権のバランスを取る新たなモデルケースとなる可能性がある。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 07 Jul 2024 11:25:18 +0000</pubDate></item><item><title>コンサルからエンジニアへ　東京・パリで学び、データ分析でグローバルな活躍を目指す　42 Tokyo特別インタビュー【第4回】小林 瑠理さん</title><link>https://ledge.ai/articles/42tokyo-4</link><description>:::box
+</description><pubDate>Mon, 08 Jul 2024 02:44:02 +0000</pubDate></item><item><title>コンサルからエンジニアへ　東京・パリで学び、データ分析でグローバルな活躍を目指す　42 Tokyo特別インタビュー【第4回】小林 瑠理さん</title><link>https://ledge.ai/articles/42tokyo-4</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
