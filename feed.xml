@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 10 Jul 2024 12:36:46 +0000</lastBuildDate><item><title>「日本語でできるのか？」 国産LLM開発の苦労をAIスタートアップが明かす</title><link>https://ledge.ai/articles/expo2024-interview-alibaba-short</link><description>:::box
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jul 2024 04:41:04 +0000</lastBuildDate><item><title>国産EPRベンダー先駆けワークスアプリケーションズが「HUE」と「Microsoft Copilot」の連携開始</title><link>https://ledge.ai/articles/worksap_hue_collaborate_with_microsoft_copilot</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ワークスアプリケーションズは2024年7月8日、自社の大手企業向けERPパッケージ「HUE」とMicrosoftの生成AIアシスタント「Microsoft Copilot」の連携を開始したと{target=“_blank”}した。
+
+この取り組みは、国産ERPベンダーとして先駆けたもので、ユーザー企業は自社の業務に最適化されたAIを活用し、データ入力やルーチン業務の効率化、自動化を実現できるという。
+
+## 「HUE」と「Microsoft Copilot for Microsoft 365」の連携
+「HUE」と「Microsoft Copilot for Microsoft 365」のプラグイン連携により、ユーザーがMicrosoft Teamsのチャットで質問をすると、生成AIが「HUE」内の会計データとMicrosoft 365内の資料やメールなどの企業データを組み合わせて回答する。この連携により、文章作成、データ分析、図表作成などの個人タスクが効率化される。
+
+例えば下図のように、ユーザーがTeams上で「今月の支払依頼書を表形式で表示してください」と指示すると、生成AIがERPシステム「HUE」内のデータベースから支払依頼書を検索し、表形式で整形して表示する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## 「HUE」と「Microsoft Copilot Studio」の連携
+「HUE」とMicrosoft Copilot Studioとの連携により、データの取得や整形だけでなく、ERPデータを活用した業務プロセスの自動化も可能になるという。Microsoft Copilot Studioは、プログラミング不要で簡単な画面操作で設定でき、ユーザーは複雑な業務フローを構築できる。下図の例のように、与信調査のフローを設定すると、生成AIが過去の取引履歴をチェックし、与信判断を自動で実行することで業務をサポートする。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+HUEは既に2000社以上の大手企業に導入されており、顧客の要望を標準機能に取り込むことで、アドオンやカスタマイズの必要性を最小限に抑えている。また、法改正時のバージョンアップも保守料の範囲内で対応し、SaaS型サービスやECサイト、BIツールなどとの連携基盤も備えている。
+
+今回の連携により、HUEユーザーは業務の自動化と効率化を進め、戦略的な業務に集中できる環境が整うことが期待されるという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 11 Jul 2024 04:41:04 +0000</pubDate></item><item><title>「日本語でできるのか？」 国産LLM開発の苦労をAIスタートアップが明かす</title><link>https://ledge.ai/articles/expo2024-interview-alibaba-short</link><description>:::box
 本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
 :::
 
@@ -515,25 +552,7 @@ DPAの設立により、コンテンツ制作者の権利保護が強化され�
 :::box
 
 :::
-</description><pubDate>Sun, 07 Jul 2024 11:25:18 +0000</pubDate></item><item><title>「未来型食品工場コンソーシアム」発足：国内食品メーカーとロボット開発会社が協力</title><link>https://ledge.ai/articles/future_food_plant_consortium</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月4日、カゴメ、キユーピー、永谷園、ニチレイフーズ、日清製粉グループ、TECHMAGIC株式会社が、食品工場の非競争領域の共通課題解決を目指して「未来型食品工場コンソーシアム」を結成したことを{target=“_blank”}した。
-
-同コンソーシアムは、食品工場が直面する「労働力不足」や「原価高騰」といった課題に対し、高度なロボットテクノロジーを活用した持続可能な食インフラの構築を目指すものだという。産業課題の抽出、要求仕様の策定、共通基盤の構築、製造プロセス効率化に関する勉強会を通じて、食品工場の未来について協議・協力する。
-
-まずは共通課題である秤量工程の自動化に向けて分科会を立ち上げ、解決策を検討するとのこと。TECHMAGIC社と参画企業が共同で開発を進めることで、開発コストの分散、ソリューションの汎用化、専門的技術やノウハウの共有、市場導入のスピードアップを図るという。
-
-これにより、各社の課題解決のみならず、食産業全体の課題解決に寄与することが期待されているという。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 06 Jul 2024 16:37:22 +0000</pubDate></item><item><title>【無料LIVEウェビナー】RAGの活用方法や最新AIツールを紹介！生成AIを活用する時に知っておきたい重要トピックを解説</title><link>https://ledge.ai/articles/expo2024-live-webinar</link><description>:::box
+</description><pubDate>Sun, 07 Jul 2024 11:25:18 +0000</pubDate></item><item><title>【無料LIVEウェビナー】RAGの活用方法や最新AIツールを紹介！生成AIを活用する時に知っておきたい重要トピックを解説</title><link>https://ledge.ai/articles/expo2024-live-webinar</link><description>:::box
 Ledge.aiが6月に開催したオンラインイベント「{target=“_blank”}」のうち、終盤に実施したライブ配信による解説ウェビナーには多くの好評をいただいた。この反響を受け、イベントの追加コンテンツとして、7月31日までLIVEウェビナーの追加企画を実施している。また、それに伴って一部コンテンツは延長公開中だ。気になるコンテンツがあれば、是非チェックしていただきたい。
 :::
 
