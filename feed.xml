@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jul 2024 04:41:04 +0000</lastBuildDate><item><title>国産EPRベンダー先駆けワークスアプリケーションズが「HUE」と「Microsoft Copilot」の連携開始</title><link>https://ledge.ai/articles/worksap_hue_collaborate_with_microsoft_copilot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 11 Jul 2024 13:17:57 +0000</lastBuildDate><item><title>国産EPRベンダー先駆けワークスアプリケーションズが「HUE」と「Microsoft Copilot」の連携開始</title><link>https://ledge.ai/articles/worksap_hue_collaborate_with_microsoft_copilot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1689,7 +1689,58 @@ MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に
 :::
 :::box
 
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>内省メカニズムで進化するLLMエージェント「悪魔の代弁者」　GoogleDeepMindなどの研究チームが発表</title><link>https://ledge.ai/articles/google_deepmind_devils_adovocate</link><description>:::small
+:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>SelfGoal: LLMエージェントの高難易度タスク解決を飛躍的に向上させる新手法</title><link>https://ledge.ai/articles/ai_agent_selfgoal</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年7月、特定の高難易度タスクにおけるLLM（大規模言語モデル）エージェントの性能を大幅に向上させる新しい手法「SelfGoal」が{target=“_blank”}された。研究者たちは、この手法がエージェントに複雑な問題解決能力を与え、ゲームやプログラミングなどの分野での応用が期待されていると述べている。
+
+SelfGoalの核となるのは、最終目標をより実践的なサブゴールのツリー構造に分解し、状況に応じてサブゴールを更新する点にあるという。エージェントは環境の変化に柔軟に対応しながら、最適なサブタスクを特定し、段階的に目標達成を目指すことが可能となる。
+
+従来、LLMエージェントは抽象的な指示に対応するのが難しく、「この勝負に勝ってください」や「お金を稼いでください」といった指示を正確に理解して遂行することが課題となっていた。既存のアプローチでは、タスクを細かなサブタスクに分解する方法や、事前知識を活用してタスクを遂行する方法が提案されていた。しかし、これらの方法には、環境の変化に対応できない柔軟性の欠如や、単純で体系的でない行動を導くという問題があった。
+
+SelfGoalは、最終目標をツリー構造のサブゴールに分解し、エージェントの置かれた状況に応じて最も有用なサブゴールを特定しながらツリーを段階的に更新していく。この動的なサブゴールの更新により、エージェントは柔軟に状況に対応しながら、効率的にタスクを遂行できるという。
+## SelfGoalの仕組み
+SelfGoalは、主に「探索モジュール」「分解モジュール」「実行モジュール」の3つのモジュールで構成されている。下図は、このSelfGoalの概要を示している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+- **探索モジュール：** 現在の状況に最も適したサブゴールを選択する。事前知識を利用して、GOALTREEの中から最適なノードを選定する。
+- **分解モジュール：** 選択されたゴールノードを具体的なサブゴールに分解する。新たなサブゴールが既存のノードと類似しないようにフィルタリングしながら、ツリーを成長させる。
+- **実行モジュール：** 選択されたサブゴールを基に行動を指示し、エージェントが環境と相互作用する。
+- ## 具体的な適用例
+SelfGoalは、特に次のような分野で有効だという。
+
+- **ゲーム：** ゲームの目標をサブゴールに分解し、状況に応じて戦略を変更することで勝利を目指す
+- **プログラミング：** 複雑なプログラミングタスクを段階的に解決し、最終的なプログラムの完成を目指す
+
+実際のタスクでの応用例として、「交渉タスク」におけるSelfGoalの効果が挙げられる。下図は、交渉タスクにおいてSelfGoalが他の手法と比較してどのように優れているかを示している。
+
+このタスクでは、エージェントがアイテムの配分について交渉するシナリオを示している。エージェント（例えば、Alice）がパートナー（Bob）とアイテム（本、帽子、ボール）の配分について話し合い、利益の差を最小化することを目指している。
+CLIN、ADAPTという別の手法に比べ、SelfGoalは「相手の評価を明確にする質問をする」など、具体的な行動指針を提供し、交渉の進行に応じて戦略を柔軟に調整している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+SelfGoalの導入で期待できる効果として、研究グループはLLMエージェントの柔軟性・効率性の飛躍的な向上が期待され、今後さらに高度なタスクに対してもLLMエージェントが有効に活用されることが予想されると述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Thu, 11 Jul 2024 13:17:57 +0000</pubDate></item><item><title>内省メカニズムで進化するLLMエージェント「悪魔の代弁者」　GoogleDeepMindなどの研究チームが発表</title><link>https://ledge.ai/articles/google_deepmind_devils_adovocate</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2115,34 +2166,7 @@ AudioSealは、多様な音声操作に対する耐久性試験で、従来の�
 
 :::
 
-</description><pubDate>Mon, 24 Jun 2024 06:07:38 +0000</pubDate></item><item><title>やっぱり運転手がいると安心？人型ロボットが運転もこなす未来: 筋骨格ヒューマノイドの挑戦</title><link>https://ledge.ai/articles/autonomous_driving_by_musculoskeletal_humanoids</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月11日、RA-Magazineに採択された論文「Toward Autonomous Driving by Musculoskeletal Humanoids: A Study of Developed Hardware and Learning-Based Software」がarXivとYouTubeで{target=“_blank”}された。
-論文は、柔らかなハードウェアと学習ベースのソフトウェアを組み合わせた筋骨格ヒューマノイド「ムサシ」による自動運転技術について詳述している。
-
-@
-
-
-
-研究の主な目的は、従来の自動運転技術に比べて安心感を高めることができる人間らしい運転動作を実現することだという。筋骨格を模倣したヒューマノイドのハードウェアは、自然な運転動作を可能にし、柔らかい素材を使用することで衝撃吸収性と適応性が向上する。これにより、運転中の安全性が大幅に強化されるとのこと。
-
-研究チームは、運転動作を学習するためのソフトウェアを開発し、多様なシナリオに対応できるように進化した学習アルゴリズムを導入しており、これにより、柔らかいハードウェアの欠点を克服し、実際の運転において高い適応力を発揮するという。
-
-## 自動運転技術との比較と利点
-従来の自動運転技術は、その信頼性と効率性が注目されてきたが、人間らしさや安心感には欠けることが多かった。筋骨格ヒューマノイドは、これらの課題に対処し、人間に近い運転動作を再現することで、より自然で安心感のある運転体験を提供するという。
-
-柔らかいハードウェアは、ヒューマノイドの運転動作をより自然にし、衝撃吸収性と適応性を向上させる。また、衝突時の安全性が高まるため、乗客や歩行者にとっても安全性が確保されるとのこと。
-
-また、学習ベースのソフトウェアは、ヒューマノイドが様々な運転状況に適応するための重要な要素である。進化した学習アルゴリズムにより、ヒューマノイドは運転中の複雑なシナリオにも対応し、従来の自動運転システムでは難しかった柔軟な対応が可能となる。
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 21 Jun 2024 08:41:22 +0000</pubDate></item><item><title>経産省　ゲーム・アニメ・広告を対象に「コンテンツ制作のための生成AI利活用ガイドブック」を公開　スクエニ、伊藤園、パルコなど実例満載</title><link>https://ledge.ai/articles/meti_ai_guidebook</link><description>:::small
+</description><pubDate>Mon, 24 Jun 2024 06:07:38 +0000</pubDate></item><item><title>経産省　ゲーム・アニメ・広告を対象に「コンテンツ制作のための生成AI利活用ガイドブック」を公開　スクエニ、伊藤園、パルコなど実例満載</title><link>https://ledge.ai/articles/meti_ai_guidebook</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
