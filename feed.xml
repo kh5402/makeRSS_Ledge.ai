@@ -1201,7 +1201,54 @@ Microsoft は2024年6月、教育者と中高生が授業で利用できる生�
 :::box
 
 :::
-</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
+</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>AGI実現への一歩となるコンテスト「ARC Prize 2024」開催中　賞金総額は約1億8000万円！</title><link>https://ledge.ai/articles/arc_prize_2024</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年6月11日より、Zapier社の共同創設者マイク・クヌープ氏とGoogleの研究者フランソワ・ショレ氏が提案する「ARC」（Abstraction and Reasoning Corpus）を用いたコンテスト「ARC Prize 2024」が{target=“_blank”}されている。
+
+ARCは、AGI（汎用人工知能）に向けた進歩を測定するAIベンチマークであり、人工知能と人間の知能を比較することを目的として作られた。これまでの競争では、人間の平均84％の正解率に対して、AIの最高スコアは34％程度となっている。これらの根本となる知識は、人間が子供の頃から自然と身につけている感覚のため、人間にとっては簡単だがAIには難解なテストだという。
+
+現代のAI研究は大規模言語モデル（LLM）に重点を置いているが、これらのモデルは基本的な新しい発明や単純な問題への適応ができないため、真の知能とは言えない。この問題に対処するため、ARCというベンチマークテストが注目を集めている。
+
+「ARC Prize 2024」は、LLMを超えた新しいアイデアを研究者が探求し、その進歩をオープンソース化することを目的としている。コンテスト提出締切は11月10日で、12月3日に賞の発表を予定しているとのこと。
+
+テスト内容は以下のとおり、カラフルなグリッド図形から規則性を見つけ、右側のテスト用のアウトプットにその規則性に基づいた図形を表現する簡単なテストだ。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+【ARC Prize 2024の概要】
+**グランプリ**
+・1位：25万ドル（約3,500万円）
+・2位：10万ドル（約1,400万円）
+・3～5位：5万ドル（約700万円）
+・追加グランプリ：50万ドル（約8,081万円）
+※人間の正解率が平均84％のため、85％以上の精度スコアを達成した上位5チームに追加のグランプリ50万ドルを分配。
+**2024進歩賞**
+・1位: 2.5万ドル（約404万円）
+・位: 1万ドル（約161万円）
+・3〜5位: 各5,000ドル（約80万円）
+※2024年の競争期間中に最高スコアを記録した上位5チームに授与
+**論文賞**
+・優勝: 4.5万ドル（約727万円）
+・次点: 5,000ドル（約80万円）
+※ARC-AGIでの性能を実現する方法についての理解を最も進展させた論文に授与
+**参加条件**
+・提出物のコードと手法はパブリックドメインのオープンソースライセンスの下で公開する必要がある
+・第三者のコードや手法もオープンソースライセンスの下で利用可能でなければならない
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 11 Jul 2024 07:18:15 +0000</pubDate></item><item><title>OpenAI が開発者向けQ&amp;AコミュニティサイトStack Overflowと新たなAPIパートナーシップを発表</title><link>https://ledge.ai/articles/openai_stackoverflow_api_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1552,34 +1599,7 @@ GitHubは2023年11月8日、「オープンソースとAIの現状」に関す�
 :::box
 
 :::
-</description><pubDate>Thu, 28 Dec 2023 08:49:07 +0000</pubDate></item><item><title>AIの遅れ取り返せるか　Appleが開発者向けフレームワーク「MXL」Geminiの裏でひっそりと公開</title><link>https://ledge.ai/articles/apple_released_mlx</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-Appleは2023年12月、AI分野での新たな取り組みとして、開発者向けのオープンソース機械学習フレームワーク「MLX」を{target=“_blank”}した。GoogleのAIモデル「Gemini」の発表と同時であったと各メディアで報じている。
-
-MLXはAppleのチップ上で動作し、開発者が機械学習アルゴリズムの開発や実装を容易にするためのライブラリやツールを提供する​​​​​​。
-
-Appleの機械学習研究者であるAwni Hannun 氏は、自身のX（旧Twitter）アカウントで、
-「ちょうどホリデーシーズンに間に合うよう、本日、Apple 機械学習研究からいくつかの新しいソフトウェアをリリースします。
-MLX は、Apple シリコン (つまり、ラップトップ) 向けに特別に設計された効率的な機械学習フレームワークです」
-と{target=“_blank”}した。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-{target=“_blank”}は10月に、Appleの経営陣は業界の突然のAIブームに驚かされ、昨年末から急いで対応を図っていたと報じており、MLXの発表は、AI分野での急速な進展に対応しようとするAppleの努力の一環との見方もある。
-
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 15 Dec 2023 05:44:48 +0000</pubDate></item><item><title>OpenAI「現在ChatGPTはレベル１」AIシステムの進化を測定する新たな内部評価スケールを導入</title><link>https://ledge.ai/articles/openai_sets_levels_to_track_progress_toward_superintelligent_ai</link><description>:::small
+</description><pubDate>Thu, 28 Dec 2023 08:49:07 +0000</pubDate></item><item><title>OpenAI「現在ChatGPTはレベル１」AIシステムの進化を測定する新たな内部評価スケールを導入</title><link>https://ledge.ai/articles/openai_sets_levels_to_track_progress_toward_superintelligent_ai</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
