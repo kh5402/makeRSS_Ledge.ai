@@ -2426,7 +2426,43 @@ AI技術がもたらす脅威として、ディープフェイクの利用が懸
 
 :::
 
-</description><pubDate>Thu, 13 Jun 2024 11:14:53 +0000</pubDate></item><item><title>優勝はモロッコのAI美女　世界初のAIビューティーコンテスト「Miss AI 2024」の受賞者発表</title><link>https://ledge.ai/articles/fanvue_miss_ai_winners</link><description>
+</description><pubDate>Thu, 13 Jun 2024 11:14:53 +0000</pubDate></item><item><title>安達寛高（乙一）ら原作・監督　全編生成AI制作の映画「generAIdoscope：ジェネレイドスコープ」2024年公開予定</title><link>https://ledge.ai/articles/the_film_generaidoscope_produced_entirely_with_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+映画や映像の企画・立案などを行うリアルコーヒーエンタテインメントは2024年7月10日、同社による企画で全編生成AIで制作されるオムニバス形式の映画「generAIdoscope：ジェネレイドスコープ」の製作を{target=“_blank”}した。2024年内の劇場公開を予定しているとのこと。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「generAIdoscope：ジェネレイドスコープ」は、その全編が生成AIによって制作されるという点が最大の特徴だ。映像、音声、音楽すべてがAI技術を駆使して生成されることで、従来の映画制作とは一線を画す新しい試みとなっているという。映画の原作・監督には、各ジャンルで活躍する映像作家が名を連ねている。安達寛高（乙一）、曽根剛、山口ヒロキの3人がそれぞれ独自の物語を手がける。
+
+### 安達寛高（乙一）氏「モンキーズ・オデッセイ」
+大航海時代を舞台に、船乗りが猿たちの住む無人島に漂着する物語「モンキーズ・オデッセイ」を描く。
+
+### 曽根剛氏「AZUSA」
+空想癖のある風変わりな女の子が夢を叶えるために二つの世界を行き来する「AZUSA」。この作品では、ファンタジーとリアリティの融合が見どころとなる。
+
+### 山口ヒロキ氏「グランマレビト」
+遠い未来の世界を舞台に、元魔術師の老婆が架空の国家を旅する「グランマレビト」を監督。壮大な未来世界のビジョンと共に、人間ドラマが展開される。
+
+
+@
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 12 Jul 2024 10:07:20 +0000</pubDate></item><item><title>優勝はモロッコのAI美女　世界初のAIビューティーコンテスト「Miss AI 2024」の受賞者発表</title><link>https://ledge.ai/articles/fanvue_miss_ai_winners</link><description>
 :::small
 画像の出典：参加者たちのインスタグラムより
 :::
@@ -2806,36 +2842,4 @@ RIAAの最高法務責任者であるケン・ドロショウ氏も、「これ�
 :::box
 
 :::
-</description><pubDate>Mon, 10 Jun 2024 16:12:22 +0000</pubDate></item><item><title>ElevenLabs テキストから効果音を生成するモデル「Sound Effects」公開</title><link>https://ledge.ai/articles/elevenlabs_sound_effects</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ElevenLabsは2024年6月1日、新しいAIオーディオモデル「Sound Effects」を{target=“_blank”}した。このツールは、ユーザーがテキストプロンプトを入力するだけで多様な効果音を生成でき、映画、テレビ、ゲーム、ポッドキャストなどのコンテンツ制作に活用できるという。
-
-Sound Effectsは、ユーザーがテキストで必要なサウンドを記述し、生成ボタンをクリックするだけで、即座に関連するサウンドを生成する。各リクエストには少なくとも4つのバリエーションが提供され、ユーザーは最適なものを選んでダウンロードが可能だ。
-
-様々なシチュエーションを演出するプロンプトと生成された音のサンプルが、X（旧Twitter）で{target=“_blank”}されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-開発にはShutterstockが協力しており、同社の豊富なオーディオライブラリからライセンスされたトラックを使用してモデルがチューニングされているとのこと。これにより、高品質で多様な効果音を簡単に生成できるようになっている。
-
-Sound Effectsは無料で利用可能だが、商業利用には有料サブスクリプションが必要となる。無料ユーザーは生成したコンテンツを公開する際に「elevenlabs.io」とクレジットを付ける必要があるとのこと。
-
-無料ユーザーは月に10,000文字までのプロンプト入力制限があり、デフォルトの音声クリップの長さであれば1リクエストごとに200文字が消費される。
-
-競合サービスとしては、Stability AIが2023年にリリースした音楽や効果音を生成する「Stable Audio」や、Metaの提供する自然音を生成するモデル「AudioCraft」などが挙げられる。
-
-ElevenLabsは今後、APIアクセスの提供を予定しており、より多くの開発者や企業がこのツールを活用できるようになるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 10 Jun 2024 02:37:40 +0000</pubDate></item></channel></rss>
+</description><pubDate>Mon, 10 Jun 2024 16:12:22 +0000</pubDate></item></channel></rss>
