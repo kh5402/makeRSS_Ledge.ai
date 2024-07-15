@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jul 2024 13:09:03 +0000</lastBuildDate><item><title>OpenAIとハフポスト創設者が新会社「Thrive AI Health」を設立、AIによるパーソナライズドヘルスコーチングを提供</title><link>https://ledge.ai/articles/thrive_ai_health</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jul 2024 13:14:09 +0000</lastBuildDate><item><title>OpenAIとハフポスト創設者が新会社「Thrive AI Health」を設立、AIによるパーソナライズドヘルスコーチングを提供</title><link>https://ledge.ai/articles/thrive_ai_health</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1463,7 +1463,40 @@ GitHubは2023年11月8日、「オープンソースとAIの現状」に関す�
 :::box
 
 :::
-</description><pubDate>Thu, 28 Dec 2023 08:49:07 +0000</pubDate></item><item><title>LLMはRAGと事前知識をどう使い分けるのか　マサチューセッツ大とMicrosoftの研究グループが発表</title><link>https://ledge.ai/articles/from_rags_to_rich_parameters</link><description>:::small
+</description><pubDate>Thu, 28 Dec 2023 08:49:07 +0000</pubDate></item><item><title>10億のペルソナで合成データを生成、LLM開発に新たな可能性</title><link>https://ledge.ai/articles/tencent_ai_lab_persona_hub</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+中国Tencentの研究チームは2024年6月28日、新しいペルソナ駆動型データ合成手法を{target=“_blank”}した。論文「Scaling Synthetic Data Creation with 1,000,000,000 Personas」では、10億の多様なペルソナを活用し、大規模な合成データを生成する「Persona Hub」の構築とその応用について詳述されている。
+## Persona Hubの概要
+「Persona Hub」は、ウェブデータから自動的に収集された10億の多様なペルソナで構成されている。これにより、LLMは多くの視点や知識を反映したデータを生成できる。このペルソナは、MinHash法と埋め込みベースの手法を用いて重複を排除し、多様性を維持しているという。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## ペルソナ駆動型データ合成手法
+この手法は、データ合成プロンプトにペルソナを統合することで、LLMにそのペルソナの視点を持たせ、データを生成するもので、以下３つのプロンプト方法が提案されている：
+
+- **ゼロショットプロンプト:**  既存の例を使用せず、LLMの創造性を活かす
+- **フューショットプロンプト:** いくつかのデモを提供して要件を満たすデータを合成する
+- **ペルソナ強化フューショットプロンプト:** デモごとに対応するペルソナを派生させ、データ合成能力を向上させる
+## 実験結果と応用
+ペルソナ駆動型手法の有効性は、数学や論理的思考の問題作成、ユーザーインストラクションプロンプト、知識豊富なテキスト、ゲームのNPC（ノンプレイヤーキャラクター）、ツールや関数の開発といった多様なシナリオで実証された。具体的には、数学の問題生成では、ペルソナを追加することで、そのペルソナに関連するコンテキストで問題が作成されることが確認されたという。また、プロフェッショナルなペルソナを用いることで、より深い理解を必要とする高度な問題も生成可能とのこと。
+
+このペルソナ駆動型データ合成手法は、LLMの多様な視点と知識を活用し、スケーラブルかつ多様な合成データを生成する手法であると研究者は述べる。これにより、LLMのトレーニングやテストに必要なデータの作成が大幅に効率化され、研究や開発において大きな影響を与えることが期待されるという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Sun, 14 Jul 2024 13:14:09 +0000</pubDate></item><item><title>LLMはRAGと事前知識をどう使い分けるのか　マサチューセッツ大とMicrosoftの研究グループが発表</title><link>https://ledge.ai/articles/from_rags_to_rich_parameters</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1901,38 +1934,7 @@ OpenAIに在籍中のことに触れ、「私たちはコードのバグを見�
 :::box
 
 :::
-</description><pubDate>Fri, 28 Jun 2024 06:37:53 +0000</pubDate></item><item><title>中国のAIスタートアップ「跨維智能（DexForce）」エンボディド(身体性)AIとSim2Real技術でロボット操作をトレーニング</title><link>https://ledge.ai/articles/dexforce_enbodied_ai_sim2real</link><description>:::small
-画像の出典：DexForce
-:::
-
-中国のスタートアップ企業「跨維智能（DexForce）」が、聯想創投（Lenovo Capital and Incubator）から資金調達を完了したと2024年5月14日に{target=“_blank”}が報じた。この資金は、製品開発、チーム拡大、市場開拓に充てられる予定だという。
-
-DexForceは2021年6月に設立。3Dモデル生成AI、マルチモーダル大規模言語モデル（LLM）、3Dイメージングなどを基盤に、ハードウェアとソフトウェアを一体化したエンボディドAIを提供している。エンボディドAIは環境と相互作用し、継続的に自己改善を行う次世代AIであり、現実世界のデータに代わり合成データを活用する「Sim2Real」技術がそのコアとなっているという。
-
-Sim2Real技術は、物理シミュレーションを通じてロボット操作データを生成し、正確なタグ付けを行った合成データを用いてエンボディドAIを訓練する。これにより、複雑なシーンでのロボットアームの性能を大幅に向上させることができるとのこと。この技術は半導体、自動車、太陽光発電などの製造現場で既に導入されており、コスト削減と効率化に寄与しているという。
-
-## 多様な作業シーンにおける応用拡大例
-以下の画像は、DexForceの多様な作業シーンでの応用例を示す。
-
-**左図：**  玩具のピッキングシーン。玩具製造工場で、多種多様な玩具を迅速かつ高効率にピッキングするために使用される。DexForceの製品は、様々な種類の玩具を正確に識別し、ピッキングを行うことができる。
-
-**右図：**  無秩序な作業対象物のピッキングシーン。産業自動化において、無秩序に配置された作業対象物をピッキングし、生産ラインに供給するシステムとして利用される。DexForceの製品は、多様なデータサンプルに基づいたシミュレーションデータを使用して、効果的にこの課題を解決する。
-
-!
-:::small
-画像の出典：DexForce
-:::
-
-同社は今後、Sim2Real技術を基盤に、製品開発と市場拡大を進め、次世代エンボディドAIの普及を目指している。同社のエンボディドAIソリューションは、産業用3Dカメラ「Xema」シリーズなどを含み、ユーザーが二次開発コストを削減できるAPIとSDKを提供している。今後は、自己適応が可能な汎用ロボットの開発にも注力し、多様な産業での応用を拡大していく計画だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 27 Jun 2024 11:29:20 +0000</pubDate></item><item><title>AIでクラスメイトのディープフェイクポルノを生成　スペインで15人の生徒に1年の保護観察処分の判決</title><link>https://ledge.ai/articles/deep_fake_images</link><description>:::small
+</description><pubDate>Fri, 28 Jun 2024 06:37:53 +0000</pubDate></item><item><title>AIでクラスメイトのディープフェイクポルノを生成　スペインで15人の生徒に1年の保護観察処分の判決</title><link>https://ledge.ai/articles/deep_fake_images</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
