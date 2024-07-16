@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jul 2024 13:43:15 +0000</lastBuildDate><item><title>Google　ダークウェブ監視機能を全ユーザーに無料開放　7月下旬より</title><link>https://ledge.ai/articles/google_one_dark_web_reports</link><description>Googleは2024年7月下旬から「ダークウェブレポート」機能をGoogleアカウントを持つすべてのユーザーに{target=“_blank”}。これまでは、有料プラン「Google One」のメンバーシップ特典として限定されていた同機能が全ユーザーに開放されることで、個人情報の保護が一層強化されることが期待できるという。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jul 2024 13:47:05 +0000</lastBuildDate><item><title>無料プランを廃止した「LINE AIアシスタント」　月額990円から200円に引き下げ、GPT-4oも使えるように</title><link>https://ledge.ai/articles/line-yahoo_ai-assistant</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+LINEヤフーは2024年7月10日、同社が提供する「LINE AIアシスタント」の料金プランを改定したことを{target=“_blank”}した。改定により、これまでの無料プランを廃止し、従来月額990円で提供していた有料プランを月額200円に値下げした。改訂後の有料プランでは、OpenAIの最新モデル「GPT-4o」が利用可能だ。
+
+LINE AIアシスタントは、LINE内でユーザーが質問や相談をトークルームで行い、AIが回答するサービスだ。調べもの、仕事や宿題のアイデア提供、画像やファイルの翻訳や要約といった機能を利用できる。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+無料の体験プランは、登録後3日間無料から、期間に関係なく登録後10回まで無料で利用できる体制に変更した。
+なお、今回の料金プランの改定に伴い、「料理の分析」機能は提供終了となる。また、7月9日までに有料プランに加入しているユーザーには、3カ月間の無料特典が提供されるとのこと。
+
+同社は「よりご利用いただきやすい価格で提供することで、AIを体験する後押しとなり、将来的にユーザーの生活に自然とAIが活用されることを目指している」としている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 15 Jul 2024 13:47:05 +0000</pubDate></item><item><title>Google　ダークウェブ監視機能を全ユーザーに無料開放　7月下旬より</title><link>https://ledge.ai/articles/google_one_dark_web_reports</link><description>Googleは2024年7月下旬から「ダークウェブレポート」機能をGoogleアカウントを持つすべてのユーザーに{target=“_blank”}。これまでは、有料プラン「Google One」のメンバーシップ特典として限定されていた同機能が全ユーザーに開放されることで、個人情報の保護が一層強化されることが期待できるという。
 
 ## ダークウェブレポートの機能
 ダークウェブレポートは、ユーザーの個人情報（名前、住所、電話番号、メールアドレスなど）がダークウェブ上で不正に取引されていないかを監視するツールだ。ユーザーはプロフィールに情報を設定することで、Googleがダークウェブ上の一致するデータを監視し、発見された場合には通知を受ける。
@@ -379,30 +412,7 @@ GMO教えてAI株式会社は、2024年6月20日、生成AIプロンプトポー
 :::box
 
 :::
-</description><pubDate>Mon, 08 Jul 2024 02:46:52 +0000</pubDate></item><item><title>Gateboxが、GPT-4oを活用した飲食店向けサービス「AI幹事」を開発　乾杯の挨拶もAIにおまかせ</title><link>https://ledge.ai/articles/gatebox_ai_kanji</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月3日Gatebox株式会社は、飲食店向けAI接客サービス「AI幹事」の開発を{target=“_blank”}した。
-
-AI幹事は、飲食店に特化したAIの接客サービスだ。顧客がグラスを手にして乾杯しようとすると、AI幹事が率先して乾杯の挨拶を行ってくれる。
-
-このサービスはOpenAI社の生成AI「GPT-4o」の画像認識技術を活用しており、カメラを通してグラスの空き具合や、料理の残量をAIがリアルタイムで把握する。さらに、おすすめの料理やドリンクの追加注文を提案してくれる機能も搭載しており、人間が出席者の状況を小まめに確認することなくAIがその役割を果たしてくれる便利なサービスだ。
-
-タブレットに表示されるキャラクターは雰囲気に合わせて自由にカスタマイズが可能とのこと。
-@
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 08 Jul 2024 01:56:14 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Mon, 08 Jul 2024 02:46:52 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
