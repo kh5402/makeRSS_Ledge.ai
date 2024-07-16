@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jul 2024 13:47:05 +0000</lastBuildDate><item><title>無料プランを廃止した「LINE AIアシスタント」　月額990円から200円に引き下げ、GPT-4oも使えるように</title><link>https://ledge.ai/articles/line-yahoo_ai-assistant</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jul 2024 14:08:36 +0000</lastBuildDate><item><title>無料プランを廃止した「LINE AIアシスタント」　月額990円から200円に引き下げ、GPT-4oも使えるように</title><link>https://ledge.ai/articles/line-yahoo_ai-assistant</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1455,7 +1455,40 @@ GitHubは2023年11月8日、「オープンソースとAIの現状」に関す�
 :::box
 
 :::
-</description><pubDate>Thu, 28 Dec 2023 08:49:07 +0000</pubDate></item><item><title>10億のペルソナで合成データを生成、LLM開発に新たな可能性</title><link>https://ledge.ai/articles/tencent_ai_lab_persona_hub</link><description>:::small
+</description><pubDate>Thu, 28 Dec 2023 08:49:07 +0000</pubDate></item><item><title>スマホ上でも高速動作可能　NICTが21言語対応のニューラル音声合成技術を開発</title><link>https://ledge.ai/articles/nict_mobile_presen_tra</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+国立研究開発法人情報通信研究機構（NICT）は2024年6月25日、ユニバーサルコミュニケーション研究所において、21言語に対応した高品質なニューラル音声合成技術開発に成功したことを{target=“_blank”}した。
+
+この技術により、CPUコア一つで1秒の音声をわずか0.1秒で高速合成することが可能となり、従来モデルの約8倍の速さを実現した。また、ネットワークに接続されていないミドルレンジスマートフォン上でも、テキスト入力からわずか0.5秒で音声を生成できるという。
+
+@
+
+
+この新技術は、NICTが運用するスマートフォン用多言語音声翻訳アプリ「{target=“_blank”}」のサーバに搭載され、既に一般公開されている。今後は、商用ライセンスを通じて多言語音声翻訳やカーナビなど、様々な音声アプリケーションへの導入が期待される。
+
+## 開発の背景
+NICTのユニバーサルコミュニケーション研究所では、言語の壁を超えた音声コミュニケーションを実現するため、多言語音声翻訳技術の研究開発を{target=“_blank”}。特にテキスト音声合成技術は、音声認識や機械翻訳と同様に、多言語音声翻訳の実現に不可欠な技術である。従来の音声合成技術では、ネットワークに接続されていないスマートフォン上での合成が困難だったが、今回の開発によりその課題が解決されたとのこと。
+
+## 技術の詳細
+この技術は、入力テキストを中間特徴量へ変換する「音響モデル」と、中間特徴量を音声波形へ変換する「波形生成モデル」から成り立っている。「音響モデル」には、高速・高性能なConvNeXt型エンコーダとデコーダが使用されており、従来のTransformer型モデルに比べて3倍の高速化を実現。また、「波形生成モデル」には改良型のMS-FC-HiFi-GANが導入され、合成速度を4倍に引き上げているという。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 15 Jul 2024 14:08:36 +0000</pubDate></item><item><title>10億のペルソナで合成データを生成、LLM開発に新たな可能性</title><link>https://ledge.ai/articles/tencent_ai_lab_persona_hub</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1896,37 +1929,7 @@ OpenAIに在籍中のことに触れ、「私たちはコードのバグを見�
 :::box
 
 :::
-</description><pubDate>Sat, 29 Jun 2024 12:55:12 +0000</pubDate></item><item><title>ロボットに生きた皮膚を密着させる技術　東京大学研究チームが開発　ソフトロボット・美容整形医療にも</title><link>https://ledge.ai/articles/tokyo_univ_robots_with_bio_skin</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-東京大学の研究チームが2024年6月26日、人の皮膚細胞から作製した“培養皮膚”を利用し、細胞由来の生きた皮膚を持つ顔型のロボットを開発したことを{target=“_blank”}した。
-
-研究は東京大学大学院情報理工学系研究科の竹内昌治教授と河井理雄（現ハーバード大学博士課程）らが中心となって行われた。培養皮膚を利用し、細胞由来の生きた皮膚を持つ顔型ロボットの開発を実現した。
-
-人間の皮膚支帯構造から着想を得、生体組織と人工物とを接着する手法を考案、スムーズに接着された顔型のロボットは笑顔を作ることも可能だという。同技術は、生体機能を有するソフトロボットの活用の他、美容・整形医療分野での応用も期待できるとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-従来、ロボットはシリコンゴムで覆われることで人間らしい外見を持たせていたが、自己修復やセンシング、発汗などの機能が欠けていた。これに対し、研究チームは培養皮膚をロボットの皮膚として活用することで、人間らしい機能を持つロボットの開発に取り組んだとのこと。
-
-皮膚支帯構造に着想を得た「穴型アンカー構造」を開発し、人工物に培養皮膚をスムーズに固定する手法を確立した。実験では、3D顔型模型に生体皮膚を密着させることに成功し、皮膚の収縮を抑制する効果が確認された。また、ロボットの顔に表情を持たせるために、シリコン層を用いたスライド機構を組み合わせ、自然な笑顔を表現できることも示されたという。
-
-今回の研究成果は、人型ロボットの開発にとどまらず、美容・整形医療分野への応用にも期待できるとのこと。シワの形成メカニズムの理解や表情の生理学の解明、化粧品開発や薬剤効能解析のモデルとしても活用が見込まれている。
-
-環境に優しい素材でできたソフトロボットの開発に加え、移植素材としての医療分野や生体素材を用いた人工物の製造分野にも貢献することが期待されているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 28 Jun 2024 06:37:53 +0000</pubDate></item><item><title>AIでクラスメイトのディープフェイクポルノを生成　スペインで15人の生徒に1年の保護観察処分の判決</title><link>https://ledge.ai/articles/deep_fake_images</link><description>:::small
+</description><pubDate>Sat, 29 Jun 2024 12:55:12 +0000</pubDate></item><item><title>AIでクラスメイトのディープフェイクポルノを生成　スペインで15人の生徒に1年の保護観察処分の判決</title><link>https://ledge.ai/articles/deep_fake_images</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
