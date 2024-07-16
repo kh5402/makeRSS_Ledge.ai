@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 14 Jul 2024 13:14:09 +0000</lastBuildDate><item><title>OpenAIとハフポスト創設者が新会社「Thrive AI Health」を設立、AIによるパーソナライズドヘルスコーチングを提供</title><link>https://ledge.ai/articles/thrive_ai_health</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jul 2024 13:43:15 +0000</lastBuildDate><item><title>Google　ダークウェブ監視機能を全ユーザーに無料開放　7月下旬より</title><link>https://ledge.ai/articles/google_one_dark_web_reports</link><description>Googleは2024年7月下旬から「ダークウェブレポート」機能をGoogleアカウントを持つすべてのユーザーに{target=“_blank”}。これまでは、有料プラン「Google One」のメンバーシップ特典として限定されていた同機能が全ユーザーに開放されることで、個人情報の保護が一層強化されることが期待できるという。
+
+## ダークウェブレポートの機能
+ダークウェブレポートは、ユーザーの個人情報（名前、住所、電話番号、メールアドレスなど）がダークウェブ上で不正に取引されていないかを監視するツールだ。ユーザーはプロフィールに情報を設定することで、Googleがダークウェブ上の一致するデータを監視し、発見された場合には通知を受ける。
+## 「あなたに関する検索結果」との統合
+今回の変更に伴い、ダークウェブレポートは「あなたに関する検索結果」機能と統合される。「あなたに関する検索結果」は、個人の連絡先情報（自宅住所、電話番号、メールアドレスなど）がGoogle検索結果に表示されるかどうかを確認し、必要に応じて削除リクエストを行う機能である。これにより、ユーザーは自分のオンラインプレゼンスをより包括的に管理・保護可能となる。
+## 提供開始時期と利用方法
+ダークウェブレポートの全ユーザー向け無料提供は2024年7月下旬から開始される。これにより、Googleアカウントにログインしているすべてのユーザーが、この機能と「あなたに関する検索結果」を利用できるようになる。ダークウェブレポートはGoogle Oneアプリから削除され、統合された新しいプラットフォームで提供されるとのこと。
+
+
+2024年6月にはKADOKAWAがランサムウェア攻撃を受け、ドワンゴの従業員やクリエイターの個人情報が流出したと報じられたが、近年、ランサムウェア攻撃やデータ漏洩事件が増加しており、企業や個人の情報がダークウェブ上で取引されるケースが後を絶たない。このような背景から、Googleの新しいツールは、個人情報の保護と被害拡大の防止への貢献が期待される。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 15 Jul 2024 13:43:15 +0000</pubDate></item><item><title>OpenAIとハフポスト創設者が新会社「Thrive AI Health」を設立、AIによるパーソナライズドヘルスコーチングを提供</title><link>https://ledge.ai/articles/thrive_ai_health</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -380,47 +402,7 @@ AI幹事は、飲食店に特化したAIの接客サービスだ。顧客がグ�
 :::box
 
 :::
-</description><pubDate>Mon, 08 Jul 2024 01:56:14 +0000</pubDate></item><item><title>ぶっちぎりの中国　生成AI特許出願数で独走1位　2位の米国引き離す　日本は4位</title><link>https://ledge.ai/articles/china_based_inventors_filing_most_genai_patents_wipo_data_shows</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-世界知的所有権機関（WIPO）が2024年7月3日に{target=“_blank”}したレポートによると、中国は過去10年間で生成AIに関する特許出願数において圧倒的なリードを示しており、総計3万8000件以上を出願している。この数字は世界全体の生成AI特許出願数5万4000件の約70％に相当し、2位のアメリカ（6276件）の約6倍に上る​という。
-## 特許出願数の順位
-**中国:**  3万8000件以上
-**アメリカ:**  6276件
-**韓国:** 4155件
-**日本:** 3409件
-**インド:** 1350件
-## 上位特許出願企業
-**テンセント**: 2074件
-**平安保険** : 1564件
-**Baidu:**  1234件
-**中国科学院:**  607件
-**IBM:** 601件
-**アリババ・グループ:**  571件
-**サムスン電子:**  468件
-**アルファベット:**  443件
-**ByteDance:**  418件
-**Microsoft:**  377件
-
-## 特許の内訳
-**画像・映像データ関連:** 1万7996件
-**テキスト関連:** 1万3494件
-**音声・音楽関連:** 1万3480件
-**分子・遺伝子・タンパク質データ関連:** 過去5年間で年平均成長率78％
-
-
-WIPOによると、2017年にディープニューラルネットワークのアーキテクチャが登場して以降、生成AI特許数は急増し、2023年時点でその数は8倍に増加。2023年に公開された生成AI関連の特許は全体の25％以上に達する一方、全AI特許のうち生成AIの割合はまだ6％と低い​。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 07 Jul 2024 11:43:37 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Mon, 08 Jul 2024 01:56:14 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
