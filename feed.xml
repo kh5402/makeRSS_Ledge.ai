@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 15 Jul 2024 14:08:36 +0000</lastBuildDate><item><title>無料プランを廃止した「LINE AIアシスタント」　月額990円から200円に引き下げ、GPT-4oも使えるように</title><link>https://ledge.ai/articles/line-yahoo_ai-assistant</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Jul 2024 03:56:37 +0000</lastBuildDate><item><title>GMOインターネットグループ　生成AI活用で2024年上半期に約67万時間の業務時間を削減</title><link>https://ledge.ai/articles/gmo_reduction_of_670000h_of_work_time_with_gena</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+GMOインターネットグループは2024年7月5日、生成AIの活用によって2024年上半期において約67万時間の業務時間を削減したと{target=“_blank”}した。
+
+調査によれば、生成AIを活用する従業員1人あたりの業務削減時間は月平均26.8時間に達しており、前回調査から2.1時間増加している。この結果、グループ全体での削減時間が月あたり約13万2千時間に達したとのこと。{target=“_blank”}からは約2万時間の増加を示している。
+
+また、全従業員の83.9％が生成AIを活用しており、リスキリング施策「虎の穴」や全員必須のAIセミナーなどがこの成果に寄与しているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## 最も優れていると評価されたLLMはGPT-4
+複数の大規模言語モデル（LLM）の中で、最も優れていると評価されたのはGPT-4で、65.9％の支持を集めている。また、Gemini 1.5 proやClaude 3 Opusもそれぞれ約5％の支持を得ており、これらのモデルの特性を理解して用途に応じて使い分けることで、さらなる業務の効率化が図られているという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 注目される技術分野
+生成AIの活用によって注目されている技術分野としては、「動画生成」が50.2％と最も高く、次いで「ロボット×AI」が35.6％、「AI搭載スマホ」が33.3％となっている。特に「動画生成」に対する関心は高く、GMOインターネットグループは今後もこれらの技術の発展に注力していく予定だ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+GMOインターネットグループは、生成AIの活用を進めることで、従業員がよりクリエイティブな業務に専念できる環境を整備し、AIを活用した各種プロダクトやサービスの開発を加速させることを目指している。これにより、すべての従業員がAIを活用できる人材となり、削減した時間を有効に活用することで、企業全体の生産性向上に寄与することを期待しているという。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 16 Jul 2024 03:56:37 +0000</pubDate></item><item><title>無料プランを廃止した「LINE AIアシスタント」　月額990円から200円に引き下げ、GPT-4oも使えるように</title><link>https://ledge.ai/articles/line-yahoo_ai-assistant</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -385,34 +429,7 @@ DXを推進するにあたって、ノーコードアプリ開発ツールがど
 :::
 
 今年3月より、教育部会の教育チームがノーコードパスポート試験をスタートした。ダイヤモンド、エメラルド、サファイアの3階級で構成しており、今回のノーコード大賞で発表されたのは一番下の階級である「サファイア」だ。初心者向けの階級で、高校生でもチャレンジできるとのこと。50問中4択設問形式で、40問以上正解で合格するシステム。見事合格すると合格証が発行されるそうだ。
-受験費用は5,000円だが、ノーコード推進協会に加盟している企業は全社員が半額で受験ができるとのこと。ノーコードの概念、およびノーコードツールに興味関心のある方、ビジネスでノーコードツールを活用したい方はぜひお見逃しなく。</description><pubDate>Mon, 08 Jul 2024 03:14:08 +0000</pubDate></item><item><title>GPT-4o? Claude3.5？無料でどの回答がよいか選べる「天秤AI byGMO」GMOインターネットグループが公開</title><link>https://ledge.ai/articles/gmo_tenbin_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-GMO教えてAI株式会社は、2024年6月20日、生成AIプロンプトポータル「教えてAI byGMO」をリニューアルし、新たに「天秤AI byGMO」として{target=“_blank”}した。ユーザーは、最大6つの生成AIモデルを同時に実行し、複数モデルの回答を比較しながら最適解を選べるという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「天秤AI byGMO」では、Anthropicの最上位モデルであるClaude 3 Opusや、GPT-4o、Gemini 1.5 Proなど最新の生成AIモデルが無料で利用可能だ。また、新機能として履歴保持機能が追加され、過去に実行したプロンプトとその結果を自動的に保存可能となった。
-
-同サービスは、生成AIモデルの性能を比較するためのツールとして利用でき、回答の精度や速度、表現の違いを評価することで、各AIモデルの特徴を把握し、最適なモデルを見つける手助けをする。また、複数のAIモデルの回答をまとめて網羅的な回答も作成可能とのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 08 Jul 2024 02:46:52 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+受験費用は5,000円だが、ノーコード推進協会に加盟している企業は全社員が半額で受験ができるとのこと。ノーコードの概念、およびノーコードツールに興味関心のある方、ビジネスでノーコードツールを活用したい方はぜひお見逃しなく。</description><pubDate>Mon, 08 Jul 2024 03:14:08 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
