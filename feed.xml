@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Jul 2024 13:58:52 +0000</lastBuildDate><item><title>遠隔分身ロボット「OriHime」を活用し、高齢者のQOL向上と障害者就労支援の両立を目指す実証実験開始　オリィ研究所</title><link>https://ledge.ai/articles/orihime_robot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Jul 2024 01:17:16 +0000</lastBuildDate><item><title>AMD　フィンランド発 スタートアップの SiloAI を 1000億円超で買収　対NVIDIAの競争力強化となるか</title><link>https://ledge.ai/articles/amd_aquires_siloai_for_over_100-billion-jpy</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+半導体大手のAMDは2024年7月10日、ヨーロッパ最大級を謳うAIスタートアップ「Silo AI」を約6億6500万ドル（約1000億円超）で買収することを{target=“_blank”}した。この買収は、AMDがNVIDIAに対する競争力を強化するための重要な一手であると複数のメディアが報じている。買収完了は2024年後半の見込み。
+
+フィンランドのヘルシンキに本社を置くSilo AIは、2017年に設立され、クラウド、エンベデッド、エンドポイントコンピューティング市場向けのカスタマイズされたAIモデルやプラットフォームを提供している。同社はアリアンツ、フィリップス、ロールス・ロイス、ユニリーバなどの顧客を抱え、最先端の多言語対応の大規模言語モデル（LLM）を開発している​という。
+
+AMDは過去12ヶ月でNod.aiやMipsologyなどのAIスタートアップを買収しており、今回の買収もその一環である。この一連の買収は、AMDのAIエコシステムを拡大し、NVIDIAに対する競争力を強化する目的があるとされる。この買収により、AMDはSilo AIの300人以上のAI専門家の知識と技術を活用し、自社のAIソリューションの提供能力を大幅に向上させることが期待されている。​
+
+一部のメディアでは、AMDがNVIDIAに対抗するための戦略としてこの買収を位置づけていると報じている。特に、NVIDIAが高性能チップ市場での支配力を強めている中、AMDは自身のAIエコシステムを強化することで市場シェアを拡大しようとしている​という。 
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 17 Jul 2024 01:17:16 +0000</pubDate></item><item><title>遠隔分身ロボット「OriHime」を活用し、高齢者のQOL向上と障害者就労支援の両立を目指す実証実験開始　オリィ研究所</title><link>https://ledge.ai/articles/orihime_robot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -372,45 +394,7 @@ NECの新システムは、工場で発生する設備や品質不良、生産�
 
 :::
 
-</description><pubDate>Tue, 09 Jul 2024 07:39:26 +0000</pubDate></item><item><title>「イメージングから何ができるか」 エレクトロニクス情報プラットフォーマーのレスターが語る マルチモーダルAIによる社会課題の解決</title><link>https://ledge.ai/articles/expo2024-interview-restar-short</link><description>:::box
-本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
-:::
-
-## イメージングから社会課題の解決へ
-本ウェビナーでは、イメージングの進化 および それらのデジタル技術がどのように社会課題の解決に結びつくか 、ソニーの特約店でもある株式会社レスターの吉本氏に伺った。
-:::box
-!
-**株式会社レスター**
-**グループ事業開発本部 副本部長**
-**吉本 健氏**
-国内半導体メーカーにて30年以上勤務、システム半導体(LSI)のマーケティング、企画および設計開発、欧州LSI開発センター長、システムLSI応用技術部長、技術マーケティング統括部長を経て2021年2月に株式会社レスターエレクトロニクスに入社。2021年7月より現職。
-:::
-
-:::button
-{target=“_blank”}
-:::
-
-**吉本氏**
-レスターのビジネスは、画像センサーとそれを出力する液晶パネル、つまり「イメージング」の技術からスタートしました。イメージングをベースに、オーディオを追加した会議システムの構築や、カメラにAI技術を取り入れて従来のカメラでは処理できなかった映像分析、つまりカメラのすぐそばで何があったか認識でき、データとして蓄積できるようになった「遠隔監視」のソリューションもあります。
-近年では、カメラと音声認識、サイネージ、さらに生成AIを組み合わせることで、マルチモーダルの自立対話サービスも提供しています。
-
-!
-
-**吉本氏**
-マルチモーダルの自立対話サービスは無人で答えられるシステムですが、実際にどのようなやり取りがあったかもデータ化されており、それを分析しながら改良を続けています。
-マルチモーダルAIは人間の五感のうちの一部になりますが、触覚を再現する技術や、感情を読み取れる技術も出てきていますので、こういったものを組み合わせた…
-
-※続きは特設サイトよりご覧ください 
-
-:::button
-{target=“_blank”}
-:::
-
-## 開催概要
-イベント名：Ledge.ai EXPO 2024 summer
-主催：株式会社レッジ
-URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Mon, 08 Jul 2024 10:08:42 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Tue, 09 Jul 2024 07:39:26 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
