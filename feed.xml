@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Jul 2024 11:06:16 +0000</lastBuildDate><item><title>遠隔分身ロボット「OriHime」を活用し、高齢者のQOL向上と障害者就労支援の両立を目指す実証実験開始　オリィ研究所</title><link>https://ledge.ai/articles/orihime_robot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 16 Jul 2024 13:58:52 +0000</lastBuildDate><item><title>遠隔分身ロボット「OriHime」を活用し、高齢者のQOL向上と障害者就労支援の両立を目指す実証実験開始　オリィ研究所</title><link>https://ledge.ai/articles/orihime_robot</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1055,7 +1055,41 @@ Microsoft は2024年6月、教育者と中高生が授業で利用できる生�
 :::box
 
 :::
-</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>AGI実現への一歩となるコンテスト「ARC Prize 2024」開催中　賞金総額は約1億8000万円！</title><link>https://ledge.ai/articles/arc_prize_2024</link><description>:::small
+</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>AWSが、生成AI業務アプリを作成する「AWS App Studio」のプレビューを公開　開発スキルがなくても自然言語で利用できる</title><link>https://ledge.ai/articles/aws_app_studio_public_preview</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+現地時間の2024年7月10日、米Amazon Web Services（AWS）は、ニューヨークで開催された「AWS Summit New York 2024」で、生成AIでアプリ作成ができる「AWS App Studio」のパブリックプレビューを{target=“_blank”}した。
+
+「AWS App Studio」は、専門的なソフトウェア開発スキルがなくても、自然言語で作成したい業務アプリの説明を行うと、数分で業務アプリを作成することができる。
+
+以下のように、左側に作成したい業務アプリの説明を入力をすると、入力されたプロンプトをもとに、生成AIがアプリのユースケース、操作の流れや主要機能を右側に書き出す。内容に問題がなければ生成を開始すると、わずか数分でアプリを作成することができる。さらに、生成されたアプリは公開前に実際のデータソースを使用して、プレビューで検証することもできるという。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+また、AWS App Studioの利用料金は無料で、開発されたアプリを使用した分だけ支払うシステムとのこと。例えば、企業で今後3ヶ月以内にAWS APP Studioを使用して2つのアプリを作成予定だった場合、2つのアプリを公開後1ヶ月のうちに10日間各アプリを使用した場合は、以下のような料金体系となる。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::
+
+:::box
+
+:::
+</description><pubDate>Tue, 16 Jul 2024 13:58:52 +0000</pubDate></item><item><title>AGI実現への一歩となるコンテスト「ARC Prize 2024」開催中　賞金総額は約1億8000万円！</title><link>https://ledge.ai/articles/arc_prize_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1420,40 +1454,7 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>生成AIプロジェクトの開発者コミュニティ、アメリカ・インドに次いで日本が先導ーGit Hub 2023年の動向レポート</title><link>https://ledge.ai/articles/github_the_state_of_open_source_and_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-GitHubは2023年11月8日、「オープンソースとAIの現状」に関する報告を{target=“_blank”}した。
-
-報告によると、開発者たちは大量の生成AIプロジェクトに取り組んでいる。特にOpenAIなどの基礎モデルを用いた開発が目立ち、生成AIプロジェクトは2023年のオープンソースプロジェクトのトップ10にランクインしたという。これらのプロジェクトには、全開発者の92%が使用または実験中であると報告されており、GitHub上での次世代AIイノベーションを牽引すると期待されている。
-
-また、2023年はオープンソースへの初参加者が最も多く、これまで商業的に支援されたプロジェクトが初参加者の大部分を占めていたが、今年は生成AIプロジェクトも初参加者向けのトップ10プロジェクトに登場した。GitHub上のプライベートプロジェクトの数は前年比38%増加し、全活動の80%以上を占めている。
-
-全世界で、GitHubを使用してソフトウェアを構築し、共同作業を行う開発者が増加している。アメリカは依然として最大の開発者コミュニティを持つが、他の地域も成長を見せている。
-
-次の5年間で最も成長が見込まれる開発者コミュニティに関する予測では、インドが2027年までにGitHub上で最大の開発者コミュニティになると予想されている。日本の開発者数は約280万人で、世界8位にランクされており、今後の成長が期待されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-さらに、生成AIは個々のコントリビューターの数において148%の年間成長率を達成し、生成AIプロジェクトの総数も248%増加している。この分野において、アメリカ、インド、そして日本が先導しており、他の地域も追随している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-報告は、2022年10月1日から2023年9月30日までに、GitHub から取得した匿名化されたユーザーおよび製品データに基づいて作成された。
-
-:::box
-
-:::
-</description><pubDate>Thu, 28 Dec 2023 08:49:07 +0000</pubDate></item><item><title>スマホ上でも高速動作可能　NICTが21言語対応のニューラル音声合成技術を開発</title><link>https://ledge.ai/articles/nict_mobile_presen_tra</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>スマホ上でも高速動作可能　NICTが21言語対応のニューラル音声合成技術を開発</title><link>https://ledge.ai/articles/nict_mobile_presen_tra</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
