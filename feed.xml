@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Jul 2024 01:17:16 +0000</lastBuildDate><item><title>AMD　フィンランド発 スタートアップの SiloAI を 1000億円超で買収　対NVIDIAの競争力強化となるか</title><link>https://ledge.ai/articles/amd_aquires_siloai_for_over_100-billion-jpy</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Jul 2024 01:26:13 +0000</lastBuildDate><item><title>JR東日本　生成AIチャットツールの全社員展開とRAGを用いた独自生成AIの開発を発表　鉄道版生成AIも開発中</title><link>https://ledge.ai/articles/jre_ai_chat</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+JR東日本は2024年7月11日、生成AIチャットツールの全社員展開および独自生成AIシステムの開発について{target=“_blank”}した。同社のDX推進の一環として行われるものだという。
+
+## 生成AIチャットツールの全社員展開
+同社は2023年10月より、社内で「JRE AI Chat」の試用を開始しその有用性を確認。2024年6月より全社員に対して既成の生成AIチャットツールを展開した。これにより、全社員がデジタル端末を用いて業務を効率化する環境が整備され、DX加速推進の一歩となる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 独自生成AIシステムの開発と導入
+同社の社内組織「Digital &amp; Dataイノベーションセンター（DICe）」では、社内文書に基づいて回答を生成するRAG（検索拡張生成）を用いたプロトタイプシステムを2023年11月から試用しているとのこと。今後、アジャイル開発手法を採用し、社内のフィードバックを取り入れながらシステムを改善し、2024年10月から全社での試用を予定している。システムにより、社内規定やルールなどの効率的な検索に寄与し、業務の効率化を目的とするという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 鉄道版生成AIとエンジニア不足への対応
+JR東日本では、汎用的な生成AIでは対応できない鉄道事業固有の情報を学習した「鉄道版生成AI」を開発中だという。これにより、コールセンター業務などの共通業務においても生成AIの活用が可能になる。また、プログラムのコーディングに生成AIを活用することで、システムやアプリの内製化開発のスピードアップとエンジニア不足への対応も進めているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 17 Jul 2024 01:26:13 +0000</pubDate></item><item><title>AMD　フィンランド発 スタートアップの SiloAI を 1000億円超で買収　対NVIDIAの競争力強化となるか</title><link>https://ledge.ai/articles/amd_aquires_siloai_for_over_100-billion-jpy</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -368,33 +406,7 @@ URL：{target=“_blank”}
 :::box
 
 :::
-</description><pubDate>Wed, 10 Jul 2024 11:56:24 +0000</pubDate></item><item><title>NEC「匠の熟練の技」をLLMが受け継ぐ　RAGを活用したナレッジ継承支援システムを開発　</title><link>https://ledge.ai/articles/nec_knowledge_sucsession</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NECは2024年6月18日、製造業におけるナレッジ継承の課題を解決するために、大規模言語モデル（LLM）を活用した新しい支援システムを開発したと{target=“_blank”}した。2024年度中の提供開始を目指すとのこと。
-## システム概要
-NECの新システムは、工場で発生する設備や品質不良、生産効率低下などのトラブルに対応する。作業員がシステムに問い合わせを行うと、LLMが過去のトラブル対応情報や業務ノウハウを基に最適な対処法を提示するとのこと。
-
-システムには、熟練工の知見をデジタル化して構造化したデータモデルテンプレートと、問い合わせを効率化するプロンプトテンプレートが組み込まれており、高精度な回答が可能だという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同社が3月に実施した技術検証によると、この実証実験では、RAG（検索拡張生成）の仕組みを用いることで、AIのハルシネーションを抑制しつつ、高精度な情報提供を実現したという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 09 Jul 2024 07:39:26 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Wed, 10 Jul 2024 11:56:24 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
