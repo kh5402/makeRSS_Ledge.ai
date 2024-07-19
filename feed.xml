@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 17 Jul 2024 01:26:13 +0000</lastBuildDate><item><title>JR東日本　生成AIチャットツールの全社員展開とRAGを用いた独自生成AIの開発を発表　鉄道版生成AIも開発中</title><link>https://ledge.ai/articles/jre_ai_chat</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jul 2024 05:32:50 +0000</lastBuildDate><item><title>イオン　AI端末「スマイルくん」を導入して従業員の笑顔と発声をトレーニング</title><link>https://ledge.ai/articles/aeon_smile_traning_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+イオングループは2024年7月1日、従業員の笑顔や声量をリアルタイムで分析しフィードバックするAI端末「スマイルくん」を、一部の「イオン」および「イオンスタイル」店舗で導入することを{target=“_blank”}した。AI技術を活用して笑顔や発声の基準を標準化・可視化し、従業員の接客スキル向上による顧客満足度の最大化を目指す。
+
+スマイルくんは、InstaVR株式会社が開発したエッジAI端末で、450以上の顔の特徴点を解析し、笑顔や発声を100段階でスコアリングする。さらに、声量、滑舌、音程も分析して従業員にフィードバックを行うという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+このシステムは、従業員の接客スキルをゲーム感覚で向上させる要素を含んでおり、経験値とレベルの仕組みにより、日々のトレーニングが飽きずに続けられるよう設計されている。また、各従業員の成長を時系列で把握したり、店舗間や売場間でのパフォーマンスを比較したりできるという。レベル上位者への表彰制度も設けられており、従業員のモチベーション向上にも期待できるとのこと。
+
+2023年7月から始まった8店舗での実証実験では、約3400名の従業員を対象に3カ月間にわたって実施された。ミステリーショッパー調査の結果、従業員の笑顔と挨拶の実施率が約1.6倍に向上したという。この成果を受け、同社では導入店舗を約240店舗に拡大すると決定した。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 18 Jul 2024 05:22:36 +0000</pubDate></item><item><title>JR東日本　生成AIチャットツールの全社員展開とRAGを用いた独自生成AIの開発を発表　鉄道版生成AIも開発中</title><link>https://ledge.ai/articles/jre_ai_chat</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -382,31 +410,7 @@ Lightblue提供資料
 イベント名：Ledge.ai EXPO 2024 summer
 主催：株式会社レッジ
 URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Wed, 10 Jul 2024 01:11:38 +0000</pubDate></item><item><title>サイバーエージェント　225億パラメータの独自日本語LLM「CyberAgentLM3」を公開　既存モデルを使わずスクラッチで開発</title><link>https://ledge.ai/articles/cyberagent_japanese_llm_ver3</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-サイバーエージェントは2024年7月9日、新たに225億パラメータを持つ日本語大規模言語モデル（LLM）「CyberAgentLM3」を{target=“_blank”}した。このモデルは、既存のモデルを使用せずスクラッチから開発されたという。
-
-同社は2023年5月に独自の日本語LLM「{target=“_blank”}」を公開。その後も改良を重ね、11月には「{target=“_blank”}」を、2024年6月には視覚機能を追加した大規模視覚言語モデル{target=“_blank”}を公開してきた。これらの技術は、同社の提供する「極予測AI」などのサービスで広く活用されているとのこと。
-
-今回公開された「CyberAgentLM3-22B-Chat」は、既存モデルをベースにせず、まっさらな状態からの開発モデルだ。Nejumi LLMリーダーボード3において、700億パラメータのMeta-Llama-3-70B-Instructと同等の性能を示しており、オープンな日本語LLMとしてはトップクラスの性能を誇るという。
-
-{target=“_blank”}はHuggingfaceにて公開されており、{target=“_blank”}ページでは実際に動作を確認できる。
-
-今回公開された「CyberAgentLM3-22B-Chat」は、商用利用が可能なApache License 2.0で提供されており、多くの企業や研究機関が利用できるようになっている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 10 Jul 2024 11:56:24 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+開催形式：オンライン（特設サイト）</description><pubDate>Wed, 10 Jul 2024 01:11:38 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1450,7 +1454,42 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>スマホ上でも高速動作可能　NICTが21言語対応のニューラル音声合成技術を開発</title><link>https://ledge.ai/articles/nict_mobile_presen_tra</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>Google DeepMind　Gemini1.5を使ってオフィス道順案内などのタスクを自然言語で実行させる</title><link>https://ledge.ai/articles/google_deepmind_mobility_vla</link><description>
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Google DeepMindは2024年7月10日、同社のAIモデル「Gemini 1.5」の最大100万トークンという長大なコンテキストウィンドウを活用することで、オフィス内でのタスクを自然言語で解決させたと{target=“_blank”}した。この様子をデモ動画に納め、AIがオフィス内での道案内やタスク実行を行う様子を紹介している。例えば、「どこで絵を描けるか教えて」といった指示に対して、AIがユーザーをホワイトボードに案内する様子が示された。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Gemini 1.5の特徴に「Mixture-of-Experts（MoE）」アーキテクチャが挙げられる。この技術により、AIモデルは入力に応じて関連する部分のみを活性化することができ、効率的に動作する。これにより、長文のQAや長時間の動画の理解など、従来のモデルでは困難だったタスクも高い精度で実行できるという。
+
+Mobility VLAと呼ばれるナビゲーションポリシーは、長大なコンテキストウィンドウを持つ視覚と言語を組み合わせたAI（VLM）と、地図のような役割を果たすトポロジーグラフを使って、ロボットがどこに行くべきかを決定する仕組みを組み合わせている。このAIは、デモンストレーションツアービデオとユーザーからの指示をもとに、最適なルートを導き出す。
+
+下図は、Mobility VLAのアーキテクチャを示している。デモンストレーションツアービデオとマルチモーダルユーザー指示を使用して、目標フレームを特定し、オフラインで構築されたトポロジーグラフを使用してロボットのアクションを生成する仕組みが描かれている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+論文では、AIが自然言語での指示に基づいて、オフィス内の特定の場所にユーザーを案内する様子が紹介された。例えば「これを戻すべき場所は？」といった質問や、「スマートフォンを充電する場所は？」という指示に対して、AIが正確に応答することが示された。
+
+研究チームは、Gemini 1.5が現実世界の大規模な環境での複雑な推論やマルチモーダルなユーザー指示において、最大90％の成功率を達成したと発表している。このモデルは、データセンターからモバイルデバイスまで幅広いプラットフォームで効率的に動作し、今後のAIの可能性に期待すると述べた。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 18 Jul 2024 05:32:50 +0000</pubDate></item><item><title>スマホ上でも高速動作可能　NICTが21言語対応のニューラル音声合成技術を開発</title><link>https://ledge.ai/articles/nict_mobile_presen_tra</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1898,33 +1937,7 @@ OpenAIに在籍中のことに触れ、「私たちはコードのバグを見�
 :::box
 
 :::
-</description><pubDate>Mon, 01 Jul 2024 02:33:39 +0000</pubDate></item><item><title>最高時速510kmを達成した世界最速ドローン、ギネス認定</title><link>https://ledge.ai/articles/worlds_fastest_drone</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年4月21日、最高時速510kmに到達したドローンが世界最速としてギネスに{target=“_blank”}された。ドローンを制作したのはルーク・マキシモ・ベル氏。カーボンファイバー製フレームを使用し、バッテリー、モーター、プロペラを厳選して組み合わせたとのこと。
-
-@
-
-ベル氏らのドローン、Peregreen 2は、カーボンファイバー製のフレーム、最適化されたモーター、プロペラ、バッテリーを組み合わせて作られた。この設計には数ヶ月を要し、テスト中にはバッテリーの火災やその他のトラブルが発生したが、最終的には大幅な改良を経て、この速度を達成したとのこと。このドローンは、時速510 kmに達することもでき、前回の記録を大きく上回る結果となったが、公式に認定されたギネス記録は時速480.23となったという。
-
-この記録は「バッテリー駆動の遠隔操作クワッドコプター」というカテゴリーで認定され、同時にカメラ付きドローンとしても世界最速となった。
-
-なお、今回の記録更新は、かつてエナジードリンクメーカーの{target=“_blank”}がF1レースの撮影用に開発したドローンの記録を上回るものだ。当時、レッドブルのドローンは最高時速350kmで世界最速とされていたが、ベル氏のドローンはその記録を大きく更新した。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 29 Jun 2024 12:55:12 +0000</pubDate></item><item><title>AIでクラスメイトのディープフェイクポルノを生成　スペインで15人の生徒に1年の保護観察処分の判決</title><link>https://ledge.ai/articles/deep_fake_images</link><description>:::small
+</description><pubDate>Mon, 01 Jul 2024 02:33:39 +0000</pubDate></item><item><title>AIでクラスメイトのディープフェイクポルノを生成　スペインで15人の生徒に1年の保護観察処分の判決</title><link>https://ledge.ai/articles/deep_fake_images</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
