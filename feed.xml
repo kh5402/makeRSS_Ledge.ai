@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 02:04:50 +0000</lastBuildDate><item><title>OpenAI、高コスパモデル「GPT-4o Mini」を発表　小型でアプリに組み込みやすく、利用者のトークンあたり利用料６割お得！</title><link>https://ledge.ai/articles/openai_gpt-4o_mini</link><description>OpenAIは2024年7月18日、新しいAIモデル「GPT-4o mini」を{target=“_blank”}した。このモデルは、従来よりも小型で利用料が6割削減され、幅広いアプリケーションにAI技術を組み込みやすくすることを目指している。
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 02:04:50 +0000</lastBuildDate><item><title>OpenAI、高コスパモデル「GPT-4o Mini」を発表　小型でアプリに組み込みやすく、利用者のトークンあたり利用料６割お得！</title><link>https://ledge.ai/articles/openai_gpt-4o_mini</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年7月18日、新しいAIモデル「GPT-4o mini」を{target=“_blank”}した。このモデルは、従来よりも小型で利用料が6割削減され、幅広いアプリケーションにAI技術を組み込みやすくすることを目指している。
 
 GPT-4o miniは、テキストおよびビジョンのAPIをサポートし、将来的には画像、動画、音声の入力および出力にも対応予定だという。コンテキストウィンドウは128Kトークン、1リクエストあたり最大16Kの出力トークンをサポートし、2023年10月までの知識を持つ。非英語テキストの処理もコスト効率が高い。価格は100万入力トークンあたり15セント、100万出力トークンあたり60セントと、従来モデルよりもはるかに安価になるとのこと。
 
