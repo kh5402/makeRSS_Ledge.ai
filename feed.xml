@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 01:43:51 +0000</lastBuildDate><item><title>イオン　AI端末「スマイルくん」を導入して従業員の笑顔と発声をトレーニング</title><link>https://ledge.ai/articles/aeon_smile_traning_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 02:04:50 +0000</lastBuildDate><item><title>OpenAI、高コスパモデル「GPT-4o Mini」を発表　小型でアプリに組み込みやすく、利用者のトークンあたり利用料６割お得！</title><link>https://ledge.ai/articles/openai_gpt-4o_mini</link><description>OpenAIは2024年7月18日、新しいAIモデル「GPT-4o mini」を{target=“_blank”}した。このモデルは、従来よりも小型で利用料が6割削減され、幅広いアプリケーションにAI技術を組み込みやすくすることを目指している。
+
+GPT-4o miniは、テキストおよびビジョンのAPIをサポートし、将来的には画像、動画、音声の入力および出力にも対応予定だという。コンテキストウィンドウは128Kトークン、1リクエストあたり最大16Kの出力トークンをサポートし、2023年10月までの知識を持つ。非英語テキストの処理もコスト効率が高い。価格は100万入力トークンあたり15セント、100万出力トークンあたり60セントと、従来モデルよりもはるかに安価になるとのこと。
+
+### 性能評価
+GPT-4o miniは、ベンチマークテストでGPT-3.5 Turboを上回る性能を示し、テキストインテリジェンスおよびマルチモーダル推論で優れた結果を出しているという。
+
+**推論タスク:**  GPT-4o miniは、テキストと視覚の両方を含む推論タスクにおいて優れた性能を発揮し、MMLUで82.0%のスコアを獲得。Gemini Flashの77.9%、Claude Haikuの73.8%を上回る
+
+**数学とコーディング能力:**  数学的推論を測定するMGSMで87.0%、コーディングパフォーマンスを測定するHumanEvalで87.2%を記録し、他の小型モデルよりも優れた性能を示している
+
+**マルチモーダル推論:** マルチモーダル推論評価であるMMMUで59.4%のスコアを獲得した。Gemini Flash 56.1%、Claude Haiku 50.2%
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+GPT-4o miniは、無料版のChatGPTユーザーも含め、Plusユーザー、チームユーザーの利用が可能だ。企業ユーザーにも翌週からの提供開始が予定されているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Jul 2024 02:04:50 +0000</pubDate></item><item><title>イオン　AI端末「スマイルくん」を導入して従業員の笑顔と発声をトレーニング</title><link>https://ledge.ai/articles/aeon_smile_traning_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -350,67 +381,7 @@ HUEは既に2000社以上の大手企業に導入されており、顧客の要�
 
 :::
 
-</description><pubDate>Thu, 11 Jul 2024 04:41:04 +0000</pubDate></item><item><title>「日本語でできるのか？」 国産LLM開発の苦労をAIスタートアップが明かす</title><link>https://ledge.ai/articles/expo2024-interview-alibaba-short</link><description>:::box
-本記事は、国内最大級のAI（人工知能）関連メディアLedge.aiが6月10日（月）より公開している「{target=“_blank”}」において、サイト内で掲載されているキーノートウェビナー、有識者や業界をリードする企業への特別インタビュー、その他おすすめコンテンツの内容の中から、一部を抜粋して紹介するものである。
-:::
-
-## 「Qwen」での国産LLM開発
-アリババクラウド・ジャパンサービス株式会社のウェビナーでは、同社 藤川氏より、AI 系サービスの開発を4兆円超の予算で行っているアリババグループのAI研究所「DAMOアカデミー」についての紹介や、今回のメイントピックであるオープンソースLLM「Qwen」について紹介いただいた。
-
-また、「Qwen」を用いて国産LLM「Karasu」「Qarasu」を開発した株式会社Lightblue の谷口氏にもご登壇いただき、独自開発したLLMについてや開発の苦労まで幅広く話を伺った。
-
-:::box
-!
-**アリババクラウド・ジャパンサービス株式会社**
-**AI/Big Data ソリューションアーキテクト**
-**藤川 裕一氏**
-大手通信会社入社後、経営コンサルティングファームを経て独立。Web/モバイルアプリ、AIに関する新規事業立ち上げや開発案件を多数経験。その後、スタートアップのCTOを経て、現在はアリババクラウドにて主にAI案件に参画している。
-:::
-
-:::box
-!
-**株式会社Lightblue**
-**取締役｜上級研究員**
-**谷口 俊一氏**
-東京大学大学院工学系研究科修了。建設現場、インフラ等を主に手掛ける。Lightblueでは開発に従事。
-:::
-
-:::button
-{target=“_blank”}
-:::
-
-**藤川氏**
-約7年前の2017年にアリババはDAMOアカデミーというテクノロジーの研究施設を設立しました。この研究所のミッションは、「科学技術の研究とイノベーションを通して未知なるものを探求すること」です。ミッションを実現するために、合計4兆8000億円という莫大な予算を費やし、世界トップクラスのAI研究者を集め、 中国だけでなくアメリカにも研究施設を構え、最先端のAI技術を研究しております。このようにして生み出された AI技術を実際にお客様にも提供しており、このDAMOアカデミーの発足以降、アリババクラウドのAIソリューションは大きく進化いたしました。設立当初は画像予測などのシンプルなAI技術でしたが、近年では、LLMと呼ばれる 生成系AIの開発に非常に力を入れています。
-
-「Qwen（クウェン）」という名前のオープンソースLLMを公開していますが、頻繁にアップデートしておりまして、2024年6月7日にバージョン2.0を公開しました。こちらは多言語能力がアップしているのと、トークンサイズも伸びておりまして、非常に重要なアップデートとなっています。Hugging Faceから利用いただけますので、ぜひ1度お試しいただきたいです。
-
-**──実際にQwenを用いて開発をされた谷口様にお伺いします。LLMの基盤モデルは世界的にも数多くあると思いますが、その中でQwenを利用しようと思ったきっかけを教えてください。**
-
-**谷口氏**
-何をベースに開発するのが良いかの議論を社内で行いましたが、当然、その当時で一番良いモデルを使いたいという要望はあり、Llama2やMistral Largeも方法としてはありましたが、言語対応において、日本語対応できる点では、Qwenが公開されていたものでトップだと判断したんです。日本語が喋れるモデルをベースにファインチューニングすると精度が全然違う、という点でQwenを選定しました。
-
-弊社のLLM「Karasu」「Qarasu」の特徴としては、エンジニアが手を動かして、日々どういったデータセットがよいかを議論しながらブラッシュアップしているところで、特に日本語に強い点が特徴です。
-
-!
-:::small
-Lightblue提供資料
-:::
-**──開発過程で困難だったことはありますか。**
-
-**谷口氏**
-特徴でもある、データセットを…
-
-※続きは特設サイトよりご覧ください 
-
-:::button
-{target=“_blank”}
-:::
-
-## 開催概要
-イベント名：Ledge.ai EXPO 2024 summer
-主催：株式会社レッジ
-URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Wed, 10 Jul 2024 01:11:38 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Thu, 11 Jul 2024 04:41:04 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1897,7 +1868,7 @@ NICTは、2023年からLLMに関する研究を本格化させ、2023年7月に�
 画像の出典：{target=“_blank”}
 :::
 
-OpenAIは2024年6月27日、GPT-4ベースの新しいモデル「CriticGPT」を(https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/){target=“_blank”}した。このモデルは、ChatGPTなどの大規模言語モデル（LLM）の出力における誤りを検出し、人間のAIトレーナーによるトレーニングの精度向上を支援することを目的としている。
+OpenAIは2024年6月27日、GPT-4ベースの新しいモデル「CriticGPT」を{target=“_blank”}した。このモデルは、ChatGPTなどの大規模言語モデル（LLM）の出力における誤りを検出し、人間のAIトレーナーによるトレーニングの精度向上を支援することを目的としている。
 ## 誤り検出を支援するCriticGPTの開発
 CriticGPTは、ChatGPTの回答に含まれる不正確な点を指摘するために設計されている。このモデルは、RLHF（人間からのフィードバックによる強化学習）という手法を使用して訓練されており、AIトレーナーがChatGPTの異なる回答を比較評価する際に役立つ。RLHFは、AIトレーナーが提供するフィードバックを通じてモデルの性能を向上させるが、モデルの推論能力が高度化するにつれ、誤りの検出が困難になるという課題があった。
 ## CriticGPTのトレーニング方法
