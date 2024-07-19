@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 18 Jul 2024 05:32:50 +0000</lastBuildDate><item><title>イオン　AI端末「スマイルくん」を導入して従業員の笑顔と発声をトレーニング</title><link>https://ledge.ai/articles/aeon_smile_traning_ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 01:43:51 +0000</lastBuildDate><item><title>イオン　AI端末「スマイルくん」を導入して従業員の笑顔と発声をトレーニング</title><link>https://ledge.ai/articles/aeon_smile_traning_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1937,7 +1937,53 @@ OpenAIに在籍中のことに触れ、「私たちはコードのバグを見�
 :::box
 
 :::
-</description><pubDate>Mon, 01 Jul 2024 02:33:39 +0000</pubDate></item><item><title>AIでクラスメイトのディープフェイクポルノを生成　スペインで15人の生徒に1年の保護観察処分の判決</title><link>https://ledge.ai/articles/deep_fake_images</link><description>:::small
+</description><pubDate>Mon, 01 Jul 2024 02:33:39 +0000</pubDate></item><item><title>総務省　2024年版「情報通信白書」より、生成AI利活用の現状と潜在的な可能性が明らかに</title><link>https://ledge.ai/articles/mic_2024_white_paper_on_Information_and_communications</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+総務省は2024年版「情報通信白書」にて、日本国内外における生成AIの利用状況に関する詳細な調査結果を{target=“_blank”}した。この調査により、日本における生成AIの利用率は他国と比較して著しく低いことが明らかになったが、潜在的なニーズの存在も示された。
+
+## 日本の生成AI利用率の低さ
+調査によると、日本における生成AIの個人利用率は9.1%と低水準であり、米国（46.3%）、中国（56.3%）、ドイツ（34.6%）、英国（39.8%）と比較して大きく劣っている。利用しない理由としては「使い方がわからない」「自分の生活には必要ない」という回答が多く、セキュリティや情報漏洩に対する懸念は比較的少なかったとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 企業における生成AIの利用状況
+企業向けの調査でも、日本企業の生成AI利用率は低いことが判明した。生成AIを「積極的に活用する方針を定めている」企業の割合は15.7%であり、米国（46.32%）、中国（71.2%）、ドイツ（30.1%）と比較して低い。特に、メールや議事録、資料作成などの補助業務での生成AIの使用率は、日本では46.8%にとどまり、他国の90%程度に比べて低水準である。
+
+!
+
+!
+
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 潜在的な利用意向の存在
+一方で、生成AIの利用意向については、「ぜひ利用してみたい」「条件によっては利用を検討する」と回答した割合は6～7割程度あり、潜在的なニーズがあることがうかがえた。生成AIの具体的な利用場面としては、コンテンツの要約・翻訳、画像や動画の生成、旅行の計画やイベントの企画などが挙げられている。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Jul 2024 01:43:51 +0000</pubDate></item><item><title>AIでクラスメイトのディープフェイクポルノを生成　スペインで15人の生徒に1年の保護観察処分の判決</title><link>https://ledge.ai/articles/deep_fake_images</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2254,33 +2300,7 @@ AI技術がもたらす脅威として、ディープフェイクの利用が懸
 :::box
 
 :::
-</description><pubDate>Wed, 19 Jun 2024 05:28:06 +0000</pubDate></item><item><title>小池百合子都知事の公式Xに“AIゆりこ”出現　都政の取り組みを紹介　都民の税金は使っていない</title><link>https://ledge.ai/articles/ai_yuriko</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月13日、小池百合子氏は自身のX(旧Twitter)公式アカウントで、生成AIで生成した“AIゆりこ”の動画を{target=“blank”}した。
-容姿・声ともに小池百合子氏によく似た、AIによる“AI YURIKO NEWS”が配信されており、動画内ではAIが都政の取り組みについて説明している。
-
-突然現れたAIゆりこだが、現在東京都公式サイトでは発表されていない。2024年6月14日午後に公開されたAI YURIKO NEWSによると、このAIは東京都の事業ではなく、政治活動の一環として開発・運用されたものであり、税金は一切使用してないとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-
-</description><pubDate>Fri, 14 Jun 2024 08:20:44 +0000</pubDate></item><item><title>安達寛高（乙一）ら原作・監督　全編生成AI制作の映画「generAIdoscope：ジェネレイドスコープ」2024年公開予定</title><link>https://ledge.ai/articles/the_film_generaidoscope_produced_entirely_with_ai</link><description>:::small
+</description><pubDate>Wed, 19 Jun 2024 05:28:06 +0000</pubDate></item><item><title>安達寛高（乙一）ら原作・監督　全編生成AI制作の映画「generAIdoscope：ジェネレイドスコープ」2024年公開予定</title><link>https://ledge.ai/articles/the_film_generaidoscope_produced_entirely_with_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
