@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 06:22:18 +0000</lastBuildDate><item><title>OpenAI、高コスパモデル「GPT-4o Mini」を発表　小型でアプリに組み込みやすく、利用者のトークンあたり利用料６割お得！</title><link>https://ledge.ai/articles/openai_gpt-4o_mini</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 07:34:17 +0000</lastBuildDate><item><title>OpenAI、高コスパモデル「GPT-4o Mini」を発表　小型でアプリに組み込みやすく、利用者のトークンあたり利用料６割お得！</title><link>https://ledge.ai/articles/openai_gpt-4o_mini</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1429,7 +1429,32 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>Google DeepMind　Gemini1.5を使ってオフィス道順案内などのタスクを自然言語で実行させる</title><link>https://ledge.ai/articles/google_deepmind_mobility_vla</link><description>
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>OpenAI　開発コードは「Q*」から「Strawberry」に。推論能力を向上し、数学などの高正答率を目指す新たなAI技術の開発が進んでいる</title><link>https://ledge.ai/articles/openai_strawberry</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年7月12日、ChatGPTを開発したOpenAIが「Strawberry」というコードネームの新しいAI技術に取り組んでいることが、内部文書と関係者の証言により明らかになった。{target=“_blank”}によれば、プロジェクトはMicrosoftが支援するOpenAIがAIモデルの推論能力を向上させるために進めているという。
+
+OpenAIの内部文書によると、Strawberryは単に質問に答えるだけでなく、インターネットを自律的かつ信頼性を持ってナビゲートし、「深い研究」を行う能力を持つことを目指している。推論能力の向上により、AIモデルが複雑なタスクを計画し実行する能力を持つことが期待されているとのこと。
+
+Strawberryプロジェクトは以前「Q*」として知られており、すでに社内で画期的なものと見なされていた。内部文書には、Strawberryモデルが複雑な科学や数学の質問に答えるデモを行うことができ、90%以上の正答率を記録していると記されている。
+
+OpenAIは、この技術を使用してAIモデルの推論能力を大幅に向上させると期待を寄せており、特に、自動化された深い研究やソフトウェア・機械学習エンジニアの業務を行う能力を持たせることが目標だという。これにより、AIモデルが自主的にウェブを閲覧し、研究を行うための「CUA」（コンピュータ利用エージェント）を使用することが可能になる。
+
+AIの推論能力が向上すれば、科学的発見の促進や新しいソフトウェアアプリケーションの計画・構築が可能となり、人間または超人間レベルの知能を実現する鍵となる。OpenAIのCEOであるサム・アルトマン氏も、AIにおける最も重要な進歩は推論能力の向上であると述べているという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Jul 2024 07:34:17 +0000</pubDate></item><item><title>Google DeepMind　Gemini1.5を使ってオフィス道順案内などのタスクを自然言語で実行させる</title><link>https://ledge.ai/articles/google_deepmind_mobility_vla</link><description>
 :::small
 画像の出典：{target=“_blank”}
 :::
@@ -1868,51 +1893,7 @@ NICTは、2023年からLLMに関する研究を本格化させ、2023年7月に�
 :::box
 
 :::
-</description><pubDate>Wed, 03 Jul 2024 09:05:06 +0000</pubDate></item><item><title>AIがAIを訂正する世界への一歩ーーOpenAIが「CriticGPT」を発表　ChatGPTのエラー検出を支援</title><link>https://ledge.ai/articles/openai_criticgpt</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年6月27日、GPT-4ベースの新しいモデル「CriticGPT」を{target=“_blank”}した。このモデルは、ChatGPTなどの大規模言語モデル（LLM）の出力における誤りを検出し、人間のAIトレーナーによるトレーニングの精度向上を支援することを目的としている。
-## 誤り検出を支援するCriticGPTの開発
-CriticGPTは、ChatGPTの回答に含まれる不正確な点を指摘するために設計されている。このモデルは、RLHF（人間からのフィードバックによる強化学習）という手法を使用して訓練されており、AIトレーナーがChatGPTの異なる回答を比較評価する際に役立つ。RLHFは、AIトレーナーが提供するフィードバックを通じてモデルの性能を向上させるが、モデルの推論能力が高度化するにつれ、誤りの検出が困難になるという課題があった。
-## CriticGPTのトレーニング方法
-CriticGPTのトレーニングには、誤りを含む大量の入力データが使用される。具体的には、AIトレーナーがChatGPTによって生成されたコードに意図的に誤りを挿入し、その誤りを発見した際にどのようなフィードバックを行うかを記述した例を学習データとして使用する。その後、同じトレーナーが修正されたコードに対する複数の批評文を比較し、どの批評文が挿入された誤りを正確に指摘しているかを評価する。
-## 効果と利点
-CriticGPTの導入により、AIトレーナーはモデルの回答の誤りをより効果的に発見できるようになる。研究結果によれば、CriticGPTの支援を受けたトレーナーは、支援なしの場合に比べて約60％の確率でパフォーマンスが向上することが確認されている。また、CriticGPTを使用することで、トレーナーはより包括的な批評文を作成でき、モデル単独での批評よりも誤った指摘を減らすことができる。
-
-下図：CriticGPT は、トレーナーが支援なしの場合よりも包括的な批評を書くのを助け、モデルのみからの批評よりも幻覚が少なくなるという
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## ヤン・ライケ氏のコメント
-CriticGPTの発表に対し、かつてOpenAIでSuperalignmentチームのトップを務め、人間より賢いAIの制御を目指していたヤン・ライケ氏も反応している。ライケ氏は、安全性が後回しにされていると批判し、2023年5月17日にOpenAIを退社したが、自身のX（旧Twitter）で「これが公開されたことを非常に喜ばしく思う」とコメントしている。
-
-OpenAIに在籍中のことに触れ、「私たちはコードのバグを見つけるためにLLM批評モデルを訓練し、人間が見逃していた生産タスクの欠陥を発見する手助けをしている。RLHFは人間の評価能力に制約されるため、AIを使って人間の評価を助けるスケーラブルな監視が必要だ。ここでは、批評家を訓練して欠陥を指摘させるというシンプルなアイデアを試した」と述べた。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-現時点でCriticGPTは比較的短いChatGPTの回答を対象にトレーニングされているが、OpenAIは将来的により長文で複雑なタスクを評価できるようモデルを改良する計画を立てている。これにより、AIトレーナーが高度なAIシステムをより効果的に調整できるようになることが期待されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 01 Jul 2024 02:33:39 +0000</pubDate></item><item><title>一般にはほぼ無名のAIエンジニア安野たかひろ氏が、急激に支持者を集め都知事選で15万票を獲得するまでを振り返る　最新小説も発売！</title><link>https://ledge.ai/articles/takahiroanno_reflections_on_the_campaign</link><description>:::small
+</description><pubDate>Wed, 03 Jul 2024 09:05:06 +0000</pubDate></item><item><title>一般にはほぼ無名のAIエンジニア安野たかひろ氏が、急激に支持者を集め都知事選で15万票を獲得するまでを振り返る　最新小説も発売！</title><link>https://ledge.ai/articles/takahiroanno_reflections_on_the_campaign</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
