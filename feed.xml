@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 02:04:50 +0000</lastBuildDate><item><title>OpenAI、高コスパモデル「GPT-4o Mini」を発表　小型でアプリに組み込みやすく、利用者のトークンあたり利用料６割お得！</title><link>https://ledge.ai/articles/openai_gpt-4o_mini</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 06:22:18 +0000</lastBuildDate><item><title>OpenAI、高コスパモデル「GPT-4o Mini」を発表　小型でアプリに組み込みやすく、利用者のトークンあたり利用料６割お得！</title><link>https://ledge.ai/articles/openai_gpt-4o_mini</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1912,7 +1912,52 @@ OpenAIに在籍中のことに触れ、「私たちはコードのバグを見�
 :::box
 
 :::
-</description><pubDate>Mon, 01 Jul 2024 02:33:39 +0000</pubDate></item><item><title>総務省　2024年版「情報通信白書」より、生成AI利活用の現状と潜在的な可能性が明らかに</title><link>https://ledge.ai/articles/mic_2024_white_paper_on_Information_and_communications</link><description>:::small
+</description><pubDate>Mon, 01 Jul 2024 02:33:39 +0000</pubDate></item><item><title>一般にはほぼ無名のAIエンジニア安野たかひろ氏が、急激に支持者を集め都知事選で15万票を獲得するまでを振り返る　最新小説も発売！</title><link>https://ledge.ai/articles/takahiroanno_reflections_on_the_campaign</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月7日に行われた東京都知事選において、政治の世界ではほぼ無名の状態から15万4638票を都民から集め、結果5位に食い込んだというAIエンジニアの安野たかひろ氏が、自身のnoteで都知事選を振り返る記事を{target=“_blank”}した。
+
+「なぜ無名のエンジニアは都知事選で15万票獲得できたのか」と題されたその記事では、「テクノロジーで誰も取り残さない東京を作る」と掲げた自身の選挙活動が、どのように認知を得て得票につながったのかを分析し、その影響について語った。
+
+## AIと双方向コミュニケーション
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+安野氏の選挙活動は、従来の政治キャンペーンとは一線を画していた。選挙活動の核となったのは、「ブロードリスニング」と称される、双方向のコミュニケーション手法であった。有権者の意見を直接聴き、それを政策に反映させることで、多くの支持を得た。AI技術を活用した意見収集ツールや、政策のアップデートを行うプラットフォームを駆使して、リアルタイムで有権者との対話を続けた。
+
+安野氏は、選挙活動の過程で、1000万回以上SNSで拡散された{target=“_blank”}を基に、具体的な政策を提示し、有権者からのフィードバックを取り入れ続けた。このプロセスで、6月20日に公開した96ページのマニフェストを何度もアップデートし、最終的に232件の課題提起と104件の変更提案が反映されたという。
+
+また、選挙活動には、AIを活用した「AIあんの」が大きな役割を果たした。YouTubeや電話を通じて、8600回以上の質問に回答し、有権者とのコミュニケーションを拡張することで、支持を広げた。また、街頭演説やメタバースでの活動も行い、直接的な対話の機会を増やした。
+
+@
+
+
+選挙結果としては5位に終わったが、無名のエンジニアが15万票以上を獲得したことは過去の都知事選の中でも異例であり、特に30代の候補者としては記録的な数値だという。
+
+今後も政治活動に関与する意向を示しており、今回の選挙で得た知見やツールをオープンソースとして公開する予定であると述べた。同氏は、テクノロジーを活用した分断のない政治の実現を目指し、引き続き取り組んでいくとの意向を示している。
+
+
+2024年7月4日、Ledge編集部でのインタビュー
+@
+
+
+なお、作家としても活動する安野氏のデビュー2作目となる長編小説「松岡まどか、起業します──AIスタートアップ戦記」が7月18日、早川書房より発売された。AIと働き方をめぐる令和の ”お仕事小説” とのことで、ハヤカワ・SFコンテスト優秀賞を受賞した1作目「サーキット・スイッチャー」とはまた違った世界が描かれているようだ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 19 Jul 2024 06:22:18 +0000</pubDate></item><item><title>総務省　2024年版「情報通信白書」より、生成AI利活用の現状と潜在的な可能性が明らかに</title><link>https://ledge.ai/articles/mic_2024_white_paper_on_Information_and_communications</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2248,34 +2293,7 @@ SmarterUKはテクノロジーを駆使して、有権者がMPの投票行動を
 :::box
 
 :::
-</description><pubDate>Sat, 22 Jun 2024 12:22:51 +0000</pubDate></item><item><title>「スピーチライターに ”お前クビな” って言っちゃったよ」トランプ氏がAIに原稿を添削させてみた結果</title><link>https://ledge.ai/articles/trump_said_you_are_fired_to_his_speech_writer</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年の米大統領選挙を前に、ドナルド・トランプ前大統領がAI技術を活用して演説原稿を添削した経験を明かし、AIの可能性とリスクについて議論が高まっている。トランプ氏は、ユーチューバーのローガン・ポールが配信するポッドキャストに{target=“_blank”}し、AIによる原稿添削のスピードと品質に感銘を受けたことを語った。
-
-@
-
-
-トランプ氏は、IT業界のトップクラスの人物がAIを用いて演説原稿を短時間で添削した経験について述べた。数回のクリックだけで15秒後には高品質な原稿が生成され、その出来栄えに驚いたという。この出来事を受けて、トランプ氏は「ビンス、きみはクビだ！」と冗談交じりにスピーチライターのビンス・ヘイリー氏に言及したという。
-
-AI技術がもたらす脅威として、ディープフェイクの利用が懸念されている。2024年2月には、バイデン大統領の声を模倣したディープフェイク音声が民主党支持者に投票を控えるよう呼びかけるロボコールで使用された​。このような事例が増える中、連邦通信委員会はAI生成ロボコールの使用を禁止する措置を講じたという。
-
-2024年の米大統領選挙において、AI技術の利用とその規制について注視し続けることが求められている。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 19 Jun 2024 05:28:06 +0000</pubDate></item><item><title>安達寛高（乙一）ら原作・監督　全編生成AI制作の映画「generAIdoscope：ジェネレイドスコープ」2024年公開予定</title><link>https://ledge.ai/articles/the_film_generaidoscope_produced_entirely_with_ai</link><description>:::small
+</description><pubDate>Sat, 22 Jun 2024 12:22:51 +0000</pubDate></item><item><title>安達寛高（乙一）ら原作・監督　全編生成AI制作の映画「generAIdoscope：ジェネレイドスコープ」2024年公開予定</title><link>https://ledge.ai/articles/the_film_generaidoscope_produced_entirely_with_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
