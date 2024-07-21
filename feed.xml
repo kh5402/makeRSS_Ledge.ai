@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 19 Jul 2024 08:59:41 +0000</lastBuildDate><item><title>大阪・関西万博　Society 5.0への進化「未来の都市」パビリオン、展示内容第1弾を発表</title><link>https://ledge.ai/articles/expo2025_future_city_pavilion</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 20 Jul 2024 14:36:03 +0000</lastBuildDate><item><title>大阪・関西万博　Society 5.0への進化「未来の都市」パビリオン、展示内容第1弾を発表</title><link>https://ledge.ai/articles/expo2025_future_city_pavilion</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1910,7 +1910,45 @@ NICTは、2023年からLLMに関する研究を本格化させ、2023年7月に�
 :::box
 
 :::
-</description><pubDate>Wed, 03 Jul 2024 09:05:06 +0000</pubDate></item><item><title>一般にはほぼ無名のAIエンジニア安野たかひろ氏が、急激に支持者を集め都知事選で15万票を獲得するまでを振り返る　最新小説も発売！</title><link>https://ledge.ai/articles/takahiroanno_reflections_on_the_campaign</link><description>:::small
+</description><pubDate>Wed, 03 Jul 2024 09:05:06 +0000</pubDate></item><item><title>ベネッセコーポレーションが、小学生と保護者による「生成AIの利用に関する調査」の結果を発表　前年より肯定的な意見が増加</title><link>https://ledge.ai/articles/benesse_survey_on_the_use_of_AI</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年7月17日、ベネッセコーポレーションは、小学生とその保護者を対象にしたChatGPTなどの生成AIの利用に関する調査の結果を{target=“_blank”}した。
+
+## 保護者の認知度と利用に関する意向
+調査によると、保護者の53％が生成AIを「知っている」と回答した。「知っている」と回答した保護者のうち66％が「子どもに使ってほしい」と肯定的な意見を示した。「積極的に使ってほしい」と答えた保護者は14％、「少し使ってみてほしい」と答えた保護者は52％で、{target=“_blank”}に比べて肯定的な回答が10ポイント増加したという。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+肯定的な理由としては、「新しい技術の活用力を養う良い機会になりそうだから」（35％）、「子どもが新しい興味に出会えそうだから」（22％）、「自分で考える力が伸びそうだから」（13％）が挙げられた。一方で、否定的な回答をした保護者の理由としては、「自分で考えなくなりそうだから」（48％）、「自分で書いて表現することをしなくなりそうだから」（23％）、「情報の正誤の判断がつかなくなりそうだから」（12％）が主な理由として挙げられた。
+## 子どもの認知度と利用状況
+子どもに生成AIを知っているか調査をしたところ、「知っている」と答えた子どもは20％、「聞いたことはあるがどんなものか分からない」と答えた子どもは28％、「知らない」と答えた子どもは52％で、前年調査に比べ「知らない」と答えた割合は9ポイント低下していた。
+
+生成AIを知っている子どもの利用状況については、「よく使っている」子どもは16％、「時々使っている」子どもは28％、「試しに使ってみたことがある」子どもは26％、「全く使ったことがない」子どもは29％であった。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+**調査概要**
+2024年6月24日から26日にかけてインターネットを通じて行われ、小学3年生から6年生の児童とその保護者1032組を対象にアンケート調査を実施。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 20 Jul 2024 14:36:03 +0000</pubDate></item><item><title>一般にはほぼ無名のAIエンジニア安野たかひろ氏が、急激に支持者を集め都知事選で15万票を獲得するまでを振り返る　最新小説も発売！</title><link>https://ledge.ai/articles/takahiroanno_reflections_on_the_campaign</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2262,36 +2300,7 @@ Googleは、AI技術を活用し、日本社会が抱える様々な課題解決
 :::box
 
 :::
-</description><pubDate>Sun, 23 Jun 2024 06:24:04 +0000</pubDate></item><item><title>イギリス版「AIゆりこ」か？　英総選挙にAI候補者「AIスティーブ」出馬中</title><link>https://ledge.ai/articles/ai_steve_uk</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月4日に行われるイギリス総選挙に、ブライトンの実業家スティーブ・エンダコット氏が開発したAIチャットボット「{target=“_blank”}」が、独立政党 ”SmarterUK” の候補者として出馬し話題を呼んでいる。AIスティーブは有権者との対話を通じて政策を形成し、エンダコット氏がその政策を議会で代表する。有権者の意見をリアルタイムで反映し、政治の透明性と効率性の向上を目的としているという。
-## AIスティーブの仕組み
-AIスティーブは、Neural Voice社が開発した対話型AIで、最大1万件の対話を同時に処理できる。これにより、有権者の意見や関心事を迅速に収集し分析することが可能だ。収集されたデータは、一般市民ボランティアからなる「バリデーター」によって評価され、50%以上の支持を得た政策のみが議会に提案される。有権者の声を直接反映し、政治家のより透明で効率的な意思決定を狙うとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-SmarterUKは、スティーブ・エンダコット率いるチームによって、全国およびブライトン・ホーブ地域のための実用的な政策を策定している。キャリア政治家を排し、ビジネスの専門家が実用的で環境に優しい政策を推進するという。テクノロジー改革も掲げ、AIを活用して政府の効率化を図る。
-
-AI Steveは24時間365日、有権者と対話でき、すべての会話は自動で記録・要約される。このデータは政策の基盤となり、独立した「バリデーター」グループが政策を評価することで、一般有権者に訴求するものだけが採用される。
-
-SmarterUKはテクノロジーを駆使して、有権者がMPの投票行動を直接制御できるようにし、政治を市民に取り戻すことを目指しているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 22 Jun 2024 12:22:51 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
+</description><pubDate>Sun, 23 Jun 2024 06:24:04 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
