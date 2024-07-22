@@ -1044,7 +1044,30 @@ Microsoft は2024年6月、教育者と中高生が授業で利用できる生�
 :::box
 
 :::
-</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>AWSが、生成AI業務アプリを作成する「AWS App Studio」のプレビューを公開　開発スキルがなくても自然言語で利用できる</title><link>https://ledge.ai/articles/aws_app_studio_public_preview</link><description>:::small
+</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>Microsoftがスプレットシートなどの表計算ソフトを理解できる大規模言語モデル「SpreadsheetLLM」を発表　複雑なスプレッドシートの処理を削減</title><link>https://ledge.ai/articles/spreadsheet_llm_microsoft</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月12日、Microsoftの研究チームは、大規模言語モデルを活用してスプレッドシートの処理を効率的に行う技術「SpreadsheetLLM」を{target=“_blank”}した。
+
+スプレッドシートは、ビジネスで広く使用されるデータ管理ツールだ。しかし、その複雑なレイアウトや多様なフォーマットで大量のデータを効率的に処理することは従来の手法では困難だったという。この課題改善のために、スプレットシートの理解および、効率的に処理することを目的として「SpreadsheetLLM」が開発された。
+
+SpreadsheetLLMの中心となるのは、「SheetCompressor」という手法で、表計算シート内で重要な構造を特定し、その情報を保持しながらデータ量を大幅に削減する。SheetCompressorは、表計算データを平均して25倍に圧縮することに成功しており、LLMが一度に処理できるデータ量が増加する。これにより、複雑な表計算ファイルの分析が可能となり、データ処理にかかる計算コストも96％削減されたという。
+
+実験結果において、SpreadsheetLLMは表計算検索タスクで従来のモデルを12.3％上回る性能を達成したと発表している。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 20 Jul 2024 14:44:17 +0000</pubDate></item><item><title>AWSが、生成AI業務アプリを作成する「AWS App Studio」のプレビューを公開　開発スキルがなくても自然言語で利用できる</title><link>https://ledge.ai/articles/aws_app_studio_public_preview</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1411,39 +1434,7 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>NTTドコモ、NPCを自動生成するAIを開発ーー過疎バースに賑わいを創出。メタぼっちでもへっちゃら？</title><link>https://ledge.ai/articles/docomo_openhouse24_metaverse</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年1月16日、NTTドコモは、メタバース空間内のノンプレイヤーキャラクター（NPC）をテキスト入力のみで自動生成する生成AIを世界で初めて開発したと{target=“_blank”}した。また、この技術詳細は1月17日・18日開催の{target=“_blank”}に出展し紹介された。
-
-この技術は、プログラミングやアルゴリズムの専門知識がなくても、外見や行動、空間内での役割を備えたNPCを約20分で自動生成できる。この技術は「行動ロジック生成AI」、「アニメーション生成AI」、「外見生成AI」の3つの生成AIで構成され、これらが自動連携することにより、NPCの総合的な自動生成を実現する。
-
-!
-:::small
-画像の出典：){target=“_blank”}
-:::
-
-
-ドコモのこの技術開発は、メタバース空間内の賑わいを創出し、ユーザーを惹きつけるためのもの。従来、NPCの行動はビヘイビアツリーという手法を用いて規定されていたが、その作成には専門的なプログラミング技術が必要だった。しかし、本技術を用いることで、NPCの生成と行動ロジックの設定が大幅に簡略化される。
-
-メタバース空間内にNPCを10体配置する場合、ビヘイビアツリーの作成およびビヘイビアツリーとNPCのアニメーション・外見の連携におよそ42時間要するといわれているが、この技術を利用することで1時間程度に削減可能だという。
-
-!
-:::small
-画像の出典：){target=“_blank”}
-:::
-
-
-この技術は、2024年度中に株式会社NTTコノキューが提供する仮想空間プラットフォーム「DOOR」への実装を目指すほか、地方創生や地域活性化に貢献する新しい技術やサービスの開発にも活用する計画だという。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>OpenAI　開発コードは「Q*」から「Strawberry」に。推論能力を向上し、数学などの高正答率を目指す新たなAI技術の開発が進んでいる</title><link>https://ledge.ai/articles/openai_strawberry</link><description>:::small
+</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>OpenAI　開発コードは「Q*」から「Strawberry」に。推論能力を向上し、数学などの高正答率を目指す新たなAI技術の開発が進んでいる</title><link>https://ledge.ai/articles/openai_strawberry</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
