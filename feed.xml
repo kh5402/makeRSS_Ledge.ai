@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 20 Jul 2024 14:36:03 +0000</lastBuildDate><item><title>大阪・関西万博　Society 5.0への進化「未来の都市」パビリオン、展示内容第1弾を発表</title><link>https://ledge.ai/articles/expo2025_future_city_pavilion</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Jul 2024 12:15:44 +0000</lastBuildDate><item><title>DeepLが次世代翻訳AIをリリース、翻訳性能がGPT-4・Google翻訳を超える</title><link>https://ledge.ai/articles/deepl_new_llm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+DeepLは2024年7月17日、言語翻訳と文章校正に特化した新たな大規模言語モデル（LLM）の実装を{target=“_blank”}した。このモデルは、翻訳品質においてGoogle、GPT-4、Microsoftを上回るとされ、企業の翻訳業務に革命をもたらすものと期待されている。
+
+2024年7月に実施されたブラインドテストによると、プロの翻訳者はDeepLの翻訳出力を他の主要な翻訳ツールよりも好ましいと評価した。具体的には、Google翻訳よりも1.3倍、ChatGPT-4よりも1.7倍、Microsoft翻訳よりも2.3倍優れているとされた。
+
+新たな次世代言語モデルの特徴は以下の通り
+
+**1. 特化型大規模言語モデル（LLM）：** 特殊な調整を施したLLMを活用し、偽情報や誤情報のリスクを低減
+**2. 独自データ：** 汎用AIモデルとは異なり、7年分以上の特別にチューニングされたデータを使用
+**3. 言語専門家によるモデルチュータリング：** 品質重視の翻訳を実現するため、数千人の厳選された言語専門家を採用
+
+## 高い生産性とコスト削減
+最新のブラインドテストによると、DeepLの次世代モデルは編集回数が少なくて済むため、翻訳作業の効率が飛躍的に向上する。企業は翻訳にかかる時間を短縮し、コストを抑え、グローバルなコミュニケーションをより効率化できるという。Forrester Consultingが実施した調査では、DeepLの導入により、企業は翻訳の処理時間を90%短縮し、翻訳の作業量を50%削減し、345%の投資利益率（ROI）を達成したと報告されている。
+## 高いセキュリティとプライバシー
+DeepLの次世代モデルは、DeepL Proと同等の高いセキュリティ基準を満たしているという。専有データセンターの使用、高水準の認証とコンプライアンス基準の維持、ISO 27001認証の取得、EU一般データ保護方針（GDPR）への準拠、そしてSOC 2 Type 2レポートの提供など、多岐にわたるセキュリティ対策が講じられているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 21 Jul 2024 12:15:44 +0000</pubDate></item><item><title>大阪・関西万博　Society 5.0への進化「未来の都市」パビリオン、展示内容第1弾を発表</title><link>https://ledge.ai/articles/expo2025_future_city_pavilion</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -362,47 +391,7 @@ Thrive AI Healthは、最新のAI技術を駆使して個別の健康ガイド�
 :::box
 
 :::
-</description><pubDate>Sun, 14 Jul 2024 13:09:03 +0000</pubDate></item><item><title>コーレ株式会社が、広告DXサービス「AI MIX AD PROMOTION」を提供開始　AIモデルとリアル商品を自然に組み合わせて画像を生成</title><link>https://ledge.ai/articles/ai_mix_ad_promotion</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月8日、コーレ株式会社は、AIモデルとリアルな商品の物撮りを組み合わせた広告・プロモーション画像を制作するタレント広告DXサービス「AI MIX AD PROMOTION」の提供を{target=“_blank”}した。
-
-「AI MIX AD PROMOTION」は、AIで生成したモデルやタレントと実際に撮影された商品画像を組み合わせ、自然なシーンを作り出すサービス。ターゲット層や商品イメージに合わせて、国籍、性別、年齢、髪型、肌の色、服装、ポージング、背景などをカスタマイズできる点が特徴だ。
-## 実例
-例えば、スキンケア商品「HERBNEIGE」の広告画像を作成する場合
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-従来の画像生成AIでは商品画像を読み込ませても、ロゴや色、材質が変わってしまい、別商品の広告になってしまう。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-しかし、「AI MIX AD PROMOTION」では元の商品画像をそのままに、AIモデルに自然に商品を持たせることが可能であり、理想的な広告画像を作成することができる。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-従来の画像生成AIでは、商品画像をもとに新しく画像を生成するため、本来の商品画像とは異なる画像が生成されるが、本サービスではリアルな商品画像を維持しながら多様な広告パターンを高速で生成できる。これにより、企業は効率的かつ効果的に広告制作を行い、大幅なコスト削減を実現することが可能だという。
-
-:::box
-
-:::
-
-:::box
-
-:::
-
-:::box
-
-:::</description><pubDate>Thu, 11 Jul 2024 05:20:42 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Sun, 14 Jul 2024 13:09:03 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
