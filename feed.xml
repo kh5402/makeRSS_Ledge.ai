@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Jul 2024 12:19:28 +0000</lastBuildDate><item><title>日本新聞協会、生成AIによる報道コンテンツの無断利用について声明を発表</title><link>https://ledge.ai/articles/opinion_on_the_use_of_news_content_by_genai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Jul 2024 12:22:42 +0000</lastBuildDate><item><title>富士通とCohere　日本語強化版LLM「Takane（高嶺）」を共同開発　企業向けAIサービス提供のため戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/fujitsu_cohere_partnership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+富士通とCohereは2024年7月16日、企業向けAIサービスの開発と提供に関する戦略的パートナーシップを{target=“_blank”}した。この協力により、両社は企業ニーズに応える大規模言語モデル（LLM）を共同開発し、富士通がグローバル市場向けに独占的に提供することで合意した。さらに、富士通はCohereに出資を行った。
+
+両社は、CohereのLLMを基にした日本語強化版「Takane」（仮称）を共同開発し、2024年9月から富士通のAIサービス「Fujitsu Kozuchi」から提供を開始する予定だ。このモデルは、セキュリティを重視したプライベート環境での利用を想定しており、富士通の「Fujitsu Data Intelligence PaaS」や「Fujitsu Uvance」を通じて広く提供される。
+
+「Takane」（仮称）は、ハルシネーションを軽減するRAGの性能を引き出すことを特徴とし、多言語対応でCohereの最新LLM「Command R+」を基にしているという。富士通の日本語特化技術とCohereの企業向け技術を組み合わせ、安全性と透明性に優れたLLMを実現するとのこと。
+
+
+:::box
+[関連記事：カナダCohereの研究組織「Cohere For AI」、100言語以上をカバーする新LLM「Aya」を発表](https://ledge.ai/articles/cohere_for_ai_aya
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 21 Jul 2024 12:22:42 +0000</pubDate></item><item><title>日本新聞協会、生成AIによる報道コンテンツの無断利用について声明を発表</title><link>https://ledge.ai/articles/opinion_on_the_use_of_news_content_by_genai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -377,29 +397,7 @@ LINE AIアシスタントは、LINE内でユーザーが質問や相談をトー
 :::box
 
 :::
-</description><pubDate>Mon, 15 Jul 2024 13:47:05 +0000</pubDate></item><item><title>Google　ダークウェブ監視機能を全ユーザーに無料開放　7月下旬より</title><link>https://ledge.ai/articles/google_one_dark_web_reports</link><description>Googleは2024年7月下旬から「ダークウェブレポート」機能をGoogleアカウントを持つすべてのユーザーに{target=“_blank”}。これまでは、有料プラン「Google One」のメンバーシップ特典として限定されていた同機能が全ユーザーに開放されることで、個人情報の保護が一層強化されることが期待できるという。
-
-## ダークウェブレポートの機能
-ダークウェブレポートは、ユーザーの個人情報（名前、住所、電話番号、メールアドレスなど）がダークウェブ上で不正に取引されていないかを監視するツールだ。ユーザーはプロフィールに情報を設定することで、Googleがダークウェブ上の一致するデータを監視し、発見された場合には通知を受ける。
-## 「あなたに関する検索結果」との統合
-今回の変更に伴い、ダークウェブレポートは「あなたに関する検索結果」機能と統合される。「あなたに関する検索結果」は、個人の連絡先情報（自宅住所、電話番号、メールアドレスなど）がGoogle検索結果に表示されるかどうかを確認し、必要に応じて削除リクエストを行う機能である。これにより、ユーザーは自分のオンラインプレゼンスをより包括的に管理・保護可能となる。
-## 提供開始時期と利用方法
-ダークウェブレポートの全ユーザー向け無料提供は2024年7月下旬から開始される。これにより、Googleアカウントにログインしているすべてのユーザーが、この機能と「あなたに関する検索結果」を利用できるようになる。ダークウェブレポートはGoogle Oneアプリから削除され、統合された新しいプラットフォームで提供されるとのこと。
-
-
-2024年6月にはKADOKAWAがランサムウェア攻撃を受け、ドワンゴの従業員やクリエイターの個人情報が流出したと報じられたが、近年、ランサムウェア攻撃やデータ漏洩事件が増加しており、企業や個人の情報がダークウェブ上で取引されるケースが後を絶たない。このような背景から、Googleの新しいツールは、個人情報の保護と被害拡大の防止への貢献が期待される。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 15 Jul 2024 13:43:15 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Mon, 15 Jul 2024 13:47:05 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
