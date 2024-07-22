@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Jul 2024 12:15:44 +0000</lastBuildDate><item><title>DeepLが次世代翻訳AIをリリース、翻訳性能がGPT-4・Google翻訳を超える</title><link>https://ledge.ai/articles/deepl_new_llm</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Jul 2024 12:19:28 +0000</lastBuildDate><item><title>日本新聞協会、生成AIによる報道コンテンツの無断利用について声明を発表</title><link>https://ledge.ai/articles/opinion_on_the_use_of_news_content_by_genai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年7月17日、日本新聞協会は生成AIサービスが報道コンテンツを無断利用している問題に関する声明を{target=“_blank”}した。同協会はこれまでに生成AI事業者に対し、報道コンテンツの利用には許諾を得るよう繰り返し要請してきたが、改善が見られない状況が続いている。
+## 声明の背景と主張
+同協会は、生成AIが報道コンテンツを無断で学習・利用し、検索結果に回答を生成するサービス（RAG：検索連動型の生成AIサービス）が拡大している現状を問題視している。このようなサービスは、報道機関の多大な労力とコストをかけて作成された知的財産を不適切に利用しており、著作権侵害に該当する可能性が高いと指摘している。
+
+## 主な問題点
+### 無断利用とゼロクリックサーチ
+生成AIが報道コンテンツを無断で利用し、ユーザーが元の報道機関のサイトにアクセスしない「ゼロクリックサーチ」の増加が懸念されている。これにより、報道機関の収益が減少し、取材活動に悪影響を及ぼしているという。
+### 著作権法の見直しの必要性
+現行の著作権法ではこの問題を十分に取り締まれないため、日本新聞協会は法の抜本的な見直しを求めている。文化庁が3月にまとめた「AIと著作権に関する考え方について」も無許諾での生成AIサービスに対して厳しい見方を示しているが、法的な整備は不十分である。政府には著作権法の改正を含む法制度の整備を急ぐよう求めている。
+### 誤情報を生む完成度の低いサービスの提供に対する懸念
+生成AIが文脈を無視して情報を抜き出したり、誤った情報を生成するリスクが高いことが指摘されている。このような誤情報が流通すると、報道の信頼性が損なわれるため、同協会は、情報発信者としての責任ある対応を生成AIサービス提供者に求めている。
+### 公正競争上の懸念
+検索連動型生成AIサービスが報道コンテンツを無断利用することは、独占禁止法に抵触する可能性もあると同協会は考えている。米国ではニュース／メディア連合（NMA）が、一部の事業者が新聞社や出版社の記事を不正に活用し、トラフィックを奪っていることについてサービス拡大の停止を求める動きがある。同協会は、生成AI事業者や公正取引委員会に対し、適切な対応を取るよう求めている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 21 Jul 2024 12:19:28 +0000</pubDate></item><item><title>DeepLが次世代翻訳AIをリリース、翻訳性能がGPT-4・Google翻訳を超える</title><link>https://ledge.ai/articles/deepl_new_llm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -371,27 +399,7 @@ LINE AIアシスタントは、LINE内でユーザーが質問や相談をトー
 :::box
 
 :::
-</description><pubDate>Mon, 15 Jul 2024 13:43:15 +0000</pubDate></item><item><title>OpenAIとハフポスト創設者が新会社「Thrive AI Health」を設立、AIによるパーソナライズドヘルスコーチングを提供</title><link>https://ledge.ai/articles/thrive_ai_health</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年7月8日、OpenAIのサム・アルトマンCEOとハフポスト（現HuffPost）の創設者アリアナ・ハフィントン氏は、新会社「Thrive AI Health」を設立し、専門家レベルのヘルスコーチングAIを提供することを{target=“_blank”}した。新会社は、OpenAI Startup Fundとハフィントン氏の健康技術企業Thrive Globalによる資金提供を受ける。
-## 新会社の使命と目標
-Thrive AI Healthの使命は、AIを活用して専門家レベルのヘルスコーチングへのアクセスを民主化し、健康格差を是正することだ。睡眠、食事、運動、ストレス管理、社会的つながりの5つの行動領域に焦点を当て、個々のニーズに合わせたパーソナライズドなコーチングを提供する。これにより、慢性疾患の予防と治療の最適化を目指しているという​。
-## 新会社CEOと提携パートナー
-新会社のCEOには、Google出身のデカルロス・ラブ氏が就任した。同氏は、GoogleでFitbitやPixel Watchの開発に携わった経験を持ち、その経験がThrive AI Healthにおいて重要な役割を果たすと期待される。また、スタンフォード大学医学部、アリスL.ウォルトン医学部、ウェストバージニア大学のロックフェラー神経科学研究所などの医療機関とも提携し、AIヘルスコーチを実社会に導入する計画だ​という。
-
-Thrive AI Healthは、最新のAI技術を駆使して個別の健康ガイドラインを提供し、生活習慣の改善をサポートする。この技術は、科学的なデータやユーザーのバイオメトリクスデータに基づいてトレーニングされ、ユーザーの健康目標に応じた具体的なアドバイスを行う。また、Thrive Globalの「Microsteps」メソッドとコンテンツライブラリも活用される​とのこと
-
-「AIは、行動変容をより強力で持続可能なものにする前例のない機会を提供する」とラブ氏は述べた。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 14 Jul 2024 13:09:03 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Mon, 15 Jul 2024 13:43:15 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
