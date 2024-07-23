@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jul 2024 04:40:33 +0000</lastBuildDate><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jul 2024 11:35:56 +0000</lastBuildDate><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1923,7 +1923,53 @@ LongVAのコード、デモ、およびモデルは、{target=“_blank”}お�
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>ベネッセコーポレーションが、小学生と保護者による「生成AIの利用に関する調査」の結果を発表　前年より肯定的な意見が増加</title><link>https://ledge.ai/articles/benesse_survey_on_the_use_of_AI</link><description>:::small
+</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>これは読むべき！経産省発表の音楽産業のビジネスモデルに関するレポートが興味深い　生成AIによる楽曲制作が業界に与える影響についての分析にも注目</title><link>https://ledge.ai/articles/meti_musicindustry_2024report</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月17日、経済産業省は「音楽産業の新たな時代に即したビジネスモデルの在り方に関する報告書」を{target=“_blank”}した。この報告書は、ストリーミング時代を迎えて大きく変化する音楽産業について、定量的な分析や新たなトレンドの可視化を目的とし、各種調査の結果を基に作成されたものだ。
+
+SNSでは、「これは読むべき！」「経産省の本気を見た」などの高評価を得ており、評判となっている。また、音楽業界のみならず、他の業界にも応用可能なビジネスモデルの洞察を提供しているとの声も高い。
+## SNSとストリーミングの影響
+報告書では、SNSとストリーミングの普及が音楽の消費行動に与える影響を強調している。YOASOBIの「アイドル」やHoneyWorksの「可愛くてごめん」など、SNSでのバズが音楽ヒットに繋がっている具体例が挙げられている。ユーザー生成コンテンツ（UGC）の増加が他のアーティストやインフルエンサーによる発信につながり、さらなる人気を博していることが示されている。
+
+下図：YOASOBIの「アイドル」に関連する公式動画とユーザー生成動画の視聴回数を示したもの。UGCが公式コンテンツ以上に多くの視聴を集めていることを示しており、SNSや動画プラットフォームでのバズの重要性を示唆している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## ボカロPとデジタルマーケティング
+ボーカロイドを活用した音楽制作の普及により、SNSや動画配信プラットフォームを駆使するボカロP出身のアーティストがデジタルマーケティングに秀で、海外でも人気を得ているという。代表例としてYOASOBIや米津玄師氏が挙げられ、デジタル時代の新たな音楽ビジネスモデルが形成されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## ヒットの事例にみられる要因
+報告書では、SNSバズやバイラルによる成功法則の多様性を説明し、ヒット曲が生まれる要因には、特に二次創作の促進がバズの機会を創出することを強調している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+その他にも、報告書では、生成AIによる楽曲制作が音楽業界に与える影響についての分析や、諸外国において日本の音楽がどのように受容されているかについても触れている。
+
+この報告書の洞察は音楽業界に限らず、他の業界にも応用可能な示唆を含んでいる。デジタルマーケティングの重要性やUGCの効果的な活用、グローバル市場への展開戦略など、多くのビジネスに共通する課題と解決策が示されている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 22 Jul 2024 11:35:56 +0000</pubDate></item><item><title>ベネッセコーポレーションが、小学生と保護者による「生成AIの利用に関する調査」の結果を発表　前年より肯定的な意見が増加</title><link>https://ledge.ai/articles/benesse_survey_on_the_use_of_AI</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2286,34 +2332,7 @@ Ledge.aiを運営する株式会社レッジの代表取締役社長 小瀧健�
 :::box
 
 :::
-</description><pubDate>Sun, 23 Jun 2024 12:41:54 +0000</pubDate></item><item><title>Googleと東大松尾研　生成AIモデル実装とAI人材育成で47都道府県の地域課題を解決する取り組みを発表</title><link>https://ledge.ai/articles/google_for_japan_2024</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleは2024年6月19日に開催した「Google for Japan 2024」で、AI技術を用いて日本の社会課題解決に向けた新たなプロジェクトを{target=“_blank”}した。Googleは、東京大学 松尾・岩澤研究室と協力し、2027年までに47都道府県の地域課題を解決するための生成AIモデルの実装とAI人材の育成を進める計画を明らかにした。
-## 地域課題解決への生成AI活用
-Googleは日本が抱える高齢化や労働人口の減少といった社会課題に対処するため、生成AIの力を活用する方針を示した。具体的には、AIを用いて労働力の生産性向上や企業の競争力強化、高齢者の健康支援を目指す。第一弾として、{target=“_blank”}と協力して雇用のミスマッチ解消に取り組む。このプロジェクトでは、AIが就業希望者に適性職種を提案し、企業には採用マーケティング支援を行うという。
-## 新たなAI機能と教育プログラム
-また、日本向けの新機能として「Googleナウキャスト」を発表。{target=“_blank”}との協力により、最大12時間先までの5分ごとの降水量予測が可能となる。また、ハッシュタグを用いた検索機能も追加され、ユーザーはソーシャルメディアからの最新トレンド情報を容易に取得できるようになるとのこと。
-
-## AIの責任ある活用とサイバーセキュリティ
-Google は、インターネット全体の安全性を向上させるため、2023 年 10 月に日本に日本をサイバーセキュリティ研究の拠点とし、政府や教育機関、そして産業界と連携し、知識共有や研究支援、トレーニングプログラムの提供など多岐に渡る取り組みを推進している。
-この日同社は、国内大学や研究機関を対象とした研究支援プログラム「Cybersecurity Research Award」の{target=“_blank”}し、医療分野を含む幅広いセキュリティ研究への支援を行うことを発表した。
-
-Googleは、AI技術を活用し、日本社会が抱える様々な課題解決に取り組む姿勢を明確にし、未来のイノベーションを支えるための取り組みを一層強化する意向を示した。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 23 Jun 2024 06:24:04 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
+</description><pubDate>Sun, 23 Jun 2024 12:41:54 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
