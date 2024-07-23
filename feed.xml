@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 21 Jul 2024 12:22:42 +0000</lastBuildDate><item><title>富士通とCohere　日本語強化版LLM「Takane（高嶺）」を共同開発　企業向けAIサービス提供のため戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/fujitsu_cohere_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jul 2024 04:40:33 +0000</lastBuildDate><item><title>AIビッグテック間で争いか　AppleやAnthropicがYouTube字幕データを無断使用、AIトレーニングに利用　Appleは「製品には使っていない」と主張</title><link>https://ledge.ai/articles/bigtechs_used_swiped_youtube_videos_to_train_ai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+米メディアの{target=“_blank”}は2024年7月16日、AppleやAnthropic、NVIDIAなどがYouTube動画の字幕データを無断で使用してAIをトレーニングしていたと報じた。Wiredとの共同調査により明らかになったという。このデータセット「YouTube Subtitles」は、EleutherAIが作成し、48,000以上のチャンネルから173,536本の動画の字幕を含んでいるとのこと。
+
+このデータセットは、YouTubeの利用規約に違反しており、多くのクリエイターが自分たちのコンテンツが無断で使用されたことに対して不満を表明している。YouTubeの利用規約では、動画を「自動化された手段」で取得することを禁じているため、このデータの使用は規約違反とされている。
+
+Appleはこれに対し、「研究用の言語モデルには使用したが、製品版AIのApple Intelligenceには使用していない」と反論していると7月17日に{target=“_blank”}が報じた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 22 Jul 2024 04:03:36 +0000</pubDate></item><item><title>富士通とCohere　日本語強化版LLM「Takane（高嶺）」を共同開発　企業向けAIサービス提供のため戦略的パートナーシップを発表</title><link>https://ledge.ai/articles/fujitsu_cohere_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -364,40 +381,7 @@ GMOインターネットグループは、生成AIの活用を進めることで
 :::box
 
 :::
-</description><pubDate>Tue, 16 Jul 2024 03:56:37 +0000</pubDate></item><item><title>無料プランを廃止した「LINE AIアシスタント」　月額990円から200円に引き下げ、GPT-4oも使えるように</title><link>https://ledge.ai/articles/line-yahoo_ai-assistant</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-LINEヤフーは2024年7月10日、同社が提供する「LINE AIアシスタント」の料金プランを改定したことを{target=“_blank”}した。改定により、これまでの無料プランを廃止し、従来月額990円で提供していた有料プランを月額200円に値下げした。改訂後の有料プランでは、OpenAIの最新モデル「GPT-4o」が利用可能だ。
-
-LINE AIアシスタントは、LINE内でユーザーが質問や相談をトークルームで行い、AIが回答するサービスだ。調べもの、仕事や宿題のアイデア提供、画像やファイルの翻訳や要約といった機能を利用できる。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-無料の体験プランは、登録後3日間無料から、期間に関係なく登録後10回まで無料で利用できる体制に変更した。
-なお、今回の料金プランの改定に伴い、「料理の分析」機能は提供終了となる。また、7月9日までに有料プランに加入しているユーザーには、3カ月間の無料特典が提供されるとのこと。
-
-同社は「よりご利用いただきやすい価格で提供することで、AIを体験する後押しとなり、将来的にユーザーの生活に自然とAIが活用されることを目指している」としている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 15 Jul 2024 13:47:05 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
+</description><pubDate>Tue, 16 Jul 2024 03:56:37 +0000</pubDate></item><item><title>東大松尾研究室が監修・開発のLLM講座「大規模言語モデル 2024」の受講生募集を開始</title><link>https://ledge.ai/articles/large-language-model_matsuo_iwasawa_lab</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1042,7 +1026,40 @@ Microsoft は2024年6月、教育者と中高生が授業で利用できる生�
 :::box
 
 :::
-</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>Microsoftがスプレットシートなどの表計算ソフトを理解できる大規模言語モデル「SpreadsheetLLM」を発表　複雑なスプレッドシートの処理を削減</title><link>https://ledge.ai/articles/spreadsheet_llm_microsoft</link><description>:::small
+</description><pubDate>Thu, 06 Jun 2024 08:10:02 +0000</pubDate></item><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月17日、Mistral AIは新しいコード生成特化型AIモデル「Codestral Mamba」をリリースしたと{target=“_blank”}した。このモデルは、従来のTransformerモデルとは異なるMambaアーキテクチャを採用しており、高速な推論時間と長い文脈処理能力を実現しているという。
+
+Codestral Mambaは7億パラメータを持ち、コード補完、エラーディテクション、ドキュメント生成、コード最適化やリファクタリングなど、開発者向けの広範な支援機能を提供する。特にHumanEvalベンチマークでは他のオープンソースモデルを上回る性能を示し、256,000トークンまでの長い文脈を処理できる能力がある。
+
+## 高性能を示すベンチマーク結果
+HumanEvalベンチマークテストでは、Codestral Mambaは他のオープンソースモデルであるCodeLlama 7BやCodeGemma-1.17Bを上回る性能を示した。この性能は、開発者が日常的に使用するコード補完や自動生成のタスクにおいて、より正確で効率的な支援を提供することを意味すると同社は述べる。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 多様なデプロイメントオプション
+Codestral Mambaは、mistral-inference SDKやNVIDIAのTensorRT-LLMを使用して展開可能だ。また、{target=“_blank”}から生データをダウンロードでき、ローカル環境での推論にはllama.cppのサポートも予定されているとのこと。これにより、開発者は自分のニーズに合わせて柔軟にモデルを統合し、利用できるという。
+
+同社は、Codestral Mambaの継続的な改良と新機能の追加を計画している。これは、開発者が最新の技術を活用し、効率的に作業を進めるための支援を強化するためのもので、今後も新たなモデルや量子化バージョンのリリースが予定されており、開発者コミュニティを支援するとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 22 Jul 2024 04:40:33 +0000</pubDate></item><item><title>Microsoftがスプレットシートなどの表計算ソフトを理解できる大規模言語モデル「SpreadsheetLLM」を発表　複雑なスプレッドシートの処理を削減</title><link>https://ledge.ai/articles/spreadsheet_llm_microsoft</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1396,43 +1413,7 @@ CAMELORS株式会社は2024年1月16日「フリーランス・副業の平均�
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>ゲーム開発者会議「GDC2024」事前調査で、レイオフや生成AIの影響が浮き彫りに。31%が生成AIを使って開発している。</title><link>https://ledge.ai/articles/gdc2024_reserch</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ゲーム開発者を中心とした会議「Game Developers Conference（GDC）」の主催団体は2024年1月18日、第12回年次ゲーム業界調査の結果を{target=“_blank”}した。この調査は、3月18日から開催される「GDC 2024」に先立ち行われたもので、3000人以上のゲーム業界の関係者から回答を得た。
-
-調査結果によると、回答者の31%が仕事で生成AIを使用していると回答し、18%が自分は使用していないが職場の同僚が使用していると回答した。生成AIに関しては、開発者の84％がその倫理的使用について何らかの懸念を抱いていることが分かった。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-その他調査では、レイオフの増加や、ゲームエンジンのポリシーと価格設定の変更に関する懸念が見受けられたという。
-
-レイオフに関しては、開発者のうち3分の1が影響を受けており、12ヶ月以内にレイオフがあるかもしれないと懸念している者が過半数に上ることが明らかになった。品質保証の開発者は最も影響を受けており、22%が今年レイオフされたと回答した。一方で、ビジネスとファイナンスの専門家は2%と最もレイオフが少ないという。
-
-ゲームエンジンについては、過去1年以内に変更した、または変更を検討している開発者が3分の1に上り、主に使用されているゲームエンジンはUnreal EngineとUnityであることが判明した。
-
-さらに、アクセシビリティ機能の組み込みの増加も特徴的だという。
-ほぼ半数の開発者が現在のプロジェクトにアクセシビリティ対策を実施しており、最も人気のある機能にはクローズドキャプション、色覚モード、コントロールの再マッピングなどが含まれている。
-
-また、企業が、リモートワークや在宅勤務から通常のオフィス環境への復帰を指示または促進する傾向にあるとのこと。
-AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオフィスへの復帰ポリシーが義務化されており、うち現在40％がオフィスでの全日勤務またはハイブリッドスケジュールを実施していることが判明した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>OpenAI　開発コードは「Q*」から「Strawberry」に。推論能力を向上し、数学などの高正答率を目指す新たなAI技術の開発が進んでいる</title><link>https://ledge.ai/articles/openai_strawberry</link><description>:::small
+</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>OpenAI　開発コードは「Q*」から「Strawberry」に。推論能力を向上し、数学などの高正答率を目指す新たなAI技術の開発が進んでいる</title><link>https://ledge.ai/articles/openai_strawberry</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
