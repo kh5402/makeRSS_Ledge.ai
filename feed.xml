@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jul 2024 07:53:28 +0000</lastBuildDate><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jul 2024 09:41:13 +0000</lastBuildDate><item><title>メタ「今後のマルチモーダルAIモデルをEUでは提供しない」当局の規制指針が明確ではないと判断</title><link>https://ledge.ai/articles/meta_will_not_offer_future_multimodal_ai_in_eu</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+Metaは今後のマルチモーダルAIモデルおよび将来のモデルを欧州連合（EU）の顧客に提供しない方針を明らかにした。この決定は、同社がEUの規制当局からの明確な指針が欠如していると判断したためであると、2024年7月17日に{target=“_blank”}が報じた
+
+メタは、新しいマルチモーダルモデルをスマートフォンやMeta Ray-Banスマートグラスなど、多岐にわたる製品に組み込む計画を立てている。このモデルは、ビデオ、オーディオ、画像、テキストを横断的に処理できる能力を持つ。
+
+メタの決定により、欧州企業は新しいマルチモーダルモデルをオープンライセンスで提供されるにもかかわらず利用できないことになる。これにより、EU外の企業が欧州でこれらのモデルを使用する製品やサービスを提供することも難しくなる可能性がある。近日中に、より大規模なテキスト専用のLlama 3モデルがリリースされ、こちらはEUの顧客や企業にも提供される予定だという。
+
+メタは5月に、将来のモデルを訓練するためにFacebookやInstagramの公開投稿を使用する計画を{target=“_blank”}。メタはEU内のユーザーに対して、オプトアウトの手段を提供する通知を20億件以上送信し、訓練は6月に開始される予定だった。しかし、メタが計画を公に発表した後、EUの規制当局から訓練の中止を命じられたとのこと。
+
+Appleも6月に発表したApple Intelligence機能を、規制上の懸念からEUでの提供延期を決めている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Jul 2024 09:41:13 +0000</pubDate></item><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -341,36 +365,7 @@ AMDは過去12ヶ月でNod.aiやMipsologyなどのAIスタートアップを買�
 :::box
 
 :::
-</description><pubDate>Tue, 16 Jul 2024 11:06:16 +0000</pubDate></item><item><title>NEC　顔認証技術を用いたデジタル社員証を導入　出退勤記録はもちろん社食の決済やロッカーの利用なども</title><link>https://ledge.ai/articles/nec_face_recognition_for_employeeid_cards</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NECは2024年7月10日、国内の社員2万人を対象に「デジタル社員証」を本格導入したと{target=“_blank”}した。従来のプラスチックカードの社員証を不要とし、顔認証技術を利用して様々なサービスを利用できるようにするという。
-
-## デジタル社員証の概要と利便性
-デジタル社員証の導入により、社員は以下のような機能を利用できるようになる。
-
-- **入退場管理：** 本社ビルへの入館・退館
-- **決済機能：** 社内の食堂や売店での決済
-- **オフィス機能：** 複合機やロッカーの利用
-
-同デジタル社員証は勤怠管理システムと連携しており、入館時に自動で「勤務開始」、退館時に自動で「勤務終了」が記録されるとのこと。
-## 技術の背景と今後の展開
-このデジタル社員証は、NECの生体認証技術と米マイクロソフトの「分散型ID」技術が組み合わさったものであり、特定のサービス事業者に依存しないID管理が可能となっているという。
-
-NECはこの技術を他の事業拠点にも順次展開し、連結子会社を含むグループ全体（11万人）への導入も検討している。また、障がい者手帳「ミライロID」との連携も進めており、国籍、年齢、性別、障がいの有無に関わらず、誰もが働きがいを感じられる環境作りを目指すとのこと。
-
-さらに、行政機関や病院、鉄道などとのID連携も視野に入れ、これにより公的手続きの効率化も期待されるという。
-NECはこのデジタル社員証の技術を社内での実績を基に、デジタルIDサービスとしての外販を目指す。すでにデジタル学生証など、他方面からの引き合いも受けており、今後の展開が期待される。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 16 Jul 2024 03:59:23 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Tue, 16 Jul 2024 11:06:16 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
