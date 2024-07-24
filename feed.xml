@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jul 2024 07:48:24 +0000</lastBuildDate><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jul 2024 07:53:28 +0000</lastBuildDate><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1923,7 +1923,34 @@ LongVAのコード、デモ、およびモデルは、{target=“_blank”}お�
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>気候変動による猛暑とAIで世界の電力需要急増、17年ぶりの増加率に　IEA報告</title><link>https://ledge.ai/articles/iea_reports_global_electricity_demand_to_surge_with_extreme_heat_and_aiiea_reports_global_electricity_demand_to_surge_with_extreme_heat_and_ai</link><description>:::small
+</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>内閣府　AI戦略会議で「AI制度研究会」のメンバーを発表、座長には東大松尾教授　AIに関する法規制のあり方を議論</title><link>https://ledge.ai/articles/cabinet_office_announces_members_of_ai_system_study_group</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+内閣府は2024年7月19日、AIに関する法規制のあり方を議論するための「AI制度研究会」のメンバーを{target=“_blank”}した。研究会の目的は、AI技術の進展とそれに伴う社会的影響を考慮し、適切な法規制の枠組みを検討することである。
+
+研究会の座長は、東京大学大学院の松尾豊教授が務める。その他のメンバーには以下の専門家が選ばれた（敬称略）
+
+- 江間有沙（東京大学国際高等研究所東京カレッジ准教授）
+- 岡田淳 （森・濱田松本法律事務所弁護士）
+- 川原圭博 （東京大学大学院工学系研究科教授）
+- 北野宏明 （株式会社ソニーリサーチ代表取締役プレジデント）
+- 佐渡島庸平 （株式会社コルク代表取締役社長）
+- 田中邦裕 （さくらインターネット株式会社代表取締役社長）
+- 山口真一 （国際大学グローバル・コミュニケーション・センター准教授）
+
+この発表は、同日に持ち回りで開催された第10回AI戦略会議において行われ、「AI制度研究会」の設置案が原案の通り決定された。同研究会は、AI技術の健全な発展とその利活用を促進するための法的課題や倫理的問題について、多角的な議論を進めることを目指すという。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Jul 2024 07:53:28 +0000</pubDate></item><item><title>気候変動による猛暑とAIで世界の電力需要急増、17年ぶりの増加率に　IEA報告</title><link>https://ledge.ai/articles/iea_reports_global_electricity_demand_to_surge_with_extreme_heat_and_aiiea_reports_global_electricity_demand_to_surge_with_extreme_heat_and_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2291,39 +2318,7 @@ Ledge.aiを運営する株式会社レッジの代表取締役社長 小瀧健�
 :::box
 
 :::
-</description><pubDate>Mon, 01 Jul 2024 07:28:19 +0000</pubDate></item><item><title>総務省　自動運転の通信基地局、手続き短縮の方針「レベル４」実現に向け2025年度から新制度運用目指す</title><link>https://ledge.ai/articles/mic_plans_to_shorten_procedures_for_automated_communication_base_stations</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-総務省は自動運転車両の実証実験に必要な電波基地局の設置に関する行政手続きを短縮する方針だと2024年6月23日に{target=“_blank”}が報じている。
-
-従来は半年程度かかっていたこの手続きを数週間に短縮することを目指しており、2025年度から新しい制度の運用を開始する予定とのこと。この動きは、特定の条件下で運転手が操作をしない「レベル4」の自動運転車両の普及を促進するためのものだという。
-
-従来、実験用基地局を設置する際には、同じ周波数帯を使用する放送事業者との電波干渉を確認する必要があり、この手続きが長期化する要因となっていた。新制度では、この確認手続きを簡略化し、迅速に基地局の設置を進められるようにするとのこと。
-
-下図の資料は「中間とりまとめ骨子（案）」より、①5.9GHz帯V2X通信システムの実用化に向けた方策から抜粋したもの。6月6日開催の会議「自動運転時代の“次世代のITS通信”研究会（第8回）」にて{target=“_blank”}されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-
-</description><pubDate>Thu, 27 Jun 2024 11:40:27 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
+</description><pubDate>Mon, 01 Jul 2024 07:28:19 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
