@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jul 2024 09:41:13 +0000</lastBuildDate><item><title>メタ「今後のマルチモーダルAIモデルをEUでは提供しない」当局の規制指針が明確ではないと判断</title><link>https://ledge.ai/articles/meta_will_not_offer_future_multimodal_ai_in_eu</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 03:40:37 +0000</lastBuildDate><item><title>Meta、オープンソースの大規模言語モデル「Llama 3.1」をリリース</title><link>https://ledge.ai/articles/meta_llama-3-1</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Metaが2024年7月23日、新たな大規模言語モデル「Llama 3.1」を{target=“_blank”}した。Llama 3.1は、8B、70B、405Bの3種類のパラメータモデルが提供されており、オープンソースで公開されている。
+
+Metaは、このモデルがGPT-4やAnthropicのClaude 3.5、GoogleのGemini 1.5など、現在の最先端クローズドソースAIモデルに匹敵する性能を持つと述べている。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Llama 3.1は、15兆トークンを使用し、16,000台のNvidia H100 GPUでトレーニングされた。特に405Bモデルは、一般知識、数学、ツール使用、多言語翻訳において優れた性能を発揮するとのこと。また、プロンプトの長さを128Kトークンまでサポートしており、ユーザーは追加の文脈情報やドキュメントを提供でき、より高度なAIアプリケーションの開発が可能となるという。
+
+MetaのCEOマーク・ザッカーバーグ氏は、オープンソースであるLlama 3.1のリリースがAI技術へのアクセスを民主化する重要なステップであると述べた。同氏は、オープンソースの取り組みが長期的に見て効率的かつ経済的であり、個々のユーザーが自分の運命をコントロールできるようにすると強調している。
+
+また、AWS、Google Cloud、Azureなどの主要クラウドサービス上でLlama 3.1を利用可能とし、一般ユーザーがMeta AIアプリを通じて試すことができるようにしている。このアプリでは、現時点ではプレビュー版として利用でき、一定数のクエリに対して高品質なモデルを提供するとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jul 2024 03:40:37 +0000</pubDate></item><item><title>メタ「今後のマルチモーダルAIモデルをEUでは提供しない」当局の規制指針が明確ではないと判断</title><link>https://ledge.ai/articles/meta_will_not_offer_future_multimodal_ai_in_eu</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -327,45 +354,7 @@ AMDは過去12ヶ月でNod.aiやMipsologyなどのAIスタートアップを買�
 :::box
 
 :::
-</description><pubDate>Wed, 17 Jul 2024 01:17:16 +0000</pubDate></item><item><title>遠隔分身ロボット「OriHime」を活用し、高齢者のQOL向上と障害者就労支援の両立を目指す実証実験開始　オリィ研究所</title><link>https://ledge.ai/articles/orihime_robot</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月9日、株式会社オリィ研究所とシューペルブリアン株式会社は、高齢者施設における分身ロボット「OriHime（オリヒメ）」の実証実験を開始したことを{target=“_blank”}した。実験では、高齢者の生活の質（QOL）の向上と障害者の就労支援の両立を目指すものだという。
-
-## OriHimeとは
-{target=“_blank”}は、遠隔操作が可能な分身ロボットであり、外出が困難な人々が自宅などから操作してコミュニケーションや仕事を行うことができるデバイスだ。
-
-@
-
-
-## 実証実験の概要
-シューペルブリアンのグループ会社である株式会社SPB-NCが運営する「就労継続支援B型事業所ノマドhuB可部東」の利用者が遠隔操作でOriHimeを操作し、同社が運営する高齢者施設「ショートステイそわか可部東」の利用者とのコミュニケーションを図る。このプロジェクトでは、障害を持つ人が自宅などから施設の高齢者と対話することで、介護スタッフの負担軽減と高齢者の孤独感の軽減を目指しているとのこと。
-
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 実証実験の進捗と今後の予定
-これまでの実証実験の結果、OriHimeを操作する障害者と高齢者とのコミュニケーションが円滑に行われ、利用者が楽しんで会話に集中する機会が増えていることが確認されたという。このことにより、日中の高齢者のQOL向上や、立ち上がり・転倒の抑止効果が示唆されているとのこと。
-
-実証実験は8月末まで継続され、さらなるデータ収集と検証が行われる。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 16 Jul 2024 11:06:16 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Wed, 17 Jul 2024 01:17:16 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
