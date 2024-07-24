@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 22 Jul 2024 11:35:56 +0000</lastBuildDate><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 23 Jul 2024 07:48:24 +0000</lastBuildDate><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1923,7 +1923,29 @@ LongVAのコード、デモ、およびモデルは、{target=“_blank”}お�
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>これは読むべき！経産省発表の音楽産業のビジネスモデルに関するレポートが興味深い　生成AIによる楽曲制作が業界に与える影響についての分析にも注目</title><link>https://ledge.ai/articles/meti_musicindustry_2024report</link><description>:::small
+</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>気候変動による猛暑とAIで世界の電力需要急増、17年ぶりの増加率に　IEA報告</title><link>https://ledge.ai/articles/iea_reports_global_electricity_demand_to_surge_with_extreme_heat_and_aiiea_reports_global_electricity_demand_to_surge_with_extreme_heat_and_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+国際エネルギー機関（IEA）は2024年7月17日、2024年と2025年の電力需要は過去17年で最高の増加率を示す見込みだと最新のレポートを{target=“_blank”}した。特に気候変動による気温上昇、AI技術の普及が主な要因となっており、太陽光発電がその増加の半分を賄うとされている。
+## AIとデータセンターの影響
+AIの普及に伴いデータセンターの電力需要が急増しており、より信頼性の高いデータと精度の高い評価が求められている。IEAは、エネルギー部門とデジタル化の関係を研究する最前線に立っており、新たなイニシアティブ「エネルギーのためのAIとAIのためのエネルギー」を開始した。この一環として、IEAは政府、産業界、研究者、民間専門家と協議を行う予定である。2024年12月5日にパリで開催される「エネルギーとAIに関する国際会議」が重要なマイルストーンとなるとのこと。
+## 需要の急増と再生可能エネルギーの拡大
+IEAの「電力半期更新」報告によると、2024年の世界の電力需要は約4％増加し、これは2007年以来の最高年次成長率となる（金融危機やCOVID-19パンデミック後の特異な反発を除く）。この強い増加は2025年にも続き、同様に約4％の増加が見込まれている。
+
+再生可能エネルギーの電力供給も急速に拡大し、2023年の30％から2025年には35％に増加すると予測される。2025年には、再生可能エネルギーによる発電量が石炭を上回る見通しで、特に太陽光発電が2024年と2025年の電力需要増加の約半分を賄う見込みである。太陽光と風力を合わせると、需要増加の約3/4を占めるとされる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 23 Jul 2024 07:48:24 +0000</pubDate></item><item><title>これは読むべき！経産省発表の音楽産業のビジネスモデルに関するレポートが興味深い　生成AIによる楽曲制作が業界に与える影響についての分析にも注目</title><link>https://ledge.ai/articles/meti_musicindustry_2024report</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2301,38 +2323,7 @@ Ledge.aiを運営する株式会社レッジの代表取締役社長 小瀧健�
 :::
 
 
-</description><pubDate>Thu, 27 Jun 2024 11:40:27 +0000</pubDate></item><item><title>デジタル庁、テキスト生成AIのリスク対策ガイドブック（α版）を公開</title><link>https://ledge.ai/articles/digital_agency_genai_guidebook</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-デジタル庁は2024年5月29日「テキスト生成AI利活用におけるリスクへの対策ガイドブック（α版）」を{target=“_blank”}した。
-
-同庁は、デジタル社会の実現に向けた重点計画（令和4年6月7日閣議決定）に基づき、生成AIの動向を把握し、リスクと対応策を特定するための検討を進めている。生成AI技術の革新に伴い、政府も生成AIの業務利用について議論を重ね、2023年12月より技術検証を実施。その結果を踏まえ、行政サービスでの生成AI利活用時のリスクと対応策を示すガイドブックをα版として公開したとのこと。
-
-行政業務における生成AIの利用にあたり、リスク対策は重要だ。広島AIプロセスやAI事業者ガイドラインを踏まえ、ガイドブックはテキスト生成AIに焦点を当てている。特に、政府調達における具体的なリスクとその対策が詳述されている。
-### 対象とするリスク
-ガイドブックは、テキスト生成AIのサービス開発者と提供者を対象にしている。生成AIにはテキスト、画像、音声、動画などがあるが、同ガイドブックはテキスト生成AIに限定。基盤モデル開発者やサービス利用者に関するリスク（例えば、学習データのサプライチェーンや権利問題、ディープフェイクのリスク）は含まれていない。
-
-### 利用形態とユースケース
-利用形態（特定サービスに組み込まれた状態、大規模言語モデルのWeb API形式など）やユースケースごとに、想定されるリスクは異なる。ガイドブックでは、これらの違いを意識し、デジタル・ガバメント推進標準ガイドライン実践ガイドブックに基づく工程ごとにリスクと留意点を挙げている。
-
-
-ガイドブックには、技術検証で判明したリスクや留意点を可能な限り記載しているという。今後の更新を重ね、正式版としての公開を目指すとのこと。ガイドブックは本文（前半6章）と発展的内容を含む付録（後半3章）で構成されている。2024年度内を目標に、デジタル社会推進標準ガイドラインへの編入が検討されているとのこと。
-
-
-政府情報システムへの生成AI導入に関わる行政職員を主な対象としたガイドブックではあるが、自社サービスや業務改善のためにテキスト生成AIの導入を検討する企業担当者にも参考になる内容が含まれている。今後、正式版の公開に向けて内容の拡充と改善が進められる予定。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 23 Jun 2024 12:41:54 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
+</description><pubDate>Thu, 27 Jun 2024 11:40:27 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
