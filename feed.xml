@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 03:50:50 +0000</lastBuildDate><item><title>Meta、オープンソースの大規模言語モデル「Llama 3.1」をリリース</title><link>https://ledge.ai/articles/meta_llama-3-1</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 03:54:20 +0000</lastBuildDate><item><title>Meta、オープンソースの大規模言語モデル「Llama 3.1」をリリース</title><link>https://ledge.ai/articles/meta_llama-3-1</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1907,7 +1907,42 @@ LongVAのコード、デモ、およびモデルは、{target=“_blank”}お�
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>AWS、政府のAI支援プロジェクト「GENIAC」における計算リソース提供者に選定</title><link>https://ledge.ai/articles/aws_selected_as_geniac_computational_resource_provider</link><description>:::small
+</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>つくば市　NECとLLMおよび画像分析技術を活用した防災実証実験を実施</title><link>https://ledge.ai/articles/nec_tsukuba_supercity</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+
+NECは2024年7月12日、茨城県つくば市において、大規模言語モデル（LLM）と画像分析技術を活用し、災害に強いまちづくりを目指す実証実験を行うと{target=“_blank”}した。この実証実験は、2024年11月から2025年1月まで行われ、住民が投稿した画像から街の状況をリアルタイムに可視化し、災害時の迅速な状況把握と対応を支援することを目的とする。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+この取り組みは、2024年度の内閣府「先端的サービスの開発・構築及び規制・制度改革に関する調査事業（スーパーシティ・デジタル田園健康特区対象）」に採択されたことを受けて行われる。つくば市は2022年にスーパーシティに指定されて以降、「つくばスーパーサイエンスシティ構想」を掲げており、NECはその一環として本実証実験を実施するとのこと。
+
+## 実証実験の概要
+つくば市内の一部エリアで行われるこの実験は、住民が投稿した画像を収集し、LLMと画像分析によりダッシュボード上に可視化する。つくば市公式アプリ「つくスマ」を通じて、違法駐車や混雑する場所などの平時の状況を可視化し、災害時にはこれらのデータを活用して迅速な初動対応を可能にするという。
+
+また実験では、災害時に投稿される画像に含まれる個人情報の取り扱いについても検証を行う。防災分野におけるデータ活用の可能性を広げ、より安全で安心な防災・減災対策の実現を目指すとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+NECは、この実証実験を通じて得られた結果をもとに、データ連携基盤の活用によるさらなるサービスの高度化を検討する予定だ。また、将来的にはデジタルツインの実装も視野に入れており、取得した情報を基に平時・災害時を通じた多様なサービスの開発を進めていく計画だという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 24 Jul 2024 03:54:20 +0000</pubDate></item><item><title>AWS、政府のAI支援プロジェクト「GENIAC」における計算リソース提供者に選定</title><link>https://ledge.ai/articles/aws_selected_as_geniac_computational_resource_provider</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2284,28 +2319,7 @@ ARAの公開書簡では、AIが無許可で音楽作品を使用し、アーテ
 :::box
 
 :::
-</description><pubDate>Thu, 04 Jul 2024 11:26:15 +0000</pubDate></item><item><title>【緊急開催】本日21:00～ 東京都知事候補 安野たかひろ氏 インタビュー生配信</title><link>https://ledge.ai/articles/Interview_takahiroanno</link><description>本日7月4日（木）21時00分より、東京都知事候補の安野たかひろ氏をお招きし、インタビューを行います。Ledge.aiのYouTubeチャンネルにてライブ配信いたします。
-
-Ledge.aiを運営する株式会社レッジの代表取締役社長 小瀧健太がインタビュアーとなり、AI専門メディアならではの切り口で、AIエンジニアとしての経歴を持つ安野氏の考える東京都のビジョンを深堀りします。
-
-東京都の将来を左右する選挙を目前に、AIの視点から掘り下げるこのインタビューを、是非お見逃しなく。
-
-**ゲスト情報**
-:::box
-!
-**AIエンジニア／起業家／SF作家**
-**安野たかひろ**
-
-1990年東京都出身。東京大学工学部。松尾研究室。ボストン・コンサルティング・グループを経て、スタートアップの創業も経験。小説「サーキット・スイッチャー」が第9回ハヤカワSFコンテストで優秀賞を受賞。
-:::
-
-**視聴方法**
-当メディアのYouTubeチャンネルにて配信します。視聴は無料です。
-
-
-:::box
-
-:::</description><pubDate>Wed, 03 Jul 2024 11:17:46 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
+</description><pubDate>Thu, 04 Jul 2024 11:26:15 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
