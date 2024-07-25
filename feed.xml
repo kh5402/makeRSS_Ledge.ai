@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 03:40:37 +0000</lastBuildDate><item><title>Meta、オープンソースの大規模言語モデル「Llama 3.1」をリリース</title><link>https://ledge.ai/articles/meta_llama-3-1</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 03:50:50 +0000</lastBuildDate><item><title>Meta、オープンソースの大規模言語モデル「Llama 3.1」をリリース</title><link>https://ledge.ai/articles/meta_llama-3-1</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1907,7 +1907,34 @@ LongVAのコード、デモ、およびモデルは、{target=“_blank”}お�
 :::box
 
 :::
-</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>内閣府　AI戦略会議で「AI制度研究会」のメンバーを発表、座長には東大松尾教授　AIに関する法規制のあり方を議論</title><link>https://ledge.ai/articles/cabinet_office_announces_members_of_ai_system_study_group</link><description>:::small
+</description><pubDate>Sat, 06 Jul 2024 16:34:09 +0000</pubDate></item><item><title>AWS、政府のAI支援プロジェクト「GENIAC」における計算リソース提供者に選定</title><link>https://ledge.ai/articles/aws_selected_as_geniac_computational_resource_provider</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Amazon Web Services（AWS）2024年7月19日、経済産業省とNEDOが推進する国産生成AI開発力強化プロジェクト「GENIAC」（Generative AI Accelerator Challenge）において、同社が計算リソース提供者として選定されたと{target=“_blank”}した。このプロジェクトは、生成AI基盤モデルの開発を通じて日本国内の技術力を底上げし、企業のイノベーションを促進することを目的としている。
+## プロジェクト概要
+2024年2月に{target=“_blank”}したGENIACは、国内の生成AI開発力を強化することを目指している。このプロジェクトは、生成AIの基盤モデル開発に必要な高性能な計算資源を提供するだけでなく、開発者同士の連携や国際的な発信活動を支援することで、広範な技術革新を促進する。
+
+## 助成内容
+GENIACでは、スタートアップ企業や中小企業、学術機関に対して計算リソース利用料の2/3を助成し、その他の企業や団体には1/2を助成する。総助成額は最大245億円に達する予定。
+
+プロジェクトでは、計算リソースの確保方法として二つの選択肢が設けられている：
+1. 提案者が計算リソース提供事業者と個別に調整し、直接確保する方法
+2. 経済産業省が計算リソース提供事業者から一括で確保し、提案者に提供する方法
+
+AWSは後者の一括確保方法における計算リソース提供事業者として選定された。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jul 2024 03:50:50 +0000</pubDate></item><item><title>内閣府　AI戦略会議で「AI制度研究会」のメンバーを発表、座長には東大松尾教授　AIに関する法規制のあり方を議論</title><link>https://ledge.ai/articles/cabinet_office_announces_members_of_ai_system_study_group</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2278,31 +2305,7 @@ Ledge.aiを運営する株式会社レッジの代表取締役社長 小瀧健�
 
 :::box
 
-:::</description><pubDate>Wed, 03 Jul 2024 11:17:46 +0000</pubDate></item><item><title>イギリスの鉄道駅でAmazonのAI監視技術が国民に伝えられることなく試験導入されていた</title><link>https://ledge.ai/articles/uk_train_stations_trialled_amazon_emotion_detection</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-過去2年間、イギリスの主要な8つの鉄道駅でAmazonのAI監視技術がテスト導入され、乗客の年齢、性別、感情を分析していたことが{target=“_blank”}。このことは2024年6月18日、イギリスに拠点を置く監視社会に対する監視と人権擁護を目的とする市民団体「Big Brother Watch」の調査により判明した。この技術の導入は、乗客の安全確保と特定の犯罪の減少を目的としていたが、広告目的にも利用される可能性があったという。
-
-問題となったテストは、ロンドンのユーストン駅やウォータールー駅、マンチェスターのピカデリー駅を含む主要な鉄道駅で実施された。その他にも複数の小規模な駅が対象となったとのこと。導入されたシステムは、CCTVカメラを使用して乗客の動向を監視し、AI技術を用いて年齢、性別、感情を分析することで、駅スタッフに安全インシデントを警告する。
-## プライバシーの懸念
-市民団体である Big Brother Watch は、個人のプライバシー保護、政府の監視プログラムの透明性確保、テクノロジーの倫理的利用を推進しており、監視技術やプライバシー侵害に対する監視活動、調査、キャンペーンを行っている。ビッグデータやAI技術の利用に対する警鐘を鳴らし、公共の利益と個人の権利を守るための活動を展開しているとのこと。
-
-調査チーム長のジェイク・ハーフート氏は、「Network Railが英国の主要駅で通勤者に対して信頼性に欠ける感情認識技術を使用する権利はない」と述べ、情報コミッショナーへの苦情を提出した。
-
-同氏はさらに、「技術が鉄道の安全性を高める役割を果たす可能性はあるが、その必要性と適切性についての公開討論が必要だ」と強調した。特に、Network Railが安全技術と疑わしい感情認識ツールを混在させ、広告業者にデータを提供する可能性があることが問題視されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 01 Jul 2024 07:28:19 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
+:::</description><pubDate>Wed, 03 Jul 2024 11:17:46 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
