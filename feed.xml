@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 03:54:20 +0000</lastBuildDate><item><title>Meta、オープンソースの大規模言語モデル「Llama 3.1」をリリース</title><link>https://ledge.ai/articles/meta_llama-3-1</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 04:00:24 +0000</lastBuildDate><item><title>セールスフォース、自律型AIエージェント「Einstein Service Agent」を発表</title><link>https://ledge.ai/articles/salesforce_einstein_service_agent</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Salesforce2024年7月17日、は完全自律型AIエージェント「Einstein Service Agent」を{target=“_blank”}した。
+
+現在パイロット段階にあるEinstein Service Agentは、2024年後半に一般提供が予定されている。事前にプログラムされたシナリオなしでサービスの問題を理解し、自律的にアクションを実行する機能を持つAIエージェントであるとのこと。
+
+Einstein Service Agentは、Salesforceの「Einstein 1 Platform」に構築されており、顧客のメッセージの文脈を分析し、大規模言語モデル（LLM）と連携して最適なアクションを決定する。従来のチャットボットとは異なり、このシステムはコンテキストやニュアンスも理解し、顧客との対話をより自然に行うとのこと。
+
+この新しいAIエージェントは、顧客のサービス履歴や内部データにアクセスし、適切なアクションを取ることが可能だという。例えば返品や交換手続きを自動で処理することが可能で、必要に応じて人間のエージェントにスムーズに引き継ぐことができるとのこと。
+
+現在、Einstein Service Agentはカスタマーサービスシナリオに焦点を当てているが、将来的には他のSalesforceクラウドにも展開される予定だという。同社は、この技術を通じて企業が24時間365日顧客対応を強化できることを期待していると述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jul 2024 04:00:24 +0000</pubDate></item><item><title>Meta、オープンソースの大規模言語モデル「Llama 3.1」をリリース</title><link>https://ledge.ai/articles/meta_llama-3-1</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -332,29 +353,7 @@ JR東日本では、汎用的な生成AIでは対応できない鉄道事業固�
 :::box
 
 :::
-</description><pubDate>Wed, 17 Jul 2024 01:26:13 +0000</pubDate></item><item><title>AMD　フィンランド発 スタートアップの SiloAI を 1000億円超で買収　対NVIDIAの競争力強化となるか</title><link>https://ledge.ai/articles/amd_aquires_siloai_for_over_100-billion-jpy</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-半導体大手のAMDは2024年7月10日、ヨーロッパ最大級を謳うAIスタートアップ「Silo AI」を約6億6500万ドル（約1000億円超）で買収することを{target=“_blank”}した。この買収は、AMDがNVIDIAに対する競争力を強化するための重要な一手であると複数のメディアが報じている。買収完了は2024年後半の見込み。
-
-フィンランドのヘルシンキに本社を置くSilo AIは、2017年に設立され、クラウド、エンベデッド、エンドポイントコンピューティング市場向けのカスタマイズされたAIモデルやプラットフォームを提供している。同社はアリアンツ、フィリップス、ロールス・ロイス、ユニリーバなどの顧客を抱え、最先端の多言語対応の大規模言語モデル（LLM）を開発している​という。
-
-AMDは過去12ヶ月でNod.aiやMipsologyなどのAIスタートアップを買収しており、今回の買収もその一環である。この一連の買収は、AMDのAIエコシステムを拡大し、NVIDIAに対する競争力を強化する目的があるとされる。この買収により、AMDはSilo AIの300人以上のAI専門家の知識と技術を活用し、自社のAIソリューションの提供能力を大幅に向上させることが期待されている。​
-
-一部のメディアでは、AMDがNVIDIAに対抗するための戦略としてこの買収を位置づけていると報じている。特に、NVIDIAが高性能チップ市場での支配力を強めている中、AMDは自身のAIエコシステムを強化することで市場シェアを拡大しようとしている​という。 
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 17 Jul 2024 01:17:16 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Wed, 17 Jul 2024 01:26:13 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
