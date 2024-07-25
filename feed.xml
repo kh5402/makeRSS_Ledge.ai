@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 04:00:24 +0000</lastBuildDate><item><title>セールスフォース、自律型AIエージェント「Einstein Service Agent」を発表</title><link>https://ledge.ai/articles/salesforce_einstein_service_agent</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 04:00:24 +0000</lastBuildDate><item><title>JR西日本、世界初の人型重機ロボットを鉄道設備メンテナンスに導入</title><link>https://ledge.ai/articles/jrw_introduced_humanoid_heavy_machinery_robots</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+JR西日本は2024年7月より、鉄道設備のメンテナンスにおいて「多機能鉄道重機」を導入することを{target=“_blank”}した。株式会社人機一体のロボット工学技術を搭載した世界初の製品であり、高所での重作業の効率化と安全性の向上を目的としているという。
+
+導入する「多機能鉄道重機」は、JR西日本、日本信号株式会社、および人機一体が共同研究開発した高所重作業ロボット「零式人機 ver.2.0」をベースにしている。この重機は、人機一体の特許技術を活用し、日本信号が製品化した。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 直感的な遠隔操作
+人機一体独自の技術により、操作者はVRゴーグルを通じてロボット目線での作業が可能となり、直感的に遠隔操作できるという。
+また、多様なツールの装備が可能で、遠隔操作で重量物（最大40kg）の把持、 高所作業（最大12m）が可能とのこと。 
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 技術継承と労働力確保の課題
+国土交通省の2021年の報告によれば、建設業の就業者数は減少傾向にあり、高齢化が進んでいる。このような状況で、若手技能者の確保と技術継承が喫緊の課題となっている。JR西日本は、この課題解決に向け、新技術の導入に積極的に取り組んでいる。
+
+## 高所重作業の解消
+JR西日本は「システムのメンテナンスチェンジ」を掲げ、多機能鉄道重機の導入を通じて高所重作業の解消を目指している。これにより、インフラメンテナンスの効率化と安全性の向上を図ることができる。
+
+多機能鉄道重機は、鉄道設備メンテナンスに限らず、電力や土木分野など他の高所重作業の機械化にも応用される予定だという。現在、土木分野では株式会社竹中土木、電力分野では東北電力ネットワーク株式会社との共同研究開発が進行中とのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jul 2024 03:57:59 +0000</pubDate></item><item><title>セールスフォース、自律型AIエージェント「Einstein Service Agent」を発表</title><link>https://ledge.ai/articles/salesforce_einstein_service_agent</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -315,45 +353,7 @@ GPT-4o miniは、無料版のChatGPTユーザーも含め、Plusユーザー、�
 :::box
 
 :::
-</description><pubDate>Thu, 18 Jul 2024 05:22:36 +0000</pubDate></item><item><title>JR東日本　生成AIチャットツールの全社員展開とRAGを用いた独自生成AIの開発を発表　鉄道版生成AIも開発中</title><link>https://ledge.ai/articles/jre_ai_chat</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-JR東日本は2024年7月11日、生成AIチャットツールの全社員展開および独自生成AIシステムの開発について{target=“_blank”}した。同社のDX推進の一環として行われるものだという。
-
-## 生成AIチャットツールの全社員展開
-同社は2023年10月より、社内で「JRE AI Chat」の試用を開始しその有用性を確認。2024年6月より全社員に対して既成の生成AIチャットツールを展開した。これにより、全社員がデジタル端末を用いて業務を効率化する環境が整備され、DX加速推進の一歩となる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 独自生成AIシステムの開発と導入
-同社の社内組織「Digital &amp; Dataイノベーションセンター（DICe）」では、社内文書に基づいて回答を生成するRAG（検索拡張生成）を用いたプロトタイプシステムを2023年11月から試用しているとのこと。今後、アジャイル開発手法を採用し、社内のフィードバックを取り入れながらシステムを改善し、2024年10月から全社での試用を予定している。システムにより、社内規定やルールなどの効率的な検索に寄与し、業務の効率化を目的とするという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 鉄道版生成AIとエンジニア不足への対応
-JR東日本では、汎用的な生成AIでは対応できない鉄道事業固有の情報を学習した「鉄道版生成AI」を開発中だという。これにより、コールセンター業務などの共通業務においても生成AIの活用が可能になる。また、プログラムのコーディングに生成AIを活用することで、システムやアプリの内製化開発のスピードアップとエンジニア不足への対応も進めているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 17 Jul 2024 01:26:13 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Thu, 18 Jul 2024 05:22:36 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
