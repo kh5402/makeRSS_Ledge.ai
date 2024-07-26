@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 24 Jul 2024 04:02:45 +0000</lastBuildDate><item><title>Anthropic　次世代AIスタートアップに投資を開始　Menlo Venturesと共同で1億ドル規模の「Anthology Fund」を設立</title><link>https://ledge.ai/articles/anthology_fund_anthropic-menloventures</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Jul 2024 07:12:23 +0000</lastBuildDate><item><title>xAI のイーロン・マスクが「世界最強のAIを訓練する」メンフィスに建設中のギガファクトリー「Gigafactory of Compute」稼働開始</title><link>https://ledge.ai/articles/gigafactory_of_compute</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+xAIのCEOイーロン・マスク氏は2024年7月22日、テネシー州メンフィスで「Gigafactory of Compute」が稼働を開始したと{target=“_blank”}した。このスーパーコンピュータは「世界最強のAIトレーニングクラスタ」を目指しており、約10万台のNVIDIA H100 GPUを使用しているという。
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+メンフィスの商工会議所は6月5日、イーロン・マスク氏のAI企業xAIがメンフィスに「Gigafactory of Compute」を建設すると{target=“_blank”}している。商工会議所の会長であるテッド・タウンゼント氏は、このプロジェクトがメンフィスに数十億ドル規模の資本投資をもたらすと述べており、メンフィス市における最大規模の新規企業投資となる。
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+設置場所は以前米Electrolux社が運営していた工場を再利用する予定。xAIは5月26日に60億ドル（約9400億円）の資金調達を発表し、この資金が「xAIの最初の製品を市場に投入し、高度なインフラを構築し、将来の技術研究開発を加速するために」使用されると説明している。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 25 Jul 2024 07:12:23 +0000</pubDate></item><item><title>Anthropic　次世代AIスタートアップに投資を開始　Menlo Venturesと共同で1億ドル規模の「Anthology Fund」を設立</title><link>https://ledge.ai/articles/anthology_fund_anthropic-menloventures</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -314,42 +340,7 @@ DeepLの次世代モデルは、DeepL Proと同等の高いセキュリティ基
 :::box
 
 :::
-</description><pubDate>Fri, 19 Jul 2024 08:22:44 +0000</pubDate></item><item><title>OpenAI、高コスパモデル「GPT-4o Mini」を発表　小型でアプリに組み込みやすく、利用者のトークンあたり利用料６割お得！</title><link>https://ledge.ai/articles/openai_gpt-4o_mini</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年7月18日、新しいAIモデル「GPT-4o mini」を{target=“_blank”}した。このモデルは、従来よりも小型で利用料が6割削減され、幅広いアプリケーションにAI技術を組み込みやすくすることを目指している。
-
-GPT-4o miniは、テキストおよびビジョンのAPIをサポートし、将来的には画像、動画、音声の入力および出力にも対応予定だという。コンテキストウィンドウは128Kトークン、1リクエストあたり最大16Kの出力トークンをサポートし、2023年10月までの知識を持つ。非英語テキストの処理もコスト効率が高い。価格は100万入力トークンあたり15セント、100万出力トークンあたり60セントと、従来モデルよりもはるかに安価になるとのこと。
-
-### 性能評価
-GPT-4o miniは、ベンチマークテストでGPT-3.5 Turboを上回る性能を示し、テキストインテリジェンスおよびマルチモーダル推論で優れた結果を出しているという。
-
-**推論タスク:**  GPT-4o miniは、テキストと視覚の両方を含む推論タスクにおいて優れた性能を発揮し、MMLUで82.0%のスコアを獲得。Gemini Flashの77.9%、Claude Haikuの73.8%を上回る
-
-**数学とコーディング能力:**  数学的推論を測定するMGSMで87.0%、コーディングパフォーマンスを測定するHumanEvalで87.2%を記録し、他の小型モデルよりも優れた性能を示している
-
-**マルチモーダル推論:** マルチモーダル推論評価であるMMMUで59.4%のスコアを獲得した。Gemini Flash 56.1%、Claude Haiku 50.2%
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-GPT-4o miniは、無料版のChatGPTユーザーも含め、Plusユーザー、チームユーザーの利用が可能だ。企業ユーザーにも翌週からの提供開始が予定されているという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Jul 2024 02:04:50 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Fri, 19 Jul 2024 08:22:44 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
