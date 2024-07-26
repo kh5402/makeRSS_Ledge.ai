@@ -2305,7 +2305,46 @@ ARAの公開書簡では、AIが無許可で音楽作品を使用し、アーテ
 :::box
 
 :::
-</description><pubDate>Thu, 04 Jul 2024 11:26:15 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
+</description><pubDate>Thu, 04 Jul 2024 11:26:15 +0000</pubDate></item><item><title>Sakana AIが新たな浮世絵生成モデルを開発　日本の伝統美をAIで再現</title><link>https://ledge.ai/articles/sakana_ai_evo-ukiyoe_evo-nishikie</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Sakana AIが2024年7月21日、浮世絵風画像生成モデル「Evo-Ukiyoe」と、浮世絵をカラー化できるモデル「Evo-Nishikie」を{target=“_blank”}した。これらのモデルは、同社が2024年4月に発表した、画像生成モデル{target=“_blank”}を基盤として開発された。
+## Evo-Ukiyoe-浮世絵風画像生成モデル-
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Evo-Ukiyoeは、日本語のプロンプトから浮世絵風の画像を生成するモデルだ。風景や着物姿の人など、浮世絵によく取り上げられる題材について、高品質な画像を生成することができる。このモデルは、立命館大学アート・リサーチセンター（ARC）所蔵の24,038枚の浮世絵デジタル画像を学習データセットとして利用し、浮世絵の特徴を詳細に学習している。
+
+桜や富士山、着物を着た人物など、Evo-Ukiyoeが認識しやすいプロンプトを入力することにより、浮世絵に近い画像を生成することができる。しかし、利用する上で「人物」の画像を生成する際の課題も挙がっているそうだ。「男性」と入力しても、女性の着物や髪型を生成してしまうことがあるため、この場合は男女を明確にする必要がある。プロンプトに「男性」、ネガティブプロンプトに「女性」と加えることで、よりイメージに近い画像を生成できるとのこと。
+## Evo-Nishikie-浮世絵カラー化モデル-
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+一方でEvo-Nishikieは、墨一色で摺られた浮世絵を、多色摺の浮世絵風にカラー化するモデルだ。江戸時代の本の挿絵をカラー化して、現代の絵本のように楽しむことができる。
+
+これらのモデルは、本物の浮世絵と生成した浮世絵を比較することで、浮世絵の特徴を学ぶ材料となり、歴史や文化を学ぶための新たなコンテンツ作成のツールとしても利用できる。浮世絵や日本文化に興味を持つきっかけになることを期待しているそうだ。
+
+Sakana AIは、公式サイトでEvo-UkiyoeとEvo-Nishikieのデモを公開している。ただし、各モデルは研究開発目的で商用利用などは想定しない。「本モデルの使用に伴うリスクを十分に理解し、自己の判断で使用する必要がある」とのこと。
+
+:::box
+
+:::
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jul 2024 09:04:15 +0000</pubDate></item><item><title>ディズニー内部Slackデータ1.1TiB流出「生成AIからアーティストの権利を擁護するハッカー集団」Nullbulgeの攻撃</title><link>https://ledge.ai/articles/disney_slack_leak</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2663,28 +2702,4 @@ RIAAの最高法務責任者であるケン・ドロショウ氏も、「これ�
 
 :::
 
-</description><pubDate>Sat, 22 Jun 2024 12:16:37 +0000</pubDate></item><item><title>Silverside AIが小説を映像化できるAIプラットフォーム「Hypnovels」を発表</title><link>https://ledge.ai/articles/silverside_ai_Hypnovels</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年4月8日、Silverside AIは小説をアニメーション化できる「Hypnovels」を{target=“_blank”}した。
-
-アニメーションを作成するには、通常何ヶ月もの膨大な時間と費用を必要とするが、この「Hypnovels」は、小説の見出しと内容を簡単にテキストで入力、ビジュアルスタイルとナレーターの声を選択するだけで、わずか数時間で魅力的なアニメーションを作成できるという。文章を映像化することにより、新たな小説の楽しみ方ができる。
-
-このアイデアは、作家であるペレイラ氏が自身が発表した小説『The Girl from Wudang』を宣伝する際に、AIを使用したことをきっかけに誕生したそうだ。新たな小説の楽しみ方を提供するだけではなく、マーケティングツールとしても充分に利用できる。自身の作品を映像化して宣伝することで、読んだことのない読者がこの作品と出会えるチャンスにもつながるだろう。
-
-@
-
-:::small
-出典：[Hypnovels 公式YouTubeで実際に小説を映像化した動画]
-:::
- 
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-</description><pubDate>Thu, 20 Jun 2024 09:25:31 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sat, 22 Jun 2024 12:16:37 +0000</pubDate></item></channel></rss>
