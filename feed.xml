@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Jul 2024 07:12:23 +0000</lastBuildDate><item><title>xAI のイーロン・マスクが「世界最強のAIを訓練する」メンフィスに建設中のギガファクトリー「Gigafactory of Compute」稼働開始</title><link>https://ledge.ai/articles/gigafactory_of_compute</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 25 Jul 2024 07:12:23 +0000</lastBuildDate><item><title>AWSジャパンが「生成AI実用化推進プログラム」を開始　ビジネスイノベーション創出を目的に総額1,000万ドルの支援も</title><link>https://ledge.ai/articles/aws_japan_program_ai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年7月22日AWSジャパンは、新たに「AWSジャパン生成AI実用化推進プログラム」を開始すると{target=“_blank”}した。このプログラムは、生成AIを活用したビジネスイノベーションを支援することを目的としており、「モデル開発者」向けと「モデル利用者」向けの2種類に分かれている。
+
+
+「モデル開発者」向けプログラムでは、利用者独自のデータを活用し、ビジネス目的に応じたファインチューニングや新規モデル構築を通じて、基盤モデルのカスタマイズを支援する。また、生成AIの実用化に向けて、分析環境の構築支援として総額1,000万ドル規模のAWSクレジットが提供され、想定コストの半額を上限としてAWSサービス利用料の負担を軽減するそうだ。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+一方、「モデル利用者」向けプログラムでは、公開されている基盤モデルを活用し、様々な手法でモデルの応答をカスタマイズすることで、ビジネス課題の解決を支援する。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+支援対象は、日本国内に法人または拠点を持ち、生成AIのビジネス適用を検討している企業・団体である。参加希望者は、AWSジャパンとのディスカッションを通じて課題やプランをヒアリングし、具体的な支援内容を決定するとのこと。プログラムへの応募受付は2024年10月31日、実施期間は2025年3月末まで。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jul 2024 09:25:51 +0000</pubDate></item><item><title>xAI のイーロン・マスクが「世界最強のAIを訓練する」メンフィスに建設中のギガファクトリー「Gigafactory of Compute」稼働開始</title><link>https://ledge.ai/articles/gigafactory_of_compute</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -286,61 +321,7 @@ DeepLの次世代モデルは、DeepL Proと同等の高いセキュリティ基
 :::box
 
 :::
-</description><pubDate>Sun, 21 Jul 2024 12:15:44 +0000</pubDate></item><item><title>大阪・関西万博　Society 5.0への進化「未来の都市」パビリオン、展示内容第1弾を発表</title><link>https://ledge.ai/articles/expo2025_future_city_pavilion</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-公益社団法人2025年日本国際博覧会協会は2024年7月17日、大阪・関西万博におけるフューチャーライフ万博「未来の都市」パビリオンの展示内容第1弾を{target=“_blank”}した。このパビリオンは、経済発展と社会課題の解決を両立する「幸せの都市へ」をテーマとしている。
-
-「未来の都市」パビリオンは、博覧会協会と12者の企業・団体による共同出展事業で、会場の西側ウォーターフロントに位置する。施設面積は約4,800㎡、展示面積は約3,300㎡に及び、博覧会の中でも大規模な展示となるとのこと。
-
-## テーマ展示：「Super Time Lapse ～50億年 幸せの旅～」
-
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-高さ5m、長さ92mの3層紗膜スクリーンに映し出される「カービングビジョン」を用い、「Society 5.0って何だろう」をキーワードに、過去から未来へと続く壮大な物語を描く。人類の誕生から社会の形成、成熟、そしてSociety 5.0へと進化する過程を、「幸せ」の観点から映し出す内容となっている。
-
-## コモン展示01：「Future Life Cube～未来との対話～」
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「未来との対話」をキーワードに、生活者の目線で「Society 5.0と未来の都市」を表現する展示である。4つの「3D Cube」により、未来の都市の住民との対話を通じて日々の暮らしの中で生まれる幸せを考える機会を提供する。それぞれのCubeは「住まいと暮らし」、「移動や物流」、「健康と医療」、「エンターテインメントやアート」の4つのテーマに基づいたストーリーを展開するという。
-
-## コモン展示02：「City Walker～ゆめを見た・いまを見た～」
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-「こんな明日になれば」をキーワードに、Society 5.0における分野別の課題とその解決方法を考える空間を提供する。
-特殊なロボットの頭部に搭乗し、「未来の都市」を仮想体験できる。4つのロボットヘッドそれぞれが、環境・エネルギー、交通・モビリティ、ものづくり・まちづくり、食と農のテーマに基づいた未来を描く。
-
-## 展示の詳細と体験の意図
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同パビリオンでは、サイバーフィールドとフィジカルフィールドが連携・融合することで、来場者に未来の都市像を共に考える機会を提供することを目指す。各展示は、先端技術と創造性を駆使し、未来の都市の姿を具体的に描き出すことで、来場者に対してSociety 5.0がもたらす価値を実感させる狙いがあるとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Jul 2024 08:22:44 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Sun, 21 Jul 2024 12:15:44 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
