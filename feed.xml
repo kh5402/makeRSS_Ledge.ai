@@ -1419,7 +1419,47 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>ディズニーの研究チームが二足歩行ロボット『BD_X』を発表ーー「強化学習」で表現力豊かな動きを実現</title><link>https://ledge.ai/articles/disney_research_bdx</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>AIエージェントに「心の理論」を実装すると、他のエージェントの状態を推測して行動するーースタンフォード大学の研究</title><link>https://ledge.ai/articles/hypothetical_minds</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+スタンフォード大学の研究チームは2024年7月9日、認知科学に基づく設計で、他のエージェントの状態を推測して行動するエージェント「Hypothetical Minds」の成果を{target=“_blank”}した。このモデルは、競争、協力、混合動機のマルチエージェント環境で他のエージェントの戦略や目標を推測し、適応的な行動を取ることができるという。
+
+Hypothetical Mindsは、LLMを中核に据えた認知的なアーキテクチャを特徴とし、認識、記憶、階層的な計画のためのモジュールを統合している。特に、心の理論モジュール（ToMモジュール）を搭載しており、他のエージェントの戦略や目標に関する仮説を自然言語で生成、評価、改良する機能を持つという。
+
+このToMモジュールは他のエージェントの行動を観察し、仮説を生成してからその仮説を評価、改良する一連のステップを経る。このプロセスにより、Hypothetical Mindsは他のエージェントの行動を効果的に推測し、適応的な戦略を実行することが可能となる。
+
+下図は、Hypothetical Mindsがどのようにして他のエージェントの行動を予測し、仮説を評価・改良するかを示している。エージェントは観察データをもとに、他のエージェントの戦略に関する仮説を生成し、それを繰り返し評価することで、より正確な仮説に近づいていく。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+## 実験結果と評価
+研究チームは、マルチエージェント環境「Melting Pot」ベンチマークにおいて、Hypothetical Mindsの性能を評価した。このベンチマークには、競争的、協力的、および混合動機のドメインが含まれており、30の異なる評価シナリオが存在する。
+
+**競争環境（Running With Scissors）：** ゼロサムゲーム環境で、エージェントは他のプレイヤーの動きを予測し、対抗する戦略を選択する。Hypothetical Mindsは、固定的な戦略を採用するシナリオでも、適応的な戦略を用いるシナリオでも、常に高い報酬を得ることができた。
+
+**協力環境（Collaborative Cooking Asymmetric）：** 非対称のキッチンでトマトスープを効率的に調理するために、エージェントが協力する。このシナリオでは、Hypothetical Mindsはパートナーのスキルや役割に適応し、高い協力成果を上げた。
+
+**混合動機環境（Prisoner’s Dilemma）：** エージェントは協力または裏切りの選択を行うが、長期的な利益を最大化するためには協力が必要である。Hypothetical Mindsは、動的なパートナーとの相互作用で最も高いスコアを達成した。
+
+
+Hypothetical Mindsは、LLMを活用して他のエージェントの意図を推測し、適応的に行動するエージェントとして、競争的、協力的、および混合動機のマルチエージェント環境で高い性能を発揮した。特に、心の理論モジュールの導入により、他のエージェントの戦略を効果的に推測し、それに基づいて行動を選択する能力が向上したことが確認されたという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 24 Jul 2024 04:11:05 +0000</pubDate></item><item><title>ディズニーの研究チームが二足歩行ロボット『BD_X』を発表ーー「強化学習」で表現力豊かな動きを実現</title><link>https://ledge.ai/articles/disney_research_bdx</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1808,55 +1848,7 @@ Google DeepMindとペンシルベニア大学研究チームは2024年6月、大
 :::box
 
 :::
-</description><pubDate>Tue, 09 Jul 2024 07:45:37 +0000</pubDate></item><item><title>Meta　従来の3～10倍速、60秒以内で高品質3Dアセットを生成する「Meta 3D Gen」を発表</title><link>https://ledge.ai/articles/meta_3d_gen</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Metaは2024年7月2日、新しいAIツール「Meta 3D Gen」を{target=“_blank”}した。テキストから高品質な3Dアセットを60秒以内に生成でき、従来の3～10倍の速度で3Dモデルを作成するツールだ。
-
-Meta 3D Genは、シェーディングビューとアルベドビューを作成するAssetGenと、テクスチャを改良するTextureGenの二段階プロセスを採用している。これにより、ゲーム開発、建築設計、VR/AR分野での利用が期待されるという。
-## Meta 3D Genの特徴
-- **高速生成:** テキストプロンプトから60秒以内に3Dアセットを生成
-- **高品質な3Dモデル:** 立体の造形とテクスチャを両方生成
-- **多彩なテクスチャ:** プロンプトに忠実なテクスチャを生成
-
-## 生成プロセス
-**1. AssetGen：** テキストプロンプトから3DメッシュとPBR（物理ベースレンダリング）マテリアルを生成
-**2. TextureGen：** AssetGenで生成されたテクスチャを改良し、ビュー空間とUV空間を統合して一貫性のあるモデルを作成
-　※物理ベースレンダリング（PBR）: 高品質なリライト（再照明）が可能な3Dアセットを生成する
-　※高忠実度: 複雑なテキストプロンプトに対しても高い忠実度を保つ
-
-下図：Meta 3D Genの概要。このパイプラインは、テキストプロンプトを入力としてテキストから3D生成を行い（ステージI）、その後テクスチャの改良を行う（ステージII）。ステージIIは、ユーザーが提供する新しいテキストプロンプトに基づいて生成またはアーティストが作成した3Dメッシュのリテクスチャリングにも使用できる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 利用例
-- **ゲーム開発:** 環境やキャラクターのプロトタイプを迅速に作成
-- **建築:** テキストから詳細な3Dモデルを生成
-- **VR/AR:** 没入型の環境やオブジェクトを簡単に作成
-
-下図：すべての業界ベースラインと比較したテキストプロンプト忠実度の定性的比較（挑戦的なプロンプトで）。Meta 3D Genは、他の方法と比べて複雑なプロンプトに対しても高い忠実度を保つ。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Meta 3D Genは、物理ベースレンダリング（PBR）をサポートし、リアルな3Dアセットの生成が可能となる。この技術の導入により、3Dコンテンツの作成プロセスが大幅に効率化されることが期待されている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 09 Jul 2024 04:08:11 +0000</pubDate></item><item><title>つくば市　NECとLLMおよび画像分析技術を活用した防災実証実験を実施</title><link>https://ledge.ai/articles/nec_tsukuba_supercity</link><description>:::small
+</description><pubDate>Tue, 09 Jul 2024 07:45:37 +0000</pubDate></item><item><title>つくば市　NECとLLMおよび画像分析技術を活用した防災実証実験を実施</title><link>https://ledge.ai/articles/nec_tsukuba_supercity</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
