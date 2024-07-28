@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Jul 2024 22:32:48 +0000</lastBuildDate><item><title>OpenAI、リアルタイム検索エンジン「SearchGPT」プロトタイプを発表</title><link>https://ledge.ai/articles/openai_searchgpt_prottype</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 27 Jul 2024 07:29:23 +0000</lastBuildDate><item><title>OpenAI、リアルタイム検索エンジン「SearchGPT」プロトタイプを発表</title><link>https://ledge.ai/articles/openai_searchgpt_prottype</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1842,7 +1842,32 @@ Google DeepMindとペンシルベニア大学研究チームは2024年6月、大
 :::box
 
 :::
-</description><pubDate>Wed, 10 Jul 2024 05:44:10 +0000</pubDate></item><item><title>つくば市　NECとLLMおよび画像分析技術を活用した防災実証実験を実施</title><link>https://ledge.ai/articles/nec_tsukuba_supercity</link><description>:::small
+</description><pubDate>Wed, 10 Jul 2024 05:44:10 +0000</pubDate></item><item><title>米の映画俳優組合（SAG-AFTRA）、ストライキ開始を表明　ゲーム業界のAI利用問題で対立</title><link>https://ledge.ai/articles/sag-aftra_strike</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月25日、全米の俳優ら16万人が加入する映画俳優組合（SAG-AFTRA）は、ゲーム部門で働く全ての組合員がストライキを開始することを{target=“_blank”}した。
+このストライキは、ゲーム業界における俳優の同意なしにAIを利用する問題に対する抗議として行われる。
+
+SAG-AFTRAは、2022年10月からTake 2 Productions、Electronic Arts、Activision Blizzard、Warner Bros. Gamesなどの大手ゲームスタジオと交渉を続けてきた。この交渉の目的は、AIを用いて俳優の声や容姿を再現する際の事前同意や、AIが俳優を模倣する場合の適切な報酬の支払いがなされていないことにあった。しかし、約18ヶ月にわたる交渉の結果、ゲームスタジオとの交渉は決裂。これにより、SAG-AFTRAは組織のインタラクティブ・メディア契約に基づき、ゲーム部門で働く組合員によるストライキを承認した。
+
+ゲームスタジオには、SAG-AFTRAと契約した俳優を声優、モーションキャプチャーのパフォーマンス、ゲーム内に登場させるなどの条件で採用する場合、SAG-AFTRAが提示する「Tiered-Budget Independent Interactive Media Agreement」および「Interim Interactive Media Agreement」に署名する必要がある。これらの契約には「組合員のための適切なAI保護」が含まれており、2500人以上のナレーションパフォーマー、モーションキャプチャーパフォーマー、スタントマン、スタントコーディネーター、歌手、ダンサー、人形遣い、バックグラウンドパフォーマーが対象となっている。
+
+インタラクティブ・メディア契約交渉委員会のサラ・エルマレ委員長は、「彼らが私たち組合員全員に最適な条件を提示する準備ができた場合、再度交渉を開始する予定です」と述べ、また、SAG-AFTRAの最高契約責任者であるレイ・ロドリゲス氏は「ストライキは最後の手段です。私たちは責任を持ってできる限りの時間を使い交渉に臨んできました。しかし、交渉が成立する可能性が失われてしまったため、ストライキを実行します」と述べている。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 27 Jul 2024 07:29:23 +0000</pubDate></item><item><title>つくば市　NECとLLMおよび画像分析技術を活用した防災実証実験を実施</title><link>https://ledge.ai/articles/nec_tsukuba_supercity</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2230,31 +2255,7 @@ SNSでは、「これは読むべき！」「経産省の本気を見た」な�
 :::box
 
 :::
-</description><pubDate>Mon, 08 Jul 2024 11:55:05 +0000</pubDate></item><item><title>テネシー州　AIによる無断歌声使用を防ぐ新たな法律「エルビス法」を施行　違反には最大2,500ドルの罰金も</title><link>https://ledge.ai/articles/elvis_law</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年7月1日、テネシー州で「エルビス法」が施行され、AI技術を用いた無断の歌声使用に対する保護が強化された。この法律は、歌手エルビス・プレスリーの名前にちなんで命名され、アーティストの「声」を個人の財産として保護することを目的としている​ 。同法律は3月21日にテネシー州のビル・リー知事によって署名され、{target=“_blank”}。
-## 背景
-近年、AI技術の進化により、有名アーティストの声を模倣するサービスが急速に広がり、SNSで注目を集めている。例えば、2023年にはドレイクやザ・ウィークエンドの声を模倣した「Fake Drake」という楽曲が話題となり、これが問題視される{target=“_blank”}となった​​。こうしたAIによる無断の声のクローン作成は、アーティストの権利侵害に繋がり、音楽業界における重大な課題として浮上していた。
-
-エルビス法は、従来の「名前」「写真」に加え、「声」も保護の対象に含めることで、無断使用を防止する初の法律だ。この法律に違反した場合、最大2,500ドルの罰金が科されるほか、民事訴訟の対象にもなる可能性があるという。
-## アーティストのAIへの対抗運動
-エルビス法の施行と同時期となる4月2日、アーティスト権利連盟（Artist Rights Alliance, ARA）は、200人以上のアーティストの支持を受けて、AI開発者やテクノロジー企業、プラットフォーム、デジタル音楽サービスに対し、人間のアーティストの権利を侵害し価値を減じるAIの使用を停止するよう呼びかける公開書簡を{target=“_blank”}した​。
-
-ARAの公開書簡では、AIが無許可で音楽作品を使用し、アーティストの声を模倣する「コピーキャット」や、ロイヤリティの支払いを回避するためにAIを利用することが問題視された。ビリー・アイリッシュ、ノラ・ジョーンズ、ボン・ジョヴィなど、多くの著名なアーティストが署名している。この手紙は、「AI技術が人間のアーティストの芸術性を損なうことなく、公正な報酬を得られるようにすることが重要である」と強調している​。 
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 04 Jul 2024 11:26:15 +0000</pubDate></item><item><title>Sakana AIが新たな浮世絵生成モデルを開発　日本の伝統美をAIで再現</title><link>https://ledge.ai/articles/sakana_ai_evo-ukiyoe_evo-nishikie</link><description>:::small
+</description><pubDate>Mon, 08 Jul 2024 11:55:05 +0000</pubDate></item><item><title>Sakana AIが新たな浮世絵生成モデルを開発　日本の伝統美をAIで再現</title><link>https://ledge.ai/articles/sakana_ai_evo-ukiyoe_evo-nishikie</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
