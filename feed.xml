@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Jul 2024 07:08:50 +0000</lastBuildDate><item><title>OpenAI、リアルタイム検索エンジン「SearchGPT」プロトタイプを発表</title><link>https://ledge.ai/articles/openai_searchgpt_prottype</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 26 Jul 2024 22:32:48 +0000</lastBuildDate><item><title>OpenAI、リアルタイム検索エンジン「SearchGPT」プロトタイプを発表</title><link>https://ledge.ai/articles/openai_searchgpt_prottype</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1419,7 +1419,48 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>AIエージェントに「心の理論」を実装すると、他のエージェントの状態を推測して行動するーースタンフォード大学の研究</title><link>https://ledge.ai/articles/hypothetical_minds</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>枯渇するAIトレーニングデータ：データ収集の新たな課題とその影響　MIT主導の調査団体が発表</title><link>https://ledge.ai/articles/dpi_consent_in_crisis_paper</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+AIモデルのトレーニングに必要となる大量のテキスト、画像、動画データは、主にインターネットから収集されるが、近年、多くのWebサイトがロボット排除プロトコル（robots.txt）を使用して自動収集をブロックしている。また、利用規約を変更してデータの使用を制限するサイトも増えているという。
+
+2024年7月19日の{target=“_blank”}の記事によると、AI企業が使用可能なデータの総量は1年で約5％減少し、高品質なデータは約25％が利用できなくなっているという。これらの制約は、特にニュースサイトやソーシャルメディアプラットフォームからのデータ収集において顕著であるとのこと。
+
+MIT主導のData Provenance Initiative（DPI）によるこの調査は、問題の深刻さを浮き彫りにしている。DPIは、AIトレーニング用データセット「C4」「RefinedWeb」「Dolma」に含まれる1万4,000件のWebドメインを分析し、クローリングで得られるデータとその使用に関する同意状況の変化を追跡した。その結果、これらのデータセットにおけるトークンの約45％が、利用規約の変更により使用制限がかけられていることが判明したという。
+
+DPIは、MITメディアラボのプロジェクトとして開始され、AIトレーニングデータセットのライセンスおよび帰属に関する大規模な監査を行う団体だ。法律および機械学習の専門家が協力し、データセットの出所や使用に関する透明性を向上させることを目的としているという。
+## データ制限の現状とその傾向
+調査によると、2023年から2024年の間にC4データセットの5％以上、最も重要なソースの28％以上がrobots.txtによって制限されている。また、利用規約による制限は全体の45％に及ぶ。
+
+下図は、2016年から2024年までの期間における、主要なWebドメインにおけるrobots.txtと利用規約の制限の変化を示している。この図は、AI組織のクローラーに対する制限の増加を視覚的に示すもので、特に2023年以降、AIクローラーに対するrobots.txtの制限が急増していることが明らかにされている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 主要なデータ制限の例
+- **RedditとStackOverflow：**  各サイトは、AI企業に対してデータアクセスを有料化している
+- **The New York Times：** NYTは、OpenAIやMicrosoftを著作権侵害で訴えており、これらの企業がニュース記事を許可なく使用してAIモデルをトレーニングしたことが原因と考えている
+
+高品質なデータの減少は、AIモデルの性能低下や、公開データセットに依存する小規模なAI開発者に対して影響を及ぼすという。
+
+OpenAIは、クローリングによるデータ収集が{target=“_blank”}しているが、出版社やコンテンツ提供者向けにオプトアウト機能を提供するなど、倫理的なデータ利用を推進している。同社は、クローリングによるデータ収集が法的に認められている地域であっても、コンテンツ提供者の意向を尊重する姿勢を示しているという。
+
+DPIは、Web上のデータ収集に関する同意の取り扱いが不十分で、多くのサイトがAI開発に対してデータ利用を制限していると指摘。この傾向は、今後も続くと予測され、AI技術の発展において重大な影響を及ぼす可能性があると述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 26 Jul 2024 22:32:48 +0000</pubDate></item><item><title>AIエージェントに「心の理論」を実装すると、他のエージェントの状態を推測して行動するーースタンフォード大学の研究</title><link>https://ledge.ai/articles/hypothetical_minds</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1801,54 +1842,7 @@ Google DeepMindとペンシルベニア大学研究チームは2024年6月、大
 :::box
 
 :::
-</description><pubDate>Wed, 10 Jul 2024 05:44:10 +0000</pubDate></item><item><title>神経系と連携し「義足が自分の体の一部と感じられる」自然な歩行を可能に　MITの研究チームが発表</title><link>https://ledge.ai/articles/mit_continuous_neural_control_of_a_bionic_limb</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-マサチューセッツ工科大学（MIT）の研究チームが2024年7月1日に{target=“_blank”}した研究によると、特殊な外科処置と神経系で直接制御できる義足の組み合わせにより、脚を失った患者が従来よりも自然な歩行が可能になることが明らかになった。
-
-{target=“_blank”}
-!
-:::small
-動画の出典：{target=“_blank”}
-:::
-
-
-## 残存する神経を義足に接続し、神経フィードバックを得る
-従来の義足技術では、事前に定義された歩行アルゴリズムに基づいて動作するため、動きが限定され、患者は自然な歩行感覚を得ることが難しかった。しかし、研究チームは残存する神経を義足に接続し、神経フィードバックを得られるようにする特殊な外科処置を開発。この新しい義足は、患者の神経系からの信号を受け取り、その信号に基づいて動作するため、より柔軟で自然な動きを実現するという。
-
-実験では、義足を装着した患者が従来の義足と比較して、より自然に歩行できることが確認された。神経フィードバックを得ることで、歩行の安定性やバランス感覚も向上し、患者は義足を自分の体の一部として感じることができると報告している。
-
-
-### 特殊な外科処置と神経フィードバックを得るための神経接続を示した図
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-研究を主導したMITの研究者は、「この技術は、義肢使用者の生活の質を大幅に向上させる可能性がある」と述べている。今後の研究では、さらに多くの患者に対する実験や、長期間の使用による効果の検証が行われる予定だ。
-
-
-### 義足の自律的な制御と神経系との接続方法を示す詳細な図
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この画期的な技術は、義足技術の新たな可能性を示しており、事故や病気で脚を失った人々の生活に大きな変革をもたらすと期待されていると研究チームは述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 09 Jul 2024 07:45:37 +0000</pubDate></item><item><title>つくば市　NECとLLMおよび画像分析技術を活用した防災実証実験を実施</title><link>https://ledge.ai/articles/nec_tsukuba_supercity</link><description>:::small
+</description><pubDate>Wed, 10 Jul 2024 05:44:10 +0000</pubDate></item><item><title>つくば市　NECとLLMおよび画像分析技術を活用した防災実証実験を実施</title><link>https://ledge.ai/articles/nec_tsukuba_supercity</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
