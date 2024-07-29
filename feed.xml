@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Jul 2024 08:49:54 +0000</lastBuildDate><item><title>Adobe　Photoshop と illustratorが、生成AI機能強化によるアップデート</title><link>https://ledge.ai/articles/adobe_photoshop_and_illustrator_update_with_enhanced_gen-ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 28 Jul 2024 08:55:27 +0000</lastBuildDate><item><title>Adobe　Photoshop と illustratorが、生成AI機能強化によるアップデート</title><link>https://ledge.ai/articles/adobe_photoshop_and_illustrator_update_with_enhanced_gen-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1431,7 +1431,36 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>枯渇するAIトレーニングデータ：データ収集の新たな課題とその影響　MIT主導の調査団体が発表</title><link>https://ledge.ai/articles/dpi_consent_in_crisis_paper</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>Stability AI、新たなマルチアングル映像生成モデル「Stable Video 4D」を発表</title><link>https://ledge.ai/articles/stability_ai_svd-4d</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Stability AIは2024年7月24日、1本の動画から8つの異なるアングルやビューの動画を生成するAIモデル「Stable Video 4D」を{target=“_blank”}した。このモデルは、ユーザーが動画をアップロードするだけで、複数の視点からの映像を簡単に生成できるという。
+
+Stable Video 4Dは、Stability AI初のVideo to Video生成モデルで、Stable Video DiffusionとStable Video 3Dを基に開発されたという。ユーザーは希望する3Dカメラの視点を指定することで、入力動画に映るオブジェクトの新規ビュー動画（4D画像マトリックス）を生成し、8つの異なるアングルの動画を出力できる。
+
+@
+
+このモデルは、5フレームの動画を約40秒で生成し、全体の4D最適化には約20～25分かかるという。
+
+Stability AIは、この技術がゲーム開発、動画編集、VRコンテンツ生成などの分野で大きな応用可能性を持つと説明している。複数の視点からオブジェクトを視覚化する能力により、製品のリアリティと没入感を高めることができると期待されているとのこと。
+
+Stable Video 4Dのトレーニングデータセットには、Open Data Commons Attribution Licenseが配布するObjaverseが利用されたという。
+
+現在、Stable Video 4Dは研究段階にあり、{target=“_blank”}で利用可能とのこと。Stability AIのチームは、合成データセットに加えて、実世界のビデオにも対応できるようモデルを最適化している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 28 Jul 2024 08:55:27 +0000</pubDate></item><item><title>枯渇するAIトレーニングデータ：データ収集の新たな課題とその影響　MIT主導の調査団体が発表</title><link>https://ledge.ai/articles/dpi_consent_in_crisis_paper</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1811,50 +1840,7 @@ SelfGoalの導入で期待できる効果として、研究グループはLLMエ
 
 :::
 
-</description><pubDate>Thu, 11 Jul 2024 13:17:57 +0000</pubDate></item><item><title>内省メカニズムで進化するLLMエージェント「悪魔の代弁者」　GoogleDeepMindなどの研究チームが発表</title><link>https://ledge.ai/articles/google_deepmind_devils_adovocate</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-Google DeepMindとペンシルベニア大学研究チームは2024年6月、大規模言語モデル（LLM）エージェントの適応力と一貫性を向上させるための内省メカニズムを導入する新たなアプローチを{target=“_blank”}した。LLMエージェントが複雑なタスクを効率的に解決できるようにすることが主な研究目的だという。
-
-研究のタイトル「Devil’s Advocate: Anticipatory Reflection for LLM Agents（「悪魔の代弁者」LLMエージェントのための予期されたリフレクション）」は、人間の内省プロセスにおける「悪魔の代弁者」的な役割をエージェントに持たせることを示唆している。つまり、エージェントが自らの決定や行動を事前に批判的に見直すことで、潜在的な失敗を予測し、より効果的な対策が立てられるというアプローチである。
-
-## 内省メカニズムの概要
-研究では、LLMエージェントがタスクをサブタスクに分解し、行動と結果について内省を行うように促す以下の3つの内省メカニズムが提案された。
-
-**1. 予期的内省 (Anticipatory Reflection)：** 
-行動実行前に潜在的な失敗を予測し、代替案を考慮する。これにより、計画がスムーズに実行されるようになる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-**2. 行動後の評価とバックトラッキング (Post-action Evaluation and Backtracking)：** 
-各行動の実行後、その行動と結果がサブタスクの目的と一致しているかを評価し、一致しない場合は前の状態に戻り、代替行動を取る
-
-**3. 計画修正 (Plan Revision)：** 
-計画が失敗した場合、実行された行動と記録を見直し、問題を特定して未来の計画を改善する​。
-
-
-## 実験と結果
-この内省アプローチを用いた実験は、WebArenaというシミュレーション環境で実施された。812のタスクにおいて、LLMエージェントの適応力と一貫性が評価されたとのこと。実験結果は以下の通り。
-
-- **適応力の向上:** 予期せぬ状況に柔軟に対応できるようになった
-- **一貫性の維持:** 計画の頻繁な変更が減少し、エージェントの混乱が防止された
-- **効率性の向上:** タスク達成までの時間が短縮された
-
-提案された内省アプローチを用いることで、試行回数と計画修正回数が45%削減され、成功率は既存の手法に比べて3.5%向上したという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 10 Jul 2024 05:44:10 +0000</pubDate></item><item><title>米の映画俳優組合（SAG-AFTRA）、ストライキ開始を表明　ゲーム業界のAI利用問題で対立</title><link>https://ledge.ai/articles/sag-aftra_strike</link><description>:::small
+</description><pubDate>Thu, 11 Jul 2024 13:17:57 +0000</pubDate></item><item><title>米の映画俳優組合（SAG-AFTRA）、ストライキ開始を表明　ゲーム業界のAI利用問題で対立</title><link>https://ledge.ai/articles/sag-aftra_strike</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
