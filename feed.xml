@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jul 2024 03:30:24 +0000</lastBuildDate><item><title>OpenAI、GPT-4o の高度な音声機能「Voice mode」アルファ版を一部提供開始</title><link>https://ledge.ai/articles/gpt-4o_voice_mode_to_come</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jul 2024 14:40:00 +0000</lastBuildDate><item><title>三菱商事、生成AI活用による経理業務改革を実証</title><link>https://ledge.ai/articles/mitsubishi_pwc_genai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+PwC税理士法人は2024年7月25日、三菱商事の生成AIを活用した経理業務の効率化を目指す実証実験を支援したことを{target=“_blank”}した。同プロジェクトは2024年4月から5月にかけて行われ、保証債務情報の抽出と支払調書の提出要否判定を中心に検証が行われたという。
+
+## 実証実験の概要
+同実証実験では、AI-OCR（光文字認識技術）と生成AIを組み合わせることで、保証債務情報の抽出と支払調書の提出要否判定の精度を検証。保証債務情報の抽出では平均97％の正解率、支払調書の提出要否判定では98％の再現率を達成し、実務への応用が期待される結果となった。
+
+## 実施内容と成果
+4月にはPDFデータの前処理、AI-OCRによるテキスト化、生成AIによるデータ抽出、調書提出要否判定までの処理フローを構築。5月には、週単位のスプリント開発で三菱商事担当者のフィードバックを反映し、最先端手法の実装やプロンプト改善などを行い精度向上を図ったという。特に、税法上の定義をプロンプトに反映するだけでなく、具体的な事例や説明を追加することで精度を向上させたとのこと。
+
+また、保証債務の開示基礎資料作成では、必要項目のみを抽出する際にプロンプト改善だけでは精度向上につながらなかったため、「Multi-Agent」と呼ばれる複数のAIが協働する仕組みを実装した。この仕組みにより、異なるAIが連携して作業を分担することで精度を高めたという。
+
+今後PwC税理士法人は、生成AIによる自動処理プロセスの構築や要件定義から開発、検証までをワンストップで支援する。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Mon, 29 Jul 2024 14:40:00 +0000</pubDate></item><item><title>OpenAI、GPT-4o の高度な音声機能「Voice mode」アルファ版を一部提供開始</title><link>https://ledge.ai/articles/gpt-4o_voice_mode_to_come</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 OpenAIのCEOであるサム・アルトマン氏は7月26日、自身のX（旧Twitter）アカウントを通じて、ChatGPTの「高度な音声機能」のアルファ版提供を翌週に開始すると{target=“_blank”}した。この機能は、AIが人間の声に込められた感情や非言語的な合図を理解し、リアルタイムでより自然な会話を実現する。
@@ -316,40 +343,7 @@ Appleも6月に発表したApple Intelligence機能を、規制上の懸念か�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jul 2024 09:41:13 +0000</pubDate></item><item><title>Mistral AI、コード生成特化型AI「Codestral Mamba」をオープンソースでリリース　Transformerと異なるMambaアーキテクチャを採用</title><link>https://ledge.ai/articles/mistral_ai_codestral_mamba</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月17日、Mistral AIは新しいコード生成特化型AIモデル「Codestral Mamba」をリリースしたと{target=“_blank”}した。このモデルは、従来のTransformerモデルとは異なるMambaアーキテクチャを採用しており、高速な推論時間と長い文脈処理能力を実現しているという。
-
-Codestral Mambaは7億パラメータを持ち、コード補完、エラーディテクション、ドキュメント生成、コード最適化やリファクタリングなど、開発者向けの広範な支援機能を提供する。特にHumanEvalベンチマークでは他のオープンソースモデルを上回る性能を示し、256,000トークンまでの長い文脈を処理できる能力がある。
-
-## 高性能を示すベンチマーク結果
-HumanEvalベンチマークテストでは、Codestral Mambaは他のオープンソースモデルであるCodeLlama 7BやCodeGemma-1.17Bを上回る性能を示した。この性能は、開発者が日常的に使用するコード補完や自動生成のタスクにおいて、より正確で効率的な支援を提供することを意味すると同社は述べる。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 多様なデプロイメントオプション
-Codestral Mambaは、mistral-inference SDKやNVIDIAのTensorRT-LLMを使用して展開可能だ。また、{target=“_blank”}から生データをダウンロードでき、ローカル環境での推論にはllama.cppのサポートも予定されているとのこと。これにより、開発者は自分のニーズに合わせて柔軟にモデルを統合し、利用できるという。
-
-同社は、Codestral Mambaの継続的な改良と新機能の追加を計画している。これは、開発者が最新の技術を活用し、効率的に作業を進めるための支援を強化するためのもので、今後も新たなモデルや量子化バージョンのリリースが予定されており、開発者コミュニティを支援するとのこと。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 22 Jul 2024 04:40:33 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Tue, 23 Jul 2024 09:41:13 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
