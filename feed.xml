@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jul 2024 03:16:16 +0000</lastBuildDate><item><title>OpenAI、GPT-4o の高度な音声機能「Voice mode」アルファ版を一部提供開始</title><link>https://ledge.ai/articles/gpt-4o_voice_mode_to_come</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 29 Jul 2024 03:30:24 +0000</lastBuildDate><item><title>OpenAI、GPT-4o の高度な音声機能「Voice mode」アルファ版を一部提供開始</title><link>https://ledge.ai/articles/gpt-4o_voice_mode_to_come</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 OpenAIのCEOであるサム・アルトマン氏は7月26日、自身のX（旧Twitter）アカウントを通じて、ChatGPTの「高度な音声機能」のアルファ版提供を翌週に開始すると{target=“_blank”}した。この機能は、AIが人間の声に込められた感情や非言語的な合図を理解し、リアルタイムでより自然な会話を実現する。
@@ -1855,7 +1855,32 @@ SelfGoalの導入で期待できる効果として、研究グループはLLMエ
 
 :::
 
-</description><pubDate>Thu, 11 Jul 2024 13:17:57 +0000</pubDate></item><item><title>DNPが、メタバースを活用した自治体サービス「メタバース役所」の提供を開始</title><link>https://ledge.ai/articles/dnp_metaverse_government_office</link><description>:::small
+</description><pubDate>Thu, 11 Jul 2024 13:17:57 +0000</pubDate></item><item><title>複数のドローンを同時に無力化する高出力マイクロ波システム　日米共同研究で実用化へ</title><link>https://ledge.ai/articles/japan-us_joint_research_neutralizes_multiple_drones_simultaneously</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+防衛省と米国防省は2024年7月16日、「高出力マイクロ波システムに係る日米共同研究」に関する事業取決めに署名を行ったと{target=“_blank”}した。
+
+この共同研究は、将来の「ゲーム・チェンジャー」とされる高出力マイクロ波システム（HPM）の実用化に向け、日米で共同研究を実施するものだという。
+
+HPMシステムは、無人航空機（UAV）などの脅威に対処するための技術で、強力な電波を照射して電子機器の誤作動や破壊を引き起こす。この技術は、複数のドローンを同時に無力化する能力を持ち、ドローン対策として注目されている。
+
+今回の共同研究では、以下の具体的な内容が含まれている：
+
+**米国内試験場での日米共同試験：** 防衛省の次世代装備研究所と米国防省の海軍研究局が主体となり、米国内の試験場で屋外試験を実施する。この試験により得られたデータを日米間で共有し、HPMの実用化に向けた課題を明らかにする
+
+**高出力マイクロ波の効果評価：** 日米双方のHPMシステムを用いて、電子機器への高出力マイクロ波の効果を評価する。これにより、実用化に向けた教訓事項を得て改善点を明確にする
+
+この共同研究は、防衛装備の技術と能力を向上させるための戦略的パートナーシップに基づいて行われる。HPMシステムは、現在の防衛技術の中でも特に注目される分野であり、日米両国の協力により、その実用化が期待されるという。
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 29 Jul 2024 03:30:24 +0000</pubDate></item><item><title>DNPが、メタバースを活用した自治体サービス「メタバース役所」の提供を開始</title><link>https://ledge.ai/articles/dnp_metaverse_government_office</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2214,70 +2239,7 @@ SNSでは、「これは読むべき！」「経産省の本気を見た」な�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jul 2024 09:46:37 +0000</pubDate></item><item><title>経産省　ゲーム・アニメ・広告を対象に「コンテンツ制作のための生成AI利活用ガイドブック」を公開　スクエニ、伊藤園、パルコなど実例満載</title><link>https://ledge.ai/articles/meti_ai_guidebook</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-経済産業省は7月5日、生成AI技術をコンテンツ制作に活用するための「コンテンツ制作のための生成AI利活用ガイドブック」を{target=“_blank”}した。このガイドブックは、生成AIの利活用によるコンテンツ制作の新たな方向性を示すもので、特にゲーム、アニメ、広告といった産業での具体的な利用事例や法的留意点を網羅している。
-## ガイドブックの目的と内容
-
-ガイドブックの内容は以下の通り
-**１．生成AIの利活用の方向性：**
-コンテンツ産業における生成AIの適切な利活用の方向性を示すため、知的財産権等の権利・利益の保護に十分に配慮しつつ、生成AIの活用事例を紹介
-**２．具体的な利活用事例：**
-ゲーム、アニメ、広告の各産業における生成AIの活用ケースを詳細に紹介し、それぞれの制作工程での具体的な活用方法を提示
-**３．法的留意点と対応策：**
-生成AIを利用する際の著作権や肖像権などの法的問題点について、具体的な対応策を示し、クリエイターが安心して生成AIを活用できるよう支援
-
-生成AIが進化し続ける中、その可能性に着目してきたという経産省。今回のガイドブックは、生成AIの利活用を促進するために、特に注目すべき利用ケースと法的問題点を整理したものだ。
-
-スクウェア・エニックス、伊藤園、パルコなど、企業による生成AI活用事例が紹介されている。例えば、画像生成AIを用いて線画に彩色や仕上げを行う方法や、テキスト生成AIを使用して広告コピーを作成する方法などが具体的に説明されている。また、著作権や肖像権の侵害を避けるための留意点や対応策も詳細に記載されている。
-
-
-利活用例：ガイドブックより抜粋
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 関連省庁とガイドブックの位置づけ
-下図は、生成AIに関連するガイドラインとその関係省庁の役割を示す。経済産業省、総務省、内閣府、文化庁などが連携し、AIの利活用に関する統一的な指針を提供する枠組みを説明している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-同ガイドブックは、「令和5年度コンテンツ海外展開促進事業（コンテンツ産業における先端的技術活用に関する調査）」の成果物として作成され、{target=“_blank”}と一体となっている。同報告書も80ページにわたるボリュームで、精度の高いレポートがまとめられている。
-
-コンテンツ制作に携わる企業にとって、生成AIは効率化や新たなクリエイティビティの創出に寄与する強力なツールとなる。しかし、法的な留意点をしっかりと理解し、適切な対応策を講じることが重要である。経済産業省のガイドブックは、そのための具体的な指針を提供するものとなる。なお、ガイドブックの表紙デザインには生成AIが活用されているとのこと。
-
-ガイドブックは経済産業省の公式サイトから{target=“_blank”}可能。コンテンツ制作に携わるすべての企業やクリエイターにとって必携の資料となり得る。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 10 Jul 2024 12:36:46 +0000</pubDate></item><item><title>Sakana AIが新たな浮世絵生成モデルを開発　日本の伝統美をAIで再現</title><link>https://ledge.ai/articles/sakana_ai_evo-ukiyoe_evo-nishikie</link><description>:::small
+</description><pubDate>Fri, 12 Jul 2024 09:46:37 +0000</pubDate></item><item><title>Sakana AIが新たな浮世絵生成モデルを開発　日本の伝統美をAIで再現</title><link>https://ledge.ai/articles/sakana_ai_evo-ukiyoe_evo-nishikie</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
