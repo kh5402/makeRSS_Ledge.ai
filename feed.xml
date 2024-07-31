@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jul 2024 04:24:43 +0000</lastBuildDate><item><title>Salesforce、1兆トークンのマルチモーダルデータセット「MINT-1T」を公開</title><link>https://ledge.ai/articles/salesforce_mint-1t</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jul 2024 04:37:31 +0000</lastBuildDate><item><title>野村総合研究所、ELYZA、KDDI、法人向け生成AIソリューションで協業</title><link>https://ledge.ai/articles/nri_elyza_kddi_colaboration</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月24日、株式会社野村総合研究所（NRI）、株式会社ELYZA、KDDI株式会社の3社は、法人顧客向けの生成AIソリューションを提供するための協業を{target=“_blank”}した。この協業は、企業の生成AI活用を加速させることを目指している。
+
+## 主要な協業内容
+### 協業の目的：
+NRI、ELYZA、KDDIの3社は、法人顧客の機密情報や業務特化情報を安全に取り扱える高セキュリティかつ効果的な生成AIソリューションを提供する。この協業により、企業の生成AI活用を促進することを目指している。
+
+### 各社の役割:
+- **NRI:**  生成AI活用のコンサルティング、システム開発、関連ソリューションの提供を担当
+- **ELYZA:**  国産大規模言語モデル（LLM）の開発と生成AI活用基盤サービスの提供
+- **KDDI:**  低遅延・大規模計算基盤、ネットワーク、関連ソリューションの提供
+### 提供予定のソリューション:
+**国産LLMの開発と提供：** 汎用国産LLM（ELYZA LLM）および業界や個社向けの領域特化型LLMを開発、提供する。
+**生成AI関連サービスの提供：** ELYZAの生成AI活用基盤サービス、NRIのAIセキュリティ統制支援サービスやプライベートLLM、KDDIのビジネスプラットフォーム「WAKONX」などを含む関連ソリューションを提供する。
+
+協業により、3社の強みを活かした生成AIソリューションが提供され、特にエンタープライズ領域の顧客に対して、セキュリティレベルの高い生成AIの導入が可能になると期待されている。これにより、企業の生成AI活用が加速し、ビジネスの効率化や新たな価値創造が促進される見込みだという。
+
+
+:::box
+
+:::
+
+</description><pubDate>Tue, 30 Jul 2024 04:37:31 +0000</pubDate></item><item><title>Salesforce、1兆トークンのマルチモーダルデータセット「MINT-1T」を公開</title><link>https://ledge.ai/articles/salesforce_mint-1t</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -322,28 +347,7 @@ JR西日本は「システムのメンテナンスチェンジ」を掲げ、多
 :::box
 
 :::
-</description><pubDate>Wed, 24 Jul 2024 03:57:59 +0000</pubDate></item><item><title>セールスフォース、自律型AIエージェント「Einstein Service Agent」を発表</title><link>https://ledge.ai/articles/salesforce_einstein_service_agent</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Salesforce2024年7月17日、は完全自律型AIエージェント「Einstein Service Agent」を{target=“_blank”}した。
-
-現在パイロット段階にあるEinstein Service Agentは、2024年後半に一般提供が予定されている。事前にプログラムされたシナリオなしでサービスの問題を理解し、自律的にアクションを実行する機能を持つAIエージェントであるとのこと。
-
-Einstein Service Agentは、Salesforceの「Einstein 1 Platform」に構築されており、顧客のメッセージの文脈を分析し、大規模言語モデル（LLM）と連携して最適なアクションを決定する。従来のチャットボットとは異なり、このシステムはコンテキストやニュアンスも理解し、顧客との対話をより自然に行うとのこと。
-
-この新しいAIエージェントは、顧客のサービス履歴や内部データにアクセスし、適切なアクションを取ることが可能だという。例えば返品や交換手続きを自動で処理することが可能で、必要に応じて人間のエージェントにスムーズに引き継ぐことができるとのこと。
-
-現在、Einstein Service Agentはカスタマーサービスシナリオに焦点を当てているが、将来的には他のSalesforceクラウドにも展開される予定だという。同社は、この技術を通じて企業が24時間365日顧客対応を強化できることを期待していると述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jul 2024 04:00:24 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Wed, 24 Jul 2024 03:57:59 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
