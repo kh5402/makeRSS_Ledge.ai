@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jul 2024 08:31:06 +0000</lastBuildDate><item><title>OpenAI、新たなアプローチ「Rule-Based Rewards」でAIの安全性向上　RLHFと同等</title><link>https://ledge.ai/articles/openai_improving_model_safety_behavior_with_rbr</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jul 2024 08:39:52 +0000</lastBuildDate><item><title>OpenAI、新たなアプローチ「Rule-Based Rewards」でAIの安全性向上　RLHFと同等</title><link>https://ledge.ai/articles/openai_improving_model_safety_behavior_with_rbr</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1438,7 +1438,43 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>Stability AI、新たなマルチアングル映像生成モデル「Stable Video 4D」を発表</title><link>https://ledge.ai/articles/stability_ai_svd-4d</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>ディープフェイク画像の新たな見抜き方「眼の中の星を観て検出」ー英国王立天文学会で発表される</title><link>https://ledge.ai/articles/want_spot_deepfake_look_stars_their_eyes</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年7月14〜19日にイギリスで開催された{target=“_blank”}で、イングランド・ハル大学の研究チームは、銀河の測定に使用される天文学的手法を応用して、ディープフェイクを見分ける新たな技術を{target=“_blank”}した。この手法は、人間の目の反射に基づいて画像の真偽を判断するものだという。
+
+同大学の大学院生アデジュモケ・オウォラビが中心となった研究チームは、ディープフェイク画像の目の反射に不一致が見られることに着目した。通常、現実の人間の目では左右の目の反射が一致するが、AI生成画像ではこの反射が物理的に一致しないことが多いという。
+
+研究チームは、天文学で使用される手法を応用して反射を定量化し、左右の眼球の反射の一致性をチェックした。まず、光の分布を測定し、眼球の反射の形態学的特徴を分析するためにCAS（集中度、非対称性、平滑性）指標を使用したが、これは偽の目の予測には成功しなかった。一方、Gini係数を用いることで、反射の不一致を検出することができたという。Gini係数は、銀河の画像の光がピクセル間でどのように分布しているかを測定するためのものであり、この手法が眼球の反射の分析に有効であることが示された。
+
+下の画像は、それぞれの目に一貫性のない反射を示すディープフェイクの目を並べたもの
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+こちらは、両目にほぼ一貫した反射を示す本物の目を写したもの
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+この新しい方法により、ディープフェイクの検出精度が向上することが期待されるが、万能な解決策ではないと研究者たちは強調している。ハル大学のケビン・ピンブルト教授は、「この方法はすべての偽画像を検出できるわけではなく、誤検出や見逃しが存在する。しかし、ディープフェイクとの戦いにおいて重要な基盤を提供する」と述べた。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 31 Jul 2024 08:39:52 +0000</pubDate></item><item><title>Stability AI、新たなマルチアングル映像生成モデル「Stable Video 4D」を発表</title><link>https://ledge.ai/articles/stability_ai_svd-4d</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1796,58 +1832,7 @@ OpenAIは、今日のチャットボットはレベル2に近づいていると�
 :::box
 
 :::
-</description><pubDate>Fri, 12 Jul 2024 09:52:08 +0000</pubDate></item><item><title>SelfGoal: LLMエージェントの高難易度タスク解決を飛躍的に向上させる新手法</title><link>https://ledge.ai/articles/ai_agent_selfgoal</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年7月、特定の高難易度タスクにおけるLLM（大規模言語モデル）エージェントの性能を大幅に向上させる新しい手法「SelfGoal」が{target=“_blank”}された。研究者たちは、この手法がエージェントに複雑な問題解決能力を与え、ゲームやプログラミングなどの分野での応用が期待されていると述べている。
-
-SelfGoalの核となるのは、最終目標をより実践的なサブゴールのツリー構造に分解し、状況に応じてサブゴールを更新する点にあるという。エージェントは環境の変化に柔軟に対応しながら、最適なサブタスクを特定し、段階的に目標達成を目指すことが可能となる。
-
-従来、LLMエージェントは抽象的な指示に対応するのが難しく、「この勝負に勝ってください」や「お金を稼いでください」といった指示を正確に理解して遂行することが課題となっていた。既存のアプローチでは、タスクを細かなサブタスクに分解する方法や、事前知識を活用してタスクを遂行する方法が提案されていた。しかし、これらの方法には、環境の変化に対応できない柔軟性の欠如や、単純で体系的でない行動を導くという問題があった。
-
-SelfGoalは、最終目標をツリー構造のサブゴールに分解し、エージェントの置かれた状況に応じて最も有用なサブゴールを特定しながらツリーを段階的に更新していく。この動的なサブゴールの更新により、エージェントは柔軟に状況に対応しながら、効率的にタスクを遂行できるという。
-## SelfGoalの仕組み
-SelfGoalは、主に「探索モジュール」「分解モジュール」「実行モジュール」の3つのモジュールで構成されている。下図は、このSelfGoalの概要を示している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-- **探索モジュール：** 現在の状況に最も適したサブゴールを選択する。事前知識を利用して、GOALTREEの中から最適なノードを選定する。
-- **分解モジュール：** 選択されたゴールノードを具体的なサブゴールに分解する。新たなサブゴールが既存のノードと類似しないようにフィルタリングしながら、ツリーを成長させる。
-- **実行モジュール：** 選択されたサブゴールを基に行動を指示し、エージェントが環境と相互作用する。
-- ## 具体的な適用例
-SelfGoalは、特に次のような分野で有効だという。
-
-- **ゲーム：** ゲームの目標をサブゴールに分解し、状況に応じて戦略を変更することで勝利を目指す
-- **プログラミング：** 複雑なプログラミングタスクを段階的に解決し、最終的なプログラムの完成を目指す
-
-実際のタスクでの応用例として、「交渉タスク」におけるSelfGoalの効果が挙げられる。下図は、交渉タスクにおいてSelfGoalが他の手法と比較してどのように優れているかを示している。
-
-このタスクでは、エージェントがアイテムの配分について交渉するシナリオを示している。エージェント（例えば、Alice）がパートナー（Bob）とアイテム（本、帽子、ボール）の配分について話し合い、利益の差を最小化することを目指している。
-CLIN、ADAPTという別の手法に比べ、SelfGoalは「相手の評価を明確にする質問をする」など、具体的な行動指針を提供し、交渉の進行に応じて戦略を柔軟に調整している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-SelfGoalの導入で期待できる効果として、研究グループはLLMエージェントの柔軟性・効率性の飛躍的な向上が期待され、今後さらに高度なタスクに対してもLLMエージェントが有効に活用されることが予想されると述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Thu, 11 Jul 2024 13:17:57 +0000</pubDate></item><item><title>複数のドローンを同時に無力化する高出力マイクロ波システム　日米共同研究で実用化へ</title><link>https://ledge.ai/articles/japan-us_joint_research_neutralizes_multiple_drones_simultaneously</link><description>:::small
+</description><pubDate>Fri, 12 Jul 2024 09:52:08 +0000</pubDate></item><item><title>複数のドローンを同時に無力化する高出力マイクロ波システム　日米共同研究で実用化へ</title><link>https://ledge.ai/articles/japan-us_joint_research_neutralizes_multiple_drones_simultaneously</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
