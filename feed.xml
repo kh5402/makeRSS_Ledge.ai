@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jul 2024 08:39:52 +0000</lastBuildDate><item><title>OpenAI、新たなアプローチ「Rule-Based Rewards」でAIの安全性向上　RLHFと同等</title><link>https://ledge.ai/articles/openai_improving_model_safety_behavior_with_rbr</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jul 2024 12:27:42 +0000</lastBuildDate><item><title>Perplexity AI、パブリッシャー向け収益分配プログラムを発表</title><link>https://ledge.ai/articles/perplexity_publishers_program</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+AI検索エンジンを提供するPerplexity AIは2024年7月29日、パブリッシャーとの関係を強化するため、「Perplexity Publishers’ Program」を{target=“_blank”}した。このプログラムは、AIによる検索結果で使用されたコンテンツに対して、広告収入の一部をパブリッシャーに分配することを目的とするものだ。
+
+Perplexity AIは、ユーザーに高品質な回答を提供するために信頼できる情報源に依存しており、これまでにも検索結果に引用を含めることで、コンテンツ作成者に適切な評価を与える努力をしてきた。しかし、ForbesやCondé Nastといった大手メディアから、Perplexityが無断でコンテンツを使用しているとの批判を受け、より透明で公正な収益モデルの導入が求められていた。
+
+同プログラムでは、TIME、Der Spiegel、Fortune、The Texas Tribune、WordPress.comなど、著名なパブリッシャーが初期パートナーとして参加している。これは、Perplexityが検索結果や「関連質問」機能で広告収入を得た場合、その収益が該当コンテンツの提供者と分配される仕組みだ。また、パブリッシャーはPerplexityのAPIに無料でアクセスできるようになり、自社サイトにカスタムAI検索エンジンを導入することも可能となる。
+
+さらに、Perplexityはパートナーに対して、Perplexityの高度な機能を提供する「Enterprise Pro」サービスを1年間無料で提供するとのこと。このサービスには、データプライバシーやセキュリティの強化が含まれており、特に調査やファクトチェックを行う際に役立つとされている。
+
+同社CEOのアラヴィンド・シュリニヴァス氏は、「このプログラムは、すべての関係者のインセンティブを調整し、持続可能な成長を目指して設計された」と述べており、今後もパブリッシャーからのフィードバックを反映して、システムの改善を図るとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 31 Jul 2024 12:27:42 +0000</pubDate></item><item><title>未来の職場のニューノーマルを知るＬＩＶＥ配信イベント 【DX &amp; Future Work 2024】9/19-20 開催</title><link>https://ledge.ai/articles/dx-futurework-announce</link><description>国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、2024年9月19日(木)〜9月20日(金)にかけて、デジタルトランスフォーメーション（DX）と未来の働き方をテーマにした、LIVE配信イベント『DX &amp; Future Work 2024』を開催します。視聴は無料です。
+
+:::button
+{target=“_blank”}
+:::
+
+## デジタル変革と未来の働き方
+ここ2~3年で見せた生成AIの広がりにより、企業活動において「AI」が必要不可欠であるという声を多く聞くようになりました。しかし、「AI」はあくまで企業のDXを加速させるツールでしかありません。そこで本イベントでは、AIに限らず、リモートワーク、自動化技術、サステナビリティなどを含む幅広いテーマを探究し、企業のDXを促進し生産性向上を実現する "未来の職場のニューノーマル" を模索していきます。
+
+2日間にわたって行われる全18回の講演では、先進企業や有識者からDX/AIの現在地や、未来に向けての考察などが発信される他、LIVE配信イベントならではのリアルタイムでの質疑応答も行われます(*)。
+「今後、我々の働き方はどうなっていくのか」「どう会社を変えていくのがよいのか」、ビジネスや働き方の変革につながる情報を得られる絶好の機会です。企業DXを主導される方をはじめ、多くのビジネスパーソンの方におすすめのイベントとなります。ぜひ専用サイトより、ご視聴ください。
+
+:::small
+(*)セッションによっては質疑応答がないものもございます。あらかじめ、ご了承下さい。
+:::
+
+## 視聴方法
+ご視聴には参加登録（無料）が必要です。
+登録したメールアドレスにてイベントサイトへログインいただくと、視聴が可能になります。
+
+:::button
+{target=“_blank”}
+:::
+
+## 登壇者紹介
+### 一般社団法人日本デジタルトランスフォーメーション推進協会　代表理事　森戸 裕一氏
+!
+
+### 株式会社 博報堂D Yホールディングス　執行役員 CAIO 兼 Human Centered AI Institute代表　森 正弥氏
+!
+
+### SF作家　樋口恭介氏
+!
+
+※その他の最新の講演・登壇情報はサイトよりご確認ください。
+
+
+## イベントスポンサー募集中！
+現在、開催の趣旨に賛同いただき、本イベントを一緒に盛り上げていただけるスポンサー企業様を募集しております。
+スポンサーシップに関する詳細やご興味をお持ちいただいた場合、より詳細のご説明を行わせていただきますので、お気軽にお問合せください。
+お問合せは{target=“_blank”}
+
+※スポンサー情報も随時更新中
+
+
+## イベント概要
+名称：DX &amp; Future Work 2024
+開催期間：2024年9月19日(木)〜9月20日(金)
+開催方式：オンラインLIVE配信
+サイト：{target=“_blank”}
+参加費用：無料（事前登録制）
+主催：株式会社レッジ</description><pubDate>Wed, 31 Jul 2024 01:24:41 +0000</pubDate></item><item><title>OpenAI、新たなアプローチ「Rule-Based Rewards」でAIの安全性向上　RLHFと同等</title><link>https://ledge.ai/articles/openai_improving_model_safety_behavior_with_rbr</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -291,57 +366,7 @@ Geminiの無償版に1.5 Flashが導入され、応答速度が速くなると�
 :::box
 
 :::
-</description><pubDate>Wed, 24 Jul 2024 09:25:51 +0000</pubDate></item><item><title>xAI のイーロン・マスクが「世界最強のAIを訓練する」メンフィスに建設中のギガファクトリー「Gigafactory of Compute」稼働開始</title><link>https://ledge.ai/articles/gigafactory_of_compute</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-xAIのCEOイーロン・マスク氏は2024年7月22日、テネシー州メンフィスで「Gigafactory of Compute」が稼働を開始したと{target=“_blank”}した。このスーパーコンピュータは「世界最強のAIトレーニングクラスタ」を目指しており、約10万台のNVIDIA H100 GPUを使用しているという。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-メンフィスの商工会議所は6月5日、イーロン・マスク氏のAI企業xAIがメンフィスに「Gigafactory of Compute」を建設すると{target=“_blank”}している。商工会議所の会長であるテッド・タウンゼント氏は、このプロジェクトがメンフィスに数十億ドル規模の資本投資をもたらすと述べており、メンフィス市における最大規模の新規企業投資となる。
-
-!
-:::small
-画像：{target=“_blank”}
-:::
-
-設置場所は以前米Electrolux社が運営していた工場を再利用する予定。xAIは5月26日に60億ドル（約9400億円）の資金調達を発表し、この資金が「xAIの最初の製品を市場に投入し、高度なインフラを構築し、将来の技術研究開発を加速するために」使用されると説明している。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 25 Jul 2024 07:12:23 +0000</pubDate></item><item><title>Anthropic　次世代AIスタートアップに投資を開始　Menlo Venturesと共同で1億ドル規模の「Anthology Fund」を設立</title><link>https://ledge.ai/articles/anthology_fund_anthropic-menloventures</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Menlo VenturesとAnthropicは2024年7月18日、次世代AIスタートアップ支援のための1億ドル規模の「Anthology Fund」を設立すると{target=“_blank”}した。
-
-このファンドはMenloが資金提供する1億ドルのイニシアチブで、Anthropicの技術を活用して幅広い分野で革新を図るスタートアップを支援することを目的としている。
-
-Anthropicの共同創設者兼社長であるダニエラ・アモデイ氏は、「Menlo VenturesとのパートナーシップとAnthology Fundを通じて、画期的なAIアプリケーションの開発を加速させたいと考えている。特に、医療、法務、教育、エネルギー、インフラ、科学研究といった分野でAIを活用して人間の能力と生産性を向上させるベンチャーに関心がある」と述べている。
-
-Anthology Fundは、AIインフラストラクチャ、新規AI応用分野（医療、教育、科学研究など）、消費者向けAIソリューション、信頼と安全ツール、および社会的利益を最大化するAIアプリケーションと技術の5つの主要分野で革新を進める起業家を支援する予定だという。
-
-このファンドによって支援されるスタートアップは、Anthropicの製品と研究へのアクセス、最先端モデルの利用に対する25,000ドル相当の無料クレジット、Menloからの最高水準のベンチャーサポートなど、さまざまな利益とリソースを受けられる。
-
-Menlo Venturesのパートナーであるマット・マーフィー氏は、「Anthropicと力を合わせてAnthology Fundを立ち上げることを非常に嬉しく思う。Menloの企業構築経験とAnthropicの最先端AI技術と人材を組み合わせることで、AIの未来を形作る最も有望な起業家を特定し、協力する独自の立場にある」と述べた。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 24 Jul 2024 04:02:45 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Wed, 24 Jul 2024 09:25:51 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
