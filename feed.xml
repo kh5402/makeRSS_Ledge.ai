@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 30 Jul 2024 04:37:31 +0000</lastBuildDate><item><title>野村総合研究所、ELYZA、KDDI、法人向け生成AIソリューションで協業</title><link>https://ledge.ai/articles/nri_elyza_kddi_colaboration</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jul 2024 08:31:06 +0000</lastBuildDate><item><title>OpenAI、新たなアプローチ「Rule-Based Rewards」でAIの安全性向上　RLHFと同等</title><link>https://ledge.ai/articles/openai_improving_model_safety_behavior_with_rbr</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年7月24日、AIモデルの安全性と有効性を高めるための新たなアプローチ「Rule-Based Rewards（RBR）」を{target=“_blank”}した。この手法は、AIの出力を明確なルールに基づいて評価し、人間によるデータ収集を必要とせずに安全に動作させることができるという。
+
+RBRは、固定された言語モデル（グレーダー）を使用して、AIの応答がルールにどれだけ適合しているかをスコアリングする。このスコアをもとにAIの行動を調整し、安全かつ有用な応答を生成するように訓練する。従来の人間のフィードバックに依存する方法に比べて効率的でコスト効果が高く、トレーニングプロセスの迅速化が期待されている。
+
+OpenAIの実験では、RBRを用いたモデルは人間のフィードバックで訓練されたモデル（RLHF）と同等の安全性を示し、安全な要求を誤って拒否する「過剰拒否」の減少も確認された。また、RBRは新しいルールの追加や変更が容易で、モデルの再訓練を必要としない。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+上図は、RBRが従来の報酬モデルとどのように統合されているかを示している。RBRは、個々の行動を評価するための細かいルールセットを使用し、これらの評価を直接強化学習の報酬として組み込むことで、モデルの安全性を高めている。
+
+実験では、RBRを用いたモデルは人間のフィードバックで訓練されたモデルと同等の安全性を示し、安全な要求を誤って拒否する「過剰拒否」の減少も確認されたという。また、RBRは新しいルールの追加や変更が容易で、モデルの再訓練を必要としない。
+
+RBRは明確なルールが存在するタスクには適しているが、エッセイの執筆などの主観的なタスクには適用が難しい場合がある。そのため、人間のフィードバックと組み合わせることで公平性と正確性を確保することが推奨されている。
+
+このアプローチは、モデルの能力や安全ガイドラインの進化に迅速に対応できるため、効果的かつ効率的なトレーニング方法とされているという。
+RBRは、GPT-4の開発中に初めて採用され、現在も進化を続けているとのこと。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 31 Jul 2024 08:31:06 +0000</pubDate></item><item><title>野村総合研究所、ELYZA、KDDI、法人向け生成AIソリューションで協業</title><link>https://ledge.ai/articles/nri_elyza_kddi_colaboration</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -309,45 +341,7 @@ Menlo Venturesのパートナーであるマット・マーフィー氏は、「
 
 :::
 
-</description><pubDate>Wed, 24 Jul 2024 04:02:45 +0000</pubDate></item><item><title>JR西日本、世界初の人型重機ロボットを鉄道設備メンテナンスに導入</title><link>https://ledge.ai/articles/jrw_introduced_humanoid_heavy_machinery_robots</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-JR西日本は2024年7月より、鉄道設備のメンテナンスにおいて「多機能鉄道重機」を導入することを{target=“_blank”}した。株式会社人機一体のロボット工学技術を搭載した世界初の製品であり、高所での重作業の効率化と安全性の向上を目的としているという。
-
-導入する「多機能鉄道重機」は、JR西日本、日本信号株式会社、および人機一体が共同研究開発した高所重作業ロボット「零式人機 ver.2.0」をベースにしている。この重機は、人機一体の特許技術を活用し、日本信号が製品化した。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 直感的な遠隔操作
-人機一体独自の技術により、操作者はVRゴーグルを通じてロボット目線での作業が可能となり、直感的に遠隔操作できるという。
-また、多様なツールの装備が可能で、遠隔操作で重量物（最大40kg）の把持、 高所作業（最大12m）が可能とのこと。 
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## 技術継承と労働力確保の課題
-国土交通省の2021年の報告によれば、建設業の就業者数は減少傾向にあり、高齢化が進んでいる。このような状況で、若手技能者の確保と技術継承が喫緊の課題となっている。JR西日本は、この課題解決に向け、新技術の導入に積極的に取り組んでいる。
-
-## 高所重作業の解消
-JR西日本は「システムのメンテナンスチェンジ」を掲げ、多機能鉄道重機の導入を通じて高所重作業の解消を目指している。これにより、インフラメンテナンスの効率化と安全性の向上を図ることができる。
-
-多機能鉄道重機は、鉄道設備メンテナンスに限らず、電力や土木分野など他の高所重作業の機械化にも応用される予定だという。現在、土木分野では株式会社竹中土木、電力分野では東北電力ネットワーク株式会社との共同研究開発が進行中とのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jul 2024 03:57:59 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Wed, 24 Jul 2024 04:02:45 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
