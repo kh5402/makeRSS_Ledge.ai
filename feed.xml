@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 01 Aug 2024 03:49:26 +0000</lastBuildDate><item><title>NVIDIA「次のAIの波はロボティクス」　新プラットフォームでヒューマノイドロボット開発を加速</title><link>https://ledge.ai/articles/nvidia_accelerates_worldwide_humanoid_robotics_development</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 01 Aug 2024 03:52:28 +0000</lastBuildDate><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月30日、オンラインデザインツール企業である豪Canvaは、同国の生成AIプラットフォーム「Leonardo.AI」を買収することを{target=“_blank”}した。買収により、CanvaはAI技術のさらなる強化を図り、視覚的コミュニケーション分野でのリーダーシップを一層確立することを目指している。
+
+Leonardo.AIは2022年にシドニーで設立されたスタートアップ企業で、広告、デザイン、建築、エンターテインメントなどの業界向けに、高度な生成AIモデルを提供している。同社の技術は、プロフェッショナルデザイナーから趣味のクリエイターまで幅広いユーザーに支持されており、わずか18ヶ月で10億以上の画像を生成した実績を持つ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+Canvaは、Leonardo.AIの技術を自社のAI機能「Magic Studio」に統合するという。統合により、Canvaユーザーはより高度なAIツールを利用できるようになり、創造的なプロジェクトの効率化と質の向上が期待される。また、Leonardo.AIは引き続きスタンドアロンプラットフォームとして運営され、さらに多くのクリエイターに新しい可能性を提供することになる。
+
+今回の買収は、Canvaにとって8番目の企業買収であり、同社のAI技術とクリエイティブツールの充実を進める重要なステップとなる。Canvaの共同創業者兼最高製品責任者であるキャメロン・アダムス氏は、「Leonardo.AIとの協力により、これまでにないレベルのAI技術が実現し、両社のチームが共に強化されることを楽しみにしている」と述べている
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 01 Aug 2024 03:52:28 +0000</pubDate></item><item><title>NVIDIA「次のAIの波はロボティクス」　新プラットフォームでヒューマノイドロボット開発を加速</title><link>https://ledge.ai/articles/nvidia_accelerates_worldwide_humanoid_robotics_development</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -325,43 +349,7 @@ SearchGPTの利用を希望する場合、ウェイティングリストに登�
 :::
 :::box
 
-:::</description><pubDate>Fri, 26 Jul 2024 05:50:09 +0000</pubDate></item><item><title>Google Gemini、「1.5 Flash」にアップグレード：無料版で高速応答と32Kトークンの長文対応が可能に</title><link>https://ledge.ai/articles/google_gemini5_flash</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleは2024年7月25日、Geminiの大規模なアップグレードを{target=“_blank”}した。今回のアップグレードでは、無料版のGeminiにも新たに1.5 Flashが導入された。日本を含む230カ国以上の無料版Geminiで利用可能だという。
-## 1.5 Flashの導入と機能強化
-Geminiの無償版に1.5 Flashが導入され、応答速度が速くなるとともに、推論や画像理解能力が大幅に向上した。さらに、コンテキストウィンドウが従来の4倍となる32Kトークン（英語で約2万4000語）に拡大され、より長く複雑な会話が可能となった。これにより、ユーザーは長文の資料や複雑な質問にも対応できるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-また、近日中にGoogleドライブやデバイスからのファイルアップロードが可能になるという。これにより、ユーザーは例えば経済学の参考書をアップロードして練習問題を作成したり、データを分析してグラフや図表を作成したりできるようになる。
-
-英語圏の特定地域限定では、生成された文章に関連する情報へのリンクを表示する機能も新たに追加された。例えば、Gmail拡張機能を使用して入力されたメールへのリンクを添付するなどが可能になる。
-## 関連コンテンツの表示機能
-新たに導入された関連コンテンツの表示機能により、英語のプロンプトに対して関連するウェブサイトへのリンクが表示され、調査や学習が容易になった。これにより、ユーザーはGeminiの応答を基にさらなる情報を得ることができる。また、Gmail拡張機能を使用して情報が参照される場合、関連するメールへのインラインリンクも表示される。
-
-この機能は、ハルシネーション（幻覚：AIの誤情報）を減少させる取り組みの一環であり、Geminiのダブルチェック機能と併用することで、情報の正確性を確認できる。
-
-## ティーンエイジャー向けGeminiの拡大
-ティーンエイジャー向けのGeminiが拡充され、40以上の言語で利用可能となった。最低年齢要件を満たすティーンエイジャーは、学校の科目の理解を深めたり、大学の準備をしたり、創造的なプロジェクトに取り組んだりする際にGeminiを活用できるようになる。
-
-安全性を確保するため、追加ポリシーやティーンエイジャー専用のオンボーディングプロセスを導入。AIリテラシーガイドの提供により安心してGeminiを利用できるとのこと。また、子供の安全と発展に関する専門家の協力を得て、適切な支援を目指す。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 26 Jul 2024 07:08:50 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+:::</description><pubDate>Fri, 26 Jul 2024 05:50:09 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
