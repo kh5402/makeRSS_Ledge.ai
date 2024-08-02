@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 31 Jul 2024 12:27:42 +0000</lastBuildDate><item><title>Perplexity AI、パブリッシャー向け収益分配プログラムを発表</title><link>https://ledge.ai/articles/perplexity_publishers_program</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 01 Aug 2024 03:49:26 +0000</lastBuildDate><item><title>NVIDIA「次のAIの波はロボティクス」　新プラットフォームでヒューマノイドロボット開発を加速</title><link>https://ledge.ai/articles/nvidia_accelerates_worldwide_humanoid_robotics_development</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは現地時間の2024年7月29日、世界のロボットメーカーやAIモデル開発者、ソフトウェア開発者向けに、次世代のヒューマノイドロボティクスの開発、訓練、構築を支援するための新しいサービスやモデル、コンピューティングプラットフォームを{target=“_blank”}した。
+## ヒューマノイドロボット開発のための三大コンポーネント
+新しいプラットフォームは、次の三つの主要なサービスで構成されている。
+### 1. NVIDIA OSMO
+NVIDIA OSMOは、クラウドベースのオーケストレーションプラットフォームで、データ生成、モデルのトレーニング、ソフトウェアおよびハードウェアインザループのワークフローを管理する。このプラットフォームは、分散環境でのロボット開発を支援し、開発期間の短縮を図る。
+### 2. NVIDIA Infrastructure for Modeling (NIM)
+NIMは、AIモデルの開発を支援するマイクロサービス群で、特に生成AIを活用したロボティクスのモデル作成に強みを持つ。このサービスにより、開発者は効率的にAIモデルを訓練し、実際のロボットに適用できるようになる。
+### 3. Isaac Sim
+Isaac Simは、仮想環境でのシミュレーションツールで、ロボットの動作や学習をシミュレーション内で実施し、効率的な開発を可能にする。このツールは、強化学習や複雑なタスクのシミュレーションに最適化されており、ロボティクス開発を大幅に簡素化する。
+## Project GR00T: 汎用AIモデルの発表
+同社はまた「Project GR00T」というヒューマノイドロボット向けの汎用AIモデルも発表した。このモデルは、人間の動きを観察し、自然言語を理解する能力を持ち、実世界でのタスクを迅速に学習・適応できるよう設計されている。新しいJetson ThorというSoC（System on Chip）は、このモデルの動作に必要な高性能計算を提供する​という。
+
+
+同社創業者兼CEOであるジェンセン・フアン氏は、「次のAIの波はロボティクスであり、その中でもヒューマノイドロボットは最もエキサイティングな進展の一つだ」と述べ、NVIDIAのロボティクススタック全体を強化し、世界中の開発者や企業が最適なプラットフォームやAIモデルを利用できるようにしていく方針を示した。
+
+この新プラットフォームには、すでにBoston DynamicsやByteDance Researchを含む複数の大手企業が早期アクセスプログラムに参加している。これにより、これらの企業は最先端の技術を活用して、ロボット開発をさらに推進することができるとのこと。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 01 Aug 2024 03:49:26 +0000</pubDate></item><item><title>Perplexity AI、パブリッシャー向け収益分配プログラムを発表</title><link>https://ledge.ai/articles/perplexity_publishers_program</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -331,42 +361,7 @@ Geminiの無償版に1.5 Flashが導入され、応答速度が速くなると�
 :::box
 
 :::
-</description><pubDate>Fri, 26 Jul 2024 07:08:50 +0000</pubDate></item><item><title>AWSジャパンが「生成AI実用化推進プログラム」を開始　ビジネスイノベーション創出を目的に総額1,000万ドルの支援も</title><link>https://ledge.ai/articles/aws_japan_program_ai</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年7月22日AWSジャパンは、新たに「AWSジャパン生成AI実用化推進プログラム」を開始すると{target=“_blank”}した。このプログラムは、生成AIを活用したビジネスイノベーションを支援することを目的としており、「モデル開発者」向けと「モデル利用者」向けの2種類に分かれている。
-
-
-「モデル開発者」向けプログラムでは、利用者独自のデータを活用し、ビジネス目的に応じたファインチューニングや新規モデル構築を通じて、基盤モデルのカスタマイズを支援する。また、生成AIの実用化に向けて、分析環境の構築支援として総額1,000万ドル規模のAWSクレジットが提供され、想定コストの半額を上限としてAWSサービス利用料の負担を軽減するそうだ。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-一方、「モデル利用者」向けプログラムでは、公開されている基盤モデルを活用し、様々な手法でモデルの応答をカスタマイズすることで、ビジネス課題の解決を支援する。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-支援対象は、日本国内に法人または拠点を持ち、生成AIのビジネス適用を検討している企業・団体である。参加希望者は、AWSジャパンとのディスカッションを通じて課題やプランをヒアリングし、具体的な支援内容を決定するとのこと。プログラムへの応募受付は2024年10月31日、実施期間は2025年3月末まで。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jul 2024 09:25:51 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Fri, 26 Jul 2024 07:08:50 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
