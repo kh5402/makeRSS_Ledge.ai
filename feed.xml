@@ -1446,7 +1446,42 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>ディープフェイク画像の新たな見抜き方「眼の中の星を観て検出」ー英国王立天文学会で発表される</title><link>https://ledge.ai/articles/want_spot_deepfake_look_stars_their_eyes</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>AIモデルの「モデル崩壊」に対する脆弱性が判明　他のAIモデルが生成したデータを学習することのリスク</title><link>https://ledge.ai/articles/ai_models_collapse_when_trained_on_recursively_generated_data</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年7月25日、オックスフォード大学のイリア・シュマイロフ氏率いる研究チームが、AIモデルが「モデル崩壊」と呼ばれる現象に対して根本的に脆弱であることを示す論文を学術誌『Nature』に{target=“_blank”}した。
+
+この現象は、他のAIモデルによって生成されたデータを学習することで発生し、AIモデルが時間とともに基礎となるデータ分布を忘れてしまうという退化プロセスを指すという。
+
+論文では、モデル崩壊の現象を視覚的に示すために、言語モデルを用いて実験を行った。下図は、モデルの世代が進むにつれてデータの品質がどのように劣化するかを示している。
+
+図a：モデル崩壊のフィードバックメカニズムの高レベルの説明。初期データは人間によってキュレーションされたものであり、時間とともにモデル生成データがデータセットに加わる。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+図b, c：異なる世代のモデルが生成するデータの複雑度（perplexity）のヒストグラム。初期モデルが生成したデータは高品質だが、世代が進むにつれてデータの品質が低下し、エラーが蓄積される
+
+!
+!
+
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+研究によると、「モデル崩壊」を防ぐためには、人間が生成したデータに依存することが重要だという。AI生成データと人間生成データを区別し、適切にフィルタリングする必要がある。例えば、AI生成データにウォーターマークを付ける方法が提案されているが、これには大規模な調整と協力が必要とされる。さらに、元のデータ分布にアクセスし続けることが不可欠であると強調した。
+
+この研究は、将来的なAIモデルの開発において、人間の監視とデータの管理の重要性を示しているという。AIの生成するデータの品質と信頼性を確保するため、AIモデルのトレーニングデータの出所を明確にし、人間の生成するデータを活用することが不可欠だと述べられている。
+
+
+:::box
+
+:::
+</description><pubDate>Wed, 31 Jul 2024 08:46:28 +0000</pubDate></item><item><title>ディープフェイク画像の新たな見抜き方「眼の中の星を観て検出」ー英国王立天文学会で発表される</title><link>https://ledge.ai/articles/want_spot_deepfake_look_stars_their_eyes</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1808,39 +1843,7 @@ RAG（Retrieval-Augmented Generation）とは、LLMがユーザーの質問に�
 :::box
 
 :::
-</description><pubDate>Sat, 13 Jul 2024 07:00:05 +0000</pubDate></item><item><title>OpenAI「現在ChatGPTはレベル１」AIシステムの進化を測定する新たな内部評価スケールを導入</title><link>https://ledge.ai/articles/openai_sets_levels_to_track_progress_toward_superintelligent_ai</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-OpenAIは、大規模言語モデル（LLM）がAGI（人工汎用知能）に向けてどれだけ進歩しているか評価するための自社の判定基準となるスケールを作成したことを{target=“_blank”}が2024年7月12日に報じている。このスケールは、AIがAGIに到達するまでの進捗を5段階で評価するもので、現在のChatGPTのようなチャットボットはレベル1に位置づけられているという。
-
-### OpenAIのスケールは以下のように定義されている。
-**レベル1：** 基本的な会話や情報提供を行う現在のチャットボット
-**レベル2：** PhDレベルの人間と同等に基本的な問題を解決できるAI
-**レベル3：** ユーザーの代わりに行動を起こせるAIエージェント
-**レベル4：** 新しいイノベーションを創出できるAI
-**レベル5：** 人間の組織全体の業務を遂行できる完全なAGI
-
-OpenAIは、今日のチャットボットはレベル2に近づいていると主張しており、AGIを「ほとんどの経済的に価値のあるタスクにおいて人間を超える高度な自律システム」と定義している。同社のCEOであるサム・アルトマン氏は、AGIに到達するまでに「おおよそ5年の猶予がある」と述べているが、実現には莫大な計算リソースが必要であり、現実的にはまだ遠い未来の話とされている。
-
-この新しい評価スケールの導入は、OpenAIとロスアラモス国立研究所の協力{target=“_blank”}の翌日に行われたとのこと。この協力は、GPT-4oなどの高度なAIモデルがバイオサイエンス研究をどのように安全に支援できるかを探ることを目的としているという。プロジェクトマネージャーは、このプロジェクトがGPT-4oの能力をテストし、安全性やその他の評価基準を設定することを目指していると述べた。
-
-2023年5月にOpenAIの安全チームが解散されたことにより、安全性に対する懸念が高まっている。共同創設者のイリヤ・サツケヴァー氏の退社後、同チームだった研究者のヤン・ライケ氏も「安全文化とプロセスが『輝く製品』の背後に置かれている」と主張し、{target=“_blank”}。OpenAIはこれに対して否定的なコメントを出しているが、AGIが実現した場合の影響については依然として議論が続いている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 12 Jul 2024 09:52:08 +0000</pubDate></item><item><title>IPA「情報セキュリティ白書2024」を発行　アンケート回答でPDF版は無料配布 </title><link>https://ledge.ai/articles/ipa_wp-security_2024</link><description>:::small
+</description><pubDate>Sat, 13 Jul 2024 07:00:05 +0000</pubDate></item><item><title>IPA「情報セキュリティ白書2024」を発行　アンケート回答でPDF版は無料配布 </title><link>https://ledge.ai/articles/ipa_wp-security_2024</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
