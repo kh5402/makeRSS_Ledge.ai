@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 01 Aug 2024 08:04:37 +0000</lastBuildDate><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 02 Aug 2024 08:18:11 +0000</lastBuildDate><item><title>失われた声をAIで取り戻すーー米連邦会議で、闘病中の下院議員がAIを使った「自分の声」で演説</title><link>https://ledge.ai/articles/speech_in_her_own_voice_with_ai-voice</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+民主党下院議員のジェニファー・ウェクストン氏は2024年7月25日、米連邦議会で、AIを利用して再現された「自分の声」で{target=“_blank”}した。
+
+ウェクストン氏は進行性核上性麻痺（PSP）という神経疾患を患っている。PSPは、脳の特定の領域に影響を与えるまれな神経変性疾患で、運動機能やバランス、眼球運動に関する困難を引き起こす。同氏のケースでは、特に発話機能が深刻に損なわれ、通常の会話や即興の演説が困難になっているという。また、歩行困難や転倒のリスクも高まり、最終的には車椅子が必要となることが多いとのこと。
+
+同氏は11日にX（旧Twitter）で「私の声が再び聞こえるのはAIのおかげ。これが健康やアクセシビリティの課題に直面する人々に力を与え、私たちの能力が私たちを定義しないことを示す助けになることを願っている」と{target=“_blank”}。また、「AIは悪意を持った人々によって誤用されると危険な新しいフロンティアになる可能性があるが、障害を持つアメリカ人にとって新しく、想像もつかないほどの人生を変える機会を提供することもできる」とも述べている。
+
+25日は、毎年7月に祝われる障害者プライド月間を記念するために行われた特別な演説で、ウェクストン議員は自身のキャリアを通じて障害者の権利とアクセシビリティの問題に取り組んできたこと、そしてPSPの診断以来、それがどれほど個人的な戦いとなったかを語った。
+
+「私がこの仕事を愛し続け、できる限り最善を尽くして生きている姿を見たとき、多くの異なる能力を持つアメリカ人が日々示す勇気、レジリエンス、そして精神を理解し、評価してもらいたい。AIの声であっても、障害を持つアメリカ人の声となれることを望んでいる。なぜなら、私たちはその障害だけで見られるべきではないからだ」とウェクストン議員は述べた。
+
+ウェクストン議員を支えるAI音声モデルは、AIスタートアップのElevenLabsが開発したもの。同氏の演説データを基に数日間で作成されたとのこと。この技術は、従来のロボット音声とは異なり、自然で感情豊かな発声を可能にしているという。同氏が初めてこのAI音声を聞いたとき「最も美しい音だった」と涙を流したと語った。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 02 Aug 2024 08:18:11 +0000</pubDate></item><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -327,29 +356,7 @@ Photoshopでは、最新の生成AIモデル「Firefly Image 3」を活用した
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jul 2024 08:49:54 +0000</pubDate></item><item><title>OpenAI、リアルタイム検索エンジン「SearchGPT」プロトタイプを発表</title><link>https://ledge.ai/articles/openai_searchgpt_prottype</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年7月25日、新たにAI搭載の検索エンジン「SearchGPT」を{target=“_blank”}した。
-
-この検索エンジンは、インターネット上の情報にリアルタイムでアクセスし、ユーザーの質問に迅速かつ直接的に回答することを目的としている。プロトタイプ版は一部のユーザーとパブリッシャーに限定して公開されており、広範な公開は今後予定されている。
-
-SearchGPTは、テキストボックスに質問を入力すると、AIがネット上の情報を集約して回答を提示する。回答には、情報源のURLも併記されており、ユーザーは情報の出所を確認することができる。この機能は、Googleの提供していた「AI Overview」やPerplexityの「Perplexity AI」と類似しているが、より詳細かつ明確な引用元を提供する点で差別化されているとのこと。
-
-OpenAIの説明によると、SearchGPTは「Webからの最新情報に基づいて質問に迅速かつ直接的に回答し、関連するソースへの明確なリンクを提供する」ことを目指している。また、検索結果に表示される情報の透明性を高めるために、パブリッシャーと協力し、記事の流用方法を管理するツールもリリースする計画だ。これにより、コンテンツの作成者が自身の情報がどのように使用されるかをコントロールできるようになる。
-
-SearchGPTの利用を希望する場合、ウェイティングリストに登録する必要がある。現時点では、The AtlanticやNews Corpといった一部のメディアがテストに参加しているとのこと。SearchGPTは検索機能に特化しており、OpenAIのAIトレーニングとは独立しているが、将来的にはChatGPTにもこの機能が統合されるという。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 26 Jul 2024 05:50:09 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Sun, 28 Jul 2024 08:49:54 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
