@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 02 Aug 2024 08:18:11 +0000</lastBuildDate><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 02 Aug 2024 08:34:13 +0000</lastBuildDate><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1446,7 +1446,45 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>AIモデルの「モデル崩壊」に対する脆弱性が判明　他のAIモデルが生成したデータを学習することのリスク</title><link>https://ledge.ai/articles/ai_models_collapse_when_trained_on_recursively_generated_data</link><description>:::small
+</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>Google DeepMindが国際数学オリンピックで銀メダルレベルのスコアを達成するAI「AlphaProof」「AlphaGeometry 2」を発表</title><link>https://ledge.ai/articles/google_deepmind_alpha-geometry2_alpha-proof</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Google DeepMindは、形式的な数学推論と幾何学問題を解決するための新たなAIシステム「AlphaProof」と「AlphaGeometry 2」を開発し、国際数学オリンピック（IMO）で銀メダルレベルのスコアを達成したことを{target=“_blank”}した。この成果は、AIによる数学的推論能力の進化を示すものであり、今後の研究や応用に大きな可能性を開くものとなる。
+
+## AlphaProofとAlphaGeometry 2の概要
+「AlphaProof」は、数学の命題を形式言語「Lean」を用いて証明するシステムで、これまでAlphaZeroが囲碁や将棋、チェスで達成した成功を基に開発された。AlphaProofは数百万の数学問題を解決することで自己学習を進め、今回のIMOでは、特に難易度の高い代数、数論の問題を解くことで28点を獲得。このスコアは、IMOでの銀メダル基準に相当し、金メダルの境界までわずか1点差であったという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+一方、「AlphaGeometry 2」は幾何学問題に特化したニューロ・シンボリックハイブリッドシステムである。過去のIMO問題に対する成功率を83%まで引き上げ、今回のIMOでも複雑な幾何学の問題を迅速に解決することに成功した。特に、AlphaGeometry 2は新たな知識共有メカニズムを利用し、複数の検索ツリーを組み合わせて問題を解くという。
+
+
+2024年の国際数学オリンピックでは、AlphaGeometry 2は下図「{target=“_blank”}」を受け取ってからわずか19秒で解答を導き出したとのこと。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## AIが数学分野にもたらす影響
+今回の成果は、AIが人間の領域である高度な数学的推論をも補完できる可能性を示しており、数学教育や研究、さらには他の科学技術分野への応用が期待されているという。DeepMindの研究チームは、これらの技術がさらに発展することで、AIがより複雑な数学的問題や新しい理論の発見に貢献できることを目指していると述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 02 Aug 2024 08:34:13 +0000</pubDate></item><item><title>AIモデルの「モデル崩壊」に対する脆弱性が判明　他のAIモデルが生成したデータを学習することのリスク</title><link>https://ledge.ai/articles/ai_models_collapse_when_trained_on_recursively_generated_data</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1817,36 +1855,7 @@ NICTのユニバーサルコミュニケーション研究所では、言語の�
 
 :::
 
-</description><pubDate>Sun, 14 Jul 2024 13:14:09 +0000</pubDate></item><item><title>LLMはRAGと事前知識をどう使い分けるのか　マサチューセッツ大とMicrosoftの研究グループが発表</title><link>https://ledge.ai/articles/from_rags_to_rich_parameters</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年6月18日、大規模言語モデル（LLM）の推論能力向上を目指す研究が{target=“_blank”}された。研究者らは「検索拡張生成（RAG）」を活用した新たな手法により、LLMがどのように内部知識と外部情報を使い分けているかを詳細に分析した。
-## RAGの役割とメリット
-RAG（Retrieval-Augmented Generation）とは、LLMがユーザーの質問に対してより適切な回答を生成するための手法である。この手法は、外部のデータソースから関連情報を検索し、その情報をモデルの入力に追加することで、モデルの性能を向上させる。特に、訓練データが古くなった場合や、最新の情報を含んでいない場合に有効となる。
-
-## 研究の手法と結果
-研究者らは、LLMが事実に基づく質問に答える際に、内部知識（パラメトリック情報）とRAGによって取得された外部情報のどちらに依存するかを調査した。主な手法は以下の通りである。
-
-**1. 因果追跡（Causal Tracing）：** モデルの特定の隠れ層が事実の予測にどのように寄与しているかを調査。これにより、どの層が内部知識に基づく推論を行っているかが特定された。
-**2. パラメータ編集：** モデルのパラメータを直接編集し、知識を更新する手法を使用。この手法により、モデルの内部知識がどのように変化するかが観察された。
-**3. RAGによる外部情報の利用：** RAGが提供する外部情報がどの程度モデルの回答に影響を与えるかを評価。外部情報が追加された際のモデルの回答と、内部知識のみに基づいた回答を比較した。
-
-研究の結果、LLMは内部知識が豊富な場合にはそれに依存し、事前知識が不完全または古い場合にはRAGから得た外部情報をより活用することが明らかになった。具体的な質問に対しては、RAGが提供する最新情報がモデルの回答を大きく改善することも確認された。
-
-また、RAGによって取得された外部情報を利用することで、モデルのハルシネーション生成頻度が減少することが示されたという。これにより、より正確で信頼性の高い回答が得られることが実証されたとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 13 Jul 2024 07:00:05 +0000</pubDate></item><item><title>失われた声をAIで取り戻すーー米連邦会議で、闘病中の下院議員がAIを使った「自分の声」で演説</title><link>https://ledge.ai/articles/speech_in_her_own_voice_with_ai-voice</link><description>:::small
+</description><pubDate>Sun, 14 Jul 2024 13:14:09 +0000</pubDate></item><item><title>失われた声をAIで取り戻すーー米連邦会議で、闘病中の下院議員がAIを使った「自分の声」で演説</title><link>https://ledge.ai/articles/speech_in_her_own_voice_with_ai-voice</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
