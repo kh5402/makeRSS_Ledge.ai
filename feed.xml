@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 02 Aug 2024 08:34:13 +0000</lastBuildDate><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 03 Aug 2024 14:07:21 +0000</lastBuildDate><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1855,7 +1855,29 @@ NICTのユニバーサルコミュニケーション研究所では、言語の�
 
 :::
 
-</description><pubDate>Sun, 14 Jul 2024 13:14:09 +0000</pubDate></item><item><title>失われた声をAIで取り戻すーー米連邦会議で、闘病中の下院議員がAIを使った「自分の声」で演説</title><link>https://ledge.ai/articles/speech_in_her_own_voice_with_ai-voice</link><description>:::small
+</description><pubDate>Sun, 14 Jul 2024 13:14:09 +0000</pubDate></item><item><title>規約により「AIゆういちろう」一時休止へ。OpenAI「政治キャンペーンには使わないで」玉木雄一郎氏「Geminiで検討中」</title><link>https://ledge.ai/articles/ai_yuichiro_is_temporarily_suspended</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+国民民主党代表の玉木雄一郎氏は2024年8月1日、同氏の運営するAIサービス「AIゆういちろう」を一時休止することを同氏のX（旧Twitter）アカウントで{target=“_blank”}した。
+
+このサービスは、OpenAIのChatGPTを基盤にしており、ユーザーが玉木氏の政策に関する質問をすると、AIが自動で応答するものであった。しかし、OpenAIから「政治キャンペーンに利用することは規約違反である」との指摘を受け、急遽運用停止に至った​とのこと。
+
+「AIゆういちろう」は、7月8日に公開され、わずか8日間で12万件以上の利用があり、API利用料が急増するなど、予想以上の反響を呼んだ。一連の出来事に対して、玉木氏はGoogleの生成AI「Gemini」への移行を検討しているとのことを明かした。
+
+政治キャンペーンにAIを使用することを禁じている企業には、Meta や Microsoft が挙げられる。これらの企業は、AIを利用した選挙広告や誤情報の防止に重点を置き、選挙の透明性と信頼性を守るための規則を設けている。一方、安野たかひろ氏が東京都知事選で使用した「AIあんの」は、オープンソース技術を採用し、特定の企業規約に縛られないため、選挙活動には問題なく活用された。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 03 Aug 2024 14:07:21 +0000</pubDate></item><item><title>失われた声をAIで取り戻すーー米連邦会議で、闘病中の下院議員がAIを使った「自分の声」で演説</title><link>https://ledge.ai/articles/speech_in_her_own_voice_with_ai-voice</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2178,52 +2200,7 @@ SNSでは、「これは読むべき！」「経産省の本気を見た」な�
 :::box
 
 :::
-</description><pubDate>Sat, 20 Jul 2024 14:36:03 +0000</pubDate></item><item><title>一般にはほぼ無名のAIエンジニア安野たかひろ氏が、急激に支持者を集め都知事選で15万票を獲得するまでを振り返る　最新小説も発売！</title><link>https://ledge.ai/articles/takahiroanno_reflections_on_the_campaign</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月7日に行われた東京都知事選において、政治の世界ではほぼ無名の状態から15万4638票を都民から集め、結果5位に食い込んだというAIエンジニアの安野たかひろ氏が、自身のnoteで都知事選を振り返る記事を{target=“_blank”}した。
-
-「なぜ無名のエンジニアは都知事選で15万票獲得できたのか」と題されたその記事では、「テクノロジーで誰も取り残さない東京を作る」と掲げた自身の選挙活動が、どのように認知を得て得票につながったのかを分析し、その影響について語った。
-
-## AIと双方向コミュニケーション
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-安野氏の選挙活動は、従来の政治キャンペーンとは一線を画していた。選挙活動の核となったのは、「ブロードリスニング」と称される、双方向のコミュニケーション手法であった。有権者の意見を直接聴き、それを政策に反映させることで、多くの支持を得た。AI技術を活用した意見収集ツールや、政策のアップデートを行うプラットフォームを駆使して、リアルタイムで有権者との対話を続けた。
-
-安野氏は、選挙活動の過程で、1000万回以上SNSで拡散された{target=“_blank”}を基に、具体的な政策を提示し、有権者からのフィードバックを取り入れ続けた。このプロセスで、6月20日に公開した96ページのマニフェストを何度もアップデートし、最終的に232件の課題提起と104件の変更提案が反映されたという。
-
-また、選挙活動には、AIを活用した「AIあんの」が大きな役割を果たした。YouTubeや電話を通じて、8600回以上の質問に回答し、有権者とのコミュニケーションを拡張することで、支持を広げた。また、街頭演説やメタバースでの活動も行い、直接的な対話の機会を増やした。
-
-@
-
-
-選挙結果としては5位に終わったが、無名のエンジニアが15万票以上を獲得したことは過去の都知事選の中でも異例であり、特に30代の候補者としては記録的な数値だという。
-
-今後も政治活動に関与する意向を示しており、今回の選挙で得た知見やツールをオープンソースとして公開する予定であると述べた。同氏は、テクノロジーを活用した分断のない政治の実現を目指し、引き続き取り組んでいくとの意向を示している。
-
-
-2024年7月4日、Ledge編集部でのインタビュー
-@
-
-
-なお、作家としても活動する安野氏のデビュー2作目となる長編小説「松岡まどか、起業します──AIスタートアップ戦記」が7月18日、早川書房より発売された。AIと働き方をめぐる令和の ”お仕事小説” とのことで、ハヤカワ・SFコンテスト優秀賞を受賞した1作目「サーキット・スイッチャー」とはまた違った世界が描かれているようだ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Jul 2024 06:22:18 +0000</pubDate></item><item><title>パリ五輪2024、カナダ女子サッカー代表がドローンによるスパイ行為で波紋</title><link>https://ledge.ai/articles/coc-statement_on_canada_soccer</link><description>:::small
+</description><pubDate>Sat, 20 Jul 2024 14:36:03 +0000</pubDate></item><item><title>パリ五輪2024、カナダ女子サッカー代表がドローンによるスパイ行為で波紋</title><link>https://ledge.ai/articles/coc-statement_on_canada_soccer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
