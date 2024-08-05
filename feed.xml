@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 03 Aug 2024 14:07:21 +0000</lastBuildDate><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Aug 2024 12:23:40 +0000</lastBuildDate><item><title>トレンドマイクロ、生成AIのサイバー攻撃と情報漏洩を防ぐ新ソリューション提供開始</title><link>https://ledge.ai/articles/trendmicro_trendvisionone</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+
+トレンドマイクロは2024年8月1日、企業が利用する生成AIのセキュリティを強化する新たなサービス「Trend Vision One - Zero Trust Secure Access - AI Service Access」を{target=“_blank”}した。
+
+このサービスは、企業が独自に構築する生成AI環境や「ChatGPT」「Microsoft Copilot」「Google Gemini」などの外部生成AIサービスを利用する際に生じるセキュリティリスクを低減することを目的としている。
+
+同社の発表によれば、このサービスはゼロトラストアーキテクチャに基づいて設計されており、リアルタイム監視やアクセス制御を通じてデータの不正利用や漏洩を防ぐ。これにより、企業は生成AIの導入や活用を安心して進めることができる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+さらに、トレンドマイクロはAIを活用したセキュリティソリューションの強化にも取り組んでおり、生成AIを悪用したサイバー攻撃から企業を保護するための技術を提供していくという。これには、AIを用いた脅威検出や対応の迅速化を図る「Trend Vision One Companion」のようなツールも含まれている。
+
+下図は、プロンプトフィルタリング（ChatGPTに入力したプロンプトに個人情報が含まれていた場合のブロック例）
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 04 Aug 2024 12:23:40 +0000</pubDate></item><item><title>Canva、生成AIプラットフォーム「Leonardo.AI」を買収：AI技術強化へ向けた戦略的ステップ</title><link>https://ledge.ai/articles/canva_leonardo-ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -327,29 +364,7 @@ Photoshopでは、最新の生成AIモデル「Firefly Image 3」を活用した
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jul 2024 08:49:54 +0000</pubDate></item><item><title>OpenAI、リアルタイム検索エンジン「SearchGPT」プロトタイプを発表</title><link>https://ledge.ai/articles/openai_searchgpt_prottype</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-OpenAIは2024年7月25日、新たにAI搭載の検索エンジン「SearchGPT」を{target=“_blank”}した。
-
-この検索エンジンは、インターネット上の情報にリアルタイムでアクセスし、ユーザーの質問に迅速かつ直接的に回答することを目的としている。プロトタイプ版は一部のユーザーとパブリッシャーに限定して公開されており、広範な公開は今後予定されている。
-
-SearchGPTは、テキストボックスに質問を入力すると、AIがネット上の情報を集約して回答を提示する。回答には、情報源のURLも併記されており、ユーザーは情報の出所を確認することができる。この機能は、Googleの提供していた「AI Overview」やPerplexityの「Perplexity AI」と類似しているが、より詳細かつ明確な引用元を提供する点で差別化されているとのこと。
-
-OpenAIの説明によると、SearchGPTは「Webからの最新情報に基づいて質問に迅速かつ直接的に回答し、関連するソースへの明確なリンクを提供する」ことを目指している。また、検索結果に表示される情報の透明性を高めるために、パブリッシャーと協力し、記事の流用方法を管理するツールもリリースする計画だ。これにより、コンテンツの作成者が自身の情報がどのように使用されるかをコントロールできるようになる。
-
-SearchGPTの利用を希望する場合、ウェイティングリストに登録する必要がある。現時点では、The AtlanticやNews Corpといった一部のメディアがテストに参加しているとのこと。SearchGPTは検索機能に特化しており、OpenAIのAIトレーニングとは独立しているが、将来的にはChatGPTにもこの機能が統合されるという。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Fri, 26 Jul 2024 05:50:09 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Sun, 28 Jul 2024 08:49:54 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
