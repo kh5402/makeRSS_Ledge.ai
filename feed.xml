@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Aug 2024 12:23:40 +0000</lastBuildDate><item><title>トレンドマイクロ、生成AIのサイバー攻撃と情報漏洩を防ぐ新ソリューション提供開始</title><link>https://ledge.ai/articles/trendmicro_trendvisionone</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 04 Aug 2024 12:26:42 +0000</lastBuildDate><item><title>トレンドマイクロ、生成AIのサイバー攻撃と情報漏洩を防ぐ新ソリューション提供開始</title><link>https://ledge.ai/articles/trendmicro_trendvisionone</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1062,7 +1062,38 @@ URL：{target=“_blank”}
 イベント名：Ledge.ai EXPO 2024 summer
 主催：株式会社レッジ
 URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Thu, 13 Jun 2024 03:47:03 +0000</pubDate></item><item><title>AWSが、生成AI業務アプリを作成する「AWS App Studio」のプレビューを公開　開発スキルがなくても自然言語で利用できる</title><link>https://ledge.ai/articles/aws_app_studio_public_preview</link><description>:::small
+開催形式：オンライン（特設サイト）</description><pubDate>Thu, 13 Jun 2024 03:47:03 +0000</pubDate></item><item><title>GitHubが開発者向けに「GitHub Models」を発表　最新のAIモデルを無料で試せる機会を提供</title><link>https://ledge.ai/articles/github_models</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+GitHubは2024年8月1日、「GitHub Models」を{target=“_blank”}した。この新たな取り組みは、1億人を超える開発者に、最新のAIモデルを無料で試せる機会を提供し、AIエンジニアリングの可能性を広げるという。
+
+GitHubのCEOである Thomas Dohmke 氏は「このプラットフォームは、すべての開発者がAIの力を利用し、業界をリードするAIモデルで構築できるようにする」と述べている。
+## GitHub Modelsの概要
+GitHub Modelsは、「Llama 3.1」「GPT-4o」「GPT-4o mini」「Phi 3」「Mistral Large 2」といった最先端のAIモデルへのアクセスを提供する。このモデル群は、GitHub Marketplace内の無料プレイグラウンドで利用可能となり、開発者はさまざまなプロンプトやモデルパラメーターを試すことができる。プレイグラウンドで得られた結果に満足した場合、これらのモデルは「Codespaces」や「Visual Studio Code」などの開発環境にシームレスに統合できる移行パスも用意されている。
+
+特に、Mistral Large 2やGPT-4oなどのモデルは、コード生成やマルチモーダルアプリケーションの構築に優れた性能を発揮する。これらのモデルは、従来のソフトウェア開発プロセスに革新をもたらし、AIを活用した新しいソリューションの創出を支援するという。
+
+@
+
+
+
+## AI技術の民主化と未来展望
+GitHub Modelsの導入により、これまでAIに触れる機会が少なかった開発者でも、最先端のAI技術を手軽に試し、プロジェクトに取り入れることが可能になる。これにより、AI技術の普及がさらに加速し、さまざまな業界でのイノベーションが期待されるという。
+
+GitHub Modelsの登場により、AIエンジニアリングがますます身近なものとなり、新たなイノベーションの波が広がることが期待される。これにより、世界中の開発者がAIを駆使して、より高度なソリューションを創出し、人類全体の進歩に寄与する未来が現実のものとなるとDohmke 氏は述べた。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 04 Aug 2024 12:26:42 +0000</pubDate></item><item><title>AWSが、生成AI業務アプリを作成する「AWS App Studio」のプレビューを公開　開発スキルがなくても自然言語で利用できる</title><link>https://ledge.ai/articles/aws_app_studio_public_preview</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1429,39 +1460,7 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>NTTドコモ、NPCを自動生成するAIを開発ーー過疎バースに賑わいを創出。メタぼっちでもへっちゃら？</title><link>https://ledge.ai/articles/docomo_openhouse24_metaverse</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年1月16日、NTTドコモは、メタバース空間内のノンプレイヤーキャラクター（NPC）をテキスト入力のみで自動生成する生成AIを世界で初めて開発したと{target=“_blank”}した。また、この技術詳細は1月17日・18日開催の{target=“_blank”}に出展し紹介された。
-
-この技術は、プログラミングやアルゴリズムの専門知識がなくても、外見や行動、空間内での役割を備えたNPCを約20分で自動生成できる。この技術は「行動ロジック生成AI」、「アニメーション生成AI」、「外見生成AI」の3つの生成AIで構成され、これらが自動連携することにより、NPCの総合的な自動生成を実現する。
-
-!
-:::small
-画像の出典：){target=“_blank”}
-:::
-
-
-ドコモのこの技術開発は、メタバース空間内の賑わいを創出し、ユーザーを惹きつけるためのもの。従来、NPCの行動はビヘイビアツリーという手法を用いて規定されていたが、その作成には専門的なプログラミング技術が必要だった。しかし、本技術を用いることで、NPCの生成と行動ロジックの設定が大幅に簡略化される。
-
-メタバース空間内にNPCを10体配置する場合、ビヘイビアツリーの作成およびビヘイビアツリーとNPCのアニメーション・外見の連携におよそ42時間要するといわれているが、この技術を利用することで1時間程度に削減可能だという。
-
-!
-:::small
-画像の出典：){target=“_blank”}
-:::
-
-
-この技術は、2024年度中に株式会社NTTコノキューが提供する仮想空間プラットフォーム「DOOR」への実装を目指すほか、地方創生や地域活性化に貢献する新しい技術やサービスの開発にも活用する計画だという。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Jan 2024 11:59:39 +0000</pubDate></item><item><title>Google DeepMindが国際数学オリンピックで銀メダルレベルのスコアを達成するAI「AlphaProof」「AlphaGeometry 2」を発表</title><link>https://ledge.ai/articles/google_deepmind_alpha-geometry2_alpha-proof</link><description>:::small
+</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>Google DeepMindが国際数学オリンピックで銀メダルレベルのスコアを達成するAI「AlphaProof」「AlphaGeometry 2」を発表</title><link>https://ledge.ai/articles/google_deepmind_alpha-geometry2_alpha-proof</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
