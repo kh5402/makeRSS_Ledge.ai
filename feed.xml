@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Aug 2024 03:03:22 +0000</lastBuildDate><item><title>ファミリーマート、生成AIでマニュアル検索を強化：音声検索機能で店舗運営を効率化</title><link>https://ledge.ai/articles/familymart_ai-assistant</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Aug 2024 03:09:58 +0000</lastBuildDate><item><title>ファミリーマート、生成AIでマニュアル検索を強化：音声検索機能で店舗運営を効率化</title><link>https://ledge.ai/articles/familymart_ai-assistant</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1867,7 +1867,49 @@ NICTのユニバーサルコミュニケーション研究所では、言語の�
 
 :::
 
-</description><pubDate>Sun, 14 Jul 2024 13:14:09 +0000</pubDate></item><item><title>規約により「AIゆういちろう」一時休止へ。OpenAI「政治キャンペーンには使わないで」玉木雄一郎氏「Geminiで検討中」</title><link>https://ledge.ai/articles/ai_yuichiro_is_temporarily_suspended</link><description>:::small
+</description><pubDate>Sun, 14 Jul 2024 13:14:09 +0000</pubDate></item><item><title>文化庁が「AI著作権チェックリスト＆ガイダンス」を公開—AI時代の著作権リスク対策を強化</title><link>https://ledge.ai/articles/bunkacho_ai_copyright_checklist_and_guidance</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+文化庁は2024年7月31日、2回目となる文化審議会著作権分科会政策小委員会を開催し、AI技術の普及に伴い著作権リスクを低減し、著作権者の権利を保護するための指針をまとめた「AI著作権チェックリスト＆ガイダンス」をウェブサイト上で{target=“_blank”}した。この資料は、AI開発者や提供者、利用者、さらに著作権者を対象とした実務的なアドバイスを提供しており、関連する公的資料からの抜粋や要点が盛り込まれている。
+
+## 資料の構成と目的
+この「AI著作権チェックリスト＆ガイダンス」は、全44ページにわたる資料で、2部構成となっている。
+
+第1部は「AI開発・提供・利用のチェックリスト」（全24ページ）として、AI技術を利用する企業や個人が著作権に関わるリスクを回避するために必要な項目をリスト化している。具体的には、著作物の適正な使用方法や、データセット管理の重要性について詳細に説明されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+第2部は「権利者のためのガイダンス」（全15ページ）で、著作権者が自らの権利を守るために必要な情報や対応策が紹介されている。ここでは、AIが生成するコンテンツに対する権利の主張方法や、管理方法についての具体的な手引きが示されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+今回の資料作成には、文化庁が2024年3月に発表した「AIと著作権に関する考え方について」、内閣府が同年5月に発表した「AI時代の知的財産権検討会　中間とりまとめ」、そして総務省と経済産業省が4月に発表した「AI事業者ガイドライン（第1.0版）」が参考として使用されている。
+
+なお文化庁は、8月9日に著作権セミナー「AIと著作権II」をYouTube Liveで無料配信する予定。
+
+
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 05 Aug 2024 03:09:58 +0000</pubDate></item><item><title>規約により「AIゆういちろう」一時休止へ。OpenAI「政治キャンペーンには使わないで」玉木雄一郎氏「Geminiで検討中」</title><link>https://ledge.ai/articles/ai_yuichiro_is_temporarily_suspended</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2174,45 +2216,7 @@ SNSでは、「これは読むべき！」「経産省の本気を見た」な�
 :::box
 
 :::
-</description><pubDate>Mon, 22 Jul 2024 11:35:56 +0000</pubDate></item><item><title>ベネッセコーポレーションが、小学生と保護者による「生成AIの利用に関する調査」の結果を発表　前年より肯定的な意見が増加</title><link>https://ledge.ai/articles/benesse_survey_on_the_use_of_AI</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年7月17日、ベネッセコーポレーションは、小学生とその保護者を対象にしたChatGPTなどの生成AIの利用に関する調査の結果を{target=“_blank”}した。
-
-## 保護者の認知度と利用に関する意向
-調査によると、保護者の53％が生成AIを「知っている」と回答した。「知っている」と回答した保護者のうち66％が「子どもに使ってほしい」と肯定的な意見を示した。「積極的に使ってほしい」と答えた保護者は14％、「少し使ってみてほしい」と答えた保護者は52％で、{target=“_blank”}に比べて肯定的な回答が10ポイント増加したという。
-
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-肯定的な理由としては、「新しい技術の活用力を養う良い機会になりそうだから」（35％）、「子どもが新しい興味に出会えそうだから」（22％）、「自分で考える力が伸びそうだから」（13％）が挙げられた。一方で、否定的な回答をした保護者の理由としては、「自分で考えなくなりそうだから」（48％）、「自分で書いて表現することをしなくなりそうだから」（23％）、「情報の正誤の判断がつかなくなりそうだから」（12％）が主な理由として挙げられた。
-## 子どもの認知度と利用状況
-子どもに生成AIを知っているか調査をしたところ、「知っている」と答えた子どもは20％、「聞いたことはあるがどんなものか分からない」と答えた子どもは28％、「知らない」と答えた子どもは52％で、前年調査に比べ「知らない」と答えた割合は9ポイント低下していた。
-
-生成AIを知っている子どもの利用状況については、「よく使っている」子どもは16％、「時々使っている」子どもは28％、「試しに使ってみたことがある」子どもは26％、「全く使ったことがない」子どもは29％であった。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-**調査概要**
-2024年6月24日から26日にかけてインターネットを通じて行われ、小学3年生から6年生の児童とその保護者1032組を対象にアンケート調査を実施。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 20 Jul 2024 14:36:03 +0000</pubDate></item><item><title>パリ五輪2024、カナダ女子サッカー代表がドローンによるスパイ行為で波紋</title><link>https://ledge.ai/articles/coc-statement_on_canada_soccer</link><description>:::small
+</description><pubDate>Mon, 22 Jul 2024 11:35:56 +0000</pubDate></item><item><title>パリ五輪2024、カナダ女子サッカー代表がドローンによるスパイ行為で波紋</title><link>https://ledge.ai/articles/coc-statement_on_canada_soccer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
