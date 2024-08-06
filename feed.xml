@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Aug 2024 02:58:54 +0000</lastBuildDate><item><title>立命館大学発スタートアップ「人機一体」が人型二足歩行ロボットの最新モデルを公開　危険を伴う作業の自動化を目指す</title><link>https://ledge.ai/articles/jinki_zero_set_of_kaleido_ver1-1</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Aug 2024 03:03:22 +0000</lastBuildDate><item><title>ファミリーマート、生成AIでマニュアル検索を強化：音声検索機能で店舗運営を効率化</title><link>https://ledge.ai/articles/familymart_ai-assistant</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ファミリーマートは2024年8月2日、店舗運営の効率化と業務負担の軽減を目的に、生成AIを搭載した人型AIアシスタント「レイチェル／アキラ」を約7,000店舗に導入したことを{target=“_blank”}した。AIアシスタントは、店舗運営に必要な情報を迅速に提供することで、店長業務をサポートする役割を果たしているという。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 生成AIによる新機能の導入
+今回の導入により、AIアシスタントは業務マニュアルの音声検索機能を備えるようになった。これにより、レジ操作やストアスタッフの育成、緊急時対応といった店舗運営に欠かせない情報を即座に取得することが可能になり、運営効率のさらなる向上が期待されている。また、過去の割引やクーポン施策に基づく販売実績を参照できる機能も新たに追加され、データに基づいた販売計画の立案が容易になったとのこと。
+
+このAIアシスタントは、ファミリーマートが提携するクーガー株式会社の技術を活用して開発された。同社の自然言語処理技術やゲームAI技術、大規模データ処理能力を駆使し、店舗の状況や店長の特性に合わせた情報提供が可能となっているという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 05 Aug 2024 03:03:22 +0000</pubDate></item><item><title>立命館大学発スタートアップ「人機一体」が人型二足歩行ロボットの最新モデルを公開　危険を伴う作業の自動化を目指す</title><link>https://ledge.ai/articles/jinki_zero_set_of_kaleido_ver1-1</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -334,39 +362,7 @@ PwC税理士法人は2024年7月25日、三菱商事の生成AIを活用した�
 :::
 :::box
 
-:::</description><pubDate>Mon, 29 Jul 2024 14:40:00 +0000</pubDate></item><item><title>OpenAI、GPT-4o の高度な音声機能「Voice mode」アルファ版を一部提供開始</title><link>https://ledge.ai/articles/gpt-4o_voice_mode_to_come</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-OpenAIのCEOであるサム・アルトマン氏は7月26日、自身のX（旧Twitter）アカウントを通じて、ChatGPTの「高度な音声機能」のアルファ版提供を翌週に開始すると{target=“_blank”}した。この機能は、AIが人間の声に込められた感情や非言語的な合図を理解し、リアルタイムでより自然な会話を実現する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-同社が5月に開催した{target=“_blank”}でこの機能をデモンストレーションしており、当初は6月下旬にアルファ版を公開する予定だったが、さらなる改善が必要となったため、公開が1ヵ月延期されていた。
-
-アルトマン氏は、アルファ版がChatGPT Plus契約者の一部に限定して提供されるとし、すべてのChatGPT Plus契約者への展開は2024年秋になる見込みだと述べている。
-
-高度な音声モードは、AIが感情を理解し、会話中に中断されても対応できる機能を持ち、リアルタイムでの翻訳も可能である。この機能により、友人と一緒に新しい言語を学ぶ過程がより効果的になることが期待されている。OpenAIは、ユーザーからのフィードバックを集め、機能の安全性と信頼性を高めることを目指している。
-
-下の動画では、英語を母国語とするクリスティンとスペイン語を母国語とするナチョが登場し、ポルトガル語を使って会話を進める様子が紹介されている。2人は、ChatGPTの高度な音声機能を使い、以下のようなやり取りを行っている。
-@
-
-このように、AIがリアルタイムで翻訳し、感情や文脈を理解することで、ユーザー同士がスムーズにコミュニケーションを取ることができる。また、旅行の計画についても会話が進み、「オーストラリアに行きたい」というフレーズの翻訳も自然に行われた。
-
-さらに、OpenAIは新しいビデオおよび画面共有機能の展開も計画しており、具体的なタイムラインについては今後の発表を待つことになる。現在、基本的な音声モードはChatGPTアプリで利用可能で、ヘッドホンアイコンをタップすることで開始できる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 29 Jul 2024 03:16:16 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+:::</description><pubDate>Mon, 29 Jul 2024 14:40:00 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
