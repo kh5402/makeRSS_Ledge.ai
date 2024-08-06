@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Aug 2024 09:02:37 +0000</lastBuildDate><item><title>博報堂「約7,000人の調査データ×生成AI」でバーチャル生活者を生成　調査手法を根本的に変革する取り組みとは？</title><link>https://ledge.ai/articles/expo2024-interview-hakuhodo</link><description>※2024年6月に登録制のオンラインイベント「Ledge.ai EXPO 2024 Summer」に掲載した記事を全文公開
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 05 Aug 2024 09:02:37 +0000</lastBuildDate><item><title>Meta　顔認識技術による個人情報収集問題でテキサス州と単一州では過去最多の約2,100億円で和解</title><link>https://ledge.ai/articles/meta_settles_face_recognition_lawsuit_for_1-4billion-usd</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+Metaが、顔認識技術を用いてテキサス州民の個人情報を違法に収集していた問題で、同社がテキサス州との訴訟で14億ドル（約2100億円）を支払うことで和解したことが、2024年7月30日に{target=“_blank”}なった。これは、単一の州による訴訟で得られた和解金額としては過去最大であり、プライバシー関連の訴訟においても過去最大のものだという。
+
+この訴訟は、2022年にテキサス州司法長官のケン・パクストン氏が提起したもので、Metaがユーザーの同意を得ることなく、フェイスブック上に投稿された写真の顔データを自動的に収集し、保存していたことが問題視された。具体的には、2011年に導入された「タグ提案」機能が、ユーザーの顔認識データを無断で収集していたとされている。この機能は2021年に停止され、収集されたデータは削除された。
+
+パクストン氏はこの和解に際し、「この歴史的な和解は、世界最大のテクノロジー企業に対して、法を破りテキサス州民のプライバシー権を侵害した責任を追及する我々の決意を示すものだ」と述べ、今回の和解が州民のプライバシー権保護において重要な一歩であることを強調した。
+
+一方でMetaは法的責任を認めていないが、和解金の支払いに加え、今後テキサス州のバイオメトリックデータ関連法に基づく活動について同州当局と協議することにも合意したという。同社はさらに、テキサス州でのデータセンター建設を含む投資拡大の機会を探る意向を示しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 05 Aug 2024 03:15:17 +0000</pubDate></item><item><title>博報堂「約7,000人の調査データ×生成AI」でバーチャル生活者を生成　調査手法を根本的に変革する取り組みとは？</title><link>https://ledge.ai/articles/expo2024-interview-hakuhodo</link><description>※2024年6月に登録制のオンラインイベント「Ledge.ai EXPO 2024 Summer」に掲載した記事を全文公開
 
 株式会社博報堂が取り組む、7,000タイプのバーチャル生活者を生成するサービスプロトタイプの開発プロジェクトが注目を集めている。
 
@@ -399,34 +421,7 @@ SalesforceのAI研究部門であるSalesforce AI Researchは2024年7月24日、
 :::box
 
 :::
-</description><pubDate>Tue, 30 Jul 2024 04:24:43 +0000</pubDate></item><item><title>産総研とNVIDIA、AIスーパーコンピューター「ABCI 3.0」導入で日本のAI主権を強化　今年中に稼働開始予定</title><link>https://ledge.ai/articles/aist_nvidia_hpe_abci_supercomputer</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-国立研究開発法人産業技術総合研究所（産総研）は、AI用スーパーコンピューター「ABCI（AI Bridging Cloud Infrastructure）」の新バージョン「ABCI 3.0」を導入する。2024年7月11日、産総研は数千基のNVIDIA H200 GPUとNVIDIA Quantum-2 InfiniBandを搭載したHPE Cray XDシステムを導入することで、ABCI 3.0の性能と拡張性を大幅に向上させると{target=“_blank”}発表した。これは、日本のAI研究開発能力を高め、技術的独立性を強化する戦略的施策の一環だという。
-
-ABCI 3.0は、日本における最新の大規模オープンAIコンピューティングインフラとして設計されており、今回のコラボレーションは、産総研、株式会社AIST Solutions、HPEの協力により実現された。このシステムは、柏市の施設に設置され、今年中に稼働予定だという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ABCI 3.0の導入により、6エクサフロップスのAI演算性能、410ペタフロップスの倍精度演算性能が実現される。各ノードはQuantum-2 InfiniBandプラットフォームを通じて200GB/sのバイセクション帯域幅で接続されることで、AI集約的なワークロードや膨大なデータセットを効率的かつ高速で処理することが可能となるという。
-
-このプロジェクトは、経済産業省の1,566億円におよぶイニシアティブの一環として実施されるもので、日本の生成AI研究開発を加速し、次世代AIテクノロジー開発のための時間と費用を削減することを目指しているとのこと。
-
-NVIDIAのH200 GPUは、毎秒4.8TB/sの帯域幅を持つ140GBを超えるHBM3eメモリを搭載しており、生成AIとLLMを加速する。H200 GPUのより大きく高速なメモリにより、エネルギー効率が向上し、低コストで科学的コンピューティングが可能となる。
-
-さらに、先進的なNVIDIA Quantum-2 InfiniBandは、ネットワークデバイスがデータを基に演算を行うIn-Network Computingを統合しており、AI集約的なワークロードや膨大なデータセットを処理するために不可欠な、効率的かつ高速で低遅延の通信を実現するという。
-
-
-:::box
-
-:::
-:::box
-
-:::</description><pubDate>Mon, 29 Jul 2024 15:33:12 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Tue, 30 Jul 2024 04:24:43 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
