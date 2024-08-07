@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Aug 2024 06:48:56 +0000</lastBuildDate><item><title>＜生成AIでここまでできる＞月間10万6,000時間の余白を作り出した組織の企業風土とAI導入の仕掛けとは？GMOインターネットグループ株式会社が次フェーズで見据えるもの</title><link>https://ledge.ai/articles/expo2024-interview-gmo</link><description>※2024年6月に登録制のオンラインイベント「Ledge.ai EXPO 2024 Summer」に掲載した記事を全文公開
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Aug 2024 08:45:34 +0000</lastBuildDate><item><title>米インターネット掲示板大手RedditのCEO「ブロックするのホントに面倒」と無断データ利用を批判　MicrosoftなどAI企業を名指し</title><link>https://ledge.ai/articles/reddit_huffman_it_has_been_a_real_pain_in_the_ass_to_block</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+RedditのCEOであるスティーブ・ハフマン氏は2024年8月1日、Microsoftをはじめとする複数のAI企業による無断データ利用を批判し、その対策として同社が行ったウェブクローラーのブロックが  “a real pain in the ass to block these companies.（本当に面倒くさい作業）” であったと{target=“_blank”}で明らかにした。
+
+同氏は特に、検索エンジンBingを運営するMicrosoftと、AI企業のAnthropic、Perplexityの3社を名指しで批判した。これらの企業がRedditのデータを無許可で利用し、AIモデルのトレーニングや検索結果の要約に用いていることを問題視した結果、Redditはやむを得ずこれらの企業によるデータ取得をブロックする措置を取ったという。
+
+RedditはすでにGoogleやOpenAIといった企業とはデータ利用に関する合意を締結しており、これによりRedditは自身のデータの使用方法や表示内容を制御できるようになった。しかし、MicrosoftやAnthropic、Perplexityとの交渉は合意に至らず、最終的にRedditは7月初めにrobots.txtファイルを更新し、合意のないウェブクローラーをブロックする方針を打ち出した。
+
+これにより、Redditの検索結果はGoogleの検索エンジンには表示されるが、Bingなど他の検索エンジンには表示されなくなっている。この措置について、Microsoft側は競争に悪影響を与えるとして異議を唱えているが、ハフマン氏はRedditのデータがAIモデルのトレーニングに無断で使用されている点を重視している。
+
+Anthropicはすでに5月中旬からRedditをブロックリストに追加し、同サイトのURLをクロールしていないと表明しているが、MicrosoftやPerplexityからの公式なコメントは得られていない。ハフマン氏は今後も、Redditのデータ利用に対して公正なライセンス料を求める姿勢を示している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 06 Aug 2024 08:45:34 +0000</pubDate></item><item><title>＜生成AIでここまでできる＞月間10万6,000時間の余白を作り出した組織の企業風土とAI導入の仕掛けとは？GMOインターネットグループ株式会社が次フェーズで見据えるもの</title><link>https://ledge.ai/articles/expo2024-interview-gmo</link><description>※2024年6月に登録制のオンラインイベント「Ledge.ai EXPO 2024 Summer」に掲載した記事を全文公開
 
 2024年5月、Open AI社が最新モデル『GPT-4o』を発表し、活用の幅がさらに広がった生成AI。昨年も企業での活用事例がメディアで多く取り上げられてきたが、現在もAI利活用や従業員のAI/ITスキル向上に関する取り組み事例が多く発信されている。企業におけるAI活用の重要性は日々増している。
 
@@ -467,58 +491,7 @@ Perplexity AIは、ユーザーに高品質な回答を提供するために信�
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jul 2024 12:27:42 +0000</pubDate></item><item><title>未来の職場のニューノーマルを知るＬＩＶＥ配信イベント 【DX &amp; Future Work 2024】9/19-20 開催</title><link>https://ledge.ai/articles/dx-futurework-announce</link><description>国内最大級のAI（人工知能）関連メディア「Ledge.ai」を運営するほか、AIソリューションの企画・開発を行う株式会社レッジは、2024年9月19日(木)〜9月20日(金)にかけて、デジタルトランスフォーメーション（DX）と未来の働き方をテーマにした、LIVE配信イベント『DX &amp; Future Work 2024』を開催します。視聴は無料です。
-
-:::button
-{target=“_blank”}
-:::
-
-## デジタル変革と未来の働き方
-ここ2~3年で見せた生成AIの広がりにより、企業活動において「AI」が必要不可欠であるという声を多く聞くようになりました。しかし、「AI」はあくまで企業のDXを加速させるツールでしかありません。そこで本イベントでは、AIに限らず、リモートワーク、自動化技術、サステナビリティなどを含む幅広いテーマを探究し、企業のDXを促進し生産性向上を実現する "未来の職場のニューノーマル" を模索していきます。
-
-2日間にわたって行われる全18回の講演では、先進企業や有識者からDX/AIの現在地や、未来に向けての考察などが発信される他、LIVE配信イベントならではのリアルタイムでの質疑応答も行われます(*)。
-「今後、我々の働き方はどうなっていくのか」「どう会社を変えていくのがよいのか」、ビジネスや働き方の変革につながる情報を得られる絶好の機会です。企業DXを主導される方をはじめ、多くのビジネスパーソンの方におすすめのイベントとなります。ぜひ専用サイトより、ご視聴ください。
-
-:::small
-(*)セッションによっては質疑応答がないものもございます。あらかじめ、ご了承下さい。
-:::
-
-## 視聴方法
-ご視聴には参加登録（無料）が必要です。
-登録したメールアドレスにてイベントサイトへログインいただくと、視聴が可能になります。
-
-:::button
-{target=“_blank”}
-:::
-
-## 登壇者紹介
-### 一般社団法人日本デジタルトランスフォーメーション推進協会　代表理事　森戸 裕一氏
-!
-
-### 株式会社 博報堂D Yホールディングス　執行役員 CAIO 兼 Human Centered AI Institute代表　森 正弥氏
-!
-
-### SF作家　樋口恭介氏
-!
-
-※その他の最新の講演・登壇情報はサイトよりご確認ください。
-
-
-## イベントスポンサー募集中！
-現在、開催の趣旨に賛同いただき、本イベントを一緒に盛り上げていただけるスポンサー企業様を募集しております。
-スポンサーシップに関する詳細やご興味をお持ちいただいた場合、より詳細のご説明を行わせていただきますので、お気軽にお問合せください。
-お問合せは{target=“_blank”}
-
-※スポンサー情報も随時更新中
-
-
-## イベント概要
-名称：DX &amp; Future Work 2024
-開催期間：2024年9月19日(木)〜9月20日(金)
-開催方式：オンラインLIVE配信
-サイト：{target=“_blank”}
-参加費用：無料（事前登録制）
-主催：株式会社レッジ</description><pubDate>Wed, 31 Jul 2024 01:24:41 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Wed, 31 Jul 2024 12:27:42 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
