@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 06 Aug 2024 08:45:34 +0000</lastBuildDate><item><title>米インターネット掲示板大手RedditのCEO「ブロックするのホントに面倒」と無断データ利用を批判　MicrosoftなどAI企業を名指し</title><link>https://ledge.ai/articles/reddit_huffman_it_has_been_a_real_pain_in_the_ass_to_block</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 07 Aug 2024 03:54:07 +0000</lastBuildDate><item><title>Stable Diffusionの元開発者たちがAI企業「Black Forest Labs」を設立し、新たにオープンソースの画像生成AI「Flux」を発表</title><link>https://ledge.ai/articles/black_forest_labs_announces_flux</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年8月1日、画像生成AI「Stable Diffusion」の開発に携わった研究者チームが、新たなAI企業「{target=“_blank”}」を設立し、オープンソースの画像生成AIモデル「Flux」を{target=“_blank”}した。
+
+Fluxは120億のパラメーターを持つ、現時点で最大規模のオープンソースの text-to-image モデルであり、これまでの業界標準を大きく超える性能を誇るという。
+
+Black Forest Labsは、Stable Diffusionに続き、テキストから高品質な画像を生成する技術において新たなマイルストーンを打ち立てた。Fluxは、ユーザーの様々なニーズに応えるため、以下の3つのバリエーションが用意されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+**1.FLUX.1 [dev]：** 基本モデルで、非商用ライセンスのもとオープンソースとして提供される
+**2. FLUX.1 [schnell]：** 基本モデルを10倍の速度で動作させる蒸留版。Apache 2ライセンスのもとで提供される
+**3. FLUX.1 [pro]：** API経由でのみ利用可能なクローズドソース版
+
+これらのモデルは、Hugging Faceやfal.aiといったプラットフォーム上で公開されており、ユーザーはこれらを自由に試すことができる。特にFLUX.1 [schnell]は、従来のモデルと比較して処理速度が2倍に向上しており、リアルタイムでの応用に適しているという。
+
+Black Forest Labsの発表によると、Fluxは解像度の向上や人間の解剖学的精度の改善、プロンプトに対する高い忠実性など、多くの点で他のモデルを凌駕している。特に、同社が強調しているのは、MidjourneyやDALL-E 3などの他の主要な画像生成AIモデルを上回るパフォーマンスを実現したという点だ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+今回の発表は、Black Forest LabsがAndreessen Horowitzをはじめとする著名な投資家から総額3100万ドルの資金調達に成功した直後に行われたものであり、同社の技術的なリーダーシップと市場への影響力を示すものとなっている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 07 Aug 2024 03:54:07 +0000</pubDate></item><item><title>米インターネット掲示板大手RedditのCEO「ブロックするのホントに面倒」と無断データ利用を批判　MicrosoftなどAI企業を名指し</title><link>https://ledge.ai/articles/reddit_huffman_it_has_been_a_real_pain_in_the_ass_to_block</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -467,31 +505,7 @@ Isaac Simは、仮想環境でのシミュレーションツールで、ロボ�
 :::box
 
 :::
-</description><pubDate>Thu, 01 Aug 2024 03:49:26 +0000</pubDate></item><item><title>Perplexity AI、パブリッシャー向け収益分配プログラムを発表</title><link>https://ledge.ai/articles/perplexity_publishers_program</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-AI検索エンジンを提供するPerplexity AIは2024年7月29日、パブリッシャーとの関係を強化するため、「Perplexity Publishers’ Program」を{target=“_blank”}した。このプログラムは、AIによる検索結果で使用されたコンテンツに対して、広告収入の一部をパブリッシャーに分配することを目的とするものだ。
-
-Perplexity AIは、ユーザーに高品質な回答を提供するために信頼できる情報源に依存しており、これまでにも検索結果に引用を含めることで、コンテンツ作成者に適切な評価を与える努力をしてきた。しかし、ForbesやCondé Nastといった大手メディアから、Perplexityが無断でコンテンツを使用しているとの批判を受け、より透明で公正な収益モデルの導入が求められていた。
-
-同プログラムでは、TIME、Der Spiegel、Fortune、The Texas Tribune、WordPress.comなど、著名なパブリッシャーが初期パートナーとして参加している。これは、Perplexityが検索結果や「関連質問」機能で広告収入を得た場合、その収益が該当コンテンツの提供者と分配される仕組みだ。また、パブリッシャーはPerplexityのAPIに無料でアクセスできるようになり、自社サイトにカスタムAI検索エンジンを導入することも可能となる。
-
-さらに、Perplexityはパートナーに対して、Perplexityの高度な機能を提供する「Enterprise Pro」サービスを1年間無料で提供するとのこと。このサービスには、データプライバシーやセキュリティの強化が含まれており、特に調査やファクトチェックを行う際に役立つとされている。
-
-同社CEOのアラヴィンド・シュリニヴァス氏は、「このプログラムは、すべての関係者のインセンティブを調整し、持続可能な成長を目指して設計された」と述べており、今後もパブリッシャーからのフィードバックを反映して、システムの改善を図るとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 31 Jul 2024 12:27:42 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Thu, 01 Aug 2024 03:49:26 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
