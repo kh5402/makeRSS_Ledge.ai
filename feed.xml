@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 07 Aug 2024 08:02:09 +0000</lastBuildDate><item><title>ペライチ、参考にしたいURLを入力するだけでAIがホームページを自動生成する新機能を発表</title><link>https://ledge.ai/articles/peraichi_create_assistant</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 08 Aug 2024 05:47:49 +0000</lastBuildDate><item><title>電通、コピーライターの思考プロセスを学習したAIツール「AICO2」とAI戦略「AI For Growth」を発表 – 人間とAIの協働</title><link>https://ledge.ai/articles/dentsu_japan_aico2_ai-for-growth</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+電通は2024年8月5日、次世代AI広告コピー生成ツール「{target=“_blank”}」を発表するとともに、新たなAI戦略「{target=“_blank”}」を公開した。
+## AI広告コピー生成ツール「AICO2」
+「AICO2」は、電通が長年培ってきたコピーライターの思考プロセスをAIに学習させ、心に響く広告コピーを自動生成するツールだという。ツールには、GPT-3.5 Turboモデルを実装。過去の膨大なコピー実績を基にファインチューニングしているとのこと。ユーザーが「伝えたいこと」や「商品名」を入力すると、それに基づいた高品質なコピーを生成し、その過程や理由も明示されるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「AICO2」には自動採点機能が搭載されており、質の高いコピーのみを出力することが可能だという。これにより、人間のコピーライターがより創造的な作業に集中できる環境が整う。同技術は特許出願中とのこと。
+
+## AI戦略「AI For Growth」
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同日発表された「AI For Growth」は電通グループの新たなAI戦略で、AIと人間の知識を組み合わせることで、顧客企業や社会全体の成長を目指すビジョンを掲げている。この戦略は、3つの主要レイヤーと8つの領域にわたる取り組みを含んでいるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+**1. クライアントサービス：**  マーケティング支援やプロダクト開発をAIで強化し、広告コピー生成ツール「AICO2」や生成AI活用ソリューション「∞AIシリーズ」を提供
+
+**2. AIアセット：**  データインフラの拡充、AI人材育成、技術研究を推進し、特に東京大学AIセンターとの共同研究が注目される
+
+**3. コーポレート機能：**  AIガバナンスの整備や組織運営の最適化を進め、AIを安全かつ効果的に活用するためのガイドラインを整備
+
+
+同戦略により、電通グループは単なるAIの効率化ツールとしてだけでなく、AIを人間の創造性を引き出すパートナーとして位置づけ、より高度なクリエイティビティと生産性の実現を目指すとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 08 Aug 2024 05:47:49 +0000</pubDate></item><item><title>ペライチ、参考にしたいURLを入力するだけでAIがホームページを自動生成する新機能を発表</title><link>https://ledge.ai/articles/peraichi_create_assistant</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -462,44 +506,7 @@ Metaが、顔認識技術を用いてテキサス州民の個人情報を違法�
 
 :::
 
-</description><pubDate>Mon, 05 Aug 2024 02:58:54 +0000</pubDate></item><item><title>トレンドマイクロ、生成AIのサイバー攻撃と情報漏洩を防ぐ新ソリューション提供開始</title><link>https://ledge.ai/articles/trendmicro_trendvisionone</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-
-トレンドマイクロは2024年8月1日、企業が利用する生成AIのセキュリティを強化する新たなサービス「Trend Vision One - Zero Trust Secure Access - AI Service Access」を{target=“_blank”}した。
-
-このサービスは、企業が独自に構築する生成AI環境や「ChatGPT」「Microsoft Copilot」「Google Gemini」などの外部生成AIサービスを利用する際に生じるセキュリティリスクを低減することを目的としている。
-
-同社の発表によれば、このサービスはゼロトラストアーキテクチャに基づいて設計されており、リアルタイム監視やアクセス制御を通じてデータの不正利用や漏洩を防ぐ。これにより、企業は生成AIの導入や活用を安心して進めることができる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-さらに、トレンドマイクロはAIを活用したセキュリティソリューションの強化にも取り組んでおり、生成AIを悪用したサイバー攻撃から企業を保護するための技術を提供していくという。これには、AIを用いた脅威検出や対応の迅速化を図る「Trend Vision One Companion」のようなツールも含まれている。
-
-下図は、プロンプトフィルタリング（ChatGPTに入力したプロンプトに個人情報が含まれていた場合のブロック例）
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 04 Aug 2024 12:23:40 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
+</description><pubDate>Mon, 05 Aug 2024 02:58:54 +0000</pubDate></item><item><title>「短期開発したAI VTuberに大きな反響」エンジニアから42 Tokyo発の起業家へ　42Tokyo特別インタビュー【第5回】第1期生　福山 裕介さん</title><link>https://ledge.ai/articles/42tokyo-5</link><description>:::box
 **昨今のリスキリングブームの中、ITやAIのスキルを身に付けたいと思うビジネスパーソンや大学生は数多くいる。また、簡単なプログラミングをマスターするだけなら過去10数年で見違えるほどハードルが下がった。しかし、それは参入障壁も下がったということであり、陳腐化しない本質的な技術を学ぶことは依然として難しい。**
 
 **では、どういった良質の選択肢があるのか？独自のカリキュラムでこの難題に挑戦する学校がある。フランス・パリ発のエンジニア養成機関「42（フォーティートゥー）」の東京校である、42 Tokyoだ。なんと学費は無料だ。「挑戦したいすべての人に質の高い教育を。」をコンセプトに、実践的なカリキュラムと学習方法で、”即戦力” となるエンジニアを育成し、現在世界31ヵ国で展開されている。東京校は2020年6月に開校。**
