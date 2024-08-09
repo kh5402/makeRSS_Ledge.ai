@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 08 Aug 2024 05:52:34 +0000</lastBuildDate><item><title>電通、コピーライターの思考プロセスを学習したAIツール「AICO2」とAI戦略「AI For Growth」を発表 – 人間とAIの協働</title><link>https://ledge.ai/articles/dentsu_japan_aico2_ai-for-growth</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 08 Aug 2024 06:35:11 +0000</lastBuildDate><item><title>電通、コピーライターの思考プロセスを学習したAIツール「AICO2」とAI戦略「AI For Growth」を発表 – 人間とAIの協働</title><link>https://ledge.ai/articles/dentsu_japan_aico2_ai-for-growth</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2370,7 +2370,49 @@ SNSでは、「これは読むべき！」「経産省の本気を見た」な�
 :::box
 
 :::
-</description><pubDate>Mon, 22 Jul 2024 11:35:56 +0000</pubDate></item><item><title>パリ五輪2024、カナダ女子サッカー代表がドローンによるスパイ行為で波紋</title><link>https://ledge.ai/articles/coc-statement_on_canada_soccer</link><description>:::small
+</description><pubDate>Mon, 22 Jul 2024 11:35:56 +0000</pubDate></item><item><title>SunoとUdio、RIAAからの著作権訴訟に反論：「音楽の未来はフェアユースの中にある」</title><link>https://ledge.ai/articles/suno_and_udio_respond_to_copyright_lawsuit</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年8月1日、AI音楽生成企業の Suno と Udio が、6月に提起された著作権侵害訴訟に対し正式に反論を展開したと{target=“_blank”}が報じた。両社は、AIが生成する音楽がフェアユースに該当し、訴訟は音楽業界が新技術を抑制しようとする動きであると主張している。
+
+ソニー・ミュージックエンタテインメント、ワーナー・レコード、ユニバーサルミュージックグループの3大レコード会社が6月、アメリカレコード協会（RIAA）を介して、AI音楽生成企業のSunoとUdioを著作権侵害で{target=“_blank”}。この訴訟は、SunoとUdioが著作権で保護された楽曲を無断でコピーし、それをAIモデルのトレーニングに使用していると主張している。
+## 訴訟の背景と主張
+訴状によれば、SunoとUdioはAI技術を用いて生成された音楽が、オリジナルの楽曲と直接競合し、その価値を下げると非難されている。RIAAの最高法務責任者であるケン・ドロショウ氏は、このケースを「著作権侵害の典型例」と位置付け、AI企業が法律を守らずに利益を得ようとしていると批判している。
+
+これに対し、SunoとUdioは、両社のAI技術が生成する音楽はフェアユースの範囲内であり、著作権侵害には当たらないと主張している。特に、彼らはAIが既存の楽曲を使用して新しい作品を創り出すプロセスが「人間の創造性を促進する」ものであり、著作権法の下で許容されるべきだと強調した。
+
+Sunoはさらに、レコード会社がAI技術に対して誤解を抱いているとし、同社の技術は既存の音楽スタイルやパターンを学習し、それを基に新しい楽曲を創作するプロセスであると説明した。これを、人間が音楽を学び、作曲する方法と比較し、AIも同様に創造的であり、単なる模倣ではないと主張している。また、彼らの技術はオープンインターネット上で公開されている楽曲から学習しており、他のAI技術と同様の手法であると付け加えている。
+
+さらに、Sunoはこの訴訟を「事実と法律の両方で根本的に欠陥がある」とし、音楽業界が過去に新技術に対して取ってきた制限的なアプローチの一環であると非難している。同社は、音楽業界が競争を阻害するのではなく、共に新たなビジネス機会を模索するべきだと強調した。
+
+## 音楽の未来
+Sunoは8月1日にブログ記事「{target=“_blank”}」を公開し、同社の技術が音楽の創造を民主化し、より多くの人々に音楽創作の機会を提供することを目指していると説明した。Sunoは、すでに1200万人以上がこの技術を利用し、新しい形で音楽を楽しんでいると強調している。
+
+Udioもまた、AIによる音楽生成が合法であると主張し、既存の音源を分析して新しい創作を行うことはフェアユースの典型であると訴えている。
+
+両社は、レコード会社が市場シェアを守るために新技術を抑制しようとしているとし、この訴訟が競争を阻害するものであると反論している。
+
+## RIAAのさらなる反論
+しかし、RIAAは8月2日にX（旧Twitter）に投稿した声明で、SunoとUdioの反論に対してさらに強く反撃した。RIAAは、SunoとUdioがアーティストの楽曲を無断で大規模にコピーし、その価値を搾取していると批判し、これを「フェアユース」として正当化することはできないと強調している。また、Sunoの共同創設者がプラットフォームのデモで「Hendrix」というプロンプトを使用していたことを例に挙げ、Sunoの主張する「独自性の奨励」に対する疑念を示している 。
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 08 Aug 2024 06:35:11 +0000</pubDate></item><item><title>パリ五輪2024、カナダ女子サッカー代表がドローンによるスパイ行為で波紋</title><link>https://ledge.ai/articles/coc-statement_on_canada_soccer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2713,39 +2755,4 @@ Google DeepMindは、責任あるAI技術の開発を重視し、クリエイテ
 :::box
 
 :::
-</description><pubDate>Fri, 28 Jun 2024 12:32:10 +0000</pubDate></item><item><title>AI音楽生成サービスSunoとUdioを著作権侵害で提訴　ユニバーサル、ソニー、ワーナー含む大手音楽企業</title><link>https://ledge.ai/articles/suno_and_udio_sued_for_copyright_infringement</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-米国の主要レコード会社であるユニバーサルミュージック（UMG）、ソニー、ワーナーを含む複数の企業が、AI音楽生成サービス「Suno」と「Udio」に対し、著作権侵害を理由に{target=“_blank”}。
-
-RIAA（アメリカレコード協会）が2024年6月24日、ニューヨーク南部地区連邦地方裁判所およびマサチューセッツ地区連邦地方裁判所にそれぞれ提出した訴状によると、SunoとUdioは、著作権で保護されたサウンドレコーディングを無断でコピーし、自社のAIモデルのトレーニングに利用したという。その生成物が市場に流通しているとされ、複数のジャンルや時代のアーティストの録音が侵害対象となっているとのこと。
-
-訴訟では、以下の3点を求めている。
-- サービスが原告の著作権を侵害したことの宣言
-- 将来的な著作権侵害を防ぐための差し止め命令
-- 既存の侵害に対する損害賠償
-
-## 訴訟の概要
-この訴訟は、AI技術が進化し音楽制作の分野においても大きな影響を及ぼしている中、著作権の保護がいかに重要かを問うものである。原告側は、AIサービスが著作権で保護された楽曲を無断で使用し、生成された音楽ファイルが元の作品と酷似していると主張している （下図参照：訴状より）
-
-!
-:::small
-画像は訴状より：Udioの生成した曲（上）が、マライアキャリー氏の楽曲（下）に酷似している例。譜面の赤い音符が一致している
-:::
-
-RIAAの最高法務責任者であるケン・ドロショウ氏も、「これらのケースは、大規模な著作権侵害に関する単純な事例です。SunoとUdioは、自社のサービスを合法かつ健全な基盤に乗せる代わりに、侵害の全貌を隠そうとしています。この訴訟は、AIシステムの責任ある開発を促進し、SunoとUdioの侵害行為を終わらせるために必要なものです」とコメントしている。
-
-これに対しUdioは6月26日、X（旧Twitter）に{target=“_blank”}し、AI技術の使用に著作権で保護された作品を再現する意図はないと主張した。また、著作権侵害を防ぐためのフィルターを実装していると述べている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 26 Jun 2024 04:14:21 +0000</pubDate></item></channel></rss>
+</description><pubDate>Fri, 28 Jun 2024 12:32:10 +0000</pubDate></item></channel></rss>
