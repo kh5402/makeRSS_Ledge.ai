@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 08 Aug 2024 05:47:49 +0000</lastBuildDate><item><title>電通、コピーライターの思考プロセスを学習したAIツール「AICO2」とAI戦略「AI For Growth」を発表 – 人間とAIの協働</title><link>https://ledge.ai/articles/dentsu_japan_aico2_ai-for-growth</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 08 Aug 2024 05:52:34 +0000</lastBuildDate><item><title>電通、コピーライターの思考プロセスを学習したAIツール「AICO2」とAI戦略「AI For Growth」を発表 – 人間とAIの協働</title><link>https://ledge.ai/articles/dentsu_japan_aico2_ai-for-growth</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1602,7 +1602,50 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>Google DeepMindが国際数学オリンピックで銀メダルレベルのスコアを達成するAI「AlphaProof」「AlphaGeometry 2」を発表</title><link>https://ledge.ai/articles/google_deepmind_alpha-geometry2_alpha-proof</link><description>:::small
+</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>「RAG」と「ロングコンテキストLLM」の徹底比較：LLMの長文理解における新たなハイブリッドアプローチ　Google DeepMindとミシガン大学の研究</title><link>https://ledge.ai/articles/google_deepmind_lc-vs-rag</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年7月、Google DeepMindとミシガン大学の研究者たちは、LLM（大規模言語モデル）の長文理解における2つの主要なアプローチ「Retrieval Augmented Generation（RAG）」と「ロングコンテキストLLM（LC）」の性能を包括的に比較した論文を{target=“_blank”}した。
+
+この研究は、LLMの長文処理能力に関する重要な知見を提供するとともに、コスト効率を最大限に引き出す新たなハイブリッド手法「SELF-ROUTE」を提案している。
+## 研究の背景と目的
+従来、RAGは長文処理の際に、外部データベースから関連情報を検索し、それを元に回答を生成する手法として注目されていた。この方法は、必要な情報のみを抽出するため、計算コストが抑えられるという利点がある。一方で、Googleの「Gemini-1.5-Pro」やOpenAIの「GPT-4O」といった最新のLLMは、膨大なトークン数にわたる文脈を直接処理し、高い性能を発揮することが可能になっている。
+
+同研究の目的は、これら2つのアプローチを直接比較し、それぞれの利点と欠点を明らかにすること、そして、両者の長所を組み合わせた新たな手法「SELF-ROUTE」を提案することだという。研究では、長文理解における効率性と性能の両立を目指すとした。
+## 主要な発見
+### パフォーマンスの比較
+LLMを用いた複数の公開データセットにおいて、RAGとLCを徹底的に比較した結果、リソースが十分に確保されている場合、LCがRAGを全体的に上回る性能を示したという。ただし、RAGは特に入力テキストがモデルのコンテキストウィンドウサイズを大幅に超える場合において、依然として有効であることが確認された。
+
+下図は、3つの最新のLLMを用いてRAGとLCの性能を比較したもので、LCがRAGに比べて優れたパフォーマンスを示すことを視覚的に表している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+### コスト効率
+LCは高い性能を発揮するものの、その計算コストはトークン数に比例して急激に増加する。一方、RAGは必要な情報のみを取得するため、コスト効率が非常に高い。このため、タスクによっては、RAGがLCに匹敵する性能を、はるかに低コストで達成できることが示された。
+### ハイブリッド手法「SELF-ROUTE」
+研究者たちは、RAGとLCの長所を組み合わせることで、コストを削減しながらもLCに匹敵する性能を実現するハイブリッド手法「SELF-ROUTE」を提案した。この手法は、最初にRAGを用いてクエリに回答可能かどうかを判断し、必要に応じてLCを適用するという2段階のプロセスを採用している。この結果、全体の計算コストを最大65%削減しつつ、LCに近い性能を維持できることが明らかになった。
+
+下図は、RAGとLCが生成する予測がどれほど一致するかを示しており、SELF-ROUTEがいかにして効率的にRAGとLCを組み合わせるかを視覚的に説明したもの
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+研究者たちは、同研究がロングコンテキスト LLM の実用化に貴重な洞察をもたらし、RAG 技術の最適化に関する将来の研究への道を開くものと考えていると期待を述べた。
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 08 Aug 2024 05:52:34 +0000</pubDate></item><item><title>Google DeepMindが国際数学オリンピックで銀メダルレベルのスコアを達成するAI「AlphaProof」「AlphaGeometry 2」を発表</title><link>https://ledge.ai/articles/google_deepmind_alpha-geometry2_alpha-proof</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1978,40 +2021,7 @@ NICTのユニバーサルコミュニケーション研究所では、言語の�
 
 :::
 
-</description><pubDate>Mon, 15 Jul 2024 14:08:36 +0000</pubDate></item><item><title>10億のペルソナで合成データを生成、LLM開発に新たな可能性</title><link>https://ledge.ai/articles/tencent_ai_lab_persona_hub</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-中国Tencentの研究チームは2024年6月28日、新しいペルソナ駆動型データ合成手法を{target=“_blank”}した。論文「Scaling Synthetic Data Creation with 1,000,000,000 Personas」では、10億の多様なペルソナを活用し、大規模な合成データを生成する「Persona Hub」の構築とその応用について詳述されている。
-## Persona Hubの概要
-「Persona Hub」は、ウェブデータから自動的に収集された10億の多様なペルソナで構成されている。これにより、LLMは多くの視点や知識を反映したデータを生成できる。このペルソナは、MinHash法と埋め込みベースの手法を用いて重複を排除し、多様性を維持しているという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## ペルソナ駆動型データ合成手法
-この手法は、データ合成プロンプトにペルソナを統合することで、LLMにそのペルソナの視点を持たせ、データを生成するもので、以下３つのプロンプト方法が提案されている：
-
-- **ゼロショットプロンプト:**  既存の例を使用せず、LLMの創造性を活かす
-- **フューショットプロンプト:** いくつかのデモを提供して要件を満たすデータを合成する
-- **ペルソナ強化フューショットプロンプト:** デモごとに対応するペルソナを派生させ、データ合成能力を向上させる
-## 実験結果と応用
-ペルソナ駆動型手法の有効性は、数学や論理的思考の問題作成、ユーザーインストラクションプロンプト、知識豊富なテキスト、ゲームのNPC（ノンプレイヤーキャラクター）、ツールや関数の開発といった多様なシナリオで実証された。具体的には、数学の問題生成では、ペルソナを追加することで、そのペルソナに関連するコンテキストで問題が作成されることが確認されたという。また、プロフェッショナルなペルソナを用いることで、より深い理解を必要とする高度な問題も生成可能とのこと。
-
-このペルソナ駆動型データ合成手法は、LLMの多様な視点と知識を活用し、スケーラブルかつ多様な合成データを生成する手法であると研究者は述べる。これにより、LLMのトレーニングやテストに必要なデータの作成が大幅に効率化され、研究や開発において大きな影響を与えることが期待されるという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sun, 14 Jul 2024 13:14:09 +0000</pubDate></item><item><title>文化庁が「AI著作権チェックリスト＆ガイダンス」を公開—AI時代の著作権リスク対策を強化</title><link>https://ledge.ai/articles/bunkacho_ai_copyright_checklist_and_guidance</link><description>:::small
+</description><pubDate>Mon, 15 Jul 2024 14:08:36 +0000</pubDate></item><item><title>文化庁が「AI著作権チェックリスト＆ガイダンス」を公開—AI時代の著作権リスク対策を強化</title><link>https://ledge.ai/articles/bunkacho_ai_copyright_checklist_and_guidance</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
