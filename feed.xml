@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 09 Aug 2024 07:12:06 +0000</lastBuildDate><item><title>JAPAN AI　マーケティング特化型AI「JAPAN AI MARKETING(™)」の日本人画像生成機能を正式版にアップデート</title><link>https://ledge.ai/articles/japan_ai_marketing_official_ver_release</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 09 Aug 2024 07:16:32 +0000</lastBuildDate><item><title>JAPAN AI　マーケティング特化型AI「JAPAN AI MARKETING(™)」の日本人画像生成機能を正式版にアップデート</title><link>https://ledge.ai/articles/japan_ai_marketing_official_ver_release</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2009,7 +2009,27 @@ NICTのユニバーサルコミュニケーション研究所では、言語の�
 
 :::
 
-</description><pubDate>Mon, 15 Jul 2024 14:08:36 +0000</pubDate></item><item><title>文化庁が「AI著作権チェックリスト＆ガイダンス」を公開—AI時代の著作権リスク対策を強化</title><link>https://ledge.ai/articles/bunkacho_ai_copyright_checklist_and_guidance</link><description>:::small
+</description><pubDate>Mon, 15 Jul 2024 14:08:36 +0000</pubDate></item><item><title>アルゼンチン　リアル『マイノリティ・リポート』！　AIによる未来の犯罪を予測するユニットが設立される</title><link>https://ledge.ai/articles/argentina_plans_unit_to_predict_crime_with_ai</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+アルゼンチンのハビエル・ミレイ大統領は2024年7月29日、新たに「治安対策に応用された人工知能ユニット（UIAAS）」を設立する計画を{target=“_blank”}した。このユニットは、国内のサイバー犯罪・サイバー問題局の傘下に設置され、AIを活用して犯罪を予測し、未然に防ぐことが目的だという。
+
+UIAASの主な機能は、過去の犯罪データを機械学習アルゴリズムで解析し、将来の犯罪を予測すること。さらに、リアルタイムで防犯カメラの映像を分析し、不審者や指名手配犯を検出するほか、ソーシャルメディアの監視、ドローンによる空中監視、サイバー攻撃への対応など、様々な先端技術を用いる​とのこと。
+
+同ユニットの設立に対しては、プライバシーの侵害や表現の自由への影響などの懸念の声が上がっているという。特に監視技術の濫用が自己検閲を促し、市民の自由な発言を抑制する可能性が指摘されている。また、ブエノスアイレス市で過去に導入された{target=“_blank”}が誤認逮捕やデータの違法収集を引き起こしたことから、同様のリスクがあると批判する声もあるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 09 Aug 2024 07:16:32 +0000</pubDate></item><item><title>文化庁が「AI著作権チェックリスト＆ガイダンス」を公開—AI時代の著作権リスク対策を強化</title><link>https://ledge.ai/articles/bunkacho_ai_copyright_checklist_and_guidance</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2312,53 +2332,7 @@ IEAの「電力半期更新」報告によると、2024年の世界の電力需�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jul 2024 07:48:24 +0000</pubDate></item><item><title>これは読むべき！経産省発表の音楽産業のビジネスモデルに関するレポートが興味深い　生成AIによる楽曲制作が業界に与える影響についての分析にも注目</title><link>https://ledge.ai/articles/meti_musicindustry_2024report</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月17日、経済産業省は「音楽産業の新たな時代に即したビジネスモデルの在り方に関する報告書」を{target=“_blank”}した。この報告書は、ストリーミング時代を迎えて大きく変化する音楽産業について、定量的な分析や新たなトレンドの可視化を目的とし、各種調査の結果を基に作成されたものだ。
-
-SNSでは、「これは読むべき！」「経産省の本気を見た」などの高評価を得ており、評判となっている。また、音楽業界のみならず、他の業界にも応用可能なビジネスモデルの洞察を提供しているとの声も高い。
-## SNSとストリーミングの影響
-報告書では、SNSとストリーミングの普及が音楽の消費行動に与える影響を強調している。YOASOBIの「アイドル」やHoneyWorksの「可愛くてごめん」など、SNSでのバズが音楽ヒットに繋がっている具体例が挙げられている。ユーザー生成コンテンツ（UGC）の増加が他のアーティストやインフルエンサーによる発信につながり、さらなる人気を博していることが示されている。
-
-下図：YOASOBIの「アイドル」に関連する公式動画とユーザー生成動画の視聴回数を示したもの。UGCが公式コンテンツ以上に多くの視聴を集めていることを示しており、SNSや動画プラットフォームでのバズの重要性を示唆している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-## ボカロPとデジタルマーケティング
-ボーカロイドを活用した音楽制作の普及により、SNSや動画配信プラットフォームを駆使するボカロP出身のアーティストがデジタルマーケティングに秀で、海外でも人気を得ているという。代表例としてYOASOBIや米津玄師氏が挙げられ、デジタル時代の新たな音楽ビジネスモデルが形成されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-## ヒットの事例にみられる要因
-報告書では、SNSバズやバイラルによる成功法則の多様性を説明し、ヒット曲が生まれる要因には、特に二次創作の促進がバズの機会を創出することを強調している。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-その他にも、報告書では、生成AIによる楽曲制作が音楽業界に与える影響についての分析や、諸外国において日本の音楽がどのように受容されているかについても触れている。
-
-この報告書の洞察は音楽業界に限らず、他の業界にも応用可能な示唆を含んでいる。デジタルマーケティングの重要性やUGCの効果的な活用、グローバル市場への展開戦略など、多くのビジネスに共通する課題と解決策が示されている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 22 Jul 2024 11:35:56 +0000</pubDate></item><item><title>SunoとUdio、RIAAからの著作権訴訟に反論：「音楽の未来はフェアユースの中にある」</title><link>https://ledge.ai/articles/suno_and_udio_respond_to_copyright_lawsuit</link><description>:::small
+</description><pubDate>Tue, 23 Jul 2024 07:48:24 +0000</pubDate></item><item><title>SunoとUdio、RIAAからの著作権訴訟に反論：「音楽の未来はフェアユースの中にある」</title><link>https://ledge.ai/articles/suno_and_udio_respond_to_copyright_lawsuit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
