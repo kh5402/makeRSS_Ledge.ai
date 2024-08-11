@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 09 Aug 2024 12:12:07 +0000</lastBuildDate><item><title>OpenAIと提携のFigure、新型ヒューマノイドロボット「Figure 02」を発表—　BMWとの自動車製造の実用化に向けたテストにも成功</title><link>https://ledge.ai/articles/figure02</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 10 Aug 2024 07:07:41 +0000</lastBuildDate><item><title>OpenAIと提携のFigure、新型ヒューマノイドロボット「Figure 02」を発表—　BMWとの自動車製造の実用化に向けたテストにも成功</title><link>https://ledge.ai/articles/figure02</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1521,7 +1521,52 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>「RAG」と「ロングコンテキストLLM」の徹底比較：LLMの長文理解における新たなハイブリッドアプローチ　Google DeepMindとミシガン大学の研究</title><link>https://ledge.ai/articles/google_deepmind_lc-vs-rag</link><description>:::small
+</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>Apple、AIエージェント評価の新ベンチマーク「MMAU」を開発：様々な能力を網羅的に評価する</title><link>https://ledge.ai/articles/apple_mmau</link><description>:::small
+画像の出典：DALL-3によりLedge.aiが生成
+:::
+
+Appleの研究グループは2024年7月18日、大規模言語モデル（LLM）エージェントの評価に特化した新しいベンチマーク「MMAU（Massive Multitask Agent Understanding）」を{target=“_blank”}した。MMAUは、LLMエージェントの能力を多角的に評価することを目的とし、特に「理解」「推論」「計画」「問題解決」「自己修正」という5つの本質的な能力を、5つの異なる領域で評価する初の試みだという。
+
+これまでのベンチマークでは、特定のアプリケーションやタスク完了率に重点を置き、エージェントが持つ根本的な能力を正確に評価することが難しかった。しかし、MMAUは、複数の領域にわたるタスクを通じて、エージェントの能力を詳細に分析できるよう設計されている。
+
+## 5つの領域と能力評価の概要
+MMAUは、ツールの使用、有向非巡回グラフ（DAG）を用いた質問応答、データサイエンスと機械学習のコーディング、コンテストレベルのプログラミング、数学の5つの領域において、エージェントを評価する。これらの領域で評価される5つの能力とは、理解力、推論力、計画力、問題解決能力、そして自己修正能力である。
+
+例えば、「ツールの使用」領域では、エージェントが複数のツールを適切に活用できるかを評価する。一方、DAGを用いた質問応答では、複雑な依存関係を理解し、それに基づいて正しいツールの順序を選択できるかを試す。また、データサイエンスと機械学習のコーディングでは、Pythonコードを生成し、問題解決に役立てる能力が問われる。
+
+下図は、各領域における代表的なモデルのパフォーマンス比較を示す。エージェントの全体的な性能を視覚的に理解するためのもので、複数のモデルがどの領域で優れているかを一目で把握できるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## 新たな評価手法の導入
+MMAUの特徴として、評価手法の多様性が挙げられる。従来の評価がタスクの完了に焦点を当てていたのに対し、MMAUはエージェントがタスクをどのように解決したのか、その過程を評価する。例えば、「プランナーシフト」と呼ばれるタスクでは、問題解決の戦略を立てる計画力を評価し、その戦略に基づいてタスクを解決する過程での推論力を評価するという。
+
+さらに、MMAUは3,000を超えるプロンプトを使用し、64の異なるサブジェクトにわたるタスクを提供する。このデータセットは、ツールの使用やコーディングタスクなど多岐にわたり、LLMエージェントの能力を網羅的に評価するためのものとなる。
+
+下図は、MMAUの全体的な構造と評価フレームワークを示し、エージェントの評価プロセスがどのように進行するかを詳細に説明している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## MMAUの評価結果と今後の展望
+Appleは、MMAUを用いて18種類のモデルを評価し、その結果を詳細に分析している。結果として、モデルごとに異なる能力が明らかになり、特に自己修正能力において大きな性能差が見られたという。また、高度な推論や計画力が要求されるタスクでは、モデル間のパフォーマンスの差が顕著であり、これがLLMエージェントの今後の改善ポイントとなることが示唆されるとのこと。
+
+今後、MMAUはLLMエージェントの評価において重要な基準となり、エージェントの性能向上や新しいアプリケーションの開発に寄与することが期待されている。AppleはMMAUを公開し、評価スクリプトとデータセットを提供することで、AIコミュニティ全体に向けた新たな標準を設定しようとしているという。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 10 Aug 2024 07:07:41 +0000</pubDate></item><item><title>「RAG」と「ロングコンテキストLLM」の徹底比較：LLMの長文理解における新たなハイブリッドアプローチ　Google DeepMindとミシガン大学の研究</title><link>https://ledge.ai/articles/google_deepmind_lc-vs-rag</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -1907,40 +1952,7 @@ Mobility VLAと呼ばれるナビゲーションポリシーは、長大なコ�
 :::box
 
 :::
-</description><pubDate>Thu, 18 Jul 2024 05:32:50 +0000</pubDate></item><item><title>スマホ上でも高速動作可能　NICTが21言語対応のニューラル音声合成技術を開発</title><link>https://ledge.ai/articles/nict_mobile_presen_tra</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-国立研究開発法人情報通信研究機構（NICT）は2024年6月25日、ユニバーサルコミュニケーション研究所において、21言語に対応した高品質なニューラル音声合成技術開発に成功したことを{target=“_blank”}した。
-
-この技術により、CPUコア一つで1秒の音声をわずか0.1秒で高速合成することが可能となり、従来モデルの約8倍の速さを実現した。また、ネットワークに接続されていないミドルレンジスマートフォン上でも、テキスト入力からわずか0.5秒で音声を生成できるという。
-
-@
-
-
-この新技術は、NICTが運用するスマートフォン用多言語音声翻訳アプリ「{target=“_blank”}」のサーバに搭載され、既に一般公開されている。今後は、商用ライセンスを通じて多言語音声翻訳やカーナビなど、様々な音声アプリケーションへの導入が期待される。
-
-## 開発の背景
-NICTのユニバーサルコミュニケーション研究所では、言語の壁を超えた音声コミュニケーションを実現するため、多言語音声翻訳技術の研究開発を{target=“_blank”}。特にテキスト音声合成技術は、音声認識や機械翻訳と同様に、多言語音声翻訳の実現に不可欠な技術である。従来の音声合成技術では、ネットワークに接続されていないスマートフォン上での合成が困難だったが、今回の開発によりその課題が解決されたとのこと。
-
-## 技術の詳細
-この技術は、入力テキストを中間特徴量へ変換する「音響モデル」と、中間特徴量を音声波形へ変換する「波形生成モデル」から成り立っている。「音響モデル」には、高速・高性能なConvNeXt型エンコーダとデコーダが使用されており、従来のTransformer型モデルに比べて3倍の高速化を実現。また、「波形生成モデル」には改良型のMS-FC-HiFi-GANが導入され、合成速度を4倍に引き上げているという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Mon, 15 Jul 2024 14:08:36 +0000</pubDate></item><item><title>アルゼンチン　リアル『マイノリティ・リポート』！　AIによる未来の犯罪を予測するユニットが設立される</title><link>https://ledge.ai/articles/argentina_plans_unit_to_predict_crime_with_ai</link><description>:::small
+</description><pubDate>Thu, 18 Jul 2024 05:32:50 +0000</pubDate></item><item><title>アルゼンチン　リアル『マイノリティ・リポート』！　AIによる未来の犯罪を予測するユニットが設立される</title><link>https://ledge.ai/articles/argentina_plans_unit_to_predict_crime_with_ai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
