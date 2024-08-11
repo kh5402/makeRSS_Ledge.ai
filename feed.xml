@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 09 Aug 2024 12:12:07 +0000</lastBuildDate><item><title>世界初 AI駆動の全自動ロボット歯科医による虫歯治療が成功ーーボストンのPerceptive社</title><link>https://ledge.ai/articles/perceptive_automated_robotic_dentist</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 09 Aug 2024 12:12:07 +0000</lastBuildDate><item><title>OpenAIと提携のFigure、新型ヒューマノイドロボット「Figure 02」を発表—　BMWとの自動車製造の実用化に向けたテストにも成功</title><link>https://ledge.ai/articles/figure02</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+カリフォルニアを拠点とするロボット開発企業 Figureは2024年8月6日、最新のヒューマノイドロボット「Figure 02」を{target=“_blank”}した。前モデル「Figure 01」と比較して大幅な技術的進化を遂げており、特にAI性能と自律作業能力が強化されているという。
+## Figure 02の技術的進化と設計
+Figure 02は、NVIDIAの最先端GPU技術を活用し、リアルタイムでのAI推論を可能にする3倍の計算能力を搭載している。これにより、製造業や物流などの現場で、複雑なタスクを完全自律的に実行できるようになった。ロボットには6台のRGBカメラと改良された人間型の手が搭載されており、16の自由度を持つ手は、最大25kgまでの重量物を精密に操作可能とのこと。
+
+さらに、Figure 02にはOpenAIとの提携により、人間と自然な会話が可能な音声認識システムが組み込まれている。この機能は、労働力不足が深刻化する産業界で特に期待されており、Figureは今後、消費者向けバージョンの開発も視野に入れている。
+
+@
+
+
+
+## BMWとの実用化テスト
+{target=“_blank”}は、サウスカロライナ州スパータンバーグの工場で、Figure 02を用いたテストを実施した。このテストでは、ロボットが車体の組み立て工程で金属パーツを正確に配置することに成功し、製造ラインでの実用性が確認できたという。
+
+BMWの生産担当役員であるミラン・ネデリコビッチ氏は、「我々は早期テストを通じて、ヒューマノイドロボットの製造業への応用可能性を評価している」とコメントしており、今後の技術開発と産業化に向けた取り組みを強化していく方針を示した。
+
+
+Figure 02は、単なる試作機を超えた商業利用可能なヒューマノイドロボットとして、製造業や物流業界など多岐にわたる分野での実用化が期待されている。Figure社は引き続き技術開発を進め、労働力不足の解消と産業の効率化に向けたソリューションを提供することを目指している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 09 Aug 2024 08:09:08 +0000</pubDate></item><item><title>世界初 AI駆動の全自動ロボット歯科医による虫歯治療が成功ーーボストンのPerceptive社</title><link>https://ledge.ai/articles/perceptive_automated_robotic_dentist</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -391,29 +424,7 @@ Googleは当初、この広告を擁護し、「Team USAを祝う真実のスト
 :::box
 
 :::
-</description><pubDate>Tue, 06 Aug 2024 06:46:27 +0000</pubDate></item><item><title>Meta　顔認識技術による個人情報収集問題でテキサス州と単一州では過去最多の約2,100億円で和解</title><link>https://ledge.ai/articles/meta_settles_face_recognition_lawsuit_for_1-4billion-usd</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-Metaが、顔認識技術を用いてテキサス州民の個人情報を違法に収集していた問題で、同社がテキサス州との訴訟で14億ドル（約2100億円）を支払うことで和解したことが、2024年7月30日に{target=“_blank”}なった。これは、単一の州による訴訟で得られた和解金額としては過去最大であり、プライバシー関連の訴訟においても過去最大のものだという。
-
-この訴訟は、2022年にテキサス州司法長官のケン・パクストン氏が提起したもので、Metaがユーザーの同意を得ることなく、フェイスブック上に投稿された写真の顔データを自動的に収集し、保存していたことが問題視された。具体的には、2011年に導入された「タグ提案」機能が、ユーザーの顔認識データを無断で収集していたとされている。この機能は2021年に停止され、収集されたデータは削除された。
-
-パクストン氏はこの和解に際し、「この歴史的な和解は、世界最大のテクノロジー企業に対して、法を破りテキサス州民のプライバシー権を侵害した責任を追及する我々の決意を示すものだ」と述べ、今回の和解が州民のプライバシー権保護において重要な一歩であることを強調した。
-
-一方でMetaは法的責任を認めていないが、和解金の支払いに加え、今後テキサス州のバイオメトリックデータ関連法に基づく活動について同州当局と協議することにも合意したという。同社はさらに、テキサス州でのデータセンター建設を含む投資拡大の機会を探る意向を示しているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 05 Aug 2024 03:15:17 +0000</pubDate></item><item><title>夏だ！レジャーの後は「学びの夏」もいかが？ー スタンフォード大学で提供中の無料講座をご紹介</title><link>https://ledge.ai/articles/learning_stanford_2024summer</link><description>:::small
+</description><pubDate>Tue, 06 Aug 2024 06:46:27 +0000</pubDate></item><item><title>夏だ！レジャーの後は「学びの夏」もいかが？ー スタンフォード大学で提供中の無料講座をご紹介</title><link>https://ledge.ai/articles/learning_stanford_2024summer</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
