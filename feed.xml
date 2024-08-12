@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 10 Aug 2024 07:15:52 +0000</lastBuildDate><item><title>NVIDIA、状況に応じて正確な応答を提供するデジタルヒューマン「James」をSIGGRAPH 2024で公開</title><link>https://ledge.ai/articles/nvidia_previewed_digitalhuman_james</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 11 Aug 2024 07:49:52 +0000</lastBuildDate><item><title>NVIDIA、状況に応じて正確な応答を提供するデジタルヒューマン「James」をSIGGRAPH 2024で公開</title><link>https://ledge.ai/articles/nvidia_previewed_digitalhuman_james</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1529,7 +1529,35 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>Apple、AIエージェント評価の新ベンチマーク「MMAU」を開発：様々な能力を網羅的に評価する</title><link>https://ledge.ai/articles/apple_mmau</link><description>:::small
+</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>ビーチの吸い殻清掃もおまかせ！四足歩行ロボット「VERO」がもたらす環境清掃の新時代ーイタリア工科大学</title><link>https://ledge.ai/articles/iit_vero</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+イタリア工科大学（IIT）の研究チームは2024年7月、「VERO（Vacuum-cleaner Equipped Robot）」を{target=“_blank”}した。
+
+四足歩行ロボットVEROは、タバコの吸い殻のようなゴミを効率的に収集する目的で設計されている。複雑な地形や従来の清掃機械が苦手とする環境でも効果を発揮するという。
+
+## 歩行と清掃を同時に実現
+VEROは、Unitree社の四足歩行ロボット「{target=“_blank”}」をベースにしており、その背中には商業用の掃除機が搭載されている。掃除機はロボットの4本の脚に繋がるホースを通じて各ノズルに接続されており、特別に設計された3Dプリントのノズルを用いて地面のゴミを吸い取る。これにより、ロボットは歩行と清掃を同時に行うことが可能だ。
+
+@
+
+
+## 高い清掃能力と多様な応用可能性
+初期のテストでVEROは、様々な環境下で約90%のタバコの吸い殻の効率的な回収に成功。特に、砂浜や階段のような場所でも、その歩行能力と清掃機能の組み合わせが有効に機能することが確認できたという。搭載されたカメラとニューラルネットワークにより、ゴミを自動で識別し、適切な位置にノズルを動かしてゴミを吸引するとのこと。
+
+VEROは、清掃以外にも農業やインフラ点検、建設作業など多様な分野での応用が期待されている。例えば、雑草の除去や建物のひび割れの点検、さらには釘やリベットの設置など、さまざまな作業への対応の可能性が考えられるという。この多機能性の持つ潜在力は非常に大きいとされる。
+## 環境保護に向けた一歩
+VEROの開発は、単なる技術革新に留まらず、環境保護にも大きく貢献する可能性を秘めている。研究チームによると、タバコの吸い殻は、世界で2番目に多いゴミの一種で、年間6兆本のタバコのうち4兆本以上が不適切に廃棄されているという。これらの吸い殻は、有害な化学物質を環境中に放出し、生態系に深刻な影響を与える。VEROはこの問題に対処するために開発されており、今後の環境保護活動において重要な役割が見込まれるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 11 Aug 2024 07:49:52 +0000</pubDate></item><item><title>Apple、AIエージェント評価の新ベンチマーク「MMAU」を開発：様々な能力を網羅的に評価する</title><link>https://ledge.ai/articles/apple_mmau</link><description>:::small
 画像の出典：DALL-3によりLedge.aiが生成
 :::
 
@@ -1925,42 +1953,7 @@ AIの推論能力が向上すれば、科学的発見の促進や新しいソフ
 :::box
 
 :::
-</description><pubDate>Fri, 19 Jul 2024 07:34:17 +0000</pubDate></item><item><title>Google DeepMind　Gemini1.5を使ってオフィス道順案内などのタスクを自然言語で実行させる</title><link>https://ledge.ai/articles/google_deepmind_mobility_vla</link><description>
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Google DeepMindは2024年7月10日、同社のAIモデル「Gemini 1.5」の最大100万トークンという長大なコンテキストウィンドウを活用することで、オフィス内でのタスクを自然言語で解決させたと{target=“_blank”}した。この様子をデモ動画に納め、AIがオフィス内での道案内やタスク実行を行う様子を紹介している。例えば、「どこで絵を描けるか教えて」といった指示に対して、AIがユーザーをホワイトボードに案内する様子が示された。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-Gemini 1.5の特徴に「Mixture-of-Experts（MoE）」アーキテクチャが挙げられる。この技術により、AIモデルは入力に応じて関連する部分のみを活性化することができ、効率的に動作する。これにより、長文のQAや長時間の動画の理解など、従来のモデルでは困難だったタスクも高い精度で実行できるという。
-
-Mobility VLAと呼ばれるナビゲーションポリシーは、長大なコンテキストウィンドウを持つ視覚と言語を組み合わせたAI（VLM）と、地図のような役割を果たすトポロジーグラフを使って、ロボットがどこに行くべきかを決定する仕組みを組み合わせている。このAIは、デモンストレーションツアービデオとユーザーからの指示をもとに、最適なルートを導き出す。
-
-下図は、Mobility VLAのアーキテクチャを示している。デモンストレーションツアービデオとマルチモーダルユーザー指示を使用して、目標フレームを特定し、オフラインで構築されたトポロジーグラフを使用してロボットのアクションを生成する仕組みが描かれている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-論文では、AIが自然言語での指示に基づいて、オフィス内の特定の場所にユーザーを案内する様子が紹介された。例えば「これを戻すべき場所は？」といった質問や、「スマートフォンを充電する場所は？」という指示に対して、AIが正確に応答することが示された。
-
-研究チームは、Gemini 1.5が現実世界の大規模な環境での複雑な推論やマルチモーダルなユーザー指示において、最大90％の成功率を達成したと発表している。このモデルは、データセンターからモバイルデバイスまで幅広いプラットフォームで効率的に動作し、今後のAIの可能性に期待すると述べた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 18 Jul 2024 05:32:50 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
+</description><pubDate>Fri, 19 Jul 2024 07:34:17 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
