@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 10 Aug 2024 07:07:41 +0000</lastBuildDate><item><title>OpenAIと提携のFigure、新型ヒューマノイドロボット「Figure 02」を発表—　BMWとの自動車製造の実用化に向けたテストにも成功</title><link>https://ledge.ai/articles/figure02</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 10 Aug 2024 07:13:19 +0000</lastBuildDate><item><title>OpenAIと提携のFigure、新型ヒューマノイドロボット「Figure 02」を発表—　BMWとの自動車製造の実用化に向けたテストにも成功</title><link>https://ledge.ai/articles/figure02</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1952,7 +1952,27 @@ Mobility VLAと呼ばれるナビゲーションポリシーは、長大なコ�
 :::box
 
 :::
-</description><pubDate>Thu, 18 Jul 2024 05:32:50 +0000</pubDate></item><item><title>アルゼンチン　リアル『マイノリティ・リポート』！　AIによる未来の犯罪を予測するユニットが設立される</title><link>https://ledge.ai/articles/argentina_plans_unit_to_predict_crime_with_ai</link><description>:::small
+</description><pubDate>Thu, 18 Jul 2024 05:32:50 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+イーロン・マスク氏が率いるAIスタートアップ「xAI」によって開発されたチャットAI「Grok」は、2024年のアメリカ大統領選挙に関する誤った情報を提供し、ミシガン、ミネソタ、ニューメキシコ、ペンシルベニア、ワシントンの5つの州の州務長官がこれに対して改善を求める事態が生じた。
+
+2024年7月21日、ジョー・バイデン大統領が大統領選からの撤退を発表した直後、Grokは誤って「9つの州で大統領選の投票期限が過ぎている」との情報を提供した。この9つの州（アラバマ、インディアナ、ミシガン、ミネソタ、ニューメキシコ、オハイオ、ペンシルベニア、テキサス、ワシントン）において、実際には投票期限は過ぎておらず、候補者の変更は依然として可能であった。Grokの誤報はX（旧Twitter）上で広く拡散され、数百万ものユーザーに誤った情報が届く結果となった。
+
+ミネソタ州のスティーブ・サイモン州務長官をはじめとする5州の州務長官たちは、Grokが選挙に関する正確な情報を提供するよう{target=“_blank”}をマスク氏に送付した。この書簡では、特に「CanIVote.org」への誘導を推奨しており、ユーザーが信頼できる情報源にアクセスできるようXプラットフォームに改善を求めている。
+
+Grokはプレミアムユーザー向けの機能であり、使用時には情報を検証するようユーザーに促す免責事項が表示されるものの、今回の事例では、訂正されるまでに10日間以上も誤情報が拡散されたままになっていた。選挙年におけるソーシャルメディアの影響力を鑑み、州務長官たちは迅速な対応を求めている​。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sat, 10 Aug 2024 07:13:19 +0000</pubDate></item><item><title>アルゼンチン　リアル『マイノリティ・リポート』！　AIによる未来の犯罪を予測するユニットが設立される</title><link>https://ledge.ai/articles/argentina_plans_unit_to_predict_crime_with_ai</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -2253,29 +2273,7 @@ AWSは後者の一括確保方法における計算リソース提供事業者�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jul 2024 07:53:28 +0000</pubDate></item><item><title>気候変動による猛暑とAIで世界の電力需要急増、17年ぶりの増加率に　IEA報告</title><link>https://ledge.ai/articles/iea_reports_global_electricity_demand_to_surge_with_extreme_heat_and_aiiea_reports_global_electricity_demand_to_surge_with_extreme_heat_and_ai</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-国際エネルギー機関（IEA）は2024年7月17日、2024年と2025年の電力需要は過去17年で最高の増加率を示す見込みだと最新のレポートを{target=“_blank”}した。特に気候変動による気温上昇、AI技術の普及が主な要因となっており、太陽光発電がその増加の半分を賄うとされている。
-## AIとデータセンターの影響
-AIの普及に伴いデータセンターの電力需要が急増しており、より信頼性の高いデータと精度の高い評価が求められている。IEAは、エネルギー部門とデジタル化の関係を研究する最前線に立っており、新たなイニシアティブ「エネルギーのためのAIとAIのためのエネルギー」を開始した。この一環として、IEAは政府、産業界、研究者、民間専門家と協議を行う予定である。2024年12月5日にパリで開催される「エネルギーとAIに関する国際会議」が重要なマイルストーンとなるとのこと。
-## 需要の急増と再生可能エネルギーの拡大
-IEAの「電力半期更新」報告によると、2024年の世界の電力需要は約4％増加し、これは2007年以来の最高年次成長率となる（金融危機やCOVID-19パンデミック後の特異な反発を除く）。この強い増加は2025年にも続き、同様に約4％の増加が見込まれている。
-
-再生可能エネルギーの電力供給も急速に拡大し、2023年の30％から2025年には35％に増加すると予測される。2025年には、再生可能エネルギーによる発電量が石炭を上回る見通しで、特に太陽光発電が2024年と2025年の電力需要増加の約半分を賄う見込みである。太陽光と風力を合わせると、需要増加の約3/4を占めるとされる。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Jul 2024 07:48:24 +0000</pubDate></item><item><title>SunoとUdio、RIAAからの著作権訴訟に反論：「音楽の未来はフェアユースの中にある」</title><link>https://ledge.ai/articles/suno_and_udio_respond_to_copyright_lawsuit</link><description>:::small
+</description><pubDate>Tue, 23 Jul 2024 07:53:28 +0000</pubDate></item><item><title>SunoとUdio、RIAAからの著作権訴訟に反論：「音楽の未来はフェアユースの中にある」</title><link>https://ledge.ai/articles/suno_and_udio_respond_to_copyright_lawsuit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
