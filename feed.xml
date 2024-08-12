@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 10 Aug 2024 07:13:19 +0000</lastBuildDate><item><title>OpenAIと提携のFigure、新型ヒューマノイドロボット「Figure 02」を発表—　BMWとの自動車製造の実用化に向けたテストにも成功</title><link>https://ledge.ai/articles/figure02</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sat, 10 Aug 2024 07:15:52 +0000</lastBuildDate><item><title>NVIDIA、状況に応じて正確な応答を提供するデジタルヒューマン「James」をSIGGRAPH 2024で公開</title><link>https://ledge.ai/articles/nvidia_previewed_digitalhuman_james</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+NVIDIAは2024年7月28日から8月1日に開催されたSIGGRAPH 2024において、インタラクティブなデジタルヒューマン「James」を{target=“_blank”}した。Jamesは、カスタマーサービスやバーチャルアシスタントとして機能することを目的とした高度なAIアバターであり、ユーザーとのコミュニケーションにおいて感情やユーモア、コンテクスト理解を駆使することができるという。
+
+JamesはNVIDIAの「Avatar Creation Engine（ACE）」を基盤として開発されており、NVIDIAのNIMマイクロサービスやRTXレンダリング技術を活用して非常にリアルなアニメーションを実現しているという。また、ElevenLabsの音声技術を使用することで、自然で人間らしい音声を生成し、ユーザーとのインタラクションをより現実に近いものにしている。
+
+
+@
+
+
+
+
+さらに、NVIDIAはJamesに加えて、Maxine AIプラットフォームの最新アップデートも公開した。Maxineは、3Dアバターの作成やビデオ会議でのオーディオ・ビデオ品質の向上を可能にするもので、テレプレゼンスやデジタルインターフェースでの応用が期待されている。
+
+これらの技術は、カスタマーサービスやエンターテインメントなど、さまざまな産業においてデジタルヒューマンの利用を大きく前進させるものと考えられる。Jamesの公開により、NVIDIAはAIを活用した新しい顧客体験の可能性を示し、今後のデジタルインタラクションの進化に寄与することを目指している。
+
+Jamesは現在、最終調整段階にあり、近い将来一般に公開される予定だ​ 
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Sat, 10 Aug 2024 07:15:52 +0000</pubDate></item><item><title>OpenAIと提携のFigure、新型ヒューマノイドロボット「Figure 02」を発表—　BMWとの自動車製造の実用化に向けたテストにも成功</title><link>https://ledge.ai/articles/figure02</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -400,31 +432,7 @@ Microsoftは、民間企業としてAIの悪用を防ぐための安全策を導
 :::box
 
 :::
-</description><pubDate>Tue, 06 Aug 2024 06:48:56 +0000</pubDate></item><item><title>Google、パリ五輪に向け制作された Gemini AI のCM「Dear Sydney」のテレビ放映を停止　「AIの使い方として最悪の例」との批判も</title><link>https://ledge.ai/articles/google_withdraws_gemini_ads_from_paris_olympics_coverage</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Googleは2024年8月、パリ五輪中継中に放送されたGemini AIのCM{target=“_blank”}を、視聴者や専門家からの批判を受けてテレビ放映から撤回した。この広告は、陸上競技の米代表シドニー・マクラフリン＝レブローニ選手に憧れる娘のために、父親がGoogleのAIを利用してファンレターを作成するという内容だ。
-
-この広告は、Googleが開発したGemini AIを使用し、父親が娘のアイドルであるマクローリン・レブローネに感謝の手紙を書く手助けをするという内容であった。広告では、父親がAIを使わなければ適切な手紙が書けないと述べ、AIが手紙を生成する過程が強調されていた。
-
-@
-
-
-広告が放送されると、視聴者や批評家から「人間の経験をAIが奪う」として反発が起こったという。この広告が「本来父親と娘が共有すべき感動的な瞬間を機械に任せることを助長している」という批判や、「人間らしさを欠いた冷たい表現」であり、「AIの使い方として最悪の例」との声もあがったとのこと。
-
-Googleは当初、この広告を擁護し、「Team USAを祝う真実のストーリー」として宣伝したが、批判の高まりを受けて広告を撤回することを決定した。Googleは、「AIが人間の創造性を補完する優れたツールになり得るが、決してそれを置き換えるものではない」との声明を複数メディアに表明し、広告を五輪中継から外す措置を取った。
-
-広告は現在もGoogleのYouTubeチャンネルで視聴可能だが、コメント機能は無効化されている
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 06 Aug 2024 06:46:27 +0000</pubDate></item><item><title>夏だ！レジャーの後は「学びの夏」もいかが？ー スタンフォード大学で提供中の無料講座をご紹介</title><link>https://ledge.ai/articles/learning_stanford_2024summer</link><description>:::small
+</description><pubDate>Tue, 06 Aug 2024 06:48:56 +0000</pubDate></item><item><title>夏だ！レジャーの後は「学びの夏」もいかが？ー スタンフォード大学で提供中の無料講座をご紹介</title><link>https://ledge.ai/articles/learning_stanford_2024summer</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
