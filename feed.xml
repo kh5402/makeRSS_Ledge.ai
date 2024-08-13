@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 11 Aug 2024 07:49:52 +0000</lastBuildDate><item><title>NVIDIA、状況に応じて正確な応答を提供するデジタルヒューマン「James」をSIGGRAPH 2024で公開</title><link>https://ledge.ai/articles/nvidia_previewed_digitalhuman_james</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 12 Aug 2024 05:41:44 +0000</lastBuildDate><item><title>NVIDIA、状況に応じて正確な応答を提供するデジタルヒューマン「James」をSIGGRAPH 2024で公開</title><link>https://ledge.ai/articles/nvidia_previewed_digitalhuman_james</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1529,7 +1529,45 @@ AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオ�
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>ビーチの吸い殻清掃もおまかせ！四足歩行ロボット「VERO」がもたらす環境清掃の新時代ーイタリア工科大学</title><link>https://ledge.ai/articles/iit_vero</link><description>:::small
+</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>PFN、フルスクラッチの大規模言語モデル「PLaMo」β版を公開   無料トライアルの申込受付開始</title><link>https://ledge.ai/articles/pfn_plamo_100b_post-study_completed</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Preferred Networks（PFN）は2024年8月7日、子会社のPreferred Elements（PFE）が開発した大規模言語モデル（LLM）「PLaMo（プラモ）」のβ版トライアルAPIの公開を{target=“_blank”}した。このAPIは、2024年10月までの期間限定で無料提供され、商用利用も可能だという。
+
+PLaMoは、日本政府が進める生成AI技術強化プロジェクト「GENIAC」の一環として開発され、今秋には商用版「PLaMo 1.0 Prime」のリリースを予定しているとのこと。
+## PLaMoの開発背景と技術的特徴
+PLaMoは、GENIACプロジェクトにおいて開発された1000億パラメータのマルチモーダル基盤モデル「PLaMo-100B」を基盤としている。このモデルは、従来のLLMとは異なり、既存のモデルをベースにせず、2兆トークンに及ぶ日本語および英語のテキストデータを用いてフルスクラッチで開発されたという。特に、日本語性能を評価する「Jaster」ベンチマークにおいて、国内外の主要なLLMを上回る成果を挙げているとのこと。詳細は{target=“_blank”}で紹介されている。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## トライアルAPIの利用と今後の展望
+このたびのトライアルAPIは、PFEがPLaMo-100Bをベースに指示学習やモデルマージを行い、日本語・英語の文章生成能力をさらに強化したPLaMo β版を法人・個人問わず期間限定で提供する。同社は、このトライアル期間中に得られたフィードバックをもとに、PLaMoの機能改善や追加学習を実施し、今年の秋に商用版「PLaMo 1.0 Prime」をリリースする計画だという。
+
+PLaMo β版 無料トライアルサイト画面
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Mon, 12 Aug 2024 05:41:44 +0000</pubDate></item><item><title>ビーチの吸い殻清掃もおまかせ！四足歩行ロボット「VERO」がもたらす環境清掃の新時代ーイタリア工科大学</title><link>https://ledge.ai/articles/iit_vero</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1928,32 +1966,7 @@ SpreadsheetLLMの中心となるのは、「SheetCompressor」という手法で
 :::box
 
 :::
-</description><pubDate>Sat, 20 Jul 2024 14:44:17 +0000</pubDate></item><item><title>OpenAI　開発コードは「Q*」から「Strawberry」に。推論能力を向上し、数学などの高正答率を目指す新たなAI技術の開発が進んでいる</title><link>https://ledge.ai/articles/openai_strawberry</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年7月12日、ChatGPTを開発したOpenAIが「Strawberry」というコードネームの新しいAI技術に取り組んでいることが、内部文書と関係者の証言により明らかになった。{target=“_blank”}によれば、プロジェクトはMicrosoftが支援するOpenAIがAIモデルの推論能力を向上させるために進めているという。
-
-OpenAIの内部文書によると、Strawberryは単に質問に答えるだけでなく、インターネットを自律的かつ信頼性を持ってナビゲートし、「深い研究」を行う能力を持つことを目指している。推論能力の向上により、AIモデルが複雑なタスクを計画し実行する能力を持つことが期待されているとのこと。
-
-Strawberryプロジェクトは以前「Q*」として知られており、すでに社内で画期的なものと見なされていた。内部文書には、Strawberryモデルが複雑な科学や数学の質問に答えるデモを行うことができ、90%以上の正答率を記録していると記されている。
-
-OpenAIは、この技術を使用してAIモデルの推論能力を大幅に向上させると期待を寄せており、特に、自動化された深い研究やソフトウェア・機械学習エンジニアの業務を行う能力を持たせることが目標だという。これにより、AIモデルが自主的にウェブを閲覧し、研究を行うための「CUA」（コンピュータ利用エージェント）を使用することが可能になる。
-
-AIの推論能力が向上すれば、科学的発見の促進や新しいソフトウェアアプリケーションの計画・構築が可能となり、人間または超人間レベルの知能を実現する鍵となる。OpenAIのCEOであるサム・アルトマン氏も、AIにおける最も重要な進歩は推論能力の向上であると述べているという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 19 Jul 2024 07:34:17 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
+</description><pubDate>Sat, 20 Jul 2024 14:44:17 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
