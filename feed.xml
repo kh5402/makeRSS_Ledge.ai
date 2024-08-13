@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 12 Aug 2024 05:41:44 +0000</lastBuildDate><item><title>NVIDIA、状況に応じて正確な応答を提供するデジタルヒューマン「James」をSIGGRAPH 2024で公開</title><link>https://ledge.ai/articles/nvidia_previewed_digitalhuman_james</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 12 Aug 2024 14:36:23 +0000</lastBuildDate><item><title>RAGやヒューマノイドが新たに加わる：ガートナージャパン「未来志向型インフラ・テクノロジのハイプサイクル」を発表</title><link>https://ledge.ai/articles/gartner-japan_hype_cycle_future_oriented_infra_tech</link><description>:::small
+画像の出典：[Dall-E3により ledge.ai が生成]
+:::
+
+ガートナー ジャパンは2024年8月7日、「日本における未来志向型インフラ・テクノロジのハイプ・サイクル」を{target=“_blank”}した。今回のレポートでは、新たにRAGとマシンカスタマー、ヒューマノイド、エンボディドAI、Large Behavior Model（LBM：大規模振る舞いモデル）という5つの新たな技術が追加された。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ガートナーの「ハイプ・サイクル」（Hype Cycle）は、新しい技術が市場に登場してから成熟に至るまでのプロセスを視覚的に表現したモデルで、５つのフェーズから成る。それぞれを「黎明期」、「過度な期待」のピーク期、「幻滅期」、「啓発期」、「生産性の安定期」と定義している。
+
+2024年に追加した技術のうち、同社はRAGを過度な期待のピーク期に位置付けた。RAGは大規模言語モデル（LLM）と検索技術を組み合わせることで、企業が自社データを生成AIに組み込み、特化型AIの利用を促進するものだが、その精度向上には課題が残ると指摘されている。
+
+生成AI技術は依然として「過度な期待」のピークに位置しており、ガートナーの鈴木雅喜氏は、今後この技術がさまざまな業種で利用されることを予測している。また、ディスティングイッシュト バイス プレジデント アナリストの亦賀忠明氏は、生成AIやRAGに関して、企業が期待値をコントロールする重要性を強調している。
+
+ヒューマノイド技術についても2024年以降の注目技術として位置付けられており、自動車業界をはじめとする製造業において、労働負荷の軽減や生産性の向上を図る手段として期待されているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 12 Aug 2024 14:36:23 +0000</pubDate></item><item><title>NVIDIA、状況に応じて正確な応答を提供するデジタルヒューマン「James」をSIGGRAPH 2024で公開</title><link>https://ledge.ai/articles/nvidia_previewed_digitalhuman_james</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -407,32 +437,7 @@ RAGやファインチューニングなどの技術を用いた独自データ�
 
 
 我々の昨年の活動はあくまで “きっかけ” と”活用環境”の提供です。それが良い方向に転がっていくかどうかというのは、経営者の強い意志がバックグラウンドにあるかどうかも鍵だと思います。
-弊社の熊谷が最近よく話す「ダーウィンの進化論」の言葉を借りると、「最も強いものが生き残るのではない。最も変化に対応したものが生き残る」という点は、この生成AI時代の企業戦略にも言えることではないでしょうか。</description><pubDate>Mon, 05 Aug 2024 08:49:38 +0000</pubDate></item><item><title>Microsoft、AI生成ディープフェイク詐欺の防止を目指す包括的法規制を米議会に要求</title><link>https://ledge.ai/articles/microsoft_protecting_the_public_from_abusive_ai_generated_content</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Microsoftの副会長兼社長であるBrad Smith氏は、2024年7月30日に{target=“_blank”}した声明で、AI技術を悪用したディープフェイク詐欺に対する包括的な法律の制定を米議会に求めた。
-
-AI技術の進展によりディープフェイクが簡単に作成可能となり、詐欺や操作、虐待に利用されるリスクが急速に増大していることが背景にあるという。
-
-Smith氏は、「AIの生成するディープフェイクは非常にリアルで、誰でも容易に作成できる。この技術は特に子供や高齢者をターゲットにした詐欺や虐待に使われる危険性が高い」と述べ、これらのリスクに対して迅速な法的対応が必要不可欠であると強調した。また、「最大のリスクは、問題に対して十分な対応を行わないことだ」と警告し、法規制の必要性を訴えた。
-
-さらに、ディープフェイク技術は選挙妨害などの政治的目的に利用されるケースが注目されているが、同氏はその他の犯罪や虐待におけるこの技術の広範な悪用にも注意を払うべきだと述べている。AI生成コンテンツの出所を明確にするラベル付け技術や、AIを用いた詐欺に対する独立した法的枠組みの導入が必要だと提案している。
-
-Microsoftは、民間企業としてAIの悪用を防ぐための安全策を導入する責任があるとしつつ、政府が「責任あるAIの開発と利用を促進する」政策を策定することの重要性も強調している。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 06 Aug 2024 06:48:56 +0000</pubDate></item><item><title>夏だ！レジャーの後は「学びの夏」もいかが？ー スタンフォード大学で提供中の無料講座をご紹介</title><link>https://ledge.ai/articles/learning_stanford_2024summer</link><description>:::small
+弊社の熊谷が最近よく話す「ダーウィンの進化論」の言葉を借りると、「最も強いものが生き残るのではない。最も変化に対応したものが生き残る」という点は、この生成AI時代の企業戦略にも言えることではないでしょうか。</description><pubDate>Mon, 05 Aug 2024 08:49:38 +0000</pubDate></item><item><title>夏だ！レジャーの後は「学びの夏」もいかが？ー スタンフォード大学で提供中の無料講座をご紹介</title><link>https://ledge.ai/articles/learning_stanford_2024summer</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
