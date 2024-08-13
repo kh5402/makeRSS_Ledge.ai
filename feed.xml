@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 12 Aug 2024 14:36:23 +0000</lastBuildDate><item><title>RAGやヒューマノイドが新たに加わる：ガートナージャパン「未来志向型インフラ・テクノロジのハイプサイクル」を発表</title><link>https://ledge.ai/articles/gartner-japan_hype_cycle_future_oriented_infra_tech</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 13 Aug 2024 02:26:37 +0000</lastBuildDate><item><title>RAGやヒューマノイドが新たに加わる：ガートナージャパン「未来志向型インフラ・テクノロジのハイプサイクル」を発表</title><link>https://ledge.ai/articles/gartner-japan_hype_cycle_future_oriented_infra_tech</link><description>:::small
 画像の出典：[Dall-E3により ledge.ai が生成]
 :::
 
@@ -1136,7 +1136,47 @@ AI、機械学習（ML）、および生成AIのコンセプトやツールに�
 URL：{target=“_blank”}
 開催形式：オンライン（特設サイト）
 
-</description><pubDate>Fri, 14 Jun 2024 04:03:02 +0000</pubDate></item><item><title>GitHubが開発者向けに「GitHub Models」を発表　最新のAIモデルを無料で試せる機会を提供</title><link>https://ledge.ai/articles/github_models</link><description>:::small
+</description><pubDate>Fri, 14 Jun 2024 04:03:02 +0000</pubDate></item><item><title>OpenDevin: AIエージェントの未来を切り拓くオープン開発プラットフォーム</title><link>https://ledge.ai/articles/open_devin</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+Cognition AIが開発した「Devin」というAIソフトウェアエンジニアに触発され、カーネギーメロン大学、イエール大学などの研究チームは2024年7月23日、AIソフトウェア開発者向けのオープンプラットフォーム「OpenDevin」を{target=“_blank”}した。OpenDevinは、複雑なプログラミングタスクを自動で実行し、エージェント同士が協力して課題を解決できる高度なプラットフォームだという。
+
+ソフトウェア開発では、AIエージェントの利用が急速に進んでいる。研究チームによると、ChatDevやAutoCodeRoverといったシステムが注目されてきたが、依然として長期的なタスクの実行やセキュリティ面での課題が残っているという。また、エージェントの性能を体系的に評価する枠組みも十分には整備されていないとのこと。
+## OpenDevinの特徴
+OpenDevinは、複数のエージェントが協力して複雑なタスクを解決できる機能を備える。同プラットフォームは、エージェントの実装、コードの実行、安全なサンドボックス環境での操作、そして評価ベンチマークの統合を提供するという。
+
+下図に示すOpenDevinのUIは、ファイルの確認、BashコマンドやPythonコードの実行、エージェントのブラウザ操作の監視、そしてエージェントとの直接的なやり取りが可能だ。同インターフェースは、エージェントがどのように操作しているかを視覚的にフィードバックし、リアルタイムでのインタラクションをサポートするとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenDevinには「CodeAct」というアーキテクチャが実装されており、Pythonコードの生成や実行が可能である。また、ウェブブラウジングやコード編集などの機能も搭載されており、多様なタスクに対応できる汎用的なエージェントを構築する基盤となっている。
+## 評価と展望
+OpenDevinの評価は、ソフトウェア開発やウェブブラウジング、その他の支援タスクを含む15のベンチマークに基づいて行われた。これらのベンチマークは、エージェントが実際の開発環境でどれだけ効果的に機能するかを評価するために設計されているという。
+
+下図は、OpenDevinのアーキテクチャの概要を示している。エージェントの抽象化層、アクションと観察の履歴を追跡するイベントストリーム、そしてエージェントのアクションを観察へと変換する実行環境が含まれている。この設計により、エージェントは実際のソフトウェア開発者と同様に、複雑なタスクを遂行できるようになる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 13 Aug 2024 02:26:37 +0000</pubDate></item><item><title>GitHubが開発者向けに「GitHub Models」を発表　最新のAIモデルを無料で試せる機会を提供</title><link>https://ledge.ai/articles/github_models</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1498,43 +1538,7 @@ CAMELORS株式会社は2024年1月16日「フリーランス・副業の平均�
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>ゲーム開発者会議「GDC2024」事前調査で、レイオフや生成AIの影響が浮き彫りに。31%が生成AIを使って開発している。</title><link>https://ledge.ai/articles/gdc2024_reserch</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ゲーム開発者を中心とした会議「Game Developers Conference（GDC）」の主催団体は2024年1月18日、第12回年次ゲーム業界調査の結果を{target=“_blank”}した。この調査は、3月18日から開催される「GDC 2024」に先立ち行われたもので、3000人以上のゲーム業界の関係者から回答を得た。
-
-調査結果によると、回答者の31%が仕事で生成AIを使用していると回答し、18%が自分は使用していないが職場の同僚が使用していると回答した。生成AIに関しては、開発者の84％がその倫理的使用について何らかの懸念を抱いていることが分かった。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-その他調査では、レイオフの増加や、ゲームエンジンのポリシーと価格設定の変更に関する懸念が見受けられたという。
-
-レイオフに関しては、開発者のうち3分の1が影響を受けており、12ヶ月以内にレイオフがあるかもしれないと懸念している者が過半数に上ることが明らかになった。品質保証の開発者は最も影響を受けており、22%が今年レイオフされたと回答した。一方で、ビジネスとファイナンスの専門家は2%と最もレイオフが少ないという。
-
-ゲームエンジンについては、過去1年以内に変更した、または変更を検討している開発者が3分の1に上り、主に使用されているゲームエンジンはUnreal EngineとUnityであることが判明した。
-
-さらに、アクセシビリティ機能の組み込みの増加も特徴的だという。
-ほぼ半数の開発者が現在のプロジェクトにアクセシビリティ対策を実施しており、最も人気のある機能にはクローズドキャプション、色覚モード、コントロールの再マッピングなどが含まれている。
-
-また、企業が、リモートワークや在宅勤務から通常のオフィス環境への復帰を指示または促進する傾向にあるとのこと。
-AAA（トリプルA）クラスの開発者は、他のカテゴリよりもオフィスへの復帰ポリシーが義務化されており、うち現在40％がオフィスでの全日勤務またはハイブリッドスケジュールを実施していることが判明した。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Jan 2024 13:51:00 +0000</pubDate></item><item><title>PFN、フルスクラッチの大規模言語モデル「PLaMo」β版を公開   無料トライアルの申込受付開始</title><link>https://ledge.ai/articles/pfn_plamo_100b_post-study_completed</link><description>:::small
+</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>PFN、フルスクラッチの大規模言語モデル「PLaMo」β版を公開   無料トライアルの申込受付開始</title><link>https://ledge.ai/articles/pfn_plamo_100b_post-study_completed</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
