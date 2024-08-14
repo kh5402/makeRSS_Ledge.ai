@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 13 Aug 2024 02:26:37 +0000</lastBuildDate><item><title>RAGやヒューマノイドが新たに加わる：ガートナージャパン「未来志向型インフラ・テクノロジのハイプサイクル」を発表</title><link>https://ledge.ai/articles/gartner-japan_hype_cycle_future_oriented_infra_tech</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 13 Aug 2024 09:37:27 +0000</lastBuildDate><item><title>RAGやヒューマノイドが新たに加わる：ガートナージャパン「未来志向型インフラ・テクノロジのハイプサイクル」を発表</title><link>https://ledge.ai/articles/gartner-japan_hype_cycle_future_oriented_infra_tech</link><description>:::small
 画像の出典：[Dall-E3により ledge.ai が生成]
 :::
 
@@ -1538,7 +1538,58 @@ CAMELORS株式会社は2024年1月16日「フリーランス・副業の平均�
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>PFN、フルスクラッチの大規模言語モデル「PLaMo」β版を公開   無料トライアルの申込受付開始</title><link>https://ledge.ai/articles/pfn_plamo_100b_post-study_completed</link><description>:::small
+</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>ミネソタ大学　メモリセル内で直接計算を行う「CRAM」で、AIの消費電力を最大2500分の1に削減</title><link>https://ledge.ai/articles/demo_of_cram_to_reduce_ai_power_consumption</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+ミネソタ大学ツインシティーズの研究者たちが2024年7月25日、AIのエネルギー消費を最大で2500分の1に削減する可能性を持つ革新的なハードウェアデバイス「Computational Random-Access Memory（CRAM）」を実証したことを{target=“_blank”}した。この技術は、AIシステムのエネルギー効率を大幅に向上させると期待されている。
+
+AI技術の進展に伴い、計算のためのエネルギー消費が急増している。特に、従来のコンピュータアーキテクチャでは、論理部分とメモリ部分の間で頻繁にデータ転送が行われ、このプロセスが大きなエネルギー消費の要因となっていた。この問題に対処するため、ミネソタ大学ツインシティーズの研究チームは、データ転送の必要性を排除し、メモリセル内で直接計算を行う新しいアプローチ「CRAM」を開発したという。
+
+CRAMは、磁気トンネル接合（MTJ）というスピントロニクス技術を利用しており、データがメモリセルから外部に移動することなく、メモリ内で論理演算が行われる。これにより、従来のシステムと比較して劇的なエネルギー効率の向上が期待されるという。
+
+## CRAMの仕組みと利点
+従来のコンピュータアーキテクチャでは、データが論理ユニットとメモリユニットの間を行き来するため、エネルギー消費が著しく増加する。CRAMは、この「メモリと論理の間の壁」を打ち破るもので、データをメモリ内で処理することで、このボトルネックを解消する。CRAMのアーキテクチャでは、データはメモリセルの中に留まり、必要な計算がその場で行われるため、大量のデータ転送を必要としない。これにより、従来のシステムに比べてエネルギー消費が大幅に削減されると同時に、処理速度も向上する。
+
+下図は、 CRAMアーキテクチャの概念図と、従来のコンピュータアーキテクチャとの比較を示すもの。従来のアーキテクチャが直面するデータ転送の課題を視覚的に説明し、CRAMがどのようにその問題を解決するかを示している。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 実証実験の成果
+研究チームは、1×7 CRAMアレイを用いた実験を通じて、基本的なメモリ操作および論理演算の成功を確認した。具体的には、2入力のNANDゲートが最大99.4％の精度で動作することを実証。MNIST手書き数字分類タスクにおいて、CRAMは従来のシステムと比較して2500倍のエネルギー削減を達成したという。
+
+下図は、CRAMセルのアーキテクチャと動作原理を示す。磁気トンネル接合（MTJ）の使い方と、データがメモリセル内でどのように処理されるかが詳細に描かれている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+実験では、MTJデバイスを使用した1ビット全加算器が2種類設計され、それぞれの性能が評価された。2つの設計のうち、「すべてNANDゲートを使用した設計」がより高い精度を達成し、特にエネルギー効率の面で有望であることが確認された。
+
+下図は、CRAM実験セットアップと、1×7 CRAMアレイを用いた実験結果を示す。CRAM技術の実験的な成功と、その実現可能性が具体的に示されている。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+研究者たちは、CRAMの商業化に向けて、半導体業界と協力し、さらに大規模なデモンストレーションを行う予定だという。CRAM技術は、特にエッジコンピューティングやニューラルネットワークなど、データ集約型のアプリケーションにおけるメリットの大きさに期待できるとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Tue, 13 Aug 2024 09:37:27 +0000</pubDate></item><item><title>PFN、フルスクラッチの大規模言語モデル「PLaMo」β版を公開   無料トライアルの申込受付開始</title><link>https://ledge.ai/articles/pfn_plamo_100b_post-study_completed</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1952,30 +2003,7 @@ Hypothetical Mindsは、LLMを活用して他のエージェントの意図を�
 :::box
 
 :::
-</description><pubDate>Wed, 24 Jul 2024 04:07:03 +0000</pubDate></item><item><title>Microsoftがスプレッドシートなどの表計算ソフトを理解できる大規模言語モデル「SpreadsheetLLM」を発表　複雑なスプレッドシートの処理を削減</title><link>https://ledge.ai/articles/spreadsheet_llm_microsoft</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月12日、Microsoftの研究チームは、大規模言語モデルを活用してスプレッドシートの処理を効率的に行う技術「SpreadsheetLLM」を{target=“_blank”}した。
-
-スプレッドシートは、ビジネスで広く使用されるデータ管理ツールだ。しかし、その複雑なレイアウトや多様なフォーマットで大量のデータを効率的に処理することは従来の手法では困難だったという。この課題改善のために、スプレッドシートの理解および、効率的に処理することを目的として「SpreadsheetLLM」が開発された。
-
-SpreadsheetLLMの中心となるのは、「SheetCompressor」という手法で、表計算シート内で重要な構造を特定し、その情報を保持しながらデータ量を大幅に削減する。SheetCompressorは、表計算データを平均して25倍に圧縮することに成功しており、LLMが一度に処理できるデータ量が増加する。これにより、複雑な表計算ファイルの分析が可能となり、データ処理にかかる計算コストも96％削減されたという。
-
-実験結果において、SpreadsheetLLMは表計算検索タスクで従来のモデルを12.3％上回る性能を達成したと発表している。
-!
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sat, 20 Jul 2024 14:44:17 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
+</description><pubDate>Wed, 24 Jul 2024 04:07:03 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
