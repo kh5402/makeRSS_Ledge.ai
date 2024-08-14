@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 13 Aug 2024 09:37:27 +0000</lastBuildDate><item><title>RAGやヒューマノイドが新たに加わる：ガートナージャパン「未来志向型インフラ・テクノロジのハイプサイクル」を発表</title><link>https://ledge.ai/articles/gartner-japan_hype_cycle_future_oriented_infra_tech</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 13 Aug 2024 10:21:23 +0000</lastBuildDate><item><title>RAGやヒューマノイドが新たに加わる：ガートナージャパン「未来志向型インフラ・テクノロジのハイプサイクル」を発表</title><link>https://ledge.ai/articles/gartner-japan_hype_cycle_future_oriented_infra_tech</link><description>:::small
 画像の出典：[Dall-E3により ledge.ai が生成]
 :::
 
@@ -2324,7 +2324,38 @@ AWSは後者の一括確保方法における計算リソース提供事業者�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jul 2024 07:53:28 +0000</pubDate></item><item><title>SunoとUdio、RIAAからの著作権訴訟に反論：「音楽の未来はフェアユースの中にある」</title><link>https://ledge.ai/articles/suno_and_udio_respond_to_copyright_lawsuit</link><description>:::small
+</description><pubDate>Tue, 23 Jul 2024 07:53:28 +0000</pubDate></item><item><title>AIとホログラム技術で蘇る偉人内閣を描く　映画『もしも徳川家康が総理大臣になったら』</title><link>https://ledge.ai/articles/moshi-toku_drawing_a_cabinet_of_great_men_revived_by_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年7月26日に公開された映画『{target=“_blank”}』は、AI技術とホログラム技術を駆使して歴史上の偉人たちを現代に蘇らせ、最強の内閣を組織するという斬新な設定が話題となっている。この映画は、2021年に出版された作家眞邊明人氏の同名小説を原作としており、コロナ禍などの現代の危機に対応するために過去の知恵を活用するというテーマが描かれている。
+## AIとホログラム技術の融合
+映画の中では、徳川家康（演：野村萬斎）をはじめとする歴史的な偉人たちが、AI技術によってその知性や人格を再現され、ホログラムとして現代に登場する。AIによって復活した「偉人内閣」は、現代の政治や社会問題に対処するために編成され、観客に対して過去の知恵と現代のテクノロジーが融合した未来像を提示する。
+## 豪華キャストとコメディタッチの演出
+監督は『翔んで埼玉』で知られる武内英樹氏が務める。コメディタッチで描かれる作品では、現代の視点から見ても違和感のない偉人たちの振る舞いをユーモラスに表現。坂本龍馬役には赤楚衛二、織田信長役にはGACKT、豊臣秀吉役には竹中直人といった豪華キャストが出演している。
+
+@
+
+
+## 現代社会へのメッセージ
+AIと歴史の融合を通じて、未来の社会におけるAI技術の可能性を描くこの映画は、単なるエンターテインメントに留まらず、現代の政治や社会問題に対する新たな視点を提供する作品ともいえる。
+
+「AIゆりこ」「AIあんの」など、実在の人物を再現する技術が現実に近づきつつある今、テクノロジーと歴史を融合させた独自の視点で、観客に新たな洞察を提供し、未来の社会におけるAIの役割について考えさせる一作となっている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 13 Aug 2024 10:21:23 +0000</pubDate></item><item><title>SunoとUdio、RIAAからの著作権訴訟に反論：「音楽の未来はフェアユースの中にある」</title><link>https://ledge.ai/articles/suno_and_udio_respond_to_copyright_lawsuit</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2647,66 +2678,4 @@ OpenAIがリリースした「GPT-4o」を搭載しており、容疑者のロ�
 :::box
 
 :::
-</description><pubDate>Thu, 27 Jun 2024 03:57:02 +0000</pubDate></item><item><title>Google DeepMindが動画に合うBGMや効果音を生成するAI「Video to Audio」を発表</title><link>https://ledge.ai/articles/google_deepmind_v2a</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Google DeepMindは2024年6月17日、新たな技術「Vide to Audio（V2A）」を{target=“_blank”}した。Generative Mediaチームの発表したこの技術は、動画の映像情報とテキストのプロンプトを用いて、映像にぴったりと合ったサウンドトラックを生成する能力を持つ。
-
-現在、映像生成モデルは急速に進化しているが、多くの現行システムは無音の出力しか生成できない。V2Aは、この課題を解決し、生成された映像にリアルな音響を付与するための重要なステップとなる。
-
-V2Aは、映像ピクセルと自然言語テキストプロンプトを組み合わせて、画面上のアクションに対してリッチな音響効果を生成する。例えば、ドラマチックなスコア、リアリスティックな音響効果、またはビデオのキャラクターやトーンに合ったダイアログを生成することが可能だ。
-
-{target=“_blank”}（音声プロンプト： 映画、スリラー、ホラー映画、音楽、緊張感、雰囲気、コンクリートの上の足音）
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-{target=“_blank”}（音声プロンプト: 月に向かって吠えるオオカミ)
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-## V2Aの技術的詳細
-V2Aシステムは、ビデオ入力を圧縮された表現にエンコードし、拡散モデルがランダムなノイズから音声を逐次的に洗練させる。このプロセスは視覚的入力と自然言語プロンプトによってガイドされ、プロンプトに密接に一致する現実的な音声を生成する。最終的に音声出力がデコードされ、音声波形に変換され、ビデオデータと組み合わせられる。
-
-また、高品質な音声を生成するために、詳細な音の説明や音声トランスクリプトを含むAI生成のアノテーションを追加情報としてトレーニングプロセスに加えた。これにより、特定の音声イベントを様々な視覚シーンと関連付けることが可能となり、アノテーションやトランスクリプトで提供された情報に基づいて音声を生成できるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-## 創造的なコントロールと今後の展望
-V2Aは、任意のビデオ入力に対して無限のサウンドトラックを生成する能力を持つ。ユーザーは「ポジティブプロンプト」を定義して望ましい音にガイドするか、「ネガティブプロンプト」を使用して望ましくない音を排除することができる。この柔軟性により、V2Aの音声出力を迅速に実験し、最適なマッチを選択することが可能だという。
-
-
-以下は、同じ動画に対して複数のサウンドを生成した例
-{target=“_blank”}(音声プロンプト: 宇宙船が広大な宇宙を疾走し、星々が高速で飛び交う。SF）
-{target=“_blank”}(音声プロンプト: 優美なチェロの雰囲気）
-{target=“_blank”}(音声プロンプト: 宇宙船が広大な宇宙を疾走し、星々が高速で飛び交う。SF）
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-Google DeepMindは、責任あるAI技術の開発を重視し、クリエイティブコミュニティからの多様な視点や洞察を収集し、研究と開発に反映させているとのこと。また、AI生成コンテンツに透かしを入れるためのSynthIDツールキットも導入し、この技術の誤用を防ぐための対策を講じている。V2A技術は公開前に厳格な安全評価とテストを経る予定だという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 28 Jun 2024 12:32:10 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 27 Jun 2024 03:57:02 +0000</pubDate></item></channel></rss>
