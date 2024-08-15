@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 13 Aug 2024 10:25:18 +0000</lastBuildDate><item><title>OpenAI、AI安全性強化のためカーネギーメロン大学教授を取締役に迎える</title><link>https://ledge.ai/articles/zico-kolter_joins_openais_board_of_directors</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 14 Aug 2024 09:54:53 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+日本IBMと労働組合である日本金属製造情報通信労働組合（JMITU）が2024年8月1日に、AIを用いた賃金査定に関する画期的な和解に達したと{target=“_blank”}が報じた。この和解により、日本IBMはAIが賃金査定で使用する評価項目を労働組合に開示することが義務付けられ、AIの透明性が確保されることとなったという。
+## 背景：AIの導入と労組の反発
+問題の発端は、2019年に日本IBMが賃金査定に「IBM Compensation Advisor with Watson」というAIツールを導入したことにある。このツールは、社員の評価に基づいて賃金調整を行う際に上司をサポートすることを目的としていた。しかし、労組はこのAIがどのような項目を考慮しているのか、またどのような提案が行われているのかについての開示を求めたが、日本IBMはこれを拒否。これに対して労組は2020年4月、東京都労働委員会に不当労働行為として救済の申し立てを行ったとのこと。
+## 和解の内容：AI評価項目の開示
+今回の和解により、日本IBMは労組に対して以下の内容を開示することに合意した：
+
+AIが賃金査定において考慮する評価項目の全項目を労組に開示する
+これらの評価項目が賃金規程上の評価項目とどのように関連しているかを説明する
+労組が疑義を提起した場合、AIの提案内容を開示する
+
+さらに、今後AIの賃金評価方法に疑義が生じた際には、労組と協議を行うことも取り決められた。
+
+## 世界初の試み：透明性確保のための新たなモデルケース
+このようなAIの評価項目を労働者に開示するルールは、世界初の試みとして注目されている。特に、労使間でAIの利用に関する合意が形成されたことは、他の企業にとっても重要なモデルケースとなり得ると評価されている。労組の弁護士である水口洋介氏は、「この和解によって、査定におけるAIの評価項目が全て開示されることになった。日本のみならず、世界でも初めてのケースだ」と述べたという。
+
+IBMは今後も労使関係の透明性を高め、良好な関係を維持するために努めるとコメントしているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 14 Aug 2024 09:54:53 +0000</pubDate></item><item><title>OpenAI、AI安全性強化のためカーネギーメロン大学教授を取締役に迎える</title><link>https://ledge.ai/articles/zico-kolter_joins_openais_board_of_directors</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -313,31 +345,7 @@ Black Forest Labsの発表によると、Fluxは解像度の向上や人間の�
 :::box
 
 :::
-</description><pubDate>Wed, 07 Aug 2024 03:54:07 +0000</pubDate></item><item><title>米インターネット掲示板大手RedditのCEO「ブロックするのホントに面倒」と無断データ利用を批判　MicrosoftなどAI企業を名指し</title><link>https://ledge.ai/articles/reddit_huffman_it_has_been_a_real_pain_in_the_ass_to_block</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-RedditのCEOであるスティーブ・ハフマン氏は2024年8月1日、Microsoftをはじめとする複数のAI企業による無断データ利用を批判し、その対策として同社が行ったウェブクローラーのブロックが  “a real pain in the ass to block these companies.（本当に面倒くさい作業）” であったと{target=“_blank”}で明らかにした。
-
-同氏は特に、検索エンジンBingを運営するMicrosoftと、AI企業のAnthropic、Perplexityの3社を名指しで批判した。これらの企業がRedditのデータを無許可で利用し、AIモデルのトレーニングや検索結果の要約に用いていることを問題視した結果、Redditはやむを得ずこれらの企業によるデータ取得をブロックする措置を取ったという。
-
-RedditはすでにGoogleやOpenAIといった企業とはデータ利用に関する合意を締結しており、これによりRedditは自身のデータの使用方法や表示内容を制御できるようになった。しかし、MicrosoftやAnthropic、Perplexityとの交渉は合意に至らず、最終的にRedditは7月初めにrobots.txtファイルを更新し、合意のないウェブクローラーをブロックする方針を打ち出した。
-
-これにより、Redditの検索結果はGoogleの検索エンジンには表示されるが、Bingなど他の検索エンジンには表示されなくなっている。この措置について、Microsoft側は競争に悪影響を与えるとして異議を唱えているが、ハフマン氏はRedditのデータがAIモデルのトレーニングに無断で使用されている点を重視している。
-
-Anthropicはすでに5月中旬からRedditをブロックリストに追加し、同サイトのURLをクロールしていないと表明しているが、MicrosoftやPerplexityからの公式なコメントは得られていない。ハフマン氏は今後も、Redditのデータ利用に対して公正なライセンス料を求める姿勢を示している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 06 Aug 2024 08:45:34 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
+</description><pubDate>Wed, 07 Aug 2024 03:54:07 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
 AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化してきている。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られている。
 
 Ledga.aiでは9月に“DXと未来の働き方”をテーマにしたLIVE配信イベントを行うが、そのプレイベントとして「DX担当者が知っておくべき生成AIの潮流」について、複数回に渡って情報発信する。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供する。
