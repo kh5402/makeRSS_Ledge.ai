@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 14 Aug 2024 10:12:49 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 14 Aug 2024 10:16:15 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2256,7 +2256,38 @@ AWSは後者の一括確保方法における計算リソース提供事業者�
 :::box
 
 :::
-</description><pubDate>Tue, 23 Jul 2024 07:53:28 +0000</pubDate></item><item><title>AIとホログラム技術で蘇る偉人内閣を描く　映画『もしも徳川家康が総理大臣になったら』</title><link>https://ledge.ai/articles/moshi-toku_drawing_a_cabinet_of_great_men_revived_by_ai</link><description>:::small
+</description><pubDate>Tue, 23 Jul 2024 07:53:28 +0000</pubDate></item><item><title>AI Picasso、1,000万枚の著作権配慮画像データセットを無償公開 - テキスト生成AIの開発を支援</title><link>https://ledge.ai/articles/ai-picasso_10million_copyright-conscious_image_data_sets_available_for_free</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+AI Picassoは2024年7月31日、著作権に配慮した画像生成AIの開発用データセットを無償で公開したことを{target=“_blank”}した。
+
+このデータセットは、約1,000万枚の画像を含み、Hugging Face上で「megalith-10m-florence2」と「soa-full-florence2」という2つの形式で提供されている。
+
+「{target=“_blank”}」は、madebyollin氏が作成した「Megalith-10M」というCC-0相当の写真画像リンク集にMicrosoftのマルチモーダルモデル「Florence-2」を用いてキャプションを追加したものだという。
+
+一方、「{target=“_blank”}」は、スミソニアン協会が公開したCC-0の絵画データを基にした「soa-full」というリンク集に同様の手法でキャプションを付けたものである。
+
+@
+
+
+
+これらのデータセットは、テキストからの画像生成や視覚言語モデルの開発を支援することを目的としており、著作権の問題を回避しつつ、クリエイターや研究者にとって有用なリソースとなることが期待されている。同社は、この無償公開を通じて、AI技術のさらなる発展を目指しているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 14 Aug 2024 10:16:15 +0000</pubDate></item><item><title>AIとホログラム技術で蘇る偉人内閣を描く　映画『もしも徳川家康が総理大臣になったら』</title><link>https://ledge.ai/articles/moshi-toku_drawing_a_cabinet_of_great_men_revived_by_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2589,25 +2620,4 @@ Mantraの代表取締役である石渡 祥之佑氏は、「エンタメから�
 
 :::
 
-</description><pubDate>Sun, 30 Jun 2024 21:14:19 +0000</pubDate></item><item><title>KRAFTON JAPAN　GPT-4o搭載の推理アドベンチャーゲーム『Uncover the Smoking Gun』を正式リリース</title><link>https://ledge.ai/articles/uncover_the_smoking_gun</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年6月25日、KRAFTON JAPAN株式会社は、AI技術を搭載した推理アドベンチャーゲーム『Uncover the Smoking Gun』をリリースしたと{target=“_blank”}した。
-
-『Uncover the Smoking Gun』は、KRAFTON JAPAN傘下のクリエイティブスタジオ「ReLU Games」が制作した、ロボットと人間が共存する近未来を舞台にした没入型推理アドベンチャーゲームだ。プレイヤーがAI専門の探偵となり、事件の手がかりを追いながら、容疑者であるロボットに対してチャットで尋問していく。
-
-OpenAIがリリースした「GPT-4o」を搭載しており、容疑者のロボットは単純に質問に回答するだけではなく、プレイヤーの性格に合わせた口調で、まるで実際に人とチャットで会話しているような感覚で楽しめるという。ロボットの曖昧な証言を見極め、真実にたどり着くために鋭い質問を投げかけながら、事件解決を目指す没入型の推理ゲーム。
-
-『Uncover the Smoking Gun』は、現在Steamでダウンロード可能。日本語、韓国語、英語、中国語など全8言語に対応しており、詳細はSteamページおよびReLU Games公式サイトで確認できる。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 27 Jun 2024 03:57:02 +0000</pubDate></item></channel></rss>
+</description><pubDate>Sun, 30 Jun 2024 21:14:19 +0000</pubDate></item></channel></rss>
