@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 14 Aug 2024 09:54:53 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 14 Aug 2024 10:12:49 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1456,7 +1456,59 @@ CAMELORS株式会社は2024年1月16日「フリーランス・副業の平均�
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>ミネソタ大学　メモリセル内で直接計算を行う「CRAM」で、AIの消費電力を最大2500分の1に削減</title><link>https://ledge.ai/articles/demo_of_cram_to_reduce_ai_power_consumption</link><description>:::small
+</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>GPT-4搭載アプリ「TwIPS」：自閉スペクトラム症のコミュニケーション課題を支援する新たなツール</title><link>https://ledge.ai/articles/twips_asd_communication_support</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+米国タフツ大学の研究者たちが2024年7月25日、自閉スペクトラム症（ASD）者向けのテキストメッセージングアプリ「TwIPS」（Texting with Interpret, Preview, and Suggest）を開発したことを{target=“_blank”}した。研究チームは、AIの力を活用してコミュニケーションの質を向上させることを目指している。TwIPSは、メッセージの解釈、プレビュー、提案の3つの主要な機能を提供し、ASD者が直面するコミュニケーションの課題に対応するという。
+## ASDにおけるコミュニケーションの課題とTwIPSの特徴
+ASDの人々は、対面でのコミュニケーションにおいて非言語的な手がかり（例: 表情、声のトーン）の解釈が難しいとされる。そのため、多くがテキストベースのコミュニケーションを好むが、感情的なニュアンスの理解や適切な表現が困難であることが課題とされているという。
+
+TwIPSは、こうしたテキストベースのコミュニケーションにおける課題を解決するために開発された。GPT-4を搭載したこのアプリは、ユーザーが送受信するメッセージのトーンや意味を解釈し、ユーザーに適切なフィードバックを提供する。
+## TwIPSの主要機能
+### 1.Interpret（解釈）機能
+Interpretは、受信したメッセージの全体的なトーンと意味を解釈し、比喩や絵文字などの曖昧な言語要素を個別に説明する機能である。曖昧な言葉や表現が含まれるメッセージは特定のアイコンで表示され、ユーザーがそのアイコンにカーソルを合わせると詳細な説明が表示される。これにより、ユーザーはメッセージの意図を誤解することなく理解できる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+### 2.Preview（プレビュー）機能
+Previewは、送信前にメッセージをプレビューし、受信者がそのメッセージに対してどのような感情的反応を示すかを予測する機能である。これにより、送信者が意図した通りのトーンでメッセージが伝わるかを確認できる。プレビューの結果、メッセージがブランク（そっけない）または厳しいと判断された場合、下図のように修正提案が行われる。この機能は、特にデリケートな場面での誤解を避けるために役立つ。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+### 3.Suggest（提案）機能
+Suggest機能は、Preview機能がメッセージを問題のあるものとして指摘した場合、ユーザーの意図を保持しつつ、トーンを和らげた別の表現を提案するものだ。この提案は、ユーザーが効果的なコミュニケーションを行う手助けをし、誤解や衝突を回避するために役立つ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+TwIPSは8人の自閉症者を対象に評価され、参加者の多くは、特にInterpret機能が有用であると評価し、グループチャットやデートアプリでの文脈理解に役立つと述べている。また、Preview機能により自己反省が促進され、自分のメッセージが他者にどのように受け取られるかをよりよく理解できたとされる。
+
+その一方で、一部の参加者からは、AIによる提案が自分の文体と合わない、または意図が希釈されると感じたとの指摘もあった。これに対し、TwIPSの開発者は今後の改善点として、ユーザーの個別のスタイルや好みに応じたカスタマイズ機能の強化を検討しているとのこと。
+
+研究チームは、AIアシスタントの信頼性とユーザーの自律性を維持しつつ、個別のニーズに対応できるようにすることを課題として挙げている。また、広範な応用可能性が期待される一方で、プライバシー保護と倫理的な配慮も重要な検討事項であると述べた。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+
+</description><pubDate>Wed, 14 Aug 2024 10:12:49 +0000</pubDate></item><item><title>ミネソタ大学　メモリセル内で直接計算を行う「CRAM」で、AIの消費電力を最大2500分の1に削減</title><link>https://ledge.ai/articles/demo_of_cram_to_reduce_ai_power_consumption</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1883,45 +1935,7 @@ Hypothetical Mindsは、LLMを活用して他のエージェントの意図を�
 :::box
 
 :::
-</description><pubDate>Wed, 24 Jul 2024 04:11:05 +0000</pubDate></item><item><title>ディズニーの研究チームが二足歩行ロボット『BD_X』を発表ーー「強化学習」で表現力豊かな動きを実現</title><link>https://ledge.ai/articles/disney_research_bdx</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-ディズニーリサーチとウォルト・ディズニー・イマジニアリングの研究チームは2024年7月15日、エンターテインメント分野向けに特化した新しい二足歩行ロボット「BD_X」の設計と制御技術を{target=“_blank”}した。このロボットは、観客に対する魅力的なパフォーマンスを実現するために、芸術的な動きと動的な安定性を両立しているという。
-
-@
-
-このロボットは、ディズニーキャラクターのような表現力豊かな動きを実現することを目的としている。ロボットが芸術的な動きをしながらも、バランスを保って安定して動くことができるように設計されている。
-
-「BD_X」は、両足に5つの関節、首と頭に4つの関節を持つ。このため、複雑で多彩な動きを可能にしている。さらに、強化学習によりロボットが芸術的な動きを学習し、実行するという。
-
-下図は、キャラクターデザインと制御の全体的な流れを示している。アニメーションとロボットの設計が互いに影響し合いながら進められ、最終的にはリアルタイムでの操作が可能になる。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-強化学習とは、ロボットが試行錯誤を通じて最適な動きを学ぶ方法である。この技術を使って、ロボットはさまざまな動きや歩行を習得する。ディズニーの研究チームは、ロボットが立ったり歩いたり、特定の動作を繰り返したりするための複数の動きを学習させた。
-
-実際の運用では、リモコンを使ってロボットを操作する。操縦者は、直感的な操作でロボットにさまざまな動きをさせることができる。この技術は、エンターテインメントだけでなく、教育や医療、サービス業などのさまざまな分野での応用が期待できるとのこと。
-
-下図は、操縦者がロボットを操作し、人間と対話する様子を示している。上部の画像では、ロボットが紙巻きを見つけて、それをベンチの下に蹴り飛ばすシーンを演じている。下部の画像では、ロボットが人間に近づき、頭をなでられる様子を示している。このようにして、ロボットはさまざまな感情表現やインタラクションを実現する。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jul 2024 04:07:03 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
+</description><pubDate>Wed, 24 Jul 2024 04:11:05 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
