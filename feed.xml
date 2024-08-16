@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Aug 2024 09:35:18 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Aug 2024 09:38:14 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1935,7 +1935,41 @@ DPIは、Web上のデータ収集に関する同意の取り扱いが不十分�
 :::box
 
 :::
-</description><pubDate>Fri, 26 Jul 2024 22:32:48 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
+</description><pubDate>Fri, 26 Jul 2024 22:32:48 +0000</pubDate></item><item><title>総務省、生成AIや量子コンピュータに対応する「ICTサイバーセキュリティ政策の中期重点方針」を発表</title><link>https://ledge.ai/articles/mic_ict_cybersecurity_policy_priorities</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+総務省は2024年7月31日、「ICTサイバーセキュリティ政策の中期重点方針」を{target=“_blank”}した。同方針は厳しさを増す国際情勢や急速に普及する生成AI、量子コンピュータの進展によって生じる新たなセキュリティリスクに対応するための中長期的な施策を示している。
+## 背景と策定経緯
+この方針は、2024年2月から開催された「ICTサイバーセキュリティ政策分科会」での検討結果に基づいている。同分科会は、サイバー攻撃の高度化やサプライチェーンの複雑化などの課題に対処するため、総務省が中長期的に取り組むべきセキュリティ施策を議論し、7月に「ICTサイバーセキュリティ政策の中期重点方針」（案）をまとめた。この案は一般からの意見募集を経て、17件の意見を参考に最終的な方針として策定された。
+
+発表された重点方針では、以下の4つの分野が強調されている：
+### 1. 重要インフラのセキュリティ確保
+通信や放送、自治体のデータ基盤など、重要インフラに対するサイバーセキュリティの強化が求められている。特にIoT機器を標的とするサイバー攻撃に対し、新たなマルウェア対策が進められる。
+
+### 2. 新技術への対応
+生成AIや量子コンピュータの進展による従来の暗号技術の危殆化に対応するため、耐量子暗号の研究開発やAIを用いたサイバー攻撃対策が強化される。
+
+### 3. セキュリティ人材の確保
+巧妙化するサイバー攻撃に対抗するためのセキュリティ人材の育成が急務であり、地域のセキュリティコミュニティを強化する普及啓発活動も推進される。
+
+### 4. 国際連携の強化
+国際的なサイバーセキュリティ基準の策定や各国との連携強化を通じて、日本のセキュリティ対応能力を向上させることが目指されている。
+
+この重点方針に基づき総務省は、2030年に向けて関連機関や民間企業と連携し、具体的なセキュリティ施策の実施を進める。特に、新技術に対応したセキュリティ基盤の強化は、日本のデジタル社会の安全と信頼性を支える重要な要素となることが期待されている。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 15 Aug 2024 09:38:14 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2229,34 +2263,7 @@ AWSは後者の一括確保方法における計算リソース提供事業者�
 :::box
 
 :::
-</description><pubDate>Wed, 24 Jul 2024 03:50:50 +0000</pubDate></item><item><title>内閣府　AI戦略会議で「AI制度研究会」のメンバーを発表、座長には東大松尾教授　AIに関する法規制のあり方を議論</title><link>https://ledge.ai/articles/cabinet_office_announces_members_of_ai_system_study_group</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-内閣府は2024年7月19日、AIに関する法規制のあり方を議論するための「AI制度研究会」のメンバーを{target=“_blank”}した。研究会の目的は、AI技術の進展とそれに伴う社会的影響を考慮し、適切な法規制の枠組みを検討することである。
-
-研究会の座長は、東京大学大学院の松尾豊教授が務める。その他のメンバーには以下の専門家が選ばれた（敬称略）
-
-- 江間有沙（東京大学国際高等研究所東京カレッジ准教授）
-- 岡田淳 （森・濱田松本法律事務所弁護士）
-- 川原圭博 （東京大学大学院工学系研究科教授）
-- 北野宏明 （株式会社ソニーリサーチ代表取締役プレジデント）
-- 佐渡島庸平 （株式会社コルク代表取締役社長）
-- 田中邦裕 （さくらインターネット株式会社代表取締役社長）
-- 山口真一 （国際大学グローバル・コミュニケーション・センター准教授）
-
-この発表は、同日に持ち回りで開催された第10回AI戦略会議において行われ、「AI制度研究会」の設置案が原案の通り決定された。同研究会は、AI技術の健全な発展とその利活用を促進するための法的課題や倫理的問題について、多角的な議論を進めることを目指すという。
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Tue, 23 Jul 2024 07:53:28 +0000</pubDate></item><item><title>AI Picasso、1,000万枚の著作権配慮画像データセットを無償公開 - テキストからの画像生成AI開発を支援</title><link>https://ledge.ai/articles/ai-picasso_10million_copyright-conscious_image_data_sets_available_for_free</link><description>:::small
+</description><pubDate>Wed, 24 Jul 2024 03:50:50 +0000</pubDate></item><item><title>AI Picasso、1,000万枚の著作権配慮画像データセットを無償公開 - テキストからの画像生成AI開発を支援</title><link>https://ledge.ai/articles/ai-picasso_10million_copyright-conscious_image_data_sets_available_for_free</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
