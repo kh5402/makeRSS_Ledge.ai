@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Aug 2024 09:38:14 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Aug 2024 11:43:08 +0000</lastBuildDate><item><title>「担当者に替わって！」AI自動音声エージェントが顧客離れを引き起こすリスク
+</title><link>https://ledge.ai/articles/automated_voice_agents_are_hurting_customer_retention</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+最新の調査により、消費者の多くが自動音声エージェントに不満を抱いていることが明らかになった。自動化が進む中で、企業はコスト削減と効率化を目指しているが、顧客は依然として人間の対応を求めている。このギャップを埋めるためには、AI技術のさらなる進化と戦略的な導入が不可欠だという。
+
+AI音声ソリューション企業Tenyxが委託した調査により、自動音声エージェントに対する消費者の不満が浮き彫りになったと米メディアの{target=“_blank”}が2024年7月25日に報じた。この調査は、マーケティングリサーチ企業Centimentが実施し、実に71%の消費者が現在のバーチャル・エージェントに対してフラストレーションを感じていることが明らかになった。さらに、55%の回答者は、現在使用されている自動化された顧客サービス技術に直面した場合、取引をやめるか、別の会社を利用すると答えているという。
+
+TenyxのCEOであるイタマー・アレル氏は、ネガティブな体験が顧客離れを引き起こし、ブランドの評判に悪影響を及ぼすと警告している。
+## 顧客は依然として人間のエージェントを好む
+調査によると、67%の回答者が依然として人間のエージェントと話すことを好んでおり、特に複雑な問題に対処する際には自動音声エージェントに対する不信感が強いという。また、回答者の30%近くが常に人間のエージェントを選ぶと回答しており、自動化の限界が浮き彫りになった。
+
+ただし、もし自動音声エージェントが人間のパフォーマンスに匹敵するレベルに達すれば、多くの消費者がこの技術を頻繁に利用する意向を示している。これは企業にとって、大きなコスト削減の可能性がある一方で、顧客体験を向上させるための課題を抱えていることを意味するとのこと。
+
+## 最適な解決策は人間とAIのハイブリッド
+アレル氏はまた、効果的な顧客サービスの提供には、人間のエージェントとAIのハイブリッドアプローチが最適であると述べている。人間のエージェントは複雑で微妙な問題に対応し、自動音声エージェントは日常的で反復的な問い合わせに迅速かつ正確に対処することができる。
+
+さらに、AIシステムの継続的なトレーニングと最適化、そして顧客からのフィードバックを活用することで、システムの性能を大幅に向上させることが可能であるとされている。また、AIが限界に達した場合にスムーズに人間のエージェントに引き継げるようにすることも、顧客がサポートされていると感じるために重要となるという。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 15 Aug 2024 11:43:08 +0000</pubDate></item><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -307,45 +338,7 @@ JAPAN AIは、今後も独自のAIモデルを通じて日本市場に特化し�
 :::box
 
 :::
-</description><pubDate>Wed, 07 Aug 2024 03:58:06 +0000</pubDate></item><item><title>Stable Diffusionの元開発者たちがAI企業「Black Forest Labs」を設立し、新たにオープンソースの画像生成AI「Flux」を発表</title><link>https://ledge.ai/articles/black_forest_labs_announces_flux</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年8月1日、画像生成AI「Stable Diffusion」の開発に携わった研究者チームが、新たなAI企業「{target=“_blank”}」を設立し、オープンソースの画像生成AIモデル「Flux」を{target=“_blank”}した。
-
-Fluxは120億のパラメーターを持つ、現時点で最大規模のオープンソースの text-to-image モデルであり、これまでの業界標準を大きく超える性能を誇るという。
-
-Black Forest Labsは、Stable Diffusionに続き、テキストから高品質な画像を生成する技術において新たなマイルストーンを打ち立てた。Fluxは、ユーザーの様々なニーズに応えるため、以下の3つのバリエーションが用意されている。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-**1.FLUX.1 [dev]：** 基本モデルで、非商用ライセンスのもとオープンソースとして提供される
-**2. FLUX.1 [schnell]：** 基本モデルを10倍の速度で動作させる蒸留版。Apache 2ライセンスのもとで提供される
-**3. FLUX.1 [pro]：** API経由でのみ利用可能なクローズドソース版
-
-これらのモデルは、Hugging Faceやfal.aiといったプラットフォーム上で公開されており、ユーザーはこれらを自由に試すことができる。特にFLUX.1 [schnell]は、従来のモデルと比較して処理速度が2倍に向上しており、リアルタイムでの応用に適しているという。
-
-Black Forest Labsの発表によると、Fluxは解像度の向上や人間の解剖学的精度の改善、プロンプトに対する高い忠実性など、多くの点で他のモデルを凌駕している。特に、同社が強調しているのは、MidjourneyやDALL-E 3などの他の主要な画像生成AIモデルを上回るパフォーマンスを実現したという点だ。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-今回の発表は、Black Forest LabsがAndreessen Horowitzをはじめとする著名な投資家から総額3100万ドルの資金調達に成功した直後に行われたものであり、同社の技術的なリーダーシップと市場への影響力を示すものとなっている。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 07 Aug 2024 03:54:07 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
+</description><pubDate>Wed, 07 Aug 2024 03:58:06 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
 AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化してきている。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られている。
 
 Ledga.aiでは9月に“DXと未来の働き方”をテーマにしたLIVE配信イベントを行うが、そのプレイベントとして「DX担当者が知っておくべき生成AIの潮流」について、複数回に渡って情報発信する。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供する。
