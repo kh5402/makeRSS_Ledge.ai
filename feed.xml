@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Aug 2024 11:43:08 +0000</lastBuildDate><item><title>「担当者に替わって！」AI自動音声エージェントが顧客離れを引き起こすリスク
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 07:31:53 +0000</lastBuildDate><item><title>Google、AI検索機能「AI Overview」を日本を含む6か国で提供開始、リアルタイム会話機能「Gemini Live」も発表</title><link>https://ledge.ai/articles/google_gemini_ai-overview_and_gemini-live</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年8月、日本では盆休みの方も多そうなこの期間、GoogleはAI技術を活用した新たな機能を次々と発表した。AIを用いた検索機能「AI Overview」の国際展開と、リアルタイム会話が可能な「Gemini Live」の導入により、ユーザーはより直感的で便利な検索体験や会話を楽しめるようになる。
+
+## AIによる検索機能「AI Overview」を日本を含む6か国で提供開始
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+8月15日、AIを活用した検索機能「AI Overview」を日本、英国、インド、インドネシア、メキシコ、ブラジルの6か国で提供開始することを{target=“_blank”}した。この機能は、今年5月に米国で試験的に導入され、ユーザーの検索クエリに対してAIが生成した要約を表示する。
+
+「AI Overview」は、{target=“_blank”}で発表された生成AI搭載の新しい検索エンジンの一部であり、より簡潔かつ的確な情報提供を目指して開発された。しかし、米国での初期導入時には「ピザに接着剤を入れるといい」といった誤った回答が話題となり、一時的に提供が停止されていた。Googleはその後、機能改善を進め、「Search Labs」での再テストを経て、今回の国際展開に至ったという。
+
+この新機能は、「Search Labs」に参加していなくても、指定された6か国のユーザーが利用可能となる。
+
+さらに、AI Overviewの機能拡充として、生成した回答の情報源リンクを表示する新機能を追加した。デスクトップ版ではリンクがインラインで表示され、モバイル版では情報源のサイトアイコンが右上にまとめて表示される仕様となっている。これにより、ユーザーは検索結果に基づく信頼性を容易に確認できるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+今後同社は、英語設定の米国ユーザー向けに、AI Overviewの要約を保存する機能や、要約をさらに簡潔に表示するオプションも導入予定だという。
+## 「Gemini Live」リアルタイム会話可能なAIアシスタントを発表
+@
+
+
+8月13日には、AIアシスタント「Gemini」の新機能「Gemini Live」を{target=“_blank”}した。
+
+Gemini Liveは、ユーザーがリアルタイムでGeminiと自然な会話を楽しむことができる機能で、ブレインストーミングや会話の練習など、多様な用途に対応するという。
+
+この新機能は、携帯電話がロックされている状態でもバックグラウンドで会話を続けられるハンズフリー対応が特徴で、ユーザーはいつでもどこでもGeminiとの会話を楽しむことが可能だ。また、10種類の新しいボイスオプションが追加され、ユーザーは自身の好みに合わせた口調やスタイルを選択できる。
+
+現時点では、Gemini LiveはAndroid利用者かつGemini Advance加入者を対象に英語で提供されているが、数週間以内にiOSや他の言語にも対応拡大予定とのこと。Gemini経由でメモアプリ「Keep」へのメモ追加機能や、Gmailやカレンダーとの統合といった新機能も順次追加される。
+
+Googleはこの発表に際し、「自然言語をよりよく解釈し、複雑なタスクを処理できる大規模な言語モデルを使用することで、ユーザー体験がさらに向上する」と述べた。・
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 16 Aug 2024 07:31:53 +0000</pubDate></item><item><title>「担当者に替わって！」AI自動音声エージェントが顧客離れを引き起こすリスク
 </title><link>https://ledge.ai/articles/automated_voice_agents_are_hurting_customer_retention</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
@@ -315,30 +363,7 @@ JAPAN AIは、今後も独自のAIモデルを通じて日本市場に特化し�
 :::box
 
 :::
-</description><pubDate>Wed, 07 Aug 2024 08:02:09 +0000</pubDate></item><item><title>ニッポン放送　AI技術でパーソナリティの声をそのまま英語に変換　新ポッドキャストを2か国語で配信開始</title><link>https://ledge.ai/articles/nippon_broadcasting_starts_podcast_with_lingiine</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年8月1日、ニッポン放送はAI技術を用いて日本語音声を英語に変換し、ポッドキャスト番組を配信する新たな取り組みを{target=“_blank”}した。新番組『TOKYO MUSIC LAB ～今日から話せる音楽雑学～』において、同社が開発した多言語音声変換ツール「リングイイネ！」が活用されるという。
-
-リングイイネ！は、日本語で話した内容を話者の声そのままに他言語へ翻訳できるAIツール。リスナーは同番組を日本語と英語のどちらかで楽しめるとのこと。初回は8月1日18時に配信開始。ニッポン放送 PODCAST STATIONほか、各種ポッドキャストアプリで配信される。
-
-{target=“_blank”}によると、AIで日本語の音声を英語に翻訳した後いったん日本語に再翻訳し、文章を人の目で見比べて確認するという。翻訳システムは他社のものを使っているが、ニュアンスや主述、人名が違うことがあるため、再翻訳して比べた上で再び英語にしているとのこと。
-
-ニッポン放送は、今後この修正作業の自動化を進めるとともに、リングイイネ！の商業化を検討しており、他のラジオ局への導入にも前向きに取り組むという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 07 Aug 2024 03:58:06 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
+</description><pubDate>Wed, 07 Aug 2024 08:02:09 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
 AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化してきている。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られている。
 
 Ledga.aiでは9月に“DXと未来の働き方”をテーマにしたLIVE配信イベントを行うが、そのプレイベントとして「DX担当者が知っておくべき生成AIの潮流」について、複数回に渡って情報発信する。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供する。
