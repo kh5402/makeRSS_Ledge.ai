@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 14 Aug 2024 10:16:15 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 15 Aug 2024 09:35:18 +0000</lastBuildDate><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1456,7 +1456,47 @@ CAMELORS株式会社は2024年1月16日「フリーランス・副業の平均�
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>GPT-4搭載アプリ「TwIPS」：自閉スペクトラム症のコミュニケーション課題を支援する新たなツール</title><link>https://ledge.ai/articles/twips_asd_communication_support</link><description>:::small
+</description><pubDate>Wed, 31 Jan 2024 07:40:18 +0000</pubDate></item><item><title>Sakana AI、科学研究を完全自動化する「The AI Scientist」を発表　研究アイデアの生成から実験の実行、データ解析、論文執筆、査読プロセスまでをカバー</title><link>https://ledge.ai/articles/sakana-ai_the-ai-scientist</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+東京を拠点とするAIスタートアップSakana AIは2024年8月13日、科学研究を完全に自動化するシステム「The AI Scientist」を{target=“_blank”}した。このシステムは、研究アイデアの生成から実験の実行、データ解析、論文執筆、さらに査読プロセスまで、すべてを自動で行うことができるという。
+
+The AI Scientistは、オックスフォード大学とブリティッシュコロンビア大学（UBC）の研究者と共同で開発された。このシステムは、広範な研究分野に適用可能であり、特に機械学習のサブフィールドである拡散モデル、言語モデル、学習動態などの研究でその実力を発揮している。これまで、AIは人間の研究者を支援する役割にとどまっていたが、同システムは研究プロセス全体を自動化する初の包括的なフレームワークとして注目されているとのこと。
+
+The AI Scientistでは、科学研究が以下のようなステップで進められる
+
+**1. アイデア生成:** AIが新しい研究アイデアを自動的に生成し、その独創性と実現可能性を評価
+**2. 実験の実行:** 提案されたアイデアに基づき、必要なコードを書き、実験を実行
+**3. データ解析:** 実験結果を解析し、視覚的に表現
+**4. 論文執筆:** 得られた結果を基に、完全な科学論文を執筆
+**5. 査読プロセス:** シミュレートされた査読プロセスを通じて論文の品質を評価し、フィードバックを基に改訂
+
+このプロセスにより、人間の介入なしに科学的発見を行うことが可能だという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同社によれば、このシステムを用いることで、1本の研究論文を作成するのに必要な計算コストは約15ドルとされている。これにより、研究のコストが大幅に削減され、科学研究の民主化が進むと期待されている。
+
+また、このシステムは、研究アイデアを自ら生成し、そのアイデアに基づいて実験を設計・実行し、得られた結果をもとに論文を執筆する。そして、査読プロセスも自動化されており、生成された論文は査読基準に基づいて評価される。
+
+一方で「The AI Scientist」にはいくつかの課題も残されている。例えば、アイデアの生成や実験の実行において誤りが生じる可能性があり、その結果、誤った結論に至るリスクがあるとのこと。また、生成された論文には、設計の根拠が不十分である部分や、実験結果が過度にポジティブに解釈される傾向が見られると報告されている。
+
+これらの課題を克服するため、Sakana AIは今後もシステムの改良を続ける予定だという。
+
+さらに、この技術には倫理的な懸念も存在する。例えば、自動生成された論文が大量に提出されることで査読者の負担が増加し、学術プロセスが圧迫される可能性がある。また、自動査読システムが偏った評価を行うことで、学術的な質が低下するリスクも指摘されている。そのため、AIによって生成された論文や査読結果は、透明性を確保するために明示的に表示されるべきであると提案されている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 15 Aug 2024 09:35:18 +0000</pubDate></item><item><title>GPT-4搭載アプリ「TwIPS」：自閉スペクトラム症のコミュニケーション課題を支援する新たなツール</title><link>https://ledge.ai/articles/twips_asd_communication_support</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -1895,47 +1935,7 @@ DPIは、Web上のデータ収集に関する同意の取り扱いが不十分�
 :::box
 
 :::
-</description><pubDate>Fri, 26 Jul 2024 22:32:48 +0000</pubDate></item><item><title>AIエージェントに「心の理論」を実装すると、他のエージェントの状態を推測して行動するーースタンフォード大学の研究</title><link>https://ledge.ai/articles/hypothetical_minds</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-スタンフォード大学の研究チームは2024年7月9日、認知科学に基づく設計で、他のエージェントの状態を推測して行動するエージェント「Hypothetical Minds」の成果を{target=“_blank”}した。このモデルは、競争、協力、混合動機のマルチエージェント環境で他のエージェントの戦略や目標を推測し、適応的な行動を取ることができるという。
-
-Hypothetical Mindsは、LLMを中核に据えた認知的なアーキテクチャを特徴とし、認識、記憶、階層的な計画のためのモジュールを統合している。特に、心の理論モジュール（ToMモジュール）を搭載しており、他のエージェントの戦略や目標に関する仮説を自然言語で生成、評価、改良する機能を持つという。
-
-このToMモジュールは他のエージェントの行動を観察し、仮説を生成してからその仮説を評価、改良する一連のステップを経る。このプロセスにより、Hypothetical Mindsは他のエージェントの行動を効果的に推測し、適応的な戦略を実行することが可能となる。
-
-下図は、Hypothetical Mindsがどのようにして他のエージェントの行動を予測し、仮説を評価・改良するかを示している。エージェントは観察データをもとに、他のエージェントの戦略に関する仮説を生成し、それを繰り返し評価することで、より正確な仮説に近づいていく。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-## 実験結果と評価
-研究チームは、マルチエージェント環境「Melting Pot」ベンチマークにおいて、Hypothetical Mindsの性能を評価した。このベンチマークには、競争的、協力的、および混合動機のドメインが含まれており、30の異なる評価シナリオが存在する。
-
-**競争環境（Running With Scissors）：** ゼロサムゲーム環境で、エージェントは他のプレイヤーの動きを予測し、対抗する戦略を選択する。Hypothetical Mindsは、固定的な戦略を採用するシナリオでも、適応的な戦略を用いるシナリオでも、常に高い報酬を得ることができた。
-
-**協力環境（Collaborative Cooking Asymmetric）：** 非対称のキッチンでトマトスープを効率的に調理するために、エージェントが協力する。このシナリオでは、Hypothetical Mindsはパートナーのスキルや役割に適応し、高い協力成果を上げた。
-
-**混合動機環境（Prisoner’s Dilemma）：** エージェントは協力または裏切りの選択を行うが、長期的な利益を最大化するためには協力が必要である。Hypothetical Mindsは、動的なパートナーとの相互作用で最も高いスコアを達成した。
-
-
-Hypothetical Mindsは、LLMを活用して他のエージェントの意図を推測し、適応的に行動するエージェントとして、競争的、協力的、および混合動機のマルチエージェント環境で高い性能を発揮した。特に、心の理論モジュールの導入により、他のエージェントの戦略を効果的に推測し、それに基づいて行動を選択する能力が向上したことが確認されたという。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jul 2024 04:11:05 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
+</description><pubDate>Fri, 26 Jul 2024 22:32:48 +0000</pubDate></item><item><title>イーロン・マスク氏のAIチャットボット「Grok」が選挙情報を誤報し、州務長官が改善を要求</title><link>https://ledge.ai/articles/secretaries_state_urge_musk_fix_grok_spreading_false_election_info</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
