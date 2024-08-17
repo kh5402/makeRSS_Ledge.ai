@@ -1,30 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 07:38:22 +0000</lastBuildDate><item><title>ウクライナ、前線に「Unitree Go2」に似たロボット犬を配備：偵察と地雷検出を支援</title><link>https://ledge.ai/articles/ukraine_deploys_robot_dogs_similar_to_unitree</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-ウクライナ軍は、戦場における兵士のリスクを軽減するため、新たに開発されたロボット犬「BAD One」を前線に配備する計画を進めている。2024年8月7日、ウクライナの非公開の場所でこのロボット犬のデモンストレーションが行われ、その性能が公開されたと複数メディアで報じられた。
-
-「BAD One」は、主に偵察や地雷検出などの危険な任務をサポートすることを目的として設計されており、戦場での兵士の安全性向上が期待できるという。地上付近で動作し、サーマルイメージングを利用して敵の塹壕や建物内を調査する能力を持つ。また、最大7キログラムの弾薬や医薬品を運搬でき、兵士たちの戦闘支援も行うとのこと。
-
-デモンストレーションでは、ロボット犬が指令に従って立ち上がり、しゃがみ、走り、跳ねる動作を正確に行う様子が披露された。開発者によれば、敵の手に落ちた際には遠隔操作でデータを消去する機能も搭載されており、機密情報の漏洩を防ぐことができるという。
-
-この技術は、兵士の安全性を高め、作戦の効果を向上させると期待されており、将来的に前線での重要な戦力となる可能性がある。
-
-さらに、ウクライナ軍は別の四足歩行ロボットをバフムート近郊のトレツク前線で試験的に運用している。このロボットは、都市部や農村部で兵士と共に行動し、偵察任務を支援するよう設計されている。映像や画像から、このロボットは中国のUnitree Robotics社が開発した「{target=“_blank”}」に似ており、障害物回避のための4D LIDARや広視野角カメラを搭載し、最大18 km/hの速度で移動する能力を持つ。
-
-これらのロボット技術の導入により、ウクライナ軍は戦場での優位性を強化し、兵士のリスクを最小限に抑えることを目指している。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 16 Aug 2024 07:38:22 +0000</pubDate></item><item><title>Google、AI検索機能「AI Overview」を日本を含む6か国で提供開始、リアルタイム会話機能「Gemini Live」も発表</title><link>https://ledge.ai/articles/google_gemini_ai-overview_and_gemini-live</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 12:22:37 +0000</lastBuildDate><item><title>Google、AI検索機能「AI Overview」を日本を含む6か国で提供開始、リアルタイム会話機能「Gemini Live」も発表</title><link>https://ledge.ai/articles/google_gemini_ai-overview_and_gemini-live</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -363,7 +338,32 @@ JAPAN AIは、今後も独自のAIモデルを通じて日本市場に特化し�
 :::box
 
 :::
-</description><pubDate>Thu, 08 Aug 2024 05:47:49 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
+</description><pubDate>Thu, 08 Aug 2024 05:47:49 +0000</pubDate></item><item><title>ペライチ、参考にしたいURLを入力するだけでAIがホームページを自動生成する新機能を発表</title><link>https://ledge.ai/articles/peraichi_create_assistant</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社ペライチは2024年8月5日、新たな機能「ペライチクリエイトアシスタント」を{target=“_blank”}した。この機能は、参考にしたいサイトのURLを入力するだけで、AIが最適なホームページを自動で生成するというもの。専門的なウェブデザインの知識がなくても、短時間でプロフェッショナルなウェブサイトを作成できるという。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ホームページ制作の工数やリードタイムを大幅に削減し、特にSMB（中小企業）にとって大きな生産性向上の効果が期待されるという。例えば、大手ECモールのページを参考に自社のオンラインショップを作成したり、過去に作成した古いサイトを簡単に最適化してアップデートすることが可能になるとのこと。
+
+この「ペライチクリエイトアシスタント」の開発には、Amazon Web Services（AWS）の技術支援が活用されており、同社の生成AI技術が導入されている。これにより、AIが自動的にデザインやコンテンツを生成し、制作にかかるコストと時間を大幅に削減可能となる。現在、無料モニターの募集も行っており、公式サイトから参加申し込みが可能だ。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 07 Aug 2024 08:02:09 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
 AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化してきている。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られている。
 
 Ledga.aiでは9月に“DXと未来の働き方”をテーマにしたLIVE配信イベントを行うが、そのプレイベントとして「DX担当者が知っておくべき生成AIの潮流」について、複数回に渡って情報発信する。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供する。
@@ -1590,7 +1590,51 @@ GitHubは2024年2月9日、GitHubに関する質問に迅速に答えるため�
 :::box
 
 :::
-</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>Sakana AI、科学研究を完全自動化する「The AI Scientist」を発表　研究アイデアの生成から実験の実行、データ解析、論文執筆、査読プロセスまでをカバー</title><link>https://ledge.ai/articles/sakana-ai_the-ai-scientist</link><description>:::small
+</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>1枚の画像でリアルタイムにフェイク動画を生成可能な「Deep-Live-Cam」が登場</title><link>https://ledge.ai/articles/deep_live_cam</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+2024年8月、オープンソースのAIツール「Deep-Live-Cam」が{target=“_blank”}された。同ツールは、たった1枚の画像を使用するだけで、ウェブカメラの映像に別人の顔をリアルタイムで重ねることができるという。従来のディープフェイク技術が大量のサンプル画像や長い処理時間を必要としたのに対し、このツールは、わずか数クリックでフェイク映像を作成できる点で注目を集めている。
+## 「Deep-Live-Cam」の特徴と技術概要
+Deep-Live-Camは非常にシンプルな操作性を持つ。ユーザーは、なりすましたい人物の顔写真を1枚選び、「Live」をクリックするだけで、ウェブカメラに映る自身の顔がその人物に置き換えられる。生成された映像は、OBSなどの録画・配信ソフトを用いて保存・配信することが可能であり、これにより、ディープフェイク動画がリアルタイムで容易に作成できる。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+このツールは、CPUだけでなく、CUDAやCore ML、DirectML、OpenVINOといったGPUアクセラレーションにも対応しており、幅広いハードウェアで利用可能だ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+インターネット上では、Deep-Live-Camを使用した様々な動画が投稿され、この新しいディープフェイクAIツールが話題となっている。
+
+
+!
+:::small
+画像：{target=“_blank”}
+:::
+
+## 社会的影響とリスク
+Deep-Live-Camの登場により、ディープフェイク技術がさらに普及する可能性があるが、その一方で、詐欺や偽情報の拡散といったリスクも懸念されている。実際、この技術を悪用した犯罪の例も報告されており、開発者側はフィルター機能を導入するなどして不適切なコンテンツの生成を防ぐ対策を講じているとのこと。
+
+オープンソース化により、多くの開発者がこの技術の安全性向上に寄与することが期待されるが、技術の進化とともに社会的影響への注意が不可欠となる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 16 Aug 2024 12:22:37 +0000</pubDate></item><item><title>Sakana AI、科学研究を完全自動化する「The AI Scientist」を発表　研究アイデアの生成から実験の実行、データ解析、論文執筆、査読プロセスまでをカバー</title><link>https://ledge.ai/articles/sakana-ai_the-ai-scientist</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2028,36 +2072,20 @@ Stable Video 4Dのトレーニングデータセットには、Open Data Commons
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jul 2024 08:55:27 +0000</pubDate></item><item><title>枯渇するAIトレーニングデータ：データ収集の新たな課題とその影響　MIT主導の調査団体が発表</title><link>https://ledge.ai/articles/dpi_consent_in_crisis_paper</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-AIモデルのトレーニングに必要となる大量のテキスト、画像、動画データは、主にインターネットから収集されるが、近年、多くのWebサイトがロボット排除プロトコル（robots.txt）を使用して自動収集をブロックしている。また、利用規約を変更してデータの使用を制限するサイトも増えているという。
-
-2024年7月19日の{target=“_blank”}の記事によると、AI企業が使用可能なデータの総量は1年で約5％減少し、高品質なデータは約25％が利用できなくなっているという。これらの制約は、特にニュースサイトやソーシャルメディアプラットフォームからのデータ収集において顕著であるとのこと。
-
-MIT主導のData Provenance Initiative（DPI）によるこの調査は、問題の深刻さを浮き彫りにしている。DPIは、AIトレーニング用データセット「C4」「RefinedWeb」「Dolma」に含まれる1万4,000件のWebドメインを分析し、クローリングで得られるデータとその使用に関する同意状況の変化を追跡した。その結果、これらのデータセットにおけるトークンの約45％が、利用規約の変更により使用制限がかけられていることが判明したという。
-
-DPIは、MITメディアラボのプロジェクトとして開始され、AIトレーニングデータセットのライセンスおよび帰属に関する大規模な監査を行う団体だ。法律および機械学習の専門家が協力し、データセットの出所や使用に関する透明性を向上させることを目的としているという。
-## データ制限の現状とその傾向
-調査によると、2023年から2024年の間にC4データセットの5％以上、最も重要なソースの28％以上がrobots.txtによって制限されている。また、利用規約による制限は全体の45％に及ぶ。
-
-下図は、2016年から2024年までの期間における、主要なWebドメインにおけるrobots.txtと利用規約の制限の変化を示している。この図は、AI組織のクローラーに対する制限の増加を視覚的に示すもので、特に2023年以降、AIクローラーに対するrobots.txtの制限が急増していることが明らかにされている。
-
-!
-:::small
+</description><pubDate>Sun, 28 Jul 2024 08:55:27 +0000</pubDate></item><item><title>ウクライナ、前線に「Unitree Go2」に似たロボット犬を配備：偵察と地雷検出を支援</title><link>https://ledge.ai/articles/ukraine_deploys_robot_dogs_similar_to_unitree</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
+ウクライナ軍は、戦場における兵士のリスクを軽減するため、新たに開発されたロボット犬「BAD One」を前線に配備する計画を進めている。2024年8月7日、ウクライナの非公開の場所でこのロボット犬のデモンストレーションが行われ、その性能が公開されたと複数メディアで報じられた。
 
-## 主要なデータ制限の例
-- **RedditとStackOverflow：**  各サイトは、AI企業に対してデータアクセスを有料化している
-- **The New York Times：** NYTは、OpenAIやMicrosoftを著作権侵害で訴えており、これらの企業がニュース記事を許可なく使用してAIモデルをトレーニングしたことが原因と考えている
+「BAD One」は、主に偵察や地雷検出などの危険な任務をサポートすることを目的として設計されており、戦場での兵士の安全性向上が期待できるという。地上付近で動作し、サーマルイメージングを利用して敵の塹壕や建物内を調査する能力を持つ。また、最大7キログラムの弾薬や医薬品を運搬でき、兵士たちの戦闘支援も行うとのこと。
 
-高品質なデータの減少は、AIモデルの性能低下や、公開データセットに依存する小規模なAI開発者に対して影響を及ぼすという。
+デモンストレーションでは、ロボット犬が指令に従って立ち上がり、しゃがみ、走り、跳ねる動作を正確に行う様子が披露された。開発者によれば、敵の手に落ちた際には遠隔操作でデータを消去する機能も搭載されており、機密情報の漏洩を防ぐことができるという。
 
-OpenAIは、クローリングによるデータ収集が{target=“_blank”}しているが、出版社やコンテンツ提供者向けにオプトアウト機能を提供するなど、倫理的なデータ利用を推進している。同社は、クローリングによるデータ収集が法的に認められている地域であっても、コンテンツ提供者の意向を尊重する姿勢を示しているという。
+この技術は、兵士の安全性を高め、作戦の効果を向上させると期待されており、将来的に前線での重要な戦力となる可能性がある。
 
-DPIは、Web上のデータ収集に関する同意の取り扱いが不十分で、多くのサイトがAI開発に対してデータ利用を制限していると指摘。この傾向は、今後も続くと予測され、AI技術の発展において重大な影響を及ぼす可能性があると述べた。
+さらに、ウクライナ軍は別の四足歩行ロボットをバフムート近郊のトレツク前線で試験的に運用している。このロボットは、都市部や農村部で兵士と共に行動し、偵察任務を支援するよう設計されている。映像や画像から、このロボットは中国のUnitree Robotics社が開発した「{target=“_blank”}」に似ており、障害物回避のための4D LIDARや広視野角カメラを搭載し、最大18 km/hの速度で移動する能力を持つ。
+
+これらのロボット技術の導入により、ウクライナ軍は戦場での優位性を強化し、兵士のリスクを最小限に抑えることを目指している。
 
 
 :::box
@@ -2069,7 +2097,7 @@ DPIは、Web上のデータ収集に関する同意の取り扱いが不十分�
 :::box
 
 :::
-</description><pubDate>Fri, 26 Jul 2024 22:32:48 +0000</pubDate></item><item><title>総務省、生成AIや量子コンピュータに対応する「ICTサイバーセキュリティ政策の中期重点方針」を発表</title><link>https://ledge.ai/articles/mic_ict_cybersecurity_policy_priorities</link><description>:::small
+</description><pubDate>Fri, 16 Aug 2024 07:38:22 +0000</pubDate></item><item><title>総務省、生成AIや量子コンピュータに対応する「ICTサイバーセキュリティ政策の中期重点方針」を発表</title><link>https://ledge.ai/articles/mic_ict_cybersecurity_policy_priorities</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2370,34 +2398,7 @@ NECは、この実証実験を通じて得られた結果をもとに、デー�
 
 :::
 
-</description><pubDate>Wed, 24 Jul 2024 03:54:20 +0000</pubDate></item><item><title>AWS、政府のAI支援プロジェクト「GENIAC」における計算リソース提供者に選定</title><link>https://ledge.ai/articles/aws_selected_as_geniac_computational_resource_provider</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Amazon Web Services（AWS）2024年7月19日、経済産業省とNEDOが推進する国産生成AI開発力強化プロジェクト「GENIAC」（Generative AI Accelerator Challenge）において、同社が計算リソース提供者として選定されたと{target=“_blank”}した。このプロジェクトは、生成AI基盤モデルの開発を通じて日本国内の技術力を底上げし、企業のイノベーションを促進することを目的としている。
-## プロジェクト概要
-2024年2月に{target=“_blank”}したGENIACは、国内の生成AI開発力を強化することを目指している。このプロジェクトは、生成AIの基盤モデル開発に必要な高性能な計算資源を提供するだけでなく、開発者同士の連携や国際的な発信活動を支援することで、広範な技術革新を促進する。
-
-## 助成内容
-GENIACでは、スタートアップ企業や中小企業、学術機関に対して計算リソース利用料の2/3を助成し、その他の企業や団体には1/2を助成する。総助成額は最大245億円に達する予定。
-
-プロジェクトでは、計算リソースの確保方法として二つの選択肢が設けられている：
-1. 提案者が計算リソース提供事業者と個別に調整し、直接確保する方法
-2. 経済産業省が計算リソース提供事業者から一括で確保し、提案者に提供する方法
-
-AWSは後者の一括確保方法における計算リソース提供事業者として選定された。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 24 Jul 2024 03:50:50 +0000</pubDate></item><item><title>AI Picasso、1,000万枚の著作権配慮画像データセットを無償公開 - テキストからの画像生成AI開発を支援</title><link>https://ledge.ai/articles/ai-picasso_10million_copyright-conscious_image_data_sets_available_for_free</link><description>:::small
+</description><pubDate>Wed, 24 Jul 2024 03:54:20 +0000</pubDate></item><item><title>AI Picasso、1,000万枚の著作権配慮画像データセットを無償公開 - テキストからの画像生成AI開発を支援</title><link>https://ledge.ai/articles/ai-picasso_10million_copyright-conscious_image_data_sets_available_for_free</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
