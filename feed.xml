@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 07:31:53 +0000</lastBuildDate><item><title>Google、AI検索機能「AI Overview」を日本を含む6か国で提供開始、リアルタイム会話機能「Gemini Live」も発表</title><link>https://ledge.ai/articles/google_gemini_ai-overview_and_gemini-live</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 07:38:22 +0000</lastBuildDate><item><title>ウクライナ、前線に「Unitree Go2」に似たロボット犬を配備：偵察と地雷検出を支援</title><link>https://ledge.ai/articles/ukraine_deploys_robot_dogs_similar_to_unitree</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+ウクライナ軍は、戦場における兵士のリスクを軽減するため、新たに開発されたロボット犬「BAD One」を前線に配備する計画を進めている。2024年8月7日、ウクライナの非公開の場所でこのロボット犬のデモンストレーションが行われ、その性能が公開されたと複数メディアで報じられた。
+
+「BAD One」は、主に偵察や地雷検出などの危険な任務をサポートすることを目的として設計されており、戦場での兵士の安全性向上が期待できるという。地上付近で動作し、サーマルイメージングを利用して敵の塹壕や建物内を調査する能力を持つ。また、最大7キログラムの弾薬や医薬品を運搬でき、兵士たちの戦闘支援も行うとのこと。
+
+デモンストレーションでは、ロボット犬が指令に従って立ち上がり、しゃがみ、走り、跳ねる動作を正確に行う様子が披露された。開発者によれば、敵の手に落ちた際には遠隔操作でデータを消去する機能も搭載されており、機密情報の漏洩を防ぐことができるという。
+
+この技術は、兵士の安全性を高め、作戦の効果を向上させると期待されており、将来的に前線での重要な戦力となる可能性がある。
+
+さらに、ウクライナ軍は別の四足歩行ロボットをバフムート近郊のトレツク前線で試験的に運用している。このロボットは、都市部や農村部で兵士と共に行動し、偵察任務を支援するよう設計されている。映像や画像から、このロボットは中国のUnitree Robotics社が開発した「{target=“_blank”}」に似ており、障害物回避のための4D LIDARや広視野角カメラを搭載し、最大18 km/hの速度で移動する能力を持つ。
+
+これらのロボット技術の導入により、ウクライナ軍は戦場での優位性を強化し、兵士のリスクを最小限に抑えることを目指している。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 16 Aug 2024 07:38:22 +0000</pubDate></item><item><title>Google、AI検索機能「AI Overview」を日本を含む6か国で提供開始、リアルタイム会話機能「Gemini Live」も発表</title><link>https://ledge.ai/articles/google_gemini_ai-overview_and_gemini-live</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -338,32 +363,7 @@ JAPAN AIは、今後も独自のAIモデルを通じて日本市場に特化し�
 :::box
 
 :::
-</description><pubDate>Thu, 08 Aug 2024 05:47:49 +0000</pubDate></item><item><title>ペライチ、参考にしたいURLを入力するだけでAIがホームページを自動生成する新機能を発表</title><link>https://ledge.ai/articles/peraichi_create_assistant</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-株式会社ペライチは2024年8月5日、新たな機能「ペライチクリエイトアシスタント」を{target=“_blank”}した。この機能は、参考にしたいサイトのURLを入力するだけで、AIが最適なホームページを自動で生成するというもの。専門的なウェブデザインの知識がなくても、短時間でプロフェッショナルなウェブサイトを作成できるという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ホームページ制作の工数やリードタイムを大幅に削減し、特にSMB（中小企業）にとって大きな生産性向上の効果が期待されるという。例えば、大手ECモールのページを参考に自社のオンラインショップを作成したり、過去に作成した古いサイトを簡単に最適化してアップデートすることが可能になるとのこと。
-
-この「ペライチクリエイトアシスタント」の開発には、Amazon Web Services（AWS）の技術支援が活用されており、同社の生成AI技術が導入されている。これにより、AIが自動的にデザインやコンテンツを生成し、制作にかかるコストと時間を大幅に削減可能となる。現在、無料モニターの募集も行っており、公式サイトから参加申し込みが可能だ。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 07 Aug 2024 08:02:09 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
+</description><pubDate>Thu, 08 Aug 2024 05:47:49 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
 AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化してきている。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られている。
 
 Ledga.aiでは9月に“DXと未来の働き方”をテーマにしたLIVE配信イベントを行うが、そのプレイベントとして「DX担当者が知っておくべき生成AIの潮流」について、複数回に渡って情報発信する。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供する。
