@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 12:22:37 +0000</lastBuildDate><item><title>「これが最も安全な弾薬購入手段」AI顔認証技術などを備えた「スマート銃弾自販機」が米の複数州のスーパーに設置される　</title><link>https://ledge.ai/articles/american_rounds_smart_automated_retail_ammo_sales</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 14:08:28 +0000</lastBuildDate><item><title>「これが最も安全な弾薬購入手段」AI顔認証技術などを備えた「スマート銃弾自販機」が米の複数州のスーパーに設置される　</title><link>https://ledge.ai/articles/american_rounds_smart_automated_retail_ammo_sales</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2081,7 +2081,43 @@ Stable Video 4Dのトレーニングデータセットには、Open Data Commons
 :::box
 
 :::
-</description><pubDate>Sun, 28 Jul 2024 08:55:27 +0000</pubDate></item><item><title>ウクライナ、前線に「Unitree Go2」に似たロボット犬を配備：偵察と地雷検出を支援</title><link>https://ledge.ai/articles/ukraine_deploys_robot_dogs_similar_to_unitree</link><description>:::small
+</description><pubDate>Sun, 28 Jul 2024 08:55:27 +0000</pubDate></item><item><title>昭和を学習したおしゃべりAIとの楽しい思い出話は、高齢者の認知症予防となるか　横須賀市の実証実験</title><link>https://ledge.ai/articles/yokosuka_city_experiment_of_dementia_prevention_using_ai</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+横須賀市は2024年8月7日 、スタートアップ企業Starleyと連携し、生成AIアプリ「Cotomo（コトモ）」を用いた認知症予防の実証実験を10月より開始することを{target=“_blank”}した。同市は高齢者がAIを相手に会話することで、認知症予防効果があるかどうかを産官学で検証する予定だという。
+
+実験では、AIに昭和時代のニュースや文化を学習させることで、高齢者が思い出話を楽しめるように設計された「Cotomo」が使用される。このAIアプリは、Starleyが開発した高度な音声会話生成技術を用いており、タイムラグのない自然な会話が可能だ。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+実験の対象となるのは、市内の高齢者施設に通う高齢者たちで、希望者はスマートフォンなどにアプリをダウンロードし、昭和時代の思い出話をAIと楽しむことができる。会話を通じて過去の記憶を呼び起こすことで脳を活性化させ、認知症予防に寄与することが期待されている。横須賀市はこの取り組みの効果を、脳科学研究を行う学術機関と連携して医学的に検証するとのこと。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同市の85歳以上の高齢者数は2030年には2万9000人を超え、2020年の1.5倍に増加すると見込まれている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 16 Aug 2024 14:08:28 +0000</pubDate></item><item><title>ウクライナ、前線に「Unitree Go2」に似たロボット犬を配備：偵察と地雷検出を支援</title><link>https://ledge.ai/articles/ukraine_deploys_robot_dogs_similar_to_unitree</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 ウクライナ軍は、戦場における兵士のリスクを軽減するため、新たに開発されたロボット犬「BAD One」を前線に配備する計画を進めている。2024年8月7日、ウクライナの非公開の場所でこのロボット犬のデモンストレーションが行われ、その性能が公開されたと複数メディアで報じられた。
@@ -2372,42 +2408,7 @@ SAG-AFTRAは、2022年10月からTake 2 Productions、Electronic Arts、Activisi
 :::box
 
 :::
-</description><pubDate>Sat, 27 Jul 2024 07:29:23 +0000</pubDate></item><item><title>つくば市　NECとLLMおよび画像分析技術を活用した防災実証実験を実施</title><link>https://ledge.ai/articles/nec_tsukuba_supercity</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-
-NECは2024年7月12日、茨城県つくば市において、大規模言語モデル（LLM）と画像分析技術を活用し、災害に強いまちづくりを目指す実証実験を行うと{target=“_blank”}した。この実証実験は、2024年11月から2025年1月まで行われ、住民が投稿した画像から街の状況をリアルタイムに可視化し、災害時の迅速な状況把握と対応を支援することを目的とする。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-この取り組みは、2024年度の内閣府「先端的サービスの開発・構築及び規制・制度改革に関する調査事業（スーパーシティ・デジタル田園健康特区対象）」に採択されたことを受けて行われる。つくば市は2022年にスーパーシティに指定されて以降、「つくばスーパーサイエンスシティ構想」を掲げており、NECはその一環として本実証実験を実施するとのこと。
-
-## 実証実験の概要
-つくば市内の一部エリアで行われるこの実験は、住民が投稿した画像を収集し、LLMと画像分析によりダッシュボード上に可視化する。つくば市公式アプリ「つくスマ」を通じて、違法駐車や混雑する場所などの平時の状況を可視化し、災害時にはこれらのデータを活用して迅速な初動対応を可能にするという。
-
-また実験では、災害時に投稿される画像に含まれる個人情報の取り扱いについても検証を行う。防災分野におけるデータ活用の可能性を広げ、より安全で安心な防災・減災対策の実現を目指すとのこと。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-NECは、この実証実験を通じて得られた結果をもとに、データ連携基盤の活用によるさらなるサービスの高度化を検討する予定だ。また、将来的にはデジタルツインの実装も視野に入れており、取得した情報を基に平時・災害時を通じた多様なサービスの開発を進めていく計画だという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 24 Jul 2024 03:54:20 +0000</pubDate></item><item><title>AI Picasso、1,000万枚の著作権配慮画像データセットを無償公開 - テキストからの画像生成AI開発を支援</title><link>https://ledge.ai/articles/ai-picasso_10million_copyright-conscious_image_data_sets_available_for_free</link><description>:::small
+</description><pubDate>Sat, 27 Jul 2024 07:29:23 +0000</pubDate></item><item><title>AI Picasso、1,000万枚の著作権配慮画像データセットを無償公開 - テキストからの画像生成AI開発を支援</title><link>https://ledge.ai/articles/ai-picasso_10million_copyright-conscious_image_data_sets_available_for_free</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
