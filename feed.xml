@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 12:22:37 +0000</lastBuildDate><item><title>Google、AI検索機能「AI Overview」を日本を含む6か国で提供開始、リアルタイム会話機能「Gemini Live」も発表</title><link>https://ledge.ai/articles/google_gemini_ai-overview_and_gemini-live</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Fri, 16 Aug 2024 12:22:37 +0000</lastBuildDate><item><title>「これが最も安全な弾薬購入手段」AI顔認証技術などを備えた「スマート銃弾自販機」が米の複数州のスーパーに設置される　</title><link>https://ledge.ai/articles/american_rounds_smart_automated_retail_ammo_sales</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国の一部のスーパーに、AI技術を搭載した銃弾の自動販売機が設置され、物議を醸している。現在、アラバマ州、オクラホマ州、テキサス州の一部のスーパーで導入されているこの自動販売機は、AI技術を駆使し、購入者の年齢や身元を厳密に確認する仕組みを持つ。このような技術の導入により、オンライン販売や従来の店頭販売と比べ、より安全性が高いとする同社の主張に対しては賛否が分かれているという。
+
+弾薬販売を手がける「American Rounds」は2024年8月15日、同社のX（旧Twitter）アカウントで「AI技術やカードスキャン機能、顔認証ソフトウェアを搭載したスマート小売自動販売機が、最も安全で確実な弾薬購入手段である」と投稿した。
+
+同社によると、昨年、大手小売店の棚から10億発以上の弾薬が盗まれたという。これに対し、同社の自動販売機は、盗難リスクを低減し、顧客に安全な購入体験を提供するとのこと。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+## 便利さと安全性を強調
+同社は、この自動販売機は銃弾の購入手続きを安全かつ効率的に行うことを目的としていると述べる。AI技術を活用し、購入者の身分証明書のスキャンと顔認証を行い、年齢確認や身元確認を徹底することで、不正購入を防ぐという。CEOのグラント・マガーズ氏は、「これは現行のオンライン販売や店頭販売よりも安全な方法である」と述べ、すでに200台以上の注文が入っていると報告している。
+
+## 拡大する設置計画
+現在、アラバマ州の「Fresh Value」、オクラホマ州の「Super C Mart」などで稼働しているが、今後、コロラド州や他の州にも展開する予定だという。同社はすでにハワイやアラスカからも設置のリクエストを受けており、全米での拡大を目指しているとのこと。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+この取り組みに対しては賛否が分かれている。支持者は、特に狩猟やアウトドア活動が盛んな地域での弾薬の入手が容易になることを歓迎しているが、一方で、銃暴力の問題が深刻化する米国において、弾薬の入手がさらに簡単になることに懸念を示す声も多い。特に、スーパーという日常的な場所で銃弾が販売されることに対し、倫理的な問題提起がなされているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Fri, 16 Aug 2024 07:44:21 +0000</pubDate></item><item><title>Google、AI検索機能「AI Overview」を日本を含む6か国で提供開始、リアルタイム会話機能「Gemini Live」も発表</title><link>https://ledge.ai/articles/google_gemini_ai-overview_and_gemini-live</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -338,32 +372,7 @@ JAPAN AIは、今後も独自のAIモデルを通じて日本市場に特化し�
 :::box
 
 :::
-</description><pubDate>Thu, 08 Aug 2024 05:47:49 +0000</pubDate></item><item><title>ペライチ、参考にしたいURLを入力するだけでAIがホームページを自動生成する新機能を発表</title><link>https://ledge.ai/articles/peraichi_create_assistant</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-株式会社ペライチは2024年8月5日、新たな機能「ペライチクリエイトアシスタント」を{target=“_blank”}した。この機能は、参考にしたいサイトのURLを入力するだけで、AIが最適なホームページを自動で生成するというもの。専門的なウェブデザインの知識がなくても、短時間でプロフェッショナルなウェブサイトを作成できるという。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ホームページ制作の工数やリードタイムを大幅に削減し、特にSMB（中小企業）にとって大きな生産性向上の効果が期待されるという。例えば、大手ECモールのページを参考に自社のオンラインショップを作成したり、過去に作成した古いサイトを簡単に最適化してアップデートすることが可能になるとのこと。
-
-この「ペライチクリエイトアシスタント」の開発には、Amazon Web Services（AWS）の技術支援が活用されており、同社の生成AI技術が導入されている。これにより、AIが自動的にデザインやコンテンツを生成し、制作にかかるコストと時間を大幅に削減可能となる。現在、無料モニターの募集も行っており、公式サイトから参加申し込みが可能だ。
-
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 07 Aug 2024 08:02:09 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
+</description><pubDate>Thu, 08 Aug 2024 05:47:49 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
 AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化してきている。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られている。
 
 Ledga.aiでは9月に“DXと未来の働き方”をテーマにしたLIVE配信イベントを行うが、そのプレイベントとして「DX担当者が知っておくべき生成AIの潮流」について、複数回に渡って情報発信する。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供する。
