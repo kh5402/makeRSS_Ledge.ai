@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 18 Aug 2024 08:12:06 +0000</lastBuildDate><item><title>デンソー、AIドクターによるメンタルヘルスケアサービス「Mente for Biz」を導入</title><link>https://ledge.ai/articles/denso_mente_for_biz</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Aug 2024 01:43:58 +0000</lastBuildDate><item><title>デンソー、AIドクターによるメンタルヘルスケアサービス「Mente for Biz」を導入</title><link>https://ledge.ai/articles/denso_mente_for_biz</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1622,7 +1622,47 @@ GitHubは2024年2月9日、GitHubに関する質問に迅速に答えるため�
 :::box
 
 :::
-</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>1枚の画像でリアルタイムにフェイク動画を生成可能な「Deep-Live-Cam」が登場</title><link>https://ledge.ai/articles/deep_live_cam</link><description>:::small
+</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>Apple、画像生成AI「MDM」をGitHubで公開　マトリョーシカ的入れ子モデルで高精度な高解像度の画像を生成</title><link>https://ledge.ai/articles/apple_mdm</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Appleは2024年8月9日、独自に開発した画像生成AIモデル「Matryoshka Diffusion Models（MDM）」をGitHubで{target=“_blank”}した。同モデルは、高解像度画像およびビデオ生成のために設計されており、従来の生成モデルが抱えていた課題に対処する技術だという。また「ml_mdm」が高品質のテキストから画像への拡散モデルを効率的にトレーニングするための Python パッケージとして併せて公開されている。
+
+MDMの最大の特徴は、その名前が示す通り、ロシアの伝統的な入れ子式人形「マトリョーシカ」のように、異なる解像度のモデルを入れ子構造で組み合わせている点にある。この「Nested UNet」アーキテクチャを通じて、低解像度のモデルが高解像度のモデルに「入れ子」のように組み込まれ、各解像度の情報を共有しながら生成が進行する。これにより、各解像度の生成過程が効率的に進み、より精度の高い高解像度画像を生成することが可能になるという。
+
+下図では、このMDMが生成した様々な解像度の画像を示しており、異なるプロンプトに基づいて生成された画像が確認できる。
+
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+下図では、MDMの「Nested UNet」アーキテクチャの構造が視覚的に説明されている。このアーキテクチャは、低解像度から高解像度へと段階的に進む従来の方法とは異なり、異なる解像度のモデルを同時に処理することで、情報を効率的に共有し、計算負荷を軽減しつつ高精度な出力を生成するという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+MDMは、最大で1024×1024ピクセルの解像度に対応しており、非常に高精度な画像生成を実現している。また、プロンプトに基づくゼロショット生成にも対応しており、比較的小規模なデータセット（例えば、1200万枚の画像を含むCC12Mデータセット）でも高品質な生成結果を示している。
+
+MDMの公開により、開発者はGitHub上で提供される「ml_mdm」パッケージを利用し、独自の画像生成AIモデルをトレーニングおよびテストすることが可能となっている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 19 Aug 2024 01:43:58 +0000</pubDate></item><item><title>1枚の画像でリアルタイムにフェイク動画を生成可能な「Deep-Live-Cam」が登場</title><link>https://ledge.ai/articles/deep_live_cam</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2075,36 +2115,7 @@ Google DeepMindは、形式的な数学推論と幾何学問題を解決する�
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jul 2024 08:39:52 +0000</pubDate></item><item><title>Stability AI、新たなマルチアングル映像生成モデル「Stable Video 4D」を発表</title><link>https://ledge.ai/articles/stability_ai_svd-4d</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-Stability AIは2024年7月24日、1本の動画から8つの異なるアングルやビューの動画を生成するAIモデル「Stable Video 4D」を{target=“_blank”}した。このモデルは、ユーザーが動画をアップロードするだけで、複数の視点からの映像を簡単に生成できるという。
-
-Stable Video 4Dは、Stability AI初のVideo to Video生成モデルで、Stable Video DiffusionとStable Video 3Dを基に開発されたという。ユーザーは希望する3Dカメラの視点を指定することで、入力動画に映るオブジェクトの新規ビュー動画（4D画像マトリックス）を生成し、8つの異なるアングルの動画を出力できる。
-
-@
-
-このモデルは、5フレームの動画を約40秒で生成し、全体の4D最適化には約20～25分かかるという。
-
-Stability AIは、この技術がゲーム開発、動画編集、VRコンテンツ生成などの分野で大きな応用可能性を持つと説明している。複数の視点からオブジェクトを視覚化する能力により、製品のリアリティと没入感を高めることができると期待されているとのこと。
-
-Stable Video 4Dのトレーニングデータセットには、Open Data Commons Attribution Licenseが配布するObjaverseが利用されたという。
-
-現在、Stable Video 4Dは研究段階にあり、{target=“_blank”}で利用可能とのこと。Stability AIのチームは、合成データセットに加えて、実世界のビデオにも対応できるようモデルを最適化している。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Sun, 28 Jul 2024 08:55:27 +0000</pubDate></item><item><title>昭和を学習したおしゃべりAIとの楽しい思い出話は、高齢者の認知症予防となるか　横須賀市の実証実験</title><link>https://ledge.ai/articles/yokosuka_city_experiment_of_dementia_prevention_using_ai</link><description>:::small
+</description><pubDate>Wed, 31 Jul 2024 08:39:52 +0000</pubDate></item><item><title>昭和を学習したおしゃべりAIとの楽しい思い出話は、高齢者の認知症予防となるか　横須賀市の実証実験</title><link>https://ledge.ai/articles/yokosuka_city_experiment_of_dementia_prevention_using_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
