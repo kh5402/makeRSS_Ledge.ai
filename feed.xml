@@ -362,7 +362,53 @@ Figure 02は、単なる試作機を超えた商業利用可能なヒューマ�
 :::box
 
 :::
-</description><pubDate>Fri, 09 Aug 2024 12:12:07 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
+</description><pubDate>Fri, 09 Aug 2024 12:12:07 +0000</pubDate></item><item><title>DX担当者が生成AIの進化について押さえておくべきこと｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-1</link><description>:::small
+画像の出典：Adobe ExpressによりLedge.aiが生成
+:::
+
+:::box
+Ledga.aiが9月19日～20日に開催する“DXと未来の働き方”をテーマにしたLIVE配信イベント「{target=“_blank”}」のプレイベントとして、「DX担当者が知っておくべき生成AIの潮流」のウェビナーを全9回配信します。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供します。
+:::
+
+:::button
+{target=“_blank”}
+:::
+
+## DX担当者が生成AIの進化について押さえておくべきこと
+AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化しています。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られています。
+
+本配信では、生成AIの登場がDXにもたらした変化や、AIとDXの関係を解説します。また、目まぐるしく変化するビジネス環境に柔軟に対応するための戦略についても考察します。
+
+＜トピック＞
+- 生成AIの登場で変わったDX
+- DXとAIの関係
+- 変革の時代に対応するために
+
+LIVE配信の視聴URLを受け取るには、特設サイトより事前登録（無料）が必要です。登録者はもれなく『DX &amp; Future Work 2024』本編も視聴いただけますので、企業のDX担当やAI導入をミッションとしている方は、ぜひご登録ください。
+
+:::button
+{target=“_blank”}
+:::
+
+## 配信日時
+2024年8月20日（火）15:00~15:30
+2024年9月5日（木）15:00~15:30
+
+## イベント概要
+名称：DX &amp; Future Work 2024
+開催期間：2024年9月19日(木)〜9月20日(金)　※プレイベント（LIVE配信は8月20日〜）
+開催方式：オンラインLIVE配信
+サイト：
+参加費用：無料（事前登録制）
+主催：株式会社レッジ
+
+:::box
+{target=“_blank”}
+:::
+:::box
+関連記事：[DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ
+](https://ledge.ai/articles/dx-futurework-pre-event){target=“_blank”}
+:::</description><pubDate>Fri, 16 Aug 2024 06:01:13 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
 AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化してきている。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られている。
 
 Ledga.aiでは9月に“DXと未来の働き方”をテーマにしたLIVE配信イベントを行うが、そのプレイベントとして「DX担当者が知っておくべき生成AIの潮流」について、複数回に渡って情報発信する。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供する。
@@ -1058,20 +1104,7 @@ Claude 3 Opusが出力した要約結果
 イベント名：Ledge.ai EXPO 2024 summer
 主催：株式会社レッジ
 URL：{target=“_blank”}
-開催形式：オンライン（特設サイト）</description><pubDate>Thu, 20 Jun 2024 06:38:09 +0000</pubDate></item><item><title>AWSが新AI認定試験を発表　2024年8月13日より開始、初の「ベータ試験」での日本語試験も提供</title><link>https://ledge.ai/articles/aws_crtified_ai_practitioner</link><description>:::small
-画像の出典：Dall-E3により ledge.ai が生成
-:::
-
-2024年6月14日、Amazon Web Services, Inc.（AWS）は、AI人材育成に関する説明会で、AIスキルを証明できる「AWS Certified AI Practitioner」と「AWS Certified Machine Learning Engineer（MLA）」の2種の新しい認定試験が2024年8月13日から開始することを{target=“_blank”}した。
-
-**「AWS Certified AI Practitioner」**
-AI、機械学習（ML）、および生成AIのコンセプトやツールに精通していることを証明する際に役立つ、AIに特化した資格だ。この資格は、AWS認定試験の4つのレベルの中でも基礎的な知識習得を目的とした「Foundational」のカテゴリに位置づけられる。
-
-**「AWS Certified Machine Learning Engineer（MLA）」**
-こちらは、AIやMLソリューションの構築、デプロイ、保守に必要なスキルを証明するものであり、モデルパフォーマンスの最適化、計算資源の管理、モデルのバージョンアップ、AIソリューションの保護などをスキル対象とする技術者向けの認定資格だ。AWS認定試験の「ASSOCIATE」のカテゴリに位置づけられる。
-
-新たな2種の認定資格は、2024年8月13日から「ベータ試験」として登録を開始する。通常は英語での実施だが、このベータ試験は同社として初の試みである日本語試験も提供をする予定だという。
-</description><pubDate>Thu, 20 Jun 2024 09:19:07 +0000</pubDate></item><item><title>開発者向けカンファレンス「Developer eXperience Day 2024」講演レポート</title><link>https://ledge.ai/articles/developer_experience_day_2024_event_report</link><description>2024年7月16日、17日の2日間に渡り、日本CTO協会主催の「Developer eXperience Day 2024」が浅草ヒューリックホールにて{target=“_blank”}された。
+開催形式：オンライン（特設サイト）</description><pubDate>Thu, 20 Jun 2024 06:38:09 +0000</pubDate></item><item><title>開発者向けカンファレンス「Developer eXperience Day 2024」講演レポート</title><link>https://ledge.ai/articles/developer_experience_day_2024_event_report</link><description>2024年7月16日、17日の2日間に渡り、日本CTO協会主催の「Developer eXperience Day 2024」が浅草ヒューリックホールにて{target=“_blank”}された。
 
 Ledge.aiを運営するレッジもメディアスポンサーを務めた本カンファレンスは、“開発者体験” をテーマに、その知見・経験の共有とそれに関わる方々のコミュニケーションを目的としたカンファレンスだ。両日オフライン・オンラインのハイブリッド形式で行われた。
 
