@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 18 Aug 2024 08:06:37 +0000</lastBuildDate><item><title>チューリング、日本初の自動運転向け生成世界モデル「Terra」を開発</title><link>https://ledge.ai/articles/turing_terra</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Sun, 18 Aug 2024 08:12:06 +0000</lastBuildDate><item><title>デンソー、AIドクターによるメンタルヘルスケアサービス「Mente for Biz」を導入</title><link>https://ledge.ai/articles/denso_mente_for_biz</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+株式会社Medi Faceは2024年8月14日、同社の提供するAIメンタルヘルスケアサービス「Mente for Biz」を、デンソーが部分的に導入したと{target=“_blank”}した。このサービスは、現役の医師が監修しており、AI技術を活用して従業員のメンタルヘルスを総合的にサポートする。
+
+COVID-19の影響で働き方が多様化する一方、うつ病をはじめとする精神疾患の患者数が増加し、メンタル不調による早期離職が社会問題となっている。デンソーは、これらの課題に対応するため、メンタルの不調を早期に察知し、産業医や心理カウンセラーといった専門家による適切なケアを提供する体制を整えることを目指している。
+## 「Mente for Biz」の機能と導入計画
+「Mente for Biz」は、AIを活用したメンタルチェックを通じて、従業員のメンタル状態を評価するサービスである。PCやスマートフォンを使い、24時間365日いつでも利用可能であり、対話形式でAIドクターがメンタルヘルスに関する質問を行う。AIは表情や声のトーンなどの非言語情報を収集し、チェック結果に反映させる。さらに、チェック結果に基づき、産業医や保健師による1対1の面談が実施されるため、メンタルケアまでトータルでサポートする。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+同サービスは、まずデンソーの一部部署で試験的に導入され、年内には全社展開が予定されている。導入により、従業員のセルフチェックの重要性を啓発するとともに、企業全体のメンタルヘルスケア意識の向上を目指しているとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Sun, 18 Aug 2024 08:12:06 +0000</pubDate></item><item><title>チューリング、日本初の自動運転向け生成世界モデル「Terra」を開発</title><link>https://ledge.ai/articles/turing_terra</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -337,28 +362,7 @@ Figure 02は、単なる試作機を超えた商業利用可能なヒューマ�
 :::box
 
 :::
-</description><pubDate>Fri, 09 Aug 2024 12:12:07 +0000</pubDate></item><item><title>JAPAN AI　マーケティング特化型AI「JAPAN AI MARKETING(™)」の日本人画像生成機能を正式版にアップデート</title><link>https://ledge.ai/articles/japan_ai_marketing_official_ver_release</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-JAPAN AI株式会社は2024年8月1日、自社が提供するマーケティング特化型AIサービス「JAPAN AI MARKETING(™)」において、日本人の特徴を忠実に捉えた人物画像を生成する機能の正式版をリリースしたことを{target=“_blank”}した。
-
-近年、生成AI技術の進化が企業の広告クリエイティブや販促物制作の現場で注目を集めている。しかし、従来のAIモデルではプロンプトに「日本人」と指示をしても、期待通りの日本人の特徴を持つ画像を生成することが困難だった。この点が生成AI活用における課題となっていたという。これを受け、JAPAN AIは2024年6月に「JAPAN AI MARKETING(™)」の日本人画像生成機能の{target=“_blank”}し、今回、さらに自然で精度の高い日本人画像を生成できる正式版をリリースした。
-
-JAPAN AIは、今後も独自のAIモデルを通じて日本市場に特化したマーケティングやコンテンツ制作におけるイノベーションを推進していき、今回のリリースを皮切りに、継続的な機能拡張と性能向上を目指していくとしている。
-
-:::box
-
-:::
-:::box
-
-:::
-
-:::box
-
-:::
-
-</description><pubDate>Thu, 08 Aug 2024 09:48:22 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
+</description><pubDate>Fri, 09 Aug 2024 12:12:07 +0000</pubDate></item><item><title>DX担当者が知っておくべき生成AIの潮流　現場のノウハウを一挙に公開！｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event</link><description>生成AIの爆発的な進化により、企業のデジタルトランスフォーメーション（DX）戦略は大きな転換点を迎えている。
 AIはここ2~3年で飛躍的な進歩を遂げており、単なる分類や予測を行う “ツール” から、自然言語処理や画像生成などの技術により、広範囲の業務をサポートする “パートナー” へと変化してきている。この進化に伴い、企業のDX戦略も、旧来のものからAIを中心にとらえた戦略へのアップグレードが求められており、新たな競争優位を築くための変革が迫られている。
 
 Ledga.aiでは9月に“DXと未来の働き方”をテーマにしたLIVE配信イベントを行うが、そのプレイベントとして「DX担当者が知っておくべき生成AIの潮流」について、複数回に渡って情報発信する。このプレイベントでは、DXの進化に不可欠な生成AIの知識を深め、これからのビジネス戦略に役立つ情報を、現場の経験豊富なコンサルタントの解説で提供する。
