@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Aug 2024 01:43:58 +0000</lastBuildDate><item><title>デンソー、AIドクターによるメンタルヘルスケアサービス「Mente for Biz」を導入</title><link>https://ledge.ai/articles/denso_mente_for_biz</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Mon, 19 Aug 2024 06:47:07 +0000</lastBuildDate><item><title>デンソー、AIドクターによるメンタルヘルスケアサービス「Mente for Biz」を導入</title><link>https://ledge.ai/articles/denso_mente_for_biz</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1622,7 +1622,49 @@ GitHubは2024年2月9日、GitHubに関する質問に迅速に答えるため�
 :::box
 
 :::
-</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>Apple、画像生成AI「MDM」をGitHubで公開　マトリョーシカ的入れ子モデルで高精度な高解像度の画像を生成</title><link>https://ledge.ai/articles/apple_mdm</link><description>:::small
+</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>Google DeepMind、テキストから高品質な画像を生成する新モデル「Imagen 3」を正式リリース</title><link>https://ledge.ai/articles/googledeepmind_imagen3</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+Google DeepMindは2024年8月13日、最新の画像生成モデル「Imagen 3」を発表し、その研究論文を{target=“_blank”}した。このモデルは、5月14日に開催された年次開発者会議「Google I/O 2024」で公開されていたが、このたび正式にリリースされた。
+
+Imagen 3は、テキストプロンプトから高解像度でリアルな画像を生成する能力を持ち、従来のモデルと比較してプロンプトの理解力が大幅に向上しているという。Googleの画像生成ツール「ImageFX」を通じて利用可能であり、ユーザーは実際にこの技術を試すことができる。
+
+## 高品質な画像生成とプロンプト理解の向上
+Imagen 3は、Googleの最新のテキストから画像生成モデルであり、1024×1024ピクセルの高解像度画像を生成することができる。また、このモデルは、さらなる解像度向上のために2倍、4倍、8倍のアップサンプリングが可能である。
+
+このモデルの主な特徴として、従来の画像生成モデルと比較して、より複雑で詳細なプロンプトに対応できる点が挙げられる。例えば、「偏光フィルター付きの一眼レフカメラで撮影。トルコのカッパドキアのユニークな岩層の上を浮かぶ2つの熱気球の写真。」というプロンプトに基づいて、リアルな風景画像が生成された（下図参照）。
+!
+
+:::small
+画像の出典：{target=“_blank”}
+:::
+## 他モデルとのパフォーマンス比較
+Imagen 3は、DALL·E 3やMidjourney v6、Stable Diffusion 3など、他の最先端のテキストから画像生成モデルと比較されている。研究チームは、5つの異なる品質面での人間による評価を実施した。その結果、Imagen 3は特にプロンプトと画像の整合性の面で他のモデルを大きく上回る結果を示したという。
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+## 多様なスタイルとテクスチャの表現
+Imagen 3は、写真のようなリアルな画像だけでなく、油絵やクレイアニメーションのような異なるスタイルの画像も生成可能で、人物のしわや毛糸で編まれたぬいぐるみなどの複雑なテクスチャを正確に再現できる。これにより、プロンプトエンジニアリングの必要性が低下し、ユーザーはより自然な言葉で記述するだけで、精密かつクリエイティブな画像が得られるという。
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Mon, 19 Aug 2024 06:47:07 +0000</pubDate></item><item><title>Apple、画像生成AI「MDM」をGitHubで公開　マトリョーシカ的入れ子モデルで高精度な高解像度の画像を生成</title><link>https://ledge.ai/articles/apple_mdm</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2079,43 +2121,7 @@ Google DeepMindは、形式的な数学推論と幾何学問題を解決する�
 :::box
 
 :::
-</description><pubDate>Wed, 31 Jul 2024 08:46:28 +0000</pubDate></item><item><title>ディープフェイク画像の新たな見抜き方「眼の中の星を観て検出」ー英国王立天文学会で発表される</title><link>https://ledge.ai/articles/want_spot_deepfake_look_stars_their_eyes</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年7月14〜19日にイギリスで開催された{target=“_blank”}で、イングランド・ハル大学の研究チームは、銀河の測定に使用される天文学的手法を応用して、ディープフェイクを見分ける新たな技術を{target=“_blank”}した。この手法は、人間の目の反射に基づいて画像の真偽を判断するものだという。
-
-同大学の大学院生アデジュモケ・オウォラビが中心となった研究チームは、ディープフェイク画像の目の反射に不一致が見られることに着目した。通常、現実の人間の目では左右の目の反射が一致するが、AI生成画像ではこの反射が物理的に一致しないことが多いという。
-
-研究チームは、天文学で使用される手法を応用して反射を定量化し、左右の眼球の反射の一致性をチェックした。まず、光の分布を測定し、眼球の反射の形態学的特徴を分析するためにCAS（集中度、非対称性、平滑性）指標を使用したが、これは偽の目の予測には成功しなかった。一方、Gini係数を用いることで、反射の不一致を検出することができたという。Gini係数は、銀河の画像の光がピクセル間でどのように分布しているかを測定するためのものであり、この手法が眼球の反射の分析に有効であることが示された。
-
-下の画像は、それぞれの目に一貫性のない反射を示すディープフェイクの目を並べたもの
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-こちらは、両目にほぼ一貫した反射を示す本物の目を写したもの
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-この新しい方法により、ディープフェイクの検出精度が向上することが期待されるが、万能な解決策ではないと研究者たちは強調している。ハル大学のケビン・ピンブルト教授は、「この方法はすべての偽画像を検出できるわけではなく、誤検出や見逃しが存在する。しかし、ディープフェイクとの戦いにおいて重要な基盤を提供する」と述べた。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 31 Jul 2024 08:39:52 +0000</pubDate></item><item><title>昭和を学習したおしゃべりAIとの楽しい思い出話は、高齢者の認知症予防となるか　横須賀市の実証実験</title><link>https://ledge.ai/articles/yokosuka_city_experiment_of_dementia_prevention_using_ai</link><description>:::small
+</description><pubDate>Wed, 31 Jul 2024 08:46:28 +0000</pubDate></item><item><title>昭和を学習したおしゃべりAIとの楽しい思い出話は、高齢者の認知症予防となるか　横須賀市の実証実験</title><link>https://ledge.ai/articles/yokosuka_city_experiment_of_dementia_prevention_using_ai</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
