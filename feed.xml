@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Aug 2024 07:48:54 +0000</lastBuildDate><item><title>「自動運転車のクラクションが鳴りやまない！」深夜のサンフランシスコでWaymoの騒音トラブル　ソフトウエアアップデートで対応か</title><link>https://ledge.ai/articles/horn_noise_problem_by_waymo_self-driving_cars_in_sanfrancisco</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Aug 2024 04:48:21 +0000</lastBuildDate><item><title>9月23日までは1日最大100万トークンの無料トレーニング提供　OpenAI、GPT-4oのファインチューニング機能を全開発者に提供開始</title><link>https://ledge.ai/articles/openai_gpt-4o_finetuning</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年8月20日、マルチモーダルAIモデル「GPT-4o」のファインチューニング機能を全ての有料プラン利用者向けにリリースしたことを{target=“_blank”}した。開発者は自身のカスタムデータセットを使用してGPT-4oをトレーニングし、特定の用途においてより高い性能を実現することが可能となる。
+
+ファインチューニングとは、既存の大規模言語モデルに対して追加の学習を行い、モデルの出力を調整する技術だ。特定のトーンや複雑な指示に従った応答を生成するなど、開発者はモデルを独自のニーズに合わせてカスタマイズできる。
+
+既にGPT-3.5やGPT-4o miniでファインチューニングは利用可能であったが、今回の発表でGPT-4oにおいても同様の機能が提供されることとなった。これにより、例えばソフトウェア開発やクリエイティブなコンテンツ制作など、さまざまな分野での活用が期待される。また、開発者はファインチューニングを利用することで、コストを抑えつつも高い精度の結果を得られるようになるという。
+
+OpenAIは、2024年9月23日までの期間限定で、GPT-4oのファインチューニングにおいて1日あたり最大100万トークンの無料トレーニングを提供している。この無料トークンの提供により、より多くの開発者がファインチューニングを試しやすくなっている。
+
+さらにGPT-4oのファインチューニングによる成功事例も紹介されている。たとえば、AIソフトウェアエンジニアリングアシスタント「Genie」は、ファインチューニングされたGPT-4oを用いて、ソフトウェアエンジニアの作業を学習し、コードの修正や新機能の追加などで高い精度を達成している。また、Distyl社は、GPT-4oをファインチューニングすることで、テキストからSQLへの変換タスクにおいて71.83%の実行精度を達成したとのこと。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+ファインチューニングの手続きは、OpenAIのダッシュボードから簡単に開始でき、開発者は自身のプロジェクトに適したモデルを迅速に構築できる。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 21 Aug 2024 04:48:21 +0000</pubDate></item><item><title>「自動運転車のクラクションが鳴りやまない！」深夜のサンフランシスコでWaymoの騒音トラブル　ソフトウエアアップデートで対応か</title><link>https://ledge.ai/articles/horn_noise_problem_by_waymo_self-driving_cars_in_sanfrancisco</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -330,39 +362,7 @@ OpenAIの安全およびセキュリティ委員会は、全てのプロジェ�
 :::box
 
 :::
-</description><pubDate>Mon, 12 Aug 2024 14:36:23 +0000</pubDate></item><item><title>NVIDIA、状況に応じて正確な応答を提供するデジタルヒューマン「James」をSIGGRAPH 2024で公開</title><link>https://ledge.ai/articles/nvidia_previewed_digitalhuman_james</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-NVIDIAは2024年7月28日から8月1日に開催されたSIGGRAPH 2024において、インタラクティブなデジタルヒューマン「James」を{target=“_blank”}した。Jamesは、カスタマーサービスやバーチャルアシスタントとして機能することを目的とした高度なAIアバターであり、ユーザーとのコミュニケーションにおいて感情やユーモア、コンテクスト理解を駆使することができるという。
-
-JamesはNVIDIAの「Avatar Creation Engine（ACE）」を基盤として開発されており、NVIDIAのNIMマイクロサービスやRTXレンダリング技術を活用して非常にリアルなアニメーションを実現しているという。また、ElevenLabsの音声技術を使用することで、自然で人間らしい音声を生成し、ユーザーとのインタラクションをより現実に近いものにしている。
-
-
-@
-
-
-
-
-さらに、NVIDIAはJamesに加えて、Maxine AIプラットフォームの最新アップデートも公開した。Maxineは、3Dアバターの作成やビデオ会議でのオーディオ・ビデオ品質の向上を可能にするもので、テレプレゼンスやデジタルインターフェースでの応用が期待されている。
-
-これらの技術は、カスタマーサービスやエンターテインメントなど、さまざまな産業においてデジタルヒューマンの利用を大きく前進させるものと考えられる。Jamesの公開により、NVIDIAはAIを活用した新しい顧客体験の可能性を示し、今後のデジタルインタラクションの進化に寄与することを目指している。
-
-Jamesは現在、最終調整段階にあり、近い将来一般に公開される予定だ​ 
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Sat, 10 Aug 2024 07:15:52 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
+</description><pubDate>Mon, 12 Aug 2024 14:36:23 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
 画像の出典：Adobe ExpressによりLedge.aiが生成
 :::
 
