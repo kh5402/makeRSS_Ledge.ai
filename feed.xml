@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Aug 2024 07:43:24 +0000</lastBuildDate><item><title>Apple、新たな家庭用卓上ロボットデバイス「ロボットアーム搭載型iPad？」の開発プロジェクト</title><link>https://ledge.ai/articles/apple_new_tabletop_device_robot</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Aug 2024 07:46:22 +0000</lastBuildDate><item><title>メタバース霊園「風の霊」9月にサービス開始、ティザーサイト公開</title><link>https://ledge.ai/articles/metaverse_cemetery_opens</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+アルファクラブ武蔵野株式会社は2024年8月2日、メタバース技術を活用した新たな供養サービス「メタバース霊園 風の霊」を、2024年9月に開始することを{target=“_blank”}した。VR事業を展開する株式会社HIKKYと共同で開発されたこの霊園では、パソコンやスマートフォンを介して、仮想空間内で故人を偲ぶ。サービスの一部を紹介する{target=“_blank”}と公式X（旧Twitter）も公開された。
+## 背景と課題
+「メタバース霊園 風の霊」は、現代社会における供養や葬儀の形が変化する中で生まれたサービスだという。新型コロナウイルス感染症の影響により、家族葬が主流となり、従来の供養の場が減少する一方で、核家族化や少子高齢化が進む中、無縁墓の増加や供養の機会の減少が深刻な問題となっている。アルファクラブ武蔵野は、こうした社会的課題に対応するため、メタバース技術を活用した新しい供養の形を提案した。 
+## サービスの特徴
+「風の霊」は、物理的な制約を超え、いつでもどこからでも故人を偲ぶことができる仮想空間を提供する。霊園内には、故人の思い出を保存できる「マイルーム」が設けられ、写真や動画、音声データを通じて、家族や友人が故人との思い出を共有できる。また、参列者同士のコミュニケーションを支援する機能も備えており、心のケアに貢献することを目指している。さらに、人間だけでなく、ペットの供養にも対応しており、終活の一環として自分自身のマイページを事前に準備することも可能だという。
+
+
+!
+:::small
+画像の出典：{target=“_blank”}
+:::
+
+「風の霊」の開発は、2023年1月に開始され、HIKKYのWebメタバース開発サービス「Vket Cloud」を用いて進められた。このサービスは、遠方に住む家族や友人が地理的な制約を受けずに供養に参加できる利便性を提供し、供養の機会創出に寄与することが期待されている。サービス開始に向け、ティザーサイトでは詳細情報や体験コーナーが公開され、利用者に向けた準備が進んでいる。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 20 Aug 2024 07:46:22 +0000</pubDate></item><item><title>Apple、新たな家庭用卓上ロボットデバイス「ロボットアーム搭載型iPad？」の開発プロジェクト</title><link>https://ledge.ai/articles/apple_new_tabletop_device_robot</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
@@ -344,25 +373,7 @@ Figure 02は、単なる試作機を超えた商業利用可能なヒューマ�
 :::box
 
 :::
-</description><pubDate>Fri, 09 Aug 2024 08:09:08 +0000</pubDate></item><item><title>世界初 AI駆動の全自動ロボット歯科医による虫歯治療が成功ーーボストンのPerceptive社</title><link>https://ledge.ai/articles/perceptive_automated_robotic_dentist</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-2024年7月30日、ボストンを拠点とするPerceptive社が開発したAI制御の自律型ロボットが、世界で初めて完全自動の歯科治療を人間に対して成功させたことを{target=“_blank”}した。
-
-このロボット歯科医療システムは、光干渉断層撮影（OCT）技術を用いたハンドヘルド型スキャナーで患者の口腔内を3Dスキャンし、歯茎の下や歯の内部の構造を詳細に捉える。得られた3Dデータは、AIアルゴリズムによって分析され、治療計画が自動的に立案される。その後、ロボットアームが正確な操作を行い、例えばクラウンの装着といった治療を従来の2時間以上に及ぶ工程からわずか15分に短縮するという。
-
-この技術は、X線を使用せずに90%以上の精度で虫歯を検出できることから、患者の安全性を高め、診断の精度を向上させる。また、患者の動きが多い状況でも安全に治療を行えるように設計されており、患者の快適性も向上させるという。
-
-同社のCEOであるDr. Chris Ciriello氏は、この技術が「歯科治療の精度と効率を飛躍的に向上させ、より多くの患者に質の高いケアを提供する」と述べ、今後のさらなる発展に意欲を示している。現時点ではこのシステムはまだプロトタイプ段階であり、FDA（米国食品医薬品局）の承認を待っている状況とのこと。
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 09 Aug 2024 07:22:41 +0000</pubDate></item><item><title>DX担当者が生成AIの進化について押さえておくべきこと｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-1</link><description>:::small
+</description><pubDate>Fri, 09 Aug 2024 08:09:08 +0000</pubDate></item><item><title>DX担当者が生成AIの進化について押さえておくべきこと｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-1</link><description>:::small
 画像の出典：Adobe ExpressによりLedge.aiが生成
 :::
 
