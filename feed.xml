@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Aug 2024 07:46:22 +0000</lastBuildDate><item><title>メタバース霊園「風の霊」9月にサービス開始、ティザーサイト公開</title><link>https://ledge.ai/articles/metaverse_cemetery_opens</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Tue, 20 Aug 2024 07:48:54 +0000</lastBuildDate><item><title>「自動運転車のクラクションが鳴りやまない！」深夜のサンフランシスコでWaymoの騒音トラブル　ソフトウエアアップデートで対応か</title><link>https://ledge.ai/articles/horn_noise_problem_by_waymo_self-driving_cars_in_sanfrancisco</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+2024年8月、サンフランシスコのサウス・オブ・マーケット（SoMa）エリアでWaymoの自動運転車が発生させる騒音問題が住民を困惑させていると米国の複数メディアが報じた。この問題は、Waymoが同エリアの駐車場を利用し始めたことに起因している。夜間、駐車場内の自動運転車が互いにクラクションを鳴らし続け、周辺住民に深刻な睡眠障害を引き起こしているという。
+
+この騒音トラブルは、Waymoの自動運転車がバックする際に他の車両に近づくとクラクションを鳴らす仕組みによるもので、駐車場内で複数の車両が連鎖的にクラクションを鳴らし合う事態となっていた。特に深夜から早朝にかけて、最大で10台の車両が同時にクラクションを鳴らすことがあり、その騒音は午前4時頃にピークに達することが報告されている。
+
+近隣住民はこの状況に対して強い不満を抱いており、一部の住民は「ここに住んで20年の間で最悪の騒音だ」と語っている。住民の中には不眠症を訴える者もおり、事態は深刻化していたという。
+
+この問題に対応するため、Waymoは2024年8月14日に自動運転車のソフトウェアを更新し、クラクションの頻度を減少させる措置を講じたと{target=“_blank”}が報じている。しかし、問題が完全に解決されたわけではなく、一部の場所では依然としてクラクションが鳴り続けているとの報告もあるとのこと。
+
+Waymoは地域社会への影響を重視し、引き続きこの問題への対応を行っている。サンフランシスコでの運用を拡大しつつも、安全性と地域住民の生活への配慮を強調している同社は、今後も技術の改善を図り、地域社会との協力を進める意向を示している。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Tue, 20 Aug 2024 07:48:54 +0000</pubDate></item><item><title>メタバース霊園「風の霊」9月にサービス開始、ティザーサイト公開</title><link>https://ledge.ai/articles/metaverse_cemetery_opens</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -340,40 +362,7 @@ Jamesは現在、最終調整段階にあり、近い将来一般に公開され
 
 :::
 
-</description><pubDate>Sat, 10 Aug 2024 07:15:52 +0000</pubDate></item><item><title>OpenAIと提携のFigure、新型ヒューマノイドロボット「Figure 02」を発表—　BMWとの自動車製造の実用化に向けたテストにも成功</title><link>https://ledge.ai/articles/figure02</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-カリフォルニアを拠点とするロボット開発企業 Figureは2024年8月6日、最新のヒューマノイドロボット「Figure 02」を{target=“_blank”}した。前モデル「Figure 01」と比較して大幅な技術的進化を遂げており、特にAI性能と自律作業能力が強化されているという。
-## Figure 02の技術的進化と設計
-Figure 02は、NVIDIAの最先端GPU技術を活用し、リアルタイムでのAI推論を可能にする3倍の計算能力を搭載している。これにより、製造業や物流などの現場で、複雑なタスクを完全自律的に実行できるようになった。ロボットには6台のRGBカメラと改良された人間型の手が搭載されており、16の自由度を持つ手は、最大25kgまでの重量物を精密に操作可能とのこと。
-
-さらに、Figure 02にはOpenAIとの提携により、人間と自然な会話が可能な音声認識システムが組み込まれている。この機能は、労働力不足が深刻化する産業界で特に期待されており、Figureは今後、消費者向けバージョンの開発も視野に入れている。
-
-@
-
-
-
-## BMWとの実用化テスト
-{target=“_blank”}は、サウスカロライナ州スパータンバーグの工場で、Figure 02を用いたテストを実施した。このテストでは、ロボットが車体の組み立て工程で金属パーツを正確に配置することに成功し、製造ラインでの実用性が確認できたという。
-
-BMWの生産担当役員であるミラン・ネデリコビッチ氏は、「我々は早期テストを通じて、ヒューマノイドロボットの製造業への応用可能性を評価している」とコメントしており、今後の技術開発と産業化に向けた取り組みを強化していく方針を示した。
-
-
-Figure 02は、単なる試作機を超えた商業利用可能なヒューマノイドロボットとして、製造業や物流業界など多岐にわたる分野での実用化が期待されている。Figure社は引き続き技術開発を進め、労働力不足の解消と産業の効率化に向けたソリューションを提供することを目指している。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 09 Aug 2024 08:09:08 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
+</description><pubDate>Sat, 10 Aug 2024 07:15:52 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
 画像の出典：Adobe ExpressによりLedge.aiが生成
 :::
 
