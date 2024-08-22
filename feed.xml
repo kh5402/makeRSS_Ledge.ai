@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Aug 2024 04:48:21 +0000</lastBuildDate><item><title>9月23日までは1日最大100万トークンの無料トレーニング提供　OpenAI、GPT-4oのファインチューニング機能を全開発者に提供開始</title><link>https://ledge.ai/articles/openai_gpt-4o_finetuning</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Aug 2024 07:57:51 +0000</lastBuildDate><item><title>OpenAI、VogueやWired などを擁する Condé Nastと提携しメディアコンテンツの統合を推進</title><link>https://ledge.ai/articles/openai_condenast_partnership</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+OpenAIは2024年8月20日、米国の大手メディア企業Condé Nastとの提携を{target=“_blank”}した。この提携により、WiredやVogue、The New Yorkerなど、Condé Nastが所有する複数の人気メディアのコンテンツが、OpenAIの製品であるChatGPTやSearchGPTプロトタイプに表示できるようになるという。
+## 提携の背景と目的
+このパートナーシップは、AI技術がメディア業界にもたらす影響を見据えた戦略的な取り組みとなる。Condé NastのCEOである{target=“_blank”}は、この提携により得られる収益を、ジャーナリズムとクリエイティブな活動の保護と発展に再投資すると述べている。また、メディアとジャーナリズムの分野におけるAIの影響力が増す中で、適切な帰属と補償を確保することが重要であると強調した。
+
+OpenAIのBrad Lightcap COOも、この提携がAIを用いたニュース発見と提供のプロセスを強化し、信頼性の高い情報源をユーザーに提供するためのものであると述べている。今回の協力は、AIが情報を提供する際に、正確性と倫理を維持しつつ、質の高い報道を尊重することを目指している。
+## 広がるAIとメディアの融合
+Condé Nastは、Associated PressやAxel Springer、The Atlantic、Financial Times、Vox Mediaなど、OpenAIと提携する主要メディアの仲間入りを果たした。この動きは、メディア企業がAI技術を活用し、変化する情報消費パターンに対応する一環として捉えられている。特に、SearchGPTは、ユーザーが素早く信頼性の高い情報にアクセスできるよう、ニュース記事への直接リンクを提供する機能を備えており、今後、ChatGPTにもこの機能が統合される予定だという。
+
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 21 Aug 2024 07:57:51 +0000</pubDate></item><item><title>9月23日までは1日最大100万トークンの無料トレーニング提供　OpenAI、GPT-4oのファインチューニング機能を全開発者に提供開始</title><link>https://ledge.ai/articles/openai_gpt-4o_finetuning</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -332,37 +359,7 @@ OpenAIの安全およびセキュリティ委員会は、全てのプロジェ�
 
 :::
 
-</description><pubDate>Tue, 13 Aug 2024 10:25:18 +0000</pubDate></item><item><title>RAGやヒューマノイドが新たに加わる：ガートナージャパン「未来志向型インフラ・テクノロジのハイプサイクル」を発表</title><link>https://ledge.ai/articles/gartner-japan_hype_cycle_future_oriented_infra_tech</link><description>:::small
-画像の出典：[Dall-E3により ledge.ai が生成]
-:::
-
-ガートナー ジャパンは2024年8月7日、「日本における未来志向型インフラ・テクノロジのハイプ・サイクル」を{target=“_blank”}した。今回のレポートでは、新たにRAGとマシンカスタマー、ヒューマノイド、エンボディドAI、Large Behavior Model（LBM：大規模振る舞いモデル）という5つの新たな技術が追加された。
-
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-ガートナーの「ハイプ・サイクル」（Hype Cycle）は、新しい技術が市場に登場してから成熟に至るまでのプロセスを視覚的に表現したモデルで、５つのフェーズから成る。それぞれを「黎明期」、「過度な期待」のピーク期、「幻滅期」、「啓発期」、「生産性の安定期」と定義している。
-
-2024年に追加した技術のうち、同社はRAGを過度な期待のピーク期に位置付けた。RAGは大規模言語モデル（LLM）と検索技術を組み合わせることで、企業が自社データを生成AIに組み込み、特化型AIの利用を促進するものだが、その精度向上には課題が残ると指摘されている。
-
-生成AI技術は依然として「過度な期待」のピークに位置しており、ガートナーの鈴木雅喜氏は、今後この技術がさまざまな業種で利用されることを予測している。また、ディスティングイッシュト バイス プレジデント アナリストの亦賀忠明氏は、生成AIやRAGに関して、企業が期待値をコントロールする重要性を強調している。
-
-ヒューマノイド技術についても2024年以降の注目技術として位置付けられており、自動車業界をはじめとする製造業において、労働負荷の軽減や生産性の向上を図る手段として期待されているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Mon, 12 Aug 2024 14:36:23 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
+</description><pubDate>Tue, 13 Aug 2024 10:25:18 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
 画像の出典：Adobe ExpressによりLedge.aiが生成
 :::
 
