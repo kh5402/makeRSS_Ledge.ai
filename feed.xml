@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Aug 2024 08:00:56 +0000</lastBuildDate><item><title>OpenAI、VogueやWired などを擁する Condé Nastと提携しメディアコンテンツの統合を推進</title><link>https://ledge.ai/articles/openai_condenast_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Aug 2024 08:46:31 +0000</lastBuildDate><item><title>米シンクロン、ChatGPTを活用した脳コンピュータ・インターフェースの新機能を発表</title><link>https://ledge.ai/articles/synchrone_bcn_chatgpt</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+米国のブレイン・コンピュータ・インターフェース（BCI：Brain-Computer Interface）企業シンクロン（Synchron）は2024年7月11日、OpenAIのChatGPTを統合した新しいチャット機能を{target=“_blank”}した。
+
+同社の開発した運動機能障害者のためのエンドバスキュラー技術により、上肢の運動機能を失った重度の麻痺患者が、デジタル世界とハンズフリーで思考だけで対話できるようになるという。シンクロンのBCIチャット機能は、リアルタイムでユーザーの感情やコンテキストに基づく自動化されたプロンプトを生成する能力を持ち、使いやすさを重視して設計されているとのこと。
+
+@
+
+
+
+シンクロンのCEOであるトム・オクスリー氏は、「BCIは基本的な人権である表現の自由を守り、拡張する技術だ。これは、生命を再び活性化する強力な技術の融合がもたらす重要な瞬間である」と述べている。同社はユーザーの脳データをOpenAIと共有しないことを強調している。
+
+シンクロンのBCIは、運動皮質の表面にある血管内に設置され、外科的手術を必要としないミニマル・インベイシブな手法で移植される。この装置は、脳からモーターの意図を検出し、ワイヤレスで送信することで、重度の麻痺患者がハンズフリーでデバイスを操作する能力を回復させることを目的としている。
+
+この新しいプラットフォームにより、ユーザーはより効率的にテキストを送信できるようになり、自然な会話速度での応答が可能となるという。この技術は、上肢の運動障害者やその他の神経疾患を持つユーザーにとって大きなメリットをもたらすと期待されている。同社は今後、数百万人に及ぶ上肢機能障害者が世界とつながるための商用BCIの開発を目指すとのこと。
+
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 21 Aug 2024 08:46:31 +0000</pubDate></item><item><title>OpenAI、VogueやWired などを擁する Condé Nastと提携しメディアコンテンツの統合を推進</title><link>https://ledge.ai/articles/openai_condenast_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -330,36 +362,7 @@ IBMは今後も労使関係の透明性を高め、良好な関係を維持す�
 
 :::
 
-</description><pubDate>Wed, 14 Aug 2024 09:54:53 +0000</pubDate></item><item><title>OpenAI、AI安全性強化のためカーネギーメロン大学教授を取締役に迎える</title><link>https://ledge.ai/articles/zico-kolter_joins_openais_board_of_directors</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-米OpenAIは2024年8月8日、カーネギーメロン大学（CMU）機械学習学部長で教授のジコ・コルター氏を新たに取締役に迎えたことを{target=“_blank”}した。
-
-コルター氏は、AIの安全性と堅牢性に関する専門的な知識を持つリーダーとして知られ、今後、同社の安全およびセキュリティ委員会にも参加し、AI技術の開発における安全性を強化する役割を担うという。
-## 安全およびセキュリティ委員会の新たな役割
-OpenAIの安全およびセキュリティ委員会は、全てのプロジェクトに関する安全とセキュリティの決定を理事会に勧告する責任を負っている。この委員会は、かつてイリヤ・サツケバー氏とヤン・ライケ氏が主導していたSuperalignmentチームの役割を引き継ぐ形で設立された。
-
-コルター氏の参加により、同委員会はさらに技術的な専門知識を深めることが期待されている。同社の取締役会長であるブレット・テイラー氏はジーコ氏の取締役会への参加を歓迎し、「ジーコ氏は、AIの安全性と堅牢性に関する深い技術的理解と視点をもたらし、汎用人工知能（AGI）が人類全体に利益をもたらすことを確実にするのに役立つだろう」と述べた。
-## ジコ・コルター教授の背景と貢献
-コルター氏は、カーネギーメロン大学にて機械学習学部の学部長を務め、12年以上にわたりAI安全性に関する研究を主導してきた。同氏の研究は、ニューラルネットワークの構造やデータの影響を理解するための新しい方法論、そしてAIモデルの堅牢性を評価するための自動化手法など、多岐にわたる。特に最近では、大規模言語モデル（LLM）の安全性を自動的に評価する技術を開発し、既存のAIモデルの脆弱性を指摘する成果を上げているという。
-
-また、コルター氏は産業界でも積極的に活動しており、かつてC3.aiのチーフデータサイエンティストを務め、現在はBoschのチーフエキスパート、およびAIセキュリティ専門のスタートアップ、Gray Swanのチーフテクニカルアドバイザーとしても活躍しているとのこと。
-## 今後の展望
-コルター氏の取締役就任は、OpenAIにとって重要な時期に行われた。この動きは、AI技術の急速な進展に伴う安全性確保の必要性が高まる中で、同社のガバナンス構造を強化するものと位置づけられている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Tue, 13 Aug 2024 10:25:18 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
+</description><pubDate>Wed, 14 Aug 2024 09:54:53 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
 画像の出典：Adobe ExpressによりLedge.aiが生成
 :::
 
