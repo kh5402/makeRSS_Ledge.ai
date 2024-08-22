@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Aug 2024 07:57:51 +0000</lastBuildDate><item><title>OpenAI、VogueやWired などを擁する Condé Nastと提携しメディアコンテンツの統合を推進</title><link>https://ledge.ai/articles/openai_condenast_partnership</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Aug 2024 08:00:56 +0000</lastBuildDate><item><title>OpenAI、VogueやWired などを擁する Condé Nastと提携しメディアコンテンツの統合を推進</title><link>https://ledge.ai/articles/openai_condenast_partnership</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -1594,7 +1594,39 @@ GitHubは2024年2月9日、GitHubに関する質問に迅速に答えるため�
 :::box
 
 :::
-</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>Google DeepMind、テキストから高品質な画像を生成する新モデル「Imagen 3」を正式リリース</title><link>https://ledge.ai/articles/googledeepmind_imagen3</link><description>:::small
+</description><pubDate>Tue, 20 Feb 2024 11:06:59 +0000</pubDate></item><item><title>MIT、AIリスクの理解不足を警告   AIの潜在リスクを網羅した新たなデータベース「AI Risk Repository」を公開</title><link>https://ledge.ai/articles/mit_ai_risk_repository</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+マサチューセッツ工科大学（MIT）のコンピューター科学・人工知能研究所（CSAIL）とフューチャーテック（FutureTech）は2024年8月14日、AIに関する700以上のリスクを網羅的に収集したデータベース「AIリスク・リポジトリ」を{target=“_blank”}した。
+
+これは、AI技術の急速な普及に伴い、リスク理解が追いついていない現状を受けての対応であり、このデータベースは、リスク評価や政策立案を行うための重要なリソースとなるという。
+
+MITの研究者たちは、過去に発表されたAIリスクの分類フレームワークを包括的に分析し、全体の約30％のリスクが見落とされていることを明らかにした。この分析の結果に基づき、同リポジトリは、既存の43のAIリスク分類フレームワークから抽出された700以上のリスクを含む「生きたデータベース」として設計された。このデータベースは、AIのリスクを原因やリスクドメイン（例：「誤情報」）、およびリスクサブドメイン（例：「虚偽または誤解を招く情報」）によって分類している。
+
+
+@
+
+
+リポジトリの分析によれば、AIシステムに起因するリスクは全体の51％を占め、人間に起因するリスクは34％であった。また、調査対象となったリスクのうち、AIモデルが一般公開される前に発見されたものはわずか10％にとどまるという。つまり、リスクの大部分はモデルが一般公開された後に初めて認識されることが多いという事実が明らかになった。
+
+MITフューチャーテックの所長であり、プロジェクトの主要研究者の一人であるニール・トンプソン氏は、「リスクは多岐にわたり、そのすべてを事前にチェックできるわけではない」と指摘し、AIモデルの導入後もリスクを監視する必要性を強調した。
+
+今後、専門家によるリスクの評価と優先順位付けが行われ、公開された企業のAIに関する文書を分析し、リスクへの対応が専門家が指摘するリスクの重要度や深刻度に見合ったものかどうかが評価されるとのこと。
+
+このリポジトリはオンラインで無料公開されており、誰でもダウンロード、コピー、利用が可能。また、フィードバックや提案も受け付けているとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Wed, 21 Aug 2024 08:00:56 +0000</pubDate></item><item><title>Google DeepMind、テキストから高品質な画像を生成する新モデル「Imagen 3」を正式リリース</title><link>https://ledge.ai/articles/googledeepmind_imagen3</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -2055,45 +2087,7 @@ Google DeepMindは、形式的な数学推論と幾何学問題を解決する�
 :::box
 
 :::
-</description><pubDate>Fri, 02 Aug 2024 08:34:13 +0000</pubDate></item><item><title>AIモデルの「モデル崩壊」に対する脆弱性が判明　他のAIモデルが生成したデータを学習することのリスク</title><link>https://ledge.ai/articles/ai_models_collapse_when_trained_on_recursively_generated_data</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年7月25日、オックスフォード大学のイリア・シュマイロフ氏率いる研究チームが、AIモデルが「モデル崩壊」と呼ばれる現象に対して根本的に脆弱であることを示す論文を学術誌『Nature』に{target=“_blank”}した。
-
-この現象は、他のAIモデルによって生成されたデータを学習することで発生し、AIモデルが時間とともに基礎となるデータ分布を忘れてしまうという退化プロセスを指すという。
-
-論文では、モデル崩壊の現象を視覚的に示すために、言語モデルを用いて実験を行った。下図は、モデルの世代が進むにつれてデータの品質がどのように劣化するかを示している。
-
-図a：モデル崩壊のフィードバックメカニズムの高レベルの説明。初期データは人間によってキュレーションされたものであり、時間とともにモデル生成データがデータセットに加わる。
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-
-図b, c：異なる世代のモデルが生成するデータの複雑度（perplexity）のヒストグラム。初期モデルが生成したデータは高品質だが、世代が進むにつれてデータの品質が低下し、エラーが蓄積される
-
-!
-!
-
-
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-研究によると、「モデル崩壊」を防ぐためには、人間が生成したデータに依存することが重要だという。AI生成データと人間生成データを区別し、適切にフィルタリングする必要がある。例えば、AI生成データにウォーターマークを付ける方法が提案されているが、これには大規模な調整と協力が必要とされる。さらに、元のデータ分布にアクセスし続けることが不可欠であると強調した。
-
-この研究は、将来的なAIモデルの開発において、人間の監視とデータの管理の重要性を示しているという。AIの生成するデータの品質と信頼性を確保するため、AIモデルのトレーニングデータの出所を明確にし、人間の生成するデータを活用することが不可欠だと述べられている。
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Wed, 31 Jul 2024 08:46:28 +0000</pubDate></item><item><title>逆転判決　MidjourneyとStability AIの著作権問題：アーティスト側の著作権侵害訴えが継続へ　米連邦裁判所</title><link>https://ledge.ai/articles/midjourney_and_stabilityai_progress_on_copyright_issues</link><description>:::small
+</description><pubDate>Fri, 02 Aug 2024 08:34:13 +0000</pubDate></item><item><title>逆転判決　MidjourneyとStability AIの著作権問題：アーティスト側の著作権侵害訴えが継続へ　米連邦裁判所</title><link>https://ledge.ai/articles/midjourney_and_stabilityai_progress_on_copyright_issues</link><description>:::small
 画像の出典：DALL-E3によりLedge.aiが生成
 :::
 
