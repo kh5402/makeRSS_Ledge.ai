@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Wed, 21 Aug 2024 08:46:31 +0000</lastBuildDate><item><title>米シンクロン、ChatGPTを活用した脳コンピュータ・インターフェースの新機能を発表</title><link>https://ledge.ai/articles/synchrone_bcn_chatgpt</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 22 Aug 2024 05:00:42 +0000</lastBuildDate><item><title>ソニーグループ、新プラグイン「Gaming Virtualizer」でゲーム向け立体音響を強化</title><link>https://ledge.ai/articles/sony_gaming_virtualizer</link><description>:::small
+画像の出典：{target=“_blank”}
+:::
+
+ソニーグループは2024年8月19日、新しい立体音響技術「Gaming Virtualizer by 360 Reality Audio」を{target=“_blank”}した。この技術は、カナダのソフトウェア企業Audiokineticが提供するゲームサウンド制作ミドルウェア「Wwise」に統合され、ゲーム開発者がよりリアルな音響体験を提供できるという。
+
+「Gaming Virtualizer」は、360 Reality Audioの技術を活用しており、低負荷・低遅延で自然な立体音響を実現する。同技術により、3Dゲームやモバイルゲーム、PCゲームなどで、ヘッドホンを使用した際に、よりリアルな音響体験を提供することが可能になるという。特に、音の定位が明確で、プレイヤーが移動した際にも違和感なく周囲の音が滑らかに動くため、没入感が一層向上するとのこと。
+## 「Wwise」との連携による効率的なゲーム開発
+Gaming Virtualizerは、ゲーム開発プロジェクトで広く利用されている「Wwise」との連携を強化する。これにより、モバイルゲームやPCゲーム向けの音響設計を効率化でき、ゲーム全体のサウンドフィールドを個別に調整することが可能になる。例えば、キャラクターの声や効果音を明確に定位させる一方で、環境音などは別の処理を施すことで、より精密な音響表現が可能だという。
+## 主要ゲーム開発者による導入と評価
+この新しいプラグインは、すでにコロプラ、サイゲームス、スクウェア・エニックス、ナイアンテックといった日本や海外の主要なゲーム開発会社で検証が進められている。コロプラが開発したアドベンチャーゲーム「PRINCIPLES PROLOGUE」では、この技術を使用して、洞窟内の反響音や電気回路の音など、リアルな音響環境を再現しているという。
+
+この新技術により、ゲーム開発者は音響のデザインをより細かく調整できるようになり、特定の位置から聞こえる音と、環境音などの全体的な音を別々に処理することが可能になるとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::</description><pubDate>Thu, 22 Aug 2024 05:00:42 +0000</pubDate></item><item><title>米シンクロン、ChatGPTを活用した脳コンピュータ・インターフェースの新機能を発表</title><link>https://ledge.ai/articles/synchrone_bcn_chatgpt</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -330,39 +353,7 @@ TenyxのCEOであるイタマー・アレル氏は、ネガティブな体験が
 :::box
 
 :::
-</description><pubDate>Thu, 15 Aug 2024 11:43:08 +0000</pubDate></item><item><title>日本IBM、賃金査定にAIツール導入した件で労組と和解「評価項目の開示」など透明性の確保に合意</title><link>https://ledge.ai/articles/ibm-japan_and_labor_union_settle_use_of_ai_for_wage_assessment</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-日本IBMと労働組合である日本金属製造情報通信労働組合（JMITU）が2024年8月1日に、AIを用いた賃金査定に関する画期的な和解に達したと{target=“_blank”}が報じた。この和解により、日本IBMはAIが賃金査定で使用する評価項目を労働組合に開示することが義務付けられ、AIの透明性が確保されることとなったという。
-## 背景：AIの導入と労組の反発
-問題の発端は、2019年に日本IBMが賃金査定に「IBM Compensation Advisor with Watson」というAIツールを導入したことにある。このツールは、社員の評価に基づいて賃金調整を行う際に上司をサポートすることを目的としていた。しかし、労組はこのAIがどのような項目を考慮しているのか、またどのような提案が行われているのかについての開示を求めたが、日本IBMはこれを拒否。これに対して労組は2020年4月、東京都労働委員会に不当労働行為として救済の申し立てを行ったとのこと。
-## 和解の内容：AI評価項目の開示
-今回の和解により、日本IBMは労組に対して以下の内容を開示することに合意した：
-
-AIが賃金査定において考慮する評価項目の全項目を労組に開示する
-これらの評価項目が賃金規程上の評価項目とどのように関連しているかを説明する
-労組が疑義を提起した場合、AIの提案内容を開示する
-
-さらに、今後AIの賃金評価方法に疑義が生じた際には、労組と協議を行うことも取り決められた。
-
-## 世界初の試み：透明性確保のための新たなモデルケース
-このようなAIの評価項目を労働者に開示するルールは、世界初の試みとして注目されている。特に、労使間でAIの利用に関する合意が形成されたことは、他の企業にとっても重要なモデルケースとなり得ると評価されている。労組の弁護士である水口洋介氏は、「この和解によって、査定におけるAIの評価項目が全て開示されることになった。日本のみならず、世界でも初めてのケースだ」と述べたという。
-
-IBMは今後も労使関係の透明性を高め、良好な関係を維持するために努めるとコメントしているとのこと。
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-
-</description><pubDate>Wed, 14 Aug 2024 09:54:53 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
+</description><pubDate>Thu, 15 Aug 2024 11:43:08 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
 画像の出典：Adobe ExpressによりLedge.aiが生成
 :::
 
