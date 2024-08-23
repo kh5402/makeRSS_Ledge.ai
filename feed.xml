@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 22 Aug 2024 05:00:42 +0000</lastBuildDate><item><title>ソニーグループ、新プラグイン「Gaming Virtualizer」でゲーム向け立体音響を強化</title><link>https://ledge.ai/articles/sony_gaming_virtualizer</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 22 Aug 2024 05:03:12 +0000</lastBuildDate><item><title>Arm、イスラエルでゲーム用GPUを開発中か—NVIDIAやIntelへの挑戦が始まる</title><link>https://ledge.ai/articles/arm_developing_gpu_in_israel</link><description>:::small
+画像の出典：Dall-E3により ledge.ai が生成
+:::
+
+2024年8月14日、半導体大手のArmが、NVIDIAやIntelに対抗するゲーム用GPUをイスラエルで開発していることが報じられた。海外メディア{target=“_blank”}によると、Armはイスラエルのラーアナナにある開発拠点で約100人のエンジニアを擁し、この新プロジェクトに取り組んでいるという。
+
+同社はこれまで、独自のプロセッサを製造するのではなく、知的財産やチップ開発ソフトウェアを他社に提供することで成長を遂げてきた。QualcommやMediaTek、Appleなど、Armの技術を採用した企業は、自社のニーズに合わせたチップを開発するためにArmのIPを利用してきた。しかし、今回の報道が事実であれば、Armは自社開発の製品を持ち、直接的に市場に参入するという大きな戦略転換を図ることになる。
+
+ラーアナナにあるArmの開発センターでは、グローバルグラフィックスプロセッシンググループが設置されており、ゲーム用GPUの開発が進行中とされている。このグループには、チップおよびソフトウェア開発に特化したエンジニアが集められており、Armが自社製品として市場に投入するGPUの開発を行っている可能性が高いとのこと。
+
+
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 22 Aug 2024 05:03:12 +0000</pubDate></item><item><title>ソニーグループ、新プラグイン「Gaming Virtualizer」でゲーム向け立体音響を強化</title><link>https://ledge.ai/articles/sony_gaming_virtualizer</link><description>:::small
 画像の出典：{target=“_blank”}
 :::
 
@@ -322,38 +339,7 @@ Googleはこの発表に際し、「自然言語をよりよく解釈し、複�
 :::box
 
 :::
-</description><pubDate>Fri, 16 Aug 2024 07:31:53 +0000</pubDate></item><item><title>「担当者に替わって！」AI自動音声エージェントが顧客離れを引き起こすリスク
-</title><link>https://ledge.ai/articles/automated_voice_agents_are_hurting_customer_retention</link><description>:::small
-画像の出典：{target=“_blank”}
-:::
-
-最新の調査により、消費者の多くが自動音声エージェントに不満を抱いていることが明らかになった。自動化が進む中で、企業はコスト削減と効率化を目指しているが、顧客は依然として人間の対応を求めている。このギャップを埋めるためには、AI技術のさらなる進化と戦略的な導入が不可欠だという。
-
-AI音声ソリューション企業Tenyxが委託した調査により、自動音声エージェントに対する消費者の不満が浮き彫りになったと米メディアの{target=“_blank”}が2024年7月25日に報じた。この調査は、マーケティングリサーチ企業Centimentが実施し、実に71%の消費者が現在のバーチャル・エージェントに対してフラストレーションを感じていることが明らかになった。さらに、55%の回答者は、現在使用されている自動化された顧客サービス技術に直面した場合、取引をやめるか、別の会社を利用すると答えているという。
-
-TenyxのCEOであるイタマー・アレル氏は、ネガティブな体験が顧客離れを引き起こし、ブランドの評判に悪影響を及ぼすと警告している。
-## 顧客は依然として人間のエージェントを好む
-調査によると、67%の回答者が依然として人間のエージェントと話すことを好んでおり、特に複雑な問題に対処する際には自動音声エージェントに対する不信感が強いという。また、回答者の30%近くが常に人間のエージェントを選ぶと回答しており、自動化の限界が浮き彫りになった。
-
-ただし、もし自動音声エージェントが人間のパフォーマンスに匹敵するレベルに達すれば、多くの消費者がこの技術を頻繁に利用する意向を示している。これは企業にとって、大きなコスト削減の可能性がある一方で、顧客体験を向上させるための課題を抱えていることを意味するとのこと。
-
-## 最適な解決策は人間とAIのハイブリッド
-アレル氏はまた、効果的な顧客サービスの提供には、人間のエージェントとAIのハイブリッドアプローチが最適であると述べている。人間のエージェントは複雑で微妙な問題に対応し、自動音声エージェントは日常的で反復的な問い合わせに迅速かつ正確に対処することができる。
-
-さらに、AIシステムの継続的なトレーニングと最適化、そして顧客からのフィードバックを活用することで、システムの性能を大幅に向上させることが可能であるとされている。また、AIが限界に達した場合にスムーズに人間のエージェントに引き継げるようにすることも、顧客がサポートされていると感じるために重要となるという。
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Thu, 15 Aug 2024 11:43:08 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
+</description><pubDate>Fri, 16 Aug 2024 07:31:53 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
 画像の出典：Adobe ExpressによりLedge.aiが生成
 :::
 
