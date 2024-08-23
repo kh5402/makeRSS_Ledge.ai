@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 22 Aug 2024 05:03:12 +0000</lastBuildDate><item><title>Arm、イスラエルでゲーム用GPUを開発中か—NVIDIAやIntelへの挑戦が始まる</title><link>https://ledge.ai/articles/arm_developing_gpu_in_israel</link><description>:::small
+<rss version="2.0"><channel><title>Ledge.ai 複数カテゴリ</title><link>https://ledge.ai</link><description>Ledge.aiの複数カテゴリの最新記事</description><language>ja</language><lastBuildDate>Thu, 22 Aug 2024 09:52:24 +0000</lastBuildDate><item><title>YouTuberがNVIDIAとOpenAIを提訴：生成AIトレーニングにおける「不当利得」を主張</title><link>https://ledge.ai/articles/youtuber_suied_nvidia</link><description>:::small
+画像の出典：DALL-E3によりLedge.aiが生成
+:::
+
+YouTuberのデビッド・ミレット氏は2024年8月14日、NVIDIAを相手取り、同氏のYouTubeコンテンツを無断でAIトレーニングに使用し「不当利得」を得たとして{target=“_blank”}を起こした。同氏は、同様の主張で2週間前にOpenAIも訴えており、自身のビデオの無断使用の差し止め、賠償、その他の損害賠償を求めるとしている。
+## 訴訟の背景と主張の詳細
+ミレット氏によれば、NVIDIAはAIモデル「Cosmos」のトレーニングに、同氏を含む多くのYouTuberの動画を無断で使用したとされる。同氏の主張は、これが単なる著作権侵害ではなく、法的に補償されるべき利益を提供者に還元しない「不当利得」に当たるというもの。同概念に基づき、被告が原告の努力から不当に利益を得た場合、原告はその利益を取り戻す権利があるとされる。
+
+同氏のOpenAI訴訟では、同社がロボットやプログラムされたビデオスクレーパーなどの「自動化された手段」を使用してYouTubeから100万時間以上のビデオを盗んだと非難している。{target=“_blank”}の報道によると、NVIDIAはNetflixやその他のオンラインソースから動画も乗っ取っていたとのこと。
+## AIトレーニングにおけるデータ利用の法的課題
+NVIDIAとOpenAIは共に、法的に問題のないフェアユースの範囲でコンテンツを利用していると主張しているが、法的な判断の結果次第では、AIのトレーニングに利用されるデータの扱いについて、今後さらに厳しい規制が導入される可能性も考えられる。Microsoftのムスタファ・スレイマンCEOは、ウェブ上に公開されたコンテンツは「フリーウェア」だと主張しており、{target=“_blank”}は議論を巻き起こしている。
+
+同訴訟は、AI開発におけるコンテンツ利用の法的枠組みや企業の責任を問う試金石となるのではと注目を集めている。
+
+
+:::box
+
+:::
+:::box
+
+:::
+:::box
+
+:::
+</description><pubDate>Thu, 22 Aug 2024 09:52:24 +0000</pubDate></item><item><title>Arm、イスラエルでゲーム用GPUを開発中か—NVIDIAやIntelへの挑戦が始まる</title><link>https://ledge.ai/articles/arm_developing_gpu_in_israel</link><description>:::small
 画像の出典：Dall-E3により ledge.ai が生成
 :::
 
@@ -291,55 +315,7 @@ COVID-19の影響で働き方が多様化する一方、うつ病をはじめと
 :::box
 
 :::
-</description><pubDate>Fri, 16 Aug 2024 07:44:21 +0000</pubDate></item><item><title>Google、AI検索機能「AI Overview」を日本を含む6か国で提供開始、リアルタイム会話機能「Gemini Live」も発表</title><link>https://ledge.ai/articles/google_gemini_ai-overview_and_gemini-live</link><description>:::small
-画像の出典：DALL-E3によりLedge.aiが生成
-:::
-
-2024年8月、日本では盆休みの方も多そうなこの期間、GoogleはAI技術を活用した新たな機能を次々と発表した。AIを用いた検索機能「AI Overview」の国際展開と、リアルタイム会話が可能な「Gemini Live」の導入により、ユーザーはより直感的で便利な検索体験や会話を楽しめるようになる。
-
-## AIによる検索機能「AI Overview」を日本を含む6か国で提供開始
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-8月15日、AIを活用した検索機能「AI Overview」を日本、英国、インド、インドネシア、メキシコ、ブラジルの6か国で提供開始することを{target=“_blank”}した。この機能は、今年5月に米国で試験的に導入され、ユーザーの検索クエリに対してAIが生成した要約を表示する。
-
-「AI Overview」は、{target=“_blank”}で発表された生成AI搭載の新しい検索エンジンの一部であり、より簡潔かつ的確な情報提供を目指して開発された。しかし、米国での初期導入時には「ピザに接着剤を入れるといい」といった誤った回答が話題となり、一時的に提供が停止されていた。Googleはその後、機能改善を進め、「Search Labs」での再テストを経て、今回の国際展開に至ったという。
-
-この新機能は、「Search Labs」に参加していなくても、指定された6か国のユーザーが利用可能となる。
-
-さらに、AI Overviewの機能拡充として、生成した回答の情報源リンクを表示する新機能を追加した。デスクトップ版ではリンクがインラインで表示され、モバイル版では情報源のサイトアイコンが右上にまとめて表示される仕様となっている。これにより、ユーザーは検索結果に基づく信頼性を容易に確認できるという。
-
-!
-:::small
-画像の出典：{target=“_blank”}
-:::
-
-今後同社は、英語設定の米国ユーザー向けに、AI Overviewの要約を保存する機能や、要約をさらに簡潔に表示するオプションも導入予定だという。
-## 「Gemini Live」リアルタイム会話可能なAIアシスタントを発表
-@
-
-
-8月13日には、AIアシスタント「Gemini」の新機能「Gemini Live」を{target=“_blank”}した。
-
-Gemini Liveは、ユーザーがリアルタイムでGeminiと自然な会話を楽しむことができる機能で、ブレインストーミングや会話の練習など、多様な用途に対応するという。
-
-この新機能は、携帯電話がロックされている状態でもバックグラウンドで会話を続けられるハンズフリー対応が特徴で、ユーザーはいつでもどこでもGeminiとの会話を楽しむことが可能だ。また、10種類の新しいボイスオプションが追加され、ユーザーは自身の好みに合わせた口調やスタイルを選択できる。
-
-現時点では、Gemini LiveはAndroid利用者かつGemini Advance加入者を対象に英語で提供されているが、数週間以内にiOSや他の言語にも対応拡大予定とのこと。Gemini経由でメモアプリ「Keep」へのメモ追加機能や、Gmailやカレンダーとの統合といった新機能も順次追加される。
-
-Googleはこの発表に際し、「自然言語をよりよく解釈し、複雑なタスクを処理できる大規模な言語モデルを使用することで、ユーザー体験がさらに向上する」と述べた。・
-
-
-
-:::box
-
-:::
-:::box
-
-:::
-</description><pubDate>Fri, 16 Aug 2024 07:31:53 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
+</description><pubDate>Fri, 16 Aug 2024 07:44:21 +0000</pubDate></item><item><title>旧来のチャットボットと生成AIチャットボットは何が違う？｜DX&amp;FutureWork 連動コンテンツ</title><link>https://ledge.ai/articles/dx-futurework-pre-event-2</link><description>:::small
 画像の出典：Adobe ExpressによりLedge.aiが生成
 :::
 
