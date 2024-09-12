@@ -35,7 +35,7 @@ async def main():
             print("ブラウザ起動中...")
             browser = await launch(
                 executablePath='/usr/bin/chromium-browser',
-                headless=True,
+                headless=False,  # ヘッドレスモードを無効化
                 args=[
                     '--no-sandbox',
                     '--disable-setuid-sandbox',
@@ -53,6 +53,8 @@ async def main():
             await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36')
             print(f"{getURL} ページに移動中...")
             await page.goto(getURL, timeout=30000)
+            # ページの遷移が完了するまで待つ
+            await page.waitForNavigation() 
             print("ページに移動した✈️")
 
             # ページのHTMLを取得
@@ -76,7 +78,8 @@ async def main():
                 print(f"エラー: JSONデータにキー {e} が見つかりません。JSONデータの構造を確認してください。")
                 print(f"getURL: {getURL}")
                 print(f"nuxt_data['data'].keys(): {nuxt_data['data'].keys()}")
-                continue  # 次のURLに進む
+                # ここで continue を削除
+                articles = []  # articles を空リストに設定
 
             if not articles:
                 print("警告: 記事データが空やで❗️")
@@ -108,6 +111,8 @@ async def main():
         except Exception as e:
             print(f"エラー: {e}")
             print(f"URL: {getURL} の処理中にエラーが発生しました。")
+            import traceback
+            traceback.print_exc()  # スタックトレースを出力
         finally:
             if 'browser' in locals():
                 await browser.close()
