@@ -41,8 +41,14 @@ async def main():
                     '--disable-setuid-sandbox',
                     '--disable-dev-shm-usage',
                     '--disable-accelerated-2d-canvas',
-                    '--disable-gpu'
-                ]
+                    '--disable-gpu',
+                    '--disable-extensions',  # 拡張機能を無効化
+                    '--disable-infobars',  # 情報バーを無効化
+                    '--window-size=1920,1080'  # ウィンドウサイズを指定
+                ],
+                # defaultViewport=None,  # 削除または適切な値に変更
+                # userDataDir='./user_data'  # 削除または適切な値に変更
+                logLevel='INFO'  # ログレベルを上げる
             )
             print("ブラウザ開いた📂")
 
@@ -52,9 +58,9 @@ async def main():
             page = await browser.newPage()
             await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36')
             print(f"{getURL} ページに移動中...")
-            await page.goto(getURL, timeout=30000)
-            # ページの遷移が完了するまで待つ
-            await page.waitForNavigation() 
+
+            # ページの読み込みが完了するまで待つ
+            await page.goto(getURL, timeout=60000, waitUntil='load')  
             print("ページに移動した✈️")
 
             # ページのHTMLを取得
