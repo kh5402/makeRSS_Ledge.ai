@@ -71,8 +71,8 @@ async def main():
                 print(f"エラー: JSONデータにキー {e} が見つかりません。JSONデータの構造を確認してください。")
                 print(f"getURL: {getURL}")
                 print(f"nuxt_data['data'].keys(): {nuxt_data['data'].keys()}") 
-                continue # 次のURLに進む
-
+                # continue を削除 # ここでcontinueすると、feed.add_item() が実行されない
+            
             if not articles:
                 print("警告: 記事データが空やで❗️")  # 記事データが空かどうかを確認
             else:
@@ -86,6 +86,11 @@ async def main():
                 date_formatted = date_obj.strftime("%Y/%m/%d %H:%M")
                 url = "https://ledge.ai/articles/" + article['attributes']['slug']
                 description = re.sub(r'\[.*?\]\(.*?\)', '', article['attributes']['contents'][0]['content'])
+
+                 # XMLのエスケープ処理を追加
+                title = title.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
+                description = description.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
+
 
                 # アイテムをフィードに追加
                 feed.add_item(
