@@ -1,10 +1,10 @@
+from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 from feedgenerator import Rss201rev2Feed
 from datetime import datetime
 import asyncio
 import json
 import re
-from pyppeteer import launch
 
 # 複数のURLをリストで用意
 urls = [
@@ -28,101 +28,74 @@ async def main():
         pretty=True
     )
 
-    for getURL in urls:
-        print(f"{getURL} にアクセスするよ🌐")
-        try:
-            # Pyppeteerでブラウザを開く
-            print("ブラウザ起動中...")
-            browser = await launch(
-                executablePath='/usr/bin/chromium-browser',
-                headless=False,  # ヘッドレスモードを無効化
-                args=[
-                    '--no-sandbox',
-                    '--disable-setuid-sandbox',
-                    '--disable-dev-shm-usage',
-                    '--disable-accelerated-2d-canvas',
-                    '--disable-gpu',
-                    '--disable-extensions',  # 拡張機能を無効化
-                    '--disable-infobars',  # 情報バーを無効化
-                    '--window-size=1920,1080'  # ウィンドウサイズを指定
-                ],
-                # defaultViewport=None,  # 削除または適切な値に変更
-                # userDataDir='./user_data'  # 削除または適切な値に変更
-                logLevel='INFO'  # ログレベルを上げる
-            )
-            print("ブラウザ開いた📂")
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()  # chromium を使用
+        page = await browser.new_page()
 
-            # ブラウザの起動を待つ
-            await asyncio.sleep(5)
-
-            page = await browser.newPage()
-            await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36')
-            print(f"{getURL} ページに移動中...")
-
-            # ページの読み込みが完了するまで待つ
-            await page.goto(getURL, timeout=60000, waitUntil='load')  
-            print("ページに移動した✈️")
-
-            # ページのHTMLを取得
-            print("HTML取得中...")
-            html = await page.content()
-
-            # BeautifulSoupで解析
-            print("HTML解析中...")
-            soup = BeautifulSoup(html, 'html.parser')
-
-            # window.__NUXT__の内容を取得してJSONデータをPythonの辞書に変換
-            print("JSONデータ取得中...")
-            nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
-            print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")
-
-            # "data"キーの中にある"articles"キーの"data"キーの値を取得
-            print("記事データ取得中...")
+        for getURL in urls:
+            print(f"{getURL} にアクセスするよ🌐")
             try:
-                articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
-            except KeyError as e:
-                print(f"エラー: JSONデータにキー {e} が見つかりません。JSONデータの構造を確認してください。")
-                print(f"getURL: {getURL}")
-                print(f"nuxt_data['data'].keys(): {nuxt_data['data'].keys()}")
-                # ここで continue を削除
-                articles = []  # articles を空リストに設定
+                print(f"{getURL} ページに移動中...")
+                await page.goto(getURL, timeout=30000, wait_until='load')
+                print("ページに移動した✈️")
 
-            if not articles:
-                print("警告: 記事データが空やで❗️")
-            else:
-                print(f"取得した記事数：{len(articles)} 📚")
+                # ページのHTMLを取得
+                print("HTML取得中...")
+                html = await page.content()
 
-            # 12個のデータを取得
-            print("記事データ処理中...")
-            for article in articles[:12]:
-                title = article['attributes']['title']
-                date_str = article['attributes']['createdAt']
-                date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
-                url = "https://ledge.ai/articles/" + article['attributes']['slug']
-                description = re.sub(r'\[.*?\]\(.*?\)', '', article['attributes']['contents'][0]['content'])
+                # BeautifulSoupで解析
+                print("HTML解析中...")
+                soup = BeautifulSoup(html, 'html.parser')
 
-                # XMLのエスケープ処理
-                title = title.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
-                description = description.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
+                # window.__NUXT__の内容を取得してJSONデータをPythonの辞書に変換
+                print("JSONデータ取得中...")
+                nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
+                print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")
 
-                # アイテムをフィードに追加
-                feed.add_item(
-                    title=title,
-                    link=url,
-                    description=description,
-                    pubdate=date_obj
-                )
-            print("RSSフィードにデータ追加した📝")
+                # "data"キーの中にある"articles"キーの"data"キーの値を取得
+                print("記事データ取得中...")
+                try:
+                    articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
+                except KeyError as e:
+                    print(f"エラー: JSONデータにキー {e} が見つかりません。JSONデータの構造を確認してください。")
+                    print(f"getURL: {getURL}")
+                    print(f"nuxt_data['data'].keys(): {nuxt_data['data'].keys()}")
+                    articles = []  # articles を空リストに設定
 
-        except Exception as e:
-            print(f"エラー: {e}")
-            print(f"URL: {getURL} の処理中にエラーが発生しました。")
-            import traceback
-            traceback.print_exc()  # スタックトレースを出力
-        finally:
-            if 'browser' in locals():
-                await browser.close()
-                print("ブラウザを閉じた🚪")
+                if not articles:
+                    print("警告: 記事データが空やで❗️")
+                else:
+                    print(f"取得した記事数：{len(articles)} 📚")
+
+                # 12個のデータを取得
+                print("記事データ処理中...")
+                for article in articles[:12]:
+                    title = article['attributes']['title']
+                    date_str = article['attributes']['createdAt']
+                    date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                    url = "https://ledge.ai/articles/" + article['attributes']['slug']
+                    description = re.sub(r'\[.*?\]\(.*?\)', '', article['attributes']['contents'][0]['content'])
+
+                    # XMLのエスケープ処理
+                    title = title.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
+                    description = description.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
+
+                    # アイテムをフィードに追加
+                    feed.add_item(
+                        title=title,
+                        link=url,
+                        description=description,
+                        pubdate=date_obj
+                    )
+                print("RSSフィードにデータ追加した📝")
+
+            except Exception as e:
+                print(f"エラー: {e}")
+                print(f"URL: {getURL} の処理中にエラーが発生しました。")
+                import traceback
+                traceback.print_exc()  # スタックトレースを出力
+
+        await browser.close()
 
     # RSSフィードをファイルに書き出し
     print("RSSフィード書き出し中...")
