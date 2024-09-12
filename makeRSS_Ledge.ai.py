@@ -17,10 +17,9 @@ urls = [
 ]
 
 async def main():
-
     print("RSSフィード生成を開始🚀")
 
-    # RSSフィードの初期化はループの外で行う
+    # RSSフィードの初期化
     feed = Rss201rev2Feed(
         title="Ledge.ai 複数カテゴリ",
         link="https://ledge.ai",
@@ -28,42 +27,49 @@ async def main():
         language="ja",
         pretty=True
     )
-    
+
     for getURL in urls:
-
         print(f"{getURL} にアクセスするよ🌐")
-
-        try:  # try...except ブロックを追加
+        try:
             # Pyppeteerでブラウザを開く
+            print("ブラウザ起動中...")
             browser = await launch(
                 executablePath='/usr/bin/chromium-browser',
                 headless=True,
                 args=[
-                    '--no-sandbox',  # Chromeのサンドボックス機能を無効化
-                    '--disable-setuid-sandbox',  # Chromeのsetuidサンドボックス機能を無効化
-                    '--disable-dev-shm-usage',  # /dev/shmの使用を無効化
-                    '--disable-accelerated-2d-canvas',  # 2Dキャンバスのハードウェアアクセラレーションを無効化
-                    '--disable-gpu'  # GPUの使用を無効化
-                ],
+                    '--no-sandbox',
+                    '--disable-setuid-sandbox',
+                    '--disable-dev-shm-usage',
+                    '--disable-accelerated-2d-canvas',
+                    '--disable-gpu'
+                ]
             )
-
             print("ブラウザ開いた📂")
 
+            # ブラウザの起動を待つ
+            await asyncio.sleep(5)
+
             page = await browser.newPage()
-            await page.goto(getURL, timeout=30000)  # タイムアウトを30秒に設定
+            await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36')
+            print(f"{getURL} ページに移動中...")
+            await page.goto(getURL, timeout=30000)
             print("ページに移動した✈️")
 
             # ページのHTMLを取得
+            print("HTML取得中...")
             html = await page.content()
 
             # BeautifulSoupで解析
+            print("HTML解析中...")
             soup = BeautifulSoup(html, 'html.parser')
 
             # window.__NUXT__の内容を取得してJSONデータをPythonの辞書に変換
+            print("JSONデータ取得中...")
             nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
-            print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")  # JSONデータの一部をログに出力
+            print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")
 
             # "data"キーの中にある"articles"キーの"data"キーの値を取得
+            print("記事データ取得中...")
             try:
                 articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
             except KeyError as e:
@@ -72,22 +78,21 @@ async def main():
                 print(f"nuxt_data['data'].keys(): {nuxt_data['data'].keys()}")
                 continue  # 次のURLに進む
 
-
             if not articles:
-                print("警告: 記事データが空やで❗️")  # 記事データが空かどうかを確認
+                print("警告: 記事データが空やで❗️")
             else:
-                print(f"取得した記事数：{len(articles)} 📚")  # 取得した記事の数をログに出力
+                print(f"取得した記事数：{len(articles)} 📚")
 
-            # 12個のデータを取得 ➡ 1ページに12個の記事あるから。
+            # 12個のデータを取得
+            print("記事データ処理中...")
             for article in articles[:12]:
                 title = article['attributes']['title']
                 date_str = article['attributes']['createdAt']
                 date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
-                date_formatted = date_obj.strftime("%Y/%m/%d %H:%M")
                 url = "https://ledge.ai/articles/" + article['attributes']['slug']
                 description = re.sub(r'\[.*?\]\(.*?\)', '', article['attributes']['contents'][0]['content'])
 
-                # XMLのエスケープ処理を追加
+                # XMLのエスケープ処理
                 title = title.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
                 description = description.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
 
@@ -103,16 +108,17 @@ async def main():
         except Exception as e:
             print(f"エラー: {e}")
             print(f"URL: {getURL} の処理中にエラーが発生しました。")
-        finally:  # finally ブロックを追加
+        finally:
             if 'browser' in locals():
                 await browser.close()
                 print("ブラウザを閉じた🚪")
 
     # RSSフィードをファイルに書き出し
+    print("RSSフィード書き出し中...")
     with open('feed.xml', 'w') as f:
         feed.write(f, 'utf-8')
 
     print("複数カテゴリのRSSフィードが生成されました🎉")
 
 # 非同期関数を実行
-asyncio.run(main())  # asyncio.get_event_loop().run_until_complete(main()) から変更
+asyncio.run(main())
