@@ -64,7 +64,14 @@ async def main():
             print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")  # JSONデータの一部をログに出力
 
             # "data"キーの中にある"articles"キーの"data"キーの値を取得
-            articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
+            try:
+                articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
+            except KeyError as e:
+                print(f"エラー: JSONデータにキー {e} が見つかりません。JSONデータの構造を確認してください。")
+                print(f"getURL: {getURL}")
+                print(f"nuxt_data['data'].keys(): {nuxt_data['data'].keys()}")
+                continue  # 次のURLに進む
+
 
             if not articles:
                 print("警告: 記事データが空やで❗️")  # 記事データが空かどうかを確認
@@ -79,6 +86,10 @@ async def main():
                 date_formatted = date_obj.strftime("%Y/%m/%d %H:%M")
                 url = "https://ledge.ai/articles/" + article['attributes']['slug']
                 description = re.sub(r'\[.*?\]\(.*?\)', '', article['attributes']['contents'][0]['content'])
+
+                # XMLのエスケープ処理を追加
+                title = title.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
+                description = description.replace('&', '&').replace('<', '<').replace('>', '>').replace('"', '"').replace("'", ''')
 
                 # アイテムをフィードに追加
                 feed.add_item(
@@ -104,4 +115,4 @@ async def main():
     print("複数カテゴリのRSSフィードが生成されました🎉")
 
 # 非同期関数を実行
-asyncio.get_event_loop().run_until_complete(main()) 
+asyncio.run(main())  # asyncio.get_event_loop().run_until_complete(main()) から変更
