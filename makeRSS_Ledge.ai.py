@@ -33,60 +33,69 @@ async def main():
 
         print(f"{getURL} にアクセスするよ🌐")
 
-        # Pyppeteerでブラウザを開く
-        browser = await launch(
-            executablePath='/usr/bin/chromium-browser',
-            headless=True,
-            args=[
-                '--no-sandbox',
-                '--disable-setuid-sandbox',
-                '--disable-dev-shm-usage',
-                '--disable-accelerated-2d-canvas',
-                '--disable-gpu'
-            ],
-        )
-
-        print("ブラウザ開いた📂")
-
-        page = await browser.newPage()
-        await page.goto(getURL)
-        print("ページに移動した✈️")
-
-        # ページのHTMLを取得
-        html = await page.content()
-
-        # BeautifulSoupで解析
-        soup = BeautifulSoup(html, 'html.parser')
-
-        # window.__NUXT__の内容を取得してJSONデータをPythonの辞書に変換
-        nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
-        print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")  # JSONデータの一部をログに出力
-
-        # "data"キーの中にある"articles"キーの"data"キーの値を取得
-        articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
-
-        if not articles:
-            print("警告: 記事データが空やで❗️")  # 記事データが空かどうかを確認
-        else:
-            print(f"取得した記事数：{len(articles)} 📚")  # 取得した記事の数をログに出力
-
-        # 12個のデータを取得 ➡ 1ページに12個の記事あるから。
-        for article in articles[:12]:
-            title = article['attributes']['title']
-            date_str = article['attributes']['createdAt']
-            date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
-            date_formatted = date_obj.strftime("%Y/%m/%d %H:%M")
-            url = "https://ledge.ai/articles/" + article['attributes']['slug']
-            description = re.sub(r'\[.*?\]\(.*?\)', '', article['attributes']['contents'][0]['content'])
-
-            # アイテムをフィードに追加
-            feed.add_item(
-                title=title,
-                link=url,
-                description=description,
-                pubdate=date_obj
+        try:  # try...except ブロックを追加
+            # Pyppeteerでブラウザを開く
+            browser = await launch(
+                executablePath='/usr/bin/chromium-browser',
+                headless=True,
+                args=[
+                    '--no-sandbox',  # Chromeのサンドボックス機能を無効化
+                    '--disable-setuid-sandbox',  # Chromeのsetuidサンドボックス機能を無効化
+                    '--disable-dev-shm-usage',  # /dev/shmの使用を無効化
+                    '--disable-accelerated-2d-canvas',  # 2Dキャンバスのハードウェアアクセラレーションを無効化
+                    '--disable-gpu'  # GPUの使用を無効化
+                ],
             )
-        print("RSSフィードにデータ追加した📝")
+
+            print("ブラウザ開いた📂")
+
+            page = await browser.newPage()
+            await page.goto(getURL, timeout=30000)  # タイムアウトを30秒に設定
+            print("ページに移動した✈️")
+
+            # ページのHTMLを取得
+            html = await page.content()
+
+            # BeautifulSoupで解析
+            soup = BeautifulSoup(html, 'html.parser')
+
+            # window.__NUXT__の内容を取得してJSONデータをPythonの辞書に変換
+            nuxt_data = json.loads(await page.evaluate('() => JSON.stringify(window.__NUXT__)'))
+            print(f"JSONデータ取得（一部）：{str(nuxt_data)[:100]}... 📥")  # JSONデータの一部をログに出力
+
+            # "data"キーの中にある"articles"キーの"data"キーの値を取得
+            articles = nuxt_data["data"][f"/categories/{getURL.split('/')[-2]}"]["articles"]["data"]
+
+            if not articles:
+                print("警告: 記事データが空やで❗️")  # 記事データが空かどうかを確認
+            else:
+                print(f"取得した記事数：{len(articles)} 📚")  # 取得した記事の数をログに出力
+
+            # 12個のデータを取得 ➡ 1ページに12個の記事あるから。
+            for article in articles[:12]:
+                title = article['attributes']['title']
+                date_str = article['attributes']['createdAt']
+                date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                date_formatted = date_obj.strftime("%Y/%m/%d %H:%M")
+                url = "https://ledge.ai/articles/" + article['attributes']['slug']
+                description = re.sub(r'\[.*?\]\(.*?\)', '', article['attributes']['contents'][0]['content'])
+
+                # アイテムをフィードに追加
+                feed.add_item(
+                    title=title,
+                    link=url,
+                    description=description,
+                    pubdate=date_obj
+                )
+            print("RSSフィードにデータ追加した📝")
+
+        except Exception as e:
+            print(f"エラー: {e}")
+            print(f"URL: {getURL} の処理中にエラーが発生しました。")
+        finally:  # finally ブロックを追加
+            if 'browser' in locals():
+                await browser.close()
+                print("ブラウザを閉じた🚪")
 
     # RSSフィードをファイルに書き出し
     with open('feed.xml', 'w') as f:
